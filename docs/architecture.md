@@ -101,7 +101,7 @@ always shows the same picture.
 | `lib/data/quiz_generator.dart` | questions made from the data: who said this, what is the lesson, what did the study show, when did it happen |
 | `lib/data/feed_engine.dart` | the endless feed: which card comes next |
 | `lib/app_scope.dart` | `AppData` (everything loaded at startup) in an `InheritedWidget`, inserted by `MaterialApp.builder` above the Navigator so pushed routes see it |
-| `lib/screens/` | Feed (home), Quiz (the feed in quiz mode), Quotes (categories, list with search), Stories (story of the day, categories, list with kind filter and search), Favorites, Me (streak, goal, levels, credits), single quote, single story |
+| `lib/screens/` | Feed (home), Quiz (the feed in quiz mode), Quotes (categories, list with search), Stories (story of the day, categories, list with kind filter and search), Favorites and Me (streak, goal, levels, credits), opened from the star and person buttons at the top (`TopActions`) so the bottom bar has four tabs, single quote, single story |
 | `lib/widgets/` | feed pages (quote, story, quiz) with the action rail, `ArtBackground`, `Confetti`, `QuoteCard`, `StoryCard`, `ItemActions`, quote and story tiles and lists |
 
 ## 4. Feed and rewards

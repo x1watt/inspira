@@ -100,7 +100,7 @@ void main() {
     await tester.pageBack();
     await tester.pumpAndSettle();
 
-    await tester.tap(find.text('Favorites'));
+    await tester.tap(find.byTooltip('Favorites'));
     await tester.pumpAndSettle();
     expect(find.text('A quote about team.'), findsOneWidget);
     expect(find.text('A story about family'), findsOneWidget);

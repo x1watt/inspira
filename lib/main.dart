@@ -8,11 +8,10 @@ import 'data/progress_store.dart';
 import 'data/quote_repository.dart';
 import 'data/story_repository.dart';
 import 'screens/categories_screen.dart';
-import 'screens/favorites_screen.dart';
 import 'screens/feed_screen.dart';
-import 'screens/profile_screen.dart';
 import 'screens/stories_screen.dart';
 import 'theme.dart';
+import 'widgets/top_actions.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
@@ -89,14 +88,19 @@ class _Shell extends StatefulWidget {
 class _ShellState extends State<_Shell> {
   int _tab = 0;
 
-  static const _titles = ['', '', 'Quotes', 'Stories', 'Favorites', 'Me'];
+  static const _titles = ['', '', 'Quotes', 'Stories'];
 
   @override
   Widget build(BuildContext context) {
     // Feed and Quiz are full screen; the other tabs get a normal app bar.
     final fullScreen = _tab <= 1;
     return Scaffold(
-      appBar: fullScreen ? null : AppBar(title: Text(_titles[_tab])),
+      appBar: fullScreen
+          ? null
+          : AppBar(
+              title: Text(_titles[_tab]),
+              actions: const [TopActions(), SizedBox(width: 4)],
+            ),
       body: IndexedStack(
         index: _tab,
         children: [
@@ -104,8 +108,6 @@ class _ShellState extends State<_Shell> {
           FeedScreen(active: _tab == 1, quizOnly: true),
           const CategoriesScreen(),
           const StoriesScreen(),
-          const FavoritesScreen(),
-          const ProfileScreen(),
         ],
       ),
       bottomNavigationBar: NavigationBar(
@@ -129,14 +131,6 @@ class _ShellState extends State<_Shell> {
           NavigationDestination(
             icon: Icon(Icons.auto_stories_outlined),
             label: 'Stories',
-          ),
-          NavigationDestination(
-            icon: Icon(Icons.star_border),
-            label: 'Favorites',
-          ),
-          NavigationDestination(
-            icon: Icon(Icons.local_fire_department_outlined),
-            label: 'Me',
           ),
         ],
       ),

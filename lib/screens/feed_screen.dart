@@ -13,6 +13,7 @@ import '../models/category.dart';
 import '../widgets/confetti.dart';
 import '../theme.dart';
 import '../widgets/feed_pages.dart';
+import '../widgets/top_actions.dart';
 
 /// The home feed: full-screen cards, swipe up for the next one.
 ///
@@ -346,7 +347,7 @@ class _Hud extends StatelessWidget {
         final today = progress.todayXp;
         final done = progress.goalReachedToday;
         return Padding(
-          padding: const EdgeInsets.fromLTRB(16, 8, 16, 0),
+          padding: const EdgeInsets.fromLTRB(10, 8, 8, 0),
           child: Row(
             children: [
               _Pill(
@@ -373,12 +374,22 @@ class _Hud extends StatelessWidget {
               const SizedBox(width: 8),
               if (progress.combo >= 2)
                 _Pill(
-                  child: Text(
-                    'Combo x${progress.combo}',
-                    style: const TextStyle(
-                      color: Colors.amberAccent,
-                      fontWeight: FontWeight.w800,
-                    ),
+                  child: Row(
+                    mainAxisSize: MainAxisSize.min,
+                    children: [
+                      const Icon(
+                        Icons.bolt_rounded,
+                        size: 18,
+                        color: Colors.amberAccent,
+                      ),
+                      Text(
+                        'x${progress.combo}',
+                        style: const TextStyle(
+                          color: Colors.amberAccent,
+                          fontWeight: FontWeight.w800,
+                        ),
+                      ),
+                    ],
                   ),
                 ),
               const Spacer(),
@@ -407,6 +418,8 @@ class _Hud extends StatelessWidget {
                   ],
                 ),
               ),
+              const SizedBox(width: 6),
+              const TopActions(onImage: true),
             ],
           ),
         );
@@ -422,7 +435,7 @@ class _Pill extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) => Container(
-    padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
+    padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
     decoration: BoxDecoration(
       color: Colors.black.withValues(alpha: 0.35),
       borderRadius: BorderRadius.circular(20),

@@ -24,7 +24,7 @@ import 'story_card.dart';
 const _hudHeight = 64.0;
 
 /// Width of the action rail on the right.
-const _railWidth = 72.0;
+const _railWidth = 50.0;
 
 TextStyle? _quoteStyle(BuildContext context, int length) {
   final t = Theme.of(context).textTheme;
@@ -69,6 +69,7 @@ class _FeedFrame extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final credit = art?.credit ?? '';
+    final portrait = MediaQuery.orientationOf(context) == Orientation.portrait;
     return Stack(
       fit: StackFit.expand,
       children: [
@@ -79,10 +80,11 @@ class _FeedFrame extends StatelessWidget {
         ),
         SafeArea(
           child: Padding(
+            // Narrow side margins in portrait, where width is scarce.
             padding: EdgeInsets.fromLTRB(
-              20,
+              portrait ? 8 : 20,
               _hudHeight,
-              rail == null ? 20 : _railWidth,
+              rail == null ? (portrait ? 8 : 20) : _railWidth,
               12,
             ),
             child: Column(
@@ -131,7 +133,7 @@ class _FeedFrame extends StatelessWidget {
                               child: _panel(
                                 c.maxWidth,
                                 Padding(
-                                  padding: const EdgeInsets.all(16),
+                                  padding: const EdgeInsets.all(14),
                                   child: content,
                                 ),
                               ),
@@ -153,7 +155,7 @@ class _FeedFrame extends StatelessWidget {
           ),
         ),
         if (rail != null)
-          Positioned(right: 8, bottom: 28, child: SafeArea(child: rail!)),
+          Positioned(right: 2, bottom: 24, child: SafeArea(child: rail!)),
       ],
     );
   }
@@ -203,15 +205,15 @@ class FeedRail extends StatelessWidget {
             label: '',
             onTap: onPerson,
             child: CircleAvatar(
-              radius: 24,
+              radius: 19,
               backgroundColor: Colors.white,
               child: CircleAvatar(
-                radius: 22,
+                radius: 17.5,
                 backgroundColor: Colors.blueGrey.shade700,
                 foregroundImage: avatar == null ? null : AssetImage(avatar),
                 child: Text(
                   _initials(person!),
-                  style: const TextStyle(color: Colors.white),
+                  style: const TextStyle(color: Colors.white, fontSize: 13),
                 ),
               ),
             ),
@@ -228,7 +230,7 @@ class FeedRail extends StatelessWidget {
               },
               child: Icon(
                 fav ? Icons.favorite : Icons.favorite_border,
-                size: 34,
+                size: 27,
                 color: fav ? Colors.redAccent : Colors.white,
               ),
             );
@@ -243,7 +245,7 @@ class FeedRail extends StatelessWidget {
               ..hideCurrentSnackBar()
               ..showSnackBar(const SnackBar(content: Text('Copied')));
           },
-          child: const Icon(Icons.copy_rounded, size: 30, color: Colors.white),
+          child: const Icon(Icons.copy_rounded, size: 23, color: Colors.white),
         ),
         if (canShare)
           _RailButton(
@@ -251,7 +253,7 @@ class FeedRail extends StatelessWidget {
             onTap: () => SharePlus.instance.share(ShareParams(text: shareText)),
             child: const Icon(
               Icons.reply_rounded,
-              size: 34,
+              size: 27,
               color: Colors.white,
             ),
           ),
@@ -260,7 +262,7 @@ class FeedRail extends StatelessWidget {
           onTap: onDetails,
           child: const Icon(
             Icons.info_outline_rounded,
-            size: 30,
+            size: 24,
             color: Colors.white,
           ),
         ),
@@ -286,10 +288,10 @@ class _RailButton extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Padding(
-      padding: const EdgeInsets.only(bottom: 14),
+      padding: const EdgeInsets.only(bottom: 12),
       child: InkResponse(
         onTap: onTap,
-        radius: 32,
+        radius: 26,
         child: Column(
           children: [
             DecoratedBox(
@@ -305,7 +307,7 @@ class _RailButton extends StatelessWidget {
                   label,
                   style: const TextStyle(
                     color: Colors.white,
-                    fontSize: 11,
+                    fontSize: 10,
                     fontWeight: FontWeight.w600,
                   ),
                 ),
