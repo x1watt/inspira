@@ -9,13 +9,16 @@ import '../data/image_repository.dart';
 import '../data/quiz_generator.dart';
 import '../data/stable_hash.dart';
 import '../models/category.dart';
+import '../models/event.dart';
 import '../models/quote.dart';
 import '../models/story.dart';
 import '../screens/category_screen.dart';
+import '../screens/on_this_day_screen.dart';
 import '../screens/quote_screen.dart';
 import '../screens/story_list_screen.dart';
 import '../screens/story_screen.dart';
 import 'art_background.dart';
+import 'event_details.dart';
 import 'item_actions.dart';
 import 'person_sheet.dart';
 import 'story_card.dart';
@@ -184,6 +187,7 @@ class FeedRail extends StatelessWidget {
     required this.onLike,
     required this.onPerson,
     required this.onDetails,
+    this.onMap,
   });
 
   final String id;
@@ -192,6 +196,9 @@ class FeedRail extends StatelessWidget {
   final VoidCallback onLike;
   final VoidCallback? onPerson;
   final VoidCallback onDetails;
+
+  /// Where it happened; null when there is no place.
+  final VoidCallback? onMap;
 
   @override
   Widget build(BuildContext context) {
@@ -254,6 +261,16 @@ class FeedRail extends StatelessWidget {
             child: const Icon(
               Icons.reply_rounded,
               size: 27,
+              color: Colors.white,
+            ),
+          ),
+        if (onMap != null)
+          _RailButton(
+            label: 'Map',
+            onTap: onMap,
+            child: const Icon(
+              Icons.place_rounded,
+              size: 25,
               color: Colors.white,
             ),
           ),
@@ -547,6 +564,70 @@ class StoryFeedPage extends StatelessWidget {
             ],
           ),
         ],
+      ),
+    );
+  }
+}
+
+/// On this day: an event whose anniversary is today, told in full.
+class EventFeedPage extends StatelessWidget {
+  const EventFeedPage({
+    super.key,
+    required this.event,
+    required this.nowYear,
+    required this.onLike,
+    required this.onOpened,
+    this.onDoubleTap,
+  });
+
+  final HistoryEvent event;
+  final int nowYear;
+  final VoidCallback onLike;
+  final GestureTapDownCallback? onDoubleTap;
+
+  /// Called when the day's list is opened (counts as reading).
+  final VoidCallback onOpened;
+
+  @override
+  Widget build(BuildContext context) {
+    final scope = AppScope.of(context);
+    final category = QuoteCategory.byId(event.category);
+    return _FeedFrame(
+      art: scope.images.artForEvent(event),
+      seed: stableHash(event.id),
+      onDoubleTap: onDoubleTap,
+      rail: FeedRail(
+        id: event.id,
+        person: null,
+        shareText: event.toShareText(),
+        onLike: onLike,
+        onPerson: null,
+        onMap: event.hasPlace ? () => openPlace(context, event) : null,
+        onDetails: () {
+          onOpened();
+          Navigator.of(context).push(
+            MaterialPageRoute(
+              builder: (_) => OnThisDayScreen(
+                month: event.month,
+                day: event.day,
+                highlight: event.id,
+              ),
+            ),
+          );
+        },
+      ),
+      scroll: true,
+      content: EventDetails(
+        event: event,
+        nowYear: nowYear,
+        header: Wrap(
+          spacing: 8,
+          runSpacing: 6,
+          children: [
+            const _Chip(Icons.today_rounded, 'On this day'),
+            _Chip(category.icon, category.label),
+          ],
+        ),
       ),
     );
   }

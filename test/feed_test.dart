@@ -130,7 +130,7 @@ void main() {
           ids.add(quote.id);
         case StoryFeedCard(:final story):
           ids.add(story.id);
-        case QuizFeedCard():
+        case EventFeedCard() || QuizFeedCard():
           break;
       }
     }
@@ -248,6 +248,63 @@ void main() {
         summary: '',
       ).dateLabel,
       '15 March 44 BC',
+    );
+  });
+
+  test('on this day: today\'s events, most important first, once', () {
+    final events = [
+      ..._events(),
+      for (var i = 0; i < 3; i++)
+        HistoryEvent(
+          id: 'event-today-$i',
+          title: 'Today $i',
+          year: 1900 + i,
+          month: 10,
+          day: 14,
+          summary: 'On the day.',
+          weight: 50 + i * 20,
+        ),
+    ];
+    FeedEngine make(bool quizOnly) => FeedEngine(
+      quotes: quotes,
+      stories: stories,
+      progress: progress,
+      quizzes: QuizGenerator(quotes.quotes, stories.stories, events),
+      random: Random(6),
+      quizOnly: quizOnly,
+      events: events,
+      today: DateTime(2026, 10, 14),
+    );
+    final e = make(false);
+    final at = <int, String>{
+      for (var i = 0; i < 80; i++)
+        if (e.cardAt(i) case EventFeedCard(:final event)) i: event.id,
+    };
+    expect(at.values, ['event-today-2', 'event-today-1', 'event-today-0']);
+    final pos = at.keys.toList();
+    expect(pos.first, 1);
+    for (var i = 1; i < pos.length; i++) {
+      expect(pos[i] - pos[i - 1], inInclusiveRange(10, 16));
+    }
+    // Seen ones do not come back; the quiz tab has none.
+    progress.markSeen('event-today-2');
+    final again = make(false);
+    expect((again.cardAt(1) as EventFeedCard).event.id, 'event-today-1');
+    final quiz = make(true);
+    expect(
+      [for (var i = 0; i < 30; i++) quiz.cardAt(i)].whereType<EventFeedCard>(),
+      isEmpty,
+    );
+    expect(
+      const HistoryEvent(
+        id: 'x',
+        title: 'x',
+        year: -44,
+        month: 3,
+        day: 15,
+        summary: '',
+      ).yearsAgo(2026),
+      2069,
     );
   });
 

@@ -121,6 +121,7 @@ class _FeedScreenState extends State<FeedScreen> {
   String? _idOf(FeedCard card) => switch (card) {
     QuoteFeedCard(:final quote) => quote.id,
     StoryFeedCard(:final story) => story.id,
+    EventFeedCard(:final event) => event.id,
     QuizFeedCard() => null,
   };
 
@@ -139,6 +140,7 @@ class _FeedScreenState extends State<FeedScreen> {
     final art = switch (_engine!.cardAt(index)) {
       QuoteFeedCard(:final quote) => scope.images.artForQuote(quote),
       StoryFeedCard(:final story) => scope.images.artForStory(story),
+      EventFeedCard(:final event) => scope.images.artForEvent(event),
       QuizFeedCard() => null,
     };
     if (art != null) {
@@ -154,7 +156,8 @@ class _FeedScreenState extends State<FeedScreen> {
     final dwell = _now().difference(shown);
     final card = _engine!.cardAt(index);
     if (card is QuizFeedCard) return;
-    final story = card is StoryFeedCard;
+    // Events are read like stories: longer text, more XP.
+    final story = card is StoryFeedCard || card is EventFeedCard;
     final read =
         dwell >= (story ? _storyDwell : _quoteDwell) || _opened.contains(index);
     if (read) {
@@ -261,6 +264,13 @@ class _FeedScreenState extends State<FeedScreen> {
       ),
       StoryFeedCard(:final story) => StoryFeedPage(
         story: story,
+        onLike: () => _like(card),
+        onOpened: () => _opened.add(index),
+        onDoubleTap: _onDoubleTap,
+      ),
+      EventFeedCard(:final event) => EventFeedPage(
+        event: event,
+        nowYear: _now().year,
         onLike: () => _like(card),
         onOpened: () => _opened.add(index),
         onDoubleTap: _onDoubleTap,

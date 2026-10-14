@@ -118,14 +118,14 @@ always shows the same picture.
 | `lib/data/quote_repository.dart` | loads the quote bundle, indexes by category, quote of the day, search |
 | `lib/data/event_repository.dart` | loads the event bundle, events on a calendar day ranked by weight |
 | `lib/data/story_repository.dart` | loads the story bundle, story of the day, filter by category, kind and words |
-| `lib/data/favorites_store.dart` | favorite quote and story ids in `shared_preferences` |
+| `lib/data/favorites_store.dart` | favorite quote, story and event ids in `shared_preferences` |
 | `lib/data/image_repository.dart` | portraits, Wikipedia links and background art from `assets/images.json` |
 | `lib/data/progress_store.dart` | XP, levels, daily goal, streak and freezes, quiz review boxes, feed affinity, seen and read ids; one JSON value in `shared_preferences` |
 | `lib/data/quiz_generator.dart` | questions made from the data: who said this, what is the lesson, what did the study show, when did it happen, what happened on this day |
 | `lib/data/feed_engine.dart` | the endless feed: which card comes next |
 | `lib/app_scope.dart` | `AppData` (everything loaded at startup) in an `InheritedWidget`, inserted by `MaterialApp.builder` above the Navigator so pushed routes see it |
-| `lib/screens/` | Feed (home), Quiz (the feed in quiz mode), Quotes (categories, list with search), Stories (story of the day, categories, list with kind filter and search), Favorites and Me (streak, goal, levels, credits), opened from the star and person buttons at the top (`TopActions`) so the bottom bar has four tabs, single quote, single story |
-| `lib/widgets/` | feed pages (quote, story, quiz) with the action rail, `ArtBackground`, `Confetti`, `QuoteCard`, `StoryCard`, `ItemActions`, quote and story tiles and lists |
+| `lib/screens/` | Feed (home), Quiz (the feed in quiz mode), Quotes (categories, list with search), Stories (story of the day, categories, list with kind filter and search), On this day (events of a calendar day, ranked by weight, with Wikipedia and map links; arrows and a calendar change the day), Favorites and Me (streak, goal, levels, credits), opened from the calendar, star and person buttons at the top (`TopActions`) so the bottom bar has four tabs, single quote, single story |
+| `lib/widgets/` | feed pages (quote, story, event, quiz), `EventDetails` (shared by the event card and On this day) with the action rail, `ArtBackground`, `Confetti`, `QuoteCard`, `StoryCard`, `ItemActions`, quote and story tiles and lists |
 
 ## 4. Feed and rewards
 
@@ -136,6 +136,13 @@ the next card; `FeedScreen` measures reading time and hands out XP.
   two new users) start the same way.
 - Story cards show the whole text and the lesson; there is no teaser that
   asks for a click.
+- On this day: the second card is the most important event (by weight)
+  on today's date that the user has not seen yet, then another one every
+  10 to 16 cards until today's are used up. Seen events do not come back,
+  so a second visit the same day shows the next ones. Not in the Quiz tab.
+  An event card is read like a story (12 s or opened: 5 XP); its rail has
+  a Map button (a `geo:` link on Android, OpenStreetMap elsewhere) and
+  More opens On this day at that event.
 - Kind (quote 45, story 20, history 20, study 15 percent) and category are
   drawn by those base shares times the user's affinity weights times a
   session boost. 20 percent of category picks ignore the weights, so new

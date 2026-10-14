@@ -15,7 +15,7 @@ sealed class FeedCard {
 
   String get category;
 
-  /// `quote`, `story`, `history`, `study` or `quiz`.
+  /// `quote`, `story`, `history`, `study`, `event` or `quiz`.
   String get kind;
 }
 
@@ -36,6 +36,16 @@ class StoryFeedCard extends FeedCard {
   String get category => story.category;
   @override
   String get kind => story.kind.id;
+}
+
+/// "On this day": a dated event whose anniversary is today.
+class EventFeedCard extends FeedCard {
+  const EventFeedCard(this.event);
+  final HistoryEvent event;
+  @override
+  String get category => event.category;
+  @override
+  String get kind => 'event';
 }
 
 class QuizFeedCard extends FeedCard {
@@ -60,6 +70,9 @@ class QuizFeedCard extends FeedCard {
 ///   yet, so a like shows up in the very next card.
 /// - Unseen items come first; each (kind, category) has its own shuffled
 ///   queue, so picking a card costs O(categories), not O(items).
+/// - On this day: the second card is the most important event on today's
+///   date that the user has not seen, then another one every 10 to 16
+///   cards until today's are used up.
 /// - A quiz comes every 3 to 8 cards (an unpredictable gap keeps it a small
 ///   surprise), first from reviews that are due, else from a card seen
 ///   earlier in this session or before. With [quizOnly] every card is one.
@@ -79,6 +92,16 @@ class FeedEngine {
        _liked = liked ?? (() => const []),
        _today = today ?? DateTime.now() {
     _untilQuiz = _quizGap();
+    _untilEvent = 1;
+    if (!quizOnly) {
+      _todayEvents = [
+        for (final e in events)
+          if (e.month == _today.month &&
+              e.day == _today.day &&
+              !progress.seen.contains(e.id))
+            e,
+      ]..sort((a, b) => b.weight.compareTo(a.weight));
+    }
     var sum = 0;
     for (final e in events) {
       _eventTotals.add(sum += e.weight);
@@ -123,21 +146,31 @@ class FeedEngine {
   final DateTime _today;
   final _cards = <FeedCard>[];
 
-  /// Cards left until the next quiz, after each card; restored by [steer]
-  /// so replanning keeps the quiz rhythm.
-  final _untilQuizAfter = <int>[];
+  /// Today's anniversaries not seen yet, most important first.
+  var _todayEvents = const <HistoryEvent>[];
+  int _eventPos = 0;
+
+  /// Planning state after each card; restored by [steer] so replanning
+  /// keeps the quiz and event rhythm.
+  final _stateAfter = <({int quiz, int event, int eventPos})>[];
   final _queues = <String, _Queue>{};
   final _sessionSeen = <String>[];
   final _quizzed = <String>{};
   final _boost = <String, double>{};
   late int _untilQuiz;
+  late int _untilEvent;
 
   int _quizGap() => 3 + _random.nextInt(6);
+  int _eventGap() => 10 + _random.nextInt(7);
 
   FeedCard cardAt(int index) {
     while (_cards.length <= index) {
       _cards.add(_next());
-      _untilQuizAfter.add(_untilQuiz);
+      _stateAfter.add((
+        quiz: _untilQuiz,
+        event: _untilEvent,
+        eventPos: _eventPos,
+      ));
     }
     return _cards[index];
   }
@@ -158,11 +191,16 @@ class FeedEngine {
           _sessionSeen.remove(quote.id);
         case StoryFeedCard(:final story):
           _sessionSeen.remove(story.id);
+        case EventFeedCard():
+          break;
       }
     }
     _cards.length = keep + 1;
-    _untilQuizAfter.length = keep + 1;
-    _untilQuiz = _untilQuizAfter[keep];
+    _stateAfter.length = keep + 1;
+    final state = _stateAfter[keep];
+    _untilQuiz = state.quiz;
+    _untilEvent = state.event;
+    _eventPos = state.eventPos;
   }
 
   double _weight(String key) => progress.weight(key) * (_boost[key] ?? 1);
@@ -179,6 +217,10 @@ class FeedEngine {
       }
     }
     _boost.updateAll((_, b) => 1 + (b - 1) * _boostDecay);
+    if (_eventPos < _todayEvents.length && --_untilEvent <= 0) {
+      _untilEvent = _eventGap();
+      return EventFeedCard(_todayEvents[_eventPos++]);
+    }
     if (--_untilQuiz <= 0) {
       _untilQuiz = _quizGap();
       final quiz = _nextQuiz();
@@ -196,7 +238,7 @@ class FeedEngine {
     _sessionSeen.add(switch (card) {
       QuoteFeedCard(:final quote) => quote.id,
       StoryFeedCard(:final story) => story.id,
-      QuizFeedCard() => '',
+      EventFeedCard() || QuizFeedCard() => '',
     });
     return card;
   }

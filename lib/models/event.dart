@@ -95,6 +95,21 @@ class HistoryEvent {
   String get dateLabel =>
       '$day ${months[month - 1]} ${year < 0 ? '${-year} BC' : '$year'}';
 
+  /// `20 July`, for headings of a calendar day.
+  static String dayLabel(int month, int day) => '$day ${months[month - 1]}';
+
+  /// Whole years between this event and [nowYear]; there is no year 0.
+  int yearsAgo(int nowYear) => nowYear - year - (year < 0 ? 1 : 0);
+
+  bool get hasPlace => lat != null && lon != null;
+
+  /// Plain text for copy and share.
+  String toShareText() => [
+    '$dateLabel: $title',
+    summary,
+    if (wikipediaUrl.isNotEmpty) wikipediaUrl,
+  ].join('\n\n');
+
   /// One of the five app categories, for XP: from the first tag.
   String get category => switch (tags.isEmpty ? '' : tags.first) {
     'war' => 'strategy',

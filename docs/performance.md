@@ -27,7 +27,9 @@ method next to each number.
    and not awaited by the UI.
 7. Feed pictures: one `Image.asset` per visible page (max 720 px wide, so
    no extra decode size is needed) and `precacheImage` for the next two
-   pages only. Avatars are 256 px.
+   pages only. Avatars are 256 px. On this day builds its cards with
+   `ListView.builder` (at most about a dozen per day); each card's banner
+   is the same 720 px art, so it shares the image cache with the feed.
 8. Picking the next feed card costs O(kinds + categories): each (kind,
    category) has its own queue, shuffled once on first use. Replanning
    after a like or skip drops at most the two cards planned ahead. A quiz
