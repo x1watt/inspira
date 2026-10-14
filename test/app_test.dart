@@ -66,7 +66,7 @@ void main() {
       ),
     );
     await tester.pumpAndSettle();
-    expect(find.text('Quote of the day'), findsOneWidget);
+    expect(find.byType(PageView), findsOneWidget);
     expect(find.text('0 / 50 XP'), findsOneWidget);
 
     await tester.tap(find.text('Quotes'));

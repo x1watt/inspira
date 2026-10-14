@@ -47,6 +47,13 @@ class _FeedScreenState extends State<FeedScreen> {
   final _focus = FocusNode(debugLabel: 'feed');
   FeedEngine? _engine;
   int _index = 0;
+
+  /// Furthest page shown; cards up to here are never replanned.
+  int _furthest = 0;
+
+  /// Overscroll gathered at the end of a story's text, see [_onInnerScroll].
+  double _pull = 0;
+  bool _handedOff = false;
   DateTime? _shownAt;
   final _rewarded = <int>{};
   final _opened = <int>{};
@@ -101,6 +108,7 @@ class _FeedScreenState extends State<FeedScreen> {
 
   void _show(int index) {
     _index = index;
+    _furthest = max(_furthest, index);
     final card = _engine!.cardAt(index);
     if (_idOf(card) case final id?) _progress.markSeen(id);
     _shownAt = _now();
@@ -133,15 +141,18 @@ class _FeedScreenState extends State<FeedScreen> {
         dwell >= (story ? _storyDwell : _quoteDwell) || _opened.contains(index);
     if (read) {
       _progress.nudge(card.category, card.kind, 0.1);
+      _engine!.steer(card, 1.3, keep: _furthest);
       if (_rewarded.add(index)) {
         _award(story ? _storyReadXp : _quoteReadXp, card.category);
       }
     } else if (dwell < _quickSkip) {
       _progress.nudge(card.category, card.kind, -0.05);
+      _engine!.steer(card, 0.7, keep: _furthest);
     }
   }
 
   void _onPageChanged(int index) {
+    _furthest = max(_furthest, index);
     _settle(_index);
     _show(index);
     setState(() {});
@@ -174,7 +185,34 @@ class _FeedScreenState extends State<FeedScreen> {
     if (milestones.isNotEmpty) HapticFeedback.heavyImpact();
   }
 
-  void _like(FeedCard card) => _progress.nudge(card.category, card.kind, 0.3);
+  /// A like counts for good (affinity) and right now: the next cards
+  /// lean to the same category and kind.
+  void _like(FeedCard card) {
+    _progress.nudge(card.category, card.kind, 0.5);
+    _engine!.steer(card, 4, keep: _furthest);
+    _precache(_index + 1);
+    _precache(_index + 2);
+  }
+
+  /// A story that scrolls inside its card hands the drag back to the feed
+  /// when pulled past its end (next card) or its top (previous card).
+  bool _onInnerScroll(ScrollNotification n) {
+    if (n.depth == 0) return false;
+    if (n is OverscrollNotification && n.dragDetails != null) {
+      _pull += n.overscroll;
+      if (!_handedOff && _pull.abs() > 48) {
+        _handedOff = true;
+        const step = Duration(milliseconds: 300);
+        _pull > 0
+            ? _pages.nextPage(duration: step, curve: Curves.easeOut)
+            : _pages.previousPage(duration: step, curve: Curves.easeOut);
+      }
+    } else if (n is ScrollEndNotification || n is ScrollStartNotification) {
+      _pull = 0;
+      _handedOff = false;
+    }
+    return false;
+  }
 
   void _onDoubleTap(TapDownDetails d) {
     final card = _engine!.cardAt(_index);
@@ -242,11 +280,14 @@ class _FeedScreenState extends State<FeedScreen> {
                     focusNode: _focus,
                     autofocus: true,
                     onKeyEvent: _onKey,
-                    child: PageView.builder(
-                      controller: _pages,
-                      scrollDirection: Axis.vertical,
-                      onPageChanged: _onPageChanged,
-                      itemBuilder: (context, i) => _page(i),
+                    child: NotificationListener<ScrollNotification>(
+                      onNotification: _onInnerScroll,
+                      child: PageView.builder(
+                        controller: _pages,
+                        scrollDirection: Axis.vertical,
+                        onPageChanged: _onPageChanged,
+                        itemBuilder: (context, i) => _page(i),
+                      ),
                     ),
                   ),
                 ),

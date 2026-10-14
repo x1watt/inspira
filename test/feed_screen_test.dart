@@ -10,6 +10,7 @@ import 'package:inspira/data/image_repository.dart';
 import 'package:inspira/data/progress_store.dart';
 import 'package:inspira/data/quote_repository.dart';
 import 'package:inspira/data/story_repository.dart';
+import 'package:inspira/models/story.dart';
 import 'package:inspira/screens/feed_screen.dart';
 import 'package:shared_preferences_platform_interface/in_memory_shared_preferences_async.dart';
 import 'package:shared_preferences_platform_interface/shared_preferences_async_platform_interface.dart';
@@ -61,7 +62,7 @@ void main() {
       ),
     );
     await tester.pumpAndSettle();
-    expect(find.text('Quote of the day'), findsOneWidget);
+    expect(find.byType(PageView), findsOneWidget);
 
     Future<void> next() async {
       now = now.add(const Duration(seconds: 5));
@@ -107,5 +108,62 @@ void main() {
     expect(data.progress.todayXp, before + 10);
     expect(find.textContaining('Correct!'), findsOneWidget);
     expect(FeedEngine.kinds, contains('quote'));
+  });
+
+  testWidgets('a long story scrolls, then hands the drag to the feed', (
+    tester,
+  ) async {
+    SharedPreferencesAsyncPlatform.instance =
+        InMemorySharedPreferencesAsync.empty();
+    final long = List.filled(
+      12,
+      'A sentence that goes on for a while.',
+    ).join(' ');
+    final stories = StoryRepository([
+      for (final c in ['relations', 'leadership', 'team', 'family', 'strategy'])
+        for (var i = 0; i < 4; i++)
+          Story.fromJson({
+            'id': 'story-$c-$i',
+            'category': c,
+            'kind': 'history',
+            'title': 'Story $i about $c',
+            'text': List.filled(3, long).join('\n\n'),
+            'lesson': 'Lesson $i.',
+            'source': 'Source',
+            'basis': 'documented',
+          }),
+    ]);
+    final data = AppData(
+      quotes: QuoteRepository(const []),
+      stories: stories,
+      favorites: await FavoritesStore.load(),
+      images: ImageRepository.empty(),
+      progress: await ProgressStore.load(),
+    );
+    await tester.pumpWidget(
+      MaterialApp(
+        home: AppScope(
+          data: data,
+          child: Scaffold(body: FeedScreen(random: Random(4))),
+        ),
+      ),
+    );
+    await tester.pumpAndSettle();
+    final first = find.textContaining('Story ').evaluate().first.widget;
+    final title = (first as Text).data!;
+
+    // The first drag scrolls the text; the card stays.
+    // A point on the text panel (left of the action rail).
+    final at = tester.getCenter(find.byType(PageView)) + const Offset(-60, 120);
+    await tester.dragFrom(at, const Offset(0, -150));
+    await tester.pumpAndSettle();
+    expect(find.text(title), findsOneWidget);
+
+    // Pulling past the end turns the page.
+    for (var i = 0; i < 6 && find.text(title).evaluate().isNotEmpty; i++) {
+      await tester.dragFrom(at, const Offset(0, -400));
+      await tester.pumpAndSettle();
+    }
+    expect(find.text(title), findsNothing);
   });
 }

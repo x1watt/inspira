@@ -69,7 +69,6 @@ void main() {
     progress: progress,
     quizzes: quizzes,
     random: Random(seed),
-    today: DateTime(2026, 10, 1),
   );
 
   test('quiz questions contain the right answer once', () {
@@ -88,9 +87,13 @@ void main() {
     expect(who.options[who.answer], 'Author 3');
   });
 
-  test('starts with the quote of the day and quizzes every 4 to 7 cards', () {
+  test('starts with a random story and quizzes every 4 to 7 cards', () {
+    final openers = {
+      for (var seed = 0; seed < 20; seed++)
+        (engine(seed).cardAt(0) as StoryFeedCard).story.id,
+    };
+    expect(openers.length, greaterThan(5));
     final e = engine(7);
-    expect((e.cardAt(0) as QuoteFeedCard).header, 'Quote of the day');
     final quizAt = [
       for (var i = 0; i < 120; i++)
         if (e.cardAt(i) is QuizFeedCard) i,
@@ -128,6 +131,27 @@ void main() {
     }
     final after = countTeam(engine(11));
     expect(after, greaterThan(before * 1.5));
+  });
+
+  test('a like steers the very next cards', () {
+    double share(double factor) {
+      var same = 0, total = 0;
+      for (var seed = 0; seed < 40; seed++) {
+        final e = engine(seed);
+        final liked = e.cardAt(0);
+        e.cardAt(6); // planned ahead, then replanned by the like
+        e.steer(liked, factor, keep: 0);
+        for (var i = 1; i < 6; i++) {
+          final c = e.cardAt(i);
+          if (c is QuizFeedCard) continue;
+          total++;
+          if (c.category == liked.category) same++;
+        }
+      }
+      return same / total;
+    }
+
+    expect(share(4), greaterThan(share(1) * 1.6));
   });
 
   test('wrong answers come back as reviews', () {

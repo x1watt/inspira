@@ -51,8 +51,12 @@ class QuizFeedCard extends FeedCard {
 
 /// Builds the endless feed one card at a time.
 ///
-/// - Kind and category are drawn by the user's affinity weights, with 20
-///   percent pure exploration so new topics keep appearing.
+/// - The first card is a random story, history or study, so every visit
+///   (and every new user) starts somewhere different.
+/// - Kind and category are drawn by the user's affinity weights times a
+///   session boost, with 20 percent pure exploration so new topics keep
+///   appearing. [steer] changes the boost and replans the cards not shown
+///   yet, so a like shows up in the very next card.
 /// - Unseen items come first; each (kind, category) has its own shuffled
 ///   queue, so picking a card costs O(categories), not O(items).
 /// - A quiz comes every 4 to 7 cards (an unpredictable gap keeps it a small
@@ -65,12 +69,7 @@ class FeedEngine {
     required this.progress,
     required this.quizzes,
     Random? random,
-    DateTime? today,
   }) : _random = random ?? Random() {
-    final first = quotes.quoteOfDay(today ?? DateTime.now());
-    if (first != null) {
-      _cards.add(QuoteFeedCard(first, header: 'Quote of the day'));
-    }
     _untilQuiz = _quizGap();
   }
 
@@ -84,6 +83,10 @@ class FeedEngine {
     'study': 0.15,
   };
   static const _explore = 0.2;
+  static const _openers = ['story', 'history', 'study'];
+
+  /// How fast a session boost fades back to 1 with each new card.
+  static const _boostDecay = 0.9;
 
   final ProgressStore progress;
   final QuizGenerator quizzes;
@@ -91,9 +94,14 @@ class FeedEngine {
   final StoryRepository stories;
   final Random _random;
   final _cards = <FeedCard>[];
+
+  /// Cards left until the next quiz, after each card; restored by [steer]
+  /// so replanning keeps the quiz rhythm.
+  final _untilQuizAfter = <int>[];
   final _queues = <String, _Queue>{};
   final _sessionSeen = <String>[];
   final _quizzed = <String>{};
+  final _boost = <String, double>{};
   late int _untilQuiz;
 
   int _quizGap() => 4 + _random.nextInt(4);
@@ -101,11 +109,45 @@ class FeedEngine {
   FeedCard cardAt(int index) {
     while (_cards.length <= index) {
       _cards.add(_next());
+      _untilQuizAfter.add(_untilQuiz);
     }
     return _cards[index];
   }
 
+  /// Multiplies the session boost of [card]'s category and kind by
+  /// [factor] (above 1: more like it, below 1: less) and drops the cards
+  /// after [keep] that were planned but not shown yet.
+  void steer(FeedCard card, double factor, {required int keep}) {
+    for (final k in [card.category, card.kind]) {
+      _boost[k] = ((_boost[k] ?? 1) * factor).clamp(0.25, 8.0);
+    }
+    if (_cards.length <= keep + 1) return;
+    for (final dropped in _cards.sublist(keep + 1)) {
+      switch (dropped) {
+        case QuizFeedCard(:final quiz):
+          _quizzed.remove(quiz.itemId);
+        case QuoteFeedCard(:final quote):
+          _sessionSeen.remove(quote.id);
+        case StoryFeedCard(:final story):
+          _sessionSeen.remove(story.id);
+      }
+    }
+    _cards.length = keep + 1;
+    _untilQuizAfter.length = keep + 1;
+    _untilQuiz = _untilQuizAfter[keep];
+  }
+
+  double _weight(String key) => progress.weight(key) * (_boost[key] ?? 1);
+
   FeedCard _next() {
+    if (_cards.isEmpty) {
+      for (var tries = 0; tries < 8; tries++) {
+        final kind = _openers[_random.nextInt(_openers.length)];
+        final card = _content(kind, _pickCategory());
+        if (card != null) return _shown(card);
+      }
+    }
+    _boost.updateAll((_, b) => 1 + (b - 1) * _boostDecay);
     if (--_untilQuiz <= 0) {
       _untilQuiz = _quizGap();
       final quiz = _nextQuiz();
@@ -113,18 +155,19 @@ class FeedEngine {
     }
     for (var tries = 0; tries < 8; tries++) {
       final card = _content(_pickKind(), _pickCategory());
-      if (card != null) {
-        final id = switch (card) {
-          QuoteFeedCard(:final quote) => quote.id,
-          StoryFeedCard(:final story) => story.id,
-          QuizFeedCard() => '',
-        };
-        _sessionSeen.add(id);
-        return card;
-      }
+      if (card != null) return _shown(card);
     }
     // Only reachable with an empty collection.
     return _cards.isNotEmpty ? _cards.first : throw StateError('No content');
+  }
+
+  FeedCard _shown(FeedCard card) {
+    _sessionSeen.add(switch (card) {
+      QuoteFeedCard(:final quote) => quote.id,
+      StoryFeedCard(:final story) => story.id,
+      QuizFeedCard() => '',
+    });
+    return card;
   }
 
   QuizFeedCard? _nextQuiz() {
@@ -151,12 +194,12 @@ class FeedEngine {
 
   String _pickKind() => _weighted(
     kinds,
-    (k) => _kindBase[k]! * progress.weight(k),
+    (k) => _kindBase[k]! * _weight(k),
     exploreUniform: false,
   );
 
   String _pickCategory() =>
-      _weighted([for (final c in QuoteCategory.all) c.id], progress.weight);
+      _weighted([for (final c in QuoteCategory.all) c.id], _weight);
 
   String _weighted(
     List<String> keys,

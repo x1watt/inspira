@@ -1,3 +1,5 @@
+import 'dart:math';
+
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:share_plus/share_plus.dart';
@@ -49,12 +51,17 @@ class _FeedFrame extends StatelessWidget {
     required this.content,
     this.rail,
     this.onDoubleTap,
+    this.scroll = false,
   });
 
   final ArtImage? art;
   final int seed;
   final Widget content;
   final Widget? rail;
+
+  /// Long content (a full story) scrolls inside its panel instead of
+  /// shrinking; the feed turns the page when it is pulled past either end.
+  final bool scroll;
 
   /// Double tap on the picture (not on buttons) likes the card.
   final GestureTapDownCallback? onDoubleTap;
@@ -81,31 +88,54 @@ class _FeedFrame extends StatelessWidget {
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                // Content sits at the bottom and shrinks to fit instead of
-                // scrolling, so a vertical drag always reaches the feed.
+                // Content sits at the bottom. Short content shrinks to fit
+                // instead of scrolling, so a vertical drag always reaches
+                // the feed; long content scrolls only when it overflows.
                 Expanded(
                   child: LayoutBuilder(
                     builder: (context, c) => Align(
                       alignment: Alignment.bottomLeft,
-                      child: FittedBox(
-                        fit: BoxFit.scaleDown,
-                        alignment: Alignment.bottomLeft,
-                        child: SizedBox(
-                          width: c.maxWidth,
-                          // Dimmed panel: the picture stays visible around
-                          // and through it, the text stays readable.
-                          child: DecoratedBox(
-                            decoration: BoxDecoration(
-                              color: Colors.black.withValues(alpha: 0.72),
-                              borderRadius: BorderRadius.circular(18),
+                      child: scroll
+                          ? _panel(
+                              c.maxWidth,
+                              // The bottom edge fades out, a hint that
+                              // the text goes on.
+                              ShaderMask(
+                                blendMode: BlendMode.dstIn,
+                                shaderCallback: (r) => LinearGradient(
+                                  begin: Alignment.topCenter,
+                                  end: Alignment.bottomCenter,
+                                  colors: const [
+                                    Colors.white,
+                                    Colors.transparent,
+                                  ],
+                                  stops: [1 - 28 / max(r.height, 56), 1],
+                                ).createShader(r),
+                                child: SingleChildScrollView(
+                                  // Clamping: overscroll at the ends is
+                                  // what turns the page (FeedScreen).
+                                  physics: const ClampingScrollPhysics(),
+                                  padding: const EdgeInsets.fromLTRB(
+                                    16,
+                                    16,
+                                    16,
+                                    28,
+                                  ),
+                                  child: content,
+                                ),
+                              ),
+                            )
+                          : FittedBox(
+                              fit: BoxFit.scaleDown,
+                              alignment: Alignment.bottomLeft,
+                              child: _panel(
+                                c.maxWidth,
+                                Padding(
+                                  padding: const EdgeInsets.all(16),
+                                  child: content,
+                                ),
+                              ),
                             ),
-                            child: Padding(
-                              padding: const EdgeInsets.all(16),
-                              child: content,
-                            ),
-                          ),
-                        ),
-                      ),
                     ),
                   ),
                 ),
@@ -128,6 +158,19 @@ class _FeedFrame extends StatelessWidget {
     );
   }
 }
+
+/// Dimmed panel: the picture stays visible around and through it, the text
+/// stays readable.
+Widget _panel(double width, Widget child) => SizedBox(
+  width: width,
+  child: ClipRRect(
+    borderRadius: BorderRadius.circular(18),
+    child: ColoredBox(
+      color: Colors.black.withValues(alpha: 0.72),
+      child: child,
+    ),
+  ),
+);
 
 /// The TikTok style column of actions: who, like, copy, share, details.
 class FeedRail extends StatelessWidget {
@@ -389,39 +432,26 @@ class StoryFeedPage extends StatelessWidget {
     this.onDoubleTap,
   });
 
+  static const _body = TextStyle(
+    color: Colors.white,
+    fontSize: 16.5,
+    height: 1.5,
+  );
+
   final Story story;
   final VoidCallback onLike;
   final GestureTapDownCallback? onDoubleTap;
 
-  /// Called when the full story is opened (counts as real reading).
+  /// Called when the story's detail page is opened (counts as reading).
   final VoidCallback onOpened;
 
   static IconData _kindIcon(StoryKind k) => storyKindIcon(k);
-
-  void _openFull(BuildContext context) {
-    onOpened();
-    showModalBottomSheet<void>(
-      context: context,
-      isScrollControlled: true,
-      useSafeArea: true,
-      builder: (_) => DraggableScrollableSheet(
-        expand: false,
-        initialChildSize: 0.85,
-        maxChildSize: 0.95,
-        builder: (context, controller) => SingleChildScrollView(
-          controller: controller,
-          padding: const EdgeInsets.all(12),
-          child: StoryCard(story: story),
-        ),
-      ),
-    );
-  }
 
   @override
   Widget build(BuildContext context) {
     final scope = AppScope.of(context);
     final category = QuoteCategory.byId(story.category);
-    final firstParagraph = story.text.split('\n\n').first;
+    final paragraphs = story.text.split('\n\n');
     final person = story.people.isEmpty
         ? null
         : story.people.split(',').first.split(' and ').first.trim();
@@ -448,9 +478,14 @@ class StoryFeedPage extends StatelessWidget {
                   ),
                 ),
               ),
-        onDetails: () => Navigator.of(context)
-            .push(MaterialPageRoute(builder: (_) => StoryScreen(story: story))),
+        onDetails: () {
+          onOpened();
+          Navigator.of(
+            context,
+          ).push(MaterialPageRoute(builder: (_) => StoryScreen(story: story)));
+        },
       ),
+      scroll: true,
       content: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         mainAxisSize: MainAxisSize.min,
@@ -483,47 +518,31 @@ class StoryFeedPage extends StatelessWidget {
               ),
             ),
           const SizedBox(height: 12),
-          Text(
-            firstParagraph,
-            maxLines: 7,
-            overflow: TextOverflow.ellipsis,
-            style: const TextStyle(
-              color: Colors.white,
-              fontSize: 16.5,
-              height: 1.45,
-            ),
-          ),
-          const SizedBox(height: 12),
-          Container(
-            padding: const EdgeInsets.all(12),
-            decoration: BoxDecoration(
-              color: Colors.amber.withValues(alpha: 0.18),
-              border: Border.all(color: Colors.amber.withValues(alpha: 0.6)),
-              borderRadius: BorderRadius.circular(12),
-            ),
-            child: Row(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                const Icon(Icons.lightbulb, color: Colors.amber, size: 20),
-                const SizedBox(width: 8),
-                Expanded(
-                  child: Text(
-                    story.lesson,
-                    style: const TextStyle(
-                      color: Colors.white,
-                      fontSize: 15.5,
-                      fontWeight: FontWeight.w600,
-                    ),
+          // The whole story, right on the card.
+          for (final p in paragraphs) ...[
+            Text(p, style: _body),
+            const SizedBox(height: 12),
+          ],
+          Row(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              const Padding(
+                padding: EdgeInsets.only(top: 2),
+                child: Icon(Icons.lightbulb, color: Colors.amber, size: 18),
+              ),
+              const SizedBox(width: 8),
+              Expanded(
+                child: Text(
+                  story.lesson,
+                  style: const TextStyle(
+                    color: Colors.amberAccent,
+                    fontSize: 15,
+                    fontStyle: FontStyle.italic,
+                    height: 1.4,
                   ),
                 ),
-              ],
-            ),
-          ),
-          const SizedBox(height: 10),
-          FilledButton.tonalIcon(
-            onPressed: () => _openFull(context),
-            icon: const Icon(Icons.menu_book_rounded),
-            label: const Text('Read the full story'),
+              ),
+            ],
           ),
         ],
       ),

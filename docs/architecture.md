@@ -109,17 +109,26 @@ always shows the same picture.
 The feed is a vertical `PageView` of full-screen cards. `FeedEngine` decides
 the next card; `FeedScreen` measures reading time and hands out XP.
 
-- First card of the day: the quote of the day.
+- First card: a random story, history or study, so no two visits (and no
+  two new users) start the same way.
+- Story cards show the whole text and the lesson; there is no teaser that
+  asks for a click.
 - Kind (quote 45, story 20, history 20, study 15 percent) and category are
-  drawn by those base shares times the user's affinity weights. 20 percent
-  of category picks ignore the weights, so new topics keep appearing.
+  drawn by those base shares times the user's affinity weights times a
+  session boost. 20 percent of category picks ignore the weights, so new
+  topics keep appearing.
+- Session boost (`FeedEngine.steer`): a like multiplies the boost of the
+  card's category and kind by 4, a read by 1.3, a quick skip by 0.7; the
+  boost fades 10 percent toward 1 with every card. Cards planned ahead but
+  not shown yet are dropped and planned again, so a like shows in the
+  very next card.
 - Each (kind, category) has its own shuffled queue; unseen items first.
 - A quiz every 4 to 7 cards (random gap). Due reviews first, then a card
   from this session.
 - XP: quote read 4 s: 2; story read 12 s or opened in full: 5; right quiz
   answer: 10, or 20 from the third right answer in a row. Each card pays
   once per session.
-- Affinity: like +0.3, read +0.1, skipped in under 1.5 s -0.05; weights are
+- Affinity (kept across sessions): like +0.5, read +0.1, skipped in under 1.5 s -0.05; weights are
   kept between 0.3 and 3.
 - Daily goal 20, 50 (default) or 100 XP. Reaching it extends the streak.
   One streak freeze is earned every 7 streak days (max 2) and covers a
@@ -135,8 +144,10 @@ Rules that must hold:
 
 - Double tap likes only on the picture, never over buttons, so buttons
   answer at once (no double tap delay).
-- Feed cards never scroll inside; long text shrinks to fit, so a vertical
-  drag always moves the feed.
+- Quote and quiz cards never scroll inside; long text shrinks to fit.
+  Story cards scroll inside their panel only when the text overflows
+  (clamping physics), and pulling past either end turns the page, so a
+  vertical drag always ends up moving the feed.
 - The quote and the story of the day depend only on the calendar day, so it is the same
   all day and swiping back shows the same quotes again.
 - Share uses `share_plus` and is hidden on Linux, where it has no share

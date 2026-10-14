@@ -29,7 +29,8 @@ method next to each number.
    no extra decode size is needed) and `precacheImage` for the next two
    pages only. Avatars are 256 px.
 8. Picking the next feed card costs O(kinds + categories): each (kind,
-   category) has its own queue, shuffled once on first use.
+   category) has its own queue, shuffled once on first use. Replanning
+   after a like or skip drops at most the two cards planned ahead.
 9. `ProgressStore` writes its JSON on XP, quiz and goal changes only.
    Marking a card seen or nudging weights stays in memory until the next
    write, so a swipe never encodes the seen list.
