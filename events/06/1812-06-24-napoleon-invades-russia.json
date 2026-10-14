@@ -1,0 +1,31 @@
+{
+  "id": "event-1812-06-24-napoleon-invades-russia",
+  "title": "Napoleon crosses the Neman to invade Russia",
+  "year": 1812,
+  "month": 6,
+  "day": 24,
+  "calendar": "gregorian",
+  "summary": "The Grande Armee, over 400,000 strong, began crossing the Neman River into the Russian Empire.",
+  "reason": "Russia had abandoned Napoleon's Continental System against British trade.",
+  "significance": "The invasion ended in disaster and broke Napoleon's power.",
+  "participants": [
+    "Napoleon Bonaparte",
+    "Grande Armee",
+    "Russian Empire",
+    "Alexander I of Russia"
+  ],
+  "countries": [
+    "Russia",
+    "France",
+    "Lithuania"
+  ],
+  "place": "Kaunas, Lithuania",
+  "lat": 54.9,
+  "lon": 23.9,
+  "tags": [
+    "war"
+  ],
+  "weight": 75,
+  "wikipedia": "French invasion of Russia",
+  "wikidata": "Q179250"
+}

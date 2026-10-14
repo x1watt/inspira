@@ -1,0 +1,32 @@
+{
+  "id": "event-1943-04-19-warsaw-ghetto-uprising",
+  "title": "Warsaw Ghetto Uprising begins",
+  "year": 1943,
+  "month": 4,
+  "day": 19,
+  "calendar": "gregorian",
+  "summary": "When German forces entered the Warsaw Ghetto to deport its remaining Jews, armed Jewish fighters resisted. They held out for almost a month before the Germans burned the ghetto block by block.",
+  "reason": "Most of the ghetto's people had already been sent to Treblinka, and the survivors knew deportation meant death.",
+  "significance": "It was the largest Jewish revolt of the Holocaust and became a lasting symbol of resistance.",
+  "participants": [
+    "Jewish Combat Organization",
+    "Jewish Military Union",
+    "Mordechai Anielewicz",
+    "Jurgen Stroop",
+    "SS"
+  ],
+  "countries": [
+    "Poland",
+    "Germany"
+  ],
+  "place": "Warsaw Ghetto, Warsaw, Poland",
+  "lat": 52.244,
+  "lon": 20.993,
+  "tags": [
+    "war",
+    "rights"
+  ],
+  "weight": 70,
+  "wikipedia": "Warsaw Ghetto Uprising",
+  "wikidata": "Q160161"
+}

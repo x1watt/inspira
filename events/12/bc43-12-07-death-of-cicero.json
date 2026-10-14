@@ -1,0 +1,28 @@
+{
+  "id": "event-bc43-12-07-death-of-cicero",
+  "title": "Cicero is killed on the orders of Mark Antony",
+  "year": -43,
+  "month": 12,
+  "day": 7,
+  "calendar": "julian",
+  "summary": "The orator and statesman Cicero was caught and killed near his villa at Formiae. His head and hands were displayed in the Forum.",
+  "reason": "Cicero had attacked Mark Antony in his Philippics, and Antony insisted on his name being placed on the proscription lists of the Second Triumvirate.",
+  "significance": "His death symbolised the end of the free Republic, and his writings shaped Latin prose for centuries.",
+  "participants": [
+    "Cicero",
+    "Mark Antony",
+    "Second Triumvirate"
+  ],
+  "countries": [
+    "Italy"
+  ],
+  "place": "Formiae (Formia), Italy",
+  "lat": 41.2567,
+  "lon": 13.6058,
+  "tags": [
+    "politics"
+  ],
+  "weight": 60,
+  "wikipedia": "Cicero",
+  "wikidata": "Q1541"
+}

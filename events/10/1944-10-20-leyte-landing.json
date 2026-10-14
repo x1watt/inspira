@@ -1,0 +1,31 @@
+{
+  "id": "event-1944-10-20-leyte-landing",
+  "title": "MacArthur returns to the Philippines at Leyte",
+  "year": 1944,
+  "month": 10,
+  "day": 20,
+  "calendar": "gregorian",
+  "summary": "American forces landed on the island of Leyte, and General Douglas MacArthur waded ashore to announce his return to the Philippines.",
+  "reason": "The United States wanted to cut Japan off from its oil sources in South-East Asia and keep MacArthur's promise to return.",
+  "significance": "It began the liberation of the Philippines and led to the Battle of Leyte Gulf, the largest naval battle in history.",
+  "participants": [
+    "Douglas MacArthur",
+    "US Sixth Army",
+    "Empire of Japan",
+    "Sergio Osmena"
+  ],
+  "countries": [
+    "Philippines",
+    "United States",
+    "Japan"
+  ],
+  "place": "Palo, Leyte, Philippines",
+  "lat": 11.1575,
+  "lon": 124.9908,
+  "tags": [
+    "war"
+  ],
+  "weight": 60,
+  "wikipedia": "Battle of Leyte",
+  "wikidata": "Q717004"
+}

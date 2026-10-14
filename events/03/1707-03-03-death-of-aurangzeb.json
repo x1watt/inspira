@@ -1,0 +1,27 @@
+{
+  "id": "event-1707-03-03-death-of-aurangzeb",
+  "title": "Death of Aurangzeb begins the Mughal decline",
+  "year": 1707,
+  "month": 3,
+  "day": 3,
+  "calendar": "gregorian",
+  "summary": "The Mughal emperor Aurangzeb died at Ahmednagar in the Deccan, aged 88, after nearly fifty years on the throne.",
+  "reason": "His long wars against the Marathas and his successors' struggles over the throne had drained the empire.",
+  "significance": "The Mughal Empire fragmented soon after, opening India to regional powers and European companies.",
+  "participants": [
+    "Aurangzeb",
+    "Mughal Empire"
+  ],
+  "countries": [
+    "India"
+  ],
+  "place": "Ahmednagar, Maharashtra, India",
+  "lat": 19.0948,
+  "lon": 74.748,
+  "tags": [
+    "politics"
+  ],
+  "weight": 66,
+  "wikipedia": "Aurangzeb",
+  "wikidata": "Q485547"
+}

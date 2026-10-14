@@ -1,0 +1,30 @@
+{
+  "id": "event-1066-10-14-battle-of-hastings",
+  "title": "William of Normandy wins the Battle of Hastings",
+  "year": 1066,
+  "month": 10,
+  "day": 14,
+  "calendar": "julian",
+  "summary": "The Norman army of Duke William defeated the English under King Harold Godwinson, who was killed in the battle.",
+  "reason": "William claimed the English throne after the death of Edward the Confessor and invaded when Harold was crowned.",
+  "significance": "The Norman Conquest transformed England's rulers, language, law and ties to Europe.",
+  "participants": [
+    "William the Conqueror",
+    "Harold Godwinson",
+    "Normans",
+    "Kingdom of England"
+  ],
+  "countries": [
+    "United Kingdom",
+    "France"
+  ],
+  "place": "Battle, near Hastings, United Kingdom",
+  "lat": 50.9122,
+  "lon": 0.4874,
+  "tags": [
+    "war"
+  ],
+  "weight": 85,
+  "wikipedia": "Battle of Hastings",
+  "wikidata": "Q83224"
+}

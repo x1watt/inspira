@@ -1,5 +1,6 @@
 import 'package:flutter/widgets.dart';
 
+import 'data/event_repository.dart';
 import 'data/favorites_store.dart';
 import 'data/image_repository.dart';
 import 'data/progress_store.dart';
@@ -14,6 +15,7 @@ class AppData {
     required this.favorites,
     required this.images,
     required this.progress,
+    this.events,
   });
 
   final QuoteRepository quotes;
@@ -24,6 +26,9 @@ class AppData {
   final FavoritesStore favorites;
   final ImageRepository images;
   final ProgressStore progress;
+
+  /// Dated world events; null in tests that do not need them.
+  final EventRepository? events;
 }
 
 /// Gives screens access to the loaded [AppData].
@@ -37,6 +42,9 @@ class AppScope extends InheritedWidget {
   FavoritesStore get favorites => data.favorites;
   ImageRepository get images => data.images;
   ProgressStore get progress => data.progress;
+  EventRepository get events => data.events ?? _noEvents;
+
+  static final _noEvents = EventRepository(const []);
 
   static AppScope of(BuildContext context) =>
       context.dependOnInheritedWidgetOfExactType<AppScope>()!;

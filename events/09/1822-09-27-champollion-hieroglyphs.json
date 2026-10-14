@@ -1,0 +1,29 @@
+{
+  "id": "event-1822-09-27-champollion-hieroglyphs",
+  "title": "Champollion announces the decipherment of hieroglyphs",
+  "year": 1822,
+  "month": 9,
+  "day": 27,
+  "calendar": "gregorian",
+  "summary": "Jean-François Champollion presented his letter to Bon-Joseph Dacier at the French Academy of Inscriptions, explaining how Egyptian hieroglyphs record sounds.",
+  "reason": "The Rosetta Stone's parallel texts gave scholars a key, and Champollion's knowledge of Coptic let him read royal names in cartouches.",
+  "significance": "It founded modern Egyptology and opened three thousand years of written Egyptian history.",
+  "participants": [
+    "Jean-François Champollion",
+    "Académie des Inscriptions et Belles-Lettres"
+  ],
+  "countries": [
+    "France",
+    "Egypt"
+  ],
+  "place": "Institut de France, Paris, France",
+  "lat": 48.8574,
+  "lon": 2.3373,
+  "tags": [
+    "science",
+    "culture"
+  ],
+  "weight": 65,
+  "wikipedia": "Lettre à M. Dacier",
+  "wikidata": "Q1223685"
+}

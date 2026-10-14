@@ -1,0 +1,30 @@
+{
+  "id": "event-1943-10-21-azad-hind-proclaimed",
+  "title": "Subhas Chandra Bose proclaims the Azad Hind government",
+  "year": 1943,
+  "month": 10,
+  "day": 21,
+  "calendar": "gregorian",
+  "summary": "In Japanese-occupied Singapore, Subhas Chandra Bose proclaimed the Provisional Government of Free India and took command of the Indian National Army.",
+  "reason": "Bose believed India could win independence by fighting Britain alongside the Axis powers.",
+  "significance": "Though it failed militarily, the later trials of its soldiers stirred Indian nationalism and hastened the end of British rule.",
+  "participants": [
+    "Subhas Chandra Bose",
+    "Indian National Army",
+    "Empire of Japan"
+  ],
+  "countries": [
+    "Singapore",
+    "India",
+    "Japan"
+  ],
+  "place": "Cathay Building, Singapore",
+  "lat": 1.299,
+  "lon": 103.8478,
+  "tags": [
+    "politics"
+  ],
+  "weight": 52,
+  "wikipedia": "Azad Hind",
+  "wikidata": "Q715197"
+}

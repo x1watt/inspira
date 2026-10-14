@@ -1,0 +1,27 @@
+{
+  "id": "event-1974-11-24-lucy-discovered",
+  "title": "The fossil Lucy is discovered in Ethiopia",
+  "year": 1974,
+  "month": 11,
+  "day": 24,
+  "calendar": "gregorian",
+  "summary": "Donald Johanson and Tom Gray found a 3.2 million year old partial skeleton of Australopithecus afarensis at Hadar, Ethiopia.",
+  "reason": "Paleoanthropologists were searching the Afar region for early human ancestors.",
+  "significance": "Lucy showed that human ancestors walked upright long before brains grew large.",
+  "participants": [
+    "Donald Johanson",
+    "Tom Gray"
+  ],
+  "countries": [
+    "Ethiopia",
+    "United States"
+  ],
+  "place": "Hadar, Afar Region, Ethiopia",
+  "lat": 11.1667,
+  "lon": 40.5833,
+  "tags": [
+    "science"
+  ],
+  "weight": 58,
+  "wikipedia": "Lucy (hominid)"
+}

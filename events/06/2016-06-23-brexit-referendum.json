@@ -1,0 +1,28 @@
+{
+  "id": "event-2016-06-23-brexit-referendum",
+  "title": "Britain votes to leave the European Union",
+  "year": 2016,
+  "month": 6,
+  "day": 23,
+  "calendar": "gregorian",
+  "summary": "In a referendum, 51.9 percent of voters in the United Kingdom chose to leave the EU.",
+  "reason": "David Cameron called the vote under pressure from Eurosceptics, amid concerns over immigration and sovereignty.",
+  "significance": "Britain left the EU in 2020, the first country to do so.",
+  "participants": [
+    "David Cameron",
+    "Boris Johnson",
+    "Nigel Farage"
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "place": "United Kingdom",
+  "lat": 54.6,
+  "lon": -2,
+  "tags": [
+    "politics"
+  ],
+  "weight": 75,
+  "wikipedia": "2016 United Kingdom European Union membership referendum",
+  "wikidata": "Q21812812"
+}

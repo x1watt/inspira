@@ -1,0 +1,34 @@
+{
+  "id": "event-1648-10-24-peace-of-westphalia",
+  "title": "Peace of Westphalia ends the Thirty Years' War",
+  "year": 1648,
+  "month": 10,
+  "day": 24,
+  "calendar": "gregorian",
+  "summary": "Treaties signed at Munster and Osnabruck ended the Thirty Years' War in the Holy Roman Empire and the Eighty Years' War between Spain and the Dutch.",
+  "reason": "Three decades of war had devastated Central Europe and exhausted all sides without a decisive victory.",
+  "significance": "It established principles of state sovereignty that shaped the modern international order.",
+  "participants": [
+    "Holy Roman Empire",
+    "Swedish Empire",
+    "Kingdom of France",
+    "Spain",
+    "Dutch Republic"
+  ],
+  "countries": [
+    "Germany",
+    "France",
+    "Sweden",
+    "Netherlands",
+    "Spain"
+  ],
+  "place": "Munster, North Rhine-Westphalia, Germany",
+  "lat": 51.9607,
+  "lon": 7.6261,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 88,
+  "wikipedia": "Peace of Westphalia",
+  "wikidata": "Q150995"
+}

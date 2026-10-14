@@ -1,0 +1,30 @@
+{
+  "id": "event-1821-08-24-treaty-of-cordoba",
+  "title": "Treaty of Córdoba recognizes Mexican independence",
+  "year": 1821,
+  "month": 8,
+  "day": 24,
+  "calendar": "gregorian",
+  "summary": "Agustín de Iturbide and the last Spanish viceroy Juan O'Donojú signed a treaty recognizing Mexico as an independent empire.",
+  "reason": "After eleven years of insurgency, Iturbide's Plan of Iguala united royalists and rebels, leaving the viceroy without forces to resist.",
+  "significance": "It ended three centuries of Spanish rule over New Spain, the largest of its American possessions.",
+  "participants": [
+    "Agustín de Iturbide",
+    "Juan O'Donojú",
+    "Army of the Three Guarantees"
+  ],
+  "countries": [
+    "Mexico",
+    "Spain"
+  ],
+  "place": "Córdoba, Veracruz, Mexico",
+  "lat": 18.8842,
+  "lon": -96.9256,
+  "tags": [
+    "diplomacy",
+    "revolution"
+  ],
+  "weight": 60,
+  "wikipedia": "Treaty of Córdoba",
+  "wikidata": "Q767450"
+}

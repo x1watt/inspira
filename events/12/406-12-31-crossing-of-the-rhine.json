@@ -1,0 +1,30 @@
+{
+  "id": "event-406-12-31-crossing-of-the-rhine",
+  "title": "Vandals, Alans and Suebi cross the Rhine",
+  "year": 406,
+  "month": 12,
+  "day": 31,
+  "calendar": "julian",
+  "summary": "A large mixed group of Vandals, Alans and Suebi crossed the Rhine into Roman Gaul, traditionally near Mogontiacum.",
+  "reason": "Pressure from the Huns and the withdrawal of Roman troops to defend Italy left the frontier weakly defended.",
+  "significance": "It opened Gaul and Hispania to barbarian invasion and hastened the collapse of the Western Empire.",
+  "participants": [
+    "Vandals",
+    "Alans",
+    "Suebi",
+    "Western Roman Empire"
+  ],
+  "countries": [
+    "Germany",
+    "France"
+  ],
+  "place": "Mogontiacum (Mainz), Germany",
+  "lat": 50.0,
+  "lon": 8.2711,
+  "tags": [
+    "war"
+  ],
+  "weight": 68,
+  "wikipedia": "Crossing of the Rhine",
+  "wikidata": "Q684915"
+}

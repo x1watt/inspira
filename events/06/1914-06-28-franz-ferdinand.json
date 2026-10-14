@@ -1,0 +1,32 @@
+{
+  "id": "event-1914-06-28-franz-ferdinand",
+  "title": "Archduke Franz Ferdinand is assassinated in Sarajevo",
+  "year": 1914,
+  "month": 6,
+  "day": 28,
+  "calendar": "gregorian",
+  "summary": "Gavrilo Princip, a Bosnian Serb nationalist, shot dead the heir to the Austro-Hungarian throne Franz Ferdinand and his wife Sophie in Sarajevo.",
+  "reason": "Young Bosnia and the Black Hand sought to end Austro-Hungarian rule over South Slavs.",
+  "significance": "The killing triggered the July Crisis that led to World War I.",
+  "participants": [
+    "Gavrilo Princip",
+    "Franz Ferdinand",
+    "Austria-Hungary",
+    "Black Hand"
+  ],
+  "countries": [
+    "Bosnia and Herzegovina",
+    "Austria",
+    "Serbia"
+  ],
+  "place": "Latin Bridge, Sarajevo, Bosnia and Herzegovina",
+  "lat": 43.8579,
+  "lon": 18.4287,
+  "tags": [
+    "politics",
+    "war"
+  ],
+  "weight": 95,
+  "wikipedia": "Assassination of Archduke Franz Ferdinand",
+  "wikidata": "Q192050"
+}

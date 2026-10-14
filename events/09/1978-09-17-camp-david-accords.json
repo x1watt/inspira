@@ -1,0 +1,30 @@
+{
+  "id": "event-1978-09-17-camp-david-accords",
+  "title": "Egypt and Israel sign the Camp David Accords",
+  "year": 1978,
+  "month": 9,
+  "day": 17,
+  "calendar": "gregorian",
+  "summary": "After 13 days of talks at Camp David, Anwar Sadat and Menachem Begin signed frameworks for peace at the White House, witnessed by Jimmy Carter.",
+  "reason": "Sadat's visit to Jerusalem and Carter's mediation brought the leaders together.",
+  "significance": "They led to the Egypt and Israel peace treaty of 1979.",
+  "participants": [
+    "Anwar Sadat",
+    "Menachem Begin",
+    "Jimmy Carter"
+  ],
+  "countries": [
+    "Egypt",
+    "Israel",
+    "United States"
+  ],
+  "place": "White House, Washington, D.C., United States",
+  "lat": 38.8977,
+  "lon": -77.0365,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 70,
+  "wikipedia": "Camp David Accords",
+  "wikidata": "Q309204"
+}

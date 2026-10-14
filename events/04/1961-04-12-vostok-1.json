@@ -1,0 +1,30 @@
+{
+  "id": "event-1961-04-12-vostok-1",
+  "title": "Yuri Gagarin becomes the first human in space",
+  "year": 1961,
+  "month": 4,
+  "day": 12,
+  "calendar": "gregorian",
+  "summary": "Soviet cosmonaut Yuri Gagarin orbited the Earth once in Vostok 1, a flight of 108 minutes.",
+  "reason": "The Soviet Union wanted to beat the United States in putting a person into space.",
+  "significance": "It opened human spaceflight and spurred the American push for the Moon.",
+  "participants": [
+    "Yuri Gagarin",
+    "Sergei Korolev",
+    "Soviet space program"
+  ],
+  "countries": [
+    "Russia",
+    "Kazakhstan"
+  ],
+  "place": "Baikonur Cosmodrome, Kazakhstan",
+  "lat": 45.92,
+  "lon": 63.342,
+  "tags": [
+    "exploration",
+    "technology"
+  ],
+  "weight": 90,
+  "wikipedia": "Vostok 1",
+  "wikidata": "Q182524"
+}

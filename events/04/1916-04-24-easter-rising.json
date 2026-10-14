@@ -1,0 +1,31 @@
+{
+  "id": "event-1916-04-24-easter-rising",
+  "title": "The Easter Rising begins in Dublin",
+  "year": 1916,
+  "month": 4,
+  "day": 24,
+  "calendar": "gregorian",
+  "summary": "Irish republicans seized the General Post Office and other sites in Dublin and proclaimed an Irish Republic; the rising was crushed within a week.",
+  "reason": "Republicans wanted independence from Britain and saw the world war as an opportunity.",
+  "significance": "The executions of its leaders turned Irish opinion toward independence.",
+  "participants": [
+    "Irish Volunteers",
+    "Irish Citizen Army",
+    "Patrick Pearse",
+    "James Connolly",
+    "British Army"
+  ],
+  "countries": [
+    "Ireland",
+    "United Kingdom"
+  ],
+  "place": "General Post Office, Dublin, Ireland",
+  "lat": 53.3498,
+  "lon": -6.2603,
+  "tags": [
+    "revolution"
+  ],
+  "weight": 52,
+  "wikipedia": "Easter Rising",
+  "wikidata": "Q193689"
+}

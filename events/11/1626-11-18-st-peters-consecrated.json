@@ -1,0 +1,29 @@
+{
+  "id": "event-1626-11-18-st-peters-consecrated",
+  "title": "Pope Urban VIII consecrates the new St. Peter's Basilica",
+  "year": 1626,
+  "month": 11,
+  "day": 18,
+  "calendar": "gregorian",
+  "summary": "After 120 years of building, the new basilica of St. Peter in Rome, with Michelangelo's dome, was consecrated by Pope Urban VIII.",
+  "reason": "The old Constantinian basilica was crumbling, and the popes wanted a church to express the glory of Rome.",
+  "significance": "It became the largest church of its age and the central symbol of the Catholic Church.",
+  "participants": [
+    "Pope Urban VIII",
+    "Catholic Church"
+  ],
+  "countries": [
+    "Vatican City",
+    "Italy"
+  ],
+  "place": "Vatican City",
+  "lat": 41.9022,
+  "lon": 12.4539,
+  "tags": [
+    "religion",
+    "culture"
+  ],
+  "weight": 56,
+  "wikipedia": "St. Peter's Basilica",
+  "wikidata": "Q12512"
+}

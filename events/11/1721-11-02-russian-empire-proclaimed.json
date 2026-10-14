@@ -1,0 +1,28 @@
+{
+  "id": "event-1721-11-02-russian-empire-proclaimed",
+  "title": "Peter the Great is proclaimed Emperor of All Russia",
+  "year": 1721,
+  "month": 11,
+  "day": 2,
+  "calendar": "gregorian",
+  "summary": "After the peace with Sweden, the Russian Senate gave Peter the titles Emperor of All Russia and Father of the Fatherland, turning the tsardom into the Russian Empire.",
+  "reason": "Victory in the Great Northern War let Peter claim equal standing with the great empires of Europe.",
+  "significance": "The Russian Empire lasted until 1917 and became one of the largest states in history.",
+  "participants": [
+    "Peter the Great",
+    "Governing Senate",
+    "Russian Empire"
+  ],
+  "countries": [
+    "Russia"
+  ],
+  "place": "Saint Petersburg, Russia",
+  "lat": 59.9343,
+  "lon": 30.3351,
+  "tags": [
+    "politics"
+  ],
+  "weight": 68,
+  "wikipedia": "Russian Empire",
+  "wikidata": "Q34266"
+}

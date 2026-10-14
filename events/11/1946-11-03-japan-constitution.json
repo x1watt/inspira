@@ -1,0 +1,30 @@
+{
+  "id": "event-1946-11-03-japan-constitution",
+  "title": "Japan promulgates its postwar constitution",
+  "year": 1946,
+  "month": 11,
+  "day": 3,
+  "calendar": "gregorian",
+  "summary": "Emperor Hirohito promulgated a new constitution that made sovereignty rest with the people and renounced war in its Article 9. It took effect in May 1947.",
+  "reason": "The American occupation authorities under Douglas MacArthur pushed for a democratic charter to replace the Meiji Constitution.",
+  "significance": "It has remained Japan's constitution without a single amendment.",
+  "participants": [
+    "Empire of Japan",
+    "Hirohito",
+    "Douglas MacArthur"
+  ],
+  "countries": [
+    "Japan",
+    "United States"
+  ],
+  "place": "Tokyo, Japan",
+  "lat": 35.6762,
+  "lon": 139.6503,
+  "tags": [
+    "law",
+    "politics"
+  ],
+  "weight": 58,
+  "wikipedia": "Constitution of Japan",
+  "wikidata": "Q237082"
+}

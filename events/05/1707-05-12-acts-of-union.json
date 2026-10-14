@@ -1,0 +1,29 @@
+{
+  "id": "event-1707-05-12-acts-of-union",
+  "title": "England and Scotland unite as Great Britain",
+  "year": 1707,
+  "month": 5,
+  "day": 12,
+  "calendar": "gregorian",
+  "summary": "The Acts of Union came into force, joining the kingdoms of England and Scotland into a single Kingdom of Great Britain with one parliament at Westminster.",
+  "reason": "England wanted to secure the Protestant succession, and Scotland, hit by the failed Darien scheme, wanted access to English markets.",
+  "significance": "It created the British state that became the center of a global empire.",
+  "participants": [
+    "Kingdom of England",
+    "Kingdom of Scotland",
+    "Queen Anne"
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "place": "London, United Kingdom",
+  "lat": 51.4995,
+  "lon": -0.1248,
+  "tags": [
+    "politics",
+    "law"
+  ],
+  "weight": 72,
+  "wikipedia": "Acts of Union 1707",
+  "wikidata": "Q193515"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "event-1821-07-28-peru-independence",
+  "title": "San Martín proclaims the independence of Peru",
+  "year": 1821,
+  "month": 7,
+  "day": 28,
+  "calendar": "gregorian",
+  "summary": "José de San Martín proclaimed the independence of Peru from Spain in the main square of Lima.",
+  "reason": "Lima was the heart of Spanish power in South America and San Martín had occupied it after the royalist viceroy withdrew to the highlands.",
+  "significance": "It marked the formal birth of independent Peru, though the war against royalist forces continued until 1824.",
+  "participants": [
+    "José de San Martín",
+    "Liberating Expedition of Peru",
+    "Viceroyalty of Peru"
+  ],
+  "countries": [
+    "Peru",
+    "Argentina",
+    "Chile",
+    "Spain"
+  ],
+  "place": "Plaza Mayor, Lima, Peru",
+  "lat": -12.0453,
+  "lon": -77.0311,
+  "tags": [
+    "politics",
+    "revolution"
+  ],
+  "weight": 55,
+  "wikipedia": "Peruvian War of Independence",
+  "wikidata": "Q68478"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "event-1789-04-30-washington-inauguration",
+  "title": "George Washington is inaugurated as first US president",
+  "year": 1789,
+  "month": 4,
+  "day": 30,
+  "calendar": "gregorian",
+  "summary": "George Washington took the oath of office on the balcony of Federal Hall in New York City.",
+  "reason": "He had been unanimously elected under the new Constitution.",
+  "significance": "It began the American presidency and a tradition of peaceful constitutional government.",
+  "participants": [
+    "George Washington",
+    "Robert Livingston"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Federal Hall, New York City, United States",
+  "lat": 40.7073,
+  "lon": -74.0104,
+  "tags": [
+    "politics"
+  ],
+  "weight": 60,
+  "wikipedia": "First inauguration of George Washington",
+  "wikidata": "Q5454184"
+}

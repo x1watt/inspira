@@ -1,0 +1,28 @@
+{
+  "id": "event-1947-06-05-marshall-plan-speech",
+  "title": "George Marshall proposes the Marshall Plan",
+  "year": 1947,
+  "month": 6,
+  "day": 5,
+  "calendar": "gregorian",
+  "summary": "In a speech at Harvard University, Secretary of State George Marshall proposed large scale American aid to rebuild Europe.",
+  "reason": "Europe was struggling with hunger and ruined economies, and Washington feared that poverty would help communist parties.",
+  "significance": "The plan financed Western Europe's recovery and deepened the split with the Soviet bloc.",
+  "participants": [
+    "George Marshall",
+    "United States"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Harvard University, Cambridge, Massachusetts, United States",
+  "lat": 42.377,
+  "lon": -71.1167,
+  "tags": [
+    "economy",
+    "diplomacy"
+  ],
+  "weight": 75,
+  "wikipedia": "Marshall Plan",
+  "wikidata": "Q4576"
+}

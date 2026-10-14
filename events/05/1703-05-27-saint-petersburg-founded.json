@@ -1,0 +1,27 @@
+{
+  "id": "event-1703-05-27-saint-petersburg-founded",
+  "title": "Peter the Great founds Saint Petersburg",
+  "year": 1703,
+  "month": 5,
+  "day": 27,
+  "calendar": "gregorian",
+  "summary": "Peter the Great laid the foundation of the Peter and Paul Fortress on an island in the Neva delta, the beginning of Saint Petersburg.",
+  "reason": "Peter had just won the Neva mouth from Sweden and wanted a port and a new capital facing Europe.",
+  "significance": "Saint Petersburg became the capital of Russia for two centuries and its window to the West.",
+  "participants": [
+    "Peter the Great",
+    "Tsardom of Russia"
+  ],
+  "countries": [
+    "Russia"
+  ],
+  "place": "Peter and Paul Fortress, Saint Petersburg, Russia",
+  "lat": 59.95,
+  "lon": 30.3167,
+  "tags": [
+    "politics"
+  ],
+  "weight": 72,
+  "wikipedia": "Saint Petersburg",
+  "wikidata": "Q656"
+}

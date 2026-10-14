@@ -40,6 +40,9 @@ class ProgressStore extends ChangeNotifier {
     _lastGoalDay = j['lastGoalDay'] as int?;
     goalDays.addAll([for (final d in j['goalDays'] as List? ?? []) d as int]);
     seen.addAll([for (final s in j['seen'] as List? ?? []) s as String]);
+    for (final e in (j['read'] as Map? ?? {}).entries) {
+      _read[e.key as String] = e.value as int;
+    }
     for (final e in (j['affinity'] as Map? ?? {}).entries) {
       affinity[e.key as String] = (e.value as num).toDouble();
     }
@@ -54,6 +57,7 @@ class ProgressStore extends ChangeNotifier {
   static const _key = 'progress';
   static const goals = [20, 50, 100];
   static const _seenCap = 4000;
+  static const _readCap = 1000;
   static const _boxDays = [0, 1, 3, 7, 21];
   static const maxFreezes = 2;
 
@@ -89,6 +93,9 @@ class ProgressStore extends ChangeNotifier {
 
   /// Card ids already shown, oldest first.
   final seen = <String>{};
+
+  /// Cards read to the end (or opened), id to day, oldest first.
+  final _read = <String, int>{};
 
   /// Feed weights per category and per kind (`quote`, `story`, `history`,
   /// `study`); 1.0 when missing.
@@ -192,6 +199,20 @@ class ProgressStore extends ChangeNotifier {
     // and saves encoding the whole list on every swipe.
   }
 
+  /// Records a card the user really read. Saved with the next XP change,
+  /// like [markSeen]; reading always pays XP the first time.
+  void markRead(String id) {
+    _read.remove(id);
+    if (_read.length >= _readCap) _read.remove(_read.keys.first);
+    _read[id] = today;
+  }
+
+  /// Ids read in the last [days] days, oldest first.
+  List<String> recentlyRead(int days) => [
+    for (final e in _read.entries)
+      if (e.value >= today - days) e.key,
+  ];
+
   /// Nudges the feed toward (positive) or away from a category and kind.
   /// Weights stay between 0.3 and 3 so nothing disappears.
   void nudge(String category, String kind, double delta) {
@@ -247,6 +268,7 @@ class ProgressStore extends ChangeNotifier {
     'lastGoalDay': _lastGoalDay,
     'goalDays': goalDays.toList(),
     'seen': seen.toList(),
+    'read': _read,
     'affinity': affinity,
     'review': {
       for (final e in _review.entries) e.key: [e.value.box, e.value.due],

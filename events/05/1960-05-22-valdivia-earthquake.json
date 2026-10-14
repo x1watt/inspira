@@ -1,0 +1,28 @@
+{
+  "id": "event-1960-05-22-valdivia-earthquake",
+  "title": "The strongest earthquake ever recorded hits Chile",
+  "year": 1960,
+  "month": 5,
+  "day": 22,
+  "calendar": "gregorian",
+  "summary": "A magnitude 9.5 earthquake struck southern Chile, the most powerful ever measured. Its tsunami crossed the Pacific to Hawaii and Japan.",
+  "reason": "It occurred where the Nazca Plate dives under the South American Plate.",
+  "significance": "It killed thousands and shaped the study of great earthquakes and tsunami warnings.",
+  "participants": [
+    "Chile"
+  ],
+  "countries": [
+    "Chile",
+    "Japan"
+  ],
+  "place": "Near Lumaco, southern Chile",
+  "lat": -38.24,
+  "lon": -73.05,
+  "tags": [
+    "disaster",
+    "science"
+  ],
+  "weight": 55,
+  "wikipedia": "1960 Valdivia earthquake",
+  "wikidata": "Q212618"
+}

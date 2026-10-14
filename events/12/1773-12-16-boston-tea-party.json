@@ -1,0 +1,30 @@
+{
+  "id": "event-1773-12-16-boston-tea-party",
+  "title": "Colonists dump British tea in the Boston Tea Party",
+  "year": 1773,
+  "month": 12,
+  "day": 16,
+  "calendar": "gregorian",
+  "summary": "Members of the Sons of Liberty, some disguised as Mohawks, boarded ships in Boston Harbor and threw 342 chests of East India Company tea into the water.",
+  "reason": "They protested the Tea Act, which they saw as taxation without representation.",
+  "significance": "Britain's harsh response with the Intolerable Acts pushed the colonies toward revolution.",
+  "participants": [
+    "Sons of Liberty",
+    "Samuel Adams",
+    "East India Company"
+  ],
+  "countries": [
+    "United States",
+    "United Kingdom"
+  ],
+  "place": "Griffin's Wharf, Boston, United States",
+  "lat": 42.3523,
+  "lon": -71.0514,
+  "tags": [
+    "politics",
+    "revolution"
+  ],
+  "weight": 70,
+  "wikipedia": "Boston Tea Party",
+  "wikidata": "Q19024"
+}

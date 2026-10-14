@@ -1,0 +1,30 @@
+{
+  "id": "event-1871-03-18-paris-commune",
+  "title": "The Paris Commune takes power",
+  "year": 1871,
+  "month": 3,
+  "day": 18,
+  "calendar": "gregorian",
+  "summary": "National Guardsmen and Parisians resisted the government's attempt to seize cannons on Montmartre, and the city came under a revolutionary Commune.",
+  "reason": "Paris was angry at the humiliating peace with Germany and at the conservative national government sitting at Versailles.",
+  "significance": "Crushed in May with thousands killed, it became a lasting symbol for socialist and anarchist movements.",
+  "participants": [
+    "Paris Commune",
+    "National Guard",
+    "Adolphe Thiers",
+    "French Third Republic"
+  ],
+  "countries": [
+    "France"
+  ],
+  "place": "Montmartre, Paris, France",
+  "lat": 48.8867,
+  "lon": 2.3431,
+  "tags": [
+    "revolution",
+    "politics"
+  ],
+  "weight": 65,
+  "wikipedia": "Paris Commune",
+  "wikidata": "Q133132"
+}

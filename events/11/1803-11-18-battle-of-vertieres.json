@@ -1,0 +1,31 @@
+{
+  "id": "event-1803-11-18-battle-of-vertieres",
+  "title": "Haitians defeat the French at the Battle of Vertieres",
+  "year": 1803,
+  "month": 11,
+  "day": 18,
+  "calendar": "gregorian",
+  "summary": "Jean-Jacques Dessalines's army defeated the French at Vertieres near Cap-Francais, forcing the French to leave Saint-Domingue.",
+  "reason": "Napoleon had sent an expedition to restore French control and slavery.",
+  "significance": "It ended the war of independence and cleared the way for Haiti.",
+  "participants": [
+    "Jean-Jacques Dessalines",
+    "Francois Capois",
+    "Vicomte de Rochambeau",
+    "French Republic"
+  ],
+  "countries": [
+    "Haiti",
+    "France"
+  ],
+  "place": "Vertieres, Cap-Haitien, Haiti",
+  "lat": 19.74,
+  "lon": -72.21,
+  "tags": [
+    "war",
+    "revolution"
+  ],
+  "weight": 60,
+  "wikipedia": "Battle of Vertières",
+  "wikidata": "Q2484240"
+}

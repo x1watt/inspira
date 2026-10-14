@@ -1,0 +1,30 @@
+{
+  "id": "event-1812-09-07-battle-of-borodino",
+  "title": "Battle of Borodino",
+  "year": 1812,
+  "month": 9,
+  "day": 7,
+  "calendar": "gregorian",
+  "summary": "Napoleon's army fought Kutuzov's Russian army at Borodino west of Moscow in one of the bloodiest single days of battle in history.",
+  "reason": "Kutuzov made a stand to defend Moscow against the invading French.",
+  "significance": "Napoleon took Moscow but his army was too weakened to win the war.",
+  "participants": [
+    "Napoleon Bonaparte",
+    "Mikhail Kutuzov",
+    "Grande Armee",
+    "Imperial Russian Army"
+  ],
+  "countries": [
+    "Russia",
+    "France"
+  ],
+  "place": "Borodino, Moscow Oblast, Russia",
+  "lat": 55.5167,
+  "lon": 35.8167,
+  "tags": [
+    "war"
+  ],
+  "weight": 70,
+  "wikipedia": "Battle of Borodino",
+  "wikidata": "Q184320"
+}

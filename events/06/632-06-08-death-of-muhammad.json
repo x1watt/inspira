@@ -1,0 +1,28 @@
+{
+  "id": "event-632-06-08-death-of-muhammad",
+  "title": "Death of the Prophet Muhammad",
+  "year": 632,
+  "month": 6,
+  "day": 8,
+  "calendar": "julian",
+  "summary": "Muhammad died in Medina after a short illness, having united much of Arabia under Islam. Abu Bakr was chosen as the first caliph.",
+  "reason": "He fell ill with a fever shortly after his farewell pilgrimage to Mecca.",
+  "significance": "The question of his succession shaped the caliphate and the later split between Sunni and Shia Islam.",
+  "participants": [
+    "Muhammad",
+    "Abu Bakr",
+    "Ali ibn Abi Talib"
+  ],
+  "countries": [
+    "Saudi Arabia"
+  ],
+  "place": "Medina, Saudi Arabia",
+  "lat": 24.4672,
+  "lon": 39.6111,
+  "tags": [
+    "religion",
+    "politics"
+  ],
+  "weight": 85,
+  "wikipedia": "Muhammad"
+}

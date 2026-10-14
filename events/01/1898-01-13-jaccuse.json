@@ -1,0 +1,31 @@
+{
+  "id": "event-1898-01-13-jaccuse",
+  "title": "Émile Zola publishes J'Accuse in the Dreyfus affair",
+  "year": 1898,
+  "month": 1,
+  "day": 13,
+  "calendar": "gregorian",
+  "summary": "The newspaper L'Aurore published Émile Zola's open letter to the French president accusing the army of framing Captain Alfred Dreyfus and covering up the truth.",
+  "reason": "A military court had just acquitted the real culprit, Major Esterhazy, and Zola wanted to force the case into a civil court.",
+  "significance": "It turned the Dreyfus affair into a national crisis over justice and antisemitism and defined the engaged intellectual.",
+  "participants": [
+    "Émile Zola",
+    "Alfred Dreyfus",
+    "L'Aurore",
+    "Georges Clemenceau"
+  ],
+  "countries": [
+    "France"
+  ],
+  "place": "Paris, France",
+  "lat": 48.8566,
+  "lon": 2.3522,
+  "tags": [
+    "politics",
+    "rights",
+    "culture"
+  ],
+  "weight": 60,
+  "wikipedia": "J'Accuse...!",
+  "wikidata": "Q741304"
+}

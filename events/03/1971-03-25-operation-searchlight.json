@@ -1,0 +1,30 @@
+{
+  "id": "event-1971-03-25-operation-searchlight",
+  "title": "Pakistan's army launches Operation Searchlight",
+  "year": 1971,
+  "month": 3,
+  "day": 25,
+  "calendar": "gregorian",
+  "summary": "The Pakistani army began a crackdown in Dhaka against Bengali nationalists, killing students, intellectuals and civilians.",
+  "reason": "The Awami League had won the 1970 election, and West Pakistan's leaders refused to hand over power.",
+  "significance": "It started the Bangladesh Liberation War.",
+  "participants": [
+    "Pakistan Army",
+    "Yahya Khan",
+    "Tikka Khan",
+    "Awami League"
+  ],
+  "countries": [
+    "Bangladesh",
+    "Pakistan"
+  ],
+  "place": "Dhaka, Bangladesh",
+  "lat": 23.8103,
+  "lon": 90.4125,
+  "tags": [
+    "war"
+  ],
+  "weight": 55,
+  "wikipedia": "Operation Searchlight",
+  "wikidata": "Q2985554"
+}

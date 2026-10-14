@@ -1,0 +1,30 @@
+{
+  "id": "event-1951-09-08-treaty-of-san-francisco",
+  "title": "Japan signs the Treaty of San Francisco",
+  "year": 1951,
+  "month": 9,
+  "day": 8,
+  "calendar": "gregorian",
+  "summary": "Japan and 48 nations signed the peace treaty that formally ended the Second World War in the Pacific and restored Japan's sovereignty.",
+  "reason": "The United States wanted Japan as a Cold War ally and pushed for a quick, lenient peace.",
+  "significance": "It ended the occupation and shaped the postwar order in East Asia.",
+  "participants": [
+    "Japan",
+    "United States",
+    "Shigeru Yoshida",
+    "John Foster Dulles"
+  ],
+  "countries": [
+    "Japan",
+    "United States"
+  ],
+  "place": "War Memorial Opera House, San Francisco, United States",
+  "lat": 37.7782,
+  "lon": -122.4209,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 63,
+  "wikipedia": "Treaty of San Francisco",
+  "wikidata": "Q392541"
+}

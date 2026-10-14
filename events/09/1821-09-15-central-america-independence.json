@@ -1,0 +1,34 @@
+{
+  "id": "event-1821-09-15-central-america-independence",
+  "title": "Central America declares independence from Spain",
+  "year": 1821,
+  "month": 9,
+  "day": 15,
+  "calendar": "gregorian",
+  "summary": "Leaders in Guatemala City signed the Act of Independence, separating the Captaincy General of Guatemala from Spain.",
+  "reason": "News of Mexico's independence under the Plan of Iguala convinced local elites that Spanish rule could no longer be sustained.",
+  "significance": "It is the founding date celebrated by Guatemala, Honduras, El Salvador, Nicaragua and Costa Rica.",
+  "participants": [
+    "Captaincy General of Guatemala",
+    "Gabino Gaínza",
+    "José Cecilio del Valle"
+  ],
+  "countries": [
+    "Guatemala",
+    "Honduras",
+    "El Salvador",
+    "Nicaragua",
+    "Costa Rica",
+    "Spain"
+  ],
+  "place": "Palacio de los Capitanes Generales, Guatemala City, Guatemala",
+  "lat": 14.6417,
+  "lon": -90.5133,
+  "tags": [
+    "politics",
+    "revolution"
+  ],
+  "weight": 55,
+  "wikipedia": "Act of Independence of Central America",
+  "wikidata": "Q5656897"
+}

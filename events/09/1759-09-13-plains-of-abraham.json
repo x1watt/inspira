@@ -1,0 +1,31 @@
+{
+  "id": "event-1759-09-13-plains-of-abraham",
+  "title": "British defeat the French on the Plains of Abraham",
+  "year": 1759,
+  "month": 9,
+  "day": 13,
+  "calendar": "gregorian",
+  "summary": "James Wolfe's British army climbed the cliffs above the St. Lawrence and defeated Montcalm's French force outside Quebec City. Both commanders were mortally wounded.",
+  "reason": "Britain sought to conquer New France during the Seven Years' War, and Quebec was its key fortress.",
+  "significance": "It led to the fall of Quebec and the end of French rule in Canada.",
+  "participants": [
+    "Kingdom of Great Britain",
+    "Kingdom of France",
+    "James Wolfe",
+    "Louis-Joseph de Montcalm"
+  ],
+  "countries": [
+    "Canada",
+    "United Kingdom",
+    "France"
+  ],
+  "place": "Quebec City, Canada",
+  "lat": 46.803,
+  "lon": -71.215,
+  "tags": [
+    "war"
+  ],
+  "weight": 75,
+  "wikipedia": "Battle of the Plains of Abraham",
+  "wikidata": "Q311726"
+}

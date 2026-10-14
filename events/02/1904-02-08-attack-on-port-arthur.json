@@ -1,0 +1,30 @@
+{
+  "id": "event-1904-02-08-attack-on-port-arthur",
+  "title": "Japan attacks Port Arthur, starting the Russo-Japanese War",
+  "year": 1904,
+  "month": 2,
+  "day": 8,
+  "calendar": "gregorian",
+  "summary": "The Japanese navy launched a surprise torpedo attack on the Russian Pacific Squadron at Port Arthur in Manchuria, opening the Russo-Japanese War.",
+  "reason": "Japan and Russia competed for control of Korea and Manchuria, and negotiations had broken down.",
+  "significance": "The war that followed ended with the first modern victory of an Asian power over a European one.",
+  "participants": [
+    "Empire of Japan",
+    "Russian Empire",
+    "Togo Heihachiro"
+  ],
+  "countries": [
+    "China",
+    "Japan",
+    "Russia"
+  ],
+  "place": "Port Arthur (Lushun), China",
+  "lat": 38.812,
+  "lon": 121.261,
+  "tags": [
+    "war"
+  ],
+  "weight": 62,
+  "wikipedia": "Battle of Port Arthur",
+  "wikidata": "Q1363925"
+}

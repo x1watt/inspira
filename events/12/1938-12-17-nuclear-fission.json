@@ -1,0 +1,29 @@
+{
+  "id": "event-1938-12-17-nuclear-fission",
+  "title": "Hahn and Strassmann discover nuclear fission",
+  "year": 1938,
+  "month": 12,
+  "day": 17,
+  "calendar": "gregorian",
+  "summary": "In Berlin, Otto Hahn and Fritz Strassmann detected barium after bombarding uranium with neutrons, which Lise Meitner and Otto Frisch soon explained as the splitting of the nucleus.",
+  "reason": "Physicists across Europe were studying what happened when uranium was bombarded with neutrons.",
+  "significance": "It opened the way to nuclear power and the atomic bomb.",
+  "participants": [
+    "Otto Hahn",
+    "Fritz Strassmann",
+    "Lise Meitner",
+    "Otto Frisch"
+  ],
+  "countries": [
+    "Germany"
+  ],
+  "place": "Kaiser Wilhelm Institute for Chemistry, Berlin, Germany",
+  "lat": 52.447,
+  "lon": 13.283,
+  "tags": [
+    "science"
+  ],
+  "weight": 90,
+  "wikipedia": "Otto Hahn",
+  "wikidata": "Q1344449"
+}

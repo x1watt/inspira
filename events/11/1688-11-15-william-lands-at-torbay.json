@@ -1,0 +1,30 @@
+{
+  "id": "event-1688-11-15-william-lands-at-torbay",
+  "title": "William of Orange lands at Torbay",
+  "year": 1688,
+  "month": 11,
+  "day": 15,
+  "calendar": "gregorian",
+  "summary": "William of Orange landed at Brixham in Devon with a Dutch army of about 15,000 men, and King James II soon fled to France.",
+  "reason": "English nobles invited William to intervene after the birth of a Catholic heir to the Catholic King James II.",
+  "significance": "The Glorious Revolution put Parliament above the crown and made England a constitutional monarchy.",
+  "participants": [
+    "William III of England",
+    "James II of England",
+    "Dutch Republic"
+  ],
+  "countries": [
+    "United Kingdom",
+    "Netherlands"
+  ],
+  "place": "Brixham, Devon, United Kingdom",
+  "lat": 50.394,
+  "lon": -3.515,
+  "tags": [
+    "revolution",
+    "politics"
+  ],
+  "weight": 74,
+  "wikipedia": "Glorious Revolution",
+  "wikidata": "Q189508"
+}

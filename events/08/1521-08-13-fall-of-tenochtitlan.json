@@ -1,0 +1,31 @@
+{
+  "id": "event-1521-08-13-fall-of-tenochtitlan",
+  "title": "Tenochtitlan falls to Cortes and his allies",
+  "year": 1521,
+  "month": 8,
+  "day": 13,
+  "calendar": "julian",
+  "summary": "After a long siege, Spanish forces under Hernan Cortes and tens of thousands of indigenous allies captured the Aztec capital and its last ruler, Cuauhtemoc.",
+  "reason": "Cortes sought to conquer the Aztec Empire for Spain, and peoples such as the Tlaxcalans joined him against Aztec domination; smallpox had already ravaged the city.",
+  "significance": "It ended the Aztec Empire and began three centuries of Spanish rule in Mexico.",
+  "participants": [
+    "Hernan Cortes",
+    "Aztec Empire",
+    "Cuauhtemoc",
+    "Spanish Empire",
+    "Tlaxcala"
+  ],
+  "countries": [
+    "Mexico",
+    "Spain"
+  ],
+  "place": "Tenochtitlan (Mexico City), Mexico",
+  "lat": 19.435,
+  "lon": -99.131,
+  "tags": [
+    "war"
+  ],
+  "weight": 85,
+  "wikipedia": "Fall of Tenochtitlan",
+  "wikidata": "Q593267"
+}

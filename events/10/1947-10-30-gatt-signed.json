@@ -1,0 +1,30 @@
+{
+  "id": "event-1947-10-30-gatt-signed",
+  "title": "The General Agreement on Tariffs and Trade is signed",
+  "year": 1947,
+  "month": 10,
+  "day": 30,
+  "calendar": "gregorian",
+  "summary": "Twenty three countries signed the General Agreement on Tariffs and Trade in Geneva, cutting tariffs on a large share of world trade.",
+  "reason": "Governments wanted to avoid the protectionism that had deepened the Great Depression.",
+  "significance": "GATT set the rules of world trade until it became the World Trade Organization.",
+  "participants": [
+    "General Agreement on Tariffs and Trade",
+    "United States",
+    "United Kingdom"
+  ],
+  "countries": [
+    "Switzerland",
+    "United States"
+  ],
+  "place": "Geneva, Switzerland",
+  "lat": 46.2044,
+  "lon": 6.1432,
+  "tags": [
+    "economy",
+    "diplomacy"
+  ],
+  "weight": 55,
+  "wikipedia": "General Agreement on Tariffs and Trade",
+  "wikidata": "Q194284"
+}

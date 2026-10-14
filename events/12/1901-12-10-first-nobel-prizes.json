@@ -1,0 +1,30 @@
+{
+  "id": "event-1901-12-10-first-nobel-prizes",
+  "title": "The first Nobel Prizes are awarded",
+  "year": 1901,
+  "month": 12,
+  "day": 10,
+  "calendar": "gregorian",
+  "summary": "The first Nobel Prizes in physics, chemistry, medicine and literature were presented in Stockholm on the anniversary of Alfred Nobel's death, with the peace prize awarded in Christiania.",
+  "reason": "Alfred Nobel left most of his fortune in his will to fund annual prizes for those who conferred the greatest benefit on humankind.",
+  "significance": "The Nobel Prizes became the most prestigious awards in science, literature and peace.",
+  "participants": [
+    "Nobel Foundation",
+    "Wilhelm Rontgen",
+    "Henry Dunant"
+  ],
+  "countries": [
+    "Sweden",
+    "Norway"
+  ],
+  "place": "Stockholm, Sweden",
+  "lat": 59.3293,
+  "lon": 18.0686,
+  "tags": [
+    "science",
+    "culture"
+  ],
+  "weight": 52,
+  "wikipedia": "Nobel Prize",
+  "wikidata": "Q7191"
+}

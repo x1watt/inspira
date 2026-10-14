@@ -1,0 +1,31 @@
+{
+  "id": "event-1346-08-26-crecy",
+  "title": "English longbowmen win the Battle of Crecy",
+  "year": 1346,
+  "month": 8,
+  "day": 26,
+  "calendar": "julian",
+  "summary": "An English army under Edward III, dismounted and backed by massed longbows, destroyed a larger French army in northern France. Many French nobles died in repeated cavalry charges.",
+  "reason": "Edward III claimed the French throne and was raiding through Normandy when Philip VI caught up with him.",
+  "significance": "It was a turning point in the Hundred Years' War and in the decline of the mounted knight.",
+  "participants": [
+    "Kingdom of England",
+    "Kingdom of France",
+    "Edward III of England",
+    "Philip VI of France",
+    "Edward the Black Prince"
+  ],
+  "countries": [
+    "France",
+    "United Kingdom"
+  ],
+  "place": "Crecy-en-Ponthieu, Somme, France",
+  "lat": 50.256,
+  "lon": 1.888,
+  "tags": [
+    "war"
+  ],
+  "weight": 72,
+  "wikipedia": "Battle of Crécy",
+  "wikidata": "Q27759"
+}

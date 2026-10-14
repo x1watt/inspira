@@ -1,0 +1,30 @@
+{
+  "id": "event-1961-04-17-bay-of-pigs",
+  "title": "The Bay of Pigs invasion fails",
+  "year": 1961,
+  "month": 4,
+  "day": 17,
+  "calendar": "gregorian",
+  "summary": "About 1,400 Cuban exiles trained by the CIA landed at the Bay of Pigs and were defeated by Castro's forces within three days.",
+  "reason": "Washington wanted to overthrow Castro without openly using American troops.",
+  "significance": "The failure strengthened Castro and pushed Cuba toward the Soviet Union.",
+  "participants": [
+    "Brigade 2506",
+    "CIA",
+    "Fidel Castro",
+    "John F. Kennedy"
+  ],
+  "countries": [
+    "Cuba",
+    "United States"
+  ],
+  "place": "Bay of Pigs, Cuba",
+  "lat": 22.0667,
+  "lon": -81.1667,
+  "tags": [
+    "war"
+  ],
+  "weight": 61,
+  "wikipedia": "Bay of Pigs Invasion",
+  "wikidata": "Q191721"
+}

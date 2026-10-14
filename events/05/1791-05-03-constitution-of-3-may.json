@@ -1,0 +1,30 @@
+{
+  "id": "event-1791-05-03-constitution-of-3-may",
+  "title": "Poland-Lithuania adopts the Constitution of 3 May",
+  "year": 1791,
+  "month": 5,
+  "day": 3,
+  "calendar": "gregorian",
+  "summary": "The Great Sejm in Warsaw adopted a constitution that strengthened the monarchy and abolished the liberum veto.",
+  "reason": "Reformers wanted to save the Commonwealth from paralysis and foreign domination after the first partition.",
+  "significance": "It was Europe's first modern written constitution.",
+  "participants": [
+    "Great Sejm",
+    "Stanislaw August Poniatowski",
+    "Polish-Lithuanian Commonwealth"
+  ],
+  "countries": [
+    "Poland",
+    "Lithuania"
+  ],
+  "place": "Royal Castle, Warsaw, Poland",
+  "lat": 52.2479,
+  "lon": 21.0152,
+  "tags": [
+    "law",
+    "politics"
+  ],
+  "weight": 60,
+  "wikipedia": "Constitution of 3 May 1791",
+  "wikidata": "Q1129096"
+}

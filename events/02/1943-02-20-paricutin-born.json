@@ -1,0 +1,27 @@
+{
+  "id": "event-1943-02-20-paricutin-born",
+  "title": "Paricutin volcano erupts out of a Mexican cornfield",
+  "year": 1943,
+  "month": 2,
+  "day": 20,
+  "calendar": "gregorian",
+  "summary": "A farmer named Dionisio Pulido saw the ground crack open and smoke in his cornfield in Michoacan. Within a week a cone more than 100 metres high had formed, and lava later buried two villages.",
+  "reason": "The area lies in a volcanic field above the subducting Cocos Plate, where magma found a new path to the surface.",
+  "significance": "It was the first time scientists could study the birth and full life of a volcano from its first day.",
+  "participants": [
+    "Dionisio Pulido"
+  ],
+  "countries": [
+    "Mexico"
+  ],
+  "place": "Paricutin, Michoacan, Mexico",
+  "lat": 19.493,
+  "lon": -102.251,
+  "tags": [
+    "science",
+    "disaster"
+  ],
+  "weight": 50,
+  "wikipedia": "Parícutin",
+  "wikidata": "Q231620"
+}

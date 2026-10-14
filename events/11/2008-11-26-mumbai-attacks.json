@@ -1,0 +1,29 @@
+{
+  "id": "event-2008-11-26-mumbai-attacks",
+  "title": "Terrorists attack Mumbai",
+  "year": 2008,
+  "month": 11,
+  "day": 26,
+  "calendar": "gregorian",
+  "summary": "Ten gunmen from Lashkar-e-Taiba arrived by sea and attacked hotels, a station and other sites in Mumbai over four days, killing 166 people.",
+  "reason": "The Pakistan-based group sought to strike India and provoke conflict over Kashmir.",
+  "significance": "It strained India-Pakistan relations and changed India's security policy.",
+  "participants": [
+    "Lashkar-e-Taiba",
+    "Ajmal Kasab"
+  ],
+  "countries": [
+    "India",
+    "Pakistan"
+  ],
+  "place": "Taj Mahal Palace Hotel, Mumbai, India",
+  "lat": 18.9217,
+  "lon": 72.833,
+  "tags": [
+    "war",
+    "disaster"
+  ],
+  "weight": 58,
+  "wikipedia": "2008 Mumbai attacks",
+  "wikidata": "Q76421"
+}

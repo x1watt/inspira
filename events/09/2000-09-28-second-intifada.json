@@ -1,0 +1,31 @@
+{
+  "id": "event-2000-09-28-second-intifada",
+  "title": "Second Intifada begins",
+  "year": 2000,
+  "month": 9,
+  "day": 28,
+  "calendar": "gregorian",
+  "summary": "Ariel Sharon's visit to the Temple Mount sparked Palestinian protests that grew into a long uprising.",
+  "reason": "The failure of the Camp David summit and frustration with occupation fuelled the anger.",
+  "significance": "Years of violence killed thousands and buried the Oslo peace process.",
+  "participants": [
+    "Ariel Sharon",
+    "Yasser Arafat",
+    "Israel",
+    "Palestinian Authority"
+  ],
+  "countries": [
+    "Israel",
+    "Palestine"
+  ],
+  "place": "Temple Mount, Jerusalem",
+  "lat": 31.778,
+  "lon": 35.2354,
+  "tags": [
+    "war",
+    "politics"
+  ],
+  "weight": 65,
+  "wikipedia": "Second Intifada",
+  "wikidata": "Q49106"
+}

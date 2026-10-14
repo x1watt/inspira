@@ -1,0 +1,46 @@
+{"key": "bc338-08-02-battle-of-chaeronea", "action": "fix", "fields": {"lat": 38.495, "lon": 22.8475}, "note": "Article gives August 338 BC; Britannica gives 2 August; coords set to the article's battlefield coordinates."}
+{"key": "303-02-23-diocletianic-persecution-begins", "action": "keep", "note": "Article: church at Nicomedia razed 23 February 303, edict the next day; event is the start."}
+{"key": "690-10-16-wu-zetian-proclaims-zhou", "action": "keep", "note": "Infobox gives coronation and reign from 16 October 690."}
+{"key": "960-02-04-song-dynasty-founded", "action": "keep", "note": "Song dynasty infobox gives establishment 4 February 960."}
+{"key": "1282-03-30-sicilian-vespers", "action": "keep", "note": "Revolt began Easter Monday 30 March 1282; Wikidata date is later."}
+{"key": "1419-07-30-defenestration-prague", "action": "keep", "note": "Article gives 30 July 1419 for the first defenestration; Wikidata item covers 1618."}
+{"key": "1522-09-06-first-circumnavigation", "action": "keep", "note": "Victoria reached Sanlucar on 6 September 1522 per article."}
+{"key": "1549-08-15-xavier-kagoshima", "action": "keep", "note": "Article: went ashore at Kagoshima on 15 August 1549."}
+{"key": "1603-03-24-tokugawa-shogunate", "action": "keep", "note": "Date matches; Fushimi Castle is the actual site, Wikidata points to Edo."}
+{"key": "1626-11-18-st-peters-consecrated", "action": "keep", "note": "Consecrated 18 November 1626; Wikidata date is the foundation stone."}
+{"key": "1685-10-22-edict-of-fontainebleau", "action": "fix", "fields": {"day": 18}, "note": "Article dates the edict 18 October 1685 (published 22 October); revocation is dated by signing."}
+{"key": "1707-05-12-acts-of-union", "action": "keep", "note": "1 May 1707 Old Style equals 12 May Gregorian per the New Style rule."}
+{"key": "1764-10-22-battle-of-buxar", "action": "keep", "note": "Battle fought 22-23 October 1764; first day used."}
+{"key": "1772-08-05-first-partition-of-poland", "action": "fix", "fields": {"wikipedia": "Partitions of Poland"}, "note": "5 August 1772 is stated in Partitions of Poland, not in the First Partition article."}
+{"key": "1794-07-27-fall-of-robespierre", "action": "keep", "note": "Article infobox gives 27 July 1794 (9 Thermidor)."}
+{"key": "1810-09-18-first-chilean-junta", "action": "fix", "fields": {"wikipedia": "Government Junta of Chile (1810)"}, "note": "Correct article title; it gives the 18 September 1810 cabildo."}
+{"key": "1830-07-27-july-revolution", "action": "keep", "note": "Article: revolution began in earnest on 27 July 1830."}
+{"key": "1854-03-31-convention-of-kanagawa", "action": "keep", "note": "Signed 31 March 1854; Wikidata year is wrong."}
+{"key": "1865-02-08-mendel-plant-hybridization", "action": "keep", "note": "Paper read at Brunn society on 8 February 1865 per article."}
+{"key": "1869-05-10-golden-spike", "action": "keep", "note": "Golden spike 10 May 1869 at Promontory Summit; Wikidata coords are of the whole line."}
+{"key": "1900-12-14-planck-quantum", "action": "fix", "fields": {"wikipedia": "Max Planck"}, "note": "Max Planck article states the derivation was presented to the DPG on 14 December 1900."}
+{"key": "1906-09-11-gandhi-satyagraha", "action": "fix", "fields": {"wikipedia": "Asiatic Registration Act"}, "note": "That article states the mass meeting at the Empire Theatre on 11 September 1906."}
+{"key": "1911-12-14-amundsen-south-pole", "action": "keep", "note": "Reached the South Pole 14 December 1911."}
+{"key": "1915-04-22-second-battle-of-ypres", "action": "keep", "note": "Gas attack and start of battle on 22 April 1915."}
+{"key": "1926-07-09-northern-expedition", "action": "keep", "note": "Infobox gives start 9 July 1926; Guangzhou was the launch point."}
+{"key": "1934-10-16-long-march", "action": "keep", "note": "Date matches; Yudu is the departure point."}
+{"key": "1938-03-12-anschluss", "action": "keep", "note": "Date matches; Vienna is the right place."}
+{"key": "1939-11-30-winter-war-begins", "action": "keep", "note": "Date matches; Helsinki bombed on the first day."}
+{"key": "1940-09-22-japan-invades-indochina", "action": "keep", "note": "Date matches; Lang Son was the invasion site."}
+{"key": "1941-08-25-anglo-soviet-invasion-iran", "action": "keep", "note": "Date matches; Wikidata coords are a country centroid."}
+{"key": "1943-05-13-axis-surrender-tunisia", "action": "keep", "note": "Axis surrender on 13 May 1943 per article; Wikidata coords are a centroid."}
+{"key": "1945-05-08-setif-massacre", "action": "keep", "note": "Massacre began at Setif on 8 May 1945; Wikidata coords are a country centroid."}
+{"key": "1952-10-20-kenya-emergency", "action": "keep", "note": "Emergency declared 20 October 1952; Nairobi is correct."}
+{"key": "1954-07-21-geneva-conference-1954", "action": "keep", "note": "Conference ended and accords concluded 21 July 1954."}
+{"key": "1962-10-16-cuban-missile-crisis", "action": "keep", "note": "Article: crisis lasted from 16 to 28 October 1962; Washington is where it began."}
+{"key": "1967-06-05-six-day-war", "action": "keep", "note": "Date matches; Sinai is the main front."}
+{"key": "1972-05-26-salt-i", "action": "keep", "note": "SALT I signed in Moscow 26 May 1972; Wikidata date is SALT II."}
+{"key": "1976-07-20-viking-1-landing", "action": "keep", "note": "Landed 20 July 1976; Wikidata date is launch; no Earth coordinates."}
+{"key": "1987-12-08-inf-treaty", "action": "keep", "note": "Date matches; signed at the White House."}
+{"key": "1991-01-17-desert-storm", "action": "keep", "note": "Date matches; Baghdad was the main target."}
+{"key": "1994-05-10-mandela-inauguration", "action": "fix", "fields": {"wikipedia": "Presidency of Nelson Mandela"}, "note": "Inauguration article does not exist; Presidency of Nelson Mandela states 10 May 1994."}
+{"key": "2001-09-11-september-11", "action": "keep", "note": "Date matches; World Trade Center is the main site."}
+{"key": "2003-03-20-iraq-invasion", "action": "keep", "note": "Date matches; Baghdad is reasonable."}
+{"key": "2010-12-17-tunisian-revolution", "action": "keep", "note": "Bouazizi self-immolation 17 December 2010 in Sidi Bouzid."}
+{"key": "2013-11-08-typhoon-haiyan", "action": "keep", "note": "First landfall 20:40 UTC 7 November, which is 8 November local time."}
+{"key": "2020-11-30-alphafold", "action": "keep", "note": "CASP14 results announced 30 November 2020, cited source dated that day."}

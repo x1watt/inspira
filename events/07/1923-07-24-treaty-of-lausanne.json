@@ -1,0 +1,34 @@
+{
+  "id": "event-1923-07-24-treaty-of-lausanne",
+  "title": "The Treaty of Lausanne recognizes modern Turkey",
+  "year": 1923,
+  "month": 7,
+  "day": 24,
+  "calendar": "gregorian",
+  "summary": "Turkey and the Allied powers signed a peace treaty in Lausanne that replaced the Treaty of Sevres and recognized the borders of a sovereign Turkish state.",
+  "reason": "Turkish victory in the War of Independence forced the Allies to negotiate new terms.",
+  "significance": "It set Turkey's modern borders and confirmed a large population exchange between Greece and Turkey.",
+  "participants": [
+    "Grand National Assembly of Turkey",
+    "Ismet Inonu",
+    "United Kingdom",
+    "France",
+    "Italy",
+    "Greece"
+  ],
+  "countries": [
+    "Switzerland",
+    "Turkey",
+    "Greece",
+    "United Kingdom"
+  ],
+  "place": "Lausanne, Switzerland",
+  "lat": 46.5197,
+  "lon": 6.6323,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 57,
+  "wikipedia": "Treaty of Lausanne",
+  "wikidata": "Q193258"
+}

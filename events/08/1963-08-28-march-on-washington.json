@@ -1,0 +1,27 @@
+{
+  "id": "event-1963-08-28-march-on-washington",
+  "title": "Martin Luther King Jr. gives his I Have a Dream speech",
+  "year": 1963,
+  "month": 8,
+  "day": 28,
+  "calendar": "gregorian",
+  "summary": "About 250,000 people joined the March on Washington for Jobs and Freedom, where Martin Luther King Jr. gave his I Have a Dream speech.",
+  "reason": "Civil rights groups wanted to press Congress to pass Kennedy's civil rights bill.",
+  "significance": "It became a defining moment of the civil rights movement.",
+  "participants": [
+    "Martin Luther King Jr.",
+    "A. Philip Randolph",
+    "Bayard Rustin"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Lincoln Memorial, Washington, D.C., United States",
+  "lat": 38.8893,
+  "lon": -77.0502,
+  "tags": [
+    "rights"
+  ],
+  "weight": 73,
+  "wikipedia": "March on Washington"
+}

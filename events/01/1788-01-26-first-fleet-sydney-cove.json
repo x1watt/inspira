@@ -1,0 +1,31 @@
+{
+  "id": "event-1788-01-26-first-fleet-sydney-cove",
+  "title": "First Fleet establishes a British colony at Sydney Cove",
+  "year": 1788,
+  "month": 1,
+  "day": 26,
+  "calendar": "gregorian",
+  "summary": "Arthur Phillip raised the British flag at Sydney Cove, where the convicts and marines of the First Fleet founded the colony of New South Wales.",
+  "reason": "Britain needed a new place to send convicts after losing the American colonies.",
+  "significance": "It began European settlement of Australia and the dispossession of its Aboriginal peoples.",
+  "participants": [
+    "Arthur Phillip",
+    "First Fleet",
+    "Kingdom of Great Britain",
+    "Eora"
+  ],
+  "countries": [
+    "Australia",
+    "United Kingdom"
+  ],
+  "place": "Sydney Cove, Sydney, Australia",
+  "lat": -33.8587,
+  "lon": 151.2108,
+  "tags": [
+    "exploration",
+    "politics"
+  ],
+  "weight": 80,
+  "wikipedia": "First Fleet",
+  "wikidata": "Q1419429"
+}

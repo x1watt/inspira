@@ -1,0 +1,32 @@
+{
+  "id": "event-1942-10-23-second-battle-el-alamein",
+  "title": "Second Battle of El Alamein begins",
+  "year": 1942,
+  "month": 10,
+  "day": 23,
+  "calendar": "gregorian",
+  "summary": "The British Eighth Army under Bernard Montgomery attacked the German and Italian forces of Erwin Rommel in the Egyptian desert, breaking through after twelve days.",
+  "reason": "Rommel's advance threatened the Suez Canal and Middle East oil, and the British had built up a large superiority in men and tanks.",
+  "significance": "It ended the Axis threat to Egypt and was Britain's first major land victory over Germany.",
+  "participants": [
+    "British Eighth Army",
+    "Panzer Army Africa",
+    "Bernard Montgomery",
+    "Erwin Rommel"
+  ],
+  "countries": [
+    "Egypt",
+    "United Kingdom",
+    "Germany",
+    "Italy"
+  ],
+  "place": "El Alamein, Egypt",
+  "lat": 30.8306,
+  "lon": 28.9556,
+  "tags": [
+    "war"
+  ],
+  "weight": 72,
+  "wikipedia": "Second Battle of El Alamein",
+  "wikidata": "Q153376"
+}

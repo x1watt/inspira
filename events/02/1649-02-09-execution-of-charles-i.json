@@ -1,0 +1,28 @@
+{
+  "id": "event-1649-02-09-execution-of-charles-i",
+  "title": "King Charles I of England is executed",
+  "year": 1649,
+  "month": 2,
+  "day": 9,
+  "calendar": "gregorian",
+  "summary": "After being convicted of treason by a special court of Parliament, Charles I was beheaded outside the Banqueting House in Whitehall.",
+  "reason": "Charles had lost two civil wars against Parliament and was blamed for renewing the bloodshed by seeking Scottish help.",
+  "significance": "England became a republic, and the public trial of a reigning king shook monarchies across Europe.",
+  "participants": [
+    "Charles I of England",
+    "Oliver Cromwell",
+    "Rump Parliament"
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "place": "Banqueting House, Whitehall, London, United Kingdom",
+  "lat": 51.5045,
+  "lon": -0.1262,
+  "tags": [
+    "politics",
+    "revolution"
+  ],
+  "weight": 74,
+  "wikipedia": "Execution of Charles I of England"
+}

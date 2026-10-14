@@ -1,0 +1,29 @@
+{
+  "id": "event-1981-10-06-sadat-assassination",
+  "title": "Anwar Sadat is assassinated",
+  "year": 1981,
+  "month": 10,
+  "day": 6,
+  "calendar": "gregorian",
+  "summary": "Islamist army officers shot Egyptian President Anwar Sadat during a military parade in Cairo.",
+  "reason": "The Egyptian Islamic Jihad group condemned his peace with Israel and his crackdown on opponents.",
+  "significance": "Hosni Mubarak succeeded him and ruled for 30 years.",
+  "participants": [
+    "Anwar Sadat",
+    "Khalid Islambouli",
+    "Egyptian Islamic Jihad",
+    "Hosni Mubarak"
+  ],
+  "countries": [
+    "Egypt"
+  ],
+  "place": "Nasr City, Cairo, Egypt",
+  "lat": 30.073,
+  "lon": 31.315,
+  "tags": [
+    "politics"
+  ],
+  "weight": 55,
+  "wikipedia": "Assassination of Anwar Sadat",
+  "wikidata": "Q2756743"
+}

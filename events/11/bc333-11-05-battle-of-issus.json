@@ -1,0 +1,31 @@
+{
+  "id": "event-bc333-11-05-battle-of-issus",
+  "title": "Alexander defeats Darius III at Issus",
+  "year": -333,
+  "month": 11,
+  "day": 5,
+  "calendar": "julian",
+  "summary": "Alexander the Great defeated the much larger Persian army of Darius III near Issus in southern Anatolia. Darius fled the field and left his family behind.",
+  "reason": "Alexander had invaded the Persian Empire, and Darius came in person to stop his advance along the coast.",
+  "significance": "The victory opened the Levant and Egypt to Alexander and shook Persian authority.",
+  "participants": [
+    "Alexander the Great",
+    "Darius III",
+    "Macedonia",
+    "Achaemenid Empire"
+  ],
+  "countries": [
+    "Turkey",
+    "Greece",
+    "Iran"
+  ],
+  "place": "Near Issus, Hatay, Turkey",
+  "lat": 36.84,
+  "lon": 36.21,
+  "tags": [
+    "war"
+  ],
+  "weight": 72,
+  "wikipedia": "Battle of Issus",
+  "wikidata": "Q201526"
+}

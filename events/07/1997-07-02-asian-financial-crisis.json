@@ -1,0 +1,29 @@
+{
+  "id": "event-1997-07-02-asian-financial-crisis",
+  "title": "Thailand floats the baht, starting the Asian financial crisis",
+  "year": 1997,
+  "month": 7,
+  "day": 2,
+  "calendar": "gregorian",
+  "summary": "Thailand gave up defending its currency's peg to the dollar, and the baht collapsed.",
+  "reason": "Speculators attacked a currency backed by heavy foreign borrowing and a property bubble.",
+  "significance": "The crisis spread across East Asia and toppled governments, including Suharto's.",
+  "participants": [
+    "Thailand",
+    "International Monetary Fund"
+  ],
+  "countries": [
+    "Thailand",
+    "Indonesia",
+    "South Korea"
+  ],
+  "place": "Bangkok, Thailand",
+  "lat": 13.7563,
+  "lon": 100.5018,
+  "tags": [
+    "economy"
+  ],
+  "weight": 72,
+  "wikipedia": "1997 Asian financial crisis",
+  "wikidata": "Q80880"
+}

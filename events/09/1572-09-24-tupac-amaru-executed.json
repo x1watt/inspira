@@ -1,0 +1,30 @@
+{
+  "id": "event-1572-09-24-tupac-amaru-executed",
+  "title": "The last Inca ruler Tupac Amaru is executed in Cusco",
+  "year": 1572,
+  "month": 9,
+  "day": 24,
+  "calendar": "julian",
+  "summary": "Tupac Amaru, ruler of the Neo-Inca State of Vilcabamba, was captured by Spanish forces and beheaded in the main square of Cusco.",
+  "reason": "Viceroy Francisco de Toledo was determined to end the independent Inca state in the mountains.",
+  "significance": "It ended the last independent Inca state.",
+  "participants": [
+    "Tupac Amaru",
+    "Francisco de Toledo",
+    "Neo-Inca State",
+    "Spanish Empire"
+  ],
+  "countries": [
+    "Peru",
+    "Spain"
+  ],
+  "place": "Plaza de Armas, Cusco, Peru",
+  "lat": -13.516,
+  "lon": -71.979,
+  "tags": [
+    "politics"
+  ],
+  "weight": 50,
+  "wikipedia": "Túpac Amaru",
+  "wikidata": "Q296269"
+}

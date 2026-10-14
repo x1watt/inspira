@@ -1,0 +1,30 @@
+{
+  "id": "event-1526-04-21-first-panipat",
+  "title": "Babur wins the First Battle of Panipat",
+  "year": 1526,
+  "month": 4,
+  "day": 21,
+  "calendar": "julian",
+  "summary": "Babur, a Timurid prince from Kabul, used field guns and mobile cavalry to defeat the much larger army of Ibrahim Lodi, Sultan of Delhi, who died in the battle.",
+  "reason": "Babur sought a new kingdom in India, and discontented Lodi nobles invited him in.",
+  "significance": "It founded the Mughal Empire, which ruled most of South Asia for two centuries.",
+  "participants": [
+    "Babur",
+    "Mughal Empire",
+    "Ibrahim Lodi",
+    "Delhi Sultanate"
+  ],
+  "countries": [
+    "India",
+    "Afghanistan"
+  ],
+  "place": "Panipat, Haryana, India",
+  "lat": 29.391,
+  "lon": 76.964,
+  "tags": [
+    "war"
+  ],
+  "weight": 80,
+  "wikipedia": "First Battle of Panipat",
+  "wikidata": "Q605321"
+}

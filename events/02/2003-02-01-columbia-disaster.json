@@ -1,0 +1,30 @@
+{
+  "id": "event-2003-02-01-columbia-disaster",
+  "title": "Space Shuttle Columbia breaks up on re-entry",
+  "year": 2003,
+  "month": 2,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "Columbia disintegrated over Texas while returning to Earth, killing all seven crew members.",
+  "reason": "A piece of foam struck the wing at launch and damaged the heat shield.",
+  "significance": "It led to the retirement of the shuttle fleet in 2011.",
+  "participants": [
+    "NASA",
+    "Space Shuttle Columbia",
+    "Ilan Ramon",
+    "Kalpana Chawla"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "East Texas, United States",
+  "lat": 31.3401,
+  "lon": -93.8463,
+  "tags": [
+    "disaster",
+    "exploration"
+  ],
+  "weight": 55,
+  "wikipedia": "Space Shuttle Columbia disaster",
+  "wikidata": "Q580867"
+}

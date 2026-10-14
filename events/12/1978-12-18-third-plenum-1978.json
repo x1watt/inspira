@@ -1,0 +1,29 @@
+{
+  "id": "event-1978-12-18-third-plenum-1978",
+  "title": "Deng Xiaoping launches China's reform and opening up",
+  "year": 1978,
+  "month": 12,
+  "day": 18,
+  "calendar": "gregorian",
+  "summary": "The Third Plenum of the 11th Central Committee opened in Beijing and shifted the party's focus to economic modernization under Deng Xiaoping.",
+  "reason": "After Mao's death and the chaos of the Cultural Revolution, Deng won the struggle for leadership.",
+  "significance": "The reforms turned China into an economic superpower.",
+  "participants": [
+    "Deng Xiaoping",
+    "Chinese Communist Party",
+    "Hua Guofeng"
+  ],
+  "countries": [
+    "China"
+  ],
+  "place": "Beijing, China",
+  "lat": 39.9042,
+  "lon": 116.4074,
+  "tags": [
+    "economy",
+    "politics"
+  ],
+  "weight": 77,
+  "wikipedia": "Reform and opening up",
+  "wikidata": "Q1205521"
+}

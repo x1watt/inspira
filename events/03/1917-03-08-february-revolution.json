@@ -1,0 +1,28 @@
+{
+  "id": "event-1917-03-08-february-revolution",
+  "title": "The February Revolution begins in Petrograd",
+  "year": 1917,
+  "month": 3,
+  "day": 8,
+  "calendar": "gregorian",
+  "summary": "Protests and strikes over bread shortages broke out in Petrograd and grew into a revolt joined by soldiers, forcing Tsar Nicholas II to abdicate within a week.",
+  "reason": "War losses, food shortages and contempt for the Tsar's government had made the regime deeply unpopular.",
+  "significance": "It ended three centuries of Romanov rule and opened the path to the Bolshevik seizure of power.",
+  "participants": [
+    "Nicholas II",
+    "Petrograd Soviet",
+    "Russian Provisional Government"
+  ],
+  "countries": [
+    "Russia"
+  ],
+  "place": "Petrograd (St. Petersburg), Russia",
+  "lat": 59.9343,
+  "lon": 30.3351,
+  "tags": [
+    "revolution"
+  ],
+  "weight": 77,
+  "wikipedia": "February Revolution",
+  "wikidata": "Q101534"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "event-732-10-10-battle-of-tours",
+  "title": "Charles Martel defeats the Umayyads at the Battle of Tours",
+  "year": 732,
+  "month": 10,
+  "day": 10,
+  "calendar": "julian",
+  "summary": "Frankish forces under Charles Martel defeated an Umayyad army led by Abd al-Rahman al-Ghafiqi between Poitiers and Tours. The Umayyad commander was killed.",
+  "reason": "After conquering Iberia, Umayyad armies were raiding north into Gaul, and this force was heading for the rich abbey of Tours.",
+  "significance": "It halted the northward advance of the caliphate into Western Europe and raised the power of the Carolingian family.",
+  "participants": [
+    "Charles Martel",
+    "Franks",
+    "Abd al-Rahman al-Ghafiqi",
+    "Umayyad Caliphate"
+  ],
+  "countries": [
+    "France"
+  ],
+  "place": "Between Poitiers and Tours, France",
+  "lat": 46.74,
+  "lon": 0.53,
+  "tags": [
+    "war"
+  ],
+  "weight": 80,
+  "wikipedia": "Battle of Tours",
+  "wikidata": "Q173077"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "event-311-04-30-edict-of-serdica",
+  "title": "Galerius issues the Edict of Serdica",
+  "year": 311,
+  "month": 4,
+  "day": 30,
+  "calendar": "julian",
+  "summary": "The dying emperor Galerius issued an edict ending the persecution of Christians and allowing them to practise their faith.",
+  "reason": "Years of persecution had failed to destroy Christianity, and Galerius was gravely ill.",
+  "significance": "It was the first imperial edict to legalise Christianity, two years before the Edict of Milan.",
+  "participants": [
+    "Galerius",
+    "Roman Empire",
+    "Early Christians"
+  ],
+  "countries": [
+    "Bulgaria",
+    "Turkey"
+  ],
+  "place": "Serdica (Sofia), Bulgaria",
+  "lat": 42.6977,
+  "lon": 23.3219,
+  "tags": [
+    "religion",
+    "law"
+  ],
+  "weight": 60,
+  "wikipedia": "Edict of Serdica",
+  "wikidata": "Q128742"
+}

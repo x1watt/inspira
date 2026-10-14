@@ -1,0 +1,28 @@
+{
+  "id": "event-192-12-31-assassination-of-commodus",
+  "title": "Emperor Commodus is strangled",
+  "year": 192,
+  "month": 12,
+  "day": 31,
+  "calendar": "julian",
+  "summary": "Commodus was strangled in his bath by the wrestler Narcissus in a plot organised by his court officials.",
+  "reason": "The emperor's erratic rule and plan to appear as a gladiator and consul on New Year's Day alarmed his household and the Praetorian prefect.",
+  "significance": "His death ended the Nerva Antonine dynasty and led to the civil wars of 193.",
+  "participants": [
+    "Commodus",
+    "Narcissus",
+    "Pertinax"
+  ],
+  "countries": [
+    "Italy"
+  ],
+  "place": "Rome, Italy",
+  "lat": 41.8925,
+  "lon": 12.4853,
+  "tags": [
+    "politics"
+  ],
+  "weight": 52,
+  "wikipedia": "Commodus",
+  "wikidata": "Q1434"
+}

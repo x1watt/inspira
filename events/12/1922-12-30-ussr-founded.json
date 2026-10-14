@@ -1,0 +1,34 @@
+{
+  "id": "event-1922-12-30-ussr-founded",
+  "title": "The Soviet Union is founded",
+  "year": 1922,
+  "month": 12,
+  "day": 30,
+  "calendar": "gregorian",
+  "summary": "Delegates from Russia, Ukraine, Belarus and the Transcaucasian republic approved the treaty creating the Union of Soviet Socialist Republics in Moscow.",
+  "reason": "After winning the Civil War, the Bolsheviks needed a formal structure to bind the Soviet republics under one government.",
+  "significance": "The USSR became a superpower that shaped the twentieth century until its collapse in 1991.",
+  "participants": [
+    "Russian SFSR",
+    "Ukrainian SSR",
+    "Byelorussian SSR",
+    "Transcaucasian SFSR",
+    "Vladimir Lenin"
+  ],
+  "countries": [
+    "Russia",
+    "Ukraine",
+    "Belarus",
+    "Georgia",
+    "Armenia",
+    "Azerbaijan"
+  ],
+  "place": "Bolshoi Theatre, Moscow, Russia",
+  "lat": 55.7601,
+  "lon": 37.6186,
+  "tags": [
+    "politics"
+  ],
+  "weight": 77,
+  "wikipedia": "Treaty on the Creation of the Union of Soviet Socialist Republics"
+}

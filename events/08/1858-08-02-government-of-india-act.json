@@ -1,0 +1,30 @@
+{
+  "id": "event-1858-08-02-government-of-india-act",
+  "title": "British Crown takes direct rule over India",
+  "year": 1858,
+  "month": 8,
+  "day": 2,
+  "calendar": "gregorian",
+  "summary": "The Government of India Act transferred the government of India from the East India Company to the British Crown, ruling through a Secretary of State and a Viceroy.",
+  "reason": "The 1857 rebellion convinced Parliament that the company could no longer govern India.",
+  "significance": "It began the British Raj, which lasted until independence in 1947.",
+  "participants": [
+    "Parliament of the United Kingdom",
+    "British East India Company",
+    "Queen Victoria"
+  ],
+  "countries": [
+    "India",
+    "United Kingdom"
+  ],
+  "place": "Palace of Westminster, London, United Kingdom",
+  "lat": null,
+  "lon": null,
+  "tags": [
+    "law",
+    "politics"
+  ],
+  "weight": 60,
+  "wikipedia": "Government of India Act 1858",
+  "wikidata": "Q1359529"
+}

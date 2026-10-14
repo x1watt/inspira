@@ -1,0 +1,28 @@
+{
+  "id": "event-1922-10-28-march-on-rome",
+  "title": "Mussolini's Fascists march on Rome",
+  "year": 1922,
+  "month": 10,
+  "day": 28,
+  "calendar": "gregorian",
+  "summary": "Thousands of Fascist Blackshirts converged on Rome, and King Victor Emmanuel III refused to declare martial law and soon asked Benito Mussolini to form a government.",
+  "reason": "Postwar unrest, fear of socialism and a weak liberal state let the Fascists present themselves as a force for order.",
+  "significance": "It brought the first fascist government to power in Europe.",
+  "participants": [
+    "Benito Mussolini",
+    "National Fascist Party",
+    "Victor Emmanuel III"
+  ],
+  "countries": [
+    "Italy"
+  ],
+  "place": "Rome, Italy",
+  "lat": 41.9028,
+  "lon": 12.4964,
+  "tags": [
+    "politics"
+  ],
+  "weight": 67,
+  "wikipedia": "March on Rome",
+  "wikidata": "Q468823"
+}

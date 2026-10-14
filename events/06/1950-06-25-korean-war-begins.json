@@ -1,0 +1,30 @@
+{
+  "id": "event-1950-06-25-korean-war-begins",
+  "title": "North Korea invades South Korea",
+  "year": 1950,
+  "month": 6,
+  "day": 25,
+  "calendar": "gregorian",
+  "summary": "North Korean forces crossed the 38th parallel in a full scale invasion of South Korea, quickly advancing toward Seoul.",
+  "reason": "Kim Il Sung wanted to unify Korea by force and had won the approval of Stalin and Mao.",
+  "significance": "The Korean War drew in the United States, the UN and China and froze the division of Korea.",
+  "participants": [
+    "North Korea",
+    "South Korea",
+    "Kim Il Sung",
+    "Syngman Rhee"
+  ],
+  "countries": [
+    "North Korea",
+    "South Korea"
+  ],
+  "place": "38th parallel, Korea",
+  "lat": 38.0,
+  "lon": 127.0,
+  "tags": [
+    "war"
+  ],
+  "weight": 77,
+  "wikipedia": "Korean War",
+  "wikidata": "Q8663"
+}

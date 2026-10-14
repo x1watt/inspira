@@ -1,0 +1,29 @@
+{
+  "id": "event-2024-12-08-fall-of-assad",
+  "title": "Assad regime falls in Syria",
+  "year": 2024,
+  "month": 12,
+  "day": 8,
+  "calendar": "gregorian",
+  "summary": "Rebels led by Hayat Tahrir al-Sham entered Damascus as Bashar al-Assad fled to Moscow.",
+  "reason": "A lightning offensive met an army hollowed out by years of war, while Assad's allies Russia, Iran and Hezbollah were weakened.",
+  "significance": "It ended more than fifty years of rule by the Assad family.",
+  "participants": [
+    "Hayat Tahrir al-Sham",
+    "Bashar al-Assad",
+    "Ahmed al-Sharaa"
+  ],
+  "countries": [
+    "Syria"
+  ],
+  "place": "Damascus, Syria",
+  "lat": 33.5138,
+  "lon": 36.2765,
+  "tags": [
+    "war",
+    "revolution"
+  ],
+  "weight": 70,
+  "wikipedia": "Fall of the Assad regime",
+  "wikidata": "Q131404510"
+}

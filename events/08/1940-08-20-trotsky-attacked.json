@@ -1,0 +1,30 @@
+{
+  "id": "event-1940-08-20-trotsky-attacked",
+  "title": "Leon Trotsky is fatally attacked in Mexico City",
+  "year": 1940,
+  "month": 8,
+  "day": 20,
+  "calendar": "gregorian",
+  "summary": "The Soviet agent Ramon Mercader struck Leon Trotsky with an ice axe at his house in Coyoacan. Trotsky died in hospital the following day.",
+  "reason": "Stalin had ordered the killing of his exiled rival, who had kept writing and organising against him from abroad.",
+  "significance": "It removed the most prominent opponent of Stalin within the communist movement.",
+  "participants": [
+    "Leon Trotsky",
+    "Ramon Mercader",
+    "NKVD",
+    "Joseph Stalin"
+  ],
+  "countries": [
+    "Mexico",
+    "Russia"
+  ],
+  "place": "Coyoacan, Mexico City, Mexico",
+  "lat": 19.355,
+  "lon": -99.161,
+  "tags": [
+    "politics"
+  ],
+  "weight": 55,
+  "wikipedia": "Assassination of Leon Trotsky",
+  "wikidata": "Q4468600"
+}

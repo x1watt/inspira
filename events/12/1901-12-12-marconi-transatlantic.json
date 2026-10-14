@@ -1,0 +1,28 @@
+{
+  "id": "event-1901-12-12-marconi-transatlantic",
+  "title": "Marconi receives the first transatlantic radio signal",
+  "year": 1901,
+  "month": 12,
+  "day": 12,
+  "calendar": "gregorian",
+  "summary": "Guglielmo Marconi reported receiving the Morse letter S, sent from Poldhu in Cornwall, at Signal Hill in St. John's, Newfoundland, using a kite-borne antenna.",
+  "reason": "Marconi wanted to prove that wireless signals could travel beyond the horizon and compete with undersea telegraph cables.",
+  "significance": "It showed long-distance radio was possible and launched the era of global wireless communication.",
+  "participants": [
+    "Guglielmo Marconi"
+  ],
+  "countries": [
+    "Canada",
+    "United Kingdom",
+    "Italy"
+  ],
+  "place": "Signal Hill, St. John's, Canada",
+  "lat": 47.5701,
+  "lon": -52.6819,
+  "tags": [
+    "technology"
+  ],
+  "weight": 67,
+  "wikipedia": "Guglielmo Marconi",
+  "wikidata": "Q36488"
+}

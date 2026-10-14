@@ -1,0 +1,30 @@
+{
+  "id": "event-1962-10-20-sino-indian-war",
+  "title": "China attacks India, starting the Sino-Indian War",
+  "year": 1962,
+  "month": 10,
+  "day": 20,
+  "calendar": "gregorian",
+  "summary": "Chinese forces launched offensives against Indian positions in the eastern Himalayas and Aksai Chin, routing Indian troops within weeks.",
+  "reason": "The two countries disputed their border, and India's Forward Policy and its shelter for the Dalai Lama angered Beijing.",
+  "significance": "The defeat shocked India and left a border dispute that still remains.",
+  "participants": [
+    "People's Liberation Army",
+    "Indian Army",
+    "Jawaharlal Nehru",
+    "Mao Zedong"
+  ],
+  "countries": [
+    "China",
+    "India"
+  ],
+  "place": "Namka Chu valley, near Tawang, India",
+  "lat": 27.78,
+  "lon": 91.68,
+  "tags": [
+    "war"
+  ],
+  "weight": 53,
+  "wikipedia": "Sino-Indian War",
+  "wikidata": "Q208694"
+}

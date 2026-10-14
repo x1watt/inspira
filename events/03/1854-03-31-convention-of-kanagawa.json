@@ -1,0 +1,29 @@
+{
+  "id": "event-1854-03-31-convention-of-kanagawa",
+  "title": "Convention of Kanagawa opens Japan to American ships",
+  "year": 1854,
+  "month": 3,
+  "day": 31,
+  "calendar": "gregorian",
+  "summary": "Japan and the United States signed a treaty opening the ports of Shimoda and Hakodate to American ships and allowing a consul in Japan.",
+  "reason": "Perry returned with a larger fleet, and the shogunate concluded it could not resist Western naval power.",
+  "significance": "It was Japan's first treaty with a Western power and led to similar treaties with other nations.",
+  "participants": [
+    "Matthew C. Perry",
+    "Tokugawa shogunate",
+    "Hayashi Akira"
+  ],
+  "countries": [
+    "Japan",
+    "United States"
+  ],
+  "place": "Yokohama, Kanagawa, Japan",
+  "lat": 35.4437,
+  "lon": 139.638,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 60,
+  "wikipedia": "Convention of Kanagawa",
+  "wikidata": "Q771451"
+}

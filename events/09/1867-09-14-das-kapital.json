@@ -1,0 +1,30 @@
+{
+  "id": "event-1867-09-14-das-kapital",
+  "title": "Marx publishes the first volume of Das Kapital",
+  "year": 1867,
+  "month": 9,
+  "day": 14,
+  "calendar": "gregorian",
+  "summary": "The first volume of Karl Marx's critique of political economy was published in Hamburg by Otto Meissner.",
+  "reason": "Marx had spent years in the British Museum studying capitalism to show how it exploits labor and contains the seeds of its own collapse.",
+  "significance": "It became the theoretical foundation of Marxism and influenced politics and economics worldwide.",
+  "participants": [
+    "Karl Marx",
+    "Friedrich Engels",
+    "Otto Meissner"
+  ],
+  "countries": [
+    "Germany",
+    "United Kingdom"
+  ],
+  "place": "Hamburg, Germany",
+  "lat": 53.5511,
+  "lon": 9.9937,
+  "tags": [
+    "economy",
+    "politics"
+  ],
+  "weight": 75,
+  "wikipedia": "Das Kapital",
+  "wikidata": "Q58784"
+}

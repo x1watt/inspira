@@ -1,0 +1,29 @@
+{
+  "id": "event-1492-10-12-columbus-landfall",
+  "title": "Columbus makes landfall in the Bahamas",
+  "year": 1492,
+  "month": 10,
+  "day": 12,
+  "calendar": "julian",
+  "summary": "After crossing the Atlantic with three ships, Christopher Columbus landed on an island the Lucayan people called Guanahani and named it San Salvador.",
+  "reason": "Columbus, sponsored by the Crown of Castile, sought a western sea route to Asia for trade in spices and gold.",
+  "significance": "It began lasting contact between Europe and the Americas, with enormous consequences for both.",
+  "participants": [
+    "Christopher Columbus",
+    "Crown of Castile",
+    "Lucayan people"
+  ],
+  "countries": [
+    "Bahamas",
+    "Spain"
+  ],
+  "place": "Guanahani (San Salvador Island), Bahamas",
+  "lat": 24.05,
+  "lon": -74.5,
+  "tags": [
+    "exploration"
+  ],
+  "weight": 97,
+  "wikipedia": "Voyages of Christopher Columbus",
+  "wikidata": "Q18578423"
+}

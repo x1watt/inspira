@@ -1,0 +1,32 @@
+{
+  "id": "event-1713-04-11-peace-of-utrecht",
+  "title": "Peace of Utrecht ends the War of the Spanish Succession",
+  "year": 1713,
+  "month": 4,
+  "day": 11,
+  "calendar": "gregorian",
+  "summary": "France signed treaties at Utrecht with Britain, the Dutch Republic and others, recognizing Philip V as king of Spain while barring the union of the French and Spanish crowns.",
+  "reason": "More than a decade of war over the Spanish throne had exhausted the powers involved.",
+  "significance": "Britain gained Gibraltar, Newfoundland and the slave trade asiento, beginning its rise to world power.",
+  "participants": [
+    "Kingdom of France",
+    "Kingdom of Great Britain",
+    "Dutch Republic",
+    "Philip V of Spain"
+  ],
+  "countries": [
+    "Netherlands",
+    "France",
+    "United Kingdom",
+    "Spain"
+  ],
+  "place": "Utrecht, Netherlands",
+  "lat": 52.0907,
+  "lon": 5.1214,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 72,
+  "wikipedia": "Peace of Utrecht",
+  "wikidata": "Q154674"
+}

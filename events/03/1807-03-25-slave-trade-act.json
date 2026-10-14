@@ -1,0 +1,29 @@
+{
+  "id": "event-1807-03-25-slave-trade-act",
+  "title": "Britain abolishes the slave trade",
+  "year": 1807,
+  "month": 3,
+  "day": 25,
+  "calendar": "gregorian",
+  "summary": "The Slave Trade Act received royal assent, prohibiting the slave trade in the British Empire.",
+  "reason": "Decades of campaigning by abolitionists such as William Wilberforce and Thomas Clarkson won over Parliament.",
+  "significance": "Britain then used its navy to suppress the Atlantic slave trade.",
+  "participants": [
+    "Parliament of the United Kingdom",
+    "William Wilberforce",
+    "Thomas Clarkson"
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "place": "Westminster, London, United Kingdom",
+  "lat": 51.4995,
+  "lon": -0.1248,
+  "tags": [
+    "rights",
+    "law"
+  ],
+  "weight": 70,
+  "wikipedia": "Slave Trade Act 1807",
+  "wikidata": "Q770832"
+}

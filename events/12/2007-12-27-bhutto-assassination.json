@@ -1,0 +1,27 @@
+{
+  "id": "event-2007-12-27-bhutto-assassination",
+  "title": "Benazir Bhutto is assassinated",
+  "year": 2007,
+  "month": 12,
+  "day": 27,
+  "calendar": "gregorian",
+  "summary": "Former Pakistani Prime Minister Benazir Bhutto was killed by a gunman and suicide bomber after a rally in Rawalpindi.",
+  "reason": "She had returned from exile to run in elections, defying threats from militants.",
+  "significance": "Her death plunged Pakistan into unrest and hastened the end of Musharraf's rule.",
+  "participants": [
+    "Benazir Bhutto",
+    "Pakistan Peoples Party"
+  ],
+  "countries": [
+    "Pakistan"
+  ],
+  "place": "Liaquat Bagh, Rawalpindi, Pakistan",
+  "lat": 33.6007,
+  "lon": 73.0679,
+  "tags": [
+    "politics"
+  ],
+  "weight": 60,
+  "wikipedia": "Assassination of Benazir Bhutto",
+  "wikidata": "Q1784968"
+}

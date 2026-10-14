@@ -1,0 +1,29 @@
+{
+  "id": "event-1265-01-20-montforts-parliament",
+  "title": "Simon de Montfort's Parliament meets",
+  "year": 1265,
+  "month": 1,
+  "day": 20,
+  "calendar": "julian",
+  "summary": "Simon de Montfort, who held power after defeating Henry III, called a parliament in Westminster that included elected knights from the shires and burgesses from the towns.",
+  "reason": "Montfort needed wide support for his government against the royalists.",
+  "significance": "It is seen as a forerunner of the House of Commons and of representative government.",
+  "participants": [
+    "Simon de Montfort",
+    "Henry III of England",
+    "Parliament of England"
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "place": "Westminster, London, United Kingdom",
+  "lat": 51.4995,
+  "lon": -0.1248,
+  "tags": [
+    "politics",
+    "rights"
+  ],
+  "weight": 60,
+  "wikipedia": "Simon de Montfort's Parliament",
+  "wikidata": "Q4068786"
+}

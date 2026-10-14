@@ -1,0 +1,30 @@
+{
+  "id": "event-1973-10-17-oil-embargo",
+  "title": "Arab oil producers cut output and threaten an embargo",
+  "year": 1973,
+  "month": 10,
+  "day": 17,
+  "calendar": "gregorian",
+  "summary": "Arab members of OPEC meeting in Kuwait decided to cut oil production, followed by an embargo on the United States and other supporters of Israel.",
+  "reason": "They wanted to punish Western support for Israel in the Yom Kippur War.",
+  "significance": "Oil prices quadrupled, causing recession and changing energy policy worldwide.",
+  "participants": [
+    "Organization of Arab Petroleum Exporting Countries",
+    "Saudi Arabia",
+    "King Faisal"
+  ],
+  "countries": [
+    "Kuwait",
+    "Saudi Arabia",
+    "United States"
+  ],
+  "place": "Kuwait City, Kuwait",
+  "lat": 29.3759,
+  "lon": 47.9774,
+  "tags": [
+    "economy"
+  ],
+  "weight": 73,
+  "wikipedia": "1973 oil crisis",
+  "wikidata": "Q316817"
+}

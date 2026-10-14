@@ -1,0 +1,30 @@
+{
+  "id": "event-1776-07-04-declaration-of-independence",
+  "title": "Continental Congress adopts the Declaration of Independence",
+  "year": 1776,
+  "month": 7,
+  "day": 4,
+  "calendar": "gregorian",
+  "summary": "The Second Continental Congress in Philadelphia approved the Declaration of Independence, announcing that the thirteen colonies were free states.",
+  "reason": "After a year of war, colonial leaders concluded that reconciliation with Britain was impossible.",
+  "significance": "It created the United States and set out ideals of equality and rights that inspired later revolutions.",
+  "participants": [
+    "Second Continental Congress",
+    "Thomas Jefferson",
+    "John Adams",
+    "Benjamin Franklin"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Independence Hall, Philadelphia, United States",
+  "lat": 39.9489,
+  "lon": -75.15,
+  "tags": [
+    "politics",
+    "revolution"
+  ],
+  "weight": 95,
+  "wikipedia": "United States Declaration of Independence",
+  "wikidata": "Q127912"
+}

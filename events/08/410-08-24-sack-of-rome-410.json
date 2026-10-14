@@ -1,0 +1,29 @@
+{
+  "id": "event-410-08-24-sack-of-rome-410",
+  "title": "The Visigoths sack Rome",
+  "year": 410,
+  "month": 8,
+  "day": 24,
+  "calendar": "julian",
+  "summary": "Visigoths under Alaric entered and plundered Rome for three days. It was the first time in 800 years the city fell to a foreign enemy.",
+  "reason": "Alaric's demands for land and payment for his people were refused by Emperor Honorius in Ravenna.",
+  "significance": "The sack shocked the Roman world and inspired Augustine to write The City of God.",
+  "participants": [
+    "Alaric I",
+    "Visigoths",
+    "Honorius",
+    "Western Roman Empire"
+  ],
+  "countries": [
+    "Italy"
+  ],
+  "place": "Rome, Italy",
+  "lat": 41.8925,
+  "lon": 12.4853,
+  "tags": [
+    "war"
+  ],
+  "weight": 85,
+  "wikipedia": "Sack of Rome (410)",
+  "wikidata": "Q1463845"
+}

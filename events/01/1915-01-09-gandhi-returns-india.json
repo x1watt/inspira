@@ -1,0 +1,27 @@
+{
+  "id": "event-1915-01-09-gandhi-returns-india",
+  "title": "Gandhi returns to India from South Africa",
+  "year": 1915,
+  "month": 1,
+  "day": 9,
+  "calendar": "gregorian",
+  "summary": "Mohandas Gandhi landed at Bombay after more than two decades in South Africa, where he had developed his method of nonviolent resistance.",
+  "reason": "Gandhi had won concessions in South Africa and was urged by Gopal Krishna Gokhale to join the Indian national movement.",
+  "significance": "Gandhi went on to lead India's independence struggle; the day is marked as Pravasi Bharatiya Divas.",
+  "participants": [
+    "Mohandas Gandhi",
+    "Gopal Krishna Gokhale"
+  ],
+  "countries": [
+    "India"
+  ],
+  "place": "Apollo Bunder, Bombay (Mumbai), India",
+  "lat": 18.922,
+  "lon": 72.8347,
+  "tags": [
+    "politics"
+  ],
+  "weight": 52,
+  "wikipedia": "Mahatma Gandhi",
+  "wikidata": "Q1001"
+}

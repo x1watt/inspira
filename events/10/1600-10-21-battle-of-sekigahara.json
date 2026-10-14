@@ -1,0 +1,29 @@
+{
+  "id": "event-1600-10-21-battle-of-sekigahara",
+  "title": "Tokugawa Ieyasu wins the Battle of Sekigahara",
+  "year": 1600,
+  "month": 10,
+  "day": 21,
+  "calendar": "gregorian",
+  "summary": "The eastern army of Tokugawa Ieyasu defeated the western coalition loyal to the Toyotomi clan at Sekigahara, helped by defections during the battle.",
+  "reason": "After the death of Toyotomi Hideyoshi in 1598, his regents split into rival camps competing for control of Japan.",
+  "significance": "The victory gave Ieyasu control of Japan and led to two and a half centuries of Tokugawa rule.",
+  "participants": [
+    "Tokugawa Ieyasu",
+    "Ishida Mitsunari",
+    "Toyotomi clan"
+  ],
+  "countries": [
+    "Japan"
+  ],
+  "place": "Sekigahara, Gifu, Japan",
+  "lat": 35.37,
+  "lon": 136.46,
+  "tags": [
+    "war",
+    "politics"
+  ],
+  "weight": 78,
+  "wikipedia": "Battle of Sekigahara",
+  "wikidata": "Q234188"
+}

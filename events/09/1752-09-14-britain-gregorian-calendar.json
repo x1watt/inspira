@@ -1,0 +1,29 @@
+{
+  "id": "event-1752-09-14-britain-gregorian-calendar",
+  "title": "Britain and its colonies switch to the Gregorian calendar",
+  "year": 1752,
+  "month": 9,
+  "day": 14,
+  "calendar": "gregorian",
+  "summary": "Across Great Britain and its American colonies, Wednesday 2 September 1752 was followed directly by Thursday 14 September. Eleven days were dropped and the legal year now began on 1 January.",
+  "reason": "Britain had kept the Julian calendar long after most of Catholic Europe, which made dates in trade and diplomacy confusing.",
+  "significance": "It aligned the English speaking world with the calendar most of the world uses today.",
+  "participants": [
+    "Kingdom of Great Britain",
+    "Parliament of Great Britain"
+  ],
+  "countries": [
+    "United Kingdom",
+    "United States"
+  ],
+  "place": "Great Britain and its colonies",
+  "lat": null,
+  "lon": null,
+  "tags": [
+    "law",
+    "science"
+  ],
+  "weight": 50,
+  "wikipedia": "Calendar (New Style) Act 1750",
+  "wikidata": "Q5019481"
+}

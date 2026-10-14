@@ -6,6 +6,7 @@ import 'package:inspira/data/progress_store.dart';
 import 'package:inspira/data/quiz_generator.dart';
 import 'package:inspira/data/quote_repository.dart';
 import 'package:inspira/data/story_repository.dart';
+import 'package:inspira/models/event.dart';
 import 'package:inspira/models/quote.dart';
 import 'package:inspira/models/story.dart';
 import 'package:shared_preferences_platform_interface/in_memory_shared_preferences_async.dart';
@@ -46,6 +47,22 @@ List<Story> _stories() => [
               ? 'documented'
               : 'fable',
         }),
+];
+
+List<HistoryEvent> _events() => [
+  for (var i = 0; i < 40; i++)
+    HistoryEvent(
+      id: 'event-$i',
+      title: 'Event $i',
+      year: 1500 + i * 12,
+      month: 1 + i % 12,
+      day: 1 + i % 28,
+      summary: 'Something happened.',
+      reason: 'Because.',
+      place: 'Place $i',
+      tags: const ['politics'],
+      weight: 30 + i,
+    ),
 ];
 
 void main() {
@@ -167,6 +184,71 @@ void main() {
       for (var i = 0; i < 20; i++) (e.cardAt(i) as QuizFeedCard).quiz.itemId,
     ];
     expect(ids.toSet().length, greaterThan(10));
+  });
+
+  FeedEngine quizEngine(int seed, {List<String> liked = const []}) =>
+      FeedEngine(
+        quotes: quotes,
+        stories: stories,
+        progress: progress,
+        quizzes: QuizGenerator(quotes.quotes, stories.stories, _events()),
+        random: Random(seed),
+        quizOnly: true,
+        events: _events(),
+        liked: () => liked,
+      );
+
+  List<String> quizIds(FeedEngine e, int n) => [
+    for (var i = 0; i < n; i++) (e.cardAt(i) as QuizFeedCard).quiz.itemId,
+  ];
+
+  test('quizzes ask about stories read or liked first', () {
+    final read = [
+      for (var i = 0; i < 6; i++) 'story-team-history-$i',
+      for (var i = 0; i < 6; i++) 'story-family-study-$i',
+      for (var i = 0; i < 6; i++) 'story-leadership-story-$i',
+    ];
+    read.forEach(progress.markRead);
+    const liked = ['story-relations-story-0', 'q-team-1'];
+    final ids = quizIds(quizEngine(1, liked: liked), 9);
+    // 19 recent stories: the first 9 questions all come from them.
+    expect(ids.toSet(), hasLength(9));
+    expect({...read, liked.first}.containsAll(ids), isTrue);
+  });
+
+  test('few or no recent stories: quizzes about dated events', () {
+    final none = quizIds(quizEngine(2), 20);
+    expect(none.every((id) => id.startsWith('event-')), isTrue);
+    expect(none.toSet(), hasLength(20));
+
+    progress.markRead('story-team-story-0');
+    final few = quizIds(quizEngine(3), 20);
+    expect(few, contains('story-team-story-0'));
+    expect(few.where((id) => id.startsWith('event-')).length, 19);
+  });
+
+  test('event questions have the answer and explain it', () {
+    final gen = QuizGenerator(const [], const [], _events());
+    final r = Random(4);
+    for (var i = 0; i < 20; i++) {
+      final q = gen.forId('event-${i % 40}', r)!;
+      expect(q.options.toSet(), hasLength(3));
+      expect(q.options[q.answer], anyOf('Event ${i % 40}', contains(' 1')));
+      expect(q.explanation, contains('Because.'));
+    }
+    final e = _events()[3];
+    expect(e.dateLabel, '4 April 1536');
+    expect(
+      const HistoryEvent(
+        id: 'event-x',
+        title: 'Ides',
+        year: -44,
+        month: 3,
+        day: 15,
+        summary: '',
+      ).dateLabel,
+      '15 March 44 BC',
+    );
   });
 
   test('wrong answers come back as reviews', () {

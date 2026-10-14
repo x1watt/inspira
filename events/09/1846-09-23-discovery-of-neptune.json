@@ -1,0 +1,29 @@
+{
+  "id": "event-1846-09-23-discovery-of-neptune",
+  "title": "Astronomers in Berlin discover Neptune",
+  "year": 1846,
+  "month": 9,
+  "day": 23,
+  "calendar": "gregorian",
+  "summary": "Johann Galle and Heinrich d'Arrest found the planet Neptune within one degree of the position predicted by Urbain Le Verrier.",
+  "reason": "Irregularities in the orbit of Uranus led Le Verrier and John Couch Adams to calculate where an unseen planet must be.",
+  "significance": "It was a triumph of Newtonian mechanics, the first planet found by mathematical prediction.",
+  "participants": [
+    "Johann Gottfried Galle",
+    "Heinrich d'Arrest",
+    "Urbain Le Verrier"
+  ],
+  "countries": [
+    "Germany",
+    "France"
+  ],
+  "place": "Berlin Observatory, Berlin, Germany",
+  "lat": 52.5037,
+  "lon": 13.3963,
+  "tags": [
+    "science"
+  ],
+  "weight": 70,
+  "wikipedia": "Discovery of Neptune",
+  "wikidata": "Q1356165"
+}

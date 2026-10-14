@@ -1,0 +1,30 @@
+{
+  "id": "event-1415-10-25-agincourt",
+  "title": "Henry V wins the Battle of Agincourt",
+  "year": 1415,
+  "month": 10,
+  "day": 25,
+  "calendar": "julian",
+  "summary": "A tired English army under Henry V, mostly archers, defeated a far larger French army on muddy ground in northern France.",
+  "reason": "Henry V had revived the English claim to the French throne and invaded while France was divided by civil war.",
+  "significance": "The victory let Henry conquer Normandy and become heir to the French crown by the Treaty of Troyes.",
+  "participants": [
+    "Kingdom of England",
+    "Kingdom of France",
+    "Henry V of England",
+    "Charles d'Albret"
+  ],
+  "countries": [
+    "France",
+    "United Kingdom"
+  ],
+  "place": "Azincourt, Pas-de-Calais, France",
+  "lat": 50.464,
+  "lon": 2.141,
+  "tags": [
+    "war"
+  ],
+  "weight": 70,
+  "wikipedia": "Battle of Agincourt",
+  "wikidata": "Q188495"
+}

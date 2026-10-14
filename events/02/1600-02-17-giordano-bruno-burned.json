@@ -1,0 +1,29 @@
+{
+  "id": "event-1600-02-17-giordano-bruno-burned",
+  "title": "Giordano Bruno is burned at the stake in Rome",
+  "year": 1600,
+  "month": 2,
+  "day": 17,
+  "calendar": "gregorian",
+  "summary": "The Roman Inquisition had the philosopher Giordano Bruno burned alive in the Campo de' Fiori after a trial lasting seven years.",
+  "reason": "Bruno taught an infinite universe with many worlds and held views the Church judged heretical, and he refused to recant them.",
+  "significance": "He became a lasting symbol of free thought persecuted by religious authority.",
+  "participants": [
+    "Giordano Bruno",
+    "Roman Inquisition",
+    "Pope Clement VIII"
+  ],
+  "countries": [
+    "Italy"
+  ],
+  "place": "Campo de' Fiori, Rome, Italy",
+  "lat": 41.8956,
+  "lon": 12.4722,
+  "tags": [
+    "religion",
+    "science"
+  ],
+  "weight": 52,
+  "wikipedia": "Giordano Bruno",
+  "wikidata": "Q36330"
+}

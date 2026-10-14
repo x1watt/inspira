@@ -1,0 +1,26 @@
+{
+  "id": "event-1991-04-29-bangladesh-cyclone",
+  "title": "Cyclone strikes Bangladesh, killing about 138,000",
+  "year": 1991,
+  "month": 4,
+  "day": 29,
+  "calendar": "gregorian",
+  "summary": "A powerful tropical cyclone hit the Chittagong region at night with a storm surge of about six metres.",
+  "reason": "The low-lying coast of the Bay of Bengal was densely populated and had few cyclone shelters.",
+  "significance": "It was one of the deadliest cyclones on record and led to a large program of shelters and warnings.",
+  "participants": [
+    "Bangladesh"
+  ],
+  "countries": [
+    "Bangladesh"
+  ],
+  "place": "Chittagong, Bangladesh",
+  "lat": 22.3569,
+  "lon": 91.7832,
+  "tags": [
+    "disaster"
+  ],
+  "weight": 55,
+  "wikipedia": "1991 Bangladesh cyclone",
+  "wikidata": "Q806498"
+}

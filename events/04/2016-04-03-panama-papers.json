@@ -1,0 +1,31 @@
+{
+  "id": "event-2016-04-03-panama-papers",
+  "title": "Panama Papers are published",
+  "year": 2016,
+  "month": 4,
+  "day": 3,
+  "calendar": "gregorian",
+  "summary": "Journalists published reports based on 11.5 million leaked files from the law firm Mossack Fonseca, exposing offshore companies of politicians and the rich.",
+  "reason": "An anonymous source leaked the files to a German newspaper, which shared them with a global network of reporters.",
+  "significance": "It led to resignations, including Iceland's prime minister, and tougher rules on tax havens.",
+  "participants": [
+    "Mossack Fonseca",
+    "International Consortium of Investigative Journalists",
+    "Suddeutsche Zeitung"
+  ],
+  "countries": [
+    "Panama",
+    "Iceland",
+    "Germany"
+  ],
+  "place": "Panama City, Panama",
+  "lat": 8.9824,
+  "lon": -79.5199,
+  "tags": [
+    "economy",
+    "politics"
+  ],
+  "weight": 52,
+  "wikipedia": "Panama Papers",
+  "wikidata": "Q23702848"
+}

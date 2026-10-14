@@ -1,0 +1,28 @@
+{
+  "id": "event-1215-11-11-fourth-lateran-council",
+  "title": "Fourth Lateran Council opens in Rome",
+  "year": 1215,
+  "month": 11,
+  "day": 11,
+  "calendar": "julian",
+  "summary": "Pope Innocent III opened a great council of bishops in the Lateran Palace, which defined transubstantiation, required yearly confession and set rules for Jews and heretics.",
+  "reason": "Innocent wanted to reform the Church, fight heresy and prepare a new crusade.",
+  "significance": "Its decrees shaped Catholic practice for centuries.",
+  "participants": [
+    "Pope Innocent III",
+    "Catholic Church"
+  ],
+  "countries": [
+    "Italy"
+  ],
+  "place": "Lateran Palace, Rome, Italy",
+  "lat": 41.8859,
+  "lon": 12.5057,
+  "tags": [
+    "religion",
+    "law"
+  ],
+  "weight": 60,
+  "wikipedia": "Fourth Council of the Lateran",
+  "wikidata": "Q719992"
+}

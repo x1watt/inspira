@@ -1,0 +1,30 @@
+{
+  "id": "event-1054-07-16-east-west-schism",
+  "title": "Papal legates excommunicate the Patriarch of Constantinople",
+  "year": 1054,
+  "month": 7,
+  "day": 16,
+  "calendar": "julian",
+  "summary": "Cardinal Humbert placed a bull excommunicating Patriarch Michael Cerularius on the altar of Hagia Sophia, and the patriarch answered by excommunicating the legates.",
+  "reason": "Rome and Constantinople had long disagreed over papal authority, the Creed and church customs.",
+  "significance": "It is the traditional date of the split between the Catholic and Orthodox churches.",
+  "participants": [
+    "Humbert of Silva Candida",
+    "Michael Cerularius",
+    "Pope Leo IX",
+    "Catholic Church",
+    "Eastern Orthodox Church"
+  ],
+  "countries": [
+    "Turkey",
+    "Italy"
+  ],
+  "place": "Hagia Sophia, Istanbul, Turkey",
+  "lat": 41.0086,
+  "lon": 28.9802,
+  "tags": [
+    "religion"
+  ],
+  "weight": 85,
+  "wikipedia": "East-West Schism"
+}

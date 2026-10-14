@@ -1,0 +1,27 @@
+{
+  "id": "event-1995-11-04-rabin-assassination",
+  "title": "Yitzhak Rabin is assassinated",
+  "year": 1995,
+  "month": 11,
+  "day": 4,
+  "calendar": "gregorian",
+  "summary": "Israeli Prime Minister Yitzhak Rabin was shot dead by Yigal Amir after a peace rally in Tel Aviv.",
+  "reason": "Amir, a right-wing extremist, opposed the Oslo Accords and handing land to the Palestinians.",
+  "significance": "It dealt a lasting blow to the Israeli-Palestinian peace process.",
+  "participants": [
+    "Yitzhak Rabin",
+    "Yigal Amir"
+  ],
+  "countries": [
+    "Israel"
+  ],
+  "place": "Kings of Israel Square, Tel Aviv, Israel",
+  "lat": 32.0809,
+  "lon": 34.7806,
+  "tags": [
+    "politics"
+  ],
+  "weight": 72,
+  "wikipedia": "Assassination of Yitzhak Rabin",
+  "wikidata": "Q2608162"
+}

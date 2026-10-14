@@ -1,0 +1,46 @@
+{"key": "bc49-01-10-crossing-the-rubicon", "action": "keep", "note": "Article gives the crossing on 10 January; coords match."}
+{"key": "439-10-19-vandals-capture-carthage", "action": "fix", "fields": {"wikipedia": "Gaiseric"}, "note": "Date 19 October 439 is in the Gaiseric article, not in Vandal Kingdom."}
+{"key": "762-07-30-founding-of-baghdad", "action": "fix", "fields": {"wikipedia": "Baghdad"}, "note": "Baghdad article gives 30 July 762 for the founding; Round City article does not."}
+{"key": "1204-04-12-sack-of-constantinople", "action": "keep", "note": "Sack began 12 April 1204, as the article says; Wikidata has a later day."}
+{"key": "1288-04-09-battle-of-bach-dang", "action": "fix", "fields": {"wikipedia": "Battle of Bạch Đằng (1288)", "lat": 20.937, "lon": 106.629}, "note": "Article gives 9 April; exact title and article coordinates."}
+{"key": "1504-09-08-michelangelo-david", "action": "keep", "note": "Unveiled 8 September 1504; Wikidata date is a different milestone."}
+{"key": "1531-12-12-our-lady-of-guadalupe", "action": "keep", "note": "Article gives the final apparition and image on Tuesday, December 12, 1531."}
+{"key": "1588-08-08-gravelines", "action": "fix", "fields": {"wikipedia": "Battle of Gravelines (1588)"}, "note": "Old title is a disambiguation page; Armada article gives 8 August (N.S.)."}
+{"key": "1605-11-15-gunpowder-plot", "action": "keep", "note": "5 November 1605 O.S. is 15 November N.S.; Wikidata coords are Holbeche House, ours are Westminster."}
+{"key": "1654-01-18-pereiaslav-agreement", "action": "keep", "note": "Article gives the Pereiaslav Council on January 18."}
+{"key": "1692-06-17-port-royal-earthquake", "action": "keep", "note": "7 June 1692 O.S. is 17 June N.S.; coords are Port Royal itself."}
+{"key": "1729-04-11-st-matthew-passion", "action": "fix", "fields": {"year": 1727}, "note": "Article: first performed probably on Good Friday 11 April 1727, 1729 was a revival."}
+{"key": "1765-08-12-treaty-of-allahabad", "action": "keep", "note": "Date matches; Wikidata coords are wrong, ours are Allahabad."}
+{"key": "1782-04-06-chakri-dynasty-founded", "action": "fix", "fields": {"wikipedia": "Rama I"}, "note": "Rama I article gives 6 April 1782; Chakri Day redirects to a holiday list."}
+{"key": "1799-07-07-ranjit-singh-takes-lahore", "action": "drop", "note": "Articles give only 1799 for the capture of Lahore, no day."}
+{"key": "1815-03-02-kandyan-convention", "action": "keep", "note": "Article: signed 2 March 1815."}
+{"key": "1833-08-28-slavery-abolition-act", "action": "fix", "fields": {"lat": 51.4995, "lon": -0.1248}, "note": "Royal Assent 28 August 1833 is well documented; coordinates were missing."}
+{"key": "1860-10-24-convention-of-peking", "action": "keep", "note": "British and French treaties signed 24 October 1860; 18 October is the entry into the city."}
+{"key": "1867-07-01-canadian-confederation", "action": "keep", "note": "Confederation took effect 1 July 1867; Wikidata gives the proclamation."}
+{"key": "1883-08-27-krakatoa-eruption", "action": "keep", "note": "Climactic eruption 27 August 1883; Wikidata gives the span of the eruption."}
+{"key": "1902-05-08-mount-pelee", "action": "keep", "note": "Article gives the destructive eruption at 8:00 on 8 May; coords are Saint-Pierre."}
+{"key": "1909-07-25-bleriot-channel", "action": "keep", "note": "Channel flight 25 July 1909; Wikidata date is the aircraft's first flight."}
+{"key": "1914-07-28-austria-declares-war-serbia", "action": "keep", "note": "Declaration 28 July 1914 is in the article; Vienna coords are right."}
+{"key": "1916-06-10-arab-revolt", "action": "keep", "note": "Article: revolt officially initiated at Mecca on 10 June 1916."}
+{"key": "1928-09-28-penicillin-discovered", "action": "drop", "note": "Day is uncertain: Wikipedia says Fleming returned 3 September and cites 28 September only in an attributed quote."}
+{"key": "1935-10-03-italy-invades-ethiopia", "action": "keep", "note": "Invasion 3 October 1935 across the Mareb; Wikidata coords are central Ethiopia."}
+{"key": "1938-12-17-nuclear-fission", "action": "fix", "fields": {"wikipedia": "Otto Hahn"}, "note": "Otto Hahn article gives the decisive experiment on 16-17 December 1938."}
+{"key": "1939-12-27-erzincan-earthquake", "action": "keep", "note": "Struck after midnight local time on 27 December; Wikidata uses UTC."}
+{"key": "1941-02-12-first-penicillin-patient", "action": "fix", "fields": {"wikipedia": "Albert Alexander (police officer)"}, "note": "That article gives 12 February 1941 for the first infusion."}
+{"key": "1942-06-04-battle-of-midway", "action": "keep", "note": "Date matches; our coords are at Midway Atoll."}
+{"key": "1944-02-01-avery-dna-experiment", "action": "drop", "note": "Article gives only the February 1944 journal issue, no single day."}
+{"key": "1947-06-05-marshall-plan-speech", "action": "keep", "note": "Harvard speech 5 June 1947; Wikidata gives the act's signing."}
+{"key": "1953-03-05-stalin-death", "action": "keep", "note": "Stalin died 5 March 1953; Wikidata gives the funeral."}
+{"key": "1958-09-12-integrated-circuit", "action": "keep", "note": "Article: on September 12 Kilby presented the first IC prototype."}
+{"key": "1964-02-09-beatles-ed-sullivan", "action": "fix", "fields": {"wikipedia": "Beatlemania"}, "note": "Title redirects to Beatlemania, which gives 9 February."}
+{"key": "1969-07-20-apollo-11-landing", "action": "keep", "note": "Landing on 20 July 1969; Wikidata gives the launch; Moon has no Earth coords."}
+{"key": "1973-10-17-oil-embargo", "action": "fix", "fields": {"title": "Arab oil producers cut output and threaten an embargo"}, "note": "Article: on 17 October they cut production and threatened the embargo, imposed 19-20 October."}
+{"key": "1980-05-08-smallpox-eradicated", "action": "fix", "fields": {"wikipedia": "Eradication of infectious diseases"}, "note": "That article gives WHO endorsement on 8 May 1980."}
+{"key": "1989-02-15-soviet-withdrawal-afghanistan", "action": "keep", "note": "Date matches; ours is the Termez bridge where the last troops crossed."}
+{"key": "1991-08-06-www-public", "action": "fix", "fields": {"wikipedia": "History of the World Wide Web"}, "note": "That article gives the 6 August 1991 alt.hypertext post."}
+{"key": "1995-12-14-dayton-agreement", "action": "keep", "note": "Formally signed in Paris on 14 December 1995; Wikidata coords are Dayton."}
+{"key": "2002-04-04-angola-peace", "action": "keep", "note": "Date matches; ceasefire signed in Luanda."}
+{"key": "2005-08-29-hurricane-katrina", "action": "keep", "note": "Louisiana landfall 29 August 2005; Wikidata gives the storm's lifespan."}
+{"key": "2011-07-09-south-sudan-independence", "action": "keep", "note": "Date matches; ours is Juba, Wikidata is the country centre."}
+{"key": "2017-11-15-zimbabwe-coup", "action": "fix", "fields": {"day": 14}, "note": "Article: army seized Harare and ZBC on the evening of 14 November 2017."}
+{"key": "2023-08-23-chandrayaan-3", "action": "keep", "note": "Landing 23 August 2023; Wikidata gives the launch."}

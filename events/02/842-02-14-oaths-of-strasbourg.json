@@ -1,0 +1,30 @@
+{
+  "id": "event-842-02-14-oaths-of-strasbourg",
+  "title": "Oaths of Strasbourg are sworn",
+  "year": 842,
+  "month": 2,
+  "day": 14,
+  "calendar": "julian",
+  "summary": "Louis the German and Charles the Bald swore an alliance against their brother Lothair, each in the language of the other's army. The texts were recorded in early forms of French and German.",
+  "reason": "Charlemagne's grandsons were fighting over the division of the Carolingian Empire.",
+  "significance": "The oaths are the oldest surviving text in a Romance language that became French.",
+  "participants": [
+    "Louis the German",
+    "Charles the Bald",
+    "Lothair I"
+  ],
+  "countries": [
+    "France",
+    "Germany"
+  ],
+  "place": "Strasbourg, France",
+  "lat": 48.5734,
+  "lon": 7.7521,
+  "tags": [
+    "diplomacy",
+    "culture"
+  ],
+  "weight": 50,
+  "wikipedia": "Oaths of Strasbourg",
+  "wikidata": "Q157082"
+}

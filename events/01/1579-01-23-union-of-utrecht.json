@@ -1,0 +1,31 @@
+{
+  "id": "event-1579-01-23-union-of-utrecht",
+  "title": "Northern Dutch provinces sign the Union of Utrecht",
+  "year": 1579,
+  "month": 1,
+  "day": 23,
+  "calendar": "julian",
+  "summary": "Holland, Zeeland, Utrecht and other northern provinces of the Habsburg Netherlands agreed to act together in defence and foreign policy against Spain.",
+  "reason": "The revolt against Philip II's taxes and religious persecution needed a firm alliance after the southern provinces moved toward reconciliation with Spain.",
+  "significance": "It became the founding document of the Dutch Republic.",
+  "participants": [
+    "Dutch Republic",
+    "Spanish Empire",
+    "John VI, Count of Nassau-Dillenburg",
+    "William the Silent"
+  ],
+  "countries": [
+    "Netherlands",
+    "Spain"
+  ],
+  "place": "Utrecht, Netherlands",
+  "lat": 52.091,
+  "lon": 5.121,
+  "tags": [
+    "politics",
+    "diplomacy"
+  ],
+  "weight": 62,
+  "wikipedia": "Union of Utrecht",
+  "wikidata": "Q216165"
+}

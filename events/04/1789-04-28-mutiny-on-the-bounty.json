@@ -1,0 +1,29 @@
+{
+  "id": "event-1789-04-28-mutiny-on-the-bounty",
+  "title": "Mutiny on the Bounty",
+  "year": 1789,
+  "month": 4,
+  "day": 28,
+  "calendar": "gregorian",
+  "summary": "Fletcher Christian and part of the crew seized HMS Bounty near Tonga and set Captain William Bligh adrift with loyal men in a small boat.",
+  "reason": "After months in Tahiti, the crew resented a return to harsh discipline under Bligh.",
+  "significance": "Bligh's 6,700 km open boat voyage and the mutineers' settlement of Pitcairn became legendary.",
+  "participants": [
+    "William Bligh",
+    "Fletcher Christian",
+    "HMS Bounty"
+  ],
+  "countries": [
+    "Tonga",
+    "United Kingdom"
+  ],
+  "place": "near Tofua, Tonga",
+  "lat": -19.75,
+  "lon": -175.07,
+  "tags": [
+    "exploration"
+  ],
+  "weight": 50,
+  "wikipedia": "Mutiny on the Bounty",
+  "wikidata": "Q749811"
+}

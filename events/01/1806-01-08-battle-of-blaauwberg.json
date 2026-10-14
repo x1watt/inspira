@@ -1,0 +1,31 @@
+{
+  "id": "event-1806-01-08-battle-of-blaauwberg",
+  "title": "British win the Battle of Blaauwberg at the Cape",
+  "year": 1806,
+  "month": 1,
+  "day": 8,
+  "calendar": "gregorian",
+  "summary": "A British force defeated the Batavian garrison north of Cape Town, leading to the surrender of the Cape Colony.",
+  "reason": "Britain wanted to secure the sea route to India from Napoleon's Dutch allies.",
+  "significance": "It began British rule in South Africa.",
+  "participants": [
+    "British Army",
+    "David Baird",
+    "Batavian Republic",
+    "Jan Willem Janssens"
+  ],
+  "countries": [
+    "South Africa",
+    "United Kingdom",
+    "Netherlands"
+  ],
+  "place": "Bloubergstrand, South Africa",
+  "lat": -33.8,
+  "lon": 18.46,
+  "tags": [
+    "war"
+  ],
+  "weight": 50,
+  "wikipedia": "Battle of Blaauwberg",
+  "wikidata": "Q2786767"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "event-1988-08-08-8888-uprising",
+  "title": "The 8888 Uprising challenges Burma's military regime",
+  "year": 1988,
+  "month": 8,
+  "day": 8,
+  "calendar": "gregorian",
+  "summary": "A general strike and mass demonstrations against one party military rule spread across Burma. The army crushed them weeks later.",
+  "reason": "Economic collapse and student protests had built up anger against Ne Win's regime.",
+  "significance": "It brought Aung San Suu Kyi to the head of the democracy movement.",
+  "participants": [
+    "Aung San Suu Kyi",
+    "Ne Win",
+    "Tatmadaw"
+  ],
+  "countries": [
+    "Myanmar"
+  ],
+  "place": "Rangoon (Yangon), Myanmar",
+  "lat": 16.8409,
+  "lon": 96.1735,
+  "tags": [
+    "revolution",
+    "rights"
+  ],
+  "weight": 51,
+  "wikipedia": "8888 Uprising",
+  "wikidata": "Q274365"
+}

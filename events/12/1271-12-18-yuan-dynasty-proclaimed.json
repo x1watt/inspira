@@ -1,0 +1,29 @@
+{
+  "id": "event-1271-12-18-yuan-dynasty-proclaimed",
+  "title": "Kublai Khan proclaims the Yuan dynasty",
+  "year": 1271,
+  "month": 12,
+  "day": 18,
+  "calendar": "julian",
+  "summary": "Kublai Khan adopted the Chinese dynastic name Great Yuan for his realm, ruling as a Chinese emperor from his new capital Dadu.",
+  "reason": "Kublai wanted to present Mongol rule as a legitimate Chinese dynasty as he prepared to finish the conquest of the Song.",
+  "significance": "The Yuan was the first foreign dynasty to rule all of China.",
+  "participants": [
+    "Kublai Khan",
+    "Yuan dynasty",
+    "Mongol Empire"
+  ],
+  "countries": [
+    "China",
+    "Mongolia"
+  ],
+  "place": "Dadu, Beijing, China",
+  "lat": 39.9042,
+  "lon": 116.4074,
+  "tags": [
+    "politics"
+  ],
+  "weight": 75,
+  "wikipedia": "Yuan dynasty",
+  "wikidata": "Q7313"
+}

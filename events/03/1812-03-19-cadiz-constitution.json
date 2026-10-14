@@ -1,0 +1,27 @@
+{
+  "id": "event-1812-03-19-cadiz-constitution",
+  "title": "Spanish Cortes proclaims the Constitution of 1812",
+  "year": 1812,
+  "month": 3,
+  "day": 19,
+  "calendar": "gregorian",
+  "summary": "The Cortes of Cadiz, meeting in a city besieged by the French, proclaimed a liberal constitution for Spain and its empire.",
+  "reason": "With the king held by Napoleon, Spanish patriots set out to rebuild the nation on new principles.",
+  "significance": "It became a model for liberal constitutions in Europe and Latin America.",
+  "participants": [
+    "Cortes of Cadiz"
+  ],
+  "countries": [
+    "Spain"
+  ],
+  "place": "Cadiz, Spain",
+  "lat": 36.5297,
+  "lon": -6.292,
+  "tags": [
+    "law",
+    "politics"
+  ],
+  "weight": 60,
+  "wikipedia": "Spanish Constitution of 1812",
+  "wikidata": "Q1421412"
+}

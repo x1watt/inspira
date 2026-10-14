@@ -1,0 +1,32 @@
+{
+  "id": "event-1944-08-25-liberation-of-paris",
+  "title": "Paris is liberated",
+  "year": 1944,
+  "month": 8,
+  "day": 25,
+  "calendar": "gregorian",
+  "summary": "The German commander of Paris, Dietrich von Choltitz, surrendered to French and American forces after an uprising by the French Resistance. Charles de Gaulle addressed crowds at the Hotel de Ville that evening.",
+  "reason": "The Allied breakout from Normandy had reached the Seine, and the Resistance rose in the city on 19 August.",
+  "significance": "It restored French self-government and made de Gaulle the leader of liberated France.",
+  "participants": [
+    "French Forces of the Interior",
+    "2nd Armored Division",
+    "Philippe Leclerc",
+    "Charles de Gaulle",
+    "Dietrich von Choltitz"
+  ],
+  "countries": [
+    "France",
+    "Germany",
+    "United States"
+  ],
+  "place": "Paris, France",
+  "lat": 48.8566,
+  "lon": 2.3522,
+  "tags": [
+    "war"
+  ],
+  "weight": 70,
+  "wikipedia": "Liberation of Paris",
+  "wikidata": "Q696835"
+}

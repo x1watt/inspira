@@ -1,0 +1,28 @@
+{
+  "id": "event-1936-12-12-xian-incident",
+  "title": "Chiang Kai-shek is detained in the Xi'an Incident",
+  "year": 1936,
+  "month": 12,
+  "day": 12,
+  "calendar": "gregorian",
+  "summary": "Generals Zhang Xueliang and Yang Hucheng detained Chiang Kai-shek at Xi'an and forced him to agree to stop fighting the Communists and resist Japan.",
+  "reason": "Many Chinese officers believed the war against the Communists should give way to defense against Japanese aggression.",
+  "significance": "It led to the Second United Front against Japan and saved the Communists from defeat.",
+  "participants": [
+    "Chiang Kai-shek",
+    "Zhang Xueliang",
+    "Yang Hucheng",
+    "Zhou Enlai"
+  ],
+  "countries": [
+    "China"
+  ],
+  "place": "Huaqing Pool, near Xi'an, China",
+  "lat": 34.3628,
+  "lon": 109.2128,
+  "tags": [
+    "politics"
+  ],
+  "weight": 57,
+  "wikipedia": "Xi'an Incident"
+}

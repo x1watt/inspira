@@ -1,0 +1,33 @@
+{
+  "id": "event-1953-08-19-iranian-coup",
+  "title": "A CIA backed coup ousts Iran's Mosaddegh",
+  "year": 1953,
+  "month": 8,
+  "day": 19,
+  "calendar": "gregorian",
+  "summary": "Royalist officers and street crowds organized with American and British help overthrew Prime Minister Mohammad Mosaddegh, restoring the shah's power.",
+  "reason": "Mosaddegh had nationalized the Anglo-Iranian Oil Company, and Washington feared a communist drift.",
+  "significance": "The coup shaped Iranian anger at the West that erupted in 1979.",
+  "participants": [
+    "Mohammad Mosaddegh",
+    "Mohammad Reza Pahlavi",
+    "CIA",
+    "MI6",
+    "Fazlollah Zahedi"
+  ],
+  "countries": [
+    "Iran",
+    "United States",
+    "United Kingdom"
+  ],
+  "place": "Tehran, Iran",
+  "lat": 35.6892,
+  "lon": 51.389,
+  "tags": [
+    "politics",
+    "revolution"
+  ],
+  "weight": 70,
+  "wikipedia": "1953 Iranian coup d'état",
+  "wikidata": "Q593774"
+}

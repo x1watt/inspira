@@ -1,0 +1,32 @@
+{
+  "id": "event-1898-09-02-battle-of-omdurman",
+  "title": "Kitchener defeats the Mahdist army at Omdurman",
+  "year": 1898,
+  "month": 9,
+  "day": 2,
+  "calendar": "gregorian",
+  "summary": "An Anglo-Egyptian army under Herbert Kitchener, using Maxim guns and artillery, killed about 10,000 warriors of the Khalifa's army in a single morning.",
+  "reason": "Britain wanted to reconquer Sudan, avenge Gordon and keep the Upper Nile from rival powers.",
+  "significance": "It destroyed the Mahdist state and brought Sudan under Anglo-Egyptian rule.",
+  "participants": [
+    "Herbert Kitchener",
+    "Abdallahi ibn Muhammad",
+    "Mahdist State",
+    "British Army",
+    "Egyptian Army"
+  ],
+  "countries": [
+    "Sudan",
+    "United Kingdom",
+    "Egypt"
+  ],
+  "place": "Omdurman, Sudan",
+  "lat": 15.6445,
+  "lon": 32.4777,
+  "tags": [
+    "war"
+  ],
+  "weight": 55,
+  "wikipedia": "Battle of Omdurman",
+  "wikidata": "Q1137302"
+}

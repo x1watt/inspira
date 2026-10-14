@@ -1,0 +1,29 @@
+{
+  "id": "event-1956-10-23-hungarian-revolution",
+  "title": "The Hungarian Revolution begins",
+  "year": 1956,
+  "month": 10,
+  "day": 23,
+  "calendar": "gregorian",
+  "summary": "A student demonstration in Budapest grew into a national uprising against the communist government and Soviet control. Soviet forces crushed it in November.",
+  "reason": "Khrushchev's denunciation of Stalin and the Polish October encouraged Hungarians to demand reform and freedom.",
+  "significance": "It showed that Moscow would use force to keep its bloc together.",
+  "participants": [
+    "Imre Nagy",
+    "Hungarian People's Republic",
+    "Soviet Army"
+  ],
+  "countries": [
+    "Hungary",
+    "Russia"
+  ],
+  "place": "Budapest, Hungary",
+  "lat": 47.4979,
+  "lon": 19.0402,
+  "tags": [
+    "revolution"
+  ],
+  "weight": 70,
+  "wikipedia": "Hungarian Revolution of 1956",
+  "wikidata": "Q164348"
+}

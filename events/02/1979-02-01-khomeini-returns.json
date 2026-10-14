@@ -1,0 +1,27 @@
+{
+  "id": "event-1979-02-01-khomeini-returns",
+  "title": "Ayatollah Khomeini returns to Iran",
+  "year": 1979,
+  "month": 2,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "Ayatollah Ruhollah Khomeini returned to Tehran after 14 years in exile, welcomed by millions. Within ten days the old regime collapsed.",
+  "reason": "Mass protests had forced the shah to leave Iran in January.",
+  "significance": "It led to the founding of the Islamic Republic of Iran.",
+  "participants": [
+    "Ruhollah Khomeini",
+    "Shapour Bakhtiar"
+  ],
+  "countries": [
+    "Iran"
+  ],
+  "place": "Mehrabad Airport, Tehran, Iran",
+  "lat": 35.6892,
+  "lon": 51.3134,
+  "tags": [
+    "revolution",
+    "religion"
+  ],
+  "weight": 75,
+  "wikipedia": "Iranian Revolution"
+}

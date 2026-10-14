@@ -1,0 +1,32 @@
+{
+  "id": "event-1945-08-06-hiroshima-bombing",
+  "title": "United States drops an atomic bomb on Hiroshima",
+  "year": 1945,
+  "month": 8,
+  "day": 6,
+  "calendar": "gregorian",
+  "summary": "The B-29 Enola Gay dropped a uranium bomb on Hiroshima, destroying most of the city and killing about 70,000 to 80,000 people at once, with many more dying later. A second bomb destroyed Nagasaki three days later.",
+  "reason": "US leaders wanted to force Japan to surrender without an invasion of its home islands.",
+  "significance": "It was the first use of a nuclear weapon in war and shaped international politics for the rest of the century.",
+  "participants": [
+    "United States Army Air Forces",
+    "Enola Gay",
+    "Paul Tibbets",
+    "Harry S. Truman",
+    "Empire of Japan"
+  ],
+  "countries": [
+    "Japan",
+    "United States"
+  ],
+  "place": "Hiroshima, Japan",
+  "lat": 34.3955,
+  "lon": 132.4536,
+  "tags": [
+    "war",
+    "technology"
+  ],
+  "weight": 97,
+  "wikipedia": "Atomic bombings of Hiroshima and Nagasaki",
+  "wikidata": "Q488"
+}

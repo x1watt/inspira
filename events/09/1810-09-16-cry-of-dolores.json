@@ -1,0 +1,27 @@
+{
+  "id": "event-1810-09-16-cry-of-dolores",
+  "title": "Miguel Hidalgo issues the Cry of Dolores",
+  "year": 1810,
+  "month": 9,
+  "day": 16,
+  "calendar": "gregorian",
+  "summary": "Priest Miguel Hidalgo rang the church bell in Dolores and called on his parishioners to rise against Spanish rule.",
+  "reason": "Discovery of an independence plot forced Hidalgo to act at once.",
+  "significance": "It started the Mexican War of Independence.",
+  "participants": [
+    "Miguel Hidalgo y Costilla",
+    "Ignacio Allende"
+  ],
+  "countries": [
+    "Mexico",
+    "Spain"
+  ],
+  "place": "Dolores Hidalgo, Guanajuato, Mexico",
+  "lat": 21.1561,
+  "lon": -100.9319,
+  "tags": [
+    "revolution"
+  ],
+  "weight": 75,
+  "wikipedia": "Grito de Dolores"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "event-1898-06-11-hundred-days-reform",
+  "title": "Guangxu Emperor launches the Hundred Days' Reform",
+  "year": 1898,
+  "month": 6,
+  "day": 11,
+  "calendar": "gregorian",
+  "summary": "The Guangxu Emperor issued the first of a series of edicts to modernize China's education, army, economy and government, guided by Kang Youwei and Liang Qichao.",
+  "reason": "China's defeat by Japan in 1895 and the scramble of foreign powers for concessions convinced reformers that radical change was urgent.",
+  "significance": "Ended by Empress Dowager Cixi's coup after 103 days, its failure weakened faith in reform from above and helped lead to revolution.",
+  "participants": [
+    "Guangxu Emperor",
+    "Kang Youwei",
+    "Liang Qichao",
+    "Empress Dowager Cixi"
+  ],
+  "countries": [
+    "China"
+  ],
+  "place": "Forbidden City, Beijing, China",
+  "lat": 39.9163,
+  "lon": 116.3972,
+  "tags": [
+    "politics",
+    "law"
+  ],
+  "weight": 55,
+  "wikipedia": "Hundred Days' Reform",
+  "wikidata": "Q917709"
+}

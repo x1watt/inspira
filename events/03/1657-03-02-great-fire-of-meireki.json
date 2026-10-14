@@ -1,0 +1,25 @@
+{
+  "id": "event-1657-03-02-great-fire-of-meireki",
+  "title": "Great Fire of Meireki destroys most of Edo",
+  "year": 1657,
+  "month": 3,
+  "day": 2,
+  "calendar": "gregorian",
+  "summary": "A fire fanned by strong winds burned for three days in Edo, the shogun's capital, destroying most of the city and Edo Castle's main tower.",
+  "reason": "Edo was densely built of wood and paper, and a long dry spell had left it vulnerable.",
+  "significance": "About 100,000 people may have died, and the city was rebuilt with firebreaks and wider streets.",
+  "participants": [
+    "Tokugawa shogunate"
+  ],
+  "countries": [
+    "Japan"
+  ],
+  "place": "Edo, now Tokyo, Japan",
+  "lat": 35.6895,
+  "lon": 139.6917,
+  "tags": [
+    "disaster"
+  ],
+  "weight": 50,
+  "wikipedia": "Great Fire of Meireki"
+}

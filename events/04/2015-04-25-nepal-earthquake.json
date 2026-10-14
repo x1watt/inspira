@@ -1,0 +1,28 @@
+{
+  "id": "event-2015-04-25-nepal-earthquake",
+  "title": "Earthquake devastates Nepal",
+  "year": 2015,
+  "month": 4,
+  "day": 25,
+  "calendar": "gregorian",
+  "summary": "A magnitude 7.8 earthquake struck central Nepal, killing nearly 9,000 people and destroying historic temples in Kathmandu.",
+  "reason": "The collision of the Indian and Eurasian plates builds up strain under the Himalayas.",
+  "significance": "It was Nepal's worst disaster since 1934 and triggered a deadly avalanche on Everest.",
+  "participants": [
+    "Nepal"
+  ],
+  "countries": [
+    "Nepal",
+    "India",
+    "China"
+  ],
+  "place": "Gorkha District, Nepal",
+  "lat": 28.231,
+  "lon": 84.731,
+  "tags": [
+    "disaster"
+  ],
+  "weight": 55,
+  "wikipedia": "April 2015 Nepal earthquake",
+  "wikidata": "Q19830062"
+}

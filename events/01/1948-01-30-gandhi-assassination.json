@@ -1,0 +1,27 @@
+{
+  "id": "event-1948-01-30-gandhi-assassination",
+  "title": "Mahatma Gandhi is assassinated",
+  "year": 1948,
+  "month": 1,
+  "day": 30,
+  "calendar": "gregorian",
+  "summary": "Nathuram Godse, a Hindu nationalist, shot Mahatma Gandhi at Birla House in New Delhi as he walked to a prayer meeting.",
+  "reason": "Godse blamed Gandhi for partition and for being too accommodating toward Muslims and Pakistan.",
+  "significance": "The death of the leader of Indian independence shocked the world and discredited militant Hindu nationalism for a time.",
+  "participants": [
+    "Mahatma Gandhi",
+    "Nathuram Godse"
+  ],
+  "countries": [
+    "India"
+  ],
+  "place": "Birla House, New Delhi, India",
+  "lat": 28.6013,
+  "lon": 77.2142,
+  "tags": [
+    "politics"
+  ],
+  "weight": 77,
+  "wikipedia": "Assassination of Mahatma Gandhi",
+  "wikidata": "Q3350154"
+}

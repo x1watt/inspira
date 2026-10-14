@@ -1,0 +1,29 @@
+{
+  "id": "event-325-05-20-first-council-of-nicaea",
+  "title": "The First Council of Nicaea opens",
+  "year": 325,
+  "month": 5,
+  "day": 20,
+  "calendar": "julian",
+  "summary": "Bishops from across the empire met at Nicaea at the call of Emperor Constantine. The council condemned Arianism and adopted the first version of the Nicene Creed.",
+  "reason": "The dispute over the teachings of Arius about the nature of Christ was dividing the church, and Constantine wanted religious unity.",
+  "significance": "It was the first ecumenical council and defined core Christian doctrine.",
+  "participants": [
+    "Constantine the Great",
+    "Arius",
+    "Athanasius of Alexandria",
+    "Christian bishops"
+  ],
+  "countries": [
+    "Turkey"
+  ],
+  "place": "Nicaea (Iznik), Turkey",
+  "lat": 40.4292,
+  "lon": 29.7211,
+  "tags": [
+    "religion"
+  ],
+  "weight": 82,
+  "wikipedia": "First Council of Nicaea",
+  "wikidata": "Q133331"
+}

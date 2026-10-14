@@ -1,0 +1,29 @@
+{
+  "id": "event-1565-09-08-st-augustine-founded",
+  "title": "Spain founds St. Augustine in Florida",
+  "year": 1565,
+  "month": 9,
+  "day": 8,
+  "calendar": "julian",
+  "summary": "Pedro Menendez de Aviles came ashore and founded the settlement of St. Augustine on the coast of Florida.",
+  "reason": "Spain wanted to protect its treasure fleets and drive out French Huguenot settlers at nearby Fort Caroline.",
+  "significance": "It is the oldest continuously inhabited European-founded city in the United States.",
+  "participants": [
+    "Pedro Menendez de Aviles",
+    "Spanish Empire",
+    "Timucua"
+  ],
+  "countries": [
+    "United States",
+    "Spain"
+  ],
+  "place": "St. Augustine, Florida, United States",
+  "lat": 29.895,
+  "lon": -81.314,
+  "tags": [
+    "exploration"
+  ],
+  "weight": 50,
+  "wikipedia": "St. Augustine, Florida",
+  "wikidata": "Q487988"
+}

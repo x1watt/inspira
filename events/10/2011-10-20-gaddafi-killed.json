@@ -1,0 +1,28 @@
+{
+  "id": "event-2011-10-20-gaddafi-killed",
+  "title": "Muammar Gaddafi is killed",
+  "year": 2011,
+  "month": 10,
+  "day": 20,
+  "calendar": "gregorian",
+  "summary": "Rebel fighters captured and killed Libya's former leader Muammar Gaddafi near Sirte.",
+  "reason": "An uprising backed by NATO air strikes had driven him from power after 42 years.",
+  "significance": "It ended his rule but left Libya divided and unstable.",
+  "participants": [
+    "Muammar Gaddafi",
+    "National Transitional Council",
+    "NATO"
+  ],
+  "countries": [
+    "Libya"
+  ],
+  "place": "Sirte, Libya",
+  "lat": 31.2089,
+  "lon": 16.5887,
+  "tags": [
+    "war"
+  ],
+  "weight": 60,
+  "wikipedia": "Killing of Muammar Gaddafi",
+  "wikidata": "Q431888"
+}

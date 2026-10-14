@@ -1,0 +1,28 @@
+{
+  "id": "event-1995-07-16-amazon-launch",
+  "title": "Amazon opens its online bookstore",
+  "year": 1995,
+  "month": 7,
+  "day": 16,
+  "calendar": "gregorian",
+  "summary": "Jeff Bezos's Amazon.com began selling books online from a garage-born company in Seattle.",
+  "reason": "Bezos saw that web use was exploding and that books suited mail-order selling from a huge catalogue.",
+  "significance": "Amazon grew into one of the world's largest companies and reshaped retail.",
+  "participants": [
+    "Jeff Bezos",
+    "Amazon"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Seattle, Washington, United States",
+  "lat": 47.6062,
+  "lon": -122.3321,
+  "tags": [
+    "economy",
+    "technology"
+  ],
+  "weight": 60,
+  "wikipedia": "Amazon (company)",
+  "wikidata": "Q3884"
+}

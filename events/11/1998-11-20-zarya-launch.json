@@ -1,0 +1,30 @@
+{
+  "id": "event-1998-11-20-zarya-launch",
+  "title": "Zarya, the first ISS module, is launched",
+  "year": 1998,
+  "month": 11,
+  "day": 20,
+  "calendar": "gregorian",
+  "summary": "A Russian Proton rocket launched the Zarya module from Baikonur, beginning assembly of the International Space Station.",
+  "reason": "Russia and the United States combined their space station plans after the Cold War.",
+  "significance": "The ISS became the largest international science project in space.",
+  "participants": [
+    "Roscosmos",
+    "NASA"
+  ],
+  "countries": [
+    "Russia",
+    "United States",
+    "Kazakhstan"
+  ],
+  "place": "Baikonur Cosmodrome, Kazakhstan",
+  "lat": 45.965,
+  "lon": 63.305,
+  "tags": [
+    "exploration",
+    "technology"
+  ],
+  "weight": 65,
+  "wikipedia": "Zarya (ISS module)",
+  "wikidata": "Q331785"
+}

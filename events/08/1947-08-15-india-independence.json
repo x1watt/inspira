@@ -1,0 +1,31 @@
+{
+  "id": "event-1947-08-15-india-independence",
+  "title": "India becomes independent",
+  "year": 1947,
+  "month": 8,
+  "day": 15,
+  "calendar": "gregorian",
+  "summary": "At midnight British rule ended and India became an independent dominion, with Jawaharlal Nehru as prime minister. He marked it with his Tryst with Destiny speech.",
+  "reason": "Decades of nationalist struggle and a Britain exhausted by war led to a quick transfer of power, together with partition.",
+  "significance": "It ended the British Raj and began the end of European empires in Asia.",
+  "participants": [
+    "Jawaharlal Nehru",
+    "Mahatma Gandhi",
+    "Louis Mountbatten",
+    "British Raj"
+  ],
+  "countries": [
+    "India",
+    "United Kingdom"
+  ],
+  "place": "New Delhi, India",
+  "lat": 28.6139,
+  "lon": 77.209,
+  "tags": [
+    "politics",
+    "revolution"
+  ],
+  "weight": 88,
+  "wikipedia": "Independence Day (India)",
+  "wikidata": "Q56106"
+}

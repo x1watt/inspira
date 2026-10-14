@@ -1,0 +1,30 @@
+{
+  "id": "event-1869-05-10-golden-spike",
+  "title": "Golden spike completes the first transcontinental railroad",
+  "year": 1869,
+  "month": 5,
+  "day": 10,
+  "calendar": "gregorian",
+  "summary": "The tracks of the Central Pacific and Union Pacific railroads were joined with a ceremonial golden spike at Promontory Summit, Utah.",
+  "reason": "Congress had backed the line with land grants and bonds to bind California to the rest of the Union and open the West.",
+  "significance": "It cut the journey across the United States from months to about a week and transformed the West.",
+  "participants": [
+    "Central Pacific Railroad",
+    "Union Pacific Railroad",
+    "Leland Stanford",
+    "Chinese railroad workers"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Promontory Summit, Utah, United States",
+  "lat": 41.6178,
+  "lon": -112.5508,
+  "tags": [
+    "technology",
+    "economy"
+  ],
+  "weight": 65,
+  "wikipedia": "First transcontinental railroad",
+  "wikidata": "Q1753108"
+}

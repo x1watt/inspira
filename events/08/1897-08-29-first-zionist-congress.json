@@ -1,0 +1,30 @@
+{
+  "id": "event-1897-08-29-first-zionist-congress",
+  "title": "First Zionist Congress meets in Basel",
+  "year": 1897,
+  "month": 8,
+  "day": 29,
+  "calendar": "gregorian",
+  "summary": "Theodor Herzl convened about 200 delegates in Basel, who founded the Zionist Organization and adopted a program seeking a home for the Jewish people in Palestine.",
+  "reason": "Rising antisemitism in Europe, including pogroms in Russia and the Dreyfus affair, convinced Herzl that Jews needed a state of their own.",
+  "significance": "It launched political Zionism, which led to the founding of Israel in 1948.",
+  "participants": [
+    "Theodor Herzl",
+    "Max Nordau",
+    "Zionist Organization"
+  ],
+  "countries": [
+    "Switzerland",
+    "Israel"
+  ],
+  "place": "Stadtcasino, Basel, Switzerland",
+  "lat": 47.554,
+  "lon": 7.59,
+  "tags": [
+    "politics",
+    "religion"
+  ],
+  "weight": 65,
+  "wikipedia": "First Zionist Congress",
+  "wikidata": "Q2470656"
+}

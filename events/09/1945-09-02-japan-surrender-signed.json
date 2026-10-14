@@ -1,0 +1,32 @@
+{
+  "id": "event-1945-09-02-japan-surrender-signed",
+  "title": "Japan signs the surrender aboard USS Missouri",
+  "year": 1945,
+  "month": 9,
+  "day": 2,
+  "calendar": "gregorian",
+  "summary": "Japanese officials signed the Instrument of Surrender aboard the battleship USS Missouri in Tokyo Bay, accepted by General Douglas MacArthur for the Allies.",
+  "reason": "Japan's government had accepted the Potsdam terms in August after the atomic bombings and the Soviet entry into the war.",
+  "significance": "It formally ended the Second World War.",
+  "participants": [
+    "Empire of Japan",
+    "Mamoru Shigemitsu",
+    "Yoshijiro Umezu",
+    "Douglas MacArthur",
+    "Chester Nimitz"
+  ],
+  "countries": [
+    "Japan",
+    "United States"
+  ],
+  "place": "USS Missouri, Tokyo Bay, Japan",
+  "lat": 35.35,
+  "lon": 139.75,
+  "tags": [
+    "war",
+    "diplomacy"
+  ],
+  "weight": 88,
+  "wikipedia": "Surrender of Japan",
+  "wikidata": "Q6540361"
+}

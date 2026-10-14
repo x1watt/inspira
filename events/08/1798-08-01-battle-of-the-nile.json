@@ -1,0 +1,31 @@
+{
+  "id": "event-1798-08-01-battle-of-the-nile",
+  "title": "Nelson destroys the French fleet in the Battle of the Nile",
+  "year": 1798,
+  "month": 8,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "Horatio Nelson's fleet attacked the French fleet at anchor in Aboukir Bay and destroyed most of it.",
+  "reason": "Britain had hunted the fleet that carried Napoleon's army to Egypt.",
+  "significance": "It stranded Napoleon's army in Egypt and restored British naval supremacy in the Mediterranean.",
+  "participants": [
+    "Horatio Nelson",
+    "Royal Navy",
+    "French Navy",
+    "Francois-Paul Brueys"
+  ],
+  "countries": [
+    "Egypt",
+    "United Kingdom",
+    "France"
+  ],
+  "place": "Aboukir Bay, Egypt",
+  "lat": 31.33,
+  "lon": 30.1,
+  "tags": [
+    "war"
+  ],
+  "weight": 70,
+  "wikipedia": "Battle of the Nile",
+  "wikidata": "Q243979"
+}

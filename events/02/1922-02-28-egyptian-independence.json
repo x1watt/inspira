@@ -1,0 +1,29 @@
+{
+  "id": "event-1922-02-28-egyptian-independence",
+  "title": "Britain declares Egypt independent",
+  "year": 1922,
+  "month": 2,
+  "day": 28,
+  "calendar": "gregorian",
+  "summary": "Britain unilaterally ended its protectorate over Egypt and recognized it as an independent kingdom, while keeping control of defense, the Suez Canal and Sudan.",
+  "reason": "The Egyptian Revolution of 1919 and continued nationalist pressure made the protectorate untenable.",
+  "significance": "It made Egypt formally independent under King Fuad I, though British influence remained strong.",
+  "participants": [
+    "United Kingdom",
+    "Fuad I",
+    "Saad Zaghloul"
+  ],
+  "countries": [
+    "Egypt",
+    "United Kingdom"
+  ],
+  "place": "Cairo, Egypt",
+  "lat": 30.0444,
+  "lon": 31.2357,
+  "tags": [
+    "politics"
+  ],
+  "weight": 52,
+  "wikipedia": "Unilateral Declaration of Egyptian Independence",
+  "wikidata": "Q2583161"
+}

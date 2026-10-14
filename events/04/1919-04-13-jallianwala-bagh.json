@@ -1,0 +1,29 @@
+{
+  "id": "event-1919-04-13-jallianwala-bagh",
+  "title": "British troops massacre civilians at Jallianwala Bagh",
+  "year": 1919,
+  "month": 4,
+  "day": 13,
+  "calendar": "gregorian",
+  "summary": "Troops under General Reginald Dyer fired without warning on a crowd gathered in the Jallianwala Bagh garden in Amritsar, killing hundreds of unarmed people.",
+  "reason": "British authorities feared unrest after protests against the Rowlatt Act and had banned public gatherings.",
+  "significance": "The massacre turned many Indians against British rule and strengthened the independence movement.",
+  "participants": [
+    "Reginald Dyer",
+    "British Indian Army",
+    "British Raj"
+  ],
+  "countries": [
+    "India",
+    "United Kingdom"
+  ],
+  "place": "Jallianwala Bagh, Amritsar, India",
+  "lat": 31.6206,
+  "lon": 74.8801,
+  "tags": [
+    "rights"
+  ],
+  "weight": 67,
+  "wikipedia": "Jallianwala Bagh massacre",
+  "wikidata": "Q208855"
+}

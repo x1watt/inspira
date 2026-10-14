@@ -1,0 +1,28 @@
+{
+  "id": "event-2018-04-27-inter-korean-summit",
+  "title": "Leaders of the two Koreas meet at Panmunjom",
+  "year": 2018,
+  "month": 4,
+  "day": 27,
+  "calendar": "gregorian",
+  "summary": "Kim Jong Un stepped across the border to meet South Korea's Moon Jae-in, and they signed the Panmunjom Declaration.",
+  "reason": "After a year of missile tests and threats, the 2018 Winter Olympics opened a diplomatic thaw.",
+  "significance": "Kim was the first North Korean leader to enter South Korea.",
+  "participants": [
+    "Kim Jong Un",
+    "Moon Jae-in"
+  ],
+  "countries": [
+    "North Korea",
+    "South Korea"
+  ],
+  "place": "Peace House, Panmunjom, South Korea",
+  "lat": 37.9561,
+  "lon": 126.6772,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 55,
+  "wikipedia": "April 2018 inter-Korean summit",
+  "wikidata": "Q50396447"
+}

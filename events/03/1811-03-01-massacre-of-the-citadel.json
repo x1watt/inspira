@@ -1,0 +1,27 @@
+{
+  "id": "event-1811-03-01-massacre-of-the-citadel",
+  "title": "Muhammad Ali massacres the Mamluks in Cairo",
+  "year": 1811,
+  "month": 3,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "Muhammad Ali, governor of Egypt, invited Mamluk leaders to the Cairo Citadel and had them killed.",
+  "reason": "He wanted to eliminate the Mamluks as rivals to his power.",
+  "significance": "It gave him unchallenged control of Egypt and opened his modernising reign.",
+  "participants": [
+    "Muhammad Ali of Egypt",
+    "Mamluks",
+    "Ottoman Empire"
+  ],
+  "countries": [
+    "Egypt"
+  ],
+  "place": "Cairo Citadel, Cairo, Egypt",
+  "lat": 30.0287,
+  "lon": 31.2599,
+  "tags": [
+    "politics"
+  ],
+  "weight": 50,
+  "wikipedia": "Muhammad Ali's rise to power"
+}

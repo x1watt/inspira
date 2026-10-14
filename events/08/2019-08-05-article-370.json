@@ -1,0 +1,30 @@
+{
+  "id": "event-2019-08-05-article-370",
+  "title": "India revokes Kashmir's special status",
+  "year": 2019,
+  "month": 8,
+  "day": 5,
+  "calendar": "gregorian",
+  "summary": "India's government revoked the special autonomous status of Jammu and Kashmir under Article 370 and split the state in two.",
+  "reason": "The BJP had long promised to integrate the Muslim-majority region fully into India.",
+  "significance": "It was followed by a long communications blackout and raised tensions with Pakistan.",
+  "participants": [
+    "Narendra Modi",
+    "Amit Shah",
+    "Government of India"
+  ],
+  "countries": [
+    "India",
+    "Pakistan"
+  ],
+  "place": "Parliament House, New Delhi, India",
+  "lat": 28.6172,
+  "lon": 77.2082,
+  "tags": [
+    "politics",
+    "law"
+  ],
+  "weight": 55,
+  "wikipedia": "Revocation of the special status of Jammu and Kashmir",
+  "wikidata": "Q66323076"
+}

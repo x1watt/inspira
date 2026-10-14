@@ -1,0 +1,29 @@
+{
+  "id": "event-1877-01-01-delhi-durbar",
+  "title": "Queen Victoria proclaimed Empress of India at Delhi",
+  "year": 1877,
+  "month": 1,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "At a grand assembly of Indian princes in Delhi, the Viceroy Lord Lytton proclaimed Queen Victoria Empress of India.",
+  "reason": "Disraeli's government wanted to tie the Indian princes to the Crown and display British imperial power after the 1857 rebellion.",
+  "significance": "It symbolized the height of the British Raj, held during a famine that killed millions.",
+  "participants": [
+    "Queen Victoria",
+    "Lord Lytton",
+    "Indian princely states"
+  ],
+  "countries": [
+    "India",
+    "United Kingdom"
+  ],
+  "place": "Coronation Park, Delhi, India",
+  "lat": 28.727,
+  "lon": 77.201,
+  "tags": [
+    "politics"
+  ],
+  "weight": 50,
+  "wikipedia": "Delhi Durbar",
+  "wikidata": "Q761614"
+}

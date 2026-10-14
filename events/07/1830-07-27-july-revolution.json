@@ -1,0 +1,30 @@
+{
+  "id": "event-1830-07-27-july-revolution",
+  "title": "July Revolution breaks out in Paris",
+  "year": 1830,
+  "month": 7,
+  "day": 27,
+  "calendar": "gregorian",
+  "summary": "Parisians built barricades and fought royal troops for three days, forcing Charles X to abdicate in favor of Louis Philippe.",
+  "reason": "Charles X issued ordinances that suspended press freedom and dissolved the newly elected Chamber of Deputies.",
+  "significance": "It ended the restored Bourbon line in France and inspired uprisings in Belgium, Poland and elsewhere.",
+  "participants": [
+    "Charles X",
+    "Louis Philippe I",
+    "Marquis de Lafayette",
+    "People of Paris"
+  ],
+  "countries": [
+    "France"
+  ],
+  "place": "Paris, France",
+  "lat": 48.8566,
+  "lon": 2.3522,
+  "tags": [
+    "revolution",
+    "politics"
+  ],
+  "weight": 65,
+  "wikipedia": "July Revolution",
+  "wikidata": "Q214028"
+}

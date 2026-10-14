@@ -1,0 +1,29 @@
+{
+  "id": "event-1938-03-03-dammam-no-7",
+  "title": "Oil is struck in commercial quantity in Saudi Arabia",
+  "year": 1938,
+  "month": 3,
+  "day": 3,
+  "calendar": "gregorian",
+  "summary": "American geologists of the California Arabian Standard Oil Company struck oil in commercial quantities at the Dammam No. 7 well near Dhahran.",
+  "reason": "After years of dry wells, the company kept drilling deeper on the advice of geologist Max Steineke.",
+  "significance": "It turned Saudi Arabia into one of the world's leading oil producers.",
+  "participants": [
+    "California Arabian Standard Oil Company",
+    "Max Steineke",
+    "Ibn Saud"
+  ],
+  "countries": [
+    "Saudi Arabia",
+    "United States"
+  ],
+  "place": "Dhahran, Saudi Arabia",
+  "lat": 26.31,
+  "lon": 50.13,
+  "tags": [
+    "economy"
+  ],
+  "weight": 67,
+  "wikipedia": "Dammam No. 7",
+  "wikidata": "Q12195463"
+}

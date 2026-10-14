@@ -1,0 +1,30 @@
+{
+  "id": "event-1571-06-24-manila-founded",
+  "title": "Miguel Lopez de Legazpi founds Spanish Manila",
+  "year": 1571,
+  "month": 6,
+  "day": 24,
+  "calendar": "julian",
+  "summary": "Legazpi proclaimed the city of Manila on the site of a fortified Muslim settlement on Manila Bay and made it the capital of the Spanish Philippines.",
+  "reason": "Spain wanted a base for trade with China and for its new colony in the islands.",
+  "significance": "Manila became the Asian end of the galleon trade with Mexico, linking Asia and the Americas.",
+  "participants": [
+    "Miguel Lopez de Legazpi",
+    "Spanish Empire",
+    "Rajah Sulayman"
+  ],
+  "countries": [
+    "Philippines",
+    "Spain"
+  ],
+  "place": "Intramuros, Manila, Philippines",
+  "lat": 14.59,
+  "lon": 120.975,
+  "tags": [
+    "politics",
+    "economy"
+  ],
+  "weight": 55,
+  "wikipedia": "Manila",
+  "wikidata": "Q1461"
+}

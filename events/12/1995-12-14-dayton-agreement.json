@@ -1,0 +1,33 @@
+{
+  "id": "event-1995-12-14-dayton-agreement",
+  "title": "Dayton Agreement ends the Bosnian War",
+  "year": 1995,
+  "month": 12,
+  "day": 14,
+  "calendar": "gregorian",
+  "summary": "The leaders of Bosnia, Serbia and Croatia formally signed in Paris the peace deal negotiated in Dayton, Ohio.",
+  "reason": "NATO bombing and Croatian and Bosniak offensives pushed the Bosnian Serbs to negotiate.",
+  "significance": "It ended Europe's bloodiest war since 1945 and created Bosnia's current constitution.",
+  "participants": [
+    "Alija Izetbegovic",
+    "Slobodan Milosevic",
+    "Franjo Tudjman",
+    "Richard Holbrooke"
+  ],
+  "countries": [
+    "Bosnia and Herzegovina",
+    "Serbia",
+    "Croatia",
+    "United States",
+    "France"
+  ],
+  "place": "Elysee Palace, Paris, France",
+  "lat": 48.8704,
+  "lon": 2.3167,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 68,
+  "wikipedia": "Dayton Agreement",
+  "wikidata": "Q190315"
+}

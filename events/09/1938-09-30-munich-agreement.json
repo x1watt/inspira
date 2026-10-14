@@ -1,0 +1,33 @@
+{
+  "id": "event-1938-09-30-munich-agreement",
+  "title": "The Munich Agreement hands the Sudetenland to Germany",
+  "year": 1938,
+  "month": 9,
+  "day": 30,
+  "calendar": "gregorian",
+  "summary": "Germany, Britain, France and Italy signed an agreement in Munich allowing Germany to annex the Sudetenland of Czechoslovakia, which was not consulted.",
+  "reason": "Britain and France, unready for war, hoped to satisfy Hitler through appeasement.",
+  "significance": "It became the classic example of failed appeasement on the road to World War II.",
+  "participants": [
+    "Neville Chamberlain",
+    "Edouard Daladier",
+    "Adolf Hitler",
+    "Benito Mussolini"
+  ],
+  "countries": [
+    "Germany",
+    "United Kingdom",
+    "France",
+    "Italy",
+    "Czech Republic"
+  ],
+  "place": "Fuhrerbau, Munich, Germany",
+  "lat": 48.146,
+  "lon": 11.566,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 72,
+  "wikipedia": "Munich Agreement",
+  "wikidata": "Q154255"
+}

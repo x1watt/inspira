@@ -1,0 +1,27 @@
+{
+  "id": "event-1978-10-16-john-paul-ii-elected",
+  "title": "Karol Wojtyla is elected Pope John Paul II",
+  "year": 1978,
+  "month": 10,
+  "day": 16,
+  "calendar": "gregorian",
+  "summary": "Cardinal Karol Wojtyla of Krakow was elected pope, the first non-Italian in 455 years.",
+  "reason": "The cardinals sought a strong leader after John Paul I died after only 33 days.",
+  "significance": "His papacy encouraged opposition to communism in Poland.",
+  "participants": [
+    "Pope John Paul II",
+    "College of Cardinals"
+  ],
+  "countries": [
+    "Vatican City",
+    "Poland"
+  ],
+  "place": "Sistine Chapel, Vatican City",
+  "lat": 41.9029,
+  "lon": 12.4545,
+  "tags": [
+    "religion"
+  ],
+  "weight": 63,
+  "wikipedia": "October 1978 conclave"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "event-1930-02-18-pluto-discovered",
+  "title": "Clyde Tombaugh discovers Pluto",
+  "year": 1930,
+  "month": 2,
+  "day": 18,
+  "calendar": "gregorian",
+  "summary": "Clyde Tombaugh at Lowell Observatory in Flagstaff, Arizona, identified a moving object on photographic plates, which became known as Pluto.",
+  "reason": "Lowell Observatory was continuing Percival Lowell's search for a Planet X beyond Neptune.",
+  "significance": "Pluto was counted as the ninth planet until it was reclassified as a dwarf planet in 2006.",
+  "participants": [
+    "Clyde Tombaugh",
+    "Lowell Observatory"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Lowell Observatory, Flagstaff, United States",
+  "lat": 35.2029,
+  "lon": -111.6646,
+  "tags": [
+    "science"
+  ],
+  "weight": 52,
+  "wikipedia": "Planets beyond Neptune"
+}

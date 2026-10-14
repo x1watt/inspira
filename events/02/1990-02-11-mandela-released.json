@@ -1,0 +1,29 @@
+{
+  "id": "event-1990-02-11-mandela-released",
+  "title": "Nelson Mandela is released from prison",
+  "year": 1990,
+  "month": 2,
+  "day": 11,
+  "calendar": "gregorian",
+  "summary": "Nelson Mandela walked free from Victor Verster Prison after 27 years in custody. He addressed a huge crowd in Cape Town the same day.",
+  "reason": "President F. W. de Klerk had begun dismantling apartheid under internal unrest, sanctions and economic decline.",
+  "significance": "It opened the negotiations that ended apartheid in South Africa.",
+  "participants": [
+    "Nelson Mandela",
+    "F. W. de Klerk",
+    "African National Congress"
+  ],
+  "countries": [
+    "South Africa"
+  ],
+  "place": "Victor Verster Prison, Paarl, South Africa",
+  "lat": -33.75,
+  "lon": 18.96,
+  "tags": [
+    "rights",
+    "politics"
+  ],
+  "weight": 85,
+  "wikipedia": "Nelson Mandela",
+  "wikidata": "Q8023"
+}

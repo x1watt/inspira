@@ -1,0 +1,28 @@
+{
+  "id": "event-2005-04-02-death-john-paul-ii",
+  "title": "Pope John Paul II dies",
+  "year": 2005,
+  "month": 4,
+  "day": 2,
+  "calendar": "gregorian",
+  "summary": "Pope John Paul II died at the Vatican after nearly 27 years as pope. Millions came to Rome for his funeral.",
+  "reason": "He had suffered from Parkinson's disease for years.",
+  "significance": "His papacy had shaped the Catholic Church and the fall of communism in Poland.",
+  "participants": [
+    "Pope John Paul II",
+    "Catholic Church"
+  ],
+  "countries": [
+    "Vatican City",
+    "Poland"
+  ],
+  "place": "Apostolic Palace, Vatican City",
+  "lat": 41.9029,
+  "lon": 12.4534,
+  "tags": [
+    "religion"
+  ],
+  "weight": 60,
+  "wikipedia": "Death and funeral of Pope John Paul II",
+  "wikidata": "Q1131707"
+}

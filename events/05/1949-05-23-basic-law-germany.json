@@ -1,0 +1,28 @@
+{
+  "id": "event-1949-05-23-basic-law-germany",
+  "title": "West Germany's Basic Law is promulgated",
+  "year": 1949,
+  "month": 5,
+  "day": 23,
+  "calendar": "gregorian",
+  "summary": "The Basic Law, the constitution of the Federal Republic of Germany, was signed and promulgated in Bonn.",
+  "reason": "The Western Allies wanted a democratic West German state, created from their occupation zones.",
+  "significance": "It founded West Germany and remains the constitution of reunified Germany.",
+  "participants": [
+    "Parliamentary Council",
+    "Konrad Adenauer"
+  ],
+  "countries": [
+    "Germany"
+  ],
+  "place": "Bonn, Germany",
+  "lat": 50.7374,
+  "lon": 7.0982,
+  "tags": [
+    "law",
+    "politics"
+  ],
+  "weight": 63,
+  "wikipedia": "Basic Law for the Federal Republic of Germany",
+  "wikidata": "Q56045"
+}

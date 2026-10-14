@@ -1,0 +1,27 @@
+{
+  "id": "event-1939-12-27-erzincan-earthquake",
+  "title": "Earthquake devastates Erzincan in eastern Turkey",
+  "year": 1939,
+  "month": 12,
+  "day": 27,
+  "calendar": "gregorian",
+  "summary": "A magnitude 7.8 earthquake on the North Anatolian Fault destroyed the city of Erzincan in the middle of a winter night. About 33,000 people died, many from the cold after their homes collapsed.",
+  "reason": "The North Anatolian Fault is one of the most active faults in the world, where the Anatolian Plate slides past the Eurasian Plate.",
+  "significance": "It was the deadliest earthquake in modern Turkish history until 1999 and began a series of large ruptures along the fault.",
+  "participants": [
+    "Turkey",
+    "Ismet Inonu"
+  ],
+  "countries": [
+    "Turkey"
+  ],
+  "place": "Erzincan, Turkey",
+  "lat": 39.75,
+  "lon": 39.5,
+  "tags": [
+    "disaster"
+  ],
+  "weight": 50,
+  "wikipedia": "1939 Erzincan earthquake",
+  "wikidata": "Q3045050"
+}

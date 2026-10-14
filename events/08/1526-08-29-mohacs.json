@@ -1,0 +1,30 @@
+{
+  "id": "event-1526-08-29-mohacs",
+  "title": "Ottomans crush Hungary at the Battle of Mohacs",
+  "year": 1526,
+  "month": 8,
+  "day": 29,
+  "calendar": "julian",
+  "summary": "Suleiman the Magnificent's army destroyed the Hungarian army in a single afternoon. King Louis II drowned while fleeing.",
+  "reason": "The Ottomans were pushing up the Danube toward central Europe, and divided Hungary could raise only a small army.",
+  "significance": "It ended the medieval Kingdom of Hungary, which was split between the Habsburgs and the Ottomans for 150 years.",
+  "participants": [
+    "Ottoman Empire",
+    "Kingdom of Hungary",
+    "Suleiman the Magnificent",
+    "Louis II of Hungary"
+  ],
+  "countries": [
+    "Hungary",
+    "Turkey"
+  ],
+  "place": "Mohacs, Baranya, Hungary",
+  "lat": 45.937,
+  "lon": 18.644,
+  "tags": [
+    "war"
+  ],
+  "weight": 68,
+  "wikipedia": "Battle of Mohács",
+  "wikidata": "Q178510"
+}

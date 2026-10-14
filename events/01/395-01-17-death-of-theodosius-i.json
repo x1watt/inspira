@@ -1,0 +1,29 @@
+{
+  "id": "event-395-01-17-death-of-theodosius-i",
+  "title": "Death of Theodosius I divides the Roman Empire",
+  "year": 395,
+  "month": 1,
+  "day": 17,
+  "calendar": "julian",
+  "summary": "Theodosius I died in Milan. The empire passed to his sons, Arcadius in the East and Honorius in the West, and was never again united.",
+  "reason": "Theodosius had arranged for each son to rule one half of the empire.",
+  "significance": "It marks the permanent division into the Eastern and Western Roman Empires.",
+  "participants": [
+    "Theodosius I",
+    "Arcadius",
+    "Honorius",
+    "Stilicho"
+  ],
+  "countries": [
+    "Italy"
+  ],
+  "place": "Mediolanum (Milan), Italy",
+  "lat": 45.4642,
+  "lon": 9.19,
+  "tags": [
+    "politics"
+  ],
+  "weight": 75,
+  "wikipedia": "Theodosius I",
+  "wikidata": "Q46696"
+}

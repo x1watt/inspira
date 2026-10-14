@@ -1,0 +1,29 @@
+{
+  "id": "event-1896-04-06-first-modern-olympics",
+  "title": "First modern Olympic Games open in Athens",
+  "year": 1896,
+  "month": 4,
+  "day": 6,
+  "calendar": "gregorian",
+  "summary": "King George I of Greece opened the first Olympic Games of the modern era in the restored Panathenaic Stadium, with athletes from 14 nations.",
+  "reason": "Pierre de Coubertin and the new International Olympic Committee wanted to revive the ancient games to promote sport and international understanding.",
+  "significance": "It began the modern Olympic movement, the world's largest sporting event.",
+  "participants": [
+    "Pierre de Coubertin",
+    "International Olympic Committee",
+    "George I of Greece",
+    "Spyridon Louis"
+  ],
+  "countries": [
+    "Greece"
+  ],
+  "place": "Panathenaic Stadium, Athens, Greece",
+  "lat": 37.9683,
+  "lon": 23.7411,
+  "tags": [
+    "sport"
+  ],
+  "weight": 70,
+  "wikipedia": "1896 Summer Olympics",
+  "wikidata": "Q8080"
+}

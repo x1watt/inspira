@@ -1,0 +1,28 @@
+{
+  "id": "event-1979-11-20-grand-mosque-seizure",
+  "title": "Militants seize the Grand Mosque in Mecca",
+  "year": 1979,
+  "month": 11,
+  "day": 20,
+  "calendar": "gregorian",
+  "summary": "Armed militants led by Juhayman al-Otaybi seized the Grand Mosque in Mecca, holding it for two weeks.",
+  "reason": "They accused the Saudi royal family of corruption and proclaimed one of their number the Mahdi.",
+  "significance": "The Saudi state responded by empowering conservative clerics.",
+  "participants": [
+    "Juhayman al-Otaybi",
+    "Saudi Arabian National Guard"
+  ],
+  "countries": [
+    "Saudi Arabia"
+  ],
+  "place": "Masjid al-Haram, Mecca, Saudi Arabia",
+  "lat": 21.4225,
+  "lon": 39.8262,
+  "tags": [
+    "religion",
+    "war"
+  ],
+  "weight": 53,
+  "wikipedia": "Grand Mosque seizure",
+  "wikidata": "Q829839"
+}

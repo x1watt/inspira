@@ -1,0 +1,28 @@
+{
+  "id": "event-1241-12-11-death-of-ogedei",
+  "title": "Death of the Great Khan Ogedei",
+  "year": 1241,
+  "month": 12,
+  "day": 11,
+  "calendar": "julian",
+  "summary": "Ogedei, son of Genghis Khan and Great Khan of the Mongol Empire, died after a night of heavy drinking.",
+  "reason": "He had long suffered from alcoholism.",
+  "significance": "The news led the Mongol princes in Europe to turn back to settle the succession, sparing Western Europe.",
+  "participants": [
+    "Ogedei Khan",
+    "Mongol Empire",
+    "Toregene Khatun"
+  ],
+  "countries": [
+    "Mongolia"
+  ],
+  "place": "Near Karakorum, Mongolia",
+  "lat": 47.1975,
+  "lon": 102.8238,
+  "tags": [
+    "politics"
+  ],
+  "weight": 65,
+  "wikipedia": "Ögedei Khan",
+  "wikidata": "Q7519"
+}

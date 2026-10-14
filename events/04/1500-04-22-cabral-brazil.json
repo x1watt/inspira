@@ -1,0 +1,29 @@
+{
+  "id": "event-1500-04-22-cabral-brazil",
+  "title": "Pedro Alvares Cabral reaches Brazil",
+  "year": 1500,
+  "month": 4,
+  "day": 22,
+  "calendar": "julian",
+  "summary": "A Portuguese fleet bound for India under Pedro Alvares Cabral sighted land in South America, went ashore near Porto Seguro and claimed it for Portugal.",
+  "reason": "Cabral swung far west into the Atlantic to catch favourable winds on the route around Africa.",
+  "significance": "It began the Portuguese colonization of Brazil.",
+  "participants": [
+    "Pedro Alvares Cabral",
+    "Kingdom of Portugal",
+    "Tupiniquim people"
+  ],
+  "countries": [
+    "Brazil",
+    "Portugal"
+  ],
+  "place": "Porto Seguro coast, Bahia, Brazil",
+  "lat": -16.45,
+  "lon": -39.065,
+  "tags": [
+    "exploration"
+  ],
+  "weight": 78,
+  "wikipedia": "Pedro Álvares Cabral",
+  "wikidata": "Q174432"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "event-2009-01-20-obama-inauguration",
+  "title": "Barack Obama becomes US president",
+  "year": 2009,
+  "month": 1,
+  "day": 20,
+  "calendar": "gregorian",
+  "summary": "Barack Obama was sworn in as the first African American president of the United States before a vast crowd in Washington.",
+  "reason": "He won the 2008 election amid the financial crisis and fatigue with the Iraq war.",
+  "significance": "It was a landmark for civil rights in the United States.",
+  "participants": [
+    "Barack Obama",
+    "Joe Biden"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "United States Capitol, Washington, D.C., United States",
+  "lat": 38.8899,
+  "lon": -77.0091,
+  "tags": [
+    "politics",
+    "rights"
+  ],
+  "weight": 72,
+  "wikipedia": "First inauguration of Barack Obama",
+  "wikidata": "Q25094"
+}

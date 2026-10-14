@@ -1,0 +1,30 @@
+{
+  "id": "event-1882-07-11-bombardment-of-alexandria",
+  "title": "British fleet bombards Alexandria",
+  "year": 1882,
+  "month": 7,
+  "day": 11,
+  "calendar": "gregorian",
+  "summary": "Royal Navy warships shelled the forts of Alexandria, and British forces then invaded Egypt and defeated Ahmed Urabi's army.",
+  "reason": "Britain feared that the nationalist movement of Ahmed Urabi threatened European creditors and control of the Suez Canal.",
+  "significance": "It began the British occupation of Egypt, which lasted until 1956.",
+  "participants": [
+    "Royal Navy",
+    "Ahmed Urabi",
+    "Khedivate of Egypt",
+    "Beauchamp Seymour"
+  ],
+  "countries": [
+    "Egypt",
+    "United Kingdom"
+  ],
+  "place": "Alexandria, Egypt",
+  "lat": 31.2001,
+  "lon": 29.9187,
+  "tags": [
+    "war"
+  ],
+  "weight": 55,
+  "wikipedia": "Bombardment of Alexandria",
+  "wikidata": "Q2670249"
+}

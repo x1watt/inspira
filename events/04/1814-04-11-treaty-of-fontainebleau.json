@@ -1,0 +1,30 @@
+{
+  "id": "event-1814-04-11-treaty-of-fontainebleau",
+  "title": "Napoleon abdicates in the Treaty of Fontainebleau",
+  "year": 1814,
+  "month": 4,
+  "day": 11,
+  "calendar": "gregorian",
+  "summary": "Napoleon agreed with the allies to give up the French throne in exchange for sovereignty over Elba.",
+  "reason": "Allied armies had taken Paris and his marshals refused to fight on.",
+  "significance": "It ended the First French Empire and restored the Bourbon monarchy.",
+  "participants": [
+    "Napoleon Bonaparte",
+    "Russian Empire",
+    "Austrian Empire",
+    "Kingdom of Prussia"
+  ],
+  "countries": [
+    "France"
+  ],
+  "place": "Fontainebleau, France",
+  "lat": 48.402,
+  "lon": 2.7,
+  "tags": [
+    "diplomacy",
+    "politics"
+  ],
+  "weight": 60,
+  "wikipedia": "Treaty of Fontainebleau (1814)",
+  "wikidata": "Q690989"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "event-1916-06-10-arab-revolt",
+  "title": "Sharif Hussein launches the Arab Revolt",
+  "year": 1916,
+  "month": 6,
+  "day": 10,
+  "calendar": "gregorian",
+  "summary": "Sharif Hussein bin Ali of Mecca proclaimed a revolt against Ottoman rule, and his forces attacked the Ottoman garrison in Mecca.",
+  "reason": "Hussein sought an independent Arab state and had British promises of support in the Hussein-McMahon correspondence.",
+  "significance": "The revolt helped end Ottoman rule in the Arab lands and launched modern Arab nationalism.",
+  "participants": [
+    "Hussein bin Ali",
+    "Faisal I",
+    "T. E. Lawrence",
+    "Ottoman Empire"
+  ],
+  "countries": [
+    "Saudi Arabia",
+    "Turkey",
+    "United Kingdom"
+  ],
+  "place": "Mecca, Saudi Arabia",
+  "lat": 21.4225,
+  "lon": 39.8262,
+  "tags": [
+    "revolution",
+    "war"
+  ],
+  "weight": 62,
+  "wikipedia": "Arab Revolt",
+  "wikidata": "Q239060"
+}

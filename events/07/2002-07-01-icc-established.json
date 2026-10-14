@@ -1,0 +1,27 @@
+{
+  "id": "event-2002-07-01-icc-established",
+  "title": "The International Criminal Court is established",
+  "year": 2002,
+  "month": 7,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "The Rome Statute entered into force, creating a permanent court to try genocide, war crimes and crimes against humanity.",
+  "reason": "The tribunals for Yugoslavia and Rwanda showed the need for a standing court.",
+  "significance": "It became the first permanent international criminal court.",
+  "participants": [
+    "International Criminal Court"
+  ],
+  "countries": [
+    "Netherlands"
+  ],
+  "place": "The Hague, Netherlands",
+  "lat": 52.0705,
+  "lon": 4.3007,
+  "tags": [
+    "law",
+    "rights"
+  ],
+  "weight": 62,
+  "wikipedia": "International Criminal Court",
+  "wikidata": "Q47488"
+}

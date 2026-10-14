@@ -1,0 +1,33 @@
+{
+  "id": "event-1940-09-27-tripartite-pact",
+  "title": "Germany, Italy and Japan sign the Tripartite Pact",
+  "year": 1940,
+  "month": 9,
+  "day": 27,
+  "calendar": "gregorian",
+  "summary": "Representatives of Germany, Italy and Japan signed a pact in Berlin promising to support each other if attacked by a power not yet in the war.",
+  "reason": "The three powers wanted to deter the United States from entering the conflicts in Europe and Asia.",
+  "significance": "It formally created the Axis alliance that fought the Allies in both Europe and the Pacific.",
+  "participants": [
+    "Nazi Germany",
+    "Kingdom of Italy",
+    "Empire of Japan",
+    "Joachim von Ribbentrop",
+    "Galeazzo Ciano",
+    "Saburo Kurusu"
+  ],
+  "countries": [
+    "Germany",
+    "Italy",
+    "Japan"
+  ],
+  "place": "Reich Chancellery, Berlin, Germany",
+  "lat": 52.5112,
+  "lon": 13.3822,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 68,
+  "wikipedia": "Tripartite Pact",
+  "wikidata": "Q153122"
+}

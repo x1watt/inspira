@@ -1,0 +1,31 @@
+{
+  "id": "event-1885-01-26-fall-of-khartoum",
+  "title": "Mahdist forces take Khartoum and kill Gordon",
+  "year": 1885,
+  "month": 1,
+  "day": 26,
+  "calendar": "gregorian",
+  "summary": "After a ten-month siege, the army of Muhammad Ahmad, the Mahdi, stormed Khartoum and killed its governor, Charles Gordon.",
+  "reason": "The Mahdist uprising against Egyptian rule had swept Sudan, and Gordon had stayed in the city rather than evacuate it.",
+  "significance": "It established the Mahdist state in Sudan and caused a political storm in Britain.",
+  "participants": [
+    "Muhammad Ahmad",
+    "Charles George Gordon",
+    "Mahdist State",
+    "Khedivate of Egypt"
+  ],
+  "countries": [
+    "Sudan",
+    "United Kingdom",
+    "Egypt"
+  ],
+  "place": "Khartoum, Sudan",
+  "lat": 15.5007,
+  "lon": 32.5599,
+  "tags": [
+    "war"
+  ],
+  "weight": 60,
+  "wikipedia": "Siege of Khartoum",
+  "wikidata": "Q815159"
+}

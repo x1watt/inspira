@@ -1,0 +1,30 @@
+{
+  "id": "event-1964-03-31-brazil-1964-coup",
+  "title": "The military overthrows Brazil's President Goulart",
+  "year": 1964,
+  "month": 3,
+  "day": 31,
+  "calendar": "gregorian",
+  "summary": "Brazilian army units rebelled against President Joao Goulart, who fled to Uruguay within days.",
+  "reason": "Conservatives and the military feared Goulart's reforms and left wing allies, and Washington supported the plotters.",
+  "significance": "It began 21 years of military dictatorship in Brazil.",
+  "participants": [
+    "Joao Goulart",
+    "Humberto de Alencar Castelo Branco",
+    "Brazilian Army"
+  ],
+  "countries": [
+    "Brazil",
+    "United States"
+  ],
+  "place": "Rio de Janeiro, Brazil",
+  "lat": -22.9068,
+  "lon": -43.1729,
+  "tags": [
+    "politics",
+    "revolution"
+  ],
+  "weight": 53,
+  "wikipedia": "1964 Brazilian coup d'état",
+  "wikidata": "Q4571496"
+}

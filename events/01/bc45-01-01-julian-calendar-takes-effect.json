@@ -1,0 +1,29 @@
+{
+  "id": "event-bc45-01-01-julian-calendar-takes-effect",
+  "title": "The Julian calendar takes effect",
+  "year": -45,
+  "month": 1,
+  "day": 1,
+  "calendar": "julian",
+  "summary": "The calendar reform ordered by Julius Caesar came into force, giving the Roman year 365 days with a leap day every four years.",
+  "reason": "The old Roman lunar calendar had drifted badly out of step with the seasons because intercalation was neglected or abused for political ends.",
+  "significance": "With small changes it remains the basis of the calendar used worldwide today.",
+  "participants": [
+    "Julius Caesar",
+    "Sosigenes of Alexandria",
+    "Roman Republic"
+  ],
+  "countries": [
+    "Italy"
+  ],
+  "place": "Roman Republic (calendar law)",
+  "lat": null,
+  "lon": null,
+  "tags": [
+    "science",
+    "law"
+  ],
+  "weight": 85,
+  "wikipedia": "Julian calendar",
+  "wikidata": "Q11184"
+}

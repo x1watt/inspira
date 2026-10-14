@@ -1,0 +1,29 @@
+{
+  "id": "event-1890-12-29-wounded-knee-massacre",
+  "title": "Wounded Knee Massacre",
+  "year": 1890,
+  "month": 12,
+  "day": 29,
+  "calendar": "gregorian",
+  "summary": "United States soldiers killed about 250 or more Lakota men, women and children while disarming their camp at Wounded Knee Creek in South Dakota.",
+  "reason": "Fear of the Ghost Dance movement and tension after the killing of Sitting Bull led the army to round up Lakota bands.",
+  "significance": "It is remembered as the end of armed Native American resistance on the Plains and a symbol of injustice.",
+  "participants": [
+    "7th Cavalry Regiment",
+    "Spotted Elk",
+    "Lakota"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Wounded Knee, South Dakota, United States",
+  "lat": 43.1425,
+  "lon": -102.365,
+  "tags": [
+    "war",
+    "rights"
+  ],
+  "weight": 60,
+  "wikipedia": "Wounded Knee Massacre",
+  "wikidata": "Q108413"
+}

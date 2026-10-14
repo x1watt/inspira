@@ -1,0 +1,29 @@
+{
+  "id": "event-1939-11-30-winter-war-begins",
+  "title": "Soviet Union attacks Finland, starting the Winter War",
+  "year": 1939,
+  "month": 11,
+  "day": 30,
+  "calendar": "gregorian",
+  "summary": "Soviet troops crossed the Finnish border and Soviet planes bombed Helsinki. The Finns held out through the winter with fierce resistance before agreeing to peace in March 1940.",
+  "reason": "Stalin demanded Finnish territory near Leningrad and bases on the Gulf of Finland, and Finland refused.",
+  "significance": "Finland kept its independence but lost Karelia, and the poor Soviet performance encouraged Hitler to think the Red Army was weak.",
+  "participants": [
+    "Soviet Union",
+    "Finland",
+    "Carl Gustaf Emil Mannerheim"
+  ],
+  "countries": [
+    "Finland",
+    "Russia"
+  ],
+  "place": "Helsinki and the Karelian Isthmus, Finland",
+  "lat": 60.1699,
+  "lon": 24.9384,
+  "tags": [
+    "war"
+  ],
+  "weight": 60,
+  "wikipedia": "Winter War",
+  "wikidata": "Q134949"
+}

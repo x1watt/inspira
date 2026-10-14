@@ -1,0 +1,29 @@
+{
+  "id": "event-1911-07-24-machu-picchu",
+  "title": "Hiram Bingham reaches Machu Picchu",
+  "year": 1911,
+  "month": 7,
+  "day": 24,
+  "calendar": "gregorian",
+  "summary": "Guided by local farmers, American explorer Hiram Bingham reached the ruins of the Inca citadel of Machu Picchu high in the Peruvian Andes.",
+  "reason": "Bingham was searching for Vilcabamba, the last refuge of the Inca, and relied on local knowledge of ruins in the area.",
+  "significance": "It brought Machu Picchu to world attention, and it became a symbol of Inca civilization.",
+  "participants": [
+    "Hiram Bingham III",
+    "Melchor Arteaga"
+  ],
+  "countries": [
+    "Peru",
+    "United States"
+  ],
+  "place": "Machu Picchu, Peru",
+  "lat": -13.1631,
+  "lon": -72.545,
+  "tags": [
+    "exploration",
+    "culture"
+  ],
+  "weight": 52,
+  "wikipedia": "Machu Picchu",
+  "wikidata": "Q676203"
+}

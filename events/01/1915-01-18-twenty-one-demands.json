@@ -1,0 +1,29 @@
+{
+  "id": "event-1915-01-18-twenty-one-demands",
+  "title": "Japan presents the Twenty-One Demands to China",
+  "year": 1915,
+  "month": 1,
+  "day": 18,
+  "calendar": "gregorian",
+  "summary": "Japan secretly presented the government of Yuan Shikai with a list of demands that would have greatly extended Japanese control over Chinese territory and economy.",
+  "reason": "With the European powers absorbed in World War I, Japan sought to secure its position in Shandong and Manchuria.",
+  "significance": "It fueled Chinese nationalism and anti-Japanese sentiment for decades.",
+  "participants": [
+    "Empire of Japan",
+    "Yuan Shikai",
+    "Okuma Shigenobu"
+  ],
+  "countries": [
+    "China",
+    "Japan"
+  ],
+  "place": "Beijing, China",
+  "lat": 39.9042,
+  "lon": 116.4074,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 52,
+  "wikipedia": "Twenty-One Demands",
+  "wikidata": "Q696785"
+}

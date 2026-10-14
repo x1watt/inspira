@@ -1,0 +1,28 @@
+{
+  "id": "event-1556-02-14-akbar-enthroned",
+  "title": "The young Akbar becomes Mughal emperor",
+  "year": 1556,
+  "month": 2,
+  "day": 14,
+  "calendar": "julian",
+  "summary": "Thirteen-year-old Akbar was enthroned on a brick platform in a garden at Kalanaur after the sudden death of his father Humayun.",
+  "reason": "Humayun had died after a fall in his library, and the regent Bairam Khan moved quickly to secure the succession.",
+  "significance": "Akbar became the greatest Mughal ruler, expanding the empire and promoting religious tolerance.",
+  "participants": [
+    "Akbar",
+    "Bairam Khan",
+    "Mughal Empire"
+  ],
+  "countries": [
+    "India"
+  ],
+  "place": "Kalanaur, Punjab, India",
+  "lat": 32.017,
+  "lon": 75.15,
+  "tags": [
+    "politics"
+  ],
+  "weight": 68,
+  "wikipedia": "Akbar",
+  "wikidata": "Q8597"
+}

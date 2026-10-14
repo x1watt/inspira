@@ -1,0 +1,29 @@
+{
+  "id": "event-1946-12-19-battle-of-hanoi",
+  "title": "Fighting in Hanoi opens the First Indochina War",
+  "year": 1946,
+  "month": 12,
+  "day": 19,
+  "calendar": "gregorian",
+  "summary": "Viet Minh forces attacked French positions in Hanoi, turning months of tension into open war. Ho Chi Minh and his government withdrew to the countryside.",
+  "reason": "France sought to restore colonial rule in Indochina, while the Viet Minh had declared Vietnamese independence in 1945.",
+  "significance": "It began the eight year war that ended French rule in Indochina.",
+  "participants": [
+    "Viet Minh",
+    "French Fourth Republic",
+    "Ho Chi Minh"
+  ],
+  "countries": [
+    "Vietnam",
+    "France"
+  ],
+  "place": "Hanoi, Vietnam",
+  "lat": 21.0285,
+  "lon": 105.8542,
+  "tags": [
+    "war"
+  ],
+  "weight": 55,
+  "wikipedia": "Battle of Hanoi (1946)",
+  "wikidata": "Q962370"
+}

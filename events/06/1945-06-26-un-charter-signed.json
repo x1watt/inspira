@@ -1,0 +1,29 @@
+{
+  "id": "event-1945-06-26-un-charter-signed",
+  "title": "United Nations Charter is signed in San Francisco",
+  "year": 1945,
+  "month": 6,
+  "day": 26,
+  "calendar": "gregorian",
+  "summary": "Delegates of 50 nations signed the Charter of the United Nations at the end of a two-month conference in San Francisco.",
+  "reason": "The Allies wanted a stronger organisation than the failed League of Nations to keep peace after the war.",
+  "significance": "It created the United Nations, the main forum of international cooperation ever since.",
+  "participants": [
+    "United Nations Conference on International Organization",
+    "Harry S. Truman",
+    "Edward Stettinius Jr."
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Veterans Building, San Francisco, California, United States",
+  "lat": 37.7795,
+  "lon": -122.4206,
+  "tags": [
+    "diplomacy",
+    "law"
+  ],
+  "weight": 85,
+  "wikipedia": "Charter of the United Nations",
+  "wikidata": "Q171328"
+}

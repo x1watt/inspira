@@ -1,0 +1,26 @@
+{
+  "id": "event-1804-02-21-trevithick-locomotive",
+  "title": "First railway journey by a steam locomotive",
+  "year": 1804,
+  "month": 2,
+  "day": 21,
+  "calendar": "gregorian",
+  "summary": "Richard Trevithick's steam locomotive hauled iron and passengers along the tramway of the Penydarren ironworks in Wales.",
+  "reason": "Trevithick had developed high pressure steam engines and wanted to prove they could pull loads on rails.",
+  "significance": "It was the first locomotive to haul a train on rails, the start of railways.",
+  "participants": [
+    "Richard Trevithick",
+    "Samuel Homfray"
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "place": "Penydarren, Merthyr Tydfil, United Kingdom",
+  "lat": 51.748,
+  "lon": -3.378,
+  "tags": [
+    "technology"
+  ],
+  "weight": 60,
+  "wikipedia": "Richard Trevithick"
+}

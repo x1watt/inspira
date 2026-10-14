@@ -1,0 +1,30 @@
+{
+  "id": "event-750-01-25-battle-of-the-zab",
+  "title": "The Abbasids defeat the Umayyads at the Battle of the Zab",
+  "year": 750,
+  "month": 1,
+  "day": 25,
+  "calendar": "julian",
+  "summary": "An Abbasid army crushed the forces of the Umayyad caliph Marwan II by the Great Zab River. Marwan fled and was killed later that year.",
+  "reason": "The Abbasid revolution, launched in Khurasan, drew on wide discontent with Umayyad rule among non-Arab Muslims and Shia supporters.",
+  "significance": "It ended the Umayyad Caliphate in the east and brought the Abbasids to power for five centuries.",
+  "participants": [
+    "Abbasid Caliphate",
+    "Umayyad Caliphate",
+    "Marwan II",
+    "Abdallah ibn Ali"
+  ],
+  "countries": [
+    "Iraq"
+  ],
+  "place": "Great Zab River, northern Iraq",
+  "lat": 36.15,
+  "lon": 43.4,
+  "tags": [
+    "war",
+    "politics"
+  ],
+  "weight": 70,
+  "wikipedia": "Battle of the Zab",
+  "wikidata": "Q289492"
+}

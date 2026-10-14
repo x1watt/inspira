@@ -1,0 +1,28 @@
+{
+  "id": "event-2015-12-12-paris-agreement",
+  "title": "Paris Agreement on climate change is adopted",
+  "year": 2015,
+  "month": 12,
+  "day": 12,
+  "calendar": "gregorian",
+  "summary": "Nearly 200 countries agreed in Paris to keep global warming well below 2 degrees Celsius.",
+  "reason": "Kyoto had failed to curb emissions, and leaders sought a deal that covered every country.",
+  "significance": "It is the main global framework for fighting climate change.",
+  "participants": [
+    "United Nations Framework Convention on Climate Change",
+    "Laurent Fabius"
+  ],
+  "countries": [
+    "France"
+  ],
+  "place": "Le Bourget, Paris, France",
+  "lat": 48.9353,
+  "lon": 2.4272,
+  "tags": [
+    "diplomacy",
+    "science"
+  ],
+  "weight": 78,
+  "wikipedia": "Paris Agreement",
+  "wikidata": "Q21707860"
+}

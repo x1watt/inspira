@@ -1,0 +1,30 @@
+{
+  "id": "event-1356-09-19-poitiers",
+  "title": "Black Prince captures King John II at Poitiers",
+  "year": 1356,
+  "month": 9,
+  "day": 19,
+  "calendar": "julian",
+  "summary": "An outnumbered Anglo-Gascon army led by Edward the Black Prince defeated the French near Poitiers and captured King John II and his son.",
+  "reason": "The Black Prince was leading a destructive raid through France, and John II intercepted him to end it.",
+  "significance": "The king's capture threw France into crisis and led to the Treaty of Bretigny, which gave England large territories.",
+  "participants": [
+    "Kingdom of England",
+    "Kingdom of France",
+    "Edward the Black Prince",
+    "John II of France"
+  ],
+  "countries": [
+    "France",
+    "United Kingdom"
+  ],
+  "place": "Nouaille-Maupertuis, near Poitiers, France",
+  "lat": 46.513,
+  "lon": 0.415,
+  "tags": [
+    "war"
+  ],
+  "weight": 60,
+  "wikipedia": "Battle of Poitiers",
+  "wikidata": "Q201692"
+}

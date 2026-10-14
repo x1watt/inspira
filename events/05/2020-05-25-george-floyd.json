@@ -1,0 +1,28 @@
+{
+  "id": "event-2020-05-25-george-floyd",
+  "title": "George Floyd is murdered by police in Minneapolis",
+  "year": 2020,
+  "month": 5,
+  "day": 25,
+  "calendar": "gregorian",
+  "summary": "George Floyd died after officer Derek Chauvin knelt on his neck for over nine minutes, setting off protests worldwide.",
+  "reason": "A bystander's video revealed the killing, adding to long anger over police violence against Black Americans.",
+  "significance": "It led to the largest protest movement in US history.",
+  "participants": [
+    "George Floyd",
+    "Derek Chauvin",
+    "Black Lives Matter"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Minneapolis, Minnesota, United States",
+  "lat": 44.9341,
+  "lon": -93.2622,
+  "tags": [
+    "rights"
+  ],
+  "weight": 68,
+  "wikipedia": "Murder of George Floyd",
+  "wikidata": "Q95579249"
+}

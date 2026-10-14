@@ -1,0 +1,28 @@
+{
+  "id": "event-1970-11-12-bhola-cyclone",
+  "title": "The Bhola cyclone strikes East Pakistan",
+  "year": 1970,
+  "month": 11,
+  "day": 12,
+  "calendar": "gregorian",
+  "summary": "A tropical cyclone and storm surge struck the coast of East Pakistan, killing several hundred thousand people.",
+  "reason": "The low lying Ganges delta was exposed to the storm, and warnings and relief were inadequate.",
+  "significance": "Anger at the government's response helped lead to the independence of Bangladesh.",
+  "participants": [
+    "East Pakistan",
+    "Government of Pakistan"
+  ],
+  "countries": [
+    "Bangladesh",
+    "Pakistan"
+  ],
+  "place": "Bhola, Bangladesh",
+  "lat": 22.6859,
+  "lon": 90.6482,
+  "tags": [
+    "disaster"
+  ],
+  "weight": 58,
+  "wikipedia": "1970 Bhola cyclone",
+  "wikidata": "Q245551"
+}

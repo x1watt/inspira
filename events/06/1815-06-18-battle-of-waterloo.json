@@ -1,0 +1,35 @@
+{
+  "id": "event-1815-06-18-battle-of-waterloo",
+  "title": "Napoleon is defeated at Waterloo",
+  "year": 1815,
+  "month": 6,
+  "day": 18,
+  "calendar": "gregorian",
+  "summary": "The Duke of Wellington's allied army and Blucher's Prussians defeated Napoleon at Waterloo.",
+  "reason": "Napoleon had returned from Elba and tried to strike before the allies could unite.",
+  "significance": "It ended the Napoleonic era.",
+  "participants": [
+    "Napoleon Bonaparte",
+    "Duke of Wellington",
+    "Gebhard Leberecht von Blucher",
+    "French Empire",
+    "Kingdom of Prussia",
+    "United Kingdom"
+  ],
+  "countries": [
+    "Belgium",
+    "France",
+    "United Kingdom",
+    "Germany",
+    "Netherlands"
+  ],
+  "place": "Waterloo, near Brussels, Belgium",
+  "lat": 50.68,
+  "lon": 4.412,
+  "tags": [
+    "war"
+  ],
+  "weight": 95,
+  "wikipedia": "Battle of Waterloo",
+  "wikidata": "Q48314"
+}

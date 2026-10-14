@@ -1,0 +1,28 @@
+{
+  "id": "event-2006-10-09-north-korea-nuclear-test",
+  "title": "North Korea conducts its first nuclear test",
+  "year": 2006,
+  "month": 10,
+  "day": 9,
+  "calendar": "gregorian",
+  "summary": "North Korea set off an underground nuclear explosion at Punggye-ri.",
+  "reason": "The regime sought nuclear weapons to guarantee its survival against the United States.",
+  "significance": "It made North Korea a nuclear power and brought UN sanctions.",
+  "participants": [
+    "North Korea",
+    "Kim Jong Il"
+  ],
+  "countries": [
+    "North Korea"
+  ],
+  "place": "Punggye-ri, North Korea",
+  "lat": 41.28,
+  "lon": 129.08,
+  "tags": [
+    "war",
+    "technology"
+  ],
+  "weight": 60,
+  "wikipedia": "2006 North Korean nuclear test",
+  "wikidata": "Q499060"
+}

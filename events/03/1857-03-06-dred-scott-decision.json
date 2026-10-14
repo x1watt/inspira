@@ -1,0 +1,29 @@
+{
+  "id": "event-1857-03-06-dred-scott-decision",
+  "title": "Supreme Court rules in Dred Scott v. Sandford",
+  "year": 1857,
+  "month": 3,
+  "day": 6,
+  "calendar": "gregorian",
+  "summary": "The United States Supreme Court ruled that people of African descent could not be citizens and that Congress could not ban slavery in the territories.",
+  "reason": "Dred Scott, an enslaved man, sued for freedom because he had lived in a free state and territory, and the court sought to settle the slavery question.",
+  "significance": "The ruling inflamed sectional tensions and helped bring on the Civil War.",
+  "participants": [
+    "Dred Scott",
+    "Roger B. Taney",
+    "Supreme Court of the United States"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Washington, D.C., United States",
+  "lat": null,
+  "lon": null,
+  "tags": [
+    "law",
+    "rights"
+  ],
+  "weight": 60,
+  "wikipedia": "Dred Scott v. Sandford",
+  "wikidata": "Q690462"
+}

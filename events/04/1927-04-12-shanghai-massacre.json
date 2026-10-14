@@ -1,0 +1,30 @@
+{
+  "id": "event-1927-04-12-shanghai-massacre",
+  "title": "Chiang Kai-shek purges the Communists in Shanghai",
+  "year": 1927,
+  "month": 4,
+  "day": 12,
+  "calendar": "gregorian",
+  "summary": "Nationalist troops and gangsters loyal to Chiang Kai-shek attacked Communists and labor unions in Shanghai, killing hundreds and arresting many more.",
+  "reason": "Chiang feared growing Communist power within the Nationalist movement and was backed by Shanghai business interests.",
+  "significance": "It ended the First United Front and began the long Chinese Civil War.",
+  "participants": [
+    "Chiang Kai-shek",
+    "Kuomintang",
+    "Chinese Communist Party",
+    "Green Gang"
+  ],
+  "countries": [
+    "China"
+  ],
+  "place": "Shanghai, China",
+  "lat": 31.2304,
+  "lon": 121.4737,
+  "tags": [
+    "war",
+    "politics"
+  ],
+  "weight": 57,
+  "wikipedia": "Shanghai massacre",
+  "wikidata": "Q1195058"
+}

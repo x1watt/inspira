@@ -1,0 +1,31 @@
+{
+  "id": "event-bc42-10-03-battle-of-philippi",
+  "title": "First Battle of Philippi",
+  "year": -42,
+  "month": 10,
+  "day": 3,
+  "calendar": "julian",
+  "summary": "The armies of Mark Antony and Octavian met the forces of Brutus and Cassius at Philippi in Macedonia. Cassius killed himself after the first engagement, and Brutus was defeated three weeks later.",
+  "reason": "The Second Triumvirate set out to avenge Caesar and destroy the army of his assassins in the east.",
+  "significance": "It ended the cause of Caesar's assassins and left the triumvirs in control of the Roman world.",
+  "participants": [
+    "Mark Antony",
+    "Octavian",
+    "Marcus Junius Brutus",
+    "Gaius Cassius Longinus",
+    "Second Triumvirate"
+  ],
+  "countries": [
+    "Greece",
+    "Italy"
+  ],
+  "place": "Philippi, Eastern Macedonia, Greece",
+  "lat": 41.0128,
+  "lon": 24.2861,
+  "tags": [
+    "war"
+  ],
+  "weight": 62,
+  "wikipedia": "Battle of Philippi",
+  "wikidata": "Q335330"
+}

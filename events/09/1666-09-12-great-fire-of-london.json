@@ -1,0 +1,28 @@
+{
+  "id": "event-1666-09-12-great-fire-of-london",
+  "title": "Great Fire of London breaks out",
+  "year": 1666,
+  "month": 9,
+  "day": 12,
+  "calendar": "gregorian",
+  "summary": "A fire began in a bakery on Pudding Lane and spread for four days, destroying most of the medieval City of London, including St Paul's Cathedral.",
+  "reason": "A long dry summer, strong east winds and tightly packed timber houses let the blaze spread faster than it could be stopped.",
+  "significance": "The city was rebuilt in brick and stone, and the disaster led to modern fire insurance.",
+  "participants": [
+    "City of London",
+    "Charles II of England",
+    "Thomas Farriner"
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "place": "Pudding Lane, London, United Kingdom",
+  "lat": 51.5101,
+  "lon": -0.0859,
+  "tags": [
+    "disaster"
+  ],
+  "weight": 66,
+  "wikipedia": "Great Fire of London",
+  "wikidata": "Q164679"
+}

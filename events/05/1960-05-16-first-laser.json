@@ -1,0 +1,28 @@
+{
+  "id": "event-1960-05-16-first-laser",
+  "title": "Theodore Maiman builds the first laser",
+  "year": 1960,
+  "month": 5,
+  "day": 16,
+  "calendar": "gregorian",
+  "summary": "At Hughes Research Laboratories in Malibu, Theodore Maiman operated the first working laser, using a ruby crystal.",
+  "reason": "Physicists were racing to build an optical maser after the theory was published in 1958.",
+  "significance": "Lasers became essential in medicine, communications and industry.",
+  "participants": [
+    "Theodore Maiman",
+    "Hughes Research Laboratories"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Hughes Research Laboratories, Malibu, California, United States",
+  "lat": 34.0384,
+  "lon": -118.688,
+  "tags": [
+    "science",
+    "technology"
+  ],
+  "weight": 61,
+  "wikipedia": "Laser",
+  "wikidata": "Q38867"
+}

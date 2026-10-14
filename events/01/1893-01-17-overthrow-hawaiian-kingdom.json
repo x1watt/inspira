@@ -1,0 +1,30 @@
+{
+  "id": "event-1893-01-17-overthrow-hawaiian-kingdom",
+  "title": "Queen Liliʻuokalani is overthrown in Hawaii",
+  "year": 1893,
+  "month": 1,
+  "day": 17,
+  "calendar": "gregorian",
+  "summary": "A group of mostly American businessmen, backed by United States Marines, deposed Queen Liliʻuokalani and set up a provisional government.",
+  "reason": "Sugar planters opposed the queen's plan for a new constitution restoring royal power and wanted annexation by the United States.",
+  "significance": "It ended the Hawaiian monarchy and led to annexation by the United States in 1898.",
+  "participants": [
+    "Liliʻuokalani",
+    "Committee of Safety",
+    "Sanford B. Dole",
+    "United States Marine Corps"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "ʻIolani Palace, Honolulu, Hawaii, United States",
+  "lat": 21.3069,
+  "lon": -157.8583,
+  "tags": [
+    "politics",
+    "revolution"
+  ],
+  "weight": 60,
+  "wikipedia": "Overthrow of the Hawaiian Kingdom",
+  "wikidata": "Q10931943"
+}

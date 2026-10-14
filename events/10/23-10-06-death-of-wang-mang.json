@@ -1,0 +1,29 @@
+{
+  "id": "event-23-10-06-death-of-wang-mang",
+  "title": "Wang Mang is killed as his Xin dynasty falls",
+  "year": 23,
+  "month": 10,
+  "day": 6,
+  "calendar": "julian",
+  "summary": "Rebel forces broke into Chang'an and killed the emperor Wang Mang in his palace, ending his Xin dynasty.",
+  "reason": "Wang Mang's radical reforms, floods of the Yellow River and famine provoked massive revolts such as the Red Eyebrows and the Lulin.",
+  "significance": "His fall led to the restoration of the Han dynasty as the Eastern Han.",
+  "participants": [
+    "Wang Mang",
+    "Xin dynasty",
+    "Lulin"
+  ],
+  "countries": [
+    "China"
+  ],
+  "place": "Chang'an, near Xi'an, China",
+  "lat": 34.3,
+  "lon": 108.88,
+  "tags": [
+    "revolution",
+    "politics"
+  ],
+  "weight": 62,
+  "wikipedia": "Wang Mang",
+  "wikidata": "Q7250"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "event-2011-03-15-syrian-civil-war",
+  "title": "Syrian uprising begins",
+  "year": 2011,
+  "month": 3,
+  "day": 15,
+  "calendar": "gregorian",
+  "summary": "Protests calling for reform broke out in Damascus and soon in Daraa, and the government's violent response turned the uprising into civil war.",
+  "reason": "The Arab Spring inspired Syrians angry at the Assad family's repressive rule.",
+  "significance": "The war killed hundreds of thousands and created the largest refugee crisis of the century.",
+  "participants": [
+    "Bashar al-Assad",
+    "Syrian opposition"
+  ],
+  "countries": [
+    "Syria"
+  ],
+  "place": "Damascus, Syria",
+  "lat": 33.5138,
+  "lon": 36.2765,
+  "tags": [
+    "war",
+    "revolution"
+  ],
+  "weight": 82,
+  "wikipedia": "Syrian civil war",
+  "wikidata": "Q178810"
+}

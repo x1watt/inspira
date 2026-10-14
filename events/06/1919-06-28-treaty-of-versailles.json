@@ -1,0 +1,33 @@
+{
+  "id": "event-1919-06-28-treaty-of-versailles",
+  "title": "The Treaty of Versailles is signed",
+  "year": 1919,
+  "month": 6,
+  "day": 28,
+  "calendar": "gregorian",
+  "summary": "Germany and the Allied powers signed the peace treaty in the Hall of Mirrors at Versailles, imposing territorial losses, disarmament and reparations on Germany.",
+  "reason": "The victors wanted to punish Germany, secure France and build a new order including the League of Nations.",
+  "significance": "It formally ended World War I and its terms fueled resentment that helped bring about World War II.",
+  "participants": [
+    "German Reich",
+    "Allies of World War I",
+    "Woodrow Wilson",
+    "Georges Clemenceau",
+    "David Lloyd George"
+  ],
+  "countries": [
+    "France",
+    "Germany",
+    "United Kingdom",
+    "United States"
+  ],
+  "place": "Hall of Mirrors, Palace of Versailles, France",
+  "lat": 48.8049,
+  "lon": 2.1204,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 95,
+  "wikipedia": "Treaty of Versailles",
+  "wikidata": "Q8736"
+}

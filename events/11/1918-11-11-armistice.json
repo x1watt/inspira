@@ -1,0 +1,32 @@
+{
+  "id": "event-1918-11-11-armistice",
+  "title": "Armistice ends the fighting of World War I",
+  "year": 1918,
+  "month": 11,
+  "day": 11,
+  "calendar": "gregorian",
+  "summary": "Germany signed an armistice with the Allies in a railway carriage in the forest of Compiegne, and fighting on the Western Front stopped at 11 a.m.",
+  "reason": "Germany's army was retreating, its allies had collapsed, and revolution had broken out at home.",
+  "significance": "It ended World War I, in which about 20 million people died.",
+  "participants": [
+    "German Empire",
+    "Ferdinand Foch",
+    "Matthias Erzberger",
+    "Allies of World War I"
+  ],
+  "countries": [
+    "France",
+    "Germany",
+    "United Kingdom"
+  ],
+  "place": "Glade of the Armistice, Compiegne, France",
+  "lat": 49.4272,
+  "lon": 2.9061,
+  "tags": [
+    "war",
+    "diplomacy"
+  ],
+  "weight": 92,
+  "wikipedia": "Armistice of 11 November 1918",
+  "wikidata": "Q253224"
+}

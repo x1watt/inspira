@@ -1,0 +1,31 @@
+{
+  "id": "event-1555-09-25-peace-of-augsburg",
+  "title": "The Peace of Augsburg lets German princes choose their faith",
+  "year": 1555,
+  "month": 9,
+  "day": 25,
+  "calendar": "julian",
+  "summary": "Charles V's brother Ferdinand and the princes of the Empire agreed that each ruler could choose Lutheranism or Catholicism for his territory.",
+  "reason": "Decades of religious conflict and the Schmalkaldic War had shown that the Lutherans could not be suppressed by force.",
+  "significance": "It brought sixty years of relative peace to Germany and fixed the principle that the ruler decides the religion.",
+  "participants": [
+    "Ferdinand I, Holy Roman Emperor",
+    "Charles V, Holy Roman Emperor",
+    "Holy Roman Empire",
+    "Lutheran princes"
+  ],
+  "countries": [
+    "Germany"
+  ],
+  "place": "Augsburg, Bavaria, Germany",
+  "lat": 48.371,
+  "lon": 10.898,
+  "tags": [
+    "religion",
+    "diplomacy",
+    "law"
+  ],
+  "weight": 68,
+  "wikipedia": "Peace of Augsburg",
+  "wikidata": "Q154577"
+}

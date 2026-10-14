@@ -1,0 +1,28 @@
+{
+  "id": "event-1963-11-22-jfk-assassination",
+  "title": "John F. Kennedy is assassinated in Dallas",
+  "year": 1963,
+  "month": 11,
+  "day": 22,
+  "calendar": "gregorian",
+  "summary": "President John F. Kennedy was shot and killed while riding in a motorcade through Dealey Plaza in Dallas. Lee Harvey Oswald was arrested for the murder.",
+  "reason": "Oswald, a former Marine who had lived in the Soviet Union, fired from the Texas School Book Depository.",
+  "significance": "The killing shocked the world and Lyndon Johnson became president.",
+  "participants": [
+    "John F. Kennedy",
+    "Lee Harvey Oswald",
+    "Lyndon B. Johnson"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Dealey Plaza, Dallas, Texas, United States",
+  "lat": 32.7788,
+  "lon": -96.8084,
+  "tags": [
+    "politics"
+  ],
+  "weight": 85,
+  "wikipedia": "Assassination of John F. Kennedy",
+  "wikidata": "Q193484"
+}

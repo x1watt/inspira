@@ -1,0 +1,33 @@
+{
+  "id": "event-1992-02-07-maastricht-treaty",
+  "title": "Maastricht Treaty is signed",
+  "year": 1992,
+  "month": 2,
+  "day": 7,
+  "calendar": "gregorian",
+  "summary": "Twelve European Community states signed the Treaty on European Union, creating the European Union and a path to a single currency.",
+  "reason": "After German reunification and the end of the Cold War, leaders wanted deeper integration to anchor Germany in Europe.",
+  "significance": "It founded the European Union and led to the euro.",
+  "participants": [
+    "European Community",
+    "Helmut Kohl",
+    "Francois Mitterrand",
+    "Jacques Delors"
+  ],
+  "countries": [
+    "Netherlands",
+    "Germany",
+    "France"
+  ],
+  "place": "Maastricht, Netherlands",
+  "lat": 50.8514,
+  "lon": 5.691,
+  "tags": [
+    "diplomacy",
+    "politics",
+    "economy"
+  ],
+  "weight": 80,
+  "wikipedia": "Maastricht Treaty",
+  "wikidata": "Q11146"
+}

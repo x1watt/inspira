@@ -1,0 +1,32 @@
+{
+  "id": "event-1683-09-12-battle-of-vienna",
+  "title": "Battle of Vienna breaks the Ottoman siege",
+  "year": 1683,
+  "month": 9,
+  "day": 12,
+  "calendar": "gregorian",
+  "summary": "A relief army led by King John III Sobieski of Poland attacked from the Kahlenberg and routed the Ottoman army besieging Vienna.",
+  "reason": "Grand Vizier Kara Mustafa Pasha had marched on the Habsburg capital to expand Ottoman power into Central Europe.",
+  "significance": "It marked the end of Ottoman expansion in Europe and the start of their retreat from Hungary.",
+  "participants": [
+    "John III Sobieski",
+    "Holy Roman Empire",
+    "Polish-Lithuanian Commonwealth",
+    "Ottoman Empire",
+    "Kara Mustafa Pasha"
+  ],
+  "countries": [
+    "Austria",
+    "Poland",
+    "Turkey"
+  ],
+  "place": "Kahlenberg, Vienna, Austria",
+  "lat": 48.276,
+  "lon": 16.333,
+  "tags": [
+    "war"
+  ],
+  "weight": 82,
+  "wikipedia": "Battle of Vienna",
+  "wikidata": "Q200855"
+}

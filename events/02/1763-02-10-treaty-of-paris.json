@@ -1,0 +1,30 @@
+{
+  "id": "event-1763-02-10-treaty-of-paris",
+  "title": "Treaty of Paris ends the Seven Years' War",
+  "year": 1763,
+  "month": 2,
+  "day": 10,
+  "calendar": "gregorian",
+  "summary": "Britain, France and Spain signed a peace treaty in Paris. France ceded Canada and lands east of the Mississippi to Britain, and Spain ceded Florida.",
+  "reason": "After years of global war, the exhausted powers sought peace on terms that reflected British victories.",
+  "significance": "It made Britain the dominant colonial power in North America and India.",
+  "participants": [
+    "Kingdom of Great Britain",
+    "Kingdom of France",
+    "Kingdom of Spain"
+  ],
+  "countries": [
+    "France",
+    "United Kingdom",
+    "Spain"
+  ],
+  "place": "Paris, France",
+  "lat": 48.8566,
+  "lon": 2.3522,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 75,
+  "wikipedia": "Treaty of Paris (1763)",
+  "wikidata": "Q156211"
+}

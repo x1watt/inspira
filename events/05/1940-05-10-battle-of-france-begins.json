@@ -1,0 +1,36 @@
+{
+  "id": "event-1940-05-10-battle-of-france-begins",
+  "title": "Germany attacks France and the Low Countries",
+  "year": 1940,
+  "month": 5,
+  "day": 10,
+  "calendar": "gregorian",
+  "summary": "German forces invaded the Netherlands, Belgium and Luxembourg, while their armoured divisions moved through the Ardennes forest and broke through at Sedan. The same day Winston Churchill became British Prime Minister.",
+  "reason": "Hitler aimed to knock France out of the war quickly, and the Allies expected the main attack further north.",
+  "significance": "Within six weeks France was defeated, leaving Britain alone against Germany in western Europe.",
+  "participants": [
+    "Nazi Germany",
+    "France",
+    "United Kingdom",
+    "Belgium",
+    "Netherlands",
+    "Erich von Manstein",
+    "Heinz Guderian"
+  ],
+  "countries": [
+    "France",
+    "Belgium",
+    "Netherlands",
+    "Luxembourg",
+    "Germany"
+  ],
+  "place": "Ardennes, near Sedan, France",
+  "lat": 49.7019,
+  "lon": 4.9403,
+  "tags": [
+    "war"
+  ],
+  "weight": 85,
+  "wikipedia": "Battle of France",
+  "wikidata": "Q151340"
+}

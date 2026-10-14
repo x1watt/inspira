@@ -1,0 +1,30 @@
+{
+  "id": "event-1847-09-13-battle-of-chapultepec",
+  "title": "United States troops storm Chapultepec Castle",
+  "year": 1847,
+  "month": 9,
+  "day": 13,
+  "calendar": "gregorian",
+  "summary": "American forces captured the castle of Chapultepec, defended by Mexican troops and military cadets, and entered Mexico City the next day.",
+  "reason": "General Winfield Scott's army needed to take the fortified hill to break into the Mexican capital and end the war.",
+  "significance": "It decided the Mexican-American War, and the young cadets who died are honored in Mexico as the Niños Héroes.",
+  "participants": [
+    "Winfield Scott",
+    "United States Army",
+    "Mexican Army",
+    "Nicolás Bravo"
+  ],
+  "countries": [
+    "Mexico",
+    "United States"
+  ],
+  "place": "Chapultepec Castle, Mexico City, Mexico",
+  "lat": 19.4204,
+  "lon": -99.1817,
+  "tags": [
+    "war"
+  ],
+  "weight": 50,
+  "wikipedia": "Battle of Chapultepec",
+  "wikidata": "Q1536618"
+}

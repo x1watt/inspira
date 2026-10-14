@@ -1,0 +1,31 @@
+{
+  "id": "event-1819-08-07-battle-of-boyaca",
+  "title": "Bolívar wins the Battle of Boyacá",
+  "year": 1819,
+  "month": 8,
+  "day": 7,
+  "calendar": "gregorian",
+  "summary": "Simón Bolívar's patriot army defeated the Spanish royalist forces at the Boyacá bridge, and entered Bogotá a few days later.",
+  "reason": "After crossing the Andes from the Llanos, Bolívar sought to strike New Granada's royalist army before it could join forces in the capital.",
+  "significance": "It liberated New Granada and led to the creation of Gran Colombia.",
+  "participants": [
+    "Simón Bolívar",
+    "Francisco de Paula Santander",
+    "Spanish Empire"
+  ],
+  "countries": [
+    "Colombia",
+    "Venezuela",
+    "Spain"
+  ],
+  "place": "Puente de Boyacá, Boyacá, Colombia",
+  "lat": 5.456,
+  "lon": -73.366,
+  "tags": [
+    "war",
+    "revolution"
+  ],
+  "weight": 65,
+  "wikipedia": "Battle of Boyacá",
+  "wikidata": "Q1150410"
+}

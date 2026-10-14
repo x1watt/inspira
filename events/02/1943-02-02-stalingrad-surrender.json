@@ -1,0 +1,31 @@
+{
+  "id": "event-1943-02-02-stalingrad-surrender",
+  "title": "German Sixth Army surrenders at Stalingrad",
+  "year": 1943,
+  "month": 2,
+  "day": 2,
+  "calendar": "gregorian",
+  "summary": "The last German troops encircled in Stalingrad surrendered, ending a five-month battle. About 91,000 survivors were taken prisoner.",
+  "reason": "Hitler had forbidden a breakout after the Red Army encircled the Sixth Army in November 1942, and relief attempts failed.",
+  "significance": "It was a turning point of the war in Europe, after which Germany was mostly on the defensive in the east.",
+  "participants": [
+    "Red Army",
+    "German Sixth Army",
+    "Friedrich Paulus",
+    "Georgy Zhukov",
+    "Vasily Chuikov"
+  ],
+  "countries": [
+    "Russia",
+    "Germany"
+  ],
+  "place": "Stalingrad (Volgograd), Russia",
+  "lat": 48.708,
+  "lon": 44.5133,
+  "tags": [
+    "war"
+  ],
+  "weight": 88,
+  "wikipedia": "Battle of Stalingrad",
+  "wikidata": "Q38789"
+}

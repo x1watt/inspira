@@ -1,0 +1,30 @@
+{
+  "id": "event-1917-04-06-us-enters-wwi",
+  "title": "The United States declares war on Germany",
+  "year": 1917,
+  "month": 4,
+  "day": 6,
+  "calendar": "gregorian",
+  "summary": "The US Congress voted to declare war on Germany at President Woodrow Wilson's request, bringing the United States into World War I.",
+  "reason": "Germany had resumed unrestricted submarine warfare and the Zimmermann Telegram revealed a plot to ally with Mexico.",
+  "significance": "American troops and resources tipped the balance toward the Allies and made the US a world power.",
+  "participants": [
+    "United States Congress",
+    "Woodrow Wilson",
+    "German Empire"
+  ],
+  "countries": [
+    "United States",
+    "Germany"
+  ],
+  "place": "United States Capitol, Washington, D.C., United States",
+  "lat": 38.8899,
+  "lon": -77.0091,
+  "tags": [
+    "war",
+    "diplomacy"
+  ],
+  "weight": 72,
+  "wikipedia": "American entry into World War I",
+  "wikidata": "Q4745451"
+}

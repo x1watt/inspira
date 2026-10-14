@@ -1,0 +1,28 @@
+{
+  "id": "event-1535-01-18-lima-founded",
+  "title": "Francisco Pizarro founds Lima",
+  "year": 1535,
+  "month": 1,
+  "day": 18,
+  "calendar": "julian",
+  "summary": "Pizarro founded the City of the Kings on the Rimac river near the Pacific coast as the capital of Spanish Peru.",
+  "reason": "A coastal capital was easier to reach by sea from Panama and Spain than the Inca highland capital of Cusco.",
+  "significance": "Lima became the seat of the Viceroyalty of Peru and the main city of Spanish South America.",
+  "participants": [
+    "Francisco Pizarro",
+    "Spanish Empire"
+  ],
+  "countries": [
+    "Peru",
+    "Spain"
+  ],
+  "place": "Lima, Peru",
+  "lat": -12.045,
+  "lon": -77.03,
+  "tags": [
+    "politics"
+  ],
+  "weight": 55,
+  "wikipedia": "Lima",
+  "wikidata": "Q2868"
+}

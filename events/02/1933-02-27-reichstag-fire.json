@@ -1,0 +1,28 @@
+{
+  "id": "event-1933-02-27-reichstag-fire",
+  "title": "The Reichstag building burns",
+  "year": 1933,
+  "month": 2,
+  "day": 27,
+  "calendar": "gregorian",
+  "summary": "The German parliament building in Berlin was set on fire; a Dutch communist, Marinus van der Lubbe, was arrested at the scene.",
+  "reason": "The Nazis blamed a communist plot and used the fire as a pretext for emergency measures.",
+  "significance": "The Reichstag Fire Decree suspended civil liberties and paved the way for dictatorship.",
+  "participants": [
+    "Marinus van der Lubbe",
+    "Nazi Party",
+    "Communist Party of Germany"
+  ],
+  "countries": [
+    "Germany"
+  ],
+  "place": "Reichstag, Berlin, Germany",
+  "lat": 52.5186,
+  "lon": 13.3762,
+  "tags": [
+    "politics"
+  ],
+  "weight": 62,
+  "wikipedia": "Reichstag fire",
+  "wikidata": "Q153992"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "event-1592-05-24-siege-of-busanjin",
+  "title": "Japan invades Korea and storms Busan",
+  "year": 1592,
+  "month": 5,
+  "day": 24,
+  "calendar": "gregorian",
+  "summary": "Japanese troops under Konishi Yukinaga landed at Busan and stormed its fortress, opening Toyotomi Hideyoshi's invasion of Joseon Korea.",
+  "reason": "Having unified Japan, Hideyoshi planned to conquer Ming China and demanded passage through Korea, which refused.",
+  "significance": "It started the Imjin War, a seven-year conflict that devastated Korea and drew in Ming China.",
+  "participants": [
+    "Toyotomi Hideyoshi",
+    "Konishi Yukinaga",
+    "Joseon",
+    "Jeong Bal"
+  ],
+  "countries": [
+    "South Korea",
+    "Japan"
+  ],
+  "place": "Busanjin fortress, Busan, South Korea",
+  "lat": 35.14,
+  "lon": 129.06,
+  "tags": [
+    "war"
+  ],
+  "weight": 65,
+  "wikipedia": "Siege of Busanjin",
+  "wikidata": "Q497046"
+}

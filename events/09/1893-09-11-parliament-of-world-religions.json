@@ -1,0 +1,30 @@
+{
+  "id": "event-1893-09-11-parliament-of-world-religions",
+  "title": "Vivekananda addresses the Parliament of the World's Religions",
+  "year": 1893,
+  "month": 9,
+  "day": 11,
+  "calendar": "gregorian",
+  "summary": "The first World's Parliament of Religions opened in Chicago, where Swami Vivekananda's speech beginning Sisters and Brothers of America won wide acclaim.",
+  "reason": "It was organized alongside the World's Columbian Exposition to bring together representatives of the world's faiths.",
+  "significance": "It began formal interfaith dialogue and introduced Hinduism and Buddhism to a broad Western audience.",
+  "participants": [
+    "Swami Vivekananda",
+    "World's Columbian Exposition",
+    "Anagarika Dharmapala"
+  ],
+  "countries": [
+    "United States",
+    "India"
+  ],
+  "place": "Art Institute of Chicago, Chicago, United States",
+  "lat": 41.8796,
+  "lon": -87.6237,
+  "tags": [
+    "religion",
+    "culture"
+  ],
+  "weight": 55,
+  "wikipedia": "Parliament of the World's Religions",
+  "wikidata": "Q1752626"
+}

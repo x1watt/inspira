@@ -1,0 +1,34 @@
+{
+  "id": "event-1860-10-24-convention-of-peking",
+  "title": "Convention of Peking ends the Second Opium War",
+  "year": 1860,
+  "month": 10,
+  "day": 24,
+  "calendar": "gregorian",
+  "summary": "After British and French troops occupied Beijing and burned the Old Summer Palace, the Qing signed conventions ceding Kowloon to Britain and opening Tianjin to trade.",
+  "reason": "The Qing had refused to ratify the 1858 Treaties of Tianjin, and the Western powers marched on the capital to enforce them.",
+  "significance": "It deepened China's subordination to foreign powers and helped Russia gain the Pacific coast north of Korea.",
+  "participants": [
+    "Qing dynasty",
+    "Prince Gong",
+    "United Kingdom",
+    "Second French Empire",
+    "Lord Elgin"
+  ],
+  "countries": [
+    "China",
+    "United Kingdom",
+    "France",
+    "Russia"
+  ],
+  "place": "Beijing, China",
+  "lat": 39.9042,
+  "lon": 116.4074,
+  "tags": [
+    "diplomacy",
+    "war"
+  ],
+  "weight": 55,
+  "wikipedia": "Convention of Peking",
+  "wikidata": "Q604938"
+}

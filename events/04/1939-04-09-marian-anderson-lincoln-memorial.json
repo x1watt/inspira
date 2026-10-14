@@ -1,0 +1,29 @@
+{
+  "id": "event-1939-04-09-marian-anderson-lincoln-memorial",
+  "title": "Marian Anderson sings at the Lincoln Memorial",
+  "year": 1939,
+  "month": 4,
+  "day": 9,
+  "calendar": "gregorian",
+  "summary": "The contralto Marian Anderson gave an open-air Easter Sunday concert on the steps of the Lincoln Memorial for about 75,000 people and a national radio audience.",
+  "reason": "The Daughters of the American Revolution had refused to let her sing at Constitution Hall because she was Black, and Eleanor Roosevelt helped arrange the outdoor concert instead.",
+  "significance": "It became a landmark of the early civil rights movement and showed the moral force of a peaceful public protest.",
+  "participants": [
+    "Marian Anderson",
+    "Eleanor Roosevelt",
+    "Harold Ickes"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Lincoln Memorial, Washington, D.C., United States",
+  "lat": 38.8893,
+  "lon": -77.0502,
+  "tags": [
+    "rights",
+    "culture"
+  ],
+  "weight": 55,
+  "wikipedia": "Marian Anderson",
+  "wikidata": "Q231923"
+}

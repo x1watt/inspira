@@ -1,0 +1,29 @@
+{
+  "id": "event-1998-09-04-google-founded",
+  "title": "Google is incorporated",
+  "year": 1998,
+  "month": 9,
+  "day": 4,
+  "calendar": "gregorian",
+  "summary": "Stanford students Larry Page and Sergey Brin incorporated Google, working from a garage in Menlo Park.",
+  "reason": "Their PageRank algorithm ranked web pages by links and beat existing search engines.",
+  "significance": "Google became the main gateway to information online.",
+  "participants": [
+    "Larry Page",
+    "Sergey Brin",
+    "Google"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Menlo Park, California, United States",
+  "lat": 37.453,
+  "lon": -122.1817,
+  "tags": [
+    "technology",
+    "economy"
+  ],
+  "weight": 72,
+  "wikipedia": "Google",
+  "wikidata": "Q95"
+}

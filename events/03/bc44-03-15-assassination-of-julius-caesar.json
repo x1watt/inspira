@@ -1,0 +1,29 @@
+{
+  "id": "event-bc44-03-15-assassination-of-julius-caesar",
+  "title": "Julius Caesar is assassinated",
+  "year": -44,
+  "month": 3,
+  "day": 15,
+  "calendar": "julian",
+  "summary": "A group of senators led by Brutus and Cassius stabbed Julius Caesar to death at a meeting of the Senate in the Curia of Pompey.",
+  "reason": "The conspirators feared that Caesar, recently named dictator for life, would make himself king and destroy the Republic.",
+  "significance": "Instead of saving the Republic, the murder set off new civil wars that ended with Augustus as the first emperor.",
+  "participants": [
+    "Julius Caesar",
+    "Marcus Junius Brutus",
+    "Gaius Cassius Longinus",
+    "Roman Senate"
+  ],
+  "countries": [
+    "Italy"
+  ],
+  "place": "Curia of Pompey, Rome, Italy",
+  "lat": 41.8955,
+  "lon": 12.4768,
+  "tags": [
+    "politics"
+  ],
+  "weight": 92,
+  "wikipedia": "Assassination of Julius Caesar",
+  "wikidata": "Q1025466"
+}

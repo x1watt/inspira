@@ -1,0 +1,30 @@
+{
+  "id": "event-1356-01-10-golden-bull",
+  "title": "Emperor Charles IV issues the Golden Bull",
+  "year": 1356,
+  "month": 1,
+  "day": 10,
+  "calendar": "julian",
+  "summary": "At the Imperial Diet in Nuremberg, Charles IV promulgated a decree fixing how the King of the Romans was elected by seven prince-electors and by majority vote.",
+  "reason": "Disputed double elections had caused repeated civil wars in the Holy Roman Empire, and the electors wanted fixed rules free of papal interference.",
+  "significance": "It served as the constitution of the Holy Roman Empire for over four centuries.",
+  "participants": [
+    "Charles IV, Holy Roman Emperor",
+    "Holy Roman Empire",
+    "Prince-electors"
+  ],
+  "countries": [
+    "Germany",
+    "Czech Republic"
+  ],
+  "place": "Nuremberg, Germany",
+  "lat": 49.454,
+  "lon": 11.078,
+  "tags": [
+    "law",
+    "politics"
+  ],
+  "weight": 62,
+  "wikipedia": "Golden Bull of 1356",
+  "wikidata": "Q567601"
+}

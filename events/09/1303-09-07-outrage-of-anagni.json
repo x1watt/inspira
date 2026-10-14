@@ -1,0 +1,30 @@
+{
+  "id": "event-1303-09-07-outrage-of-anagni",
+  "title": "French agents seize Pope Boniface VIII at Anagni",
+  "year": 1303,
+  "month": 9,
+  "day": 7,
+  "calendar": "julian",
+  "summary": "Men sent by Philip IV of France and allied Roman nobles broke into the papal palace at Anagni and held Pope Boniface VIII captive for several days. The aged pope died weeks after his release.",
+  "reason": "Philip and Boniface were locked in a struggle over the taxation of clergy and papal claims of supremacy over kings, set out in the bull Unam sanctam.",
+  "significance": "The humiliation marked the decline of papal power over monarchs and opened the way to the Avignon papacy.",
+  "participants": [
+    "Pope Boniface VIII",
+    "Philip IV of France",
+    "Guillaume de Nogaret",
+    "Sciarra Colonna"
+  ],
+  "countries": [
+    "Italy",
+    "France"
+  ],
+  "place": "Papal palace, Anagni, Italy",
+  "lat": 41.744,
+  "lon": 13.158,
+  "tags": [
+    "religion",
+    "politics"
+  ],
+  "weight": 52,
+  "wikipedia": "Pope Boniface VIII"
+}

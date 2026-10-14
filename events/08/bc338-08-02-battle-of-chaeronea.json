@@ -1,0 +1,29 @@
+{
+  "id": "event-bc338-08-02-battle-of-chaeronea",
+  "title": "Philip II of Macedon wins at Chaeronea",
+  "year": -338,
+  "month": 8,
+  "day": 2,
+  "calendar": "julian",
+  "summary": "Philip II of Macedon and his son Alexander defeated an alliance led by Athens and Thebes at Chaeronea in Boeotia.",
+  "reason": "Macedon was expanding south, and Athens, urged on by Demosthenes, joined Thebes to stop Philip.",
+  "significance": "The victory ended the independence of the Greek city states and gave Macedon control of Greece.",
+  "participants": [
+    "Philip II of Macedon",
+    "Alexander the Great",
+    "Athens",
+    "Thebes"
+  ],
+  "countries": [
+    "Greece"
+  ],
+  "place": "Chaeronea, Boeotia, Greece",
+  "lat": 38.495,
+  "lon": 22.8475,
+  "tags": [
+    "war"
+  ],
+  "weight": 70,
+  "wikipedia": "Battle of Chaeronea (338 BC)",
+  "wikidata": "Q200716"
+}

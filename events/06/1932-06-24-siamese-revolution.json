@@ -1,0 +1,29 @@
+{
+  "id": "event-1932-06-24-siamese-revolution",
+  "title": "Siam's absolute monarchy is overthrown",
+  "year": 1932,
+  "month": 6,
+  "day": 24,
+  "calendar": "gregorian",
+  "summary": "The Khana Ratsadon, a group of civilians and officers, staged a bloodless coup in Bangkok and forced King Prajadhipok to accept a constitution.",
+  "reason": "Western-educated reformers resented royal privilege, and the Great Depression had strained the economy.",
+  "significance": "It ended absolute monarchy in Siam, now Thailand.",
+  "participants": [
+    "Khana Ratsadon",
+    "Prajadhipok",
+    "Pridi Banomyong",
+    "Plaek Phibunsongkhram"
+  ],
+  "countries": [
+    "Thailand"
+  ],
+  "place": "Bangkok, Thailand",
+  "lat": 13.7563,
+  "lon": 100.5018,
+  "tags": [
+    "revolution"
+  ],
+  "weight": 52,
+  "wikipedia": "Siamese revolution of 1932",
+  "wikidata": "Q2120252"
+}

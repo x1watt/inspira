@@ -1,0 +1,30 @@
+{
+  "id": "event-1534-07-24-cartier-gaspe",
+  "title": "Jacques Cartier claims Canada for France at Gaspe",
+  "year": 1534,
+  "month": 7,
+  "day": 24,
+  "calendar": "julian",
+  "summary": "The French navigator Jacques Cartier planted a large cross on the shore of Gaspe Bay and claimed the land for King Francis I.",
+  "reason": "Francis I sent Cartier to find a northwest passage to Asia and lands rich in gold.",
+  "significance": "It marked the start of French claims in North America that grew into New France.",
+  "participants": [
+    "Jacques Cartier",
+    "Kingdom of France",
+    "Donnacona",
+    "St. Lawrence Iroquoians"
+  ],
+  "countries": [
+    "Canada",
+    "France"
+  ],
+  "place": "Gaspe Bay, Quebec, Canada",
+  "lat": 48.832,
+  "lon": -64.487,
+  "tags": [
+    "exploration"
+  ],
+  "weight": 58,
+  "wikipedia": "Jacques Cartier",
+  "wikidata": "Q7321"
+}

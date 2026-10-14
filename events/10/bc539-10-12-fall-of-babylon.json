@@ -1,0 +1,31 @@
+{
+  "id": "event-bc539-10-12-fall-of-babylon",
+  "title": "Babylon falls to Cyrus the Great",
+  "year": -539,
+  "month": 10,
+  "day": 12,
+  "calendar": "julian",
+  "summary": "Persian forces under Cyrus the Great took Babylon, ending the Neo-Babylonian Empire. The city was captured without a major battle after the Babylonian defeat at Opis.",
+  "reason": "Cyrus was expanding the Achaemenid Empire, and King Nabonidus had lost support among the Babylonian priesthood and population.",
+  "significance": "It made Persia the dominant power of the Near East and led to the return of exiled Jews to Judah.",
+  "participants": [
+    "Cyrus the Great",
+    "Achaemenid Empire",
+    "Neo-Babylonian Empire",
+    "Nabonidus"
+  ],
+  "countries": [
+    "Iraq",
+    "Iran"
+  ],
+  "place": "Babylon, Iraq",
+  "lat": 32.5422,
+  "lon": 44.4209,
+  "tags": [
+    "war",
+    "politics"
+  ],
+  "weight": 82,
+  "wikipedia": "Fall of Babylon",
+  "wikidata": "Q28169617"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "event-330-05-11-dedication-of-constantinople",
+  "title": "Constantinople is dedicated as the new capital",
+  "year": 330,
+  "month": 5,
+  "day": 11,
+  "calendar": "julian",
+  "summary": "Constantine formally dedicated his rebuilt city on the site of Byzantium as the new capital of the Roman Empire.",
+  "reason": "Constantine wanted a capital closer to the threatened eastern and Danube frontiers and free of Rome's old pagan elite.",
+  "significance": "Constantinople remained the capital of the Eastern Roman Empire for over a thousand years.",
+  "participants": [
+    "Constantine the Great",
+    "Roman Empire"
+  ],
+  "countries": [
+    "Turkey"
+  ],
+  "place": "Constantinople (Istanbul), Turkey",
+  "lat": 41.0082,
+  "lon": 28.9784,
+  "tags": [
+    "politics"
+  ],
+  "weight": 85,
+  "wikipedia": "Constantinople",
+  "wikidata": "Q16869"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "event-2005-02-14-hariri-assassination",
+  "title": "Rafic Hariri is assassinated in Beirut",
+  "year": 2005,
+  "month": 2,
+  "day": 14,
+  "calendar": "gregorian",
+  "summary": "A huge truck bomb killed former Lebanese Prime Minister Rafic Hariri and 21 others in Beirut.",
+  "reason": "Hariri had come to oppose Syria's military presence in Lebanon.",
+  "significance": "Protests in the Cedar Revolution forced Syria to withdraw its troops.",
+  "participants": [
+    "Rafic Hariri",
+    "Hezbollah",
+    "Syria"
+  ],
+  "countries": [
+    "Lebanon",
+    "Syria"
+  ],
+  "place": "Beirut, Lebanon",
+  "lat": 33.901,
+  "lon": 35.495,
+  "tags": [
+    "politics"
+  ],
+  "weight": 55,
+  "wikipedia": "Assassination of Rafic Hariri",
+  "wikidata": "Q757965"
+}

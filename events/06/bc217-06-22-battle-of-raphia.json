@@ -1,0 +1,31 @@
+{
+  "id": "event-bc217-06-22-battle-of-raphia",
+  "title": "Ptolemy IV defeats Antiochus III at Raphia",
+  "year": -217,
+  "month": 6,
+  "day": 22,
+  "calendar": "julian",
+  "summary": "The Ptolemaic king Ptolemy IV defeated the Seleucid king Antiochus III near Raphia in southern Palestine, one of the largest battles of the Hellenistic age with war elephants on both sides.",
+  "reason": "The two Hellenistic kingdoms were fighting the Fourth Syrian War over control of Coele Syria.",
+  "significance": "It kept Coele Syria under Ptolemaic rule for a time and was the first time Egypt armed large numbers of native Egyptians as phalanx soldiers.",
+  "participants": [
+    "Ptolemy IV Philopator",
+    "Antiochus III the Great",
+    "Ptolemaic Kingdom",
+    "Seleucid Empire"
+  ],
+  "countries": [
+    "Palestine",
+    "Egypt",
+    "Syria"
+  ],
+  "place": "Raphia (Rafah), Gaza Strip, Palestine",
+  "lat": 31.287,
+  "lon": 34.251,
+  "tags": [
+    "war"
+  ],
+  "weight": 50,
+  "wikipedia": "Battle of Raphia",
+  "wikidata": "Q630781"
+}

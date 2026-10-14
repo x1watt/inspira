@@ -1,0 +1,30 @@
+{
+  "id": "event-1916-02-21-battle-of-verdun",
+  "title": "The Battle of Verdun begins",
+  "year": 1916,
+  "month": 2,
+  "day": 21,
+  "calendar": "gregorian",
+  "summary": "German forces opened a massive bombardment and offensive against French positions around Verdun, starting a ten-month battle that cost about 700,000 casualties.",
+  "reason": "German commander Erich von Falkenhayn aimed to bleed the French army white at a place it would not abandon.",
+  "significance": "It became the longest battle of World War I and a lasting symbol of French resolve and of the war's futility.",
+  "participants": [
+    "German Empire",
+    "French Third Republic",
+    "Erich von Falkenhayn",
+    "Philippe Petain"
+  ],
+  "countries": [
+    "France",
+    "Germany"
+  ],
+  "place": "Verdun, France",
+  "lat": 49.1597,
+  "lon": 5.3844,
+  "tags": [
+    "war"
+  ],
+  "weight": 67,
+  "wikipedia": "Battle of Verdun",
+  "wikidata": "Q130847"
+}

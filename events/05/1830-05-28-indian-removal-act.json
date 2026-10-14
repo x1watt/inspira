@@ -1,0 +1,29 @@
+{
+  "id": "event-1830-05-28-indian-removal-act",
+  "title": "Andrew Jackson signs the Indian Removal Act",
+  "year": 1830,
+  "month": 5,
+  "day": 28,
+  "calendar": "gregorian",
+  "summary": "President Andrew Jackson signed a law authorizing the exchange of Native American lands in the Southeast for territory west of the Mississippi.",
+  "reason": "Settlers and Southern states wanted the fertile lands of the Cherokee, Creek, Choctaw and other nations, especially after gold was found in Georgia.",
+  "significance": "It led to the forced removals known as the Trail of Tears, in which thousands of Native Americans died.",
+  "participants": [
+    "Andrew Jackson",
+    "United States Congress",
+    "Cherokee Nation"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Washington, D.C., United States",
+  "lat": null,
+  "lon": null,
+  "tags": [
+    "law",
+    "rights"
+  ],
+  "weight": 60,
+  "wikipedia": "Indian Removal Act",
+  "wikidata": "Q786008"
+}

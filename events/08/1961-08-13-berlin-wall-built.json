@@ -1,0 +1,29 @@
+{
+  "id": "event-1961-08-13-berlin-wall-built",
+  "title": "East Germany starts building the Berlin Wall",
+  "year": 1961,
+  "month": 8,
+  "day": 13,
+  "calendar": "gregorian",
+  "summary": "Overnight East German troops and workers sealed the border between East and West Berlin with barbed wire, soon replaced by a wall.",
+  "reason": "Millions of East Germans had fled to the West through Berlin, draining the country of skilled workers.",
+  "significance": "The wall became the symbol of the Cold War division of Europe.",
+  "participants": [
+    "East Germany",
+    "Walter Ulbricht",
+    "Erich Honecker",
+    "Soviet Union"
+  ],
+  "countries": [
+    "Germany"
+  ],
+  "place": "Berlin, Germany",
+  "lat": 52.5163,
+  "lon": 13.3777,
+  "tags": [
+    "politics"
+  ],
+  "weight": 77,
+  "wikipedia": "Berlin Wall",
+  "wikidata": "Q5086"
+}

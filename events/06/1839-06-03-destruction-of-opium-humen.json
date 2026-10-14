@@ -1,0 +1,30 @@
+{
+  "id": "event-1839-06-03-destruction-of-opium-humen",
+  "title": "Lin Zexu destroys confiscated opium at Humen",
+  "year": 1839,
+  "month": 6,
+  "day": 3,
+  "calendar": "gregorian",
+  "summary": "Imperial commissioner Lin Zexu began destroying more than a thousand tons of opium seized from British merchants by mixing it with lime and salt and washing it into the sea.",
+  "reason": "Opium addiction and the outflow of silver alarmed the Qing court, which sent Lin to Canton to end the trade.",
+  "significance": "It led directly to the First Opium War and the start of China's century of foreign humiliation.",
+  "participants": [
+    "Lin Zexu",
+    "Qing dynasty",
+    "British merchants"
+  ],
+  "countries": [
+    "China",
+    "United Kingdom"
+  ],
+  "place": "Humen, Dongguan, Guangdong, China",
+  "lat": 22.8167,
+  "lon": 113.6667,
+  "tags": [
+    "politics",
+    "economy"
+  ],
+  "weight": 60,
+  "wikipedia": "Destruction of opium at Humen",
+  "wikidata": "Q1825430"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "event-1868-01-03-meiji-restoration",
+  "title": "Meiji Restoration returns power to the Emperor of Japan",
+  "year": 1868,
+  "month": 1,
+  "day": 3,
+  "calendar": "gregorian",
+  "summary": "Samurai from Satsuma and Chōshū seized the imperial palace in Kyoto and proclaimed the restoration of direct rule by the young Emperor Meiji, abolishing the shogunate.",
+  "reason": "The shogunate's weakness before Western powers and its unequal treaties turned powerful domains against it.",
+  "significance": "It began Japan's rapid modernization into an industrial and imperial power.",
+  "participants": [
+    "Emperor Meiji",
+    "Satsuma Domain",
+    "Chōshū Domain",
+    "Tokugawa Yoshinobu",
+    "Saigō Takamori"
+  ],
+  "countries": [
+    "Japan"
+  ],
+  "place": "Kyoto Imperial Palace, Kyoto, Japan",
+  "lat": 35.0254,
+  "lon": 135.7621,
+  "tags": [
+    "politics",
+    "revolution"
+  ],
+  "weight": 80,
+  "wikipedia": "Meiji Restoration",
+  "wikidata": "Q8707"
+}

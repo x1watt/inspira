@@ -1,0 +1,29 @@
+{
+  "id": "event-1770-03-05-boston-massacre",
+  "title": "British soldiers kill five colonists in the Boston Massacre",
+  "year": 1770,
+  "month": 3,
+  "day": 5,
+  "calendar": "gregorian",
+  "summary": "British soldiers fired into a hostile crowd on King Street in Boston, killing five men.",
+  "reason": "Troops had been stationed in Boston to enforce unpopular taxes, and tension with residents had been building for months.",
+  "significance": "Patriot propaganda used it to turn colonial opinion against British rule.",
+  "participants": [
+    "British Army",
+    "Crispus Attucks",
+    "Thomas Preston"
+  ],
+  "countries": [
+    "United States",
+    "United Kingdom"
+  ],
+  "place": "King Street, Boston, United States",
+  "lat": 42.3588,
+  "lon": -71.0578,
+  "tags": [
+    "politics"
+  ],
+  "weight": 60,
+  "wikipedia": "Boston Massacre",
+  "wikidata": "Q215687"
+}

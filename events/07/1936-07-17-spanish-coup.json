@@ -1,0 +1,30 @@
+{
+  "id": "event-1936-07-17-spanish-coup",
+  "title": "Military uprising starts the Spanish Civil War",
+  "year": 1936,
+  "month": 7,
+  "day": 17,
+  "calendar": "gregorian",
+  "summary": "Army officers rose against the Spanish Republic, starting in Melilla in Spanish Morocco; the coup's partial failure led to a three-year civil war.",
+  "reason": "Right-wing officers opposed the Popular Front government and feared revolution.",
+  "significance": "The war ended in Franco's dictatorship and was a prelude to World War II.",
+  "participants": [
+    "Francisco Franco",
+    "Nationalist faction",
+    "Second Spanish Republic",
+    "Emilio Mola"
+  ],
+  "countries": [
+    "Spain",
+    "Morocco"
+  ],
+  "place": "Melilla, Spain",
+  "lat": 35.2923,
+  "lon": -2.9381,
+  "tags": [
+    "war"
+  ],
+  "weight": 72,
+  "wikipedia": "Spanish coup of July 1936",
+  "wikidata": "Q2436825"
+}

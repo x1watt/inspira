@@ -1,0 +1,32 @@
+{
+  "id": "event-1521-04-27-mactan",
+  "title": "Magellan is killed at the Battle of Mactan",
+  "year": 1521,
+  "month": 4,
+  "day": 27,
+  "calendar": "julian",
+  "summary": "Ferdinand Magellan and a small party of his crew were killed by warriors of the chief Lapulapu on Mactan island in the Philippines.",
+  "reason": "Magellan had allied with the ruler of Cebu and tried to force Lapulapu to submit and convert.",
+  "significance": "Lapulapu is remembered as the first Filipino hero to resist European rule, and the expedition went on without its leader.",
+  "participants": [
+    "Ferdinand Magellan",
+    "Lapulapu",
+    "Spanish Empire",
+    "Rajah Humabon"
+  ],
+  "countries": [
+    "Philippines",
+    "Spain",
+    "Portugal"
+  ],
+  "place": "Mactan Island, Cebu, Philippines",
+  "lat": 10.31,
+  "lon": 124.016,
+  "tags": [
+    "war",
+    "exploration"
+  ],
+  "weight": 58,
+  "wikipedia": "Battle of Mactan",
+  "wikidata": "Q2091449"
+}

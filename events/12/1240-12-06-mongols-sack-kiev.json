@@ -1,0 +1,30 @@
+{
+  "id": "event-1240-12-06-mongols-sack-kiev",
+  "title": "Mongols capture and destroy Kiev",
+  "year": 1240,
+  "month": 12,
+  "day": 6,
+  "calendar": "julian",
+  "summary": "The Mongol army of Batu Khan stormed Kiev after a siege, killing most of its people and burning the city.",
+  "reason": "The Mongols were conquering the Rus principalities as part of their great western campaign.",
+  "significance": "It ended Kiev's role as the centre of the Rus, which came under the Golden Horde.",
+  "participants": [
+    "Batu Khan",
+    "Mongol Empire",
+    "Kievan Rus",
+    "Dmytro of Kiev"
+  ],
+  "countries": [
+    "Ukraine",
+    "Mongolia"
+  ],
+  "place": "Kyiv, Ukraine",
+  "lat": 50.4501,
+  "lon": 30.5234,
+  "tags": [
+    "war"
+  ],
+  "weight": 65,
+  "wikipedia": "Siege of Kiev (1240)",
+  "wikidata": "Q815162"
+}

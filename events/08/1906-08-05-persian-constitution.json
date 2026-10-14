@@ -1,0 +1,29 @@
+{
+  "id": "event-1906-08-05-persian-constitution",
+  "title": "The Shah of Persia agrees to a constitution",
+  "year": 1906,
+  "month": 8,
+  "day": 5,
+  "calendar": "gregorian",
+  "summary": "Mozaffar ad-Din Shah Qajar signed a decree agreeing to create an elected parliament, the Majlis, a victory for the Persian Constitutional Revolution.",
+  "reason": "Merchants, clergy and reformers protested against royal corruption, foreign concessions and arbitrary rule, staging mass sit-ins in Tehran.",
+  "significance": "It made Persia one of the first countries in Asia with a constitution and parliament.",
+  "participants": [
+    "Mozaffar ad-Din Shah Qajar",
+    "Qajar Iran",
+    "Majlis"
+  ],
+  "countries": [
+    "Iran"
+  ],
+  "place": "Tehran, Iran",
+  "lat": 35.6892,
+  "lon": 51.389,
+  "tags": [
+    "revolution",
+    "politics"
+  ],
+  "weight": 52,
+  "wikipedia": "Persian Constitutional Revolution",
+  "wikidata": "Q4818171"
+}

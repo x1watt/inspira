@@ -1,0 +1,31 @@
+{
+  "id": "event-1680-08-10-pueblo-revolt",
+  "title": "Pueblo Revolt drives the Spanish from New Mexico",
+  "year": 1680,
+  "month": 8,
+  "day": 10,
+  "calendar": "gregorian",
+  "summary": "Pueblo peoples led by Popé rose together across New Mexico, killing hundreds of colonists and priests and forcing the Spanish to abandon Santa Fe.",
+  "reason": "Spanish forced labor, drought, and the suppression of Pueblo religion had made colonial rule unbearable.",
+  "significance": "It was one of the most successful Indigenous uprisings against European rule in North America.",
+  "participants": [
+    "Pope (Pueblo leader)",
+    "Pueblo peoples",
+    "Spanish Empire",
+    "Antonio de Otermin"
+  ],
+  "countries": [
+    "United States",
+    "Spain"
+  ],
+  "place": "Santa Fe, New Mexico, United States",
+  "lat": 35.687,
+  "lon": -105.9378,
+  "tags": [
+    "revolution",
+    "rights"
+  ],
+  "weight": 55,
+  "wikipedia": "Pueblo Revolt",
+  "wikidata": "Q1547791"
+}

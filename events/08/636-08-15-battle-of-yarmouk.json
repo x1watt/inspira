@@ -1,0 +1,30 @@
+{
+  "id": "event-636-08-15-battle-of-yarmouk",
+  "title": "Battle of the Yarmouk begins",
+  "year": 636,
+  "month": 8,
+  "day": 15,
+  "calendar": "julian",
+  "summary": "The armies of the Rashidun Caliphate under Khalid ibn al-Walid met a large Byzantine army by the Yarmouk River. After six days of fighting the Byzantines were routed.",
+  "reason": "Emperor Heraclius gathered a great army to drive back the Arab conquest of Syria.",
+  "significance": "The defeat ended Byzantine rule in Syria and opened the Levant to the spread of Islam.",
+  "participants": [
+    "Rashidun Caliphate",
+    "Khalid ibn al-Walid",
+    "Byzantine Empire",
+    "Heraclius"
+  ],
+  "countries": [
+    "Syria",
+    "Jordan"
+  ],
+  "place": "Yarmouk River, near the Syria-Jordan border",
+  "lat": 32.82,
+  "lon": 35.95,
+  "tags": [
+    "war"
+  ],
+  "weight": 75,
+  "wikipedia": "Battle of the Yarmuk",
+  "wikidata": "Q194226"
+}

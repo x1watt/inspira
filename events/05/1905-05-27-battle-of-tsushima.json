@@ -1,0 +1,30 @@
+{
+  "id": "event-1905-05-27-battle-of-tsushima",
+  "title": "Japan destroys the Russian fleet at Tsushima",
+  "year": 1905,
+  "month": 5,
+  "day": 27,
+  "calendar": "gregorian",
+  "summary": "Admiral Togo Heihachiro's fleet annihilated the Russian Baltic Fleet in the Tsushima Strait after its months-long voyage around the world.",
+  "reason": "Russia had sent its Baltic Fleet to break Japanese control of the seas after the fall of Port Arthur.",
+  "significance": "The decisive battle forced Russia to seek peace and established Japan as a major naval power.",
+  "participants": [
+    "Imperial Japanese Navy",
+    "Imperial Russian Navy",
+    "Togo Heihachiro",
+    "Zinovy Rozhestvensky"
+  ],
+  "countries": [
+    "Japan",
+    "Russia"
+  ],
+  "place": "Tsushima Strait, between Korea and Japan",
+  "lat": 34.3333,
+  "lon": 129.8333,
+  "tags": [
+    "war"
+  ],
+  "weight": 67,
+  "wikipedia": "Battle of Tsushima",
+  "wikidata": "Q208127"
+}

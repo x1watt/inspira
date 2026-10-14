@@ -1,0 +1,27 @@
+{
+  "id": "event-1523-06-06-gustav-vasa-elected",
+  "title": "Gustav Vasa is elected King of Sweden",
+  "year": 1523,
+  "month": 6,
+  "day": 6,
+  "calendar": "julian",
+  "summary": "The Swedish Riksdag, meeting at Strangnas, elected the rebel leader Gustav Eriksson Vasa as king.",
+  "reason": "Gustav had led the uprising against Danish rule after the Stockholm Bloodbath.",
+  "significance": "It ended the Kalmar Union and founded the independent Swedish state; 6 June is Sweden's national day.",
+  "participants": [
+    "Gustav I of Sweden",
+    "Riksdag of the Estates",
+    "Kingdom of Sweden"
+  ],
+  "countries": [
+    "Sweden"
+  ],
+  "place": "Strangnas, Sodermanland, Sweden",
+  "lat": 59.377,
+  "lon": 17.031,
+  "tags": [
+    "politics"
+  ],
+  "weight": 55,
+  "wikipedia": "Gustav Vasa"
+}

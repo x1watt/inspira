@@ -1,0 +1,26 @@
+{
+  "id": "event-1600-02-19-huaynaputina-eruption",
+  "title": "Huaynaputina erupts in Peru",
+  "year": 1600,
+  "month": 2,
+  "day": 19,
+  "calendar": "gregorian",
+  "summary": "The volcano Huaynaputina in southern Peru began the largest eruption in recorded South American history, burying villages and spreading ash over Arequipa.",
+  "reason": "Magma rising beneath the Andes, where the Nazca plate sinks under South America, built pressure until the volcano exploded.",
+  "significance": "Its ash cooled the Northern Hemisphere and contributed to the famine of 1601 to 1603 in Russia.",
+  "participants": [
+    "Spanish Viceroyalty of Peru"
+  ],
+  "countries": [
+    "Peru"
+  ],
+  "place": "Huaynaputina, Moquegua, Peru",
+  "lat": -16.608,
+  "lon": -70.85,
+  "tags": [
+    "disaster"
+  ],
+  "weight": 50,
+  "wikipedia": "Huaynaputina",
+  "wikidata": "Q946750"
+}

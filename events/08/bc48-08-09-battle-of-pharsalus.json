@@ -1,0 +1,29 @@
+{
+  "id": "event-bc48-08-09-battle-of-pharsalus",
+  "title": "Caesar defeats Pompey at Pharsalus",
+  "year": -48,
+  "month": 8,
+  "day": 9,
+  "calendar": "julian",
+  "summary": "Julius Caesar defeated the larger army of Pompey and the Senate at Pharsalus in Thessaly. Pompey fled to Egypt.",
+  "reason": "The civil war between Caesar and the senatorial faction came to a head in Greece after Caesar's setback at Dyrrhachium.",
+  "significance": "It broke the senatorial cause and left Caesar the master of the Roman world.",
+  "participants": [
+    "Julius Caesar",
+    "Pompey",
+    "Roman Republic"
+  ],
+  "countries": [
+    "Greece",
+    "Italy"
+  ],
+  "place": "Pharsalus, Thessaly, Greece",
+  "lat": 39.2958,
+  "lon": 22.3833,
+  "tags": [
+    "war"
+  ],
+  "weight": 72,
+  "wikipedia": "Battle of Pharsalus",
+  "wikidata": "Q203681"
+}

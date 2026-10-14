@@ -1,0 +1,30 @@
+{
+  "id": "event-1912-01-08-anc-founded",
+  "title": "The African National Congress is founded",
+  "year": 1912,
+  "month": 1,
+  "day": 8,
+  "calendar": "gregorian",
+  "summary": "African leaders met in Bloemfontein and founded the South African Native National Congress, later renamed the African National Congress.",
+  "reason": "Black South Africans were excluded from power in the new Union and needed a united voice to defend their land and rights.",
+  "significance": "The ANC led the struggle against apartheid and has governed South Africa since 1994.",
+  "participants": [
+    "African National Congress",
+    "John Dube",
+    "Pixley ka Isaka Seme",
+    "Sol Plaatje"
+  ],
+  "countries": [
+    "South Africa"
+  ],
+  "place": "Bloemfontein, South Africa",
+  "lat": -29.0852,
+  "lon": 26.1596,
+  "tags": [
+    "rights",
+    "politics"
+  ],
+  "weight": 57,
+  "wikipedia": "African National Congress",
+  "wikidata": "Q83162"
+}

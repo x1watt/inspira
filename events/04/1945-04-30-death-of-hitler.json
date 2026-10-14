@@ -1,0 +1,29 @@
+{
+  "id": "event-1945-04-30-death-of-hitler",
+  "title": "Adolf Hitler kills himself in Berlin",
+  "year": 1945,
+  "month": 4,
+  "day": 30,
+  "calendar": "gregorian",
+  "summary": "As Soviet troops fought their way into central Berlin, Hitler shot himself in his bunker beneath the Reich Chancellery, and Eva Braun took poison.",
+  "reason": "Germany had lost the war and Hitler refused to be captured.",
+  "significance": "His death removed the last obstacle to Germany's surrender a week later.",
+  "participants": [
+    "Adolf Hitler",
+    "Eva Braun",
+    "Joseph Goebbels"
+  ],
+  "countries": [
+    "Germany"
+  ],
+  "place": "Fuhrerbunker, Berlin, Germany",
+  "lat": 52.5125,
+  "lon": 13.3815,
+  "tags": [
+    "war",
+    "politics"
+  ],
+  "weight": 78,
+  "wikipedia": "Death of Adolf Hitler",
+  "wikidata": "Q1993476"
+}

@@ -1,0 +1,46 @@
+{"key": "203-03-07-martyrdom-of-perpetua-and-felicity", "action": "keep", "note": "Britannica gives death on 7 March 203 at Carthage; 7 March is the traditional feast and martyrdom day."}
+{"key": "615-07-29-pakal-accession", "action": "fix", "fields": {"day": 27}, "note": "Article infobox gives coronation and reign start as 27 July 615."}
+{"key": "800-12-25-coronation-of-charlemagne", "action": "keep", "note": "Article: crowned in Old St. Peter's Basilica on Christmas Day 800."}
+{"key": "1258-02-10-mongols-take-baghdad", "action": "fix", "fields": {"wikipedia": "Siege of Baghdad", "lat": 33.3475, "lon": 44.335}, "note": "Article title is Siege of Baghdad; caliph surrendered 10 February 1258; article coordinates used."}
+{"key": "1303-09-07-outrage-of-anagni", "action": "fix", "fields": {"wikipedia": "Pope Boniface VIII"}, "note": "Outrage of Anagni redirects to Anagni without a day; Boniface VIII article gives 7 September 1303."}
+{"key": "1520-11-08-stockholm-bloodbath", "action": "fix", "fields": {"day": 9}, "note": "Article: on 9 November the council sentenced the accused and the executions began at noon."}
+{"key": "1534-07-24-cartier-gaspe", "action": "keep", "note": "Article: on 24 July 1534 Cartier planted a cross at Gaspe Bay."}
+{"key": "1592-08-14-hansan-island", "action": "fix", "fields": {"day": 15}, "note": "Article gives the battle as 15 August 1592 (8th day of 7th lunar month)."}
+{"key": "1615-06-04-fall-of-osaka-castle", "action": "keep", "note": "Hideyori and Yodo-dono died in the castle on 4 June 1615 per Toyotomi Hideyori article; Wikidata date is the winter campaign start."}
+{"key": "1666-09-12-great-fire-of-london", "action": "keep", "note": "2 September 1666 Old Style is 12 September New Style; Wikidata gives the Old Style span."}
+{"key": "1694-08-06-bank-of-england", "action": "keep", "note": "Charter granted 27 July 1694 Old Style, which is 6 August New Style."}
+{"key": "1742-04-24-messiah-premiere", "action": "keep", "note": "Premiere 13 April 1742 Old Style, which is 24 April New Style."}
+{"key": "1769-01-05-watt-steam-engine-patent", "action": "fix", "fields": {"wikipedia": "James Watt"}, "note": "James Watt article: patent 913 specification accepted on 5 January 1769; steam engine article has no day."}
+{"key": "1789-04-28-mutiny-on-the-bounty", "action": "keep", "note": "Article: mutiny on 28 April 1789 about 30 nmi south of Tofua; Wikidata coordinates are wrong."}
+{"key": "1799-07-15-rosetta-stone-found", "action": "keep", "note": "Found near Rosetta in mid-July 1799, 15 July per the 1799 article; Wikidata coordinates are the British Museum."}
+{"key": "1815-04-10-tambora-eruption", "action": "keep", "note": "Article: eruption reached its violent climax on 10 April 1815."}
+{"key": "1844-02-27-dominican-independence", "action": "keep", "note": "Independence declared 27 February 1844 in Santo Domingo; Wikidata coordinates are the country."}
+{"key": "1863-07-01-keti-koti", "action": "fix", "fields": {"wikipedia": "Ketikoti"}, "note": "Article title is Ketikoti; abolition on 1 July 1863."}
+{"key": "1867-09-14-das-kapital", "action": "keep", "note": "Volume I published in Hamburg in September 1867; the 1867 article gives 14 September."}
+{"key": "1897-02-18-capture-of-benin-city", "action": "keep", "note": "Article: Benin City captured on 18 February 1897."}
+{"key": "1904-04-08-entente-cordiale", "action": "keep", "note": "Article: signed in London on 8 April 1904; Wikidata coordinates are wrong."}
+{"key": "1910-05-31-union-of-south-africa", "action": "keep", "note": "Article: Union came into existence on 31 May 1910; Wikidata coordinates are the country."}
+{"key": "1914-09-05-first-battle-of-the-marne", "action": "keep", "note": "Battle known by its first day, 5 September 1914; near Meaux where it began."}
+{"key": "1918-07-17-romanov-family-killed", "action": "keep", "note": "Killed in the early hours of 17 July 1918 in the Ipatiev House."}
+{"key": "1930-03-12-salt-march", "action": "keep", "note": "March began at Sabarmati Ashram on 12 March 1930; 6 April is when it ended at Dandi."}
+{"key": "1936-12-12-xian-incident", "action": "fix", "fields": {"wikipedia": "Xi'an Incident"}, "note": "Exact article title is Xi'an Incident; Chiang seized at Huaqing Pool on 12 December 1936."}
+{"key": "1939-03-15-germany-occupies-prague", "action": "fix", "fields": {"wikipedia": "Occupation of Czechoslovakia (1938-1945)"}, "note": "Exact article title (hyphen for en dash); German troops entered Prague on 15 March 1939."}
+{"key": "1940-03-23-lahore-resolution", "action": "keep", "note": "Article: resolution adopted on 23 March 1940 at the 22 to 24 March session in Iqbal Park."}
+{"key": "1941-06-22-operation-barbarossa", "action": "keep", "note": "Invasion began 22 June 1941 with the attack on Brest Fortress; Wikidata coordinates are wrong."}
+{"key": "1942-08-08-quit-india-movement", "action": "keep", "note": "Article: launched by Gandhi at Gowalia Tank Maidan on 8 August 1942."}
+{"key": "1944-10-20-leyte-landing", "action": "keep", "note": "Article: Sixth Army landed on Leyte on A-day, 20 October 1944; Wikidata dates are the campaign span."}
+{"key": "1947-08-15-india-independence", "action": "keep", "note": "Article: independence on 15 August 1947, flag raised in Delhi; Wikidata coordinates are the country."}
+{"key": "1954-06-27-obninsk-power-plant", "action": "keep", "note": "Article: first grid connection on 27 June 1954; 26 June is the commissioning date in the infobox."}
+{"key": "1959-01-01-cuban-revolution-triumph", "action": "keep", "note": "Batista fled and the revolution triumphed on 1 January 1959; Wikidata coordinates are the country."}
+{"key": "1964-03-31-brazil-1964-coup", "action": "keep", "note": "Article: coup of 31 March to 1 April 1964, began on 31 March; Wikidata coordinates are the country."}
+{"key": "1970-11-12-bhola-cyclone", "action": "keep", "note": "Article: landfall in East Pakistan on the evening of 12 November 1970."}
+{"key": "1976-03-24-argentina-1976-coup", "action": "keep", "note": "Article: Isabel Peron detained and overthrown on 24 March 1976; Wikidata coordinates are the country."}
+{"key": "1985-05-16-ozone-hole-discovered", "action": "keep", "note": "Farman, Gardiner and Shanklin paper published in Nature on 16 May 1985 (article gives May 1985)."}
+{"key": "1990-02-11-mandela-released", "action": "keep", "note": "Article: Mandela left Victor Verster Prison on 11 February 1990."}
+{"key": "1991-12-26-soviet-dissolution", "action": "keep", "note": "Gorbachev resigned 25 December and the Soviet of Republics dissolved the USSR on 26 December 1991; Wikidata coordinates are the country."}
+{"key": "1996-09-24-ctbt-signed", "action": "keep", "note": "Article: opened for signature in New York on 24 September 1996; 10 September was adoption."}
+{"key": "2002-07-09-african-union", "action": "keep", "note": "Article: launched in Durban on 9 July 2002; 1999 is the Sirte Declaration."}
+{"key": "2008-05-02-cyclone-nargis", "action": "keep", "note": "Article: landfall in Myanmar on 2 May 2008."}
+{"key": "2012-06-28-crispr-paper", "action": "keep", "note": "Jinek et al. Science paper published online on 28 June 2012 (PubMed); article confirms 2012 Berkeley work."}
+{"key": "2019-01-03-change-4", "action": "keep", "note": "Article: landed on 3 January 2019; Wikidata date is the launch; no Earth coordinates apply."}
+{"key": "2024-12-08-fall-of-assad", "action": "keep", "note": "Damascus fell on 8 December 2024; Wikidata coordinates are the country."}

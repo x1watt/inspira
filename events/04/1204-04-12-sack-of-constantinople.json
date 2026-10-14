@@ -1,0 +1,31 @@
+{
+  "id": "event-1204-04-12-sack-of-constantinople",
+  "title": "Fourth Crusade sacks Constantinople",
+  "year": 1204,
+  "month": 4,
+  "day": 12,
+  "calendar": "julian",
+  "summary": "Crusaders and Venetians stormed Constantinople and plundered the city for three days, then set up a Latin Empire in its place.",
+  "reason": "The crusaders were deep in debt to Venice and had been drawn into a Byzantine succession dispute that broke down into war.",
+  "significance": "It shattered the Byzantine Empire and deepened the hostility between Catholic and Orthodox Christians.",
+  "participants": [
+    "Fourth Crusade",
+    "Republic of Venice",
+    "Enrico Dandolo",
+    "Byzantine Empire"
+  ],
+  "countries": [
+    "Turkey",
+    "Italy"
+  ],
+  "place": "Constantinople, Istanbul, Turkey",
+  "lat": 41.0086,
+  "lon": 28.9802,
+  "tags": [
+    "war",
+    "religion"
+  ],
+  "weight": 80,
+  "wikipedia": "Sack of Constantinople",
+  "wikidata": "Q1750892"
+}

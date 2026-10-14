@@ -1,0 +1,26 @@
+{
+  "id": "event-1782-04-06-chakri-dynasty-founded",
+  "title": "Rama I founds the Chakri dynasty of Siam",
+  "year": 1782,
+  "month": 4,
+  "day": 6,
+  "calendar": "gregorian",
+  "summary": "General Chao Phraya Chakri took the throne of Siam as King Rama I, and soon moved the capital across the river to Bangkok.",
+  "reason": "King Taksin had been deposed amid unrest, and the leading general was invited to rule.",
+  "significance": "The Chakri dynasty still reigns in Thailand.",
+  "participants": [
+    "Rama I",
+    "Rattanakosin Kingdom"
+  ],
+  "countries": [
+    "Thailand"
+  ],
+  "place": "Bangkok, Thailand",
+  "lat": 13.75,
+  "lon": 100.4913,
+  "tags": [
+    "politics"
+  ],
+  "weight": 55,
+  "wikipedia": "Rama I"
+}

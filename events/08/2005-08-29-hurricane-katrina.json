@@ -1,0 +1,27 @@
+{
+  "id": "event-2005-08-29-hurricane-katrina",
+  "title": "Hurricane Katrina hits the US Gulf Coast",
+  "year": 2005,
+  "month": 8,
+  "day": 29,
+  "calendar": "gregorian",
+  "summary": "Katrina made landfall in Louisiana, and failing levees flooded most of New Orleans. About 1,400 people died.",
+  "reason": "A strong storm met a city below sea level protected by poorly built levees.",
+  "significance": "The slow response became a national scandal about poverty and government failure.",
+  "participants": [
+    "Federal Emergency Management Agency",
+    "George W. Bush"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "New Orleans, Louisiana, United States",
+  "lat": 29.9511,
+  "lon": -90.0715,
+  "tags": [
+    "disaster"
+  ],
+  "weight": 62,
+  "wikipedia": "Hurricane Katrina",
+  "wikidata": "Q16422"
+}

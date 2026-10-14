@@ -1,0 +1,30 @@
+{
+  "id": "event-1915-05-07-lusitania-sunk",
+  "title": "A German U-boat sinks the Lusitania",
+  "year": 1915,
+  "month": 5,
+  "day": 7,
+  "calendar": "gregorian",
+  "summary": "The German submarine U-20 torpedoed the British liner Lusitania off the south coast of Ireland, killing nearly 1,200 people, including 128 Americans.",
+  "reason": "Germany had declared the waters around Britain a war zone and was waging submarine warfare against Allied shipping.",
+  "significance": "It turned American opinion against Germany and contributed to US entry into the war.",
+  "participants": [
+    "RMS Lusitania",
+    "SM U-20",
+    "German Empire"
+  ],
+  "countries": [
+    "Ireland",
+    "United Kingdom",
+    "Germany",
+    "United States"
+  ],
+  "place": "Off the Old Head of Kinsale, Ireland",
+  "lat": 51.4167,
+  "lon": -8.55,
+  "tags": [
+    "war"
+  ],
+  "weight": 57,
+  "wikipedia": "Sinking of RMS Lusitania"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "event-1948-04-09-bogotazo",
+  "title": "Assassination of Gaitan sparks the Bogotazo",
+  "year": 1948,
+  "month": 4,
+  "day": 9,
+  "calendar": "gregorian",
+  "summary": "The popular Liberal leader Jorge Eliecer Gaitan was shot in Bogota, setting off riots that destroyed much of the city centre and killed thousands.",
+  "reason": "Gaitan was the hope of poor Colombians, and political violence between Liberals and Conservatives was already rising.",
+  "significance": "It opened La Violencia, a decade of civil conflict in Colombia.",
+  "participants": [
+    "Jorge Eliecer Gaitan",
+    "Colombian Liberal Party"
+  ],
+  "countries": [
+    "Colombia"
+  ],
+  "place": "Bogota, Colombia",
+  "lat": 4.711,
+  "lon": -74.0721,
+  "tags": [
+    "politics",
+    "revolution"
+  ],
+  "weight": 51,
+  "wikipedia": "Bogotazo",
+  "wikidata": "Q2327438"
+}

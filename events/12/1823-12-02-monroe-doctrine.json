@@ -1,0 +1,29 @@
+{
+  "id": "event-1823-12-02-monroe-doctrine",
+  "title": "President Monroe announces the Monroe Doctrine",
+  "year": 1823,
+  "month": 12,
+  "day": 2,
+  "calendar": "gregorian",
+  "summary": "In his annual message to Congress, James Monroe declared that the Americas were closed to further European colonization and that the United States would oppose European interference there.",
+  "reason": "Washington feared that European monarchies would help Spain retake its newly independent colonies and that Russia would expand on the Pacific coast.",
+  "significance": "It became a lasting basis of United States foreign policy in the Western Hemisphere.",
+  "participants": [
+    "James Monroe",
+    "John Quincy Adams",
+    "United States Congress"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "United States Capitol, Washington, D.C., United States",
+  "lat": 38.8899,
+  "lon": -77.0091,
+  "tags": [
+    "diplomacy",
+    "politics"
+  ],
+  "weight": 70,
+  "wikipedia": "Monroe Doctrine",
+  "wikidata": "Q181026"
+}

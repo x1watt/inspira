@@ -1,0 +1,28 @@
+{
+  "id": "event-2014-06-10-fall-of-mosul",
+  "title": "Islamic State captures Mosul",
+  "year": 2014,
+  "month": 6,
+  "day": 10,
+  "calendar": "gregorian",
+  "summary": "Islamic State fighters seized Iraq's second largest city as the Iraqi army fled.",
+  "reason": "The jihadist group exploited the Syrian war and Sunni anger at Iraq's government.",
+  "significance": "Weeks later the group declared a caliphate, provoking a global coalition against it.",
+  "participants": [
+    "Islamic State",
+    "Abu Bakr al-Baghdadi",
+    "Iraqi Army"
+  ],
+  "countries": [
+    "Iraq"
+  ],
+  "place": "Mosul, Iraq",
+  "lat": 36.335,
+  "lon": 43.1189,
+  "tags": [
+    "war"
+  ],
+  "weight": 65,
+  "wikipedia": "Fall of Mosul",
+  "wikidata": "Q18701760"
+}

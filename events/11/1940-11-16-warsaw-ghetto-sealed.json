@@ -1,0 +1,30 @@
+{
+  "id": "event-1940-11-16-warsaw-ghetto-sealed",
+  "title": "German authorities seal the Warsaw Ghetto",
+  "year": 1940,
+  "month": 11,
+  "day": 15,
+  "calendar": "gregorian",
+  "summary": "The Nazi occupation authorities closed the walled Jewish district in Warsaw, trapping about 400,000 people in a small area with little food.",
+  "reason": "The Nazis aimed to isolate and exploit Poland's Jews as a step in their persecution, which later turned into mass murder.",
+  "significance": "The largest ghetto in occupied Europe, it became a symbol of the Holocaust; tens of thousands died there of hunger and disease.",
+  "participants": [
+    "Nazi Germany",
+    "Jews of Warsaw",
+    "Hans Frank"
+  ],
+  "countries": [
+    "Poland",
+    "Germany"
+  ],
+  "place": "Warsaw, Poland",
+  "lat": 52.244,
+  "lon": 20.993,
+  "tags": [
+    "rights",
+    "war"
+  ],
+  "weight": 65,
+  "wikipedia": "Warsaw Ghetto",
+  "wikidata": "Q154607"
+}

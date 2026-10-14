@@ -1,0 +1,29 @@
+{
+  "id": "event-1931-04-14-second-spanish-republic",
+  "title": "The Second Spanish Republic is proclaimed",
+  "year": 1931,
+  "month": 4,
+  "day": 14,
+  "calendar": "gregorian",
+  "summary": "After republicans swept municipal elections, a republic was proclaimed in Madrid and King Alfonso XIII left Spain.",
+  "reason": "The monarchy was discredited by its support of Miguel Primo de Rivera's dictatorship.",
+  "significance": "The republic's deep divisions led to the Spanish Civil War five years later.",
+  "participants": [
+    "Alfonso XIII",
+    "Niceto Alcala-Zamora",
+    "Second Spanish Republic"
+  ],
+  "countries": [
+    "Spain"
+  ],
+  "place": "Puerta del Sol, Madrid, Spain",
+  "lat": 40.4169,
+  "lon": -3.7035,
+  "tags": [
+    "revolution",
+    "politics"
+  ],
+  "weight": 52,
+  "wikipedia": "Second Spanish Republic",
+  "wikidata": "Q178038"
+}

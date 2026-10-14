@@ -1,0 +1,29 @@
+{
+  "id": "event-1957-10-04-sputnik-1",
+  "title": "The Soviet Union launches Sputnik 1",
+  "year": 1957,
+  "month": 10,
+  "day": 4,
+  "calendar": "gregorian",
+  "summary": "The Soviet Union launched Sputnik 1, the first artificial satellite, from Baikonur. Its radio beeps were heard around the world.",
+  "reason": "Sergei Korolev's team used the new R-7 missile to beat the United States into orbit during the International Geophysical Year.",
+  "significance": "It began the Space Age and the space race.",
+  "participants": [
+    "Soviet Union",
+    "Sergei Korolev"
+  ],
+  "countries": [
+    "Kazakhstan",
+    "Russia"
+  ],
+  "place": "Baikonur Cosmodrome, Kazakhstan",
+  "lat": 45.92,
+  "lon": 63.342,
+  "tags": [
+    "exploration",
+    "technology"
+  ],
+  "weight": 90,
+  "wikipedia": "Sputnik 1",
+  "wikidata": "Q80811"
+}

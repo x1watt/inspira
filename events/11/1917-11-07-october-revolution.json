@@ -1,0 +1,29 @@
+{
+  "id": "event-1917-11-07-october-revolution",
+  "title": "The Bolsheviks seize power in the October Revolution",
+  "year": 1917,
+  "month": 11,
+  "day": 7,
+  "calendar": "gregorian",
+  "summary": "Bolshevik-led Red Guards took key points in Petrograd and stormed the Winter Palace, overthrowing the Provisional Government and handing power to the Soviets.",
+  "reason": "The Provisional Government had kept Russia in the war and failed to deliver land and bread, while Lenin's Bolsheviks won over workers and soldiers.",
+  "significance": "It created the first communist state and shaped world politics for most of the century.",
+  "participants": [
+    "Bolsheviks",
+    "Vladimir Lenin",
+    "Leon Trotsky",
+    "Russian Provisional Government"
+  ],
+  "countries": [
+    "Russia"
+  ],
+  "place": "Winter Palace, Petrograd (St. Petersburg), Russia",
+  "lat": 59.9398,
+  "lon": 30.3146,
+  "tags": [
+    "revolution"
+  ],
+  "weight": 95,
+  "wikipedia": "October Revolution",
+  "wikidata": "Q42976"
+}

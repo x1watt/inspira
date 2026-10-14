@@ -1,0 +1,28 @@
+{
+  "id": "event-1980-08-31-gdansk-agreement",
+  "title": "The Gdansk Agreement legalizes free trade unions",
+  "year": 1980,
+  "month": 8,
+  "day": 31,
+  "calendar": "gregorian",
+  "summary": "Poland's government and striking shipyard workers led by Lech Walesa signed an agreement allowing independent trade unions.",
+  "reason": "A strike at the Lenin Shipyard over prices and a fired worker spread across the country.",
+  "significance": "It created Solidarity, the first independent union in the Soviet bloc.",
+  "participants": [
+    "Lech Walesa",
+    "Solidarity",
+    "Polish United Workers' Party"
+  ],
+  "countries": [
+    "Poland"
+  ],
+  "place": "Lenin Shipyard, Gdansk, Poland",
+  "lat": 54.361,
+  "lon": 18.649,
+  "tags": [
+    "rights",
+    "politics"
+  ],
+  "weight": 61,
+  "wikipedia": "August Agreements"
+}

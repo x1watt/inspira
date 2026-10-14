@@ -1,0 +1,27 @@
+{
+  "id": "event-bc753-04-21-founding-of-rome",
+  "title": "Traditional founding of Rome by Romulus",
+  "year": -753,
+  "month": 4,
+  "day": 21,
+  "calendar": "julian",
+  "summary": "According to Roman tradition, Romulus founded the city of Rome on the Palatine Hill on this day. The date was later fixed by the scholar Varro and celebrated each year as the Parilia.",
+  "reason": "Roman legend tells of the twins Romulus and Remus, who quarrelled over where to found a new city, after which Romulus founded it and gave it his name.",
+  "significance": "The date became the starting point of the Roman count of years and the birthday of a city that would shape Western civilization.",
+  "participants": [
+    "Romulus"
+  ],
+  "countries": [
+    "Italy"
+  ],
+  "place": "Palatine Hill, Rome, Italy",
+  "lat": 41.8892,
+  "lon": 12.4875,
+  "tags": [
+    "politics",
+    "culture"
+  ],
+  "weight": 72,
+  "wikipedia": "Founding of Rome",
+  "wikidata": "Q1247524"
+}

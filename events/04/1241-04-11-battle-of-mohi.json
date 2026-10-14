@@ -1,0 +1,31 @@
+{
+  "id": "event-1241-04-11-battle-of-mohi",
+  "title": "Mongols destroy the Hungarian army at Mohi",
+  "year": 1241,
+  "month": 4,
+  "day": 11,
+  "calendar": "julian",
+  "summary": "The Mongols under Batu and Subutai crushed the army of King Bela IV of Hungary by the Sajo River. Much of Hungary was then ravaged.",
+  "reason": "Hungary had sheltered the Cumans fleeing the Mongols and stood in the path of their invasion of Europe.",
+  "significance": "It was the Mongols' greatest victory in Europe and devastated the kingdom of Hungary.",
+  "participants": [
+    "Mongol Empire",
+    "Batu Khan",
+    "Subutai",
+    "Bela IV of Hungary",
+    "Kingdom of Hungary"
+  ],
+  "countries": [
+    "Hungary",
+    "Mongolia"
+  ],
+  "place": "Muhi, near the Sajo River, Hungary",
+  "lat": 47.98,
+  "lon": 20.91,
+  "tags": [
+    "war"
+  ],
+  "weight": 65,
+  "wikipedia": "Battle of Mohi",
+  "wikidata": "Q705874"
+}

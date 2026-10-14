@@ -1,0 +1,32 @@
+{
+  "id": "event-1956-07-26-suez-nationalization",
+  "title": "Nasser nationalizes the Suez Canal",
+  "year": 1956,
+  "month": 7,
+  "day": 26,
+  "calendar": "gregorian",
+  "summary": "In a speech in Alexandria, Gamal Abdel Nasser announced the nationalization of the Suez Canal Company.",
+  "reason": "The United States and Britain had withdrawn funding for the Aswan High Dam, and Nasser wanted canal revenue to pay for it.",
+  "significance": "It led to the Suez Crisis, which marked the end of Britain and France as imperial powers in the Middle East.",
+  "participants": [
+    "Gamal Abdel Nasser",
+    "Suez Canal Company",
+    "United Kingdom",
+    "France"
+  ],
+  "countries": [
+    "Egypt",
+    "United Kingdom",
+    "France"
+  ],
+  "place": "Alexandria, Egypt",
+  "lat": 31.2001,
+  "lon": 29.9187,
+  "tags": [
+    "politics",
+    "economy"
+  ],
+  "weight": 65,
+  "wikipedia": "Suez Crisis",
+  "wikidata": "Q49101"
+}

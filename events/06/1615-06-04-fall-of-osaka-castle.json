@@ -1,0 +1,28 @@
+{
+  "id": "event-1615-06-04-fall-of-osaka-castle",
+  "title": "Osaka Castle falls and the Toyotomi line ends",
+  "year": 1615,
+  "month": 6,
+  "day": 4,
+  "calendar": "gregorian",
+  "summary": "Tokugawa forces stormed Osaka Castle at the end of the summer campaign, and Toyotomi Hideyori and his mother took their own lives as it burned.",
+  "reason": "Hideyori remained a rallying point for opponents of the Tokugawa, and Ieyasu wanted to remove the last rival claim to power.",
+  "significance": "It removed the final challenge to the Tokugawa shogunate.",
+  "participants": [
+    "Tokugawa Ieyasu",
+    "Toyotomi Hideyori",
+    "Tokugawa shogunate"
+  ],
+  "countries": [
+    "Japan"
+  ],
+  "place": "Osaka Castle, Osaka, Japan",
+  "lat": 34.6873,
+  "lon": 135.5262,
+  "tags": [
+    "war"
+  ],
+  "weight": 60,
+  "wikipedia": "Siege of Osaka",
+  "wikidata": "Q475780"
+}

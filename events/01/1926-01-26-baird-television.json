@@ -1,0 +1,27 @@
+{
+  "id": "event-1926-01-26-baird-television",
+  "title": "John Logie Baird demonstrates television",
+  "year": 1926,
+  "month": 1,
+  "day": 26,
+  "calendar": "gregorian",
+  "summary": "John Logie Baird gave the first public demonstration of television transmitting moving images to members of the Royal Institution in his London laboratory.",
+  "reason": "Baird had worked for years on a mechanical scanning system to send live images electrically.",
+  "significance": "It marked the beginning of television, which became the dominant medium of the century.",
+  "participants": [
+    "John Logie Baird",
+    "Royal Institution"
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "place": "22 Frith Street, Soho, London, United Kingdom",
+  "lat": 51.5136,
+  "lon": -0.1317,
+  "tags": [
+    "technology"
+  ],
+  "weight": 67,
+  "wikipedia": "John Logie Baird",
+  "wikidata": "Q133544"
+}

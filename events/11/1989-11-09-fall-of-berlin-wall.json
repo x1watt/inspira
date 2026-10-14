@@ -1,0 +1,29 @@
+{
+  "id": "event-1989-11-09-fall-of-berlin-wall",
+  "title": "The Berlin Wall falls",
+  "year": 1989,
+  "month": 11,
+  "day": 9,
+  "calendar": "gregorian",
+  "summary": "After a confused announcement of new travel rules, crowds of East Berliners pushed through the border crossings and began tearing down the wall.",
+  "reason": "Mass protests and emigration had shaken East Germany, and Moscow would not intervene.",
+  "significance": "It symbolized the end of the Cold War and led to German reunification.",
+  "participants": [
+    "East Germany",
+    "Gunter Schabowski",
+    "Egon Krenz"
+  ],
+  "countries": [
+    "Germany"
+  ],
+  "place": "Berlin, Germany",
+  "lat": 52.5163,
+  "lon": 13.3777,
+  "tags": [
+    "revolution",
+    "politics"
+  ],
+  "weight": 97,
+  "wikipedia": "Fall of the Berlin Wall",
+  "wikidata": "Q69163529"
+}

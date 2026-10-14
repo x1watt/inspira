@@ -1,0 +1,29 @@
+{
+  "id": "event-1601-01-10-east-india-company-chartered",
+  "title": "Elizabeth I charters the East India Company",
+  "year": 1601,
+  "month": 1,
+  "day": 10,
+  "calendar": "gregorian",
+  "summary": "Queen Elizabeth I granted a royal charter to a group of London merchants, giving them a monopoly on English trade east of the Cape of Good Hope.",
+  "reason": "English merchants wanted a share of the lucrative spice trade dominated by the Portuguese and the Dutch.",
+  "significance": "The company grew into a power that conquered and ruled much of India for Britain.",
+  "participants": [
+    "Elizabeth I",
+    "East India Company"
+  ],
+  "countries": [
+    "United Kingdom",
+    "India"
+  ],
+  "place": "London, United Kingdom",
+  "lat": 51.5074,
+  "lon": -0.1278,
+  "tags": [
+    "economy",
+    "politics"
+  ],
+  "weight": 80,
+  "wikipedia": "East India Company",
+  "wikidata": "Q83164"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "event-2017-11-15-zimbabwe-coup",
+  "title": "Military takes control in Zimbabwe, ending Mugabe's rule",
+  "year": 2017,
+  "month": 11,
+  "day": 14,
+  "calendar": "gregorian",
+  "summary": "Zimbabwe's army seized control of Harare and placed President Robert Mugabe under house arrest. He resigned a week later.",
+  "reason": "Mugabe had fired his deputy Emmerson Mnangagwa to clear the way for his wife Grace.",
+  "significance": "It ended 37 years of rule by Mugabe.",
+  "participants": [
+    "Robert Mugabe",
+    "Zimbabwe Defence Forces",
+    "Emmerson Mnangagwa",
+    "Constantino Chiwenga"
+  ],
+  "countries": [
+    "Zimbabwe"
+  ],
+  "place": "Harare, Zimbabwe",
+  "lat": -17.8252,
+  "lon": 31.0335,
+  "tags": [
+    "politics"
+  ],
+  "weight": 52,
+  "wikipedia": "2017 Zimbabwean coup d'état",
+  "wikidata": "Q43172549"
+}

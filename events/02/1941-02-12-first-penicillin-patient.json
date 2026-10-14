@@ -1,0 +1,30 @@
+{
+  "id": "event-1941-02-12-first-penicillin-patient",
+  "title": "Penicillin is first given to a patient in Oxford",
+  "year": 1941,
+  "month": 2,
+  "day": 12,
+  "calendar": "gregorian",
+  "summary": "At the Radcliffe Infirmary, police constable Albert Alexander, dying of a severe infection, became the first patient treated with purified penicillin. He improved dramatically, but supplies ran out and he died weeks later.",
+  "reason": "Howard Florey and Ernst Chain's team had turned Alexander Fleming's 1928 discovery into a usable drug, but could make only tiny amounts.",
+  "significance": "It showed penicillin worked in people and led to the mass production that saved countless lives by the war's end.",
+  "participants": [
+    "Howard Florey",
+    "Ernst Chain",
+    "Norman Heatley",
+    "Albert Alexander"
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "place": "Radcliffe Infirmary, Oxford, United Kingdom",
+  "lat": 51.759,
+  "lon": -1.263,
+  "tags": [
+    "medicine",
+    "science"
+  ],
+  "weight": 70,
+  "wikipedia": "Albert Alexander (police officer)",
+  "wikidata": "Q3042914"
+}

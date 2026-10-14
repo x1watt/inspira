@@ -1,0 +1,32 @@
+{
+  "id": "event-1389-06-15-kosovo",
+  "title": "Serbs and Ottomans clash at the Battle of Kosovo",
+  "year": 1389,
+  "month": 6,
+  "day": 15,
+  "calendar": "julian",
+  "summary": "A Serbian-led army under Prince Lazar fought the Ottoman army of Sultan Murad I on the Field of Blackbirds. Both rulers were killed and both armies suffered heavy losses.",
+  "reason": "The Ottomans were expanding through the Balkans, and the Serbian principalities tried to halt them.",
+  "significance": "Serbia soon became an Ottoman vassal, and the battle became a central event of Serbian national memory.",
+  "participants": [
+    "Ottoman Empire",
+    "Moravian Serbia",
+    "Prince Lazar",
+    "Murad I",
+    "Vuk Brankovic"
+  ],
+  "countries": [
+    "Kosovo",
+    "Serbia",
+    "Turkey"
+  ],
+  "place": "Kosovo Field, near Pristina, Kosovo",
+  "lat": 42.7175,
+  "lon": 21.085,
+  "tags": [
+    "war"
+  ],
+  "weight": 65,
+  "wikipedia": "Battle of Kosovo",
+  "wikidata": "Q179288"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "event-1910-11-20-mexican-revolution",
+  "title": "Madero calls for revolt, starting the Mexican Revolution",
+  "year": 1910,
+  "month": 11,
+  "day": 20,
+  "calendar": "gregorian",
+  "summary": "Francisco Madero's Plan of San Luis Potosi called for Mexicans to rise up against President Porfirio Diaz on 20 November, the date now marked as the start of the Mexican Revolution.",
+  "reason": "Diaz had ruled for over three decades, rigged the 1910 election and presided over vast inequality in land ownership.",
+  "significance": "It began a decade of revolution that reshaped Mexico's politics, land and society.",
+  "participants": [
+    "Francisco Madero",
+    "Porfirio Diaz"
+  ],
+  "countries": [
+    "Mexico"
+  ],
+  "place": "Mexico",
+  "lat": 23,
+  "lon": -102,
+  "tags": [
+    "revolution"
+  ],
+  "weight": 67,
+  "wikipedia": "Mexican Revolution",
+  "wikidata": "Q214426"
+}

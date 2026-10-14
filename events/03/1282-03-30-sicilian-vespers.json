@@ -1,0 +1,30 @@
+{
+  "id": "event-1282-03-30-sicilian-vespers",
+  "title": "The Sicilian Vespers revolt against French rule",
+  "year": 1282,
+  "month": 3,
+  "day": 30,
+  "calendar": "julian",
+  "summary": "At the hour of vespers on Easter Monday, the people of Palermo rose against the French soldiers of Charles of Anjou, and the revolt spread across Sicily.",
+  "reason": "Sicilians resented heavy taxes and the harsh rule of the Angevin French.",
+  "significance": "Sicily passed to the Crown of Aragon, starting a long war over southern Italy.",
+  "participants": [
+    "Charles I of Anjou",
+    "Peter III of Aragon",
+    "People of Sicily"
+  ],
+  "countries": [
+    "Italy",
+    "France",
+    "Spain"
+  ],
+  "place": "Palermo, Sicily, Italy",
+  "lat": 38.1157,
+  "lon": 13.3615,
+  "tags": [
+    "revolution"
+  ],
+  "weight": 60,
+  "wikipedia": "Sicilian Vespers",
+  "wikidata": "Q207327"
+}

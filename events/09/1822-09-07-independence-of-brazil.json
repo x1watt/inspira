@@ -1,0 +1,30 @@
+{
+  "id": "event-1822-09-07-independence-of-brazil",
+  "title": "Prince Pedro declares the independence of Brazil",
+  "year": 1822,
+  "month": 9,
+  "day": 7,
+  "calendar": "gregorian",
+  "summary": "On the banks of the Ipiranga brook near São Paulo, Prince Pedro of Braganza declared Brazil independent of Portugal.",
+  "reason": "The Portuguese parliament wanted to return Brazil to colonial status and ordered the regent home, which Pedro and Brazilian elites refused.",
+  "significance": "It created the Empire of Brazil, the largest state in Latin America, with its territory largely intact.",
+  "participants": [
+    "Pedro I of Brazil",
+    "Kingdom of Portugal",
+    "José Bonifácio de Andrada"
+  ],
+  "countries": [
+    "Brazil",
+    "Portugal"
+  ],
+  "place": "Ipiranga brook, São Paulo, Brazil",
+  "lat": -23.5855,
+  "lon": -46.6097,
+  "tags": [
+    "politics",
+    "revolution"
+  ],
+  "weight": 70,
+  "wikipedia": "Independence of Brazil",
+  "wikidata": "Q1548600"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "event-1945-11-20-nuremberg-trials",
+  "title": "Nuremberg trials of major Nazi leaders begin",
+  "year": 1945,
+  "month": 11,
+  "day": 20,
+  "calendar": "gregorian",
+  "summary": "An international military tribunal of the United States, Britain, France and the Soviet Union opened the trial of 24 leading Nazis for crimes against peace, war crimes and crimes against humanity.",
+  "reason": "The Allies chose a legal process instead of summary executions to establish the record of Nazi crimes and hold leaders personally responsible.",
+  "significance": "It founded modern international criminal law and the principle that following orders is no defence.",
+  "participants": [
+    "International Military Tribunal",
+    "Robert H. Jackson",
+    "Hermann Goring",
+    "Rudolf Hess"
+  ],
+  "countries": [
+    "Germany",
+    "United States",
+    "United Kingdom",
+    "France",
+    "Russia"
+  ],
+  "place": "Palace of Justice, Nuremberg, Germany",
+  "lat": 49.4536,
+  "lon": 11.049,
+  "tags": [
+    "law",
+    "politics"
+  ],
+  "weight": 78,
+  "wikipedia": "Nuremberg trials",
+  "wikidata": "Q80130"
+}

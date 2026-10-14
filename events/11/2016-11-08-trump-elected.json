@@ -1,0 +1,27 @@
+{
+  "id": "event-2016-11-08-trump-elected",
+  "title": "Donald Trump wins the US presidential election",
+  "year": 2016,
+  "month": 11,
+  "day": 8,
+  "calendar": "gregorian",
+  "summary": "Businessman Donald Trump defeated Hillary Clinton in the Electoral College despite losing the popular vote.",
+  "reason": "He tapped anger over globalisation, immigration and the political establishment.",
+  "significance": "His victory reshaped American politics and its relations with the world.",
+  "participants": [
+    "Donald Trump",
+    "Hillary Clinton"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "United States",
+  "lat": null,
+  "lon": null,
+  "tags": [
+    "politics"
+  ],
+  "weight": 70,
+  "wikipedia": "2016 United States presidential election",
+  "wikidata": "Q699872"
+}

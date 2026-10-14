@@ -1,0 +1,29 @@
+{
+  "id": "event-1605-11-15-gunpowder-plot",
+  "title": "The Gunpowder Plot is foiled in London",
+  "year": 1605,
+  "month": 11,
+  "day": 15,
+  "calendar": "gregorian",
+  "summary": "Guy Fawkes was arrested guarding barrels of gunpowder in a cellar beneath the House of Lords, ending a plot to blow up Parliament and King James I.",
+  "reason": "A group of English Catholics led by Robert Catesby hoped to kill the Protestant king and restore a Catholic monarchy.",
+  "significance": "Its failure is still marked each year on Bonfire Night and hardened anti-Catholic laws in England.",
+  "participants": [
+    "Guy Fawkes",
+    "Robert Catesby",
+    "James VI and I"
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "place": "Palace of Westminster, London, United Kingdom",
+  "lat": 51.4995,
+  "lon": -0.1248,
+  "tags": [
+    "politics",
+    "religion"
+  ],
+  "weight": 58,
+  "wikipedia": "Gunpowder Plot",
+  "wikidata": "Q45810"
+}

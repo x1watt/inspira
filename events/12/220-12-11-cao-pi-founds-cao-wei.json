@@ -1,0 +1,29 @@
+{
+  "id": "event-220-12-11-cao-pi-founds-cao-wei",
+  "title": "Han dynasty ends as Cao Pi founds Cao Wei",
+  "year": 220,
+  "month": 12,
+  "day": 11,
+  "calendar": "julian",
+  "summary": "Emperor Xian of Han abdicated in favour of Cao Pi, who declared himself emperor of the new state of Wei. Four centuries of Han rule ended.",
+  "reason": "Cao Pi's father Cao Cao had controlled the Han court for decades, and the abdication only made his family's power official.",
+  "significance": "It opened the Three Kingdoms period as Liu Bei and Sun Quan claimed their own thrones.",
+  "participants": [
+    "Cao Pi",
+    "Emperor Xian of Han",
+    "Han dynasty",
+    "Cao Wei"
+  ],
+  "countries": [
+    "China"
+  ],
+  "place": "Fanyang, near Xuchang, Henan, China",
+  "lat": 33.85,
+  "lon": 113.95,
+  "tags": [
+    "politics"
+  ],
+  "weight": 72,
+  "wikipedia": "Cao Wei",
+  "wikidata": "Q320930"
+}

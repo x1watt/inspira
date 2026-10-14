@@ -1,0 +1,29 @@
+{
+  "id": "event-1950-01-26-india-constitution",
+  "title": "The Constitution of India comes into force",
+  "year": 1950,
+  "month": 1,
+  "day": 26,
+  "calendar": "gregorian",
+  "summary": "India's constitution took effect, turning the dominion into a sovereign republic with Rajendra Prasad as its first president.",
+  "reason": "A Constituent Assembly chaired in drafting by B. R. Ambedkar had worked since 1946 to give India its own charter.",
+  "significance": "It made India the largest democracy in the world, marked each year as Republic Day.",
+  "participants": [
+    "B. R. Ambedkar",
+    "Rajendra Prasad",
+    "Constituent Assembly of India"
+  ],
+  "countries": [
+    "India"
+  ],
+  "place": "New Delhi, India",
+  "lat": 28.6139,
+  "lon": 77.209,
+  "tags": [
+    "law",
+    "politics"
+  ],
+  "weight": 70,
+  "wikipedia": "Constitution of India",
+  "wikidata": "Q477108"
+}

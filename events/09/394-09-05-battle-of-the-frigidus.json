@@ -1,0 +1,30 @@
+{
+  "id": "event-394-09-05-battle-of-the-frigidus",
+  "title": "Theodosius wins the Battle of the Frigidus",
+  "year": 394,
+  "month": 9,
+  "day": 5,
+  "calendar": "julian",
+  "summary": "Emperor Theodosius I defeated the usurper Eugenius and his general Arbogast in the Vipava valley, helped by a violent wind known as the bora.",
+  "reason": "Eugenius had been raised to the throne in the West by Arbogast and had the support of the pagan senatorial aristocracy.",
+  "significance": "It was the last time a Roman emperor ruled both halves of the empire and ended the pagan revival.",
+  "participants": [
+    "Theodosius I",
+    "Eugenius",
+    "Arbogast",
+    "Alaric"
+  ],
+  "countries": [
+    "Slovenia"
+  ],
+  "place": "Frigidus river, Vipava valley, Slovenia",
+  "lat": 45.88,
+  "lon": 13.9,
+  "tags": [
+    "war",
+    "religion"
+  ],
+  "weight": 55,
+  "wikipedia": "Battle of the Frigidus",
+  "wikidata": "Q836944"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "event-185-12-07-sn-185-observed",
+  "title": "Chinese astronomers record supernova SN 185",
+  "year": 185,
+  "month": 12,
+  "day": 7,
+  "calendar": "julian",
+  "summary": "Astronomers of the Han dynasty recorded a new star near Alpha Centauri that stayed visible for months. It is the earliest recorded supernova.",
+  "reason": "The Han court kept careful records of celestial events, which were believed to carry omens for the state.",
+  "significance": "It is the oldest known record of a supernova, now linked to the remnant RCW 86.",
+  "participants": [
+    "Han dynasty",
+    "Chinese astronomers"
+  ],
+  "countries": [
+    "China"
+  ],
+  "place": "Sky, observed from Han China",
+  "lat": null,
+  "lon": null,
+  "tags": [
+    "science"
+  ],
+  "weight": 55,
+  "wikipedia": "SN 185",
+  "wikidata": "Q28860"
+}

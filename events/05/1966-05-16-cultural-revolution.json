@@ -1,0 +1,30 @@
+{
+  "id": "event-1966-05-16-cultural-revolution",
+  "title": "Mao launches the Cultural Revolution",
+  "year": 1966,
+  "month": 5,
+  "day": 16,
+  "calendar": "gregorian",
+  "summary": "The Communist Party Politburo issued the May 16 Notification, attacking hidden bourgeois enemies and opening the Cultural Revolution.",
+  "reason": "Mao Zedong wanted to regain power after the failure of the Great Leap Forward and purge rivals in the party.",
+  "significance": "A decade of upheaval followed, with persecution, violence and millions of deaths.",
+  "participants": [
+    "Mao Zedong",
+    "Chinese Communist Party",
+    "Lin Biao",
+    "Red Guards"
+  ],
+  "countries": [
+    "China"
+  ],
+  "place": "Beijing, China",
+  "lat": 39.9042,
+  "lon": 116.4074,
+  "tags": [
+    "politics",
+    "revolution"
+  ],
+  "weight": 75,
+  "wikipedia": "Cultural Revolution",
+  "wikidata": "Q8690"
+}

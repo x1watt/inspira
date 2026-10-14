@@ -1,0 +1,31 @@
+{
+  "id": "event-1532-11-16-cajamarca",
+  "title": "Pizarro captures the Inca emperor Atahualpa at Cajamarca",
+  "year": 1532,
+  "month": 11,
+  "day": 16,
+  "calendar": "julian",
+  "summary": "Francisco Pizarro's small Spanish force ambushed the escort of the Inca ruler Atahualpa in the main square of Cajamarca, killed thousands and took him prisoner.",
+  "reason": "Pizarro aimed to conquer the Inca Empire for its gold, and Atahualpa had just won a civil war against his brother Huascar.",
+  "significance": "It began the Spanish conquest of the Inca Empire, the largest state in the Americas.",
+  "participants": [
+    "Francisco Pizarro",
+    "Atahualpa",
+    "Inca Empire",
+    "Spanish Empire"
+  ],
+  "countries": [
+    "Peru",
+    "Spain"
+  ],
+  "place": "Cajamarca, Peru",
+  "lat": -7.157,
+  "lon": -78.517,
+  "tags": [
+    "war",
+    "exploration"
+  ],
+  "weight": 75,
+  "wikipedia": "Battle of Cajamarca",
+  "wikidata": "Q1425362"
+}

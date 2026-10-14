@@ -1,0 +1,32 @@
+{
+  "id": "event-1260-09-03-battle-of-ain-jalut",
+  "title": "Mamluks defeat the Mongols at Ain Jalut",
+  "year": 1260,
+  "month": 9,
+  "day": 3,
+  "calendar": "julian",
+  "summary": "The Mamluk army of Egypt under Qutuz and Baybars defeated a Mongol force in the Jezreel Valley of Palestine.",
+  "reason": "After taking Baghdad and Syria the Mongols threatened Egypt, but most of their army had withdrawn after the death of the Great Khan.",
+  "significance": "It stopped the Mongol advance into the Middle East and Africa and made the Mamluks the leading Muslim power.",
+  "participants": [
+    "Mamluk Sultanate",
+    "Qutuz",
+    "Baybars",
+    "Mongol Empire",
+    "Kitbuqa"
+  ],
+  "countries": [
+    "Israel",
+    "Egypt",
+    "Mongolia"
+  ],
+  "place": "Ein Harod, Jezreel Valley, Israel",
+  "lat": 32.55,
+  "lon": 35.35,
+  "tags": [
+    "war"
+  ],
+  "weight": 80,
+  "wikipedia": "Battle of Ain Jalut",
+  "wikidata": "Q244356"
+}

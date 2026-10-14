@@ -1,0 +1,26 @@
+{
+  "id": "event-1783-06-08-laki-eruption",
+  "title": "Laki fissure eruption begins in Iceland",
+  "year": 1783,
+  "month": 6,
+  "day": 8,
+  "calendar": "gregorian",
+  "summary": "A long fissure at Laki began erupting lava and toxic gases, an eruption that continued for eight months.",
+  "reason": "Volcanic activity along the Mid-Atlantic Ridge opened a fissure in southern Iceland.",
+  "significance": "It killed a large part of Iceland's livestock and population and caused deadly haze and crop failures across Europe.",
+  "participants": [
+    "Iceland"
+  ],
+  "countries": [
+    "Iceland"
+  ],
+  "place": "Laki, Iceland",
+  "lat": 64.07,
+  "lon": -18.23,
+  "tags": [
+    "disaster"
+  ],
+  "weight": 60,
+  "wikipedia": "Laki",
+  "wikidata": "Q203726"
+}

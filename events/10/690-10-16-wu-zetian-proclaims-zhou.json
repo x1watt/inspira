@@ -1,0 +1,28 @@
+{
+  "id": "event-690-10-16-wu-zetian-proclaims-zhou",
+  "title": "Wu Zetian becomes China's only empress regnant",
+  "year": 690,
+  "month": 10,
+  "day": 16,
+  "calendar": "julian",
+  "summary": "Wu Zetian, who had long ruled through her husband and sons, took the throne in her own name and proclaimed a new Zhou dynasty. She ruled until 705.",
+  "reason": "After decades of controlling the Tang court, she removed her son Emperor Ruizong and claimed full imperial authority.",
+  "significance": "She remains the only woman in Chinese history to rule as emperor in her own right.",
+  "participants": [
+    "Wu Zetian",
+    "Emperor Ruizong of Tang",
+    "Tang dynasty"
+  ],
+  "countries": [
+    "China"
+  ],
+  "place": "Luoyang, China",
+  "lat": 34.6197,
+  "lon": 112.454,
+  "tags": [
+    "politics"
+  ],
+  "weight": 65,
+  "wikipedia": "Wu Zetian",
+  "wikidata": "Q9738"
+}

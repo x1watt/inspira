@@ -1,0 +1,30 @@
+{
+  "id": "event-2021-12-25-jwst-launch",
+  "title": "James Webb Space Telescope is launched",
+  "year": 2021,
+  "month": 12,
+  "day": 25,
+  "calendar": "gregorian",
+  "summary": "An Ariane 5 rocket launched the James Webb Space Telescope from French Guiana.",
+  "reason": "Astronomers wanted an infrared telescope to see the first galaxies and study exoplanet atmospheres.",
+  "significance": "It is the most powerful space telescope ever built.",
+  "participants": [
+    "NASA",
+    "European Space Agency",
+    "Canadian Space Agency"
+  ],
+  "countries": [
+    "United States",
+    "France"
+  ],
+  "place": "Guiana Space Centre, Kourou, French Guiana",
+  "lat": 5.239,
+  "lon": -52.768,
+  "tags": [
+    "science",
+    "exploration"
+  ],
+  "weight": 68,
+  "wikipedia": "James Webb Space Telescope",
+  "wikidata": "Q186447"
+}

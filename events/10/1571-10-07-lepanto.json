@@ -1,0 +1,34 @@
+{
+  "id": "event-1571-10-07-lepanto",
+  "title": "The Holy League defeats the Ottoman fleet at Lepanto",
+  "year": 1571,
+  "month": 10,
+  "day": 7,
+  "calendar": "julian",
+  "summary": "A fleet of Spain, Venice, the Papal States and their allies under Don John of Austria destroyed most of the Ottoman navy at the mouth of the Gulf of Patras.",
+  "reason": "The Ottomans had invaded Venetian Cyprus, and Pope Pius V formed a league to stop their naval expansion.",
+  "significance": "It ended the image of Ottoman invincibility at sea and was the last great battle of oared galleys.",
+  "participants": [
+    "Holy League",
+    "Ottoman Empire",
+    "John of Austria",
+    "Ali Pasha",
+    "Republic of Venice",
+    "Spanish Empire"
+  ],
+  "countries": [
+    "Greece",
+    "Turkey",
+    "Spain",
+    "Italy"
+  ],
+  "place": "Gulf of Patras, off Lepanto (Nafpaktos), Greece",
+  "lat": 38.3,
+  "lon": 21.1,
+  "tags": [
+    "war"
+  ],
+  "weight": 72,
+  "wikipedia": "Battle of Lepanto",
+  "wikidata": "Q165425"
+}

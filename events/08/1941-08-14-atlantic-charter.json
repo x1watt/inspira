@@ -1,0 +1,31 @@
+{
+  "id": "event-1941-08-14-atlantic-charter",
+  "title": "Roosevelt and Churchill issue the Atlantic Charter",
+  "year": 1941,
+  "month": 8,
+  "day": 14,
+  "calendar": "gregorian",
+  "summary": "After meeting on warships in Placentia Bay, Newfoundland, Roosevelt and Churchill published a joint statement of goals for the world after the war, including self-determination, free trade and no territorial gains.",
+  "reason": "Roosevelt wanted to define shared aims with Britain even though the United States was not yet at war.",
+  "significance": "Its principles became the basis of the Declaration by United Nations and later the United Nations Charter.",
+  "participants": [
+    "Franklin D. Roosevelt",
+    "Winston Churchill",
+    "United States",
+    "United Kingdom"
+  ],
+  "countries": [
+    "United States",
+    "United Kingdom",
+    "Canada"
+  ],
+  "place": "Placentia Bay, Newfoundland, Canada",
+  "lat": 47.3,
+  "lon": -54.0,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 72,
+  "wikipedia": "Atlantic Charter",
+  "wikidata": "Q181978"
+}

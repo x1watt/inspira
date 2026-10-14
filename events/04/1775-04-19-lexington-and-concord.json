@@ -1,0 +1,30 @@
+{
+  "id": "event-1775-04-19-lexington-and-concord",
+  "title": "American Revolutionary War begins at Lexington and Concord",
+  "year": 1775,
+  "month": 4,
+  "day": 19,
+  "calendar": "gregorian",
+  "summary": "British troops marching to seize colonial weapons at Concord clashed with militiamen at Lexington and then at Concord's North Bridge, and were harried all the way back to Boston.",
+  "reason": "Tension over British control of Massachusetts had reached a breaking point after the Intolerable Acts.",
+  "significance": "These first shots began the war that created the United States.",
+  "participants": [
+    "British Army",
+    "Massachusetts militia",
+    "Paul Revere"
+  ],
+  "countries": [
+    "United States",
+    "United Kingdom"
+  ],
+  "place": "Lexington, Massachusetts, United States",
+  "lat": 42.4473,
+  "lon": -71.2245,
+  "tags": [
+    "war",
+    "revolution"
+  ],
+  "weight": 80,
+  "wikipedia": "Battles of Lexington and Concord",
+  "wikidata": "Q778010"
+}

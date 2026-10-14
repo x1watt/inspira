@@ -1,0 +1,38 @@
+{
+  "id": "event-1957-03-25-treaty-of-rome",
+  "title": "The Treaty of Rome creates the European Economic Community",
+  "year": 1957,
+  "month": 3,
+  "day": 25,
+  "calendar": "gregorian",
+  "summary": "Six Western European countries signed the Treaty of Rome, founding the European Economic Community and Euratom.",
+  "reason": "After the coal and steel community, governments wanted a common market to drive growth and bind Europe together.",
+  "significance": "The EEC grew into the European Union.",
+  "participants": [
+    "France",
+    "West Germany",
+    "Italy",
+    "Belgium",
+    "Netherlands",
+    "Luxembourg",
+    "Paul-Henri Spaak"
+  ],
+  "countries": [
+    "Italy",
+    "France",
+    "Germany",
+    "Belgium",
+    "Netherlands",
+    "Luxembourg"
+  ],
+  "place": "Palazzo dei Conservatori, Rome, Italy",
+  "lat": 41.8933,
+  "lon": 12.4828,
+  "tags": [
+    "economy",
+    "diplomacy"
+  ],
+  "weight": 75,
+  "wikipedia": "Treaty of Rome",
+  "wikidata": "Q167457"
+}

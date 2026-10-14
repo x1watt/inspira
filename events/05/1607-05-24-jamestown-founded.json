@@ -1,0 +1,29 @@
+{
+  "id": "event-1607-05-24-jamestown-founded",
+  "title": "English colonists found Jamestown in Virginia",
+  "year": 1607,
+  "month": 5,
+  "day": 24,
+  "calendar": "gregorian",
+  "summary": "About one hundred settlers sent by the Virginia Company landed on a peninsula of the James River and founded the fort of Jamestown.",
+  "reason": "The company hoped to profit from gold, trade and land in North America and to rival Spain's American empire.",
+  "significance": "Jamestown became the first permanent English settlement in the Americas.",
+  "participants": [
+    "Virginia Company of London",
+    "John Smith",
+    "Christopher Newport"
+  ],
+  "countries": [
+    "United States",
+    "United Kingdom"
+  ],
+  "place": "Jamestown, Virginia, United States",
+  "lat": 37.209,
+  "lon": -76.7774,
+  "tags": [
+    "exploration",
+    "politics"
+  ],
+  "weight": 72,
+  "wikipedia": "Jamestown"
+}

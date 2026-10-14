@@ -1,0 +1,27 @@
+{
+  "id": "event-1607-02-24-lorfeo-premiere",
+  "title": "Monteverdi's L'Orfeo premieres in Mantua",
+  "year": 1607,
+  "month": 2,
+  "day": 24,
+  "calendar": "gregorian",
+  "summary": "Claudio Monteverdi's opera L'Orfeo, telling the myth of Orpheus, was first performed at the ducal court of Mantua.",
+  "reason": "The Gonzaga court sponsored the new art of sung drama that Florentine composers had begun a few years earlier.",
+  "significance": "It is the earliest opera still regularly performed and set the model for the form.",
+  "participants": [
+    "Claudio Monteverdi",
+    "Francesco Gonzaga"
+  ],
+  "countries": [
+    "Italy"
+  ],
+  "place": "Ducal Palace, Mantua, Italy",
+  "lat": 45.16,
+  "lon": 10.8,
+  "tags": [
+    "culture"
+  ],
+  "weight": 55,
+  "wikipedia": "L'Orfeo",
+  "wikidata": "Q724008"
+}

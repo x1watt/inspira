@@ -1,0 +1,31 @@
+{
+  "id": "event-1943-07-05-battle-of-kursk",
+  "title": "Battle of Kursk begins",
+  "year": 1943,
+  "month": 7,
+  "day": 5,
+  "calendar": "gregorian",
+  "summary": "Germany launched Operation Citadel against the Soviet salient around Kursk, leading to one of the largest tank battles in history. The Red Army absorbed the attack and then counterattacked.",
+  "reason": "Hitler hoped a victory would regain the initiative after Stalingrad, but the Soviets knew the plan and had built deep defences.",
+  "significance": "It was Germany's last major offensive in the east, after which the Red Army advanced almost without pause.",
+  "participants": [
+    "Red Army",
+    "Wehrmacht",
+    "Georgy Zhukov",
+    "Erich von Manstein",
+    "Walter Model"
+  ],
+  "countries": [
+    "Russia",
+    "Germany"
+  ],
+  "place": "Kursk, Russia",
+  "lat": 51.7304,
+  "lon": 36.1926,
+  "tags": [
+    "war"
+  ],
+  "weight": 78,
+  "wikipedia": "Battle of Kursk",
+  "wikidata": "Q130861"
+}

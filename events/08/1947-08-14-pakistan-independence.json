@@ -1,0 +1,28 @@
+{
+  "id": "event-1947-08-14-pakistan-independence",
+  "title": "Pakistan is created as an independent state",
+  "year": 1947,
+  "month": 8,
+  "day": 14,
+  "calendar": "gregorian",
+  "summary": "Pakistan came into being as a separate dominion for the Muslim majority areas of British India, with Muhammad Ali Jinnah as governor general.",
+  "reason": "The Muslim League had demanded a separate homeland, and Britain agreed to partition the subcontinent.",
+  "significance": "Partition caused one of the largest migrations in history and lasting conflict with India.",
+  "participants": [
+    "Muhammad Ali Jinnah",
+    "All-India Muslim League"
+  ],
+  "countries": [
+    "Pakistan",
+    "United Kingdom"
+  ],
+  "place": "Karachi, Pakistan",
+  "lat": 24.8607,
+  "lon": 67.0011,
+  "tags": [
+    "politics"
+  ],
+  "weight": 70,
+  "wikipedia": "Independence Day (Pakistan)",
+  "wikidata": "Q2007314"
+}

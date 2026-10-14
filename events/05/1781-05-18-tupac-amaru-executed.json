@@ -1,0 +1,30 @@
+{
+  "id": "event-1781-05-18-tupac-amaru-executed",
+  "title": "Tupac Amaru II is executed in Cusco",
+  "year": 1781,
+  "month": 5,
+  "day": 18,
+  "calendar": "gregorian",
+  "summary": "Spanish authorities executed Tupac Amaru II, leader of the largest indigenous uprising in colonial Spanish America, in the main square of Cusco.",
+  "reason": "He had led a rebellion against forced labour, taxes and abuses by colonial officials.",
+  "significance": "He became a lasting symbol of indigenous resistance and Latin American independence.",
+  "participants": [
+    "Tupac Amaru II",
+    "Viceroyalty of Peru",
+    "Micaela Bastidas"
+  ],
+  "countries": [
+    "Peru",
+    "Spain"
+  ],
+  "place": "Plaza de Armas, Cusco, Peru",
+  "lat": -13.5167,
+  "lon": -71.9786,
+  "tags": [
+    "revolution",
+    "rights"
+  ],
+  "weight": 55,
+  "wikipedia": "Túpac Amaru II",
+  "wikidata": "Q315937"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "event-1287-12-14-st-lucias-flood",
+  "title": "St. Lucia's flood drowns thousands in the Low Countries",
+  "year": 1287,
+  "month": 12,
+  "day": 14,
+  "calendar": "julian",
+  "summary": "A storm surge on the North Sea broke through dunes and dikes in the Netherlands and northern Germany, killing tens of thousands of people.",
+  "reason": "A powerful storm drove the sea over low lying land already weakened by earlier floods.",
+  "significance": "It is one of the deadliest floods in history and greatly widened the Zuiderzee.",
+  "participants": [
+    "County of Holland",
+    "Frisia"
+  ],
+  "countries": [
+    "Netherlands",
+    "Germany"
+  ],
+  "place": "Zuiderzee coast, Netherlands",
+  "lat": 52.6,
+  "lon": 5.3,
+  "tags": [
+    "disaster"
+  ],
+  "weight": 50,
+  "wikipedia": "St. Lucia's flood",
+  "wikidata": "Q493534"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "event-1876-12-23-ottoman-constitution",
+  "title": "Ottoman Empire adopts its first constitution",
+  "year": 1876,
+  "month": 12,
+  "day": 23,
+  "calendar": "gregorian",
+  "summary": "Sultan Abdul Hamid II promulgated a constitution creating an elected parliament, opening the First Constitutional Era.",
+  "reason": "Reformers led by Midhat Pasha wanted limited monarchy, and the government hoped to head off European intervention during the Balkan crisis.",
+  "significance": "It was the first constitution in the Muslim world, though the sultan suspended it in 1878.",
+  "participants": [
+    "Abdul Hamid II",
+    "Midhat Pasha",
+    "Young Ottomans",
+    "Ottoman Empire"
+  ],
+  "countries": [
+    "Turkey"
+  ],
+  "place": "Istanbul, Turkey",
+  "lat": 41.0082,
+  "lon": 28.9784,
+  "tags": [
+    "politics",
+    "law"
+  ],
+  "weight": 55,
+  "wikipedia": "Constitution of the Ottoman Empire"
+}

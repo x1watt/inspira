@@ -1,0 +1,32 @@
+{
+  "id": "event-1494-06-07-treaty-of-tordesillas",
+  "title": "Spain and Portugal divide the world at Tordesillas",
+  "year": 1494,
+  "month": 6,
+  "day": 7,
+  "calendar": "julian",
+  "summary": "Castile and Portugal agreed on a line 370 leagues west of the Cape Verde islands: new lands west of it would go to Spain and lands east of it to Portugal.",
+  "reason": "Columbus's voyage created a dispute over newly found lands, and both crowns wanted to avoid war.",
+  "significance": "It shaped the colonial map, explaining why Brazil speaks Portuguese and most of Latin America Spanish.",
+  "participants": [
+    "Crown of Castile",
+    "Kingdom of Portugal",
+    "Ferdinand II of Aragon",
+    "Isabella I of Castile",
+    "John II of Portugal"
+  ],
+  "countries": [
+    "Spain",
+    "Portugal"
+  ],
+  "place": "Tordesillas, Valladolid, Spain",
+  "lat": 41.5,
+  "lon": -5.0,
+  "tags": [
+    "diplomacy",
+    "exploration"
+  ],
+  "weight": 78,
+  "wikipedia": "Treaty of Tordesillas",
+  "wikidata": "Q180897"
+}

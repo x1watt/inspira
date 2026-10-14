@@ -1,0 +1,29 @@
+{
+  "id": "event-1926-07-09-northern-expedition",
+  "title": "Chiang Kai-shek launches the Northern Expedition",
+  "year": 1926,
+  "month": 7,
+  "day": 9,
+  "calendar": "gregorian",
+  "summary": "The National Revolutionary Army under Chiang Kai-shek set out from Guangzhou on a military campaign to defeat the warlords and unify China.",
+  "reason": "The Kuomintang, allied with the Communists and Soviet advisers, aimed to end warlord rule over most of China.",
+  "significance": "It brought China under nominal Nationalist rule by 1928 and ended the Beiyang government.",
+  "participants": [
+    "Chiang Kai-shek",
+    "National Revolutionary Army",
+    "Kuomintang",
+    "Beiyang government"
+  ],
+  "countries": [
+    "China"
+  ],
+  "place": "Guangzhou, China",
+  "lat": 23.1291,
+  "lon": 113.2644,
+  "tags": [
+    "war"
+  ],
+  "weight": 57,
+  "wikipedia": "Northern Expedition",
+  "wikidata": "Q1073476"
+}

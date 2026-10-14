@@ -1,0 +1,32 @@
+{
+  "id": "event-1955-04-18-bandung-conference",
+  "title": "The Bandung Conference opens",
+  "year": 1955,
+  "month": 4,
+  "day": 18,
+  "calendar": "gregorian",
+  "summary": "Leaders of 29 Asian and African countries met at Bandung in Indonesia to promote cooperation and oppose colonialism.",
+  "reason": "Newly independent states wanted a voice outside the rival Cold War blocs.",
+  "significance": "It laid the ground for the Non-Aligned Movement.",
+  "participants": [
+    "Sukarno",
+    "Jawaharlal Nehru",
+    "Zhou Enlai",
+    "Gamal Abdel Nasser"
+  ],
+  "countries": [
+    "Indonesia",
+    "India",
+    "China",
+    "Egypt"
+  ],
+  "place": "Bandung, Indonesia",
+  "lat": -6.9175,
+  "lon": 107.6191,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 63,
+  "wikipedia": "Bandung Conference",
+  "wikidata": "Q208191"
+}

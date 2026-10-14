@@ -1,0 +1,30 @@
+{
+  "id": "event-1903-11-03-panama-separation",
+  "title": "Panama declares independence from Colombia",
+  "year": 1903,
+  "month": 11,
+  "day": 3,
+  "calendar": "gregorian",
+  "summary": "Panamanian separatists declared independence from Colombia in Panama City, protected by United States warships that blocked Colombian troops from landing.",
+  "reason": "Colombia's Senate had rejected a treaty letting the United States build a canal, so Washington backed Panamanian separatists to secure the route.",
+  "significance": "It created the Republic of Panama and opened the way for the American-built Panama Canal.",
+  "participants": [
+    "Panama",
+    "Colombia",
+    "United States",
+    "Theodore Roosevelt"
+  ],
+  "countries": [
+    "Panama",
+    "Colombia",
+    "United States"
+  ],
+  "place": "Panama City, Panama",
+  "lat": 8.9824,
+  "lon": -79.5199,
+  "tags": [
+    "politics"
+  ],
+  "weight": 52,
+  "wikipedia": "Secession of Panama from Colombia"
+}

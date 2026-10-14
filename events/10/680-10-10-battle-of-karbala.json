@@ -1,0 +1,30 @@
+{
+  "id": "event-680-10-10-battle-of-karbala",
+  "title": "Husayn ibn Ali is killed at the Battle of Karbala",
+  "year": 680,
+  "month": 10,
+  "day": 10,
+  "calendar": "julian",
+  "summary": "A small group led by Husayn ibn Ali, grandson of Muhammad, was surrounded and killed by an Umayyad army at Karbala. The women and children of his family were taken captive.",
+  "reason": "Husayn refused to accept Yazid I as caliph and was travelling to Kufa, where supporters had invited him to lead them.",
+  "significance": "His death is mourned every year on Ashura and became central to Shia Islam.",
+  "participants": [
+    "Husayn ibn Ali",
+    "Yazid I",
+    "Umayyad Caliphate",
+    "Umar ibn Sa'd"
+  ],
+  "countries": [
+    "Iraq"
+  ],
+  "place": "Karbala, Iraq",
+  "lat": 32.616,
+  "lon": 44.0249,
+  "tags": [
+    "religion",
+    "war"
+  ],
+  "weight": 75,
+  "wikipedia": "Battle of Karbala",
+  "wikidata": "Q626058"
+}

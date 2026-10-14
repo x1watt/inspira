@@ -1,0 +1,27 @@
+{
+  "id": "event-1911-10-10-wuchang-uprising",
+  "title": "The Wuchang Uprising begins the Xinhai Revolution",
+  "year": 1911,
+  "month": 10,
+  "day": 10,
+  "calendar": "gregorian",
+  "summary": "Revolutionary soldiers of the New Army mutinied in Wuchang and seized the city, setting off a chain of provincial uprisings against the Qing dynasty.",
+  "reason": "Anti-Manchu and republican groups had spread within the army, and the accidental discovery of their plans forced them to act early.",
+  "significance": "It led to the fall of the Qing dynasty and the end of over two thousand years of imperial rule in China.",
+  "participants": [
+    "Tongmenghui",
+    "New Army",
+    "Qing dynasty"
+  ],
+  "countries": [
+    "China"
+  ],
+  "place": "Wuchang, Wuhan, China",
+  "lat": 30.55,
+  "lon": 114.3,
+  "tags": [
+    "revolution"
+  ],
+  "weight": 72,
+  "wikipedia": "Wuchang Uprising"
+}

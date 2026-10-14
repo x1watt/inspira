@@ -1,0 +1,28 @@
+{
+  "id": "event-1976-07-20-viking-1-landing",
+  "title": "Viking 1 lands on Mars",
+  "year": 1976,
+  "month": 7,
+  "day": 20,
+  "calendar": "gregorian",
+  "summary": "NASA's Viking 1 lander touched down on Mars and sent back the first photographs from the planet's surface.",
+  "reason": "NASA wanted to study Mars and search for signs of life.",
+  "significance": "It was the first fully successful landing on Mars.",
+  "participants": [
+    "NASA",
+    "Jet Propulsion Laboratory"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Chryse Planitia, Mars",
+  "lat": null,
+  "lon": null,
+  "tags": [
+    "exploration",
+    "science"
+  ],
+  "weight": 55,
+  "wikipedia": "Viking 1",
+  "wikidata": "Q210199"
+}

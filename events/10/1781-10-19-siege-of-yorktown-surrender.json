@@ -1,0 +1,32 @@
+{
+  "id": "event-1781-10-19-siege-of-yorktown-surrender",
+  "title": "Cornwallis surrenders at Yorktown",
+  "year": 1781,
+  "month": 10,
+  "day": 19,
+  "calendar": "gregorian",
+  "summary": "The British army of Lord Cornwallis surrendered to American and French forces after a siege at Yorktown, Virginia.",
+  "reason": "Washington and Rochambeau trapped Cornwallis while a French fleet blocked rescue by sea.",
+  "significance": "It effectively decided the American Revolutionary War.",
+  "participants": [
+    "George Washington",
+    "Comte de Rochambeau",
+    "Lord Cornwallis",
+    "Continental Army",
+    "Kingdom of France"
+  ],
+  "countries": [
+    "United States",
+    "France",
+    "United Kingdom"
+  ],
+  "place": "Yorktown, Virginia, United States",
+  "lat": 37.2388,
+  "lon": -76.5097,
+  "tags": [
+    "war"
+  ],
+  "weight": 80,
+  "wikipedia": "Siege of Yorktown",
+  "wikidata": "Q459447"
+}

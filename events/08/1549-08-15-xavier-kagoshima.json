@@ -1,0 +1,32 @@
+{
+  "id": "event-1549-08-15-xavier-kagoshima",
+  "title": "Francis Xavier brings Christianity to Japan",
+  "year": 1549,
+  "month": 8,
+  "day": 15,
+  "calendar": "julian",
+  "summary": "The Jesuit missionary Francis Xavier landed at Kagoshima with the Japanese convert Anjiro and began the first Christian mission in Japan.",
+  "reason": "Xavier had met Anjiro in Malacca and hoped Japan would be fertile ground for conversion.",
+  "significance": "It began the Christian century in Japan, which saw hundreds of thousands of converts before persecution.",
+  "participants": [
+    "Francis Xavier",
+    "Society of Jesus",
+    "Anjiro",
+    "Shimazu Takahisa"
+  ],
+  "countries": [
+    "Japan",
+    "Spain",
+    "Portugal"
+  ],
+  "place": "Kagoshima, Japan",
+  "lat": 31.597,
+  "lon": 130.557,
+  "tags": [
+    "religion",
+    "exploration"
+  ],
+  "weight": 52,
+  "wikipedia": "Francis Xavier",
+  "wikidata": "Q163900"
+}

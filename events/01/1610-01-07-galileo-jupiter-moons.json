@@ -1,0 +1,26 @@
+{
+  "id": "event-1610-01-07-galileo-jupiter-moons",
+  "title": "Galileo discovers the moons of Jupiter",
+  "year": 1610,
+  "month": 1,
+  "day": 7,
+  "calendar": "gregorian",
+  "summary": "Looking through his improved telescope in Padua, Galileo Galilei saw small points of light beside Jupiter, which over the following nights he identified as moons orbiting it.",
+  "reason": "Galileo had built telescopes far stronger than the first Dutch models and turned them systematically to the sky.",
+  "significance": "Bodies orbiting another planet undermined the Earth-centered model and supported Copernicus.",
+  "participants": [
+    "Galileo Galilei"
+  ],
+  "countries": [
+    "Italy"
+  ],
+  "place": "Padua, Italy",
+  "lat": 45.4064,
+  "lon": 11.8768,
+  "tags": [
+    "science"
+  ],
+  "weight": 80,
+  "wikipedia": "Galilean moons",
+  "wikidata": "Q3203"
+}

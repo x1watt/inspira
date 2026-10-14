@@ -1,0 +1,31 @@
+{
+  "id": "event-1822-05-24-battle-of-pichincha",
+  "title": "Battle of Pichincha frees Quito",
+  "year": 1822,
+  "month": 5,
+  "day": 24,
+  "calendar": "gregorian",
+  "summary": "Patriot troops under Antonio José de Sucre defeated the royalist garrison on the slopes of the Pichincha volcano above Quito.",
+  "reason": "Bolívar and Sucre sought to remove the last royalist stronghold between Gran Colombia and Peru.",
+  "significance": "It brought the territory of modern Ecuador into independent Gran Colombia.",
+  "participants": [
+    "Antonio José de Sucre",
+    "Gran Colombia",
+    "Spanish Empire"
+  ],
+  "countries": [
+    "Ecuador",
+    "Colombia",
+    "Spain"
+  ],
+  "place": "Slopes of Pichincha, Quito, Ecuador",
+  "lat": -0.2,
+  "lon": -78.53,
+  "tags": [
+    "war",
+    "revolution"
+  ],
+  "weight": 50,
+  "wikipedia": "Battle of Pichincha",
+  "wikidata": "Q1402751"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "event-1592-08-14-hansan-island",
+  "title": "Admiral Yi Sun-sin wins the Battle of Hansan Island",
+  "year": 1592,
+  "month": 8,
+  "day": 15,
+  "calendar": "gregorian",
+  "summary": "The Korean fleet under Yi Sun-sin lured a Japanese fleet into open water and destroyed it using a crane wing formation.",
+  "reason": "Japan needed control of Korea's southern sea to supply its armies and link up by sea.",
+  "significance": "It cut Japanese naval supply lines and helped halt the invasion's advance.",
+  "participants": [
+    "Yi Sun-sin",
+    "Joseon",
+    "Wakisaka Yasuharu",
+    "Toyotomi Hideyoshi"
+  ],
+  "countries": [
+    "South Korea",
+    "Japan"
+  ],
+  "place": "Hansan Island, Tongyeong, South Korea",
+  "lat": 34.77,
+  "lon": 128.47,
+  "tags": [
+    "war"
+  ],
+  "weight": 52,
+  "wikipedia": "Battle of Hansan Island",
+  "wikidata": "Q487332"
+}

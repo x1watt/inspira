@@ -1,0 +1,26 @@
+{
+  "id": "event-1906-04-18-san-francisco-earthquake",
+  "title": "Earthquake and fire devastate San Francisco",
+  "year": 1906,
+  "month": 4,
+  "day": 18,
+  "calendar": "gregorian",
+  "summary": "A major earthquake on the San Andreas Fault struck northern California, and the fires that followed destroyed most of San Francisco, killing around 3,000 people.",
+  "reason": "Stress built up along the San Andreas Fault was released in a sudden rupture hundreds of kilometers long.",
+  "significance": "It was one of the worst disasters in American history and advanced the science of earthquakes.",
+  "participants": [
+    "San Francisco"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "San Francisco, United States",
+  "lat": 37.7749,
+  "lon": -122.4194,
+  "tags": [
+    "disaster"
+  ],
+  "weight": 52,
+  "wikipedia": "1906 San Francisco earthquake",
+  "wikidata": "Q211386"
+}

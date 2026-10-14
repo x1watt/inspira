@@ -1,0 +1,29 @@
+{
+  "id": "event-1736-03-08-nader-shah-crowned",
+  "title": "Nader Shah is crowned king of Persia",
+  "year": 1736,
+  "month": 3,
+  "day": 8,
+  "calendar": "gregorian",
+  "summary": "At a great assembly on the Mughan plain, the general Nader was proclaimed Shah of Iran, ending the Safavid dynasty.",
+  "reason": "Nader had driven out the Afghans, Ottomans and Russians, and was already the real ruler behind a child Safavid shah.",
+  "significance": "He founded the Afsharid dynasty and briefly made Persia the strongest power in Asia west of China.",
+  "participants": [
+    "Nader Shah",
+    "Afsharid Iran",
+    "Safavid Iran"
+  ],
+  "countries": [
+    "Iran",
+    "Azerbaijan"
+  ],
+  "place": "Mughan plain, Azerbaijan",
+  "lat": 39.7,
+  "lon": 48.0,
+  "tags": [
+    "politics"
+  ],
+  "weight": 58,
+  "wikipedia": "Nader Shah",
+  "wikidata": "Q192868"
+}

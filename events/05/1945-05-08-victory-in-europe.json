@@ -1,0 +1,33 @@
+{
+  "id": "event-1945-05-08-victory-in-europe",
+  "title": "Germany surrenders: Victory in Europe Day",
+  "year": 1945,
+  "month": 5,
+  "day": 8,
+  "calendar": "gregorian",
+  "summary": "The German unconditional surrender took effect, and the Allies celebrated Victory in Europe. A final surrender document was signed late that evening in Berlin-Karlshorst.",
+  "reason": "Hitler was dead, Berlin had fallen and German armies had collapsed on every front.",
+  "significance": "It ended the Second World War in Europe after almost six years.",
+  "participants": [
+    "Nazi Germany",
+    "Wilhelm Keitel",
+    "Georgy Zhukov",
+    "Allies of World War II"
+  ],
+  "countries": [
+    "Germany",
+    "United Kingdom",
+    "United States",
+    "Russia",
+    "France"
+  ],
+  "place": "Berlin-Karlshorst, Berlin, Germany",
+  "lat": 52.487,
+  "lon": 13.526,
+  "tags": [
+    "war"
+  ],
+  "weight": 90,
+  "wikipedia": "Victory in Europe Day",
+  "wikidata": "Q622365"
+}

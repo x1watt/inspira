@@ -1,0 +1,28 @@
+{
+  "id": "event-1954-06-27-obninsk-power-plant",
+  "title": "Obninsk becomes the first nuclear plant to power a grid",
+  "year": 1954,
+  "month": 6,
+  "day": 27,
+  "calendar": "gregorian",
+  "summary": "The nuclear power plant at Obninsk near Moscow was connected to the electricity grid, the first in the world to do so.",
+  "reason": "Soviet scientists wanted to show a peaceful use of atomic energy.",
+  "significance": "It began the age of civil nuclear power.",
+  "participants": [
+    "Soviet Union",
+    "Igor Kurchatov"
+  ],
+  "countries": [
+    "Russia"
+  ],
+  "place": "Obninsk, Russia",
+  "lat": 55.0844,
+  "lon": 36.57,
+  "tags": [
+    "technology",
+    "science"
+  ],
+  "weight": 53,
+  "wikipedia": "Obninsk Nuclear Power Plant",
+  "wikidata": "Q1739453"
+}

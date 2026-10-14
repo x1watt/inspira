@@ -1,0 +1,29 @@
+{
+  "id": "event-1806-08-06-dissolution-holy-roman-empire",
+  "title": "Holy Roman Empire is dissolved",
+  "year": 1806,
+  "month": 8,
+  "day": 6,
+  "calendar": "gregorian",
+  "summary": "Emperor Francis II abdicated the imperial title and released the states of the empire from their duties, ending the Holy Roman Empire.",
+  "reason": "Napoleon's victories and the creation of the Confederation of the Rhine had made the empire powerless.",
+  "significance": "It ended a political order that had lasted about a thousand years.",
+  "participants": [
+    "Francis II",
+    "Holy Roman Empire",
+    "Napoleon Bonaparte"
+  ],
+  "countries": [
+    "Austria",
+    "Germany"
+  ],
+  "place": "Vienna, Austria",
+  "lat": 48.2082,
+  "lon": 16.3738,
+  "tags": [
+    "politics"
+  ],
+  "weight": 75,
+  "wikipedia": "Dissolution of the Holy Roman Empire",
+  "wikidata": "Q19902208"
+}

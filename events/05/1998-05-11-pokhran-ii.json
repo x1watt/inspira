@@ -1,0 +1,29 @@
+{
+  "id": "event-1998-05-11-pokhran-ii",
+  "title": "India carries out the Pokhran-II nuclear tests",
+  "year": 1998,
+  "month": 5,
+  "day": 11,
+  "calendar": "gregorian",
+  "summary": "India exploded three nuclear devices at the Pokhran range, followed by two more two days later, and declared itself a nuclear state.",
+  "reason": "India's new BJP government saw nuclear arms as a deterrent against China and Pakistan.",
+  "significance": "It prompted Pakistan's tests and made South Asia openly nuclear.",
+  "participants": [
+    "India",
+    "Atal Bihari Vajpayee",
+    "A. P. J. Abdul Kalam"
+  ],
+  "countries": [
+    "India"
+  ],
+  "place": "Pokhran, Rajasthan, India",
+  "lat": 27.095,
+  "lon": 71.752,
+  "tags": [
+    "war",
+    "technology"
+  ],
+  "weight": 62,
+  "wikipedia": "Pokhran-II",
+  "wikidata": "Q3270072"
+}

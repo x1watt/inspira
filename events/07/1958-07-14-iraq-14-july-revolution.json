@@ -1,0 +1,28 @@
+{
+  "id": "event-1958-07-14-iraq-14-july-revolution",
+  "title": "The 14 July Revolution overthrows Iraq's monarchy",
+  "year": 1958,
+  "month": 7,
+  "day": 14,
+  "calendar": "gregorian",
+  "summary": "Army officers led by Abd al-Karim Qasim seized Baghdad and killed King Faisal II and much of the royal family.",
+  "reason": "Many Iraqis resented the pro-Western monarchy and its Baghdad Pact, inspired by Nasser's Arab nationalism.",
+  "significance": "It ended Iraq's Hashemite monarchy and the Baghdad Pact's centre.",
+  "participants": [
+    "Abd al-Karim Qasim",
+    "Faisal II of Iraq",
+    "Nuri al-Said"
+  ],
+  "countries": [
+    "Iraq"
+  ],
+  "place": "Baghdad, Iraq",
+  "lat": 33.3152,
+  "lon": 44.3661,
+  "tags": [
+    "revolution"
+  ],
+  "weight": 53,
+  "wikipedia": "14 July Revolution",
+  "wikidata": "Q2988530"
+}

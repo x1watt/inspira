@@ -1,0 +1,28 @@
+{
+  "id": "event-1983-01-01-tcp-ip-flag-day",
+  "title": "ARPANET switches to TCP/IP",
+  "year": 1983,
+  "month": 1,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "ARPANET switched permanently to the TCP/IP protocols, allowing different networks to connect to one another.",
+  "reason": "Vint Cerf and Bob Kahn had designed TCP/IP to link many separate networks.",
+  "significance": "It is often seen as the birth of the Internet.",
+  "participants": [
+    "Vint Cerf",
+    "Bob Kahn",
+    "ARPA"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "United States",
+  "lat": null,
+  "lon": null,
+  "tags": [
+    "technology"
+  ],
+  "weight": 65,
+  "wikipedia": "Internet protocol suite",
+  "wikidata": "Q81414"
+}

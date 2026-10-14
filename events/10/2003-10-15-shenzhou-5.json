@@ -1,0 +1,28 @@
+{
+  "id": "event-2003-10-15-shenzhou-5",
+  "title": "Yang Liwei becomes China's first astronaut",
+  "year": 2003,
+  "month": 10,
+  "day": 15,
+  "calendar": "gregorian",
+  "summary": "China launched Shenzhou 5 with Yang Liwei aboard, who orbited Earth fourteen times.",
+  "reason": "China had pursued crewed spaceflight since 1992 as a symbol of national power.",
+  "significance": "China became the third country to send humans into space on its own.",
+  "participants": [
+    "Yang Liwei",
+    "China National Space Administration"
+  ],
+  "countries": [
+    "China"
+  ],
+  "place": "Jiuquan Satellite Launch Center, China",
+  "lat": 40.9606,
+  "lon": 100.2983,
+  "tags": [
+    "exploration",
+    "technology"
+  ],
+  "weight": 65,
+  "wikipedia": "Shenzhou 5",
+  "wikidata": "Q378417"
+}

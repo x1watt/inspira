@@ -1,0 +1,30 @@
+{
+  "id": "event-1619-05-30-batavia-founded",
+  "title": "Jan Pieterszoon Coen captures Jayakarta and founds Batavia",
+  "year": 1619,
+  "month": 5,
+  "day": 30,
+  "calendar": "gregorian",
+  "summary": "Dutch forces under Jan Pieterszoon Coen took the port of Jayakarta on Java, razed it and built Batavia on its site.",
+  "reason": "The Dutch East India Company needed a fortified headquarters in Asia and wanted to control the trade routes of the archipelago.",
+  "significance": "Batavia, today Jakarta, became the center of Dutch power in Asia for more than three centuries.",
+  "participants": [
+    "Jan Pieterszoon Coen",
+    "Dutch East India Company",
+    "Sultanate of Banten"
+  ],
+  "countries": [
+    "Indonesia",
+    "Netherlands"
+  ],
+  "place": "Jakarta, Indonesia",
+  "lat": -6.1352,
+  "lon": 106.8133,
+  "tags": [
+    "war",
+    "economy"
+  ],
+  "weight": 64,
+  "wikipedia": "Batavia, Dutch East Indies",
+  "wikidata": "Q1199713"
+}

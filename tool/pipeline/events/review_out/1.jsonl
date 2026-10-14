@@ -1,0 +1,46 @@
+{"key": "bc539-10-12-fall-of-babylon", "action": "keep", "note": "Article: Babylonian Chronicle 16 Tashritu equals 12 October 539 BC Julian."}
+{"key": "220-12-11-cao-pi-founds-cao-wei", "action": "keep", "note": "Article gives 11 December 220 for Emperor Xian's abdication to Cao Pi."}
+{"key": "624-03-13-battle-of-badr", "action": "fix", "fields": {"lat": 23.7333, "lon": 38.7667}, "note": "Article gives 13 March 624; coords set to the article's battlefield coords."}
+{"key": "929-01-16-caliphate-of-cordoba", "action": "keep", "note": "Abd al-Rahman III article gives proclamation as caliph on 16 January 929."}
+{"key": "1271-12-18-yuan-dynasty-proclaimed", "action": "keep", "note": "Mongol Empire and List of emperors of the Yuan dynasty give the edict as 18 December 1271."}
+{"key": "1389-06-15-kosovo", "action": "fix", "fields": {"lat": 42.7175, "lon": 21.085}, "note": "Article gives 15 June 1389 (Julian), 28 June is the Gregorian Vidovdan; coords from article."}
+{"key": "1521-05-25-edict-of-worms", "action": "keep", "note": "Edict issued 25 May 1521 per Diet of Worms article; Wikidata 26 May is off by one."}
+{"key": "1540-09-27-jesuits-approved", "action": "keep", "note": "Bull promulgated 27 September 1540 per article; Wikidata date is wrong."}
+{"key": "1601-01-10-east-india-company-chartered", "action": "keep", "note": "Charter 31 December 1600 Old Style equals 10 January 1601 Gregorian."}
+{"key": "1619-05-30-batavia-founded", "action": "keep", "note": "Article: Coen razed Jayakarta on 30 May 1619, two days after 28 May return."}
+{"key": "1682-04-09-la-salle-claims-louisiana", "action": "fix", "fields": {"wikipedia": "René-Robert Cavelier, Sieur de La Salle"}, "note": "La Salle article gives the claim on April 9, 1682; Louisiana article has only April 1682."}
+{"key": "1698-12-13-fall-of-fort-jesus", "action": "fix", "fields": {"wikipedia": "Siege of Mombasa (1696-1698)"}, "note": "Siege article gives fall of Fort Jesus on 13 December 1698; Wikidata date is construction."}
+{"key": "1755-11-01-lisbon-earthquake", "action": "keep", "note": "Lisbon was the city destroyed; Wikidata coords are the offshore epicentre."}
+{"key": "1770-04-29-cook-botany-bay", "action": "keep", "note": "Article: first landfall at Botany Bay on 29 April 1770."}
+{"key": "1793-09-14-macartney-meets-qianlong", "action": "keep", "note": "Article: meeting with the Qianlong Emperor at Chengde on 14 September 1793."}
+{"key": "1808-03-07-portuguese-court-rio", "action": "keep", "note": "John VI of Portugal article: his ship entered Guanabara Bay on 7 March 1808."}
+{"key": "1830-07-05-invasion-of-algiers", "action": "fix", "fields": {"wikipedia": "Invasion of Algiers (1830)"}, "note": "Article: French troops entered Algiers on July 5, 1830; exact title fixed."}
+{"key": "1853-03-19-taiping-capture-nanjing", "action": "fix", "fields": {"wikipedia": "Battle of Nanjing (1853)"}, "note": "Old title resolved to Nanjing Massacre; correct article gives fall of Nanjing on March 19, 1853."}
+{"key": "1864-07-19-third-battle-of-nanking", "action": "fix", "fields": {"wikipedia": "Third Battle of Nanjing"}, "note": "Article: walls breached the afternoon after the night of July 18, i.e. 19 July 1864."}
+{"key": "1868-01-03-meiji-restoration", "action": "keep", "note": "Article: restoration declared 3 January 1868; Wikidata date is the Meiji Constitution."}
+{"key": "1899-10-11-second-boer-war", "action": "keep", "note": "War declared 11 October 1899 by the Boer republics; Wikidata coords are a country centroid."}
+{"key": "1905-06-30-special-relativity", "action": "keep", "note": "Annus mirabilis papers: relativity paper received 30 June 1905."}
+{"key": "1911-07-24-machu-picchu", "action": "keep", "note": "Hiram Bingham III article: reached Machu Picchu on July 24, 1911."}
+{"key": "1915-01-09-gandhi-returns-india", "action": "keep", "note": "Gandhi reached Bombay 9 January 1915 per Indian independence movement and Pravasi Bharatiya Divas."}
+{"key": "1922-10-28-march-on-rome", "action": "keep", "note": "Article: Blackshirts approached Rome on 28 October 1922, the day the march is known by."}
+{"key": "1934-06-30-night-of-the-long-knives", "action": "keep", "note": "Purge began at Bad Wiessee on 30 June 1934; Wikidata coords are Berlin."}
+{"key": "1937-04-26-bombing-of-guernica", "action": "fix", "fields": {"lat": 43.3139, "lon": -2.6783}, "note": "Article gives 26 April 1937; coords from article."}
+{"key": "1939-09-01-invasion-of-poland", "action": "keep", "note": "Westerplatte was the first attack on 1 September 1939; Wikidata coords are a country centroid."}
+{"key": "1940-07-10-battle-of-britain", "action": "keep", "note": "Britain officially dates the battle from 10 July 1940; Wikidata coords are a UK centroid."}
+{"key": "1941-08-14-atlantic-charter", "action": "keep", "note": "Declaration of 14 August 1941 from Argentia on Placentia Bay; our coords are the base."}
+{"key": "1942-12-01-beveridge-report", "action": "drop", "note": "Article says Cabinet chose to publish on 2 December, timeline says 1 December; day not confirmed."}
+{"key": "1945-01-27-auschwitz-liberated", "action": "fix", "fields": {"lat": 50.0358, "lon": 19.1783}, "note": "Liberation on 27 January 1945 per article; Wikidata date is camp opening; coords from article."}
+{"key": "1950-06-25-korean-war-begins", "action": "keep", "note": "Invasion on 25 June 1950 across the 38th parallel; Wikidata coords are wrong."}
+{"key": "1954-06-27-arbenz-resigns", "action": "keep", "note": "Arbenz resigned 27 June 1954 in Guatemala City; Wikidata coords are a country centroid."}
+{"key": "1960-05-22-valdivia-earthquake", "action": "keep", "note": "Article gives 22 May 1960; our coords equal the article's epicentre near Lumaco."}
+{"key": "1964-06-12-rivonia-trial-sentence", "action": "keep", "note": "Sentences handed down on 12 June 1964, the trial's last day; Wikidata date is the start."}
+{"key": "1971-03-25-operation-searchlight", "action": "keep", "note": "Operation began the night of 25 March 1971 per article; Wikidata date is wrong."}
+{"key": "1976-04-01-apple-founded", "action": "keep", "note": "Founded April 1, 1976 at the Jobs home in Los Altos; Wikidata coords are a US centroid."}
+{"key": "1985-09-19-mexico-city-earthquake", "action": "keep", "note": "Mexico City was the devastated city; Wikidata coords are the coastal epicentre."}
+{"key": "1990-08-02-iraq-invades-kuwait", "action": "keep", "note": "Invasion began 2 August 1990; Wikidata dates are wrong or the end of fighting."}
+{"key": "1993-01-01-czechoslovakia-dissolution", "action": "keep", "note": "Federation ended at the close of 31 December 1992; the two states came into being 1 January 1993."}
+{"key": "1997-05-11-deep-blue", "action": "keep", "note": "Article: Game 6 and the match decided on May 11, 1997 at the Equitable Center, NYC."}
+{"key": "2003-02-01-columbia-disaster", "action": "keep", "note": "Broke up 1 February 2003 over Texas; our coords are the East Texas debris area."}
+{"key": "2009-06-13-iran-protests", "action": "keep", "note": "Article: protests began 13 June 2009 in Tehran; Wikidata coords are a country centroid."}
+{"key": "2012-08-06-curiosity-landing", "action": "keep", "note": "Article: landed in Gale crater on August 6, 2012 UTC; Wikidata date is the launch."}
+{"key": "2020-03-11-covid-pandemic", "action": "keep", "note": "WHO declared a pandemic on 11 March 2020 in Geneva; Wikidata dates and coords are the Wuhan outbreak."}

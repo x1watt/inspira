@@ -1,0 +1,32 @@
+{
+  "id": "event-1973-10-06-yom-kippur-war",
+  "title": "Egypt and Syria attack Israel on Yom Kippur",
+  "year": 1973,
+  "month": 10,
+  "day": 6,
+  "calendar": "gregorian",
+  "summary": "Egypt and Syria launched a surprise attack on Israel on the holiest day of the Jewish year, crossing the Suez Canal and entering the Golan Heights.",
+  "reason": "Egypt and Syria wanted to win back territory lost in 1967.",
+  "significance": "The war led to the oil embargo and later to peace between Egypt and Israel.",
+  "participants": [
+    "Egypt",
+    "Syria",
+    "Israel",
+    "Anwar Sadat",
+    "Golda Meir"
+  ],
+  "countries": [
+    "Egypt",
+    "Syria",
+    "Israel"
+  ],
+  "place": "Suez Canal, Egypt",
+  "lat": 30.5852,
+  "lon": 32.2654,
+  "tags": [
+    "war"
+  ],
+  "weight": 65,
+  "wikipedia": "Yom Kippur War",
+  "wikidata": "Q49100"
+}

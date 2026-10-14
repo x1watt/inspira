@@ -1,0 +1,30 @@
+{
+  "id": "event-1941-12-08-japanese-invasion-malaya",
+  "title": "Japan lands in Malaya at Kota Bharu",
+  "year": 1941,
+  "month": 12,
+  "day": 8,
+  "calendar": "gregorian",
+  "summary": "Japanese troops landed at Kota Bharu in north-east Malaya and in southern Thailand, shortly before the attack on Pearl Harbor. They then advanced quickly down the peninsula toward Singapore.",
+  "reason": "Japan wanted the rubber and tin of British Malaya and the naval base of Singapore.",
+  "significance": "It began Japan's conquest of South-East Asia and the collapse of British power in the region.",
+  "participants": [
+    "Empire of Japan",
+    "Tomoyuki Yamashita",
+    "British Malaya",
+    "British Indian Army"
+  ],
+  "countries": [
+    "Malaysia",
+    "Japan",
+    "United Kingdom"
+  ],
+  "place": "Kota Bharu, Kelantan, Malaysia",
+  "lat": 6.1254,
+  "lon": 102.2381,
+  "tags": [
+    "war"
+  ],
+  "weight": 58,
+  "wikipedia": "Malayan campaign"
+}

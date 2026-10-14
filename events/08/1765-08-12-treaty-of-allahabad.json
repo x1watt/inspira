@@ -1,0 +1,30 @@
+{
+  "id": "event-1765-08-12-treaty-of-allahabad",
+  "title": "Treaty of Allahabad grants the Diwani of Bengal",
+  "year": 1765,
+  "month": 8,
+  "day": 12,
+  "calendar": "gregorian",
+  "summary": "Mughal emperor Shah Alam II granted the East India Company the right to collect revenue in Bengal, Bihar and Orissa.",
+  "reason": "After defeat at Buxar, the emperor needed Company protection, and Robert Clive wanted a legal basis for Company rule.",
+  "significance": "It turned a trading company into a territorial power in India.",
+  "participants": [
+    "East India Company",
+    "Robert Clive",
+    "Shah Alam II"
+  ],
+  "countries": [
+    "India",
+    "United Kingdom"
+  ],
+  "place": "Allahabad, Uttar Pradesh, India",
+  "lat": 25.4358,
+  "lon": 81.8463,
+  "tags": [
+    "diplomacy",
+    "economy"
+  ],
+  "weight": 60,
+  "wikipedia": "Treaty of Allahabad",
+  "wikidata": "Q4062556"
+}

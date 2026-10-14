@@ -1,0 +1,28 @@
+{
+  "id": "event-1900-06-20-siege-of-legations",
+  "title": "Boxers and Qing troops besiege the foreign legations in Beijing",
+  "year": 1900,
+  "month": 6,
+  "day": 20,
+  "calendar": "gregorian",
+  "summary": "Boxer fighters and Qing imperial troops began a siege of the Legation Quarter in Beijing, trapping foreign diplomats, soldiers and Chinese Christians for 55 days until an international relief force arrived.",
+  "reason": "Anger at foreign domination, missionaries and economic upheaval fed the anti-foreign Boxer movement, which the Qing court decided to back after the killing of the German minister.",
+  "significance": "The siege provoked the Eight-Nation Alliance intervention and left China saddled with a crushing indemnity that weakened the Qing dynasty further.",
+  "participants": [
+    "Boxers",
+    "Qing dynasty",
+    "Eight-Nation Alliance"
+  ],
+  "countries": [
+    "China"
+  ],
+  "place": "Legation Quarter, Beijing, China",
+  "lat": 39.902,
+  "lon": 116.404,
+  "tags": [
+    "war"
+  ],
+  "weight": 57,
+  "wikipedia": "Siege of the International Legations",
+  "wikidata": "Q4337436"
+}

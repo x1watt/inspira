@@ -1,0 +1,28 @@
+{
+  "id": "event-1996-07-05-dolly-sheep",
+  "title": "Dolly the sheep is born",
+  "year": 1996,
+  "month": 7,
+  "day": 5,
+  "calendar": "gregorian",
+  "summary": "Dolly, the first mammal cloned from an adult cell, was born at the Roslin Institute in Scotland.",
+  "reason": "Researchers sought ways to produce genetically modified livestock for medicine.",
+  "significance": "It proved adult cells could be reprogrammed and launched debates on human cloning.",
+  "participants": [
+    "Ian Wilmut",
+    "Keith Campbell",
+    "Roslin Institute"
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "place": "Roslin Institute, Scotland, United Kingdom",
+  "lat": 55.8555,
+  "lon": -3.1622,
+  "tags": [
+    "science"
+  ],
+  "weight": 70,
+  "wikipedia": "Dolly (sheep)",
+  "wikidata": "Q171433"
+}

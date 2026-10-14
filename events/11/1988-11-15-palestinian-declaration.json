@@ -1,0 +1,30 @@
+{
+  "id": "event-1988-11-15-palestinian-declaration",
+  "title": "Yasser Arafat proclaims a State of Palestine",
+  "year": 1988,
+  "month": 11,
+  "day": 15,
+  "calendar": "gregorian",
+  "summary": "The Palestine National Council meeting in Algiers adopted a declaration of independence for a State of Palestine.",
+  "reason": "The First Intifada and Jordan's withdrawal of its claim to the West Bank pushed the PLO to act.",
+  "significance": "It implied PLO acceptance of a two state solution.",
+  "participants": [
+    "Yasser Arafat",
+    "Palestine National Council",
+    "Palestine Liberation Organization"
+  ],
+  "countries": [
+    "Palestine",
+    "Algeria"
+  ],
+  "place": "Algiers, Algeria",
+  "lat": 36.7538,
+  "lon": 3.0588,
+  "tags": [
+    "politics",
+    "diplomacy"
+  ],
+  "weight": 51,
+  "wikipedia": "Palestinian Declaration of Independence",
+  "wikidata": "Q1816561"
+}

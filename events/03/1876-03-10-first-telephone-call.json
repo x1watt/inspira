@@ -1,0 +1,27 @@
+{
+  "id": "event-1876-03-10-first-telephone-call",
+  "title": "Alexander Graham Bell makes the first telephone call",
+  "year": 1876,
+  "month": 3,
+  "day": 10,
+  "calendar": "gregorian",
+  "summary": "In his Boston laboratory, Bell spoke the words Mr. Watson, come here, I want to see you into his new instrument and his assistant heard them in another room.",
+  "reason": "Bell, a teacher of the deaf, had been working on transmitting speech electrically and had received his patent three days earlier.",
+  "significance": "It started the telephone, which transformed personal and business communication.",
+  "participants": [
+    "Alexander Graham Bell",
+    "Thomas A. Watson"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Exeter Place, Boston, Massachusetts, United States",
+  "lat": 42.357,
+  "lon": -71.059,
+  "tags": [
+    "technology"
+  ],
+  "weight": 70,
+  "wikipedia": "Invention of the telephone",
+  "wikidata": "Q13443401"
+}

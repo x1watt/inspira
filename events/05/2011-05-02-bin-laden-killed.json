@@ -1,0 +1,29 @@
+{
+  "id": "event-2011-05-02-bin-laden-killed",
+  "title": "Osama bin Laden is killed",
+  "year": 2011,
+  "month": 5,
+  "day": 2,
+  "calendar": "gregorian",
+  "summary": "US Navy SEALs raided a compound in Abbottabad, Pakistan, and killed al-Qaeda leader Osama bin Laden.",
+  "reason": "US intelligence had traced him through a courier after nearly ten years of searching.",
+  "significance": "It closed a chapter of the war on terror that began on 11 September 2001.",
+  "participants": [
+    "United States Navy SEALs",
+    "Osama bin Laden",
+    "Barack Obama"
+  ],
+  "countries": [
+    "Pakistan",
+    "United States"
+  ],
+  "place": "Abbottabad, Pakistan",
+  "lat": 34.1694,
+  "lon": 73.2425,
+  "tags": [
+    "war"
+  ],
+  "weight": 70,
+  "wikipedia": "Killing of Osama bin Laden",
+  "wikidata": "Q19085"
+}

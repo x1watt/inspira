@@ -1,0 +1,30 @@
+{
+  "id": "event-1520-11-08-stockholm-bloodbath",
+  "title": "Christian II carries out the Stockholm Bloodbath",
+  "year": 1520,
+  "month": 11,
+  "day": 9,
+  "calendar": "julian",
+  "summary": "Days after being crowned King of Sweden, the Danish king Christian II had about eighty Swedish nobles, bishops and burghers executed in Stockholm's main square.",
+  "reason": "Christian wanted to destroy the Swedish faction that opposed the Kalmar Union, using charges of heresy as cover.",
+  "significance": "The massacre provoked the Swedish uprising led by Gustav Vasa that ended the union.",
+  "participants": [
+    "Christian II of Denmark",
+    "Kingdom of Denmark",
+    "Kingdom of Sweden",
+    "Gustav Trolle"
+  ],
+  "countries": [
+    "Sweden",
+    "Denmark"
+  ],
+  "place": "Stortorget, Stockholm, Sweden",
+  "lat": 59.325,
+  "lon": 18.071,
+  "tags": [
+    "politics"
+  ],
+  "weight": 50,
+  "wikipedia": "Stockholm Bloodbath",
+  "wikidata": "Q846876"
+}

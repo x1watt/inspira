@@ -1,0 +1,31 @@
+{
+  "id": "event-1569-07-01-union-of-lublin",
+  "title": "Poland and Lithuania form a commonwealth at Lublin",
+  "year": 1569,
+  "month": 7,
+  "day": 1,
+  "calendar": "julian",
+  "summary": "The Sejm meeting in Lublin joined the Kingdom of Poland and the Grand Duchy of Lithuania into one state with a common elected king and parliament.",
+  "reason": "King Sigismund II Augustus had no heir, and Lithuania needed Polish support against Muscovy.",
+  "significance": "It created the Polish-Lithuanian Commonwealth, one of the largest states in Europe.",
+  "participants": [
+    "Sigismund II Augustus",
+    "Kingdom of Poland",
+    "Grand Duchy of Lithuania",
+    "Sejm"
+  ],
+  "countries": [
+    "Poland",
+    "Lithuania"
+  ],
+  "place": "Lublin, Poland",
+  "lat": 51.247,
+  "lon": 22.568,
+  "tags": [
+    "politics",
+    "diplomacy"
+  ],
+  "weight": 62,
+  "wikipedia": "Union of Lublin",
+  "wikidata": "Q963303"
+}

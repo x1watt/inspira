@@ -1,0 +1,27 @@
+{
+  "id": "event-1193-03-04-death-of-saladin",
+  "title": "Death of Saladin in Damascus",
+  "year": 1193,
+  "month": 3,
+  "day": 4,
+  "calendar": "julian",
+  "summary": "Saladin, sultan of Egypt and Syria and conqueror of Jerusalem, died of a fever in Damascus.",
+  "reason": "He fell ill a few months after making peace with Richard the Lionheart.",
+  "significance": "He was admired by Muslims and Christians alike, and his empire was divided among his heirs.",
+  "participants": [
+    "Saladin",
+    "Ayyubid Sultanate"
+  ],
+  "countries": [
+    "Syria"
+  ],
+  "place": "Damascus, Syria",
+  "lat": 33.5138,
+  "lon": 36.2765,
+  "tags": [
+    "politics"
+  ],
+  "weight": 60,
+  "wikipedia": "Saladin",
+  "wikidata": "Q8581"
+}

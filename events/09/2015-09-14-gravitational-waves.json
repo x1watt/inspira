@@ -1,0 +1,29 @@
+{
+  "id": "event-2015-09-14-gravitational-waves",
+  "title": "Gravitational waves are detected for the first time",
+  "year": 2015,
+  "month": 9,
+  "day": 14,
+  "calendar": "gregorian",
+  "summary": "Both LIGO detectors in the United States recorded ripples in spacetime from two black holes merging over a billion years ago.",
+  "reason": "Einstein predicted the waves in 1916, and decades of work had made detectors sensitive enough.",
+  "significance": "It opened a new way of observing the universe and won the 2017 Nobel Prize.",
+  "participants": [
+    "LIGO",
+    "Kip Thorne",
+    "Rainer Weiss",
+    "Barry Barish"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "LIGO Livingston Observatory, Louisiana, United States",
+  "lat": 30.5629,
+  "lon": -90.7742,
+  "tags": [
+    "science"
+  ],
+  "weight": 75,
+  "wikipedia": "First observation of gravitational waves",
+  "wikidata": "Q22683173"
+}

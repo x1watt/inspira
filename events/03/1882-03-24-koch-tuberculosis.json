@@ -1,0 +1,28 @@
+{
+  "id": "event-1882-03-24-koch-tuberculosis",
+  "title": "Robert Koch announces the cause of tuberculosis",
+  "year": 1882,
+  "month": 3,
+  "day": 24,
+  "calendar": "gregorian",
+  "summary": "Robert Koch told the Berlin Physiological Society that he had identified the bacterium that causes tuberculosis.",
+  "reason": "Tuberculosis killed about one in seven people in Europe, and Koch had developed new staining and culture methods to find its agent.",
+  "significance": "It was a milestone of germ theory and the day is now marked as World Tuberculosis Day.",
+  "participants": [
+    "Robert Koch",
+    "Berlin Physiological Society"
+  ],
+  "countries": [
+    "Germany"
+  ],
+  "place": "Berlin, Germany",
+  "lat": 52.517,
+  "lon": 13.3889,
+  "tags": [
+    "medicine",
+    "science"
+  ],
+  "weight": 65,
+  "wikipedia": "Mycobacterium tuberculosis",
+  "wikidata": "Q130971"
+}

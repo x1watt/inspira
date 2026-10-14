@@ -1,0 +1,31 @@
+{
+  "id": "event-1898-05-01-battle-of-manila-bay",
+  "title": "Dewey destroys the Spanish fleet at Manila Bay",
+  "year": 1898,
+  "month": 5,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "The American Asiatic Squadron under George Dewey sank the Spanish Pacific fleet in Manila Bay in a few hours without losing a ship.",
+  "reason": "With war declared over Cuba, the United States struck at Spain's colonies in the Pacific.",
+  "significance": "It ended Spanish naval power in Asia and led to American rule over the Philippines.",
+  "participants": [
+    "George Dewey",
+    "Patricio Montojo",
+    "United States Navy",
+    "Spanish Navy"
+  ],
+  "countries": [
+    "Philippines",
+    "United States",
+    "Spain"
+  ],
+  "place": "Manila Bay, Philippines",
+  "lat": 14.525,
+  "lon": 120.9,
+  "tags": [
+    "war"
+  ],
+  "weight": 55,
+  "wikipedia": "Battle of Manila Bay",
+  "wikidata": "Q528550"
+}

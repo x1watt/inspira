@@ -1,0 +1,31 @@
+{
+  "id": "event-1851-05-01-great-exhibition",
+  "title": "The Great Exhibition opens in London",
+  "year": 1851,
+  "month": 5,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "Queen Victoria opened the Great Exhibition of the Works of Industry of All Nations in the Crystal Palace in Hyde Park.",
+  "reason": "Prince Albert and Henry Cole wanted to display British industrial leadership and promote trade and progress.",
+  "significance": "It was the first world's fair and a showcase of the Industrial Revolution.",
+  "participants": [
+    "Prince Albert",
+    "Queen Victoria",
+    "Joseph Paxton",
+    "Henry Cole"
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "place": "Crystal Palace, Hyde Park, London, United Kingdom",
+  "lat": 51.503,
+  "lon": -0.17,
+  "tags": [
+    "technology",
+    "culture",
+    "economy"
+  ],
+  "weight": 65,
+  "wikipedia": "Great Exhibition",
+  "wikidata": "Q273095"
+}

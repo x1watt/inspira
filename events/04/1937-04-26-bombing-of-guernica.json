@@ -1,0 +1,30 @@
+{
+  "id": "event-1937-04-26-bombing-of-guernica",
+  "title": "German and Italian bombers destroy Guernica",
+  "year": 1937,
+  "month": 4,
+  "day": 26,
+  "calendar": "gregorian",
+  "summary": "Aircraft of the German Condor Legion and the Italian air force bombed the Basque town of Guernica on market day, killing hundreds of civilians.",
+  "reason": "Franco's Nationalists and their allies sought to break Basque resistance and test aerial bombing tactics.",
+  "significance": "It became a symbol of the horror of war against civilians, immortalized by Picasso's painting.",
+  "participants": [
+    "Condor Legion",
+    "Aviazione Legionaria",
+    "Nationalist faction"
+  ],
+  "countries": [
+    "Spain",
+    "Germany",
+    "Italy"
+  ],
+  "place": "Guernica, Basque Country, Spain",
+  "lat": 43.3139,
+  "lon": -2.6783,
+  "tags": [
+    "war"
+  ],
+  "weight": 57,
+  "wikipedia": "Bombing of Guernica",
+  "wikidata": "Q170351"
+}

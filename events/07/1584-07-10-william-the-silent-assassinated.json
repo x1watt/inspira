@@ -1,0 +1,30 @@
+{
+  "id": "event-1584-07-10-william-the-silent-assassinated",
+  "title": "William the Silent is assassinated in Delft",
+  "year": 1584,
+  "month": 7,
+  "day": 10,
+  "calendar": "gregorian",
+  "summary": "Balthasar Gerard, a Catholic supporter of Philip II, shot William of Orange, leader of the Dutch Revolt, at his residence in Delft.",
+  "reason": "Philip II had declared William an outlaw and promised a reward to anyone who killed him.",
+  "significance": "It was one of the first assassinations of a head of state with a handgun, and the revolt continued under his son Maurice.",
+  "participants": [
+    "William the Silent",
+    "Balthasar Gerard",
+    "Philip II of Spain",
+    "Dutch Republic"
+  ],
+  "countries": [
+    "Netherlands",
+    "Spain"
+  ],
+  "place": "Prinsenhof, Delft, Netherlands",
+  "lat": 52.012,
+  "lon": 4.355,
+  "tags": [
+    "politics"
+  ],
+  "weight": 55,
+  "wikipedia": "William the Silent",
+  "wikidata": "Q78454"
+}

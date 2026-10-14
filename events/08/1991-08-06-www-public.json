@@ -1,0 +1,28 @@
+{
+  "id": "event-1991-08-06-www-public",
+  "title": "The World Wide Web becomes publicly available",
+  "year": 1991,
+  "month": 8,
+  "day": 6,
+  "calendar": "gregorian",
+  "summary": "Tim Berners-Lee posted a summary of the World Wide Web project to Usenet, inviting anyone to use it and contribute.",
+  "reason": "He had built the system at CERN to help physicists share documents across different computers.",
+  "significance": "The web turned the internet into a mass medium.",
+  "participants": [
+    "Tim Berners-Lee",
+    "CERN"
+  ],
+  "countries": [
+    "Switzerland",
+    "United Kingdom"
+  ],
+  "place": "CERN, Geneva, Switzerland",
+  "lat": 46.233,
+  "lon": 6.0557,
+  "tags": [
+    "technology"
+  ],
+  "weight": 88,
+  "wikipedia": "History of the World Wide Web",
+  "wikidata": "Q466"
+}

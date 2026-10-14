@@ -1,0 +1,31 @@
+{
+  "id": "event-1914-09-05-first-battle-of-the-marne",
+  "title": "First Battle of the Marne begins",
+  "year": 1914,
+  "month": 9,
+  "day": 5,
+  "calendar": "gregorian",
+  "summary": "French and British armies counterattacked German forces east of Paris along the Marne, forcing them to retreat to the Aisne.",
+  "reason": "The German Schlieffen Plan aimed to defeat France quickly, but its armies had become overstretched and opened gaps.",
+  "significance": "It ended German hopes of a swift victory and led to years of trench warfare on the Western Front.",
+  "participants": [
+    "French Third Republic",
+    "British Expeditionary Force",
+    "German Empire",
+    "Joseph Joffre"
+  ],
+  "countries": [
+    "France",
+    "Germany",
+    "United Kingdom"
+  ],
+  "place": "Marne River, near Meaux, France",
+  "lat": 48.96,
+  "lon": 2.88,
+  "tags": [
+    "war"
+  ],
+  "weight": 67,
+  "wikipedia": "First Battle of the Marne",
+  "wikidata": "Q190712"
+}

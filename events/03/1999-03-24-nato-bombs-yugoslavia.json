@@ -1,0 +1,29 @@
+{
+  "id": "event-1999-03-24-nato-bombs-yugoslavia",
+  "title": "NATO begins bombing Yugoslavia",
+  "year": 1999,
+  "month": 3,
+  "day": 24,
+  "calendar": "gregorian",
+  "summary": "NATO launched air strikes against Yugoslavia over its crackdown in Kosovo, without UN Security Council approval.",
+  "reason": "Serbian forces were expelling Kosovo Albanians, and talks at Rambouillet had failed.",
+  "significance": "It was NATO's first war against a sovereign state and led to Kosovo's separation.",
+  "participants": [
+    "NATO",
+    "Federal Republic of Yugoslavia",
+    "Slobodan Milosevic"
+  ],
+  "countries": [
+    "Serbia",
+    "Kosovo"
+  ],
+  "place": "Belgrade, Serbia",
+  "lat": 44.7866,
+  "lon": 20.4489,
+  "tags": [
+    "war"
+  ],
+  "weight": 62,
+  "wikipedia": "NATO bombing of Yugoslavia",
+  "wikidata": "Q155723"
+}

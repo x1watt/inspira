@@ -1,0 +1,27 @@
+{
+  "id": "event-2018-08-20-school-strike",
+  "title": "Greta Thunberg starts her school strike for climate",
+  "year": 2018,
+  "month": 8,
+  "day": 20,
+  "calendar": "gregorian",
+  "summary": "Fifteen-year-old Greta Thunberg began sitting outside the Swedish parliament instead of going to school.",
+  "reason": "She wanted to press politicians to act on climate change after a summer of heat and wildfires.",
+  "significance": "It grew into a global youth movement, Fridays for Future.",
+  "participants": [
+    "Greta Thunberg",
+    "Fridays for Future"
+  ],
+  "countries": [
+    "Sweden"
+  ],
+  "place": "Riksdag, Stockholm, Sweden",
+  "lat": 59.3275,
+  "lon": 18.0656,
+  "tags": [
+    "rights",
+    "politics"
+  ],
+  "weight": 52,
+  "wikipedia": "Fridays for Future"
+}

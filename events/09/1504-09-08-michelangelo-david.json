@@ -1,0 +1,27 @@
+{
+  "id": "event-1504-09-08-michelangelo-david",
+  "title": "Michelangelo's David is unveiled in Florence",
+  "year": 1504,
+  "month": 9,
+  "day": 8,
+  "calendar": "julian",
+  "summary": "Michelangelo's five-metre marble statue of the biblical David was unveiled outside the Palazzo Vecchio in Florence.",
+  "reason": "The cathedral works had commissioned the statue, and the city chose a public site where it could stand for the defiant Florentine republic.",
+  "significance": "It became the defining masterpiece of High Renaissance sculpture.",
+  "participants": [
+    "Michelangelo",
+    "Republic of Florence"
+  ],
+  "countries": [
+    "Italy"
+  ],
+  "place": "Piazza della Signoria, Florence, Italy",
+  "lat": 43.77,
+  "lon": 11.256,
+  "tags": [
+    "culture"
+  ],
+  "weight": 60,
+  "wikipedia": "David (Michelangelo)",
+  "wikidata": "Q179900"
+}

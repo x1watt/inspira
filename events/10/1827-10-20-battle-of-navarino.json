@@ -1,0 +1,36 @@
+{
+  "id": "event-1827-10-20-battle-of-navarino",
+  "title": "Allied fleet destroys the Ottoman navy at Navarino",
+  "year": 1827,
+  "month": 10,
+  "day": 20,
+  "calendar": "gregorian",
+  "summary": "A combined British, French and Russian fleet sank most of the Ottoman and Egyptian fleet in the bay of Navarino.",
+  "reason": "The three powers wanted to force the Ottomans to accept an armistice in the Greek War of Independence.",
+  "significance": "It made Greek independence almost certain and was the last major battle between sailing ships.",
+  "participants": [
+    "United Kingdom",
+    "Kingdom of France",
+    "Russian Empire",
+    "Ottoman Empire",
+    "Egypt Eyalet",
+    "Edward Codrington"
+  ],
+  "countries": [
+    "Greece",
+    "United Kingdom",
+    "France",
+    "Russia",
+    "Turkey",
+    "Egypt"
+  ],
+  "place": "Bay of Navarino, Pylos, Greece",
+  "lat": 36.93,
+  "lon": 21.68,
+  "tags": [
+    "war"
+  ],
+  "weight": 60,
+  "wikipedia": "Battle of Navarino",
+  "wikidata": "Q238440"
+}

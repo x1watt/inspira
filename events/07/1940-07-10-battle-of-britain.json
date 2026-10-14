@@ -1,0 +1,30 @@
+{
+  "id": "event-1940-07-10-battle-of-britain",
+  "title": "Battle of Britain begins over the English Channel",
+  "year": 1940,
+  "month": 7,
+  "day": 10,
+  "calendar": "gregorian",
+  "summary": "The Luftwaffe began sustained attacks on British shipping and then on airfields and cities, fighting the Royal Air Force for control of the skies through the summer and autumn.",
+  "reason": "Germany needed air superiority before it could attempt an invasion of Britain, which had refused to make peace.",
+  "significance": "Germany's failure to defeat the RAF was Hitler's first major setback and kept Britain in the war as a base for the later liberation of Europe.",
+  "participants": [
+    "Royal Air Force",
+    "Luftwaffe",
+    "Hugh Dowding",
+    "Hermann Goring"
+  ],
+  "countries": [
+    "United Kingdom",
+    "Germany"
+  ],
+  "place": "Southern England and the English Channel, United Kingdom",
+  "lat": 51.1,
+  "lon": 1.0,
+  "tags": [
+    "war"
+  ],
+  "weight": 80,
+  "wikipedia": "Battle of Britain",
+  "wikidata": "Q154720"
+}

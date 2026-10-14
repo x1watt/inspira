@@ -1,0 +1,29 @@
+{
+  "id": "event-1948-06-21-manchester-baby",
+  "title": "The Manchester Baby runs the first stored program",
+  "year": 1948,
+  "month": 6,
+  "day": 21,
+  "calendar": "gregorian",
+  "summary": "The Small-Scale Experimental Machine at the University of Manchester ran its first program, held in its own electronic memory.",
+  "reason": "Frederic Williams and Tom Kilburn built it to test a new kind of memory based on cathode ray tubes.",
+  "significance": "It was the first stored program computer, the design of nearly every computer since.",
+  "participants": [
+    "Frederic Calland Williams",
+    "Tom Kilburn",
+    "University of Manchester"
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "place": "University of Manchester, Manchester, United Kingdom",
+  "lat": 53.4668,
+  "lon": -2.2339,
+  "tags": [
+    "technology",
+    "science"
+  ],
+  "weight": 58,
+  "wikipedia": "Manchester Baby",
+  "wikidata": "Q514818"
+}

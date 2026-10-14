@@ -1,0 +1,28 @@
+{
+  "id": "event-431-06-22-council-of-ephesus",
+  "title": "The Council of Ephesus opens",
+  "year": 431,
+  "month": 6,
+  "day": 22,
+  "calendar": "julian",
+  "summary": "The third ecumenical council opened at Ephesus and condemned Nestorius, archbishop of Constantinople, affirming Mary as Theotokos, mother of God.",
+  "reason": "Nestorius and Cyril of Alexandria were locked in a bitter dispute over how the divine and human natures are united in Christ.",
+  "significance": "It led to the separation of the Church of the East, which spread Christianity across Asia.",
+  "participants": [
+    "Cyril of Alexandria",
+    "Nestorius",
+    "Theodosius II"
+  ],
+  "countries": [
+    "Turkey"
+  ],
+  "place": "Ephesus, near Selcuk, Turkey",
+  "lat": 37.9395,
+  "lon": 27.3417,
+  "tags": [
+    "religion"
+  ],
+  "weight": 60,
+  "wikipedia": "Council of Ephesus",
+  "wikidata": "Q184332"
+}

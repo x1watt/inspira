@@ -1,0 +1,31 @@
+{
+  "id": "event-532-01-13-nika-riots",
+  "title": "Nika riots break out in Constantinople",
+  "year": 532,
+  "month": 1,
+  "day": 13,
+  "calendar": "julian",
+  "summary": "Chariot racing factions at the Hippodrome turned on Emperor Justinian I and set much of Constantinople on fire. After several days the revolt was crushed with the massacre of tens of thousands of people in the Hippodrome.",
+  "reason": "Anger over heavy taxes, harsh officials and the arrest of faction members united the normally rival Blues and Greens against the emperor.",
+  "significance": "Justinian survived and used the destruction to rebuild the city, including the new Hagia Sophia.",
+  "participants": [
+    "Justinian I",
+    "Theodora",
+    "Belisarius",
+    "Blues and Greens",
+    "Byzantine Empire"
+  ],
+  "countries": [
+    "Turkey"
+  ],
+  "place": "Hippodrome of Constantinople, Istanbul, Turkey",
+  "lat": 41.0058,
+  "lon": 28.9753,
+  "tags": [
+    "revolution",
+    "politics"
+  ],
+  "weight": 55,
+  "wikipedia": "Nika riots",
+  "wikidata": "Q162665"
+}

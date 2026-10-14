@@ -1,0 +1,28 @@
+{
+  "id": "event-2004-02-04-facebook-launch",
+  "title": "Facebook is launched",
+  "year": 2004,
+  "month": 2,
+  "day": 4,
+  "calendar": "gregorian",
+  "summary": "Mark Zuckerberg launched TheFacebook for Harvard students from his dormitory.",
+  "reason": "Students wanted an online directory of classmates, and earlier campus sites had shown demand.",
+  "significance": "It grew into the largest social network, reshaping media and politics.",
+  "participants": [
+    "Mark Zuckerberg",
+    "Facebook"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Harvard University, Cambridge, Massachusetts, United States",
+  "lat": 42.377,
+  "lon": -71.1167,
+  "tags": [
+    "technology",
+    "culture"
+  ],
+  "weight": 70,
+  "wikipedia": "Facebook",
+  "wikidata": "Q355"
+}

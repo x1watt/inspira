@@ -1,0 +1,29 @@
+{
+  "id": "event-1948-05-26-south-africa-1948-election",
+  "title": "National Party wins South Africa's election",
+  "year": 1948,
+  "month": 5,
+  "day": 26,
+  "calendar": "gregorian",
+  "summary": "The Afrikaner National Party under Daniel Malan won South Africa's general election on a programme of apartheid.",
+  "reason": "White voters, especially Afrikaners, feared the growth of black urban populations and backed strict racial separation.",
+  "significance": "The result began more than four decades of apartheid laws.",
+  "participants": [
+    "National Party",
+    "Daniel Francois Malan",
+    "Jan Smuts"
+  ],
+  "countries": [
+    "South Africa"
+  ],
+  "place": "Cape Town, South Africa",
+  "lat": -33.9249,
+  "lon": 18.4241,
+  "tags": [
+    "politics",
+    "rights"
+  ],
+  "weight": 61,
+  "wikipedia": "1948 South African general election",
+  "wikidata": "Q1255896"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "event-bc27-01-16-octavian-named-augustus",
+  "title": "The Senate gives Octavian the name Augustus",
+  "year": -27,
+  "month": 1,
+  "day": 16,
+  "calendar": "julian",
+  "summary": "The Roman Senate granted Octavian the title Augustus, days after he formally returned his extraordinary powers to the Senate and people.",
+  "reason": "Octavian wanted to rule with supreme power while presenting it as a restored Republic, and the Senate honoured him in return.",
+  "significance": "It is usually taken as the start of the Roman Empire and the Principate.",
+  "participants": [
+    "Augustus",
+    "Roman Senate"
+  ],
+  "countries": [
+    "Italy"
+  ],
+  "place": "Rome, Italy",
+  "lat": 41.8925,
+  "lon": 12.4853,
+  "tags": [
+    "politics"
+  ],
+  "weight": 85,
+  "wikipedia": "Augustus",
+  "wikidata": "Q1405"
+}

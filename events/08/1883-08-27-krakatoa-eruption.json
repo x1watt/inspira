@@ -1,0 +1,26 @@
+{
+  "id": "event-1883-08-27-krakatoa-eruption",
+  "title": "Krakatoa erupts catastrophically",
+  "year": 1883,
+  "month": 8,
+  "day": 27,
+  "calendar": "gregorian",
+  "summary": "A series of colossal explosions destroyed most of the volcanic island of Krakatoa, and tsunamis swept the coasts of Java and Sumatra, killing more than 36,000 people.",
+  "reason": "Months of rising activity in the volcano culminated in the collapse of its magma chamber.",
+  "significance": "The blast was heard thousands of kilometers away and its ash cooled the global climate for years.",
+  "participants": [
+    "Dutch East Indies"
+  ],
+  "countries": [
+    "Indonesia"
+  ],
+  "place": "Krakatoa, Sunda Strait, Indonesia",
+  "lat": -6.102,
+  "lon": 105.423,
+  "tags": [
+    "disaster"
+  ],
+  "weight": 70,
+  "wikipedia": "1883 eruption of Krakatoa",
+  "wikidata": "Q8094772"
+}

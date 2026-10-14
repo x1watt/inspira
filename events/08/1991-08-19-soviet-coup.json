@@ -1,0 +1,29 @@
+{
+  "id": "event-1991-08-19-soviet-coup",
+  "title": "Hardliners attempt a coup in Moscow",
+  "year": 1991,
+  "month": 8,
+  "day": 19,
+  "calendar": "gregorian",
+  "summary": "Communist hardliners detained Mikhail Gorbachev and declared a state of emergency, but crowds led by Boris Yeltsin defended the Russian parliament and the coup failed within three days.",
+  "reason": "The plotters wanted to stop a new union treaty that would hand power to the republics.",
+  "significance": "Its failure fatally weakened the Communist Party and hastened the end of the Soviet Union.",
+  "participants": [
+    "Mikhail Gorbachev",
+    "Boris Yeltsin",
+    "State Committee on the State of Emergency"
+  ],
+  "countries": [
+    "Russia"
+  ],
+  "place": "White House, Moscow, Russia",
+  "lat": 55.7546,
+  "lon": 37.573,
+  "tags": [
+    "politics",
+    "revolution"
+  ],
+  "weight": 75,
+  "wikipedia": "1991 Soviet coup attempt",
+  "wikidata": "Q221382"
+}

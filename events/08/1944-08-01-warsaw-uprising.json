@@ -1,0 +1,30 @@
+{
+  "id": "event-1944-08-01-warsaw-uprising",
+  "title": "Warsaw Uprising begins",
+  "year": 1944,
+  "month": 8,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "The Polish Home Army rose against the German occupiers in Warsaw. After 63 days of fighting it surrendered, and the Germans destroyed most of the city.",
+  "reason": "The Polish underground wanted to free Warsaw itself before the approaching Red Army arrived, to secure Poland's independence.",
+  "significance": "About 200,000 Poles died, and the Soviet Union's failure to help remains a bitter memory in Poland.",
+  "participants": [
+    "Home Army",
+    "Tadeusz Bor-Komorowski",
+    "Nazi Germany",
+    "Erich von dem Bach-Zelewski"
+  ],
+  "countries": [
+    "Poland",
+    "Germany"
+  ],
+  "place": "Warsaw, Poland",
+  "lat": 52.2297,
+  "lon": 21.0122,
+  "tags": [
+    "war"
+  ],
+  "weight": 65,
+  "wikipedia": "Warsaw Uprising",
+  "wikidata": "Q1402078"
+}

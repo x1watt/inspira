@@ -1,0 +1,27 @@
+{
+  "id": "event-1932-09-23-saudi-arabia-founded",
+  "title": "Ibn Saud proclaims the Kingdom of Saudi Arabia",
+  "year": 1932,
+  "month": 9,
+  "day": 23,
+  "calendar": "gregorian",
+  "summary": "Abdulaziz Ibn Saud united his domains of the Hejaz and Nejd into a single kingdom named Saudi Arabia.",
+  "reason": "After decades of conquest across the Arabian peninsula, Ibn Saud sought to consolidate his realm under one name and crown.",
+  "significance": "It founded the Saudi state, which became a central power in the Middle East and the oil economy.",
+  "participants": [
+    "Ibn Saud",
+    "House of Saud"
+  ],
+  "countries": [
+    "Saudi Arabia"
+  ],
+  "place": "Riyadh, Saudi Arabia",
+  "lat": 24.7136,
+  "lon": 46.6753,
+  "tags": [
+    "politics"
+  ],
+  "weight": 62,
+  "wikipedia": "Saudi National Day",
+  "wikidata": "Q7427168"
+}

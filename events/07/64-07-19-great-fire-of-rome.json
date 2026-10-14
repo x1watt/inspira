@@ -1,0 +1,28 @@
+{
+  "id": "event-64-07-19-great-fire-of-rome",
+  "title": "The Great Fire of Rome breaks out",
+  "year": 64,
+  "month": 7,
+  "day": 19,
+  "calendar": "julian",
+  "summary": "A fire broke out near the Circus Maximus and burned for days, destroying large parts of Rome. Nero blamed the Christians and had many of them executed.",
+  "reason": "The crowded city of timber buildings was highly flammable, and rumours soon claimed that Nero had wanted the fire to clear land for his palace.",
+  "significance": "It led to the first Roman persecution of Christians and to the rebuilding of Rome, including Nero's Golden House.",
+  "participants": [
+    "Nero",
+    "Early Christians"
+  ],
+  "countries": [
+    "Italy"
+  ],
+  "place": "Circus Maximus, Rome, Italy",
+  "lat": 41.8861,
+  "lon": 12.4851,
+  "tags": [
+    "disaster",
+    "religion"
+  ],
+  "weight": 70,
+  "wikipedia": "Great Fire of Rome",
+  "wikidata": "Q215231"
+}

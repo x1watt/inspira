@@ -1,0 +1,30 @@
+{
+  "id": "event-1879-01-22-battle-of-isandlwana",
+  "title": "Zulu army defeats the British at Isandlwana",
+  "year": 1879,
+  "month": 1,
+  "day": 22,
+  "calendar": "gregorian",
+  "summary": "A Zulu army of about 20,000 destroyed a British force camped at Isandlwana, killing more than 1,300 soldiers.",
+  "reason": "Britain had invaded the Zulu Kingdom after an ultimatum King Cetshwayo could not accept, as part of a plan to confederate southern Africa.",
+  "significance": "It was one of the worst defeats of a modern army by an indigenous force, though Britain went on to conquer Zululand.",
+  "participants": [
+    "Zulu Kingdom",
+    "Cetshwayo",
+    "British Army",
+    "Lord Chelmsford"
+  ],
+  "countries": [
+    "South Africa",
+    "United Kingdom"
+  ],
+  "place": "Isandlwana, KwaZulu-Natal, South Africa",
+  "lat": -28.3583,
+  "lon": 30.6528,
+  "tags": [
+    "war"
+  ],
+  "weight": 60,
+  "wikipedia": "Battle of Isandlwana",
+  "wikidata": "Q747589"
+}

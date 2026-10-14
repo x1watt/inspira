@@ -1,0 +1,29 @@
+{
+  "id": "event-1288-04-09-battle-of-bach-dang",
+  "title": "Tran Hung Dao defeats the Yuan fleet at Bach Dang",
+  "year": 1288,
+  "month": 4,
+  "day": 9,
+  "calendar": "julian",
+  "summary": "Vietnamese forces led by Tran Hung Dao trapped the Yuan fleet on iron-tipped stakes driven into the bed of the Bach Dang River at low tide and destroyed it.",
+  "reason": "Kublai Khan had sent a third invasion to conquer Dai Viet after earlier failures.",
+  "significance": "It ended Mongol attempts to conquer Vietnam and made Tran Hung Dao a national hero.",
+  "participants": [
+    "Tran Hung Dao",
+    "Tran dynasty",
+    "Dai Viet",
+    "Yuan dynasty"
+  ],
+  "countries": [
+    "Vietnam",
+    "China"
+  ],
+  "place": "Bach Dang River, Quang Ninh, Vietnam",
+  "lat": 20.937,
+  "lon": 106.629,
+  "tags": [
+    "war"
+  ],
+  "weight": 65,
+  "wikipedia": "Battle of Bạch Đằng (1288)"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "event-1973-04-03-first-mobile-call",
+  "title": "Martin Cooper makes the first handheld mobile phone call",
+  "year": 1973,
+  "month": 4,
+  "day": 3,
+  "calendar": "gregorian",
+  "summary": "Motorola engineer Martin Cooper called a rival at Bell Labs from a prototype handheld phone on a New York street.",
+  "reason": "Motorola was competing with AT&T to develop cellular telephone technology.",
+  "significance": "It began the era of mobile phones.",
+  "participants": [
+    "Martin Cooper",
+    "Motorola"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Sixth Avenue, New York City, United States",
+  "lat": 40.7622,
+  "lon": -73.979,
+  "tags": [
+    "technology"
+  ],
+  "weight": 55,
+  "wikipedia": "Martin Cooper (inventor)",
+  "wikidata": "Q319383"
+}

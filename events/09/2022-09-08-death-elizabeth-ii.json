@@ -1,0 +1,28 @@
+{
+  "id": "event-2022-09-08-death-elizabeth-ii",
+  "title": "Queen Elizabeth II dies",
+  "year": 2022,
+  "month": 9,
+  "day": 8,
+  "calendar": "gregorian",
+  "summary": "Queen Elizabeth II died at Balmoral Castle aged 96, after 70 years on the throne, and Charles III became king.",
+  "reason": "She had been in frail health for months.",
+  "significance": "She was the longest-reigning British monarch.",
+  "participants": [
+    "Elizabeth II",
+    "Charles III"
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "place": "Balmoral Castle, Scotland, United Kingdom",
+  "lat": 57.0405,
+  "lon": -3.2297,
+  "tags": [
+    "politics",
+    "culture"
+  ],
+  "weight": 60,
+  "wikipedia": "Death and state funeral of Elizabeth II",
+  "wikidata": "Q113846055"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "event-1689-12-26-bill-of-rights",
+  "title": "The English Bill of Rights becomes law",
+  "year": 1689,
+  "month": 12,
+  "day": 26,
+  "calendar": "gregorian",
+  "summary": "The Bill of Rights received royal assent, limiting the powers of the crown and guaranteeing rights of Parliament and of subjects.",
+  "reason": "Parliament wanted to secure the gains of the Glorious Revolution and prevent a return to the arbitrary rule of James II.",
+  "significance": "It shaped later constitutions, including the United States Bill of Rights.",
+  "participants": [
+    "Parliament of England",
+    "William III of England",
+    "Mary II of England"
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "place": "Palace of Westminster, London, United Kingdom",
+  "lat": 51.4995,
+  "lon": -0.1248,
+  "tags": [
+    "law",
+    "rights"
+  ],
+  "weight": 70,
+  "wikipedia": "Bill of Rights 1689",
+  "wikidata": "Q219447"
+}

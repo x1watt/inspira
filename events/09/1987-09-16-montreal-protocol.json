@@ -1,0 +1,27 @@
+{
+  "id": "event-1987-09-16-montreal-protocol",
+  "title": "The Montreal Protocol is signed",
+  "year": 1987,
+  "month": 9,
+  "day": 16,
+  "calendar": "gregorian",
+  "summary": "Countries meeting in Montreal signed a protocol to phase out CFCs and other chemicals destroying the ozone layer.",
+  "reason": "The discovery of the ozone hole showed the danger of these chemicals.",
+  "significance": "It is regarded as the most successful environmental treaty.",
+  "participants": [
+    "United Nations Environment Programme"
+  ],
+  "countries": [
+    "Canada"
+  ],
+  "place": "Montreal, Canada",
+  "lat": 45.5017,
+  "lon": -73.5673,
+  "tags": [
+    "science",
+    "law"
+  ],
+  "weight": 63,
+  "wikipedia": "Montreal Protocol",
+  "wikidata": "Q219438"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "event-1853-07-08-perry-arrives-japan",
+  "title": "Commodore Perry's black ships arrive in Japan",
+  "year": 1853,
+  "month": 7,
+  "day": 8,
+  "calendar": "gregorian",
+  "summary": "Four American warships under Matthew Perry anchored at Uraga near Edo and demanded that Japan open its ports to trade.",
+  "reason": "The United States wanted coaling stations and protection for its whalers and ships in the Pacific, and Japan had been closed to most foreigners for two centuries.",
+  "significance": "It ended Japan's isolation policy and set in motion the fall of the Tokugawa shogunate.",
+  "participants": [
+    "Matthew C. Perry",
+    "United States Navy",
+    "Tokugawa shogunate"
+  ],
+  "countries": [
+    "Japan",
+    "United States"
+  ],
+  "place": "Uraga, Yokosuka, Japan",
+  "lat": 35.24,
+  "lon": 139.72,
+  "tags": [
+    "diplomacy",
+    "exploration"
+  ],
+  "weight": 75,
+  "wikipedia": "Perry Expedition",
+  "wikidata": "Q7169780"
+}

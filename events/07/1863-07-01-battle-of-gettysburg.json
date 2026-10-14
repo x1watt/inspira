@@ -1,0 +1,29 @@
+{
+  "id": "event-1863-07-01-battle-of-gettysburg",
+  "title": "Battle of Gettysburg begins",
+  "year": 1863,
+  "month": 7,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "Union and Confederate armies met at Gettysburg, Pennsylvania, in a three-day battle that ended with the repulse of Pickett's Charge.",
+  "reason": "Robert E. Lee invaded the North hoping that a victory there would break Union morale and win foreign recognition.",
+  "significance": "It was the bloodiest battle of the Civil War and a turning point in the Union's favor.",
+  "participants": [
+    "Robert E. Lee",
+    "George Meade",
+    "Army of the Potomac",
+    "Army of Northern Virginia"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Gettysburg, Pennsylvania, United States",
+  "lat": 39.8112,
+  "lon": -77.2258,
+  "tags": [
+    "war"
+  ],
+  "weight": 70,
+  "wikipedia": "Battle of Gettysburg",
+  "wikidata": "Q33132"
+}

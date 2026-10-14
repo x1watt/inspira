@@ -1,0 +1,29 @@
+{
+  "id": "event-1946-08-16-direct-action-day",
+  "title": "Direct Action Day riots break out in Calcutta",
+  "year": 1946,
+  "month": 8,
+  "day": 16,
+  "calendar": "gregorian",
+  "summary": "A general strike called by the Muslim League in Calcutta turned into mass violence between Muslims and Hindus. Thousands of people were killed in the following days.",
+  "reason": "The Muslim League called the protest to press its demand for a separate Muslim homeland, Pakistan.",
+  "significance": "The killings made partition of India far more likely.",
+  "participants": [
+    "All-India Muslim League",
+    "Muhammad Ali Jinnah",
+    "Indian National Congress"
+  ],
+  "countries": [
+    "India"
+  ],
+  "place": "Calcutta (Kolkata), India",
+  "lat": 22.5726,
+  "lon": 88.3639,
+  "tags": [
+    "politics",
+    "religion"
+  ],
+  "weight": 53,
+  "wikipedia": "Direct Action Day",
+  "wikidata": "Q2096814"
+}

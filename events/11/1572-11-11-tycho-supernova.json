@@ -1,0 +1,27 @@
+{
+  "id": "event-1572-11-11-tycho-supernova",
+  "title": "Tycho Brahe observes a new star in Cassiopeia",
+  "year": 1572,
+  "month": 11,
+  "day": 11,
+  "calendar": "julian",
+  "summary": "The Danish astronomer Tycho Brahe noticed a bright new star in the constellation Cassiopeia and measured that it showed no parallax, so it lay far beyond the Moon.",
+  "reason": "The star was a supernova, and Tycho's careful measurements tested the belief that the heavens never change.",
+  "significance": "It undermined the Aristotelian idea of unchanging heavens and made Tycho's name in astronomy.",
+  "participants": [
+    "Tycho Brahe"
+  ],
+  "countries": [
+    "Sweden",
+    "Denmark"
+  ],
+  "place": "Herrevad Abbey, Scania, Sweden",
+  "lat": 56.09,
+  "lon": 13.15,
+  "tags": [
+    "science"
+  ],
+  "weight": 55,
+  "wikipedia": "SN 1572",
+  "wikidata": "Q554280"
+}

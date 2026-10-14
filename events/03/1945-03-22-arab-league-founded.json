@@ -1,0 +1,39 @@
+{
+  "id": "event-1945-03-22-arab-league-founded",
+  "title": "Arab League is founded in Cairo",
+  "year": 1945,
+  "month": 3,
+  "day": 22,
+  "calendar": "gregorian",
+  "summary": "Egypt, Iraq, Transjordan, Lebanon, Saudi Arabia, Syria and Yemen signed the pact founding the League of Arab States.",
+  "reason": "Arab leaders wanted closer cooperation as colonial rule weakened, and to coordinate their position on Palestine.",
+  "significance": "It became the main regional organisation of the Arab world.",
+  "participants": [
+    "Arab League",
+    "Kingdom of Egypt",
+    "Kingdom of Iraq",
+    "Transjordan",
+    "Lebanon",
+    "Saudi Arabia",
+    "Syria",
+    "Kingdom of Yemen"
+  ],
+  "countries": [
+    "Egypt",
+    "Iraq",
+    "Jordan",
+    "Lebanon",
+    "Saudi Arabia",
+    "Syria",
+    "Yemen"
+  ],
+  "place": "Cairo, Egypt",
+  "lat": 30.0444,
+  "lon": 31.2357,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 62,
+  "wikipedia": "Arab League",
+  "wikidata": "Q7172"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "event-962-02-02-otto-crowned-emperor",
+  "title": "Otto I is crowned Holy Roman Emperor",
+  "year": 962,
+  "month": 2,
+  "day": 2,
+  "calendar": "julian",
+  "summary": "Pope John XII crowned the German king Otto I as emperor in Rome.",
+  "reason": "The pope needed protection against Berengar II of Italy, and Otto wanted the imperial title after his victories.",
+  "significance": "It began the line of German emperors usually counted as the Holy Roman Empire.",
+  "participants": [
+    "Otto I",
+    "Pope John XII",
+    "Kingdom of Germany"
+  ],
+  "countries": [
+    "Vatican City",
+    "Italy",
+    "Germany"
+  ],
+  "place": "Old St. Peter's Basilica, Rome, Vatican City",
+  "lat": 41.9022,
+  "lon": 12.4539,
+  "tags": [
+    "politics",
+    "religion"
+  ],
+  "weight": 70,
+  "wikipedia": "Otto the Great",
+  "wikidata": "Q43915"
+}

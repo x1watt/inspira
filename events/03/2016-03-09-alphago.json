@@ -1,0 +1,29 @@
+{
+  "id": "event-2016-03-09-alphago",
+  "title": "AlphaGo beats Go champion Lee Sedol",
+  "year": 2016,
+  "month": 3,
+  "day": 9,
+  "calendar": "gregorian",
+  "summary": "DeepMind's AlphaGo won the first game of a five-game match in Seoul against Lee Sedol, one of the world's best Go players, and went on to win 4 to 1.",
+  "reason": "Go was seen as too complex for computers, but deep learning let AlphaGo learn strong intuition.",
+  "significance": "It showed the power of deep learning and began a new wave of AI.",
+  "participants": [
+    "DeepMind",
+    "AlphaGo",
+    "Lee Sedol"
+  ],
+  "countries": [
+    "South Korea",
+    "United Kingdom"
+  ],
+  "place": "Four Seasons Hotel, Seoul, South Korea",
+  "lat": 37.57,
+  "lon": 126.976,
+  "tags": [
+    "technology"
+  ],
+  "weight": 65,
+  "wikipedia": "AlphaGo versus Lee Sedol",
+  "wikidata": "Q23016184"
+}

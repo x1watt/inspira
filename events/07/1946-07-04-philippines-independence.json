@@ -1,0 +1,30 @@
+{
+  "id": "event-1946-07-04-philippines-independence",
+  "title": "The Philippines becomes independent from the United States",
+  "year": 1946,
+  "month": 7,
+  "day": 4,
+  "calendar": "gregorian",
+  "summary": "The United States recognized the independence of the Philippines in a ceremony in Manila, and the Treaty of Manila was signed the same day. Manuel Roxas became the first president of the independent republic.",
+  "reason": "The Tydings-McDuffie Act of 1934 had promised independence after a ten year transition, delayed only by the Japanese occupation.",
+  "significance": "It was one of the first decolonizations of the postwar era in Asia.",
+  "participants": [
+    "United States",
+    "Commonwealth of the Philippines",
+    "Manuel Roxas"
+  ],
+  "countries": [
+    "Philippines",
+    "United States"
+  ],
+  "place": "Manila, Philippines",
+  "lat": 14.5995,
+  "lon": 120.9842,
+  "tags": [
+    "politics",
+    "diplomacy"
+  ],
+  "weight": 53,
+  "wikipedia": "Treaty of Manila (1946)",
+  "wikidata": "Q7837141"
+}

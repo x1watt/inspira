@@ -1,0 +1,30 @@
+{
+  "id": "event-bc46-04-06-battle-of-thapsus",
+  "title": "Caesar wins the Battle of Thapsus",
+  "year": -46,
+  "month": 4,
+  "day": 6,
+  "calendar": "julian",
+  "summary": "Julius Caesar defeated the republican forces of Metellus Scipio and their Numidian ally King Juba I at Thapsus in North Africa.",
+  "reason": "After Pompey's death his supporters had regrouped in the province of Africa to continue the civil war.",
+  "significance": "The defeat led to the suicide of Cato the Younger and ended organised republican resistance in Africa.",
+  "participants": [
+    "Julius Caesar",
+    "Metellus Scipio",
+    "Juba I of Numidia",
+    "Cato the Younger"
+  ],
+  "countries": [
+    "Tunisia",
+    "Italy"
+  ],
+  "place": "Thapsus, near Ras Dimass, Tunisia",
+  "lat": 35.625,
+  "lon": 11.05,
+  "tags": [
+    "war"
+  ],
+  "weight": 50,
+  "wikipedia": "Battle of Thapsus",
+  "wikidata": "Q849653"
+}

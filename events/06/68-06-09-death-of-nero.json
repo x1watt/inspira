@@ -1,0 +1,28 @@
+{
+  "id": "event-68-06-09-death-of-nero",
+  "title": "Emperor Nero takes his own life",
+  "year": 68,
+  "month": 6,
+  "day": 9,
+  "calendar": "julian",
+  "summary": "Declared a public enemy by the Senate and abandoned by the Praetorian Guard, Nero killed himself at a villa outside Rome.",
+  "reason": "Revolts by Vindex and Galba in the provinces had broken Nero's hold on power.",
+  "significance": "His death ended the Julio-Claudian dynasty and began the Year of the Four Emperors.",
+  "participants": [
+    "Nero",
+    "Galba",
+    "Roman Senate"
+  ],
+  "countries": [
+    "Italy"
+  ],
+  "place": "Near Rome, Italy",
+  "lat": 41.8925,
+  "lon": 12.4853,
+  "tags": [
+    "politics"
+  ],
+  "weight": 65,
+  "wikipedia": "Nero",
+  "wikidata": "Q1413"
+}

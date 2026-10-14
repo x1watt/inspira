@@ -1,0 +1,29 @@
+{
+  "id": "event-1889-11-15-proclamation-republic-brazil",
+  "title": "Brazil becomes a republic",
+  "year": 1889,
+  "month": 11,
+  "day": 15,
+  "calendar": "gregorian",
+  "summary": "A military coup led by Marshal Deodoro da Fonseca deposed Emperor Pedro II and proclaimed the Republic of the United States of Brazil.",
+  "reason": "Planters angered by abolition, a discontented army and republican activists had all turned against the monarchy.",
+  "significance": "It ended the only lasting monarchy in the Americas.",
+  "participants": [
+    "Deodoro da Fonseca",
+    "Pedro II of Brazil",
+    "Benjamin Constant"
+  ],
+  "countries": [
+    "Brazil"
+  ],
+  "place": "Rio de Janeiro, Brazil",
+  "lat": -22.9068,
+  "lon": -43.1729,
+  "tags": [
+    "politics",
+    "revolution"
+  ],
+  "weight": 60,
+  "wikipedia": "Proclamation of the Republic (Brazil)",
+  "wikidata": "Q2294549"
+}

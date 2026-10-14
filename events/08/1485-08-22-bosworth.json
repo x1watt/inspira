@@ -1,0 +1,30 @@
+{
+  "id": "event-1485-08-22-bosworth",
+  "title": "Henry Tudor defeats Richard III at Bosworth Field",
+  "year": 1485,
+  "month": 8,
+  "day": 22,
+  "calendar": "julian",
+  "summary": "Henry Tudor's army defeated King Richard III in Leicestershire after key nobles changed sides. Richard was killed, the last English king to die in battle.",
+  "reason": "Richard III had taken the throne in contested circumstances, and Lancastrian exiles backed Henry's claim.",
+  "significance": "It ended the Wars of the Roses in practice and began the Tudor dynasty.",
+  "participants": [
+    "Henry VII of England",
+    "Richard III of England",
+    "House of Tudor",
+    "House of York",
+    "Thomas Stanley"
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "place": "Bosworth Field, Leicestershire, England, United Kingdom",
+  "lat": 52.5781,
+  "lon": -1.4339,
+  "tags": [
+    "war"
+  ],
+  "weight": 62,
+  "wikipedia": "Battle of Bosworth Field",
+  "wikidata": "Q222013"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "event-1498-05-20-da-gama-calicut",
+  "title": "Vasco da Gama reaches India by sea",
+  "year": 1498,
+  "month": 5,
+  "day": 20,
+  "calendar": "julian",
+  "summary": "The Portuguese fleet of Vasco da Gama arrived near Calicut on the Malabar Coast after sailing around Africa, guided across the Indian Ocean by a local pilot.",
+  "reason": "Portugal had spent decades exploring the African coast to reach the spice markets of Asia without Venetian and Muslim middlemen.",
+  "significance": "Opening the sea route to India began European maritime empires in Asia and reshaped world trade.",
+  "participants": [
+    "Vasco da Gama",
+    "Kingdom of Portugal",
+    "Zamorin of Calicut"
+  ],
+  "countries": [
+    "India",
+    "Portugal"
+  ],
+  "place": "Calicut (Kozhikode), Kerala, India",
+  "lat": 11.259,
+  "lon": 75.78,
+  "tags": [
+    "exploration",
+    "economy"
+  ],
+  "weight": 88,
+  "wikipedia": "Vasco da Gama",
+  "wikidata": "Q7328"
+}

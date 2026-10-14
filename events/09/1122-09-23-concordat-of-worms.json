@@ -1,0 +1,31 @@
+{
+  "id": "event-1122-09-23-concordat-of-worms",
+  "title": "The Concordat of Worms ends the Investiture Controversy",
+  "year": 1122,
+  "month": 9,
+  "day": 23,
+  "calendar": "julian",
+  "summary": "Emperor Henry V and Pope Callixtus II agreed that the Church would choose and invest bishops with their spiritual authority, while the emperor kept a role in granting their lands.",
+  "reason": "For half a century popes and emperors had fought over who had the right to appoint bishops.",
+  "significance": "It set an early boundary between church and state power in Europe.",
+  "participants": [
+    "Henry V",
+    "Pope Callixtus II",
+    "Holy Roman Empire",
+    "Catholic Church"
+  ],
+  "countries": [
+    "Germany"
+  ],
+  "place": "Worms, Germany",
+  "lat": 49.6341,
+  "lon": 8.3507,
+  "tags": [
+    "religion",
+    "law",
+    "diplomacy"
+  ],
+  "weight": 65,
+  "wikipedia": "Concordat of Worms",
+  "wikidata": "Q154439"
+}

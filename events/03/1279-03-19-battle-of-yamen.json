@@ -1,0 +1,30 @@
+{
+  "id": "event-1279-03-19-battle-of-yamen",
+  "title": "Yuan fleet destroys the last Song forces at Yamen",
+  "year": 1279,
+  "month": 3,
+  "day": 19,
+  "calendar": "julian",
+  "summary": "The Yuan navy defeated the last fleet of the Southern Song off Yamen. The minister Lu Xiufu jumped into the sea with the boy emperor Zhao Bing.",
+  "reason": "The Song court had fled south after the fall of its capital Lin'an, and Kublai's forces pursued it to the coast.",
+  "significance": "It ended the Song dynasty and completed the Mongol conquest of China.",
+  "participants": [
+    "Yuan dynasty",
+    "Zhang Hongfan",
+    "Song dynasty",
+    "Lu Xiufu",
+    "Zhao Bing"
+  ],
+  "countries": [
+    "China"
+  ],
+  "place": "Yamen, Jiangmen, Guangdong, China",
+  "lat": 22.21,
+  "lon": 113.08,
+  "tags": [
+    "war"
+  ],
+  "weight": 70,
+  "wikipedia": "Battle of Yamen",
+  "wikidata": "Q1078359"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "event-1885-07-06-pasteur-rabies-vaccine",
+  "title": "Pasteur first uses his rabies vaccine on a human",
+  "year": 1885,
+  "month": 7,
+  "day": 6,
+  "calendar": "gregorian",
+  "summary": "Louis Pasteur began treating nine-year-old Joseph Meister, bitten by a rabid dog, with a series of injections of weakened rabies virus, and the boy survived.",
+  "reason": "Rabies was always fatal once symptoms appeared, and Pasteur had successfully tested the vaccine on dogs.",
+  "significance": "It was a breakthrough for vaccination and led to the founding of the Pasteur Institute.",
+  "participants": [
+    "Louis Pasteur",
+    "Joseph Meister",
+    "Émile Roux"
+  ],
+  "countries": [
+    "France"
+  ],
+  "place": "École Normale Supérieure, Paris, France",
+  "lat": 48.842,
+  "lon": 2.344,
+  "tags": [
+    "medicine",
+    "science"
+  ],
+  "weight": 65,
+  "wikipedia": "Rabies vaccine",
+  "wikidata": "Q4007169"
+}

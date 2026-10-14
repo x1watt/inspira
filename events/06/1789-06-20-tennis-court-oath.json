@@ -1,0 +1,29 @@
+{
+  "id": "event-1789-06-20-tennis-court-oath",
+  "title": "Deputies swear the Tennis Court Oath",
+  "year": 1789,
+  "month": 6,
+  "day": 20,
+  "calendar": "gregorian",
+  "summary": "Locked out of their hall, deputies of the Third Estate met in a tennis court at Versailles and swore not to separate until France had a constitution.",
+  "reason": "The king's government resisted the Third Estate's claim to be the National Assembly.",
+  "significance": "It was the first open defiance of royal authority in the French Revolution.",
+  "participants": [
+    "National Assembly",
+    "Jean Sylvain Bailly",
+    "Louis XVI"
+  ],
+  "countries": [
+    "France"
+  ],
+  "place": "Jeu de Paume, Versailles, France",
+  "lat": 48.8022,
+  "lon": 2.1254,
+  "tags": [
+    "revolution",
+    "politics"
+  ],
+  "weight": 60,
+  "wikipedia": "Tennis Court Oath",
+  "wikidata": "Q60022"
+}

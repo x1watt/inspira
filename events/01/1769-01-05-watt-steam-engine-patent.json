@@ -1,0 +1,26 @@
+{
+  "id": "event-1769-01-05-watt-steam-engine-patent",
+  "title": "James Watt patents his separate condenser",
+  "year": 1769,
+  "month": 1,
+  "day": 5,
+  "calendar": "gregorian",
+  "summary": "James Watt received a patent for a steam engine with a separate condenser, which greatly reduced the fuel the engine needed.",
+  "reason": "Watt found while repairing a Newcomen engine that heating and cooling the same cylinder wasted most of the steam.",
+  "significance": "Efficient steam power drove the Industrial Revolution.",
+  "participants": [
+    "James Watt"
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "place": "London, United Kingdom",
+  "lat": 51.5074,
+  "lon": -0.1278,
+  "tags": [
+    "technology"
+  ],
+  "weight": 75,
+  "wikipedia": "James Watt",
+  "wikidata": "Q3099902"
+}

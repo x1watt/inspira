@@ -1,0 +1,29 @@
+{
+  "id": "event-1901-01-01-australian-federation",
+  "title": "The six Australian colonies federate as the Commonwealth of Australia",
+  "year": 1901,
+  "month": 1,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "The Commonwealth of Australia was proclaimed at a ceremony in Centennial Park, Sydney, uniting six British colonies into one federal dominion with Edmund Barton as first prime minister.",
+  "reason": "Concerns over defence, trade barriers between colonies and a growing sense of shared national identity drove the federation movement through the 1890s.",
+  "significance": "It created the Australian nation and its federal constitution, still in force today.",
+  "participants": [
+    "Commonwealth of Australia",
+    "Edmund Barton",
+    "United Kingdom"
+  ],
+  "countries": [
+    "Australia",
+    "United Kingdom"
+  ],
+  "place": "Centennial Park, Sydney, Australia",
+  "lat": -33.8988,
+  "lon": 151.2335,
+  "tags": [
+    "politics"
+  ],
+  "weight": 62,
+  "wikipedia": "Federation of Australia",
+  "wikidata": "Q3310872"
+}

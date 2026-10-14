@@ -1,0 +1,32 @@
+{
+  "id": "event-1915-04-22-second-battle-of-ypres",
+  "title": "Germany releases poison gas at Ypres",
+  "year": 1915,
+  "month": 4,
+  "day": 22,
+  "calendar": "gregorian",
+  "summary": "German troops released chlorine gas against French and colonial troops near Ypres, opening the Second Battle of Ypres with the first large-scale use of poison gas on the Western Front.",
+  "reason": "Germany sought a way to break the stalemate of trench warfare.",
+  "significance": "It introduced chemical warfare on a mass scale, later banned by the Geneva Protocol.",
+  "participants": [
+    "German Empire",
+    "French Third Republic",
+    "British Empire",
+    "Fritz Haber"
+  ],
+  "countries": [
+    "Belgium",
+    "Germany",
+    "France",
+    "Canada"
+  ],
+  "place": "Ypres, Belgium",
+  "lat": 50.8503,
+  "lon": 2.885,
+  "tags": [
+    "war"
+  ],
+  "weight": 57,
+  "wikipedia": "Second Battle of Ypres",
+  "wikidata": "Q233219"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "event-1223-05-31-battle-of-the-kalka-river",
+  "title": "Mongols defeat the Rus at the Kalka River",
+  "year": 1223,
+  "month": 5,
+  "day": 31,
+  "calendar": "julian",
+  "summary": "A Mongol force under Jebe and Subutai routed a combined army of Rus princes and Cumans by the Kalka River.",
+  "reason": "The Cumans asked the Rus for help against the Mongols, who were returning from a great raid around the Caspian.",
+  "significance": "It was the first clash between the Mongols and the Rus, a warning of the conquest that followed.",
+  "participants": [
+    "Mongol Empire",
+    "Subutai",
+    "Jebe",
+    "Kievan Rus",
+    "Cumans",
+    "Mstislav III of Kiev"
+  ],
+  "countries": [
+    "Ukraine",
+    "Mongolia"
+  ],
+  "place": "Kalka River, near Mariupol, Ukraine",
+  "lat": 47.25,
+  "lon": 37.5,
+  "tags": [
+    "war"
+  ],
+  "weight": 60,
+  "wikipedia": "Battle of the Kalka River",
+  "wikidata": "Q570204"
+}

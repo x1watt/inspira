@@ -1,0 +1,29 @@
+{
+  "id": "event-1867-07-01-canadian-confederation",
+  "title": "Canadian Confederation creates the Dominion of Canada",
+  "year": 1867,
+  "month": 7,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "The British North America Act came into force, uniting Ontario, Quebec, Nova Scotia and New Brunswick into the Dominion of Canada.",
+  "reason": "The colonies wanted security against the United States after its Civil War, a common market and a way out of political deadlock in the Province of Canada.",
+  "significance": "It founded the modern Canadian state.",
+  "participants": [
+    "John A. Macdonald",
+    "George-Étienne Cartier",
+    "United Kingdom"
+  ],
+  "countries": [
+    "Canada",
+    "United Kingdom"
+  ],
+  "place": "Ottawa, Ontario, Canada",
+  "lat": 45.4236,
+  "lon": -75.7009,
+  "tags": [
+    "politics"
+  ],
+  "weight": 65,
+  "wikipedia": "Canadian Confederation",
+  "wikidata": "Q1520743"
+}

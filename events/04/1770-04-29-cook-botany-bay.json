@@ -1,0 +1,30 @@
+{
+  "id": "event-1770-04-29-cook-botany-bay",
+  "title": "James Cook lands at Botany Bay",
+  "year": 1770,
+  "month": 4,
+  "day": 29,
+  "calendar": "gregorian",
+  "summary": "The Endeavour anchored in Botany Bay and Cook's crew made their first landing on the east coast of Australia, meeting the Gweagal people.",
+  "reason": "Cook was charting the unknown southern lands after observing the transit of Venus.",
+  "significance": "It led to the British claim on eastern Australia and later colonisation.",
+  "participants": [
+    "James Cook",
+    "Joseph Banks",
+    "HMS Endeavour",
+    "Gweagal"
+  ],
+  "countries": [
+    "Australia",
+    "United Kingdom"
+  ],
+  "place": "Kurnell, Botany Bay, Australia",
+  "lat": -34.0045,
+  "lon": 151.2181,
+  "tags": [
+    "exploration"
+  ],
+  "weight": 65,
+  "wikipedia": "First voyage of James Cook",
+  "wikidata": "Q3178839"
+}

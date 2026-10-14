@@ -1,0 +1,28 @@
+{
+  "id": "event-2013-11-21-euromaidan",
+  "title": "Euromaidan protests begin in Kyiv",
+  "year": 2013,
+  "month": 11,
+  "day": 21,
+  "calendar": "gregorian",
+  "summary": "Protests began in Kyiv after President Viktor Yanukovych suspended the signing of an association agreement with the EU.",
+  "reason": "Many Ukrainians wanted closer ties to Europe and were angry at corruption.",
+  "significance": "The protests toppled Yanukovych and led to Russia's seizure of Crimea.",
+  "participants": [
+    "Viktor Yanukovych",
+    "Ukraine"
+  ],
+  "countries": [
+    "Ukraine",
+    "Russia"
+  ],
+  "place": "Maidan Nezalezhnosti, Kyiv, Ukraine",
+  "lat": 50.4501,
+  "lon": 30.5234,
+  "tags": [
+    "revolution"
+  ],
+  "weight": 68,
+  "wikipedia": "Euromaidan",
+  "wikidata": "Q15224558"
+}

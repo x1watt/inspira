@@ -1,0 +1,29 @@
+{
+  "id": "event-1320-04-06-declaration-of-arbroath",
+  "title": "Scottish nobles sign the Declaration of Arbroath",
+  "year": 1320,
+  "month": 4,
+  "day": 6,
+  "calendar": "julian",
+  "summary": "Scottish barons sent a letter to Pope John XXII asserting Scotland's independence and their right to choose their own king. It is dated at Arbroath Abbey.",
+  "reason": "England refused to accept Robert the Bruce as king, and the pope had excommunicated him, so the Scots sought papal recognition.",
+  "significance": "It became one of the most famous early statements of national sovereignty and of a king ruling by consent.",
+  "participants": [
+    "Kingdom of Scotland",
+    "Robert the Bruce",
+    "Pope John XXII"
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "place": "Arbroath Abbey, Arbroath, Scotland, United Kingdom",
+  "lat": 56.562,
+  "lon": -2.583,
+  "tags": [
+    "politics",
+    "diplomacy"
+  ],
+  "weight": 55,
+  "wikipedia": "Declaration of Arbroath",
+  "wikidata": "Q598496"
+}

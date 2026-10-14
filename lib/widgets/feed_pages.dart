@@ -592,16 +592,22 @@ class _QuizFeedPageState extends State<QuizFeedPage> {
     final scope = AppScope.of(context);
     final quote = scope.repository.byId(q.itemId);
     final story = scope.stories.byId(q.itemId);
+    final event = scope.events.byId(q.itemId);
     final art = quote != null
         ? scope.images.artForQuote(quote)
         : story != null
         ? scope.images.artForStory(story)
+        : event != null
+        ? scope.images.artForEvent(event)
         : null;
     final picked = _picked;
     final right = picked != null && picked == q.answer;
     return _FeedFrame(
       art: art,
       seed: stableHash(q.itemId) + 1,
+      // The explanation after an answer can make it tall; scroll rather
+      // than shrink the text.
+      scroll: true,
       content: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         mainAxisSize: MainAxisSize.min,
@@ -666,6 +672,18 @@ class _QuizFeedPageState extends State<QuizFeedPage> {
                     ),
                   ),
                 ],
+              ),
+            ),
+          if (picked != null && q.explanation.isNotEmpty)
+            Padding(
+              padding: const EdgeInsets.only(top: 10),
+              child: Text(
+                q.explanation,
+                style: const TextStyle(
+                  color: Colors.white70,
+                  fontSize: 14.5,
+                  height: 1.4,
+                ),
               ),
             ),
         ],

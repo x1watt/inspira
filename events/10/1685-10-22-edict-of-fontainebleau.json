@@ -1,0 +1,30 @@
+{
+  "id": "event-1685-10-22-edict-of-fontainebleau",
+  "title": "Louis XIV revokes the Edict of Nantes",
+  "year": 1685,
+  "month": 10,
+  "day": 18,
+  "calendar": "gregorian",
+  "summary": "With the Edict of Fontainebleau, Louis XIV outlawed Protestantism in France, ordering churches destroyed and pastors expelled.",
+  "reason": "The king sought religious unity under Catholicism as part of his absolute rule.",
+  "significance": "Some 200,000 Huguenots fled to Protestant countries, taking their skills and businesses with them.",
+  "participants": [
+    "Louis XIV",
+    "Huguenots",
+    "Kingdom of France"
+  ],
+  "countries": [
+    "France"
+  ],
+  "place": "Fontainebleau, France",
+  "lat": 48.4021,
+  "lon": 2.7,
+  "tags": [
+    "religion",
+    "rights",
+    "law"
+  ],
+  "weight": 62,
+  "wikipedia": "Edict of Fontainebleau",
+  "wikidata": "Q512443"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "event-2021-02-01-myanmar-coup",
+  "title": "Military coup in Myanmar",
+  "year": 2021,
+  "month": 2,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "Myanmar's military detained Aung San Suu Kyi and other leaders and seized power.",
+  "reason": "The army rejected the landslide election win of Suu Kyi's party, claiming fraud.",
+  "significance": "It ended a decade of partial democracy and led to civil war.",
+  "participants": [
+    "Tatmadaw",
+    "Min Aung Hlaing",
+    "Aung San Suu Kyi",
+    "National League for Democracy"
+  ],
+  "countries": [
+    "Myanmar"
+  ],
+  "place": "Naypyidaw, Myanmar",
+  "lat": 19.7633,
+  "lon": 96.0785,
+  "tags": [
+    "politics",
+    "war"
+  ],
+  "weight": 58,
+  "wikipedia": "2021 Myanmar coup d'état",
+  "wikidata": "Q105180889"
+}

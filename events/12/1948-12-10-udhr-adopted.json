@@ -1,0 +1,29 @@
+{
+  "id": "event-1948-12-10-udhr-adopted",
+  "title": "The UN adopts the Universal Declaration of Human Rights",
+  "year": 1948,
+  "month": 12,
+  "day": 10,
+  "calendar": "gregorian",
+  "summary": "Meeting at the Palais de Chaillot in Paris, the UN General Assembly adopted the Universal Declaration of Human Rights without a vote against.",
+  "reason": "After the atrocities of the Second World War, a committee led by Eleanor Roosevelt drafted a common standard of rights for all peoples.",
+  "significance": "It became the foundation of international human rights law.",
+  "participants": [
+    "United Nations General Assembly",
+    "Eleanor Roosevelt",
+    "Rene Cassin"
+  ],
+  "countries": [
+    "France"
+  ],
+  "place": "Palais de Chaillot, Paris, France",
+  "lat": 48.8622,
+  "lon": 2.2876,
+  "tags": [
+    "rights",
+    "law"
+  ],
+  "weight": 77,
+  "wikipedia": "Universal Declaration of Human Rights",
+  "wikidata": "Q7813"
+}

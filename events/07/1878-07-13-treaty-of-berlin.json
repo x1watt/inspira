@@ -1,0 +1,36 @@
+{
+  "id": "event-1878-07-13-treaty-of-berlin",
+  "title": "Congress of Berlin redraws the Balkans",
+  "year": 1878,
+  "month": 7,
+  "day": 13,
+  "calendar": "gregorian",
+  "summary": "The great powers signed the Treaty of Berlin, shrinking Bulgaria, giving Austria-Hungary the administration of Bosnia and Herzegovina and Britain Cyprus.",
+  "reason": "Britain and Austria-Hungary would not accept the Russian-dominated settlement of San Stefano.",
+  "significance": "It kept the peace for a time but left Balkan grievances that fed the crisis of 1914.",
+  "participants": [
+    "Otto von Bismarck",
+    "Benjamin Disraeli",
+    "Alexander Gorchakov",
+    "Gyula Andrássy",
+    "Ottoman Empire"
+  ],
+  "countries": [
+    "Germany",
+    "United Kingdom",
+    "Russia",
+    "Austria",
+    "Turkey",
+    "Bulgaria",
+    "Bosnia and Herzegovina"
+  ],
+  "place": "Reich Chancellery, Berlin, Germany",
+  "lat": 52.5122,
+  "lon": 13.382,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 60,
+  "wikipedia": "Treaty of Berlin (1878)",
+  "wikidata": "Q1048169"
+}

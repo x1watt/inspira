@@ -1,0 +1,32 @@
+{
+  "id": "event-1578-08-04-alcacer-quibir",
+  "title": "King Sebastian of Portugal dies at Alcacer Quibir",
+  "year": 1578,
+  "month": 8,
+  "day": 4,
+  "calendar": "julian",
+  "summary": "A Portuguese crusading army was annihilated by the Moroccan Saadi army near Ksar el-Kebir. Three kings died, including the young Sebastian of Portugal.",
+  "reason": "Sebastian backed a deposed Moroccan sultan, Abu Abdallah, against his uncle Abd al-Malik in hope of a North African crusade.",
+  "significance": "Sebastian died without heir, which led to Spain taking the Portuguese crown in 1580, while Morocco gained new prestige.",
+  "participants": [
+    "Sebastian of Portugal",
+    "Kingdom of Portugal",
+    "Saadi Sultanate",
+    "Abd al-Malik",
+    "Ahmad al-Mansur",
+    "Abu Abdallah Mohammed II"
+  ],
+  "countries": [
+    "Morocco",
+    "Portugal"
+  ],
+  "place": "Near Ksar el-Kebir, Morocco",
+  "lat": 35.002,
+  "lon": -5.905,
+  "tags": [
+    "war"
+  ],
+  "weight": 58,
+  "wikipedia": "Battle of Alcácer Quibir",
+  "wikidata": "Q1121532"
+}

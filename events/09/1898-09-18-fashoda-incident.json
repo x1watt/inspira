@@ -1,0 +1,31 @@
+{
+  "id": "event-1898-09-18-fashoda-incident",
+  "title": "Fashoda Incident brings Britain and France to the brink",
+  "year": 1898,
+  "month": 9,
+  "day": 18,
+  "calendar": "gregorian",
+  "summary": "Kitchener's flotilla reached Fashoda on the White Nile, where a small French expedition under Jean-Baptiste Marchand had raised the French flag.",
+  "reason": "France hoped to build an east-west belt of colonies across Africa, while Britain wanted a north-south line from Egypt.",
+  "significance": "France backed down, settling the colonial rivalry and paving the way for the Entente Cordiale.",
+  "participants": [
+    "Herbert Kitchener",
+    "Jean-Baptiste Marchand",
+    "United Kingdom",
+    "French Third Republic"
+  ],
+  "countries": [
+    "South Sudan",
+    "United Kingdom",
+    "France"
+  ],
+  "place": "Kodok (Fashoda), South Sudan",
+  "lat": 9.8833,
+  "lon": 32.1167,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 50,
+  "wikipedia": "Fashoda Incident",
+  "wikidata": "Q722699"
+}

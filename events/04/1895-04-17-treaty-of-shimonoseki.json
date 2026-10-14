@@ -1,0 +1,33 @@
+{
+  "id": "event-1895-04-17-treaty-of-shimonoseki",
+  "title": "Treaty of Shimonoseki ends the First Sino-Japanese War",
+  "year": 1895,
+  "month": 4,
+  "day": 17,
+  "calendar": "gregorian",
+  "summary": "China recognized the independence of Korea and ceded Taiwan, the Penghu Islands and the Liaodong Peninsula to Japan, along with a large indemnity.",
+  "reason": "Japan's modernized army and navy had defeated the Qing in a war over influence in Korea.",
+  "significance": "It marked Japan's rise as an imperial power and the shift of power in East Asia away from China.",
+  "participants": [
+    "Itō Hirobumi",
+    "Li Hongzhang",
+    "Empire of Japan",
+    "Qing dynasty"
+  ],
+  "countries": [
+    "Japan",
+    "China",
+    "Taiwan",
+    "South Korea"
+  ],
+  "place": "Shunpanrō, Shimonoseki, Japan",
+  "lat": 33.958,
+  "lon": 130.952,
+  "tags": [
+    "diplomacy",
+    "war"
+  ],
+  "weight": 70,
+  "wikipedia": "Treaty of Shimonoseki",
+  "wikidata": "Q269655"
+}

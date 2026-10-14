@@ -1,0 +1,29 @@
+{
+  "id": "event-1602-03-20-dutch-east-india-company",
+  "title": "Dutch East India Company is founded",
+  "year": 1602,
+  "month": 3,
+  "day": 20,
+  "calendar": "gregorian",
+  "summary": "The States General of the Netherlands chartered the United East India Company (VOC), merging rival trading firms into one company with a monopoly on Asian trade.",
+  "reason": "Competing Dutch companies were driving down profits, and the Republic wanted a strong body to fight Portugal and Spain in Asia.",
+  "significance": "Often called the first multinational corporation, it issued tradable shares and dominated Asian trade for nearly two centuries.",
+  "participants": [
+    "Dutch Republic",
+    "Dutch East India Company",
+    "Johan van Oldenbarnevelt"
+  ],
+  "countries": [
+    "Netherlands",
+    "Indonesia"
+  ],
+  "place": "The Hague, Netherlands",
+  "lat": 52.0799,
+  "lon": 4.3113,
+  "tags": [
+    "economy"
+  ],
+  "weight": 76,
+  "wikipedia": "Dutch East India Company",
+  "wikidata": "Q159766"
+}

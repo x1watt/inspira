@@ -1,0 +1,29 @@
+{
+  "id": "event-1991-06-15-pinatubo-eruption",
+  "title": "Mount Pinatubo erupts in the Philippines",
+  "year": 1991,
+  "month": 6,
+  "day": 15,
+  "calendar": "gregorian",
+  "summary": "The climactic eruption of Mount Pinatubo on Luzon threw ash and gas into the stratosphere, while a typhoon turned the ash into heavy mud.",
+  "reason": "The volcano had been dormant for about 500 years before magma rose in early 1991.",
+  "significance": "Timely evacuations saved thousands, and its aerosols cooled the global climate by about half a degree.",
+  "participants": [
+    "Philippines",
+    "Philippine Institute of Volcanology and Seismology",
+    "United States Geological Survey"
+  ],
+  "countries": [
+    "Philippines"
+  ],
+  "place": "Mount Pinatubo, Luzon, Philippines",
+  "lat": 15.1429,
+  "lon": 120.3496,
+  "tags": [
+    "disaster",
+    "science"
+  ],
+  "weight": 62,
+  "wikipedia": "1991 eruption of Mount Pinatubo",
+  "wikidata": "Q31191031"
+}

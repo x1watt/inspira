@@ -1,0 +1,32 @@
+{
+  "id": "event-1214-07-27-battle-of-bouvines",
+  "title": "Philip II of France wins the Battle of Bouvines",
+  "year": 1214,
+  "month": 7,
+  "day": 27,
+  "calendar": "julian",
+  "summary": "King Philip II Augustus defeated the allied army of Emperor Otto IV, the Count of Flanders and English forces of King John near Bouvines.",
+  "reason": "King John and his allies hoped to crush France and recover the English lands Philip had taken.",
+  "significance": "It made France a leading power and helped force King John to accept Magna Carta.",
+  "participants": [
+    "Philip II of France",
+    "Otto IV",
+    "Ferdinand of Flanders",
+    "John of England"
+  ],
+  "countries": [
+    "France",
+    "Germany",
+    "United Kingdom",
+    "Belgium"
+  ],
+  "place": "Bouvines, near Lille, France",
+  "lat": 50.579,
+  "lon": 3.189,
+  "tags": [
+    "war"
+  ],
+  "weight": 65,
+  "wikipedia": "Battle of Bouvines",
+  "wikidata": "Q830626"
+}

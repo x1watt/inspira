@@ -1,0 +1,30 @@
+{
+  "id": "event-380-02-27-edict-of-thessalonica",
+  "title": "Edict of Thessalonica makes Nicene Christianity the state religion",
+  "year": 380,
+  "month": 2,
+  "day": 27,
+  "calendar": "julian",
+  "summary": "Emperor Theodosius I, with his co-emperors, decreed that all subjects should profess the Nicene Christian faith.",
+  "reason": "Theodosius wanted to end the long conflict between Nicene and Arian Christians and to unify the empire under one creed.",
+  "significance": "It made Nicene Christianity the official religion of the Roman Empire.",
+  "participants": [
+    "Theodosius I",
+    "Gratian",
+    "Valentinian II",
+    "Roman Empire"
+  ],
+  "countries": [
+    "Greece"
+  ],
+  "place": "Thessalonica (Thessaloniki), Greece",
+  "lat": 40.6401,
+  "lon": 22.9444,
+  "tags": [
+    "religion",
+    "law"
+  ],
+  "weight": 80,
+  "wikipedia": "Edict of Thessalonica",
+  "wikidata": "Q1257878"
+}

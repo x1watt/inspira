@@ -1,0 +1,29 @@
+{
+  "id": "event-430-08-28-death-of-augustine",
+  "title": "Augustine of Hippo dies during the Vandal siege",
+  "year": 430,
+  "month": 8,
+  "day": 28,
+  "calendar": "julian",
+  "summary": "Augustine, bishop of Hippo and the most influential theologian of the Latin West, died while the Vandals besieged his city.",
+  "reason": "The Vandals under Genseric had crossed from Spain into North Africa and were conquering the Roman provinces there.",
+  "significance": "His works, such as the Confessions and The City of God, shaped Western Christianity and philosophy.",
+  "participants": [
+    "Augustine of Hippo",
+    "Vandals",
+    "Genseric"
+  ],
+  "countries": [
+    "Algeria"
+  ],
+  "place": "Hippo Regius (Annaba), Algeria",
+  "lat": 36.882,
+  "lon": 7.75,
+  "tags": [
+    "religion",
+    "culture"
+  ],
+  "weight": 70,
+  "wikipedia": "Augustine of Hippo",
+  "wikidata": "Q8018"
+}

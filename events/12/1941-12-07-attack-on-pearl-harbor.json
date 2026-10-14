@@ -1,0 +1,30 @@
+{
+  "id": "event-1941-12-07-attack-on-pearl-harbor",
+  "title": "Japan attacks Pearl Harbor",
+  "year": 1941,
+  "month": 12,
+  "day": 7,
+  "calendar": "gregorian",
+  "summary": "Japanese carrier aircraft struck the US Pacific Fleet at Pearl Harbor in Hawaii, sinking or damaging eight battleships and killing about 2,400 Americans.",
+  "reason": "Japan wanted to cripple the US fleet so it could seize the resource-rich colonies of South-East Asia after the United States cut off its oil.",
+  "significance": "It brought the United States into the Second World War and turned the conflict into a truly global war.",
+  "participants": [
+    "Empire of Japan",
+    "Imperial Japanese Navy",
+    "United States Navy",
+    "Isoroku Yamamoto"
+  ],
+  "countries": [
+    "United States",
+    "Japan"
+  ],
+  "place": "Pearl Harbor, Oahu, Hawaii, United States",
+  "lat": 21.3649,
+  "lon": -157.95,
+  "tags": [
+    "war"
+  ],
+  "weight": 93,
+  "wikipedia": "Attack on Pearl Harbor",
+  "wikidata": "Q52418"
+}

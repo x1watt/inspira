@@ -1,0 +1,29 @@
+{
+  "id": "event-1979-05-04-thatcher-pm",
+  "title": "Margaret Thatcher becomes Britain's first woman prime minister",
+  "year": 1979,
+  "month": 5,
+  "day": 4,
+  "calendar": "gregorian",
+  "summary": "Margaret Thatcher became prime minister the day after her Conservative Party won the general election.",
+  "reason": "Strikes during the Winter of Discontent had discredited the Labour government.",
+  "significance": "Her free market policies reshaped Britain and influenced the world.",
+  "participants": [
+    "Margaret Thatcher",
+    "Conservative Party",
+    "James Callaghan"
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "place": "10 Downing Street, London, United Kingdom",
+  "lat": 51.5034,
+  "lon": -0.1276,
+  "tags": [
+    "politics",
+    "economy"
+  ],
+  "weight": 58,
+  "wikipedia": "Premiership of Margaret Thatcher",
+  "wikidata": "Q7240397"
+}

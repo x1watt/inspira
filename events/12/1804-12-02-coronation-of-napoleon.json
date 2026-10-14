@@ -1,0 +1,28 @@
+{
+  "id": "event-1804-12-02-coronation-of-napoleon",
+  "title": "Napoleon crowns himself Emperor of the French",
+  "year": 1804,
+  "month": 12,
+  "day": 2,
+  "calendar": "gregorian",
+  "summary": "In Notre-Dame de Paris, in the presence of Pope Pius VII, Napoleon placed the imperial crown on his own head.",
+  "reason": "Napoleon wanted to make his rule hereditary and give it the prestige of monarchy.",
+  "significance": "It ended the First Republic and created the First French Empire.",
+  "participants": [
+    "Napoleon Bonaparte",
+    "Pope Pius VII",
+    "Josephine de Beauharnais"
+  ],
+  "countries": [
+    "France"
+  ],
+  "place": "Notre-Dame de Paris, France",
+  "lat": 48.853,
+  "lon": 2.3499,
+  "tags": [
+    "politics"
+  ],
+  "weight": 75,
+  "wikipedia": "Coronation of Napoleon",
+  "wikidata": "Q973118"
+}

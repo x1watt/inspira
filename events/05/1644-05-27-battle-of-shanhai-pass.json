@@ -1,0 +1,29 @@
+{
+  "id": "event-1644-05-27-battle-of-shanhai-pass",
+  "title": "Qing and Wu Sangui defeat Li Zicheng at Shanhai Pass",
+  "year": 1644,
+  "month": 5,
+  "day": 27,
+  "calendar": "gregorian",
+  "summary": "The Ming general Wu Sangui joined forces with the Manchu Qing army and defeated Li Zicheng's rebels at the eastern end of the Great Wall.",
+  "reason": "Wu Sangui preferred alliance with the Manchus to submission to the rebel who had taken Beijing.",
+  "significance": "The Qing entered China through the pass, took Beijing and ruled China until 1912.",
+  "participants": [
+    "Wu Sangui",
+    "Dorgon",
+    "Qing dynasty",
+    "Li Zicheng"
+  ],
+  "countries": [
+    "China"
+  ],
+  "place": "Shanhaiguan, Hebei, China",
+  "lat": 40.0,
+  "lon": 119.75,
+  "tags": [
+    "war"
+  ],
+  "weight": 70,
+  "wikipedia": "Battle of Shanhai Pass",
+  "wikidata": "Q4520158"
+}

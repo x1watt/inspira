@@ -1,0 +1,28 @@
+{
+  "id": "event-987-07-03-hugh-capet-crowned",
+  "title": "Hugh Capet is crowned king of the Franks",
+  "year": 987,
+  "month": 7,
+  "day": 3,
+  "calendar": "julian",
+  "summary": "Hugh Capet was crowned king of West Francia after the death of the last Carolingian king, Louis V.",
+  "reason": "The great nobles and the archbishop of Reims chose Hugh over the Carolingian claimant Charles of Lorraine.",
+  "significance": "His Capetian dynasty and its branches ruled France until the Revolution.",
+  "participants": [
+    "Hugh Capet",
+    "Adalberon of Reims",
+    "West Francia"
+  ],
+  "countries": [
+    "France"
+  ],
+  "place": "Noyon, France",
+  "lat": 49.5817,
+  "lon": 2.9989,
+  "tags": [
+    "politics"
+  ],
+  "weight": 65,
+  "wikipedia": "Hugh Capet",
+  "wikidata": "Q159575"
+}

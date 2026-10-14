@@ -1,0 +1,31 @@
+{
+  "id": "event-2001-09-11-september-11",
+  "title": "September 11 attacks",
+  "year": 2001,
+  "month": 9,
+  "day": 11,
+  "calendar": "gregorian",
+  "summary": "Al-Qaeda hijackers flew airliners into the World Trade Center and the Pentagon, and a fourth plane crashed in Pennsylvania. Nearly 3,000 people died.",
+  "reason": "Osama bin Laden sought to punish the United States for its Middle East policies and provoke a wider war.",
+  "significance": "It led to the war on terror, the invasions of Afghanistan and Iraq, and a new security era.",
+  "participants": [
+    "al-Qaeda",
+    "Osama bin Laden",
+    "United States"
+  ],
+  "countries": [
+    "United States",
+    "Afghanistan",
+    "Saudi Arabia"
+  ],
+  "place": "World Trade Center, New York City, United States",
+  "lat": 40.7115,
+  "lon": -74.0134,
+  "tags": [
+    "war",
+    "disaster"
+  ],
+  "weight": 95,
+  "wikipedia": "September 11 attacks",
+  "wikidata": "Q10806"
+}

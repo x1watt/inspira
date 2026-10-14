@@ -1,0 +1,28 @@
+{
+  "id": "event-2012-08-06-curiosity-landing",
+  "title": "Curiosity rover lands on Mars",
+  "year": 2012,
+  "month": 8,
+  "day": 6,
+  "calendar": "gregorian",
+  "summary": "NASA's Curiosity rover was lowered onto Gale Crater by a rocket-powered sky crane.",
+  "reason": "NASA wanted to know whether Mars ever had conditions able to support life.",
+  "significance": "It found that ancient Mars had habitable lakes.",
+  "participants": [
+    "NASA",
+    "Jet Propulsion Laboratory"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Gale Crater, Mars",
+  "lat": -5.37,
+  "lon": 137.81,
+  "tags": [
+    "exploration",
+    "science"
+  ],
+  "weight": 62,
+  "wikipedia": "Curiosity (rover)",
+  "wikidata": "Q48485"
+}

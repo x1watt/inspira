@@ -1,0 +1,29 @@
+{
+  "id": "event-1946-03-05-iron-curtain-speech",
+  "title": "Churchill gives the Iron Curtain speech",
+  "year": 1946,
+  "month": 3,
+  "day": 5,
+  "calendar": "gregorian",
+  "summary": "Winston Churchill, speaking at Westminster College in Fulton, Missouri, warned that an iron curtain had descended across Europe. He called for close cooperation between Britain and the United States.",
+  "reason": "Soviet control was hardening over the states of Eastern Europe occupied by the Red Army, and Churchill wanted to rally American opinion against it.",
+  "significance": "The speech became one of the defining statements of the early Cold War.",
+  "participants": [
+    "Winston Churchill",
+    "Harry S. Truman",
+    "Westminster College"
+  ],
+  "countries": [
+    "United States",
+    "United Kingdom"
+  ],
+  "place": "Westminster College, Fulton, Missouri, United States",
+  "lat": 38.8467,
+  "lon": -91.9479,
+  "tags": [
+    "politics",
+    "diplomacy"
+  ],
+  "weight": 63,
+  "wikipedia": "Fulton Speech"
+}

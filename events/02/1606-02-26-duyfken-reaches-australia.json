@@ -1,0 +1,29 @@
+{
+  "id": "event-1606-02-26-duyfken-reaches-australia",
+  "title": "Willem Janszoon makes the first recorded European landing in Australia",
+  "year": 1606,
+  "month": 2,
+  "day": 26,
+  "calendar": "gregorian",
+  "summary": "The Dutch ship Duyfken under Willem Janszoon landed at the Pennefather River on the Cape York Peninsula, the first documented European landing on Australia.",
+  "reason": "The Dutch East India Company sent Janszoon from Banten to search for trade opportunities around New Guinea.",
+  "significance": "It began European contact with the Australian continent.",
+  "participants": [
+    "Willem Janszoon",
+    "Duyfken",
+    "Dutch East India Company"
+  ],
+  "countries": [
+    "Australia",
+    "Netherlands"
+  ],
+  "place": "Pennefather River, Cape York Peninsula, Australia",
+  "lat": -12.23,
+  "lon": 141.73,
+  "tags": [
+    "exploration"
+  ],
+  "weight": 55,
+  "wikipedia": "Willem Janszoon",
+  "wikidata": "Q174085"
+}

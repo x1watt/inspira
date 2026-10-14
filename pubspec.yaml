@@ -24,6 +24,7 @@ flutter:
   assets:
     - assets/quotes.json
     - assets/stories.json
+    - assets/events.json
     - assets/images.json
     - assets/images/avatars/
     - assets/images/art/

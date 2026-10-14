@@ -1,0 +1,29 @@
+{
+  "id": "event-1959-01-01-cuban-revolution-triumph",
+  "title": "Batista flees as the Cuban Revolution triumphs",
+  "year": 1959,
+  "month": 1,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "Dictator Fulgencio Batista fled Cuba in the early hours of the new year, and Fidel Castro's rebels took power.",
+  "reason": "Castro's guerrillas had won key battles, and Batista had lost the support of the army and of Washington.",
+  "significance": "It brought a communist state to the Western Hemisphere.",
+  "participants": [
+    "Fidel Castro",
+    "Che Guevara",
+    "Fulgencio Batista",
+    "26th of July Movement"
+  ],
+  "countries": [
+    "Cuba"
+  ],
+  "place": "Havana, Cuba",
+  "lat": 23.1136,
+  "lon": -82.3666,
+  "tags": [
+    "revolution"
+  ],
+  "weight": 73,
+  "wikipedia": "Cuban Revolution",
+  "wikidata": "Q11264"
+}

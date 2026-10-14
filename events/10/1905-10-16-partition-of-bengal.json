@@ -1,0 +1,30 @@
+{
+  "id": "event-1905-10-16-partition-of-bengal",
+  "title": "The partition of Bengal takes effect",
+  "year": 1905,
+  "month": 10,
+  "day": 16,
+  "calendar": "gregorian",
+  "summary": "The British administration under Lord Curzon divided the province of Bengal into a Muslim-majority east and a Hindu-majority west, triggering mass protests and boycotts of British goods.",
+  "reason": "The British cited administrative efficiency, but nationalists saw it as a way to divide and weaken Bengali political opposition.",
+  "significance": "It launched the Swadeshi movement and became a turning point for Indian nationalism.",
+  "participants": [
+    "British Raj",
+    "Lord Curzon",
+    "Indian National Congress"
+  ],
+  "countries": [
+    "India",
+    "Bangladesh",
+    "United Kingdom"
+  ],
+  "place": "Calcutta (Kolkata), India",
+  "lat": 22.5726,
+  "lon": 88.3639,
+  "tags": [
+    "politics"
+  ],
+  "weight": 52,
+  "wikipedia": "Partition of Bengal (1905)",
+  "wikidata": "Q2047143"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "event-1906-09-11-gandhi-satyagraha",
+  "title": "Gandhi launches satyagraha in Johannesburg",
+  "year": 1906,
+  "month": 9,
+  "day": 11,
+  "calendar": "gregorian",
+  "summary": "At a mass meeting of Indians in the Empire Theatre in Johannesburg, Mohandas Gandhi led a pledge to resist a discriminatory registration law through nonviolent disobedience.",
+  "reason": "The Transvaal government had proposed an ordinance forcing all Indians to register and carry passes.",
+  "significance": "It began the method of nonviolent resistance Gandhi later used in India and that inspired civil rights movements worldwide.",
+  "participants": [
+    "Mohandas Gandhi",
+    "Transvaal Colony"
+  ],
+  "countries": [
+    "South Africa",
+    "India"
+  ],
+  "place": "Empire Theatre, Johannesburg, South Africa",
+  "lat": -26.2041,
+  "lon": 28.0473,
+  "tags": [
+    "rights"
+  ],
+  "weight": 57,
+  "wikipedia": "Asiatic Registration Act",
+  "wikidata": "Q194279"
+}

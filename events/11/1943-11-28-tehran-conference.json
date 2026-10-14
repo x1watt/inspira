@@ -1,0 +1,31 @@
+{
+  "id": "event-1943-11-28-tehran-conference",
+  "title": "Roosevelt, Churchill and Stalin meet in Tehran",
+  "year": 1943,
+  "month": 11,
+  "day": 28,
+  "calendar": "gregorian",
+  "summary": "The leaders of the United States, Britain and the Soviet Union met together for the first time, at the Soviet embassy in Tehran.",
+  "reason": "Stalin had long demanded a second front in western Europe, and the Allies needed to agree on strategy for the final phase of the war.",
+  "significance": "They agreed on the invasion of France in 1944 and began shaping the post-war order.",
+  "participants": [
+    "Franklin D. Roosevelt",
+    "Winston Churchill",
+    "Joseph Stalin"
+  ],
+  "countries": [
+    "Iran",
+    "United States",
+    "United Kingdom",
+    "Russia"
+  ],
+  "place": "Soviet Embassy, Tehran, Iran",
+  "lat": 35.6961,
+  "lon": 51.4231,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 70,
+  "wikipedia": "Tehran Conference",
+  "wikidata": "Q150974"
+}

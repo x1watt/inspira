@@ -1,0 +1,30 @@
+{
+  "id": "event-1840-02-06-treaty-of-waitangi",
+  "title": "Treaty of Waitangi signed in New Zealand",
+  "year": 1840,
+  "month": 2,
+  "day": 6,
+  "calendar": "gregorian",
+  "summary": "Representatives of the British Crown and more than 40 Māori chiefs signed a treaty at Waitangi in the Bay of Islands.",
+  "reason": "Britain wanted to control growing European settlement and forestall French claims, while chiefs sought protection and order.",
+  "significance": "It is the founding document of New Zealand, though differences between its English and Māori texts are still debated.",
+  "participants": [
+    "William Hobson",
+    "Māori chiefs",
+    "British Empire"
+  ],
+  "countries": [
+    "New Zealand",
+    "United Kingdom"
+  ],
+  "place": "Waitangi, Bay of Islands, New Zealand",
+  "lat": -35.2694,
+  "lon": 174.0806,
+  "tags": [
+    "diplomacy",
+    "politics"
+  ],
+  "weight": 70,
+  "wikipedia": "Treaty of Waitangi",
+  "wikidata": "Q472802"
+}

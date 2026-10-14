@@ -1,0 +1,29 @@
+{
+  "id": "event-1975-04-30-fall-of-saigon",
+  "title": "Saigon falls to North Vietnam",
+  "year": 1975,
+  "month": 4,
+  "day": 30,
+  "calendar": "gregorian",
+  "summary": "North Vietnamese tanks broke through the gates of the Independence Palace in Saigon, and South Vietnam surrendered.",
+  "reason": "After the American withdrawal, the South Vietnamese army collapsed in a spring offensive.",
+  "significance": "It ended the Vietnam War and unified Vietnam under communist rule.",
+  "participants": [
+    "People's Army of Vietnam",
+    "Duong Van Minh",
+    "South Vietnam"
+  ],
+  "countries": [
+    "Vietnam",
+    "United States"
+  ],
+  "place": "Independence Palace, Saigon (Ho Chi Minh City), Vietnam",
+  "lat": 10.777,
+  "lon": 106.6953,
+  "tags": [
+    "war"
+  ],
+  "weight": 75,
+  "wikipedia": "Fall of Saigon",
+  "wikidata": "Q482456"
+}

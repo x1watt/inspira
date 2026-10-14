@@ -1,0 +1,29 @@
+{
+  "id": "event-1848-07-19-seneca-falls-convention",
+  "title": "Seneca Falls Convention demands women's rights",
+  "year": 1848,
+  "month": 7,
+  "day": 19,
+  "calendar": "gregorian",
+  "summary": "About 300 people met in Seneca Falls, New York, for the first women's rights convention, which adopted a Declaration of Sentiments that included the demand for the vote.",
+  "reason": "Women active in the abolitionist movement, such as Elizabeth Cady Stanton and Lucretia Mott, had been excluded from public life and wanted equal rights.",
+  "significance": "It launched the organized women's suffrage movement in the United States.",
+  "participants": [
+    "Elizabeth Cady Stanton",
+    "Lucretia Mott",
+    "Frederick Douglass"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Wesleyan Chapel, Seneca Falls, New York, United States",
+  "lat": 42.9106,
+  "lon": -76.7966,
+  "tags": [
+    "rights",
+    "politics"
+  ],
+  "weight": 70,
+  "wikipedia": "Seneca Falls Convention",
+  "wikidata": "Q2736155"
+}

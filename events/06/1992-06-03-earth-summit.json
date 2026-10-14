@@ -1,0 +1,28 @@
+{
+  "id": "event-1992-06-03-earth-summit",
+  "title": "The Earth Summit opens in Rio de Janeiro",
+  "year": 1992,
+  "month": 6,
+  "day": 3,
+  "calendar": "gregorian",
+  "summary": "The United Nations Conference on Environment and Development gathered over 170 governments in Rio, where climate and biodiversity conventions were opened for signature.",
+  "reason": "Growing concern over global warming, ozone depletion and deforestation called for a global response.",
+  "significance": "It created the framework for later climate treaties, including Kyoto and Paris.",
+  "participants": [
+    "United Nations",
+    "Maurice Strong"
+  ],
+  "countries": [
+    "Brazil"
+  ],
+  "place": "Rio de Janeiro, Brazil",
+  "lat": -22.9068,
+  "lon": -43.1729,
+  "tags": [
+    "diplomacy",
+    "science"
+  ],
+  "weight": 68,
+  "wikipedia": "Earth Summit",
+  "wikidata": "Q751149"
+}

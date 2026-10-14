@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
 import 'app_scope.dart';
+import 'data/event_repository.dart';
 import 'data/favorites_store.dart';
 import 'data/image_repository.dart';
 import 'data/progress_store.dart';
@@ -32,9 +33,10 @@ class _InspiraAppState extends State<InspiraApp> {
   late final Future<AppData> _load = widget.load?.call() ?? _loadAll();
 
   static Future<AppData> _loadAll() async {
-    final (quotes, stories, favorites, images, progress) = await (
+    final (quotes, stories, events, favorites, images, progress) = await (
       QuoteRepository.load(rootBundle),
       StoryRepository.load(rootBundle),
+      EventRepository.load(rootBundle),
       FavoritesStore.load(),
       ImageRepository.load(rootBundle),
       ProgressStore.load(),
@@ -45,6 +47,7 @@ class _InspiraAppState extends State<InspiraApp> {
       favorites: favorites,
       images: images,
       progress: progress,
+      events: events,
     );
   }
 

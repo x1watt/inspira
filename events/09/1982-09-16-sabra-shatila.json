@@ -1,0 +1,31 @@
+{
+  "id": "event-1982-09-16-sabra-shatila",
+  "title": "Massacre at Sabra and Shatila",
+  "year": 1982,
+  "month": 9,
+  "day": 16,
+  "calendar": "gregorian",
+  "summary": "Lebanese Christian militiamen killed hundreds of Palestinian and Lebanese civilians in the Sabra and Shatila camps in Beirut, which Israeli forces had surrounded.",
+  "reason": "The militia sought revenge for the assassination of its leader, President-elect Bashir Gemayel.",
+  "significance": "An Israeli inquiry found Ariel Sharon indirectly responsible.",
+  "participants": [
+    "Lebanese Forces",
+    "Elie Hobeika",
+    "Israel Defense Forces"
+  ],
+  "countries": [
+    "Lebanon",
+    "Israel",
+    "Palestine"
+  ],
+  "place": "Sabra and Shatila, Beirut, Lebanon",
+  "lat": 33.8628,
+  "lon": 35.4984,
+  "tags": [
+    "war",
+    "rights"
+  ],
+  "weight": 51,
+  "wikipedia": "Sabra and Shatila massacre",
+  "wikidata": "Q208199"
+}

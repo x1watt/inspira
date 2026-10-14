@@ -1,0 +1,29 @@
+{
+  "id": "event-1698-12-13-fall-of-fort-jesus",
+  "title": "Omani forces take Fort Jesus from the Portuguese",
+  "year": 1698,
+  "month": 12,
+  "day": 13,
+  "calendar": "gregorian",
+  "summary": "After a siege of nearly three years, Omani Arabs stormed Fort Jesus at Mombasa, the main Portuguese stronghold on the Swahili coast.",
+  "reason": "The Sultanate of Oman sought to drive the Portuguese from East Africa and take over the Indian Ocean trade.",
+  "significance": "It ended Portuguese power north of Mozambique and began Omani dominance on the East African coast.",
+  "participants": [
+    "Omani Empire",
+    "Portuguese Empire"
+  ],
+  "countries": [
+    "Kenya",
+    "Oman",
+    "Portugal"
+  ],
+  "place": "Fort Jesus, Mombasa, Kenya",
+  "lat": -4.0627,
+  "lon": 39.6795,
+  "tags": [
+    "war"
+  ],
+  "weight": 50,
+  "wikipedia": "Siege of Mombasa (1696-1698)",
+  "wikidata": "Q379080"
+}

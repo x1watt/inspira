@@ -1,0 +1,29 @@
+{
+  "id": "event-1986-02-25-people-power-revolution",
+  "title": "People Power drives Ferdinand Marcos from power",
+  "year": 1986,
+  "month": 2,
+  "day": 25,
+  "calendar": "gregorian",
+  "summary": "After four days of mass protests on EDSA avenue in Manila, Ferdinand Marcos fled and Corazon Aquino was sworn in as president.",
+  "reason": "Marcos had claimed victory in a fraudulent election, and part of the army turned against him.",
+  "significance": "It restored democracy and inspired peaceful movements elsewhere.",
+  "participants": [
+    "Corazon Aquino",
+    "Ferdinand Marcos",
+    "Juan Ponce Enrile",
+    "Fidel Ramos"
+  ],
+  "countries": [
+    "Philippines"
+  ],
+  "place": "EDSA, Manila, Philippines",
+  "lat": 14.5876,
+  "lon": 121.057,
+  "tags": [
+    "revolution"
+  ],
+  "weight": 58,
+  "wikipedia": "People Power Revolution",
+  "wikidata": "Q1274389"
+}

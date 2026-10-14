@@ -1,0 +1,28 @@
+{
+  "id": "event-1547-01-16-ivan-iv-crowned-tsar",
+  "title": "Ivan IV is crowned the first Tsar of All Russia",
+  "year": 1547,
+  "month": 1,
+  "day": 16,
+  "calendar": "julian",
+  "summary": "Grand Prince Ivan IV of Moscow was crowned in the Kremlin's Cathedral of the Dormition with the new title of Tsar.",
+  "reason": "Moscow's rulers presented themselves as heirs of Byzantium and wanted a title equal to that of an emperor.",
+  "significance": "It created the Tsardom of Russia, the autocratic state that lasted until 1917.",
+  "participants": [
+    "Ivan the Terrible",
+    "Tsardom of Russia",
+    "Metropolitan Macarius"
+  ],
+  "countries": [
+    "Russia"
+  ],
+  "place": "Cathedral of the Dormition, Moscow Kremlin, Russia",
+  "lat": 55.752,
+  "lon": 37.618,
+  "tags": [
+    "politics"
+  ],
+  "weight": 65,
+  "wikipedia": "Ivan the Terrible",
+  "wikidata": "Q7996"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "event-311-07-13-disaster-of-yongjia",
+  "title": "Luoyang falls in the Disaster of Yongjia",
+  "year": 311,
+  "month": 7,
+  "day": 13,
+  "calendar": "julian",
+  "summary": "Forces of the Xiongnu-led Han Zhao state captured Luoyang, the capital of the Jin dynasty, sacked the city and seized Emperor Huai.",
+  "reason": "The Jin had been weakened by the War of the Eight Princes, and northern peoples took advantage of the chaos.",
+  "significance": "It led to the loss of northern China and the move of the Jin court to the south.",
+  "participants": [
+    "Han Zhao",
+    "Liu Cong",
+    "Emperor Huai of Jin",
+    "Jin dynasty"
+  ],
+  "countries": [
+    "China"
+  ],
+  "place": "Luoyang, Henan, China",
+  "lat": 34.73,
+  "lon": 112.62,
+  "tags": [
+    "war"
+  ],
+  "weight": 62,
+  "wikipedia": "Disaster of Yongjia",
+  "wikidata": "Q2481148"
+}

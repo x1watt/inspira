@@ -1,0 +1,29 @@
+{
+  "id": "event-1779-02-14-cook-killed-hawaii",
+  "title": "James Cook is killed at Kealakekua Bay",
+  "year": 1779,
+  "month": 2,
+  "day": 14,
+  "calendar": "gregorian",
+  "summary": "Captain James Cook was killed in a fight with Hawaiians at Kealakekua Bay after he tried to take the chief Kalaniopuu hostage over a stolen boat.",
+  "reason": "Relations soured after Cook's ships returned unexpectedly for repairs, straining local resources.",
+  "significance": "It ended the life of the greatest explorer of the Pacific, whose voyages had opened Hawaii to the world.",
+  "participants": [
+    "James Cook",
+    "Kalaniopuu",
+    "HMS Resolution"
+  ],
+  "countries": [
+    "United States",
+    "United Kingdom"
+  ],
+  "place": "Kealakekua Bay, Hawaii, United States",
+  "lat": 19.4769,
+  "lon": -155.92,
+  "tags": [
+    "exploration"
+  ],
+  "weight": 55,
+  "wikipedia": "Third voyage of James Cook",
+  "wikidata": "Q2750283"
+}

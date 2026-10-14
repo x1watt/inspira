@@ -1,0 +1,29 @@
+{
+  "id": "event-1531-12-12-our-lady-of-guadalupe",
+  "title": "The image of Our Lady of Guadalupe appears to Juan Diego",
+  "year": 1531,
+  "month": 12,
+  "day": 12,
+  "calendar": "julian",
+  "summary": "According to tradition, the Virgin Mary appeared to the indigenous convert Juan Diego on the hill of Tepeyac, and her image was found imprinted on his cloak.",
+  "reason": "The account arose in the decade after the Spanish conquest, when friars were seeking to convert the indigenous people of Mexico.",
+  "significance": "Guadalupe became the most important religious and national symbol of Mexico and a major Catholic pilgrimage site.",
+  "participants": [
+    "Juan Diego",
+    "Juan de Zumarraga",
+    "Catholic Church"
+  ],
+  "countries": [
+    "Mexico"
+  ],
+  "place": "Hill of Tepeyac, Mexico City, Mexico",
+  "lat": 19.485,
+  "lon": -99.117,
+  "tags": [
+    "religion",
+    "culture"
+  ],
+  "weight": 58,
+  "wikipedia": "Our Lady of Guadalupe",
+  "wikidata": "Q31877"
+}

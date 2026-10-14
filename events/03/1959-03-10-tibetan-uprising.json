@@ -1,0 +1,30 @@
+{
+  "id": "event-1959-03-10-tibetan-uprising",
+  "title": "The Tibetan uprising begins in Lhasa",
+  "year": 1959,
+  "month": 3,
+  "day": 10,
+  "calendar": "gregorian",
+  "summary": "Crowds surrounded the Norbulingka palace in Lhasa to protect the Dalai Lama from feared arrest by Chinese authorities. The revolt was crushed and the Dalai Lama fled to India.",
+  "reason": "Tibetans resented Chinese rule since 1950 and reforms imposed in eastern Tibet.",
+  "significance": "It began the Tibetan exile in India and remains a defining moment for Tibet.",
+  "participants": [
+    "14th Dalai Lama",
+    "People's Liberation Army",
+    "Tibet"
+  ],
+  "countries": [
+    "China",
+    "India"
+  ],
+  "place": "Lhasa, Tibet, China",
+  "lat": 29.6578,
+  "lon": 91.117,
+  "tags": [
+    "revolution",
+    "religion"
+  ],
+  "weight": 58,
+  "wikipedia": "1959 Tibetan uprising",
+  "wikidata": "Q508258"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "event-1816-07-09-argentine-independence",
+  "title": "Argentina declares independence from Spain",
+  "year": 1816,
+  "month": 7,
+  "day": 9,
+  "calendar": "gregorian",
+  "summary": "Delegates of the Congress of Tucumán declared the United Provinces of South America independent of the Spanish crown.",
+  "reason": "Spanish authority had collapsed during the Napoleonic Wars and the revolutionary juntas formed since 1810 wanted a formal break before a royalist reconquest.",
+  "significance": "It founded the Argentine state and strengthened the independence campaigns across southern South America.",
+  "participants": [
+    "Congress of Tucumán",
+    "United Provinces of the Río de la Plata",
+    "José de San Martín",
+    "Spanish Empire"
+  ],
+  "countries": [
+    "Argentina",
+    "Spain"
+  ],
+  "place": "Casa Histórica, San Miguel de Tucumán, Argentina",
+  "lat": -26.8303,
+  "lon": -65.2038,
+  "tags": [
+    "politics",
+    "revolution"
+  ],
+  "weight": 65,
+  "wikipedia": "Argentine Declaration of Independence",
+  "wikidata": "Q3248484"
+}

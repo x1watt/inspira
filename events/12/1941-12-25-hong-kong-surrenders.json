@@ -1,0 +1,31 @@
+{
+  "id": "event-1941-12-25-hong-kong-surrenders",
+  "title": "Hong Kong surrenders to Japan",
+  "year": 1941,
+  "month": 12,
+  "day": 25,
+  "calendar": "gregorian",
+  "summary": "After eighteen days of fighting, the British governor surrendered Hong Kong to Japanese forces on Christmas Day, known locally as Black Christmas.",
+  "reason": "Japan attacked the British colony as part of its offensive across Asia, and the small garrison could not be relieved.",
+  "significance": "It began nearly four years of harsh Japanese occupation in Hong Kong.",
+  "participants": [
+    "Empire of Japan",
+    "British Hong Kong",
+    "Mark Young",
+    "Takashi Sakai"
+  ],
+  "countries": [
+    "China",
+    "United Kingdom",
+    "Japan"
+  ],
+  "place": "Hong Kong, China",
+  "lat": 22.2783,
+  "lon": 114.1747,
+  "tags": [
+    "war"
+  ],
+  "weight": 52,
+  "wikipedia": "Battle of Hong Kong",
+  "wikidata": "Q697059"
+}

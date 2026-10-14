@@ -1,0 +1,34 @@
+{
+  "id": "event-1944-06-06-normandy-landings",
+  "title": "D-Day: Allied forces land in Normandy",
+  "year": 1944,
+  "month": 6,
+  "day": 6,
+  "calendar": "gregorian",
+  "summary": "About 156,000 American, British, Canadian and other Allied troops landed on five beaches in Normandy, supported by paratroopers and thousands of ships and aircraft.",
+  "reason": "The Allies needed a second front in western Europe to defeat Germany, and had spent years preparing the largest seaborne invasion in history.",
+  "significance": "It began the liberation of western Europe and sealed Nazi Germany's defeat.",
+  "participants": [
+    "Allied Expeditionary Force",
+    "Dwight D. Eisenhower",
+    "Bernard Montgomery",
+    "Wehrmacht",
+    "Erwin Rommel"
+  ],
+  "countries": [
+    "France",
+    "United States",
+    "United Kingdom",
+    "Canada",
+    "Germany"
+  ],
+  "place": "Omaha Beach, Normandy, France",
+  "lat": 49.369,
+  "lon": -0.8822,
+  "tags": [
+    "war"
+  ],
+  "weight": 92,
+  "wikipedia": "Normandy landings",
+  "wikidata": "Q16470"
+}

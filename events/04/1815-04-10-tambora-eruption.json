@@ -1,0 +1,26 @@
+{
+  "id": "event-1815-04-10-tambora-eruption",
+  "title": "Mount Tambora erupts",
+  "year": 1815,
+  "month": 4,
+  "day": 10,
+  "calendar": "gregorian",
+  "summary": "Mount Tambora on Sumbawa erupted with enormous force, the largest eruption in recorded history.",
+  "reason": "Pressure built inside the volcano for years before the climactic explosion.",
+  "significance": "Ash in the atmosphere caused the Year Without a Summer in 1816, with famine across the Northern Hemisphere.",
+  "participants": [
+    "Sumbawa"
+  ],
+  "countries": [
+    "Indonesia"
+  ],
+  "place": "Mount Tambora, Sumbawa, Indonesia",
+  "lat": -8.25,
+  "lon": 118.0,
+  "tags": [
+    "disaster"
+  ],
+  "weight": 80,
+  "wikipedia": "1815 eruption of Mount Tambora",
+  "wikidata": "Q3591483"
+}

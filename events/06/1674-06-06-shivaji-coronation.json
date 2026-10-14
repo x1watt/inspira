@@ -1,0 +1,27 @@
+{
+  "id": "event-1674-06-06-shivaji-coronation",
+  "title": "Shivaji is crowned Chhatrapati of the Maratha kingdom",
+  "year": 1674,
+  "month": 6,
+  "day": 6,
+  "calendar": "gregorian",
+  "summary": "The Maratha leader Shivaji was crowned king with Vedic rites at the hill fort of Raigad, taking the title Chhatrapati.",
+  "reason": "Shivaji had carved out an independent state against the Mughals and Bijapur and wanted formal royal standing.",
+  "significance": "The Maratha state he founded later became the dominant power in India.",
+  "participants": [
+    "Shivaji",
+    "Maratha Empire"
+  ],
+  "countries": [
+    "India"
+  ],
+  "place": "Raigad Fort, Maharashtra, India",
+  "lat": 18.2336,
+  "lon": 73.44,
+  "tags": [
+    "politics"
+  ],
+  "weight": 64,
+  "wikipedia": "Shivaji",
+  "wikidata": "Q239505"
+}

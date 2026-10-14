@@ -1,0 +1,30 @@
+{
+  "id": "event-1936-08-01-berlin-olympics",
+  "title": "The Berlin Olympics open",
+  "year": 1936,
+  "month": 8,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "Hitler opened the Summer Olympics in Berlin, where Jesse Owens won four gold medals in athletics.",
+  "reason": "Nazi Germany used the Games to showcase the regime and its claims of racial superiority.",
+  "significance": "The Games became a symbol of sport used as propaganda, and Owens's victories its rebuttal.",
+  "participants": [
+    "Nazi Germany",
+    "International Olympic Committee",
+    "Jesse Owens"
+  ],
+  "countries": [
+    "Germany",
+    "United States"
+  ],
+  "place": "Olympiastadion, Berlin, Germany",
+  "lat": 52.5147,
+  "lon": 13.2395,
+  "tags": [
+    "sport",
+    "politics"
+  ],
+  "weight": 52,
+  "wikipedia": "1936 Summer Olympics",
+  "wikidata": "Q8150"
+}

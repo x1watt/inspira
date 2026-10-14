@@ -1,0 +1,28 @@
+{
+  "id": "event-1954-11-01-toussaint-rouge",
+  "title": "The FLN launches the Algerian War",
+  "year": 1954,
+  "month": 11,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "The National Liberation Front carried out a wave of coordinated attacks across Algeria, known as Red All Saints' Day.",
+  "reason": "Algerian nationalists had lost hope of reform after decades of French settler rule.",
+  "significance": "It began the war that ended with Algerian independence in 1962.",
+  "participants": [
+    "National Liberation Front (Algeria)",
+    "French Fourth Republic"
+  ],
+  "countries": [
+    "Algeria",
+    "France"
+  ],
+  "place": "Aures Mountains, near Batna, Algeria",
+  "lat": 35.555,
+  "lon": 6.174,
+  "tags": [
+    "war",
+    "revolution"
+  ],
+  "weight": 58,
+  "wikipedia": "Toussaint Rouge"
+}

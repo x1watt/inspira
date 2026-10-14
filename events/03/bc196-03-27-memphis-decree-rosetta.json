@@ -1,0 +1,29 @@
+{
+  "id": "event-bc196-03-27-memphis-decree-rosetta",
+  "title": "Priests issue the decree later carved on the Rosetta Stone",
+  "year": -196,
+  "month": 3,
+  "day": 27,
+  "calendar": "julian",
+  "summary": "A council of Egyptian priests meeting at Memphis issued a decree honouring the young king Ptolemy V. Copies were carved in hieroglyphic, Demotic and Greek, and one of them survives as the Rosetta Stone.",
+  "reason": "The decree marked the first anniversary of Ptolemy V's coronation and confirmed the priests' privileges in return for their support of the dynasty.",
+  "significance": "The Rosetta Stone copy allowed Champollion to decipher Egyptian hieroglyphs in the nineteenth century.",
+  "participants": [
+    "Ptolemy V Epiphanes",
+    "Ptolemaic Kingdom",
+    "Egyptian priesthood"
+  ],
+  "countries": [
+    "Egypt"
+  ],
+  "place": "Memphis, Egypt",
+  "lat": 29.8447,
+  "lon": 31.2503,
+  "tags": [
+    "culture",
+    "religion"
+  ],
+  "weight": 70,
+  "wikipedia": "Rosetta Stone",
+  "wikidata": "Q48584"
+}

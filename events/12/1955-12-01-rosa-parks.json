@@ -1,0 +1,28 @@
+{
+  "id": "event-1955-12-01-rosa-parks",
+  "title": "Rosa Parks refuses to give up her bus seat",
+  "year": 1955,
+  "month": 12,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "Rosa Parks, a Black seamstress and NAACP activist, was arrested in Montgomery, Alabama, for refusing to give her bus seat to a white passenger.",
+  "reason": "Montgomery's buses enforced racial segregation, and activists were looking for a case to challenge it.",
+  "significance": "Her arrest started the Montgomery bus boycott and brought Martin Luther King Jr. to the fore.",
+  "participants": [
+    "Rosa Parks",
+    "Martin Luther King Jr.",
+    "NAACP"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Montgomery, Alabama, United States",
+  "lat": 32.3792,
+  "lon": -86.3077,
+  "tags": [
+    "rights"
+  ],
+  "weight": 65,
+  "wikipedia": "Rosa Parks",
+  "wikidata": "Q41921"
+}

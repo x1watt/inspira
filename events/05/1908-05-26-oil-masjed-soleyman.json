@@ -1,0 +1,29 @@
+{
+  "id": "event-1908-05-26-oil-masjed-soleyman",
+  "title": "Oil is struck at Masjed Soleyman in Persia",
+  "year": 1908,
+  "month": 5,
+  "day": 26,
+  "calendar": "gregorian",
+  "summary": "A drilling team financed by William Knox D'Arcy struck oil at Masjed Soleyman in southwestern Persia, the first commercial oil discovery in the Middle East.",
+  "reason": "D'Arcy held a concession from the Shah and had spent years searching for oil before his funds nearly ran out.",
+  "significance": "It led to the Anglo-Persian Oil Company and made the Middle East central to the world's energy and politics.",
+  "participants": [
+    "William Knox D'Arcy",
+    "George Bernard Reynolds",
+    "Burmah Oil"
+  ],
+  "countries": [
+    "Iran",
+    "United Kingdom"
+  ],
+  "place": "Masjed Soleyman, Iran",
+  "lat": 31.9364,
+  "lon": 49.3039,
+  "tags": [
+    "economy"
+  ],
+  "weight": 62,
+  "wikipedia": "Masjed Soleyman",
+  "wikidata": "Q643172"
+}

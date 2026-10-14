@@ -1,0 +1,28 @@
+{
+  "id": "event-1978-04-27-saur-revolution",
+  "title": "Communists seize power in Afghanistan",
+  "year": 1978,
+  "month": 4,
+  "day": 27,
+  "calendar": "gregorian",
+  "summary": "Officers loyal to the People's Democratic Party of Afghanistan attacked the presidential palace in Kabul and killed President Mohammed Daoud Khan.",
+  "reason": "Daoud had cracked down on the communist party and arrested its leaders.",
+  "significance": "Revolt against the new regime led to the Soviet invasion and decades of war.",
+  "participants": [
+    "People's Democratic Party of Afghanistan",
+    "Nur Muhammad Taraki",
+    "Mohammed Daoud Khan"
+  ],
+  "countries": [
+    "Afghanistan"
+  ],
+  "place": "Kabul, Afghanistan",
+  "lat": 34.5553,
+  "lon": 69.2075,
+  "tags": [
+    "revolution"
+  ],
+  "weight": 55,
+  "wikipedia": "Saur Revolution",
+  "wikidata": "Q1341539"
+}

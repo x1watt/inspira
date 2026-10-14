@@ -1,0 +1,28 @@
+{
+  "id": "event-1889-02-11-meiji-constitution",
+  "title": "Japan promulgates the Meiji Constitution",
+  "year": 1889,
+  "month": 2,
+  "day": 11,
+  "calendar": "gregorian",
+  "summary": "Emperor Meiji granted a constitution creating an elected Imperial Diet while keeping sovereign power with the emperor.",
+  "reason": "Japan's leaders wanted a modern state recognized by the West, and studied the Prussian model in particular.",
+  "significance": "It made Japan the first constitutional monarchy in Asia and governed it until 1947.",
+  "participants": [
+    "Emperor Meiji",
+    "Itō Hirobumi",
+    "Empire of Japan"
+  ],
+  "countries": [
+    "Japan"
+  ],
+  "place": "Tokyo Imperial Palace, Tokyo, Japan",
+  "lat": 35.6852,
+  "lon": 139.7528,
+  "tags": [
+    "politics",
+    "law"
+  ],
+  "weight": 65,
+  "wikipedia": "Meiji Constitution"
+}

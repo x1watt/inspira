@@ -1,0 +1,30 @@
+{
+  "id": "event-1974-04-25-carnation-revolution",
+  "title": "The Carnation Revolution topples Portugal's dictatorship",
+  "year": 1974,
+  "month": 4,
+  "day": 25,
+  "calendar": "gregorian",
+  "summary": "Junior army officers overthrew the Estado Novo regime in a nearly bloodless coup, with crowds placing carnations in soldiers' rifles.",
+  "reason": "Officers were weary of colonial wars in Africa, and the regime had refused reform.",
+  "significance": "It brought democracy to Portugal and independence to its African colonies.",
+  "participants": [
+    "Armed Forces Movement",
+    "Marcelo Caetano",
+    "Estado Novo"
+  ],
+  "countries": [
+    "Portugal",
+    "Angola",
+    "Mozambique"
+  ],
+  "place": "Lisbon, Portugal",
+  "lat": 38.7223,
+  "lon": -9.1393,
+  "tags": [
+    "revolution"
+  ],
+  "weight": 65,
+  "wikipedia": "Carnation Revolution",
+  "wikidata": "Q193245"
+}

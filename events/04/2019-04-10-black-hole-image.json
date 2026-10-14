@@ -1,0 +1,28 @@
+{
+  "id": "event-2019-04-10-black-hole-image",
+  "title": "First image of a black hole is released",
+  "year": 2019,
+  "month": 4,
+  "day": 10,
+  "calendar": "gregorian",
+  "summary": "The Event Horizon Telescope collaboration released an image of the shadow of the black hole at the centre of galaxy M87.",
+  "reason": "Linking radio telescopes around the world created a virtual telescope the size of Earth.",
+  "significance": "It gave the first direct visual evidence of a black hole.",
+  "participants": [
+    "Event Horizon Telescope"
+  ],
+  "countries": [
+    "United States",
+    "Netherlands",
+    "Chile"
+  ],
+  "place": "Messier 87",
+  "lat": null,
+  "lon": null,
+  "tags": [
+    "science"
+  ],
+  "weight": 62,
+  "wikipedia": "Event Horizon Telescope",
+  "wikidata": "Q3944788"
+}

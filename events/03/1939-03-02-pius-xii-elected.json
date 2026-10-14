@@ -1,0 +1,29 @@
+{
+  "id": "event-1939-03-02-pius-xii-elected",
+  "title": "Eugenio Pacelli is elected Pope Pius XII",
+  "year": 1939,
+  "month": 3,
+  "day": 2,
+  "calendar": "gregorian",
+  "summary": "On his 63rd birthday, Cardinal Eugenio Pacelli was elected pope after a one-day conclave and took the name Pius XII.",
+  "reason": "Pope Pius XI had died in February, and the cardinals wanted an experienced diplomat as war in Europe looked likely; Pacelli had been the Vatican's Secretary of State.",
+  "significance": "He led the Catholic Church through the Second World War, and his conduct toward the Holocaust remains one of the most debated questions about the modern papacy.",
+  "participants": [
+    "Pius XII",
+    "Catholic Church",
+    "College of Cardinals"
+  ],
+  "countries": [
+    "Vatican City",
+    "Italy"
+  ],
+  "place": "Sistine Chapel, Vatican City",
+  "lat": 41.9029,
+  "lon": 12.4545,
+  "tags": [
+    "religion"
+  ],
+  "weight": 55,
+  "wikipedia": "Pope Pius XII",
+  "wikidata": "Q2604"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "event-1918-03-03-brest-litovsk",
+  "title": "Soviet Russia signs the Treaty of Brest-Litovsk",
+  "year": 1918,
+  "month": 3,
+  "day": 3,
+  "calendar": "gregorian",
+  "summary": "Soviet Russia signed a separate peace with the Central Powers at Brest-Litovsk, giving up Poland, the Baltic lands, Finland and Ukraine.",
+  "reason": "Lenin needed to end the war to save the Bolshevik regime after the Russian army collapsed.",
+  "significance": "It took Russia out of World War I and let Germany shift troops to the Western Front.",
+  "participants": [
+    "Russian SFSR",
+    "German Empire",
+    "Austria-Hungary",
+    "Leon Trotsky"
+  ],
+  "countries": [
+    "Belarus",
+    "Russia",
+    "Germany"
+  ],
+  "place": "Brest-Litovsk (Brest), Belarus",
+  "lat": 52.0976,
+  "lon": 23.6877,
+  "tags": [
+    "diplomacy",
+    "war"
+  ],
+  "weight": 62,
+  "wikipedia": "Treaty of Brest-Litovsk",
+  "wikidata": "Q122371"
+}

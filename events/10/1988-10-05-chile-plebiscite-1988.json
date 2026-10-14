@@ -1,0 +1,27 @@
+{
+  "id": "event-1988-10-05-chile-plebiscite-1988",
+  "title": "Chileans vote No to Pinochet",
+  "year": 1988,
+  "month": 10,
+  "day": 5,
+  "calendar": "gregorian",
+  "summary": "In a national plebiscite, Chileans rejected another eight years of rule by Augusto Pinochet.",
+  "reason": "The 1980 constitution required a vote, and a broad opposition campaigned for No.",
+  "significance": "It led to free elections and the return of democracy in 1990.",
+  "participants": [
+    "Augusto Pinochet",
+    "Concertacion"
+  ],
+  "countries": [
+    "Chile"
+  ],
+  "place": "Santiago, Chile",
+  "lat": -33.4489,
+  "lon": -70.6693,
+  "tags": [
+    "politics",
+    "rights"
+  ],
+  "weight": 51,
+  "wikipedia": "1988 Chilean presidential referendum"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "event-1844-02-27-dominican-independence",
+  "title": "Dominican Republic declares independence from Haiti",
+  "year": 1844,
+  "month": 2,
+  "day": 27,
+  "calendar": "gregorian",
+  "summary": "Members of the secret society La Trinitaria took the Puerta del Conde in Santo Domingo and proclaimed the independent Dominican Republic.",
+  "reason": "The eastern part of Hispaniola had been ruled by Haiti since 1822, and its Spanish-speaking population resented the occupation.",
+  "significance": "It is the founding date of the Dominican Republic.",
+  "participants": [
+    "Juan Pablo Duarte",
+    "Francisco del Rosario Sánchez",
+    "Matías Ramón Mella",
+    "Haiti"
+  ],
+  "countries": [
+    "Dominican Republic",
+    "Haiti"
+  ],
+  "place": "Puerta del Conde, Santo Domingo, Dominican Republic",
+  "lat": 18.4729,
+  "lon": -69.892,
+  "tags": [
+    "revolution",
+    "politics"
+  ],
+  "weight": 50,
+  "wikipedia": "Dominican War of Independence",
+  "wikidata": "Q3439047"
+}

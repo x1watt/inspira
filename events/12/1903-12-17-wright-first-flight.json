@@ -1,0 +1,27 @@
+{
+  "id": "event-1903-12-17-wright-first-flight",
+  "title": "The Wright brothers make the first powered airplane flight",
+  "year": 1903,
+  "month": 12,
+  "day": 17,
+  "calendar": "gregorian",
+  "summary": "Orville Wright flew the Wright Flyer for 12 seconds near Kitty Hawk, North Carolina, the first sustained, controlled flight of a powered heavier-than-air aircraft; four flights were made that day.",
+  "reason": "Wilbur and Orville Wright had spent years studying flight control, building gliders and a wind tunnel, and designing a light engine and propellers.",
+  "significance": "It began the age of aviation, which transformed travel, trade and war.",
+  "participants": [
+    "Orville Wright",
+    "Wilbur Wright"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Kill Devil Hills, North Carolina, United States",
+  "lat": 36.014,
+  "lon": -75.668,
+  "tags": [
+    "technology"
+  ],
+  "weight": 92,
+  "wikipedia": "Wright Flyer",
+  "wikidata": "Q688605"
+}

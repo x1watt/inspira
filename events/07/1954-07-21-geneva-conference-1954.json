@@ -1,0 +1,31 @@
+{
+  "id": "event-1954-07-21-geneva-conference-1954",
+  "title": "Geneva Accords divide Vietnam",
+  "year": 1954,
+  "month": 7,
+  "day": 21,
+  "calendar": "gregorian",
+  "summary": "The Geneva Conference ended with agreements that divided Vietnam at the 17th parallel and confirmed the independence of Laos and Cambodia.",
+  "reason": "France wanted out of Indochina after Dien Bien Phu, and the great powers sought a settlement.",
+  "significance": "The temporary division of Vietnam led to the Vietnam War.",
+  "participants": [
+    "France",
+    "Viet Minh",
+    "Pierre Mendes France",
+    "Zhou Enlai"
+  ],
+  "countries": [
+    "Switzerland",
+    "Vietnam",
+    "France"
+  ],
+  "place": "Geneva, Switzerland",
+  "lat": 46.2044,
+  "lon": 6.1432,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 63,
+  "wikipedia": "1954 Geneva Conference",
+  "wikidata": "Q482407"
+}

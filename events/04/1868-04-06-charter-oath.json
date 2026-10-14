@@ -1,0 +1,28 @@
+{
+  "id": "event-1868-04-06-charter-oath",
+  "title": "Emperor Meiji proclaims the Charter Oath",
+  "year": 1868,
+  "month": 4,
+  "day": 6,
+  "calendar": "gregorian",
+  "summary": "The new Meiji government issued a five-article oath promising deliberative assemblies, the end of old customs and the search for knowledge throughout the world.",
+  "reason": "The new leaders needed to win support from the domains and set out the direction of the restored imperial government.",
+  "significance": "It served as the guiding program of Japan's modernization.",
+  "participants": [
+    "Emperor Meiji",
+    "Meiji government"
+  ],
+  "countries": [
+    "Japan"
+  ],
+  "place": "Kyoto Imperial Palace, Kyoto, Japan",
+  "lat": 35.0254,
+  "lon": 135.7621,
+  "tags": [
+    "politics",
+    "law"
+  ],
+  "weight": 50,
+  "wikipedia": "Charter Oath",
+  "wikidata": "Q702056"
+}

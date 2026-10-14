@@ -1,0 +1,30 @@
+{
+  "id": "event-1961-04-11-eichmann-trial",
+  "title": "The trial of Adolf Eichmann opens in Jerusalem",
+  "year": 1961,
+  "month": 4,
+  "day": 11,
+  "calendar": "gregorian",
+  "summary": "Adolf Eichmann, a chief organizer of the Holocaust captured by Israeli agents in Argentina, went on trial in Jerusalem.",
+  "reason": "Israel wanted to try him for crimes against the Jewish people and make the Holocaust known.",
+  "significance": "The televised trial made survivors' testimony heard around the world.",
+  "participants": [
+    "Adolf Eichmann",
+    "State of Israel",
+    "Gideon Hausner"
+  ],
+  "countries": [
+    "Israel",
+    "Germany",
+    "Argentina"
+  ],
+  "place": "Beit Ha'am, Jerusalem",
+  "lat": 31.7811,
+  "lon": 35.2163,
+  "tags": [
+    "law"
+  ],
+  "weight": 51,
+  "wikipedia": "Eichmann trial",
+  "wikidata": "Q321531"
+}

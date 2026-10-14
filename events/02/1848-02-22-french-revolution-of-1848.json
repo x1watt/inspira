@@ -1,0 +1,29 @@
+{
+  "id": "event-1848-02-22-french-revolution-of-1848",
+  "title": "February Revolution begins in Paris",
+  "year": 1848,
+  "month": 2,
+  "day": 22,
+  "calendar": "gregorian",
+  "summary": "Protests over a banned reform banquet turned into street fighting in Paris, and within three days King Louis Philippe abdicated and the Second Republic was proclaimed.",
+  "reason": "An economic crisis and a narrow electorate fueled anger against the July Monarchy's refusal to widen voting rights.",
+  "significance": "It triggered the wave of revolutions that swept Europe in 1848 and brought universal male suffrage to France.",
+  "participants": [
+    "Louis Philippe I",
+    "Alphonse de Lamartine",
+    "French Second Republic"
+  ],
+  "countries": [
+    "France"
+  ],
+  "place": "Paris, France",
+  "lat": 48.8566,
+  "lon": 2.3522,
+  "tags": [
+    "revolution",
+    "politics"
+  ],
+  "weight": 70,
+  "wikipedia": "French Revolution of 1848",
+  "wikidata": "Q622774"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "event-1847-07-26-liberian-independence",
+  "title": "Liberia declares independence",
+  "year": 1847,
+  "month": 7,
+  "day": 26,
+  "calendar": "gregorian",
+  "summary": "A convention in Monrovia declared Liberia an independent republic and adopted a constitution modeled on that of the United States.",
+  "reason": "The colony, founded for freed African Americans by the American Colonization Society, needed sovereignty to collect customs and resist British claims.",
+  "significance": "Liberia became the first independent republic in Africa.",
+  "participants": [
+    "Joseph Jenkins Roberts",
+    "American Colonization Society",
+    "Republic of Liberia"
+  ],
+  "countries": [
+    "Liberia",
+    "United States"
+  ],
+  "place": "Monrovia, Liberia",
+  "lat": 6.3004,
+  "lon": -10.7969,
+  "tags": [
+    "politics"
+  ],
+  "weight": 55,
+  "wikipedia": "Liberian Declaration of Independence",
+  "wikidata": "Q6541120"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "event-1941-09-08-siege-of-leningrad",
+  "title": "Siege of Leningrad begins",
+  "year": 1941,
+  "month": 9,
+  "day": 8,
+  "calendar": "gregorian",
+  "summary": "German and Finnish forces cut the last land route to Leningrad, beginning a blockade that lasted almost 900 days. Around a million civilians died, most of them from starvation in the winter of 1941 to 1942.",
+  "reason": "Hitler chose to starve the city rather than storm it, aiming to wipe it out.",
+  "significance": "It was one of the longest and deadliest sieges in history and a lasting symbol of Soviet endurance.",
+  "participants": [
+    "Nazi Germany",
+    "Finland",
+    "Soviet Union",
+    "Red Army"
+  ],
+  "countries": [
+    "Russia",
+    "Germany",
+    "Finland"
+  ],
+  "place": "Leningrad (Saint Petersburg), Russia",
+  "lat": 59.9311,
+  "lon": 30.3609,
+  "tags": [
+    "war"
+  ],
+  "weight": 75,
+  "wikipedia": "Siege of Leningrad",
+  "wikidata": "Q151860"
+}

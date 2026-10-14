@@ -1,0 +1,27 @@
+{
+  "id": "event-1920-04-23-grand-national-assembly",
+  "title": "The Grand National Assembly of Turkey opens in Ankara",
+  "year": 1920,
+  "month": 4,
+  "day": 23,
+  "calendar": "gregorian",
+  "summary": "Turkish nationalists led by Mustafa Kemal opened a new parliament in Ankara that rejected the authority of the Allied-occupied Ottoman government.",
+  "reason": "The Allies had occupied Constantinople and planned to partition Anatolia, so nationalists formed a rival government.",
+  "significance": "It led the War of Independence and became the parliament of the Republic of Turkey.",
+  "participants": [
+    "Mustafa Kemal Ataturk",
+    "Grand National Assembly of Turkey"
+  ],
+  "countries": [
+    "Turkey"
+  ],
+  "place": "Ankara, Turkey",
+  "lat": 39.9419,
+  "lon": 32.8546,
+  "tags": [
+    "politics"
+  ],
+  "weight": 57,
+  "wikipedia": "Grand National Assembly of Turkey",
+  "wikidata": "Q274918"
+}

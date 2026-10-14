@@ -1,0 +1,30 @@
+{
+  "id": "event-1739-02-24-battle-of-karnal",
+  "title": "Nader Shah defeats the Mughal army at Karnal",
+  "year": 1739,
+  "month": 2,
+  "day": 24,
+  "calendar": "gregorian",
+  "summary": "The Persian army of Nader Shah routed a much larger Mughal army in a few hours near Karnal, north of Delhi.",
+  "reason": "Nader invaded India to seize the riches of the declining Mughal Empire, using its sheltering of Afghan rebels as a pretext.",
+  "significance": "Nader then sacked Delhi and took the Peacock Throne, exposing the weakness of the Mughals.",
+  "participants": [
+    "Nader Shah",
+    "Afsharid Iran",
+    "Muhammad Shah",
+    "Mughal Empire"
+  ],
+  "countries": [
+    "India",
+    "Iran"
+  ],
+  "place": "Karnal, Haryana, India",
+  "lat": 29.6857,
+  "lon": 76.9905,
+  "tags": [
+    "war"
+  ],
+  "weight": 64,
+  "wikipedia": "Battle of Karnal",
+  "wikidata": "Q2736986"
+}

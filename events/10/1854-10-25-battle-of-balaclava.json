@@ -1,0 +1,33 @@
+{
+  "id": "event-1854-10-25-battle-of-balaclava",
+  "title": "Charge of the Light Brigade at Balaclava",
+  "year": 1854,
+  "month": 10,
+  "day": 25,
+  "calendar": "gregorian",
+  "summary": "During a Russian attack on the British base at Balaclava, a misunderstood order sent the British Light Brigade charging into Russian artillery, with heavy losses.",
+  "reason": "Russia tried to cut off the British supply port during the Allied siege of Sevastopol in the Crimean War.",
+  "significance": "The charge became a byword for military blunder and heroism, immortalized by Tennyson's poem.",
+  "participants": [
+    "Lord Cardigan",
+    "Lord Raglan",
+    "British Army",
+    "Imperial Russian Army"
+  ],
+  "countries": [
+    "Ukraine",
+    "United Kingdom",
+    "Russia",
+    "France",
+    "Turkey"
+  ],
+  "place": "Balaklava, Crimea, Ukraine",
+  "lat": 44.525,
+  "lon": 33.64,
+  "tags": [
+    "war"
+  ],
+  "weight": 55,
+  "wikipedia": "Battle of Balaclava",
+  "wikidata": "Q464512"
+}

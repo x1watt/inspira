@@ -1,0 +1,31 @@
+{
+  "id": "event-1962-10-16-cuban-missile-crisis",
+  "title": "The Cuban Missile Crisis begins",
+  "year": 1962,
+  "month": 10,
+  "day": 16,
+  "calendar": "gregorian",
+  "summary": "President Kennedy was shown photographs proving that the Soviet Union was building nuclear missile sites in Cuba. Thirteen days of confrontation followed.",
+  "reason": "Khrushchev placed missiles in Cuba to protect Castro and offset American missiles near the Soviet Union.",
+  "significance": "It was the closest the world came to nuclear war.",
+  "participants": [
+    "John F. Kennedy",
+    "Nikita Khrushchev",
+    "Fidel Castro"
+  ],
+  "countries": [
+    "United States",
+    "Russia",
+    "Cuba"
+  ],
+  "place": "White House, Washington, D.C., United States",
+  "lat": 38.8977,
+  "lon": -77.0365,
+  "tags": [
+    "diplomacy",
+    "war"
+  ],
+  "weight": 90,
+  "wikipedia": "Cuban Missile Crisis",
+  "wikidata": "Q128160"
+}

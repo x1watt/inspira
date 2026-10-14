@@ -1,0 +1,28 @@
+{
+  "id": "event-1940-09-12-lascaux-discovered",
+  "title": "Teenagers discover the Lascaux cave paintings",
+  "year": 1940,
+  "month": 9,
+  "day": 12,
+  "calendar": "gregorian",
+  "summary": "Four teenagers exploring a hole near Montignac in south-west France found a cave whose walls were covered with paintings of horses, bulls and deer.",
+  "reason": "The boys, led by Marcel Ravidat, were following a dog, or a local legend of a hidden tunnel, into a shaft opened by a fallen tree.",
+  "significance": "The roughly 17,000-year-old paintings are among the finest known works of Paleolithic art.",
+  "participants": [
+    "Marcel Ravidat",
+    "Henri Breuil"
+  ],
+  "countries": [
+    "France"
+  ],
+  "place": "Lascaux, Montignac, Dordogne, France",
+  "lat": 45.0544,
+  "lon": 1.1683,
+  "tags": [
+    "culture",
+    "science"
+  ],
+  "weight": 55,
+  "wikipedia": "Lascaux",
+  "wikidata": "Q172125"
+}

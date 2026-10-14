@@ -1,0 +1,28 @@
+{
+  "id": "event-1989-03-12-www-proposal",
+  "title": "Tim Berners-Lee proposes the World Wide Web",
+  "year": 1989,
+  "month": 3,
+  "day": 12,
+  "calendar": "gregorian",
+  "summary": "At CERN, Tim Berners-Lee submitted a proposal for an information system linking documents with hypertext.",
+  "reason": "Scientists at CERN struggled to share information across different computers.",
+  "significance": "It led to the World Wide Web.",
+  "participants": [
+    "Tim Berners-Lee",
+    "CERN"
+  ],
+  "countries": [
+    "Switzerland",
+    "United Kingdom"
+  ],
+  "place": "CERN, Meyrin, Switzerland",
+  "lat": 46.2333,
+  "lon": 6.05,
+  "tags": [
+    "technology"
+  ],
+  "weight": 77,
+  "wikipedia": "History of the World Wide Web",
+  "wikidata": "Q1393866"
+}

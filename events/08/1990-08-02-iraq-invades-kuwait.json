@@ -1,0 +1,29 @@
+{
+  "id": "event-1990-08-02-iraq-invades-kuwait",
+  "title": "Iraq invades Kuwait",
+  "year": 1990,
+  "month": 8,
+  "day": 2,
+  "calendar": "gregorian",
+  "summary": "Iraqi forces crossed into Kuwait and occupied the country within two days. Saddam Hussein later declared it Iraq's nineteenth province.",
+  "reason": "Iraq was deeply in debt after the war with Iran and accused Kuwait of overproducing oil and slant drilling into Iraqi fields.",
+  "significance": "It triggered the Gulf War and a long era of US military involvement in the region.",
+  "participants": [
+    "Iraq",
+    "Saddam Hussein",
+    "Kuwait"
+  ],
+  "countries": [
+    "Iraq",
+    "Kuwait"
+  ],
+  "place": "Kuwait City, Kuwait",
+  "lat": 29.3759,
+  "lon": 47.9774,
+  "tags": [
+    "war"
+  ],
+  "weight": 78,
+  "wikipedia": "Iraqi invasion of Kuwait",
+  "wikidata": "Q856650"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "event-1848-01-24-gold-at-sutters-mill",
+  "title": "Gold found at Sutter's Mill starts the California Gold Rush",
+  "year": 1848,
+  "month": 1,
+  "day": 24,
+  "calendar": "gregorian",
+  "summary": "James W. Marshall found flakes of gold in the tailrace of a sawmill he was building for John Sutter at Coloma.",
+  "reason": "The mill on the American River was built to supply lumber to Sutter's settlement in the Sacramento Valley.",
+  "significance": "The rush brought hundreds of thousands of people to California and reshaped the economy of the American West and the Pacific.",
+  "participants": [
+    "James W. Marshall",
+    "John Sutter"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Sutter's Mill, Coloma, California, United States",
+  "lat": 38.8003,
+  "lon": -120.8908,
+  "tags": [
+    "economy"
+  ],
+  "weight": 70,
+  "wikipedia": "California gold rush",
+  "wikidata": "Q17550"
+}

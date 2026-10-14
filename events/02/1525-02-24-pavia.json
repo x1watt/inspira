@@ -1,0 +1,32 @@
+{
+  "id": "event-1525-02-24-pavia",
+  "title": "Francis I is captured at the Battle of Pavia",
+  "year": 1525,
+  "month": 2,
+  "day": 24,
+  "calendar": "julian",
+  "summary": "Imperial and Spanish troops of Charles V defeated the French army besieging Pavia and took King Francis I prisoner.",
+  "reason": "France and the Habsburgs were fighting for control of the Duchy of Milan and northern Italy.",
+  "significance": "It confirmed Habsburg dominance in Italy and showed the power of arquebus-armed infantry.",
+  "participants": [
+    "Kingdom of France",
+    "Holy Roman Empire",
+    "Spanish Empire",
+    "Francis I of France",
+    "Charles V, Holy Roman Emperor"
+  ],
+  "countries": [
+    "Italy",
+    "France",
+    "Spain"
+  ],
+  "place": "Park of Mirabello, Pavia, Italy",
+  "lat": 45.185,
+  "lon": 9.158,
+  "tags": [
+    "war"
+  ],
+  "weight": 58,
+  "wikipedia": "Battle of Pavia",
+  "wikidata": "Q63468"
+}

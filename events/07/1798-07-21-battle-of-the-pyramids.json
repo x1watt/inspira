@@ -1,0 +1,30 @@
+{
+  "id": "event-1798-07-21-battle-of-the-pyramids",
+  "title": "Napoleon defeats the Mamluks at the Battle of the Pyramids",
+  "year": 1798,
+  "month": 7,
+  "day": 21,
+  "calendar": "gregorian",
+  "summary": "Napoleon Bonaparte's army defeated the Mamluk cavalry of Murad Bey near Cairo.",
+  "reason": "France invaded Egypt to threaten British routes to India and spread French influence.",
+  "significance": "It gave France control of Egypt and began intense European engagement with the Middle East.",
+  "participants": [
+    "Napoleon Bonaparte",
+    "French Republic",
+    "Murad Bey",
+    "Mamluks"
+  ],
+  "countries": [
+    "Egypt",
+    "France"
+  ],
+  "place": "Embabeh, Giza, Egypt",
+  "lat": 30.075,
+  "lon": 31.21,
+  "tags": [
+    "war"
+  ],
+  "weight": 60,
+  "wikipedia": "Battle of the Pyramids",
+  "wikidata": "Q332543"
+}

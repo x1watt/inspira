@@ -1,0 +1,28 @@
+{
+  "id": "event-1793-01-21-execution-of-louis-xvi",
+  "title": "Louis XVI is guillotined",
+  "year": 1793,
+  "month": 1,
+  "day": 21,
+  "calendar": "gregorian",
+  "summary": "The deposed king of France was beheaded on the Place de la Revolution in Paris.",
+  "reason": "The National Convention found him guilty of conspiring against the nation.",
+  "significance": "Killing a king shocked Europe and widened the war against revolutionary France.",
+  "participants": [
+    "Louis XVI",
+    "National Convention"
+  ],
+  "countries": [
+    "France"
+  ],
+  "place": "Place de la Concorde, Paris, France",
+  "lat": 48.8656,
+  "lon": 2.3212,
+  "tags": [
+    "revolution",
+    "politics"
+  ],
+  "weight": 80,
+  "wikipedia": "Execution of Louis XVI",
+  "wikidata": "Q3062714"
+}

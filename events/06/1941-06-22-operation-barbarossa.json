@@ -1,0 +1,34 @@
+{
+  "id": "event-1941-06-22-operation-barbarossa",
+  "title": "Germany invades the Soviet Union",
+  "year": 1941,
+  "month": 6,
+  "day": 22,
+  "calendar": "gregorian",
+  "summary": "More than three million Axis soldiers attacked the Soviet Union along a front from the Baltic to the Black Sea. The Soviet defenders were caught by surprise and lost huge numbers of men and aircraft in the first weeks.",
+  "reason": "Hitler wanted to destroy communism, seize land and resources in the east and wipe out the Jewish and Slavic populations there.",
+  "significance": "It opened the largest and deadliest land campaign in history, where most of the German army was eventually destroyed.",
+  "participants": [
+    "Nazi Germany",
+    "Soviet Union",
+    "Adolf Hitler",
+    "Joseph Stalin",
+    "Red Army",
+    "Wehrmacht"
+  ],
+  "countries": [
+    "Russia",
+    "Belarus",
+    "Ukraine",
+    "Germany"
+  ],
+  "place": "Brest Fortress, Brest, Belarus",
+  "lat": 52.0833,
+  "lon": 23.6556,
+  "tags": [
+    "war"
+  ],
+  "weight": 92,
+  "wikipedia": "Operation Barbarossa",
+  "wikidata": "Q83055"
+}

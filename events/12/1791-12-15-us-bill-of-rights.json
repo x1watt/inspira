@@ -1,0 +1,28 @@
+{
+  "id": "event-1791-12-15-us-bill-of-rights",
+  "title": "The US Bill of Rights is ratified",
+  "year": 1791,
+  "month": 12,
+  "day": 15,
+  "calendar": "gregorian",
+  "summary": "Virginia's approval completed ratification of the first ten amendments to the United States Constitution.",
+  "reason": "Opponents of the Constitution had demanded explicit protections for individual liberties.",
+  "significance": "It guaranteed freedoms of speech, religion, press and fair trial that shape American law.",
+  "participants": [
+    "United States Congress",
+    "James Madison"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "United States",
+  "lat": null,
+  "lon": null,
+  "tags": [
+    "rights",
+    "law"
+  ],
+  "weight": 75,
+  "wikipedia": "United States Bill of Rights",
+  "wikidata": "Q862765"
+}

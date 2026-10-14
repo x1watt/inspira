@@ -1,0 +1,28 @@
+{
+  "id": "event-1963-05-25-oau-founded",
+  "title": "The Organisation of African Unity is founded",
+  "year": 1963,
+  "month": 5,
+  "day": 25,
+  "calendar": "gregorian",
+  "summary": "Leaders of 32 independent African states founded the Organisation of African Unity at a summit in Addis Ababa.",
+  "reason": "African states wanted unity against colonialism and apartheid and to settle disputes among themselves.",
+  "significance": "It was the forerunner of the African Union, and the date is marked as Africa Day.",
+  "participants": [
+    "Haile Selassie",
+    "Kwame Nkrumah",
+    "Organisation of African Unity"
+  ],
+  "countries": [
+    "Ethiopia"
+  ],
+  "place": "Addis Ababa, Ethiopia",
+  "lat": 9.03,
+  "lon": 38.74,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 58,
+  "wikipedia": "Organisation of African Unity",
+  "wikidata": "Q191703"
+}

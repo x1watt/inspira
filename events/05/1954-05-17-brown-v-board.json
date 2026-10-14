@@ -1,0 +1,30 @@
+{
+  "id": "event-1954-05-17-brown-v-board",
+  "title": "US Supreme Court rules school segregation unconstitutional",
+  "year": 1954,
+  "month": 5,
+  "day": 17,
+  "calendar": "gregorian",
+  "summary": "In Brown v. Board of Education, the Supreme Court unanimously ruled that racial segregation in public schools violated the Constitution.",
+  "reason": "The NAACP, led in court by Thurgood Marshall, had challenged the separate but equal doctrine for years.",
+  "significance": "The ruling was a turning point of the civil rights movement.",
+  "participants": [
+    "Supreme Court of the United States",
+    "Earl Warren",
+    "Thurgood Marshall",
+    "NAACP"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Supreme Court Building, Washington, D.C., United States",
+  "lat": 38.8906,
+  "lon": -77.0044,
+  "tags": [
+    "law",
+    "rights"
+  ],
+  "weight": 73,
+  "wikipedia": "Brown v. Board of Education",
+  "wikidata": "Q875738"
+}

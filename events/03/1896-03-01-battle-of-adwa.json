@@ -1,0 +1,31 @@
+{
+  "id": "event-1896-03-01-battle-of-adwa",
+  "title": "Ethiopia defeats Italy at the Battle of Adwa",
+  "year": 1896,
+  "month": 3,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "The army of Emperor Menelik II crushed an Italian invasion force near Adwa, killing or capturing thousands of Italian soldiers.",
+  "reason": "Italy tried to turn Ethiopia into a protectorate, relying on a disputed clause in the Treaty of Wuchale.",
+  "significance": "It preserved Ethiopian independence and became a lasting symbol of African resistance to colonialism.",
+  "participants": [
+    "Menelik II",
+    "Taytu Betul",
+    "Ethiopian Empire",
+    "Kingdom of Italy",
+    "Oreste Baratieri"
+  ],
+  "countries": [
+    "Ethiopia",
+    "Italy"
+  ],
+  "place": "Adwa, Tigray, Ethiopia",
+  "lat": 14.1667,
+  "lon": 38.8833,
+  "tags": [
+    "war"
+  ],
+  "weight": 75,
+  "wikipedia": "Battle of Adwa",
+  "wikidata": "Q302519"
+}

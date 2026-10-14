@@ -1,0 +1,31 @@
+{
+  "id": "event-1968-07-01-npt-signed",
+  "title": "The Nuclear Non-Proliferation Treaty is opened for signature",
+  "year": 1968,
+  "month": 7,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "The Treaty on the Non-Proliferation of Nuclear Weapons was opened for signature in Washington, London and Moscow.",
+  "reason": "The nuclear powers feared that many more countries would build the bomb.",
+  "significance": "It became the cornerstone of efforts to limit the spread of nuclear weapons.",
+  "participants": [
+    "United States",
+    "Soviet Union",
+    "United Kingdom"
+  ],
+  "countries": [
+    "United States",
+    "Russia",
+    "United Kingdom"
+  ],
+  "place": "Washington, D.C., United States",
+  "lat": 38.8951,
+  "lon": -77.0364,
+  "tags": [
+    "diplomacy",
+    "law"
+  ],
+  "weight": 61,
+  "wikipedia": "Treaty on the Non-Proliferation of Nuclear Weapons",
+  "wikidata": "Q186444"
+}

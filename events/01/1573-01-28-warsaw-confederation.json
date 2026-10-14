@@ -1,0 +1,29 @@
+{
+  "id": "event-1573-01-28-warsaw-confederation",
+  "title": "The Warsaw Confederation guarantees religious freedom",
+  "year": 1573,
+  "month": 1,
+  "day": 28,
+  "calendar": "julian",
+  "summary": "Nobles of the Polish-Lithuanian Commonwealth signed an act promising peace among people of different faiths and barring persecution for religion.",
+  "reason": "After the death of the last Jagiellonian king, the nobility, divided among Catholics, Protestants and Orthodox, wanted to prevent religious war during the royal election.",
+  "significance": "It was one of the first legal guarantees of religious tolerance in Europe.",
+  "participants": [
+    "Polish-Lithuanian Commonwealth",
+    "Sejm"
+  ],
+  "countries": [
+    "Poland"
+  ],
+  "place": "Warsaw, Poland",
+  "lat": 52.23,
+  "lon": 21.012,
+  "tags": [
+    "rights",
+    "law",
+    "religion"
+  ],
+  "weight": 52,
+  "wikipedia": "Warsaw Confederation",
+  "wikidata": "Q166185"
+}

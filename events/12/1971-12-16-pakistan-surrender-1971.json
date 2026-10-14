@@ -1,0 +1,31 @@
+{
+  "id": "event-1971-12-16-pakistan-surrender-1971",
+  "title": "Pakistan surrenders in Dhaka and Bangladesh is born",
+  "year": 1971,
+  "month": 12,
+  "day": 16,
+  "calendar": "gregorian",
+  "summary": "General A. A. K. Niazi signed the surrender of Pakistani forces in East Pakistan to the Indian and Bangladeshi forces at the Ramna Race Course in Dhaka.",
+  "reason": "India had entered the war in December after months of refugees and fighting.",
+  "significance": "It confirmed the independence of Bangladesh.",
+  "participants": [
+    "A. A. K. Niazi",
+    "Jagjit Singh Aurora",
+    "Mukti Bahini",
+    "Indian Army"
+  ],
+  "countries": [
+    "Bangladesh",
+    "Pakistan",
+    "India"
+  ],
+  "place": "Ramna Race Course, Dhaka, Bangladesh",
+  "lat": 23.733,
+  "lon": 90.397,
+  "tags": [
+    "war"
+  ],
+  "weight": 63,
+  "wikipedia": "Pakistani Instrument of Surrender",
+  "wikidata": "Q3351237"
+}

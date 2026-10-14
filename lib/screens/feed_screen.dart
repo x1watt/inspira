@@ -84,9 +84,16 @@ class _FeedScreenState extends State<FeedScreen> {
       quotes: scope.repository,
       stories: scope.stories,
       progress: scope.progress,
-      quizzes: QuizGenerator(scope.repository.quotes, scope.stories.stories),
+      quizzes: QuizGenerator(
+        scope.repository.quotes,
+        scope.stories.stories,
+        scope.events.events,
+      ),
       random: widget.random,
       quizOnly: widget.quizOnly,
+      events: scope.events.events,
+      liked: () => scope.favorites.ids,
+      today: _now(),
     );
     _show(0);
   }
@@ -151,6 +158,7 @@ class _FeedScreenState extends State<FeedScreen> {
     final read =
         dwell >= (story ? _storyDwell : _quoteDwell) || _opened.contains(index);
     if (read) {
+      if (_idOf(card) case final id?) _progress.markRead(id);
       _progress.nudge(card.category, card.kind, 0.1);
       _engine!.steer(card, 1.3, keep: _furthest);
       if (_rewarded.add(index)) {

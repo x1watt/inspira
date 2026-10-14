@@ -1,0 +1,28 @@
+{
+  "id": "event-1783-11-21-first-manned-balloon-flight",
+  "title": "First free flight of humans in a hot air balloon",
+  "year": 1783,
+  "month": 11,
+  "day": 21,
+  "calendar": "gregorian",
+  "summary": "Pilatre de Rozier and the Marquis d'Arlandes flew a Montgolfier hot air balloon over Paris for about 25 minutes.",
+  "reason": "The Montgolfier brothers had shown that heated air could lift a balloon and wanted to prove humans could fly safely.",
+  "significance": "It was the first human flight.",
+  "participants": [
+    "Jean-Francois Pilatre de Rozier",
+    "Marquis d'Arlandes",
+    "Montgolfier brothers"
+  ],
+  "countries": [
+    "France"
+  ],
+  "place": "Chateau de la Muette, Paris, France",
+  "lat": 48.8586,
+  "lon": 2.27,
+  "tags": [
+    "technology"
+  ],
+  "weight": 70,
+  "wikipedia": "Montgolfier brothers",
+  "wikidata": "Q193751"
+}

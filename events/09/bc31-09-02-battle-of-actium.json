@@ -1,0 +1,31 @@
+{
+  "id": "event-bc31-09-02-battle-of-actium",
+  "title": "Battle of Actium",
+  "year": -31,
+  "month": 9,
+  "day": 2,
+  "calendar": "julian",
+  "summary": "Octavian's fleet under Agrippa defeated the fleet of Mark Antony and Cleopatra off Actium in western Greece. Antony and Cleopatra escaped to Egypt.",
+  "reason": "The alliance between Octavian and Antony had collapsed into open war over power in Rome and Antony's ties to Cleopatra's Egypt.",
+  "significance": "It left Octavian sole ruler and led to the Roman Empire under Augustus.",
+  "participants": [
+    "Octavian",
+    "Marcus Vipsanius Agrippa",
+    "Mark Antony",
+    "Cleopatra"
+  ],
+  "countries": [
+    "Greece",
+    "Italy",
+    "Egypt"
+  ],
+  "place": "Off Actium, near Preveza, Greece",
+  "lat": 38.95,
+  "lon": 20.73,
+  "tags": [
+    "war"
+  ],
+  "weight": 85,
+  "wikipedia": "Battle of Actium",
+  "wikidata": "Q160387"
+}

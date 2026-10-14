@@ -1,0 +1,27 @@
+{
+  "id": "event-1974-08-09-nixon-resigns",
+  "title": "Richard Nixon resigns the presidency",
+  "year": 1974,
+  "month": 8,
+  "day": 9,
+  "calendar": "gregorian",
+  "summary": "Richard Nixon became the only US president to resign, leaving office as Gerald Ford was sworn in.",
+  "reason": "Tapes proved Nixon's role in covering up the Watergate break-in, and impeachment was certain.",
+  "significance": "It showed that the president was not above the law.",
+  "participants": [
+    "Richard Nixon",
+    "Gerald Ford"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "White House, Washington, D.C., United States",
+  "lat": 38.8977,
+  "lon": -77.0365,
+  "tags": [
+    "politics",
+    "law"
+  ],
+  "weight": 65,
+  "wikipedia": "Presidency of Richard Nixon"
+}

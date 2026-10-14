@@ -1,0 +1,29 @@
+{
+  "id": "event-1889-03-31-eiffel-tower",
+  "title": "Gustave Eiffel inaugurates the Eiffel Tower",
+  "year": 1889,
+  "month": 3,
+  "day": 31,
+  "calendar": "gregorian",
+  "summary": "Gustave Eiffel climbed to the top of his newly completed iron tower and raised the French flag, ahead of the Exposition Universelle.",
+  "reason": "The tower was built as the entrance arch of the world's fair marking the centenary of the French Revolution.",
+  "significance": "It was the tallest structure in the world for forty years and became the symbol of Paris.",
+  "participants": [
+    "Gustave Eiffel",
+    "Maurice Koechlin",
+    "Stephen Sauvestre"
+  ],
+  "countries": [
+    "France"
+  ],
+  "place": "Champ de Mars, Paris, France",
+  "lat": 48.8584,
+  "lon": 2.2945,
+  "tags": [
+    "technology",
+    "culture"
+  ],
+  "weight": 60,
+  "wikipedia": "Eiffel Tower",
+  "wikidata": "Q243"
+}

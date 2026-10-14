@@ -1,0 +1,30 @@
+{
+  "id": "event-1950-05-09-schuman-declaration",
+  "title": "Robert Schuman proposes pooling coal and steel",
+  "year": 1950,
+  "month": 5,
+  "day": 9,
+  "calendar": "gregorian",
+  "summary": "French foreign minister Robert Schuman proposed placing French and German coal and steel production under a common authority open to other European countries.",
+  "reason": "Jean Monnet's plan aimed to make another war between France and Germany materially impossible.",
+  "significance": "It is seen as the founding act of European integration, marked as Europe Day.",
+  "participants": [
+    "Robert Schuman",
+    "Jean Monnet",
+    "Konrad Adenauer"
+  ],
+  "countries": [
+    "France",
+    "Germany"
+  ],
+  "place": "Quai d'Orsay, Paris, France",
+  "lat": 48.8625,
+  "lon": 2.315,
+  "tags": [
+    "diplomacy",
+    "economy"
+  ],
+  "weight": 70,
+  "wikipedia": "Schuman Declaration",
+  "wikidata": "Q160211"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "event-1922-01-11-insulin-first-patient",
+  "title": "Insulin is first given to a diabetic patient",
+  "year": 1922,
+  "month": 1,
+  "day": 11,
+  "calendar": "gregorian",
+  "summary": "At Toronto General Hospital, 14-year-old Leonard Thompson received the first injection of insulin extract to treat type 1 diabetes.",
+  "reason": "Frederick Banting and Charles Best had isolated insulin from dog pancreases the year before, and doctors sought a treatment for a disease that was then fatal.",
+  "significance": "Insulin turned diabetes from a death sentence into a treatable condition for millions.",
+  "participants": [
+    "Frederick Banting",
+    "Charles Best",
+    "James Collip",
+    "Leonard Thompson"
+  ],
+  "countries": [
+    "Canada"
+  ],
+  "place": "Toronto General Hospital, Toronto, Canada",
+  "lat": 43.6594,
+  "lon": -79.3884,
+  "tags": [
+    "medicine"
+  ],
+  "weight": 72,
+  "wikipedia": "Insulin"
+}

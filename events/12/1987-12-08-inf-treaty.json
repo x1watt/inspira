@@ -1,0 +1,28 @@
+{
+  "id": "event-1987-12-08-inf-treaty",
+  "title": "Reagan and Gorbachev sign the INF Treaty",
+  "year": 1987,
+  "month": 12,
+  "day": 8,
+  "calendar": "gregorian",
+  "summary": "At the White House, Reagan and Gorbachev signed a treaty eliminating all American and Soviet intermediate range nuclear missiles.",
+  "reason": "The deployment of missiles in Europe in the early 1980s had alarmed both sides.",
+  "significance": "It was the first treaty to abolish a whole class of nuclear weapons.",
+  "participants": [
+    "Ronald Reagan",
+    "Mikhail Gorbachev"
+  ],
+  "countries": [
+    "United States",
+    "Russia"
+  ],
+  "place": "White House, Washington, D.C., United States",
+  "lat": 38.8977,
+  "lon": -77.0365,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 63,
+  "wikipedia": "Intermediate-Range Nuclear Forces Treaty",
+  "wikidata": "Q169401"
+}

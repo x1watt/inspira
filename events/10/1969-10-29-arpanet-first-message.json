@@ -1,0 +1,29 @@
+{
+  "id": "event-1969-10-29-arpanet-first-message",
+  "title": "ARPANET sends its first message",
+  "year": 1969,
+  "month": 10,
+  "day": 29,
+  "calendar": "gregorian",
+  "summary": "Student programmer Charley Kline at UCLA sent the first message over ARPANET to the Stanford Research Institute. The system crashed after the letters L and O.",
+  "reason": "The US Defense Department's ARPA funded a network to share computing resources among research centres.",
+  "significance": "ARPANET was the forerunner of the Internet.",
+  "participants": [
+    "Leonard Kleinrock",
+    "Charley Kline",
+    "ARPA",
+    "UCLA"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "University of California, Los Angeles, United States",
+  "lat": 34.0689,
+  "lon": -118.4452,
+  "tags": [
+    "technology"
+  ],
+  "weight": 73,
+  "wikipedia": "ARPANET",
+  "wikidata": "Q177524"
+}

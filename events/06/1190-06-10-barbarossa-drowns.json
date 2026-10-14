@@ -1,0 +1,30 @@
+{
+  "id": "event-1190-06-10-barbarossa-drowns",
+  "title": "Emperor Frederick Barbarossa drowns on crusade",
+  "year": 1190,
+  "month": 6,
+  "day": 10,
+  "calendar": "julian",
+  "summary": "Holy Roman Emperor Frederick I Barbarossa drowned while crossing the Saleph River in Cilicia on his way to the Holy Land.",
+  "reason": "He was leading a large German army in the Third Crusade to retake Jerusalem.",
+  "significance": "Without him most of the German army broke up, weakening the crusade.",
+  "participants": [
+    "Frederick I Barbarossa",
+    "Holy Roman Empire",
+    "Third Crusade"
+  ],
+  "countries": [
+    "Turkey",
+    "Germany"
+  ],
+  "place": "Goksu River, near Silifke, Turkey",
+  "lat": 36.377,
+  "lon": 33.93,
+  "tags": [
+    "politics",
+    "religion"
+  ],
+  "weight": 50,
+  "wikipedia": "Frederick Barbarossa",
+  "wikidata": "Q79789"
+}

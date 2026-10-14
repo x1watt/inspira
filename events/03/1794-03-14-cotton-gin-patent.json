@@ -1,0 +1,27 @@
+{
+  "id": "event-1794-03-14-cotton-gin-patent",
+  "title": "Eli Whitney patents the cotton gin",
+  "year": 1794,
+  "month": 3,
+  "day": 14,
+  "calendar": "gregorian",
+  "summary": "Eli Whitney received a US patent for a machine that quickly separated cotton fibres from their seeds.",
+  "reason": "Short staple cotton could grow across the American South, but removing its seeds by hand was slow.",
+  "significance": "It made cotton hugely profitable and greatly expanded slavery in the United States.",
+  "participants": [
+    "Eli Whitney"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "United States",
+  "lat": null,
+  "lon": null,
+  "tags": [
+    "technology",
+    "economy"
+  ],
+  "weight": 60,
+  "wikipedia": "Cotton gin",
+  "wikidata": "Q1136790"
+}

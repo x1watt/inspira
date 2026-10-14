@@ -1,0 +1,28 @@
+{
+  "id": "event-1846-10-16-ether-anesthesia",
+  "title": "First public demonstration of ether anesthesia",
+  "year": 1846,
+  "month": 10,
+  "day": 16,
+  "calendar": "gregorian",
+  "summary": "At Massachusetts General Hospital, dentist William Morton anesthetized a patient with ether while surgeon John Collins Warren removed a tumor from his neck.",
+  "reason": "Surgeons had long searched for a way to stop the pain that made operations brutal and rushed.",
+  "significance": "It made surgical anesthesia known worldwide within months and transformed surgery.",
+  "participants": [
+    "William T. G. Morton",
+    "John Collins Warren",
+    "Massachusetts General Hospital"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Ether Dome, Massachusetts General Hospital, Boston, United States",
+  "lat": 42.3632,
+  "lon": -71.0686,
+  "tags": [
+    "medicine"
+  ],
+  "weight": 70,
+  "wikipedia": "Ether Dome",
+  "wikidata": "Q257073"
+}

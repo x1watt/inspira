@@ -1,0 +1,34 @@
+{
+  "id": "event-1949-04-04-north-atlantic-treaty",
+  "title": "The North Atlantic Treaty founds NATO",
+  "year": 1949,
+  "month": 4,
+  "day": 4,
+  "calendar": "gregorian",
+  "summary": "Twelve countries of North America and Western Europe signed the North Atlantic Treaty in Washington, agreeing that an attack on one would be an attack on all.",
+  "reason": "The Berlin Blockade and the communist takeover in Czechoslovakia convinced Western governments they needed a military alliance.",
+  "significance": "NATO became the central Western alliance of the Cold War and after.",
+  "participants": [
+    "NATO",
+    "United States",
+    "United Kingdom",
+    "France",
+    "Dean Acheson"
+  ],
+  "countries": [
+    "United States",
+    "United Kingdom",
+    "France",
+    "Canada"
+  ],
+  "place": "Washington, D.C., United States",
+  "lat": 38.8951,
+  "lon": -77.0364,
+  "tags": [
+    "diplomacy",
+    "war"
+  ],
+  "weight": 85,
+  "wikipedia": "North Atlantic Treaty",
+  "wikidata": "Q877399"
+}

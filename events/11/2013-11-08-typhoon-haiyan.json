@@ -1,0 +1,26 @@
+{
+  "id": "event-2013-11-08-typhoon-haiyan",
+  "title": "Typhoon Haiyan strikes the Philippines",
+  "year": 2013,
+  "month": 11,
+  "day": 8,
+  "calendar": "gregorian",
+  "summary": "One of the strongest tropical cyclones ever recorded at landfall hit the central Philippines, killing over 6,000 people, mostly in Tacloban.",
+  "reason": "The storm surge swept across low coasts of Leyte and Samar.",
+  "significance": "It became a symbol of climate vulnerability in poor countries.",
+  "participants": [
+    "Philippines"
+  ],
+  "countries": [
+    "Philippines"
+  ],
+  "place": "Tacloban, Leyte, Philippines",
+  "lat": 11.2433,
+  "lon": 125.0039,
+  "tags": [
+    "disaster"
+  ],
+  "weight": 55,
+  "wikipedia": "Typhoon Haiyan",
+  "wikidata": "Q15136651"
+}

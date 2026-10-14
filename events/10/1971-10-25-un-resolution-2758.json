@@ -1,0 +1,28 @@
+{
+  "id": "event-1971-10-25-un-resolution-2758",
+  "title": "The UN gives China's seat to the People's Republic",
+  "year": 1971,
+  "month": 10,
+  "day": 25,
+  "calendar": "gregorian",
+  "summary": "The UN General Assembly voted to recognize the People's Republic of China as the only legitimate representative of China, expelling the Republic of China.",
+  "reason": "A growing number of states recognized Beijing, and the United States was moving toward detente with China.",
+  "significance": "It brought mainland China into the UN and its Security Council.",
+  "participants": [
+    "United Nations General Assembly",
+    "People's Republic of China",
+    "Republic of China"
+  ],
+  "countries": [
+    "China",
+    "Taiwan"
+  ],
+  "place": "United Nations Headquarters, New York, United States",
+  "lat": 40.7489,
+  "lon": -73.968,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 61,
+  "wikipedia": "United Nations General Assembly Resolution 2758 (XXVI)"
+}

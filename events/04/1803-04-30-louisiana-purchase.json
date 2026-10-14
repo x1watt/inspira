@@ -1,0 +1,33 @@
+{
+  "id": "event-1803-04-30-louisiana-purchase",
+  "title": "The United States buys Louisiana from France",
+  "year": 1803,
+  "month": 4,
+  "day": 30,
+  "calendar": "gregorian",
+  "summary": "American envoys in Paris signed a treaty to buy the vast Louisiana territory from France for about 15 million dollars.",
+  "reason": "Napoleon needed money for war and had lost hope of a New World empire after the failure in Saint-Domingue.",
+  "significance": "It roughly doubled the size of the United States.",
+  "participants": [
+    "United States",
+    "French Republic",
+    "Thomas Jefferson",
+    "Robert Livingston",
+    "James Monroe",
+    "Napoleon Bonaparte"
+  ],
+  "countries": [
+    "United States",
+    "France"
+  ],
+  "place": "Paris, France",
+  "lat": 48.8566,
+  "lon": 2.3522,
+  "tags": [
+    "diplomacy",
+    "economy"
+  ],
+  "weight": 80,
+  "wikipedia": "Louisiana Purchase",
+  "wikidata": "Q193155"
+}

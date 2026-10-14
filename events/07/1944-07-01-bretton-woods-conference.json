@@ -1,0 +1,30 @@
+{
+  "id": "event-1944-07-01-bretton-woods-conference",
+  "title": "Bretton Woods Conference opens",
+  "year": 1944,
+  "month": 7,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "Delegates from 44 Allied nations met at the Mount Washington Hotel in Bretton Woods to design the post-war international monetary system.",
+  "reason": "Leaders wanted to avoid the currency wars and depression of the 1930s that had helped cause the war.",
+  "significance": "It created the International Monetary Fund and the World Bank and fixed exchange rates to the US dollar for a generation.",
+  "participants": [
+    "John Maynard Keynes",
+    "Harry Dexter White",
+    "United Nations Monetary and Financial Conference"
+  ],
+  "countries": [
+    "United States",
+    "United Kingdom"
+  ],
+  "place": "Mount Washington Hotel, Bretton Woods, New Hampshire, United States",
+  "lat": 44.2581,
+  "lon": -71.4417,
+  "tags": [
+    "economy",
+    "diplomacy"
+  ],
+  "weight": 75,
+  "wikipedia": "Bretton Woods Conference",
+  "wikidata": "Q1194052"
+}

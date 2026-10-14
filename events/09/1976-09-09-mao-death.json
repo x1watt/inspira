@@ -1,0 +1,28 @@
+{
+  "id": "event-1976-09-09-mao-death",
+  "title": "Mao Zedong dies",
+  "year": 1976,
+  "month": 9,
+  "day": 9,
+  "calendar": "gregorian",
+  "summary": "Mao Zedong, leader of the People's Republic of China since 1949, died in Beijing.",
+  "reason": "Mao was 82 and had suffered from ill health.",
+  "significance": "His death led to the fall of the Gang of Four and opened the way to Deng Xiaoping's reforms.",
+  "participants": [
+    "Mao Zedong",
+    "Hua Guofeng",
+    "Gang of Four"
+  ],
+  "countries": [
+    "China"
+  ],
+  "place": "Beijing, China",
+  "lat": 39.913,
+  "lon": 116.383,
+  "tags": [
+    "politics"
+  ],
+  "weight": 73,
+  "wikipedia": "Death and state funeral of Mao Zedong",
+  "wikidata": "Q11127665"
+}

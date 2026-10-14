@@ -1,0 +1,28 @@
+{
+  "id": "event-1984-10-31-indira-gandhi-assassination",
+  "title": "Indira Gandhi is assassinated",
+  "year": 1984,
+  "month": 10,
+  "day": 31,
+  "calendar": "gregorian",
+  "summary": "Prime Minister Indira Gandhi was shot dead by two of her Sikh bodyguards in the garden of her residence in New Delhi.",
+  "reason": "The bodyguards acted in revenge for the army assault on the Golden Temple in Amritsar.",
+  "significance": "Her murder was followed by massacres of Sikhs in Delhi.",
+  "participants": [
+    "Indira Gandhi",
+    "Beant Singh",
+    "Satwant Singh"
+  ],
+  "countries": [
+    "India"
+  ],
+  "place": "1 Safdarjung Road, New Delhi, India",
+  "lat": 28.6006,
+  "lon": 77.2056,
+  "tags": [
+    "politics"
+  ],
+  "weight": 58,
+  "wikipedia": "Assassination of Indira Gandhi",
+  "wikidata": "Q3347903"
+}

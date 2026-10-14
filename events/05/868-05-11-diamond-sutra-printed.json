@@ -1,0 +1,29 @@
+{
+  "id": "event-868-05-11-diamond-sutra-printed",
+  "title": "The Diamond Sutra, oldest dated printed book, is made",
+  "year": 868,
+  "month": 5,
+  "day": 11,
+  "calendar": "julian",
+  "summary": "A woodblock printed copy of the Buddhist Diamond Sutra was produced in Tang China, with a note giving this date. It was found in the Mogao Caves at Dunhuang in 1900.",
+  "reason": "A man named Wang Jie paid for the printing for the merit of his parents, as Buddhists spread scripture through copies.",
+  "significance": "It is the earliest dated printed book known, evidence of the Chinese invention of printing.",
+  "participants": [
+    "Wang Jie",
+    "Tang dynasty"
+  ],
+  "countries": [
+    "China"
+  ],
+  "place": "Mogao Caves, Dunhuang, China",
+  "lat": 40.042,
+  "lon": 94.808,
+  "tags": [
+    "technology",
+    "religion",
+    "culture"
+  ],
+  "weight": 60,
+  "wikipedia": "Diamond Sutra",
+  "wikidata": "Q494235"
+}

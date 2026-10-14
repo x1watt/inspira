@@ -1,0 +1,29 @@
+{
+  "id": "event-1997-05-11-deep-blue",
+  "title": "Deep Blue defeats Garry Kasparov",
+  "year": 1997,
+  "month": 5,
+  "day": 11,
+  "calendar": "gregorian",
+  "summary": "IBM's Deep Blue computer won the sixth game to beat world chess champion Garry Kasparov in a match.",
+  "reason": "IBM had built specialised hardware to search millions of positions per second.",
+  "significance": "It was the first match loss of a reigning world champion to a machine, a milestone for AI.",
+  "participants": [
+    "IBM",
+    "Garry Kasparov",
+    "Deep Blue"
+  ],
+  "countries": [
+    "United States",
+    "Russia"
+  ],
+  "place": "New York City, United States",
+  "lat": 40.7614,
+  "lon": -73.9814,
+  "tags": [
+    "technology"
+  ],
+  "weight": 60,
+  "wikipedia": "Deep Blue versus Garry Kasparov",
+  "wikidata": "Q3235334"
+}

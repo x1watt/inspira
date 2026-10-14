@@ -1,0 +1,31 @@
+{
+  "id": "event-1991-12-26-soviet-dissolution",
+  "title": "The Soviet Union is dissolved",
+  "year": 1991,
+  "month": 12,
+  "day": 26,
+  "calendar": "gregorian",
+  "summary": "The Soviet of the Republics formally voted the Soviet Union out of existence, a day after Mikhail Gorbachev resigned and the red flag was lowered over the Kremlin.",
+  "reason": "Failed reform, economic collapse, nationalist movements and the failed August coup had emptied the union of power.",
+  "significance": "It ended the Cold War and created fifteen independent states.",
+  "participants": [
+    "Soviet Union",
+    "Mikhail Gorbachev",
+    "Boris Yeltsin"
+  ],
+  "countries": [
+    "Russia",
+    "Ukraine",
+    "Belarus",
+    "Kazakhstan"
+  ],
+  "place": "Kremlin, Moscow, Russia",
+  "lat": 55.752,
+  "lon": 37.6175,
+  "tags": [
+    "politics"
+  ],
+  "weight": 96,
+  "wikipedia": "Dissolution of the Soviet Union",
+  "wikidata": "Q5167679"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "event-1755-11-01-lisbon-earthquake",
+  "title": "Great earthquake destroys Lisbon",
+  "year": 1755,
+  "month": 11,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "A massive earthquake, followed by a tsunami and fires, destroyed most of Lisbon on All Saints' Day. Tens of thousands of people died.",
+  "reason": "A sudden rupture along the plate boundary in the Atlantic southwest of Portugal released enormous energy close to the densely built capital.",
+  "significance": "It shook European faith in divine providence, inspired Enlightenment debate and led to early modern seismology and urban planning.",
+  "participants": [
+    "Kingdom of Portugal",
+    "Marquis of Pombal"
+  ],
+  "countries": [
+    "Portugal"
+  ],
+  "place": "Lisbon, Portugal",
+  "lat": 38.7139,
+  "lon": -9.1394,
+  "tags": [
+    "disaster"
+  ],
+  "weight": 75,
+  "wikipedia": "1755 Lisbon earthquake",
+  "wikidata": "Q191055"
+}

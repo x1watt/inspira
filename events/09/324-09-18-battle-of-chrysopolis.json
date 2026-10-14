@@ -1,0 +1,27 @@
+{
+  "id": "event-324-09-18-battle-of-chrysopolis",
+  "title": "Constantine defeats Licinius at Chrysopolis",
+  "year": 324,
+  "month": 9,
+  "day": 18,
+  "calendar": "julian",
+  "summary": "Constantine defeated the eastern emperor Licinius at Chrysopolis, across the Bosporus from Byzantium.",
+  "reason": "The uneasy partnership of the two emperors had broken down into a final war for sole control of the empire.",
+  "significance": "It made Constantine sole ruler of the Roman Empire.",
+  "participants": [
+    "Constantine the Great",
+    "Licinius"
+  ],
+  "countries": [
+    "Turkey"
+  ],
+  "place": "Chrysopolis (Uskudar), Istanbul, Turkey",
+  "lat": 41.026,
+  "lon": 29.015,
+  "tags": [
+    "war"
+  ],
+  "weight": 60,
+  "wikipedia": "Battle of Chrysopolis",
+  "wikidata": "Q1264908"
+}

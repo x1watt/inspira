@@ -1,0 +1,25 @@
+{
+  "id": "event-2009-01-03-bitcoin-genesis",
+  "title": "Bitcoin network starts with the genesis block",
+  "year": 2009,
+  "month": 1,
+  "day": 3,
+  "calendar": "gregorian",
+  "summary": "The pseudonymous Satoshi Nakamoto mined the first block of the Bitcoin blockchain.",
+  "reason": "Nakamoto wanted digital money without banks, a reaction to the financial crisis.",
+  "significance": "It started cryptocurrencies and blockchain technology.",
+  "participants": [
+    "Satoshi Nakamoto"
+  ],
+  "countries": [],
+  "place": "Online",
+  "lat": null,
+  "lon": null,
+  "tags": [
+    "technology",
+    "economy"
+  ],
+  "weight": 62,
+  "wikipedia": "Bitcoin",
+  "wikidata": "Q131723"
+}

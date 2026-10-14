@@ -1,0 +1,29 @@
+{
+  "id": "event-1620-11-21-mayflower-compact",
+  "title": "Pilgrims sign the Mayflower Compact",
+  "year": 1620,
+  "month": 11,
+  "day": 21,
+  "calendar": "gregorian",
+  "summary": "Aboard the Mayflower off Cape Cod, 41 male passengers signed an agreement to form a civil body politic and obey its laws.",
+  "reason": "The ship had landed outside the Virginia Company's territory, so the settlers needed their own basis of government to keep order.",
+  "significance": "It became an early model of self-government by consent in America.",
+  "participants": [
+    "Pilgrims",
+    "William Bradford",
+    "Mayflower"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Provincetown Harbor, Massachusetts, United States",
+  "lat": 42.05,
+  "lon": -70.18,
+  "tags": [
+    "politics",
+    "law"
+  ],
+  "weight": 64,
+  "wikipedia": "Mayflower Compact",
+  "wikidata": "Q868502"
+}

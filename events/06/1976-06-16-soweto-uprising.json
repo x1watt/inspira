@@ -1,0 +1,28 @@
+{
+  "id": "event-1976-06-16-soweto-uprising",
+  "title": "Students rise up in Soweto",
+  "year": 1976,
+  "month": 6,
+  "day": 16,
+  "calendar": "gregorian",
+  "summary": "Police opened fire on thousands of Black students protesting in Soweto against being taught in Afrikaans. Hundreds died in the uprising.",
+  "reason": "Students rejected a decree forcing Afrikaans as a language of instruction, seen as the language of the oppressor.",
+  "significance": "It gave new life to the struggle against apartheid.",
+  "participants": [
+    "Soweto students",
+    "South African Police",
+    "Hector Pieterson"
+  ],
+  "countries": [
+    "South Africa"
+  ],
+  "place": "Soweto, South Africa",
+  "lat": -26.24,
+  "lon": 27.91,
+  "tags": [
+    "rights"
+  ],
+  "weight": 58,
+  "wikipedia": "Soweto uprising",
+  "wikidata": "Q153081"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "event-1994-01-01-nafta",
+  "title": "NAFTA comes into force",
+  "year": 1994,
+  "month": 1,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "The North American Free Trade Agreement between Canada, Mexico and the United States took effect.",
+  "reason": "Governments sought to boost trade and investment across North America by removing tariffs.",
+  "significance": "It created one of the world's largest free trade areas.",
+  "participants": [
+    "Canada",
+    "Mexico",
+    "United States"
+  ],
+  "countries": [
+    "Canada",
+    "Mexico",
+    "United States"
+  ],
+  "place": "North America",
+  "lat": null,
+  "lon": null,
+  "tags": [
+    "economy"
+  ],
+  "weight": 60,
+  "wikipedia": "North American Free Trade Agreement",
+  "wikidata": "Q181574"
+}

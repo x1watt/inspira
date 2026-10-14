@@ -1,0 +1,30 @@
+{
+  "id": "event-1983-09-01-kal-007",
+  "title": "Soviet fighter shoots down Korean Air Lines Flight 007",
+  "year": 1983,
+  "month": 9,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "A Soviet interceptor shot down a Korean Air Lines Boeing 747 that had strayed into Soviet airspace, killing all 269 people aboard.",
+  "reason": "The airliner had drifted off course, and Soviet air defence took it for a spy plane.",
+  "significance": "It sharpened Cold War tensions and led the United States to open GPS to civilian use.",
+  "participants": [
+    "Korean Air Lines",
+    "Soviet Air Defence Forces"
+  ],
+  "countries": [
+    "South Korea",
+    "Russia",
+    "United States"
+  ],
+  "place": "Near Moneron Island, Sea of Japan, Russia",
+  "lat": 46.5667,
+  "lon": 141.2833,
+  "tags": [
+    "disaster",
+    "war"
+  ],
+  "weight": 51,
+  "wikipedia": "Korean Air Lines Flight 007",
+  "wikidata": "Q18180"
+}

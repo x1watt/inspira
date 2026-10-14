@@ -1,0 +1,28 @@
+{
+  "id": "event-1911-03-25-triangle-shirtwaist-fire",
+  "title": "Triangle Shirtwaist Factory fire kills 146 workers",
+  "year": 1911,
+  "month": 3,
+  "day": 25,
+  "calendar": "gregorian",
+  "summary": "A fire in a garment factory in Manhattan killed 146 workers, mostly young immigrant women, many of whom were trapped by locked doors or jumped to their deaths.",
+  "reason": "Exits were locked to prevent theft and breaks, and the building lacked adequate fire escapes and sprinklers.",
+  "significance": "It led to major workplace safety laws and strengthened the American labor movement.",
+  "participants": [
+    "Triangle Waist Company",
+    "International Ladies' Garment Workers' Union"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Asch Building, New York City, United States",
+  "lat": 40.7302,
+  "lon": -73.9955,
+  "tags": [
+    "disaster",
+    "rights"
+  ],
+  "weight": 52,
+  "wikipedia": "Triangle Shirtwaist Factory fire",
+  "wikidata": "Q867316"
+}

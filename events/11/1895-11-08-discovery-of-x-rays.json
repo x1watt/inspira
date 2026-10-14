@@ -1,0 +1,28 @@
+{
+  "id": "event-1895-11-08-discovery-of-x-rays",
+  "title": "Wilhelm Röntgen discovers X-rays",
+  "year": 1895,
+  "month": 11,
+  "day": 8,
+  "calendar": "gregorian",
+  "summary": "Experimenting with a cathode ray tube in his laboratory at Würzburg, Röntgen noticed a screen glowing across the room and identified a new kind of penetrating ray.",
+  "reason": "Physicists across Europe were studying the strange effects of electric discharges in evacuated glass tubes.",
+  "significance": "X-rays revolutionized medical diagnosis and opened the era of modern physics.",
+  "participants": [
+    "Wilhelm Röntgen",
+    "University of Würzburg"
+  ],
+  "countries": [
+    "Germany"
+  ],
+  "place": "University of Würzburg, Würzburg, Germany",
+  "lat": 49.793,
+  "lon": 9.932,
+  "tags": [
+    "science",
+    "medicine"
+  ],
+  "weight": 80,
+  "wikipedia": "X-ray",
+  "wikidata": "Q34777"
+}

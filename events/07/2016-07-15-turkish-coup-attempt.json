@@ -1,0 +1,27 @@
+{
+  "id": "event-2016-07-15-turkish-coup-attempt",
+  "title": "Coup attempt fails in Turkey",
+  "year": 2016,
+  "month": 7,
+  "day": 15,
+  "calendar": "gregorian",
+  "summary": "A faction of the Turkish military tried to seize power, but crowds and loyal forces defeated it overnight. About 250 people died.",
+  "reason": "The plotters opposed President Erdogan, who blamed the Gulen movement.",
+  "significance": "Erdogan used it to purge tens of thousands and concentrate power.",
+  "participants": [
+    "Recep Tayyip Erdogan",
+    "Turkish Armed Forces",
+    "Gulen movement"
+  ],
+  "countries": [
+    "Turkey"
+  ],
+  "place": "Ankara, Turkey",
+  "lat": 39.9334,
+  "lon": 32.8597,
+  "tags": [
+    "politics"
+  ],
+  "weight": 58,
+  "wikipedia": "2016 Turkish coup d'état attempt"
+}

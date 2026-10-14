@@ -1,0 +1,29 @@
+{
+  "id": "event-451-10-08-council-of-chalcedon",
+  "title": "The Council of Chalcedon opens",
+  "year": 451,
+  "month": 10,
+  "day": 8,
+  "calendar": "julian",
+  "summary": "The fourth ecumenical council opened at Chalcedon and defined Christ as one person in two natures, divine and human.",
+  "reason": "Emperor Marcian and Pope Leo I wanted to overturn the Second Council of Ephesus and settle the dispute over the nature of Christ.",
+  "significance": "Its definition split the churches, leading to the separation of the Oriental Orthodox churches.",
+  "participants": [
+    "Marcian",
+    "Pope Leo I",
+    "Pulcheria",
+    "Christian bishops"
+  ],
+  "countries": [
+    "Turkey"
+  ],
+  "place": "Chalcedon (Kadikoy), Istanbul, Turkey",
+  "lat": 40.99,
+  "lon": 29.027,
+  "tags": [
+    "religion"
+  ],
+  "weight": 68,
+  "wikipedia": "Council of Chalcedon",
+  "wikidata": "Q170531"
+}

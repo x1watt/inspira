@@ -1,0 +1,28 @@
+{
+  "id": "event-1800-03-20-volta-battery",
+  "title": "Alessandro Volta announces the electric battery",
+  "year": 1800,
+  "month": 3,
+  "day": 20,
+  "calendar": "gregorian",
+  "summary": "Alessandro Volta described his voltaic pile, a stack of metal discs and brine soaked cloth that produced a steady electric current, in a letter to the Royal Society.",
+  "reason": "Volta set out to disprove Galvani's theory that electricity came from animal tissue.",
+  "significance": "It gave science its first source of continuous current and opened electrochemistry.",
+  "participants": [
+    "Alessandro Volta",
+    "Royal Society"
+  ],
+  "countries": [
+    "Italy"
+  ],
+  "place": "Como, Italy",
+  "lat": 45.8081,
+  "lon": 9.0852,
+  "tags": [
+    "science",
+    "technology"
+  ],
+  "weight": 75,
+  "wikipedia": "Voltaic pile",
+  "wikidata": "Q663273"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "event-1962-03-18-evian-accords",
+  "title": "The Evian Accords end the Algerian War",
+  "year": 1962,
+  "month": 3,
+  "day": 18,
+  "calendar": "gregorian",
+  "summary": "France and the Algerian provisional government signed agreements at Evian-les-Bains, providing a ceasefire and a vote on independence.",
+  "reason": "After eight years of war, de Gaulle decided France could not keep Algeria.",
+  "significance": "Algeria became independent in July 1962, and about a million settlers left.",
+  "participants": [
+    "Charles de Gaulle",
+    "Provisional Government of the Algerian Republic",
+    "National Liberation Front (Algeria)"
+  ],
+  "countries": [
+    "Algeria",
+    "France"
+  ],
+  "place": "Evian-les-Bains, France",
+  "lat": 46.401,
+  "lon": 6.5898,
+  "tags": [
+    "diplomacy",
+    "war"
+  ],
+  "weight": 61,
+  "wikipedia": "Évian Accords",
+  "wikidata": "Q1471139"
+}

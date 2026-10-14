@@ -1,0 +1,30 @@
+{
+  "id": "event-1533-07-26-atahualpa-executed",
+  "title": "The Spanish execute the Inca emperor Atahualpa",
+  "year": 1533,
+  "month": 7,
+  "day": 26,
+  "calendar": "julian",
+  "summary": "Although his subjects had filled a room with gold and silver as his ransom, Atahualpa was tried by the Spanish and executed by garrotte in Cajamarca.",
+  "reason": "Pizarro feared Atahualpa would lead a rebellion and accused him of plotting and of killing his brother Huascar.",
+  "significance": "His death left the Inca state leaderless and opened the road to Cusco for the conquerors.",
+  "participants": [
+    "Atahualpa",
+    "Francisco Pizarro",
+    "Inca Empire",
+    "Spanish Empire"
+  ],
+  "countries": [
+    "Peru",
+    "Spain"
+  ],
+  "place": "Cajamarca, Peru",
+  "lat": -7.157,
+  "lon": -78.517,
+  "tags": [
+    "politics"
+  ],
+  "weight": 55,
+  "wikipedia": "Atahualpa",
+  "wikidata": "Q179577"
+}

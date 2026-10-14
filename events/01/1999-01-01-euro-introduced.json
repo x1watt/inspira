@@ -1,0 +1,30 @@
+{
+  "id": "event-1999-01-01-euro-introduced",
+  "title": "The euro is introduced",
+  "year": 1999,
+  "month": 1,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "Eleven European Union countries adopted the euro as their currency for banking and markets, with notes and coins following in 2002.",
+  "reason": "The Maastricht Treaty set out monetary union to deepen the single market.",
+  "significance": "It became the second most important reserve currency in the world.",
+  "participants": [
+    "European Central Bank",
+    "European Union"
+  ],
+  "countries": [
+    "Germany",
+    "France",
+    "Italy",
+    "Spain"
+  ],
+  "place": "European Central Bank, Frankfurt, Germany",
+  "lat": 50.1109,
+  "lon": 8.6821,
+  "tags": [
+    "economy"
+  ],
+  "weight": 75,
+  "wikipedia": "Euro",
+  "wikidata": "Q4916"
+}

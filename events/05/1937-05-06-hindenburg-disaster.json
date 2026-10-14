@@ -1,0 +1,29 @@
+{
+  "id": "event-1937-05-06-hindenburg-disaster",
+  "title": "The Hindenburg airship bursts into flames",
+  "year": 1937,
+  "month": 5,
+  "day": 6,
+  "calendar": "gregorian",
+  "summary": "The German passenger airship Hindenburg caught fire while docking at Lakehurst, New Jersey, killing 36 people in front of newsreel cameras.",
+  "reason": "The airship was filled with flammable hydrogen, and a spark is thought to have ignited leaking gas.",
+  "significance": "The disaster ended the era of passenger airships.",
+  "participants": [
+    "LZ 129 Hindenburg",
+    "Deutsche Zeppelin-Reederei"
+  ],
+  "countries": [
+    "United States",
+    "Germany"
+  ],
+  "place": "Naval Air Station Lakehurst, New Jersey, United States",
+  "lat": 40.03,
+  "lon": -74.326,
+  "tags": [
+    "disaster",
+    "technology"
+  ],
+  "weight": 52,
+  "wikipedia": "Hindenburg disaster",
+  "wikidata": "Q3182723"
+}

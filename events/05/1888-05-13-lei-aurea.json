@@ -1,0 +1,29 @@
+{
+  "id": "event-1888-05-13-lei-aurea",
+  "title": "Brazil abolishes slavery with the Golden Law",
+  "year": 1888,
+  "month": 5,
+  "day": 13,
+  "calendar": "gregorian",
+  "summary": "Princess Isabel signed the Lei Áurea, abolishing slavery in Brazil immediately and without compensation to owners.",
+  "reason": "Mass escapes of enslaved people, abolitionist campaigns and the army's refusal to hunt fugitives made slavery unsustainable.",
+  "significance": "Brazil was the last country in the Americas to abolish slavery, freeing about 700,000 people.",
+  "participants": [
+    "Isabel, Princess Imperial of Brazil",
+    "Empire of Brazil",
+    "Joaquim Nabuco"
+  ],
+  "countries": [
+    "Brazil"
+  ],
+  "place": "Paço Imperial, Rio de Janeiro, Brazil",
+  "lat": -22.9035,
+  "lon": -43.1741,
+  "tags": [
+    "rights",
+    "law"
+  ],
+  "weight": 70,
+  "wikipedia": "Lei Áurea",
+  "wikidata": "Q1519167"
+}

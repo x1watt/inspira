@@ -1,0 +1,28 @@
+{
+  "id": "event-2004-11-22-orange-revolution",
+  "title": "Orange Revolution begins in Ukraine",
+  "year": 2004,
+  "month": 11,
+  "day": 22,
+  "calendar": "gregorian",
+  "summary": "Hundreds of thousands gathered in Kyiv's Independence Square to protest a rigged presidential runoff.",
+  "reason": "Official results gave victory to Viktor Yanukovych despite widespread fraud against Viktor Yushchenko.",
+  "significance": "A rerun election made Yushchenko president and showed Ukraine's turn toward the West.",
+  "participants": [
+    "Viktor Yushchenko",
+    "Viktor Yanukovych",
+    "Yulia Tymoshenko"
+  ],
+  "countries": [
+    "Ukraine"
+  ],
+  "place": "Maidan Nezalezhnosti, Kyiv, Ukraine",
+  "lat": 50.4501,
+  "lon": 30.5234,
+  "tags": [
+    "revolution"
+  ],
+  "weight": 55,
+  "wikipedia": "Orange Revolution",
+  "wikidata": "Q836386"
+}

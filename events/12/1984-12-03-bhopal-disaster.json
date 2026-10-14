@@ -1,0 +1,28 @@
+{
+  "id": "event-1984-12-03-bhopal-disaster",
+  "title": "Gas leak at Bhopal kills thousands",
+  "year": 1984,
+  "month": 12,
+  "day": 3,
+  "calendar": "gregorian",
+  "summary": "Toxic methyl isocyanate gas leaked from a Union Carbide pesticide plant in Bhopal, killing thousands of people overnight.",
+  "reason": "Poor maintenance and failing safety systems allowed water to enter a storage tank.",
+  "significance": "It is the world's worst industrial disaster.",
+  "participants": [
+    "Union Carbide India Limited",
+    "Warren Anderson"
+  ],
+  "countries": [
+    "India",
+    "United States"
+  ],
+  "place": "Bhopal, Madhya Pradesh, India",
+  "lat": 23.2803,
+  "lon": 77.411,
+  "tags": [
+    "disaster"
+  ],
+  "weight": 61,
+  "wikipedia": "Bhopal disaster",
+  "wikidata": "Q129029"
+}

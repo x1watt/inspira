@@ -1,0 +1,27 @@
+{
+  "id": "event-1992-04-29-la-riots",
+  "title": "Los Angeles riots break out",
+  "year": 1992,
+  "month": 4,
+  "day": 29,
+  "calendar": "gregorian",
+  "summary": "After a jury acquitted four police officers of beating Rodney King, rioting spread across Los Angeles for six days, leaving 63 dead.",
+  "reason": "The beating had been filmed, and the verdict fed long-standing anger over police brutality and racial inequality.",
+  "significance": "It became a lasting reference point in American debates on race and policing.",
+  "participants": [
+    "Rodney King",
+    "Los Angeles Police Department"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Los Angeles, California, United States",
+  "lat": 34.0522,
+  "lon": -118.2437,
+  "tags": [
+    "rights"
+  ],
+  "weight": 55,
+  "wikipedia": "1992 Los Angeles riots",
+  "wikidata": "Q696187"
+}

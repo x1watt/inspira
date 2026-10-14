@@ -1,0 +1,31 @@
+{
+  "id": "event-1942-08-08-quit-india-movement",
+  "title": "Gandhi launches the Quit India Movement",
+  "year": 1942,
+  "month": 8,
+  "day": 8,
+  "calendar": "gregorian",
+  "summary": "At a session in Bombay, the Indian National Congress passed a resolution demanding an immediate end to British rule, and Gandhi urged Indians to 'do or die'. The British arrested the Congress leaders the next morning, and mass protests followed.",
+  "reason": "Talks over Indian self-government had failed, and Congress refused to support a war it had not been consulted about.",
+  "significance": "It was the largest challenge to British rule since 1857 and showed that India could not be held indefinitely.",
+  "participants": [
+    "Mahatma Gandhi",
+    "Indian National Congress",
+    "Jawaharlal Nehru",
+    "British Raj"
+  ],
+  "countries": [
+    "India",
+    "United Kingdom"
+  ],
+  "place": "Gowalia Tank Maidan, Bombay (Mumbai), India",
+  "lat": 18.9622,
+  "lon": 72.8113,
+  "tags": [
+    "politics",
+    "rights"
+  ],
+  "weight": 75,
+  "wikipedia": "Quit India Movement",
+  "wikidata": "Q1992677"
+}

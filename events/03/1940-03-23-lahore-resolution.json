@@ -1,0 +1,30 @@
+{
+  "id": "event-1940-03-23-lahore-resolution",
+  "title": "All-India Muslim League adopts the Lahore Resolution",
+  "year": 1940,
+  "month": 3,
+  "day": 23,
+  "calendar": "gregorian",
+  "summary": "At its session in Lahore, the All-India Muslim League led by Muhammad Ali Jinnah called for independent states in the Muslim-majority regions of north-west and east British India.",
+  "reason": "Many Muslim leaders feared they would be a permanent minority in a united India dominated by the Hindu-majority Congress.",
+  "significance": "It became the founding demand for Pakistan, and 23 March is now celebrated as Pakistan Day.",
+  "participants": [
+    "All-India Muslim League",
+    "Muhammad Ali Jinnah",
+    "A. K. Fazlul Huq"
+  ],
+  "countries": [
+    "Pakistan",
+    "India",
+    "Bangladesh"
+  ],
+  "place": "Minto Park (now Iqbal Park), Lahore, Pakistan",
+  "lat": 31.5925,
+  "lon": 74.3095,
+  "tags": [
+    "politics"
+  ],
+  "weight": 72,
+  "wikipedia": "Lahore Resolution",
+  "wikidata": "Q1800631"
+}

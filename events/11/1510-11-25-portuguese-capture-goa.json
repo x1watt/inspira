@@ -1,0 +1,29 @@
+{
+  "id": "event-1510-11-25-portuguese-capture-goa",
+  "title": "Afonso de Albuquerque captures Goa",
+  "year": 1510,
+  "month": 11,
+  "day": 25,
+  "calendar": "julian",
+  "summary": "Portuguese forces under Afonso de Albuquerque retook the island city of Goa from the Bijapur Sultanate after losing it earlier that year.",
+  "reason": "Albuquerque wanted a permanent fortified base to control the sea lanes of western India.",
+  "significance": "Goa became the capital of Portuguese India and stayed Portuguese until 1961.",
+  "participants": [
+    "Afonso de Albuquerque",
+    "Kingdom of Portugal",
+    "Bijapur Sultanate"
+  ],
+  "countries": [
+    "India",
+    "Portugal"
+  ],
+  "place": "Old Goa, Goa, India",
+  "lat": 15.501,
+  "lon": 73.912,
+  "tags": [
+    "war"
+  ],
+  "weight": 55,
+  "wikipedia": "Portuguese conquest of Goa",
+  "wikidata": "Q2357384"
+}

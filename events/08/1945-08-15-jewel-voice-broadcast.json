@@ -1,0 +1,28 @@
+{
+  "id": "event-1945-08-15-jewel-voice-broadcast",
+  "title": "Emperor Hirohito announces Japan's surrender",
+  "year": 1945,
+  "month": 8,
+  "day": 15,
+  "calendar": "gregorian",
+  "summary": "In a radio broadcast, the first time most Japanese had heard his voice, Emperor Hirohito told his people that Japan would accept the Allied terms of surrender.",
+  "reason": "Japan had been hit by two atomic bombs and a Soviet invasion of Manchuria, and the emperor broke the deadlock in his cabinet.",
+  "significance": "It effectively ended the Second World War, and the day is marked as liberation day in Korea.",
+  "participants": [
+    "Hirohito",
+    "Empire of Japan",
+    "Kantaro Suzuki"
+  ],
+  "countries": [
+    "Japan"
+  ],
+  "place": "Tokyo Imperial Palace, Tokyo, Japan",
+  "lat": 35.6852,
+  "lon": 139.7528,
+  "tags": [
+    "war",
+    "politics"
+  ],
+  "weight": 82,
+  "wikipedia": "Hirohito surrender broadcast"
+}

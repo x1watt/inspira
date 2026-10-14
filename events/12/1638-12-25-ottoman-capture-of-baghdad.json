@@ -1,0 +1,29 @@
+{
+  "id": "event-1638-12-25-ottoman-capture-of-baghdad",
+  "title": "Ottomans recapture Baghdad from Safavid Persia",
+  "year": 1638,
+  "month": 12,
+  "day": 25,
+  "calendar": "gregorian",
+  "summary": "After a siege led personally by Sultan Murad IV, the Safavid garrison of Baghdad surrendered and the city returned to Ottoman rule.",
+  "reason": "Persia had taken Baghdad in 1624, and Murad IV was determined to restore Ottoman control of Mesopotamia.",
+  "significance": "It settled Iraq in Ottoman hands until the First World War.",
+  "participants": [
+    "Murad IV",
+    "Ottoman Empire",
+    "Safavid Iran"
+  ],
+  "countries": [
+    "Iraq",
+    "Turkey",
+    "Iran"
+  ],
+  "place": "Baghdad, Iraq",
+  "lat": 33.3152,
+  "lon": 44.3661,
+  "tags": [
+    "war"
+  ],
+  "weight": 52,
+  "wikipedia": "Siege of Baghdad (1638)"
+}

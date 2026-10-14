@@ -1,0 +1,27 @@
+{
+  "id": "event-1962-10-11-vatican-ii-opens",
+  "title": "The Second Vatican Council opens",
+  "year": 1962,
+  "month": 10,
+  "day": 11,
+  "calendar": "gregorian",
+  "summary": "Pope John XXIII opened the Second Vatican Council in St. Peter's Basilica, with about 2,500 bishops attending.",
+  "reason": "John XXIII wanted to bring the Church up to date with the modern world.",
+  "significance": "It transformed Catholic worship, including mass in local languages, and relations with other faiths.",
+  "participants": [
+    "Pope John XXIII",
+    "Catholic Church"
+  ],
+  "countries": [
+    "Vatican City"
+  ],
+  "place": "St. Peter's Basilica, Vatican City",
+  "lat": 41.9022,
+  "lon": 12.4539,
+  "tags": [
+    "religion"
+  ],
+  "weight": 63,
+  "wikipedia": "Second Vatican Council",
+  "wikidata": "Q169789"
+}

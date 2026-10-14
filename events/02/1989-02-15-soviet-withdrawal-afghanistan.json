@@ -1,0 +1,30 @@
+{
+  "id": "event-1989-02-15-soviet-withdrawal-afghanistan",
+  "title": "The last Soviet troops leave Afghanistan",
+  "year": 1989,
+  "month": 2,
+  "day": 15,
+  "calendar": "gregorian",
+  "summary": "General Boris Gromov walked across the Friendship Bridge into Soviet Uzbekistan, the last Soviet soldier to leave Afghanistan.",
+  "reason": "After a decade of war with mujahideen, Gorbachev decided to withdraw under the Geneva Accords.",
+  "significance": "It ended a war that drained the Soviet Union and left Afghanistan in civil war.",
+  "participants": [
+    "Soviet Army",
+    "Boris Gromov",
+    "Mikhail Gorbachev"
+  ],
+  "countries": [
+    "Afghanistan",
+    "Russia",
+    "Uzbekistan"
+  ],
+  "place": "Afghanistan-Uzbekistan Friendship Bridge, Termez, Uzbekistan",
+  "lat": 37.231,
+  "lon": 67.454,
+  "tags": [
+    "war"
+  ],
+  "weight": 55,
+  "wikipedia": "Soviet withdrawal from Afghanistan",
+  "wikidata": "Q509561"
+}

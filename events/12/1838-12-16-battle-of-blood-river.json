@@ -1,0 +1,29 @@
+{
+  "id": "event-1838-12-16-battle-of-blood-river",
+  "title": "Battle of Blood River between Voortrekkers and Zulus",
+  "year": 1838,
+  "month": 12,
+  "day": 16,
+  "calendar": "gregorian",
+  "summary": "About 470 Voortrekkers in a laager of wagons defeated a much larger Zulu army of King Dingane on the Ncome River, killing thousands.",
+  "reason": "Boer settlers moving inland from the Cape sought land in Natal, and Dingane had killed their leader Piet Retief earlier that year.",
+  "significance": "It allowed the Boers to found the Natalia Republic and became a central and divisive symbol in South African history.",
+  "participants": [
+    "Andries Pretorius",
+    "Voortrekkers",
+    "Zulu Kingdom",
+    "Dingane"
+  ],
+  "countries": [
+    "South Africa"
+  ],
+  "place": "Ncome River, KwaZulu-Natal, South Africa",
+  "lat": -28.1047,
+  "lon": 30.5414,
+  "tags": [
+    "war"
+  ],
+  "weight": 55,
+  "wikipedia": "Battle of Blood River",
+  "wikidata": "Q1392699"
+}

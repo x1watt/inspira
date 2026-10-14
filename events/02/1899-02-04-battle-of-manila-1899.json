@@ -1,0 +1,30 @@
+{
+  "id": "event-1899-02-04-battle-of-manila-1899",
+  "title": "Philippine-American War begins in Manila",
+  "year": 1899,
+  "month": 2,
+  "day": 4,
+  "calendar": "gregorian",
+  "summary": "Shots between American sentries and Filipino soldiers on the outskirts of Manila started a battle and a war between the United States and the First Philippine Republic.",
+  "reason": "Spain had ceded the Philippines to the United States, while Filipino revolutionaries had already declared independence.",
+  "significance": "The war cost hundreds of thousands of Filipino lives and made the United States a colonial power in Asia.",
+  "participants": [
+    "United States Army",
+    "First Philippine Republic",
+    "Emilio Aguinaldo",
+    "Elwell Otis"
+  ],
+  "countries": [
+    "Philippines",
+    "United States"
+  ],
+  "place": "Manila, Philippines",
+  "lat": 14.5995,
+  "lon": 120.9842,
+  "tags": [
+    "war"
+  ],
+  "weight": 55,
+  "wikipedia": "Battle of Manila (1899)",
+  "wikidata": "Q746860"
+}

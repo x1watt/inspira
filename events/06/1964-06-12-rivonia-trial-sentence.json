@@ -1,0 +1,30 @@
+{
+  "id": "event-1964-06-12-rivonia-trial-sentence",
+  "title": "Mandela is sentenced to life at the Rivonia Trial",
+  "year": 1964,
+  "month": 6,
+  "day": 12,
+  "calendar": "gregorian",
+  "summary": "Nelson Mandela and seven other ANC leaders were sentenced to life imprisonment for sabotage in Pretoria.",
+  "reason": "The apartheid government sought to destroy the ANC's armed resistance.",
+  "significance": "The trial made Mandela a world symbol of resistance to apartheid.",
+  "participants": [
+    "Nelson Mandela",
+    "Walter Sisulu",
+    "Govan Mbeki",
+    "African National Congress"
+  ],
+  "countries": [
+    "South Africa"
+  ],
+  "place": "Palace of Justice, Pretoria, South Africa",
+  "lat": -25.747,
+  "lon": 28.188,
+  "tags": [
+    "law",
+    "rights"
+  ],
+  "weight": 55,
+  "wikipedia": "Rivonia Trial",
+  "wikidata": "Q1639868"
+}

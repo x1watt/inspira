@@ -1,0 +1,29 @@
+{
+  "id": "event-809-03-24-death-of-harun-al-rashid",
+  "title": "Death of Caliph Harun al-Rashid",
+  "year": 809,
+  "month": 3,
+  "day": 24,
+  "calendar": "julian",
+  "summary": "The Abbasid caliph Harun al-Rashid died at Tus in Khurasan while on campaign against a rebellion. His empire was divided between his sons al-Amin and al-Ma'mun.",
+  "reason": "He fell ill while marching east to put down a revolt in Khurasan.",
+  "significance": "His reign was remembered as the height of Abbasid Baghdad, and the split between his sons led to civil war.",
+  "participants": [
+    "Harun al-Rashid",
+    "al-Amin",
+    "al-Ma'mun",
+    "Abbasid Caliphate"
+  ],
+  "countries": [
+    "Iran"
+  ],
+  "place": "Tus, near Mashhad, Iran",
+  "lat": 36.487,
+  "lon": 59.516,
+  "tags": [
+    "politics"
+  ],
+  "weight": 50,
+  "wikipedia": "Harun al-Rashid",
+  "wikidata": "Q131002"
+}

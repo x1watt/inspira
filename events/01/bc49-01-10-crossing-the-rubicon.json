@@ -1,0 +1,28 @@
+{
+  "id": "event-bc49-01-10-crossing-the-rubicon",
+  "title": "Julius Caesar crosses the Rubicon",
+  "year": -49,
+  "month": 1,
+  "day": 10,
+  "calendar": "julian",
+  "summary": "Julius Caesar led a legion across the Rubicon river into Italy proper, defying the Senate's order to disband his army. He is said to have declared that the die was cast.",
+  "reason": "The Senate, led by Caesar's rivals around Pompey, demanded that he give up his command, which would have exposed him to prosecution.",
+  "significance": "It began the civil war that ended the Roman Republic, and the phrase became a byword for a point of no return.",
+  "participants": [
+    "Julius Caesar",
+    "Roman Senate",
+    "Pompey"
+  ],
+  "countries": [
+    "Italy"
+  ],
+  "place": "Rubicon river, near Rimini, Italy",
+  "lat": 44.093,
+  "lon": 12.397,
+  "tags": [
+    "politics"
+  ],
+  "weight": 82,
+  "wikipedia": "Crossing the Rubicon",
+  "wikidata": "Q25238182"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "event-1942-06-04-battle-of-midway",
+  "title": "Battle of Midway turns the tide in the Pacific",
+  "year": 1942,
+  "month": 6,
+  "day": 4,
+  "calendar": "gregorian",
+  "summary": "US carrier aircraft sank four Japanese fleet carriers near Midway Atoll, losing only one of their own.",
+  "reason": "Japan planned to lure the remaining US carriers into a trap, but American codebreakers had read its plans.",
+  "significance": "It destroyed the core of Japan's carrier force and shifted the initiative in the Pacific to the United States.",
+  "participants": [
+    "United States Navy",
+    "Imperial Japanese Navy",
+    "Chester Nimitz",
+    "Isoroku Yamamoto",
+    "Raymond Spruance"
+  ],
+  "countries": [
+    "United States",
+    "Japan"
+  ],
+  "place": "Midway Atoll, North Pacific",
+  "lat": 28.2072,
+  "lon": -177.3735,
+  "tags": [
+    "war"
+  ],
+  "weight": 80,
+  "wikipedia": "Battle of Midway",
+  "wikidata": "Q173034"
+}

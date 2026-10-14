@@ -1,0 +1,32 @@
+{
+  "id": "event-1938-03-18-mexican-oil-expropriation",
+  "title": "Mexico nationalizes its oil industry",
+  "year": 1938,
+  "month": 3,
+  "day": 18,
+  "calendar": "gregorian",
+  "summary": "President Lazaro Cardenas announced the expropriation of the assets of foreign oil companies in Mexico, leading to the creation of Pemex.",
+  "reason": "The foreign companies refused to obey a Supreme Court ruling to raise workers' wages and improve conditions.",
+  "significance": "It became a symbol of Mexican sovereignty and an early model for resource nationalism.",
+  "participants": [
+    "Lazaro Cardenas",
+    "Pemex",
+    "Royal Dutch Shell",
+    "Standard Oil"
+  ],
+  "countries": [
+    "Mexico",
+    "United States",
+    "United Kingdom"
+  ],
+  "place": "Mexico City, Mexico",
+  "lat": 19.4326,
+  "lon": -99.1332,
+  "tags": [
+    "economy",
+    "politics"
+  ],
+  "weight": 52,
+  "wikipedia": "Mexican oil expropriation",
+  "wikidata": "Q2161196"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "event-1804-03-21-napoleonic-code",
+  "title": "France enacts the Napoleonic Code",
+  "year": 1804,
+  "month": 3,
+  "day": 21,
+  "calendar": "gregorian",
+  "summary": "The French Civil Code, drafted under Napoleon, came into force, setting uniform laws on property, contracts and the family.",
+  "reason": "France had a patchwork of local customs and royal law that the Revolution wanted to replace.",
+  "significance": "It became the model for civil law in much of the world.",
+  "participants": [
+    "Napoleon Bonaparte",
+    "Jean-Etienne-Marie Portalis"
+  ],
+  "countries": [
+    "France"
+  ],
+  "place": "Paris, France",
+  "lat": 48.8566,
+  "lon": 2.3522,
+  "tags": [
+    "law"
+  ],
+  "weight": 80,
+  "wikipedia": "Napoleonic Code",
+  "wikidata": "Q151060"
+}

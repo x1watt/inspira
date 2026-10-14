@@ -1,0 +1,29 @@
+{
+  "id": "event-1972-06-17-watergate-break-in",
+  "title": "Burglars are arrested at the Watergate complex",
+  "year": 1972,
+  "month": 6,
+  "day": 17,
+  "calendar": "gregorian",
+  "summary": "Five men linked to Nixon's re-election campaign were arrested breaking into the Democratic National Committee offices at the Watergate building.",
+  "reason": "Nixon aides wanted to spy on his political opponents.",
+  "significance": "The cover-up led to Nixon's resignation.",
+  "participants": [
+    "Committee for the Re-Election of the President",
+    "Richard Nixon",
+    "Democratic National Committee"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Watergate complex, Washington, D.C., United States",
+  "lat": 38.8998,
+  "lon": -77.056,
+  "tags": [
+    "politics",
+    "law"
+  ],
+  "weight": 61,
+  "wikipedia": "Watergate scandal",
+  "wikidata": "Q42761"
+}

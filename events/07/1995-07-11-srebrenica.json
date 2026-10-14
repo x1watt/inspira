@@ -1,0 +1,29 @@
+{
+  "id": "event-1995-07-11-srebrenica",
+  "title": "The Srebrenica massacre begins",
+  "year": 1995,
+  "month": 7,
+  "day": 11,
+  "calendar": "gregorian",
+  "summary": "Bosnian Serb forces under Ratko Mladic overran the UN safe area of Srebrenica and over the following days killed about 8,000 Bosniak men and boys.",
+  "reason": "Serb forces sought an ethnically pure territory, and Dutch peacekeepers were too few to resist.",
+  "significance": "It was ruled a genocide and is the worst mass killing in Europe since 1945.",
+  "participants": [
+    "Army of Republika Srpska",
+    "Ratko Mladic",
+    "Dutchbat"
+  ],
+  "countries": [
+    "Bosnia and Herzegovina"
+  ],
+  "place": "Srebrenica, Bosnia and Herzegovina",
+  "lat": 44.1066,
+  "lon": 19.2966,
+  "tags": [
+    "war",
+    "rights"
+  ],
+  "weight": 75,
+  "wikipedia": "Srebrenica massacre",
+  "wikidata": "Q170334"
+}

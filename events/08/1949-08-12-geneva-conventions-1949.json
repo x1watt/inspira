@@ -1,0 +1,28 @@
+{
+  "id": "event-1949-08-12-geneva-conventions-1949",
+  "title": "The Geneva Conventions are adopted",
+  "year": 1949,
+  "month": 8,
+  "day": 12,
+  "calendar": "gregorian",
+  "summary": "A diplomatic conference in Geneva adopted four conventions protecting wounded soldiers, shipwrecked sailors, prisoners of war and civilians in wartime.",
+  "reason": "The mass killing of civilians and prisoners in the Second World War showed the gaps in earlier treaties.",
+  "significance": "They are the core of international humanitarian law.",
+  "participants": [
+    "International Committee of the Red Cross",
+    "Swiss Federal Council"
+  ],
+  "countries": [
+    "Switzerland"
+  ],
+  "place": "Geneva, Switzerland",
+  "lat": 46.2044,
+  "lon": 6.1432,
+  "tags": [
+    "law",
+    "rights"
+  ],
+  "weight": 61,
+  "wikipedia": "Geneva Conventions",
+  "wikidata": "Q133536"
+}

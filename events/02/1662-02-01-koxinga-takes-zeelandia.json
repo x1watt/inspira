@@ -1,0 +1,31 @@
+{
+  "id": "event-1662-02-01-koxinga-takes-zeelandia",
+  "title": "Koxinga forces the Dutch to surrender Taiwan",
+  "year": 1662,
+  "month": 2,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "After a nine-month siege, the Dutch governor Frederick Coyett signed the surrender of Fort Zeelandia to the Ming loyalist commander Koxinga.",
+  "reason": "Koxinga, losing the war against the Qing on the mainland, needed a secure base and attacked the Dutch colony on Taiwan.",
+  "significance": "It ended Dutch rule in Taiwan and began Chinese settlement of the island under the Kingdom of Tungning.",
+  "participants": [
+    "Koxinga",
+    "Frederick Coyett",
+    "Dutch East India Company",
+    "Kingdom of Tungning"
+  ],
+  "countries": [
+    "Taiwan",
+    "Netherlands",
+    "China"
+  ],
+  "place": "Anping, Tainan, Taiwan",
+  "lat": 23.0016,
+  "lon": 120.1606,
+  "tags": [
+    "war"
+  ],
+  "weight": 60,
+  "wikipedia": "Siege of Fort Zeelandia",
+  "wikidata": "Q697621"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "event-2024-08-05-hasina-resigns",
+  "title": "Sheikh Hasina resigns and flees Bangladesh",
+  "year": 2024,
+  "month": 8,
+  "day": 5,
+  "calendar": "gregorian",
+  "summary": "Prime Minister Sheikh Hasina resigned and fled to India as protesters marched on her residence in Dhaka.",
+  "reason": "Student protests over job quotas turned into a mass uprising after hundreds were killed.",
+  "significance": "It ended fifteen years of her rule and led to an interim government under Muhammad Yunus.",
+  "participants": [
+    "Sheikh Hasina",
+    "Awami League",
+    "Muhammad Yunus"
+  ],
+  "countries": [
+    "Bangladesh",
+    "India"
+  ],
+  "place": "Dhaka, Bangladesh",
+  "lat": 23.8103,
+  "lon": 90.4125,
+  "tags": [
+    "revolution",
+    "politics"
+  ],
+  "weight": 58,
+  "wikipedia": "Resignation of Sheikh Hasina",
+  "wikidata": "Q128601735"
+}

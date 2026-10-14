@@ -1,0 +1,28 @@
+{
+  "id": "event-1919-05-04-may-fourth-movement",
+  "title": "Students protest in Beijing in the May Fourth Movement",
+  "year": 1919,
+  "month": 5,
+  "day": 4,
+  "calendar": "gregorian",
+  "summary": "Thousands of students gathered at Tiananmen in Beijing to protest the decision at Versailles to hand German rights in Shandong to Japan.",
+  "reason": "Chinese anger at the weak government and foreign humiliation combined with a wider movement for cultural renewal.",
+  "significance": "It shaped modern Chinese nationalism and fed the rise of the Chinese Communist Party.",
+  "participants": [
+    "Peking University students",
+    "Beiyang government"
+  ],
+  "countries": [
+    "China"
+  ],
+  "place": "Tiananmen, Beijing, China",
+  "lat": 39.9055,
+  "lon": 116.3976,
+  "tags": [
+    "politics",
+    "culture"
+  ],
+  "weight": 67,
+  "wikipedia": "May Fourth Movement",
+  "wikidata": "Q279790"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "event-2020-12-08-first-covid-vaccine",
+  "title": "First approved COVID-19 vaccine dose is given",
+  "year": 2020,
+  "month": 12,
+  "day": 8,
+  "calendar": "gregorian",
+  "summary": "Margaret Keenan, aged 90, received the Pfizer-BioNTech vaccine in Coventry, the first person given an approved COVID-19 vaccine outside a trial.",
+  "reason": "mRNA technology let vaccines be developed in under a year.",
+  "significance": "Mass vaccination saved millions of lives.",
+  "participants": [
+    "Margaret Keenan",
+    "Pfizer",
+    "BioNTech",
+    "National Health Service"
+  ],
+  "countries": [
+    "United Kingdom",
+    "Germany"
+  ],
+  "place": "University Hospital Coventry, England, United Kingdom",
+  "lat": 52.421,
+  "lon": -1.44,
+  "tags": [
+    "medicine"
+  ],
+  "weight": 70,
+  "wikipedia": "COVID-19 vaccination in the United Kingdom",
+  "wikidata": "Q87719492"
+}

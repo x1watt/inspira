@@ -1,0 +1,30 @@
+{
+  "id": "event-1598-04-13-edict-of-nantes",
+  "title": "Henry IV signs the Edict of Nantes",
+  "year": 1598,
+  "month": 4,
+  "day": 13,
+  "calendar": "gregorian",
+  "summary": "King Henry IV granted French Protestants freedom of conscience, the right to worship in many places, and fortified towns for their security.",
+  "reason": "Henry, a former Protestant who had converted to Catholicism, needed to end decades of religious civil war.",
+  "significance": "It ended the French Wars of Religion and was an early grant of religious tolerance by a Catholic monarchy.",
+  "participants": [
+    "Henry IV of France",
+    "Huguenots",
+    "Kingdom of France"
+  ],
+  "countries": [
+    "France"
+  ],
+  "place": "Nantes, France",
+  "lat": 47.218,
+  "lon": -1.554,
+  "tags": [
+    "religion",
+    "law",
+    "rights"
+  ],
+  "weight": 70,
+  "wikipedia": "Edict of Nantes",
+  "wikidata": "Q179788"
+}

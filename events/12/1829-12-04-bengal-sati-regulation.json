@@ -1,0 +1,30 @@
+{
+  "id": "event-1829-12-04-bengal-sati-regulation",
+  "title": "British India bans sati",
+  "year": 1829,
+  "month": 12,
+  "day": 4,
+  "calendar": "gregorian",
+  "summary": "Governor-General Lord William Bentinck issued a regulation making the burning or burying alive of Hindu widows illegal in the Bengal Presidency.",
+  "reason": "Indian reformers led by Ram Mohan Roy and British evangelicals had campaigned for years against the practice.",
+  "significance": "It was a landmark of social reform in colonial India and of the Bengal Renaissance.",
+  "participants": [
+    "Lord William Bentinck",
+    "Ram Mohan Roy",
+    "British East India Company"
+  ],
+  "countries": [
+    "India",
+    "United Kingdom"
+  ],
+  "place": "Calcutta, India",
+  "lat": 22.5726,
+  "lon": 88.3639,
+  "tags": [
+    "law",
+    "rights"
+  ],
+  "weight": 55,
+  "wikipedia": "Bengal Sati Regulation, 1829",
+  "wikidata": "Q4887658"
+}

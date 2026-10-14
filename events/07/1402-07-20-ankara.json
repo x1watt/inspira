@@ -1,0 +1,30 @@
+{
+  "id": "event-1402-07-20-ankara",
+  "title": "Timur defeats and captures Sultan Bayezid at Ankara",
+  "year": 1402,
+  "month": 7,
+  "day": 20,
+  "calendar": "julian",
+  "summary": "The army of the Central Asian conqueror Timur routed the Ottoman army near Ankara and took Sultan Bayezid I prisoner.",
+  "reason": "Timur and Bayezid were rival empire builders whose borders met in eastern Anatolia, and each sheltered the other's enemies.",
+  "significance": "The defeat plunged the Ottoman state into a decade of civil war and delayed the fall of Constantinople by half a century.",
+  "participants": [
+    "Timurid Empire",
+    "Ottoman Empire",
+    "Timur",
+    "Bayezid I"
+  ],
+  "countries": [
+    "Turkey",
+    "Uzbekistan"
+  ],
+  "place": "Cubuk plain, near Ankara, Turkey",
+  "lat": 40.1,
+  "lon": 33.0,
+  "tags": [
+    "war"
+  ],
+  "weight": 65,
+  "wikipedia": "Battle of Ankara",
+  "wikidata": "Q209387"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "event-1644-04-25-fall-of-beijing-ming",
+  "title": "Beijing falls and the last Ming emperor hangs himself",
+  "year": 1644,
+  "month": 4,
+  "day": 25,
+  "calendar": "gregorian",
+  "summary": "As Li Zicheng's rebel army entered Beijing, the Chongzhen Emperor hanged himself on a hill behind the Forbidden City.",
+  "reason": "Famine, heavy taxes and decades of war against the Manchus had driven millions of peasants into rebellion.",
+  "significance": "It ended Ming rule in Beijing and opened the way for the Qing conquest of China.",
+  "participants": [
+    "Chongzhen Emperor",
+    "Li Zicheng",
+    "Ming dynasty",
+    "Shun dynasty"
+  ],
+  "countries": [
+    "China"
+  ],
+  "place": "Jingshan, Beijing, China",
+  "lat": 39.9248,
+  "lon": 116.3966,
+  "tags": [
+    "war",
+    "politics"
+  ],
+  "weight": 78,
+  "wikipedia": "Chongzhen Emperor",
+  "wikidata": "Q10069"
+}

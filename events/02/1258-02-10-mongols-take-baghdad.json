@@ -1,0 +1,29 @@
+{
+  "id": "event-1258-02-10-mongols-take-baghdad",
+  "title": "Mongols capture Baghdad and end the Abbasid Caliphate",
+  "year": 1258,
+  "month": 2,
+  "day": 10,
+  "calendar": "julian",
+  "summary": "Hulegu's Mongol army took Baghdad after a short siege. The city was sacked, the caliph al-Musta'sim was executed and a vast number of people were killed.",
+  "reason": "The caliph had refused to submit to Hulegu, who was extending Mongol rule over the Middle East.",
+  "significance": "It ended the Abbasid Caliphate in Baghdad and is often seen as the end of the Islamic Golden Age.",
+  "participants": [
+    "Hulegu Khan",
+    "Mongol Empire",
+    "al-Musta'sim",
+    "Abbasid Caliphate"
+  ],
+  "countries": [
+    "Iraq",
+    "Mongolia"
+  ],
+  "place": "Baghdad, Iraq",
+  "lat": 33.3475,
+  "lon": 44.335,
+  "tags": [
+    "war"
+  ],
+  "weight": 85,
+  "wikipedia": "Siege of Baghdad"
+}

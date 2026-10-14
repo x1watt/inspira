@@ -1,0 +1,27 @@
+{
+  "id": "event-1963-06-11-thich-quang-duc",
+  "title": "Monk Thich Quang Duc burns himself in Saigon",
+  "year": 1963,
+  "month": 6,
+  "day": 11,
+  "calendar": "gregorian",
+  "summary": "The Buddhist monk Thich Quang Duc set himself on fire at a busy Saigon intersection. Photographs of his death went around the world.",
+  "reason": "Buddhists were protesting the persecution of their religion by Ngo Dinh Diem's Catholic dominated government.",
+  "significance": "It undermined American support for Diem.",
+  "participants": [
+    "Thich Quang Duc",
+    "Ngo Dinh Diem"
+  ],
+  "countries": [
+    "Vietnam"
+  ],
+  "place": "Saigon (Ho Chi Minh City), Vietnam",
+  "lat": 10.7783,
+  "lon": 106.6853,
+  "tags": [
+    "religion",
+    "rights"
+  ],
+  "weight": 51,
+  "wikipedia": "Thích Quảng Đức"
+}

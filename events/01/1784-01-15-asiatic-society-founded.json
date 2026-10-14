@@ -1,0 +1,28 @@
+{
+  "id": "event-1784-01-15-asiatic-society-founded",
+  "title": "William Jones founds the Asiatic Society in Calcutta",
+  "year": 1784,
+  "month": 1,
+  "day": 15,
+  "calendar": "gregorian",
+  "summary": "Sir William Jones founded the Asiatic Society in Calcutta to study the history, languages and sciences of Asia.",
+  "reason": "Jones believed Europeans in India should study its classical languages and texts in depth.",
+  "significance": "It launched modern Indology and, through Jones, the idea of the Indo-European language family.",
+  "participants": [
+    "William Jones",
+    "The Asiatic Society"
+  ],
+  "countries": [
+    "India"
+  ],
+  "place": "Kolkata, India",
+  "lat": 22.5726,
+  "lon": 88.3639,
+  "tags": [
+    "culture",
+    "science"
+  ],
+  "weight": 50,
+  "wikipedia": "The Asiatic Society",
+  "wikidata": "Q374902"
+}

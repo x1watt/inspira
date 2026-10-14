@@ -1,0 +1,32 @@
+{
+  "id": "event-2003-03-20-iraq-invasion",
+  "title": "US-led invasion of Iraq begins",
+  "year": 2003,
+  "month": 3,
+  "day": 20,
+  "calendar": "gregorian",
+  "summary": "American, British and allied forces began air strikes and a ground invasion of Iraq.",
+  "reason": "The US accused Saddam Hussein of hiding weapons of mass destruction and links to terrorism, claims later shown false.",
+  "significance": "It toppled Saddam but led to years of insurgency and sectarian war.",
+  "participants": [
+    "United States",
+    "United Kingdom",
+    "George W. Bush",
+    "Tony Blair",
+    "Saddam Hussein"
+  ],
+  "countries": [
+    "Iraq",
+    "United States",
+    "United Kingdom"
+  ],
+  "place": "Baghdad, Iraq",
+  "lat": 33.3152,
+  "lon": 44.3661,
+  "tags": [
+    "war"
+  ],
+  "weight": 82,
+  "wikipedia": "2003 invasion of Iraq",
+  "wikidata": "Q107802"
+}

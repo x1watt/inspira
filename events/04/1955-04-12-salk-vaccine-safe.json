@@ -1,0 +1,28 @@
+{
+  "id": "event-1955-04-12-salk-vaccine-safe",
+  "title": "Salk's polio vaccine is declared safe and effective",
+  "year": 1955,
+  "month": 4,
+  "day": 12,
+  "calendar": "gregorian",
+  "summary": "At the University of Michigan, researchers announced that a huge field trial had shown Jonas Salk's polio vaccine to be safe and effective.",
+  "reason": "Polio epidemics paralysed thousands of children each year, and the March of Dimes funded the trial.",
+  "significance": "Mass vaccination began, and polio was eventually eliminated in most of the world.",
+  "participants": [
+    "Jonas Salk",
+    "Thomas Francis Jr.",
+    "March of Dimes"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "University of Michigan, Ann Arbor, United States",
+  "lat": 42.2808,
+  "lon": -83.743,
+  "tags": [
+    "medicine"
+  ],
+  "weight": 70,
+  "wikipedia": "Polio vaccine",
+  "wikidata": "Q1519099"
+}

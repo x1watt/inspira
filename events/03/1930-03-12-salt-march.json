@@ -1,0 +1,29 @@
+{
+  "id": "event-1930-03-12-salt-march",
+  "title": "Gandhi begins the Salt March",
+  "year": 1930,
+  "month": 3,
+  "day": 12,
+  "calendar": "gregorian",
+  "summary": "Mohandas Gandhi set out from Sabarmati Ashram with 78 followers on a 24-day walk to Dandi on the coast to make salt in defiance of the British salt tax.",
+  "reason": "The salt tax was a symbol of British rule that hurt every Indian, making it an ideal target for civil disobedience.",
+  "significance": "It drew world attention to the Indian independence movement and launched a mass civil disobedience campaign.",
+  "participants": [
+    "Mohandas Gandhi",
+    "Indian National Congress",
+    "British Raj"
+  ],
+  "countries": [
+    "India"
+  ],
+  "place": "Sabarmati Ashram, Ahmedabad, India",
+  "lat": 23.0607,
+  "lon": 72.5807,
+  "tags": [
+    "rights",
+    "politics"
+  ],
+  "weight": 72,
+  "wikipedia": "Salt March",
+  "wikidata": "Q239344"
+}

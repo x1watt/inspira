@@ -1,0 +1,32 @@
+{
+  "id": "event-1449-09-01-tumu-crisis",
+  "title": "Oirat Mongols capture the Ming emperor at Tumu",
+  "year": 1449,
+  "month": 9,
+  "day": 1,
+  "calendar": "julian",
+  "summary": "Oirat Mongol forces under Esen Taishi destroyed a large Ming army at the Tumu fortress and captured the Zhengtong Emperor.",
+  "reason": "Trade disputes on the northern frontier led Esen to raid China, and the young emperor marched out on a poorly planned campaign urged by the eunuch Wang Zhen.",
+  "significance": "The disaster turned Ming China toward a defensive frontier policy that led to the rebuilding of the Great Wall.",
+  "participants": [
+    "Ming dynasty",
+    "Northern Yuan",
+    "Oirats",
+    "Zhengtong Emperor",
+    "Esen Taishi",
+    "Wang Zhen"
+  ],
+  "countries": [
+    "China",
+    "Mongolia"
+  ],
+  "place": "Tumu, Huailai County, Hebei, China",
+  "lat": 40.38,
+  "lon": 115.6,
+  "tags": [
+    "war"
+  ],
+  "weight": 58,
+  "wikipedia": "Tumu Crisis",
+  "wikidata": "Q1196236"
+}

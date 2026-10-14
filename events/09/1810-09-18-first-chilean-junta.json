@@ -1,0 +1,28 @@
+{
+  "id": "event-1810-09-18-first-chilean-junta",
+  "title": "Chile forms its first national government junta",
+  "year": 1810,
+  "month": 9,
+  "day": 18,
+  "calendar": "gregorian",
+  "summary": "An open council in Santiago replaced the Spanish governor with a junta.",
+  "reason": "With the Spanish king captive, Chilean creoles chose self government in his name.",
+  "significance": "It began Chile's road to independence and is its national day.",
+  "participants": [
+    "Mateo de Toro Zambrano",
+    "Captaincy General of Chile"
+  ],
+  "countries": [
+    "Chile",
+    "Spain"
+  ],
+  "place": "Santiago, Chile",
+  "lat": -33.4378,
+  "lon": -70.6504,
+  "tags": [
+    "politics",
+    "revolution"
+  ],
+  "weight": 55,
+  "wikipedia": "Government Junta of Chile (1810)"
+}

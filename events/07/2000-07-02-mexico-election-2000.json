@@ -1,0 +1,28 @@
+{
+  "id": "event-2000-07-02-mexico-election-2000",
+  "title": "Vicente Fox ends 71 years of PRI rule in Mexico",
+  "year": 2000,
+  "month": 7,
+  "day": 2,
+  "calendar": "gregorian",
+  "summary": "Opposition candidate Vicente Fox of the PAN won Mexico's presidential election.",
+  "reason": "Electoral reforms and public anger over corruption and economic crises weakened the ruling PRI.",
+  "significance": "It completed Mexico's transition to multiparty democracy.",
+  "participants": [
+    "Vicente Fox",
+    "National Action Party",
+    "Institutional Revolutionary Party"
+  ],
+  "countries": [
+    "Mexico"
+  ],
+  "place": "Mexico",
+  "lat": null,
+  "lon": null,
+  "tags": [
+    "politics"
+  ],
+  "weight": 58,
+  "wikipedia": "2000 Mexican general election",
+  "wikidata": "Q3645480"
+}

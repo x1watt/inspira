@@ -1,0 +1,25 @@
+{
+  "id": "event-1923-09-01-great-kanto-earthquake",
+  "title": "The Great Kanto earthquake devastates Tokyo and Yokohama",
+  "year": 1923,
+  "month": 9,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "A magnitude 7.9 earthquake struck the Kanto plain at midday, and fires destroyed much of Tokyo and Yokohama, killing over 100,000 people.",
+  "reason": "The quake came from a rupture along the plate boundary under Sagami Bay, and lunchtime cooking fires spread among wooden houses.",
+  "significance": "It was one of the deadliest earthquakes in history and was followed by massacres of Koreans in Japan.",
+  "participants": [
+    "Empire of Japan"
+  ],
+  "countries": [
+    "Japan"
+  ],
+  "place": "Tokyo and Yokohama, Japan",
+  "lat": 35.6762,
+  "lon": 139.6503,
+  "tags": [
+    "disaster"
+  ],
+  "weight": 57,
+  "wikipedia": "Great Kantō Earthquake"
+}

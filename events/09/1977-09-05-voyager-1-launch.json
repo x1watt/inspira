@@ -1,0 +1,29 @@
+{
+  "id": "event-1977-09-05-voyager-1-launch",
+  "title": "Voyager 1 is launched",
+  "year": 1977,
+  "month": 9,
+  "day": 5,
+  "calendar": "gregorian",
+  "summary": "NASA launched Voyager 1 from Cape Canaveral to fly past Jupiter and Saturn. It carried the Golden Record of sounds from Earth.",
+  "reason": "A rare alignment of the outer planets made a grand tour possible.",
+  "significance": "It became the first spacecraft to reach interstellar space.",
+  "participants": [
+    "NASA",
+    "Jet Propulsion Laboratory",
+    "Carl Sagan"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Cape Canaveral, Florida, United States",
+  "lat": 28.5833,
+  "lon": -80.583,
+  "tags": [
+    "exploration",
+    "science"
+  ],
+  "weight": 63,
+  "wikipedia": "Voyager 1",
+  "wikidata": "Q48469"
+}

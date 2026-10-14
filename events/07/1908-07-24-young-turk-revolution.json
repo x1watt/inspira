@@ -1,0 +1,28 @@
+{
+  "id": "event-1908-07-24-young-turk-revolution",
+  "title": "Young Turk Revolution restores the Ottoman constitution",
+  "year": 1908,
+  "month": 7,
+  "day": 24,
+  "calendar": "gregorian",
+  "summary": "Faced with a mutiny of army officers in Macedonia, Sultan Abdul Hamid II restored the 1876 constitution and recalled parliament, beginning the Second Constitutional Era.",
+  "reason": "The Committee of Union and Progress and reformist officers wanted to end autocracy and save the empire from collapse and foreign intervention.",
+  "significance": "It brought the Young Turks to power and reshaped the late Ottoman Empire.",
+  "participants": [
+    "Committee of Union and Progress",
+    "Abdul Hamid II",
+    "Ottoman Empire"
+  ],
+  "countries": [
+    "Turkey"
+  ],
+  "place": "Constantinople (Istanbul), Turkey",
+  "lat": 41.0082,
+  "lon": 28.9784,
+  "tags": [
+    "revolution"
+  ],
+  "weight": 57,
+  "wikipedia": "Young Turk Revolution",
+  "wikidata": "Q4298662"
+}

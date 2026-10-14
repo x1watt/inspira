@@ -1,0 +1,30 @@
+{
+  "id": "event-1870-09-01-battle-of-sedan",
+  "title": "Napoleon III defeated and captured at Sedan",
+  "year": 1870,
+  "month": 9,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "German armies surrounded and defeated a French army at Sedan, taking Emperor Napoleon III prisoner the next day.",
+  "reason": "France had declared war on Prussia over the Hohenzollern candidacy for the Spanish throne, and its army was outmaneuvered by Moltke.",
+  "significance": "It brought down the Second French Empire and opened the way to German unification.",
+  "participants": [
+    "Napoleon III",
+    "Helmuth von Moltke the Elder",
+    "Kingdom of Prussia",
+    "Second French Empire"
+  ],
+  "countries": [
+    "France",
+    "Germany"
+  ],
+  "place": "Sedan, Ardennes, France",
+  "lat": 49.7019,
+  "lon": 4.9403,
+  "tags": [
+    "war"
+  ],
+  "weight": 70,
+  "wikipedia": "Battle of Sedan",
+  "wikidata": "Q156681"
+}

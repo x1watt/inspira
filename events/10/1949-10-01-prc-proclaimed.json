@@ -1,0 +1,28 @@
+{
+  "id": "event-1949-10-01-prc-proclaimed",
+  "title": "Mao Zedong proclaims the People's Republic of China",
+  "year": 1949,
+  "month": 10,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "From the Gate of Heavenly Peace in Beijing, Mao Zedong proclaimed the founding of the People's Republic of China.",
+  "reason": "The Communists had won the civil war against Chiang Kai-shek's Nationalists, who retreated to Taiwan.",
+  "significance": "It brought the world's most populous country under communist rule.",
+  "participants": [
+    "Mao Zedong",
+    "Chinese Communist Party"
+  ],
+  "countries": [
+    "China"
+  ],
+  "place": "Tiananmen, Beijing, China",
+  "lat": 39.9055,
+  "lon": 116.3976,
+  "tags": [
+    "revolution",
+    "politics"
+  ],
+  "weight": 92,
+  "wikipedia": "Proclamation of the People's Republic of China",
+  "wikidata": "Q10872057"
+}

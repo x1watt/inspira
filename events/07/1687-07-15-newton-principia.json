@@ -1,0 +1,27 @@
+{
+  "id": "event-1687-07-15-newton-principia",
+  "title": "Newton publishes the Principia",
+  "year": 1687,
+  "month": 7,
+  "day": 15,
+  "calendar": "gregorian",
+  "summary": "Isaac Newton's Philosophiae Naturalis Principia Mathematica was published in London, setting out the laws of motion and universal gravitation.",
+  "reason": "Edmond Halley urged Newton to publish his work after asking him about the orbits of planets, and paid for the printing himself.",
+  "significance": "It founded classical mechanics and became one of the most important works in the history of science.",
+  "participants": [
+    "Isaac Newton",
+    "Edmond Halley",
+    "Royal Society"
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "place": "London, United Kingdom",
+  "lat": 51.5074,
+  "lon": -0.1278,
+  "tags": [
+    "science"
+  ],
+  "weight": 92,
+  "wikipedia": "Philosophiæ Naturalis Principia Mathematica"
+}

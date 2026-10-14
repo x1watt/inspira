@@ -1,0 +1,28 @@
+{
+  "id": "event-1922-11-01-ottoman-sultanate-abolished",
+  "title": "The Turkish parliament abolishes the Ottoman sultanate",
+  "year": 1922,
+  "month": 11,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "The Grand National Assembly in Ankara voted to abolish the Ottoman sultanate, and the last sultan, Mehmed VI, left Constantinople weeks later.",
+  "reason": "Victory in the War of Independence gave Mustafa Kemal's nationalists the authority to end the dual government.",
+  "significance": "It ended the Ottoman Empire after more than six centuries.",
+  "participants": [
+    "Grand National Assembly of Turkey",
+    "Mehmed VI",
+    "Mustafa Kemal Ataturk"
+  ],
+  "countries": [
+    "Turkey"
+  ],
+  "place": "Ankara, Turkey",
+  "lat": 39.9334,
+  "lon": 32.8597,
+  "tags": [
+    "politics"
+  ],
+  "weight": 52,
+  "wikipedia": "Abolition of the Ottoman sultanate",
+  "wikidata": "Q3809270"
+}

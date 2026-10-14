@@ -1,0 +1,28 @@
+{
+  "id": "event-1969-06-28-stonewall-riots",
+  "title": "The Stonewall riots begin in New York",
+  "year": 1969,
+  "month": 6,
+  "day": 28,
+  "calendar": "gregorian",
+  "summary": "A police raid on the Stonewall Inn, a gay bar in Greenwich Village, set off days of protests and clashes.",
+  "reason": "Gay people in New York faced frequent police raids and harassment.",
+  "significance": "Stonewall became the starting point of the modern LGBT rights movement.",
+  "participants": [
+    "Stonewall Inn",
+    "New York City Police Department",
+    "Marsha P. Johnson"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Stonewall Inn, New York City, United States",
+  "lat": 40.7338,
+  "lon": -74.0021,
+  "tags": [
+    "rights"
+  ],
+  "weight": 55,
+  "wikipedia": "Stonewall riots",
+  "wikidata": "Q51402"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "event-1942-02-15-fall-of-singapore",
+  "title": "Singapore falls to Japan",
+  "year": 1942,
+  "month": 2,
+  "day": 15,
+  "calendar": "gregorian",
+  "summary": "General Arthur Percival surrendered Singapore and about 80,000 British, Indian and Australian troops to the Japanese army of Tomoyuki Yamashita.",
+  "reason": "Japanese forces had swept through Malaya, and the island's defences were not designed for an attack from the north.",
+  "significance": "Churchill called it the worst disaster in British military history, and it badly damaged British prestige in Asia.",
+  "participants": [
+    "Empire of Japan",
+    "Tomoyuki Yamashita",
+    "Arthur Percival",
+    "British Empire"
+  ],
+  "countries": [
+    "Singapore",
+    "United Kingdom",
+    "Japan",
+    "Australia",
+    "India"
+  ],
+  "place": "Singapore",
+  "lat": 1.3521,
+  "lon": 103.8198,
+  "tags": [
+    "war"
+  ],
+  "weight": 72,
+  "wikipedia": "Fall of Singapore",
+  "wikidata": "Q296754"
+}

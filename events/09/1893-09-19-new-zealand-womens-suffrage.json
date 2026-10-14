@@ -1,0 +1,30 @@
+{
+  "id": "event-1893-09-19-new-zealand-womens-suffrage",
+  "title": "New Zealand gives women the vote",
+  "year": 1893,
+  "month": 9,
+  "day": 19,
+  "calendar": "gregorian",
+  "summary": "Governor Lord Glasgow signed the Electoral Act 1893, making New Zealand the first self-governing country where all women could vote in national elections.",
+  "reason": "Kate Sheppard and the Women's Christian Temperance Union had gathered huge petitions to Parliament.",
+  "significance": "It inspired suffrage movements around the world.",
+  "participants": [
+    "Kate Sheppard",
+    "Women's Christian Temperance Union",
+    "Lord Glasgow",
+    "Richard Seddon"
+  ],
+  "countries": [
+    "New Zealand"
+  ],
+  "place": "Wellington, New Zealand",
+  "lat": -41.2865,
+  "lon": 174.7762,
+  "tags": [
+    "rights",
+    "law"
+  ],
+  "weight": 70,
+  "wikipedia": "Women's suffrage in New Zealand",
+  "wikidata": "Q3447247"
+}

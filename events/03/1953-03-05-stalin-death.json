@@ -1,0 +1,29 @@
+{
+  "id": "event-1953-03-05-stalin-death",
+  "title": "Joseph Stalin dies",
+  "year": 1953,
+  "month": 3,
+  "day": 5,
+  "calendar": "gregorian",
+  "summary": "Soviet leader Joseph Stalin died at his dacha at Kuntsevo near Moscow, days after a stroke.",
+  "reason": "Stalin was 74 and had been in failing health.",
+  "significance": "His death opened a power struggle and a gradual thaw in the Soviet Union.",
+  "participants": [
+    "Joseph Stalin",
+    "Lavrentiy Beria",
+    "Georgy Malenkov",
+    "Nikita Khrushchev"
+  ],
+  "countries": [
+    "Russia"
+  ],
+  "place": "Kuntsevo Dacha, Moscow, Russia",
+  "lat": 55.7178,
+  "lon": 37.4528,
+  "tags": [
+    "politics"
+  ],
+  "weight": 77,
+  "wikipedia": "Death and state funeral of Joseph Stalin",
+  "wikidata": "Q3090983"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "event-1968-08-20-prague-spring-invasion",
+  "title": "Warsaw Pact troops invade Czechoslovakia",
+  "year": 1968,
+  "month": 8,
+  "day": 20,
+  "calendar": "gregorian",
+  "summary": "Soviet and allied Warsaw Pact forces invaded Czechoslovakia overnight to end the Prague Spring reforms of Alexander Dubcek.",
+  "reason": "Moscow feared that freedom of speech and reform would spread through its bloc.",
+  "significance": "It crushed hopes of reform communism for two decades.",
+  "participants": [
+    "Soviet Union",
+    "Warsaw Pact",
+    "Alexander Dubcek",
+    "Leonid Brezhnev"
+  ],
+  "countries": [
+    "Czech Republic",
+    "Slovakia",
+    "Russia"
+  ],
+  "place": "Prague, Czech Republic",
+  "lat": 50.0755,
+  "lon": 14.4378,
+  "tags": [
+    "war",
+    "politics"
+  ],
+  "weight": 63,
+  "wikipedia": "Warsaw Pact invasion of Czechoslovakia",
+  "wikidata": "Q1773668"
+}

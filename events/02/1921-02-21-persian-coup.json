@@ -1,0 +1,28 @@
+{
+  "id": "event-1921-02-21-persian-coup",
+  "title": "Reza Khan seizes Tehran in a coup",
+  "year": 1921,
+  "month": 2,
+  "day": 21,
+  "calendar": "gregorian",
+  "summary": "Cossack Brigade officer Reza Khan and journalist Zia'eddin Tabatabaee marched into Tehran with troops and took control of the government.",
+  "reason": "Persia was weak, divided and under foreign influence, and reformers and British officials wanted a stronger central government.",
+  "significance": "It brought Reza Khan to power; he became Reza Shah and founded the Pahlavi dynasty.",
+  "participants": [
+    "Reza Khan",
+    "Zia'eddin Tabatabaee",
+    "Persian Cossack Brigade"
+  ],
+  "countries": [
+    "Iran"
+  ],
+  "place": "Tehran, Iran",
+  "lat": 35.6892,
+  "lon": 51.389,
+  "tags": [
+    "politics"
+  ],
+  "weight": 52,
+  "wikipedia": "1921 Persian coup d'état",
+  "wikidata": "Q1131857"
+}

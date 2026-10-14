@@ -1,0 +1,29 @@
+{
+  "id": "event-1912-02-12-qing-abdication",
+  "title": "The last Qing emperor abdicates",
+  "year": 1912,
+  "month": 2,
+  "day": 12,
+  "calendar": "gregorian",
+  "summary": "Empress Dowager Longyu issued an edict on behalf of the six-year-old Puyi, abdicating the throne and transferring power to the Republic of China.",
+  "reason": "After the revolution, Yuan Shikai negotiated the abdication in exchange for becoming president of the republic.",
+  "significance": "It ended the Qing dynasty and over two millennia of imperial rule in China.",
+  "participants": [
+    "Puyi",
+    "Empress Dowager Longyu",
+    "Yuan Shikai",
+    "Qing dynasty"
+  ],
+  "countries": [
+    "China"
+  ],
+  "place": "Forbidden City, Beijing, China",
+  "lat": 39.9163,
+  "lon": 116.3972,
+  "tags": [
+    "politics"
+  ],
+  "weight": 67,
+  "wikipedia": "Imperial Edict of the Abdication of the Qing Emperor",
+  "wikidata": "Q1657621"
+}

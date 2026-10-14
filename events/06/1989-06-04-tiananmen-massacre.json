@@ -1,0 +1,30 @@
+{
+  "id": "event-1989-06-04-tiananmen-massacre",
+  "title": "Troops crush the Tiananmen Square protests",
+  "year": 1989,
+  "month": 6,
+  "day": 4,
+  "calendar": "gregorian",
+  "summary": "Chinese troops and tanks cleared Tiananmen Square and surrounding streets in Beijing, killing hundreds or more protesters.",
+  "reason": "Students and workers had occupied the square for weeks, demanding political reform and an end to corruption.",
+  "significance": "It ended the democracy movement in China.",
+  "participants": [
+    "People's Liberation Army",
+    "Deng Xiaoping",
+    "Li Peng",
+    "Chinese students"
+  ],
+  "countries": [
+    "China"
+  ],
+  "place": "Tiananmen Square, Beijing, China",
+  "lat": 39.9042,
+  "lon": 116.3974,
+  "tags": [
+    "rights",
+    "politics"
+  ],
+  "weight": 77,
+  "wikipedia": "1989 Tiananmen Square protests and massacre",
+  "wikidata": "Q99717"
+}

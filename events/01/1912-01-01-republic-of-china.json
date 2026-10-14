@@ -1,0 +1,28 @@
+{
+  "id": "event-1912-01-01-republic-of-china",
+  "title": "Sun Yat-sen proclaims the Republic of China",
+  "year": 1912,
+  "month": 1,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "Sun Yat-sen was inaugurated in Nanjing as provisional president of the newly proclaimed Republic of China.",
+  "reason": "Revolutionary provinces that had broken away from the Qing needed a common government after the Wuchang Uprising.",
+  "significance": "It established the first republic in Asia.",
+  "participants": [
+    "Sun Yat-sen",
+    "Tongmenghui",
+    "Republic of China"
+  ],
+  "countries": [
+    "China"
+  ],
+  "place": "Nanjing, China",
+  "lat": 32.0603,
+  "lon": 118.7969,
+  "tags": [
+    "politics",
+    "revolution"
+  ],
+  "weight": 67,
+  "wikipedia": "Provisional Government of the Republic of China (1912)"
+}

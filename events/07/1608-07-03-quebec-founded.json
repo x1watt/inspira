@@ -1,0 +1,28 @@
+{
+  "id": "event-1608-07-03-quebec-founded",
+  "title": "Samuel de Champlain founds Quebec",
+  "year": 1608,
+  "month": 7,
+  "day": 3,
+  "calendar": "gregorian",
+  "summary": "The French explorer Samuel de Champlain built a fortified trading post at a narrowing of the Saint Lawrence River, the beginning of Quebec City.",
+  "reason": "France wanted a permanent base for the fur trade and for its claims in North America.",
+  "significance": "Quebec became the capital of New France and the heart of French-speaking Canada.",
+  "participants": [
+    "Samuel de Champlain",
+    "Kingdom of France"
+  ],
+  "countries": [
+    "Canada",
+    "France"
+  ],
+  "place": "Quebec City, Quebec, Canada",
+  "lat": 46.8139,
+  "lon": -71.208,
+  "tags": [
+    "exploration"
+  ],
+  "weight": 62,
+  "wikipedia": "Quebec City",
+  "wikidata": "Q2145"
+}

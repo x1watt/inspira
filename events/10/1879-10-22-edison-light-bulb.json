@@ -1,0 +1,27 @@
+{
+  "id": "event-1879-10-22-edison-light-bulb",
+  "title": "Edison tests a long-lasting incandescent lamp",
+  "year": 1879,
+  "month": 10,
+  "day": 22,
+  "calendar": "gregorian",
+  "summary": "At his Menlo Park laboratory, Thomas Edison's team kept a lamp with a carbonized thread filament glowing for more than 13 hours.",
+  "reason": "Edison wanted a cheap, long-lasting electric lamp as the heart of a complete system of electric lighting to replace gas.",
+  "significance": "It led to practical electric lighting and the building of electric power networks.",
+  "participants": [
+    "Thomas Edison",
+    "Menlo Park laboratory"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Menlo Park, New Jersey, United States",
+  "lat": 40.559,
+  "lon": -74.362,
+  "tags": [
+    "technology"
+  ],
+  "weight": 65,
+  "wikipedia": "Incandescent light bulb",
+  "wikidata": "Q47616"
+}

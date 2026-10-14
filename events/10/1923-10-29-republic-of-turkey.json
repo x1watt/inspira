@@ -1,0 +1,27 @@
+{
+  "id": "event-1923-10-29-republic-of-turkey",
+  "title": "The Republic of Turkey is proclaimed",
+  "year": 1923,
+  "month": 10,
+  "day": 29,
+  "calendar": "gregorian",
+  "summary": "The Grand National Assembly proclaimed Turkey a republic and elected Mustafa Kemal as its first president.",
+  "reason": "With the sultanate abolished and peace secured at Lausanne, Kemal wanted a modern secular state.",
+  "significance": "It founded the modern Turkish state and launched sweeping reforms.",
+  "participants": [
+    "Mustafa Kemal Ataturk",
+    "Grand National Assembly of Turkey"
+  ],
+  "countries": [
+    "Turkey"
+  ],
+  "place": "Ankara, Turkey",
+  "lat": 39.9334,
+  "lon": 32.8597,
+  "tags": [
+    "politics"
+  ],
+  "weight": 67,
+  "wikipedia": "Republic Day (Turkey)",
+  "wikidata": "Q803181"
+}

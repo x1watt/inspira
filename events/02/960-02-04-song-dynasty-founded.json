@@ -1,0 +1,28 @@
+{
+  "id": "event-960-02-04-song-dynasty-founded",
+  "title": "Zhao Kuangyin founds the Song dynasty",
+  "year": 960,
+  "month": 2,
+  "day": 4,
+  "calendar": "julian",
+  "summary": "After his troops proclaimed him emperor at Chen Bridge, the general Zhao Kuangyin took the throne from the child ruler of the Later Zhou and founded the Song dynasty.",
+  "reason": "Northern China had suffered a series of short military regimes, and the army wanted a strong adult ruler.",
+  "significance": "The Song reunified most of China and presided over a great age of commerce, technology and learning.",
+  "participants": [
+    "Zhao Kuangyin",
+    "Song dynasty",
+    "Later Zhou"
+  ],
+  "countries": [
+    "China"
+  ],
+  "place": "Kaifeng, China",
+  "lat": 34.7972,
+  "lon": 114.3076,
+  "tags": [
+    "politics"
+  ],
+  "weight": 75,
+  "wikipedia": "Song dynasty",
+  "wikidata": "Q7462"
+}

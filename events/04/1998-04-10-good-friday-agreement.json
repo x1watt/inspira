@@ -1,0 +1,31 @@
+{
+  "id": "event-1998-04-10-good-friday-agreement",
+  "title": "Good Friday Agreement is signed",
+  "year": 1998,
+  "month": 4,
+  "day": 10,
+  "calendar": "gregorian",
+  "summary": "The British and Irish governments and most Northern Irish parties agreed on power sharing in Belfast.",
+  "reason": "After decades of the Troubles, ceasefires and mediation by George Mitchell made a settlement possible.",
+  "significance": "It largely ended thirty years of conflict in Northern Ireland.",
+  "participants": [
+    "Tony Blair",
+    "Bertie Ahern",
+    "George Mitchell",
+    "David Trimble",
+    "John Hume"
+  ],
+  "countries": [
+    "United Kingdom",
+    "Ireland"
+  ],
+  "place": "Belfast, Northern Ireland, United Kingdom",
+  "lat": 54.5973,
+  "lon": -5.9301,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 68,
+  "wikipedia": "Good Friday Agreement",
+  "wikidata": "Q208958"
+}

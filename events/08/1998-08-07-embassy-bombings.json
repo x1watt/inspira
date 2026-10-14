@@ -1,0 +1,29 @@
+{
+  "id": "event-1998-08-07-embassy-bombings",
+  "title": "Al-Qaeda bombs US embassies in Kenya and Tanzania",
+  "year": 1998,
+  "month": 8,
+  "day": 7,
+  "calendar": "gregorian",
+  "summary": "Truck bombs exploded almost simultaneously at the US embassies in Nairobi and Dar es Salaam, killing 224 people.",
+  "reason": "Osama bin Laden's al-Qaeda had declared war on the United States over its troops in Saudi Arabia.",
+  "significance": "It brought bin Laden to world attention and to the top of US target lists.",
+  "participants": [
+    "al-Qaeda",
+    "Osama bin Laden"
+  ],
+  "countries": [
+    "Kenya",
+    "Tanzania",
+    "United States"
+  ],
+  "place": "Nairobi, Kenya",
+  "lat": -1.2889,
+  "lon": 36.8172,
+  "tags": [
+    "war"
+  ],
+  "weight": 55,
+  "wikipedia": "1998 United States embassy bombings",
+  "wikidata": "Q876206"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "event-1975-04-17-fall-of-phnom-penh",
+  "title": "The Khmer Rouge capture Phnom Penh",
+  "year": 1975,
+  "month": 4,
+  "day": 17,
+  "calendar": "gregorian",
+  "summary": "Khmer Rouge forces entered Phnom Penh and soon emptied the city, driving its people into the countryside.",
+  "reason": "The Khmer Rouge had won the civil war against the American backed Khmer Republic.",
+  "significance": "Their regime killed about 1.5 to 2 million Cambodians.",
+  "participants": [
+    "Khmer Rouge",
+    "Pol Pot",
+    "Khmer Republic"
+  ],
+  "countries": [
+    "Cambodia"
+  ],
+  "place": "Phnom Penh, Cambodia",
+  "lat": 11.5564,
+  "lon": 104.9282,
+  "tags": [
+    "war",
+    "revolution"
+  ],
+  "weight": 65,
+  "wikipedia": "Fall of Phnom Penh",
+  "wikidata": "Q85760415"
+}

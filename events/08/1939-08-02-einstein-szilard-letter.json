@@ -1,0 +1,28 @@
+{
+  "id": "event-1939-08-02-einstein-szilard-letter",
+  "title": "Einstein signs letter warning Roosevelt of atomic bombs",
+  "year": 1939,
+  "month": 8,
+  "day": 2,
+  "calendar": "gregorian",
+  "summary": "Albert Einstein signed a letter drafted by Leo Szilard warning President Franklin D. Roosevelt that a uranium chain reaction could produce extremely powerful bombs and that Germany might build them.",
+  "reason": "Nuclear fission had been discovered in Germany months earlier, and refugee physicists feared Hitler would gain such a weapon first.",
+  "significance": "It led to the first American government research on uranium and, in time, to the Manhattan Project.",
+  "participants": [
+    "Albert Einstein",
+    "Leo Szilard",
+    "Franklin D. Roosevelt"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Nassau Point, Peconic, New York, United States",
+  "lat": 41.0187,
+  "lon": -72.4789,
+  "tags": [
+    "science",
+    "war"
+  ],
+  "weight": 72,
+  "wikipedia": "Einstein-Szilard letter"
+}

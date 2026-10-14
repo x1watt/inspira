@@ -1,0 +1,29 @@
+{
+  "id": "event-929-01-16-caliphate-of-cordoba",
+  "title": "Abd al-Rahman III proclaims the Caliphate of Cordoba",
+  "year": 929,
+  "month": 1,
+  "day": 16,
+  "calendar": "julian",
+  "summary": "The Umayyad emir of al-Andalus, Abd al-Rahman III, declared himself caliph in Cordoba, rejecting the authority of both the Abbasids and the Fatimids.",
+  "reason": "He had restored order in al-Andalus and wanted to answer the Fatimids, who had claimed the caliphate in North Africa.",
+  "significance": "Cordoba became one of the richest and most learned cities of Europe.",
+  "participants": [
+    "Abd al-Rahman III",
+    "Umayyad dynasty",
+    "Caliphate of Cordoba"
+  ],
+  "countries": [
+    "Spain"
+  ],
+  "place": "Cordoba, Spain",
+  "lat": 37.8882,
+  "lon": -4.7794,
+  "tags": [
+    "politics",
+    "religion"
+  ],
+  "weight": 65,
+  "wikipedia": "Umayyad state of Córdoba",
+  "wikidata": "Q171740"
+}

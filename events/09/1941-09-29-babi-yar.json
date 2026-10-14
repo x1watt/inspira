@@ -1,0 +1,31 @@
+{
+  "id": "event-1941-09-29-babi-yar",
+  "title": "Babi Yar massacre of the Jews of Kyiv",
+  "year": 1941,
+  "month": 9,
+  "day": 29,
+  "calendar": "gregorian",
+  "summary": "Over two days, German SS units and police, aided by local collaborators, shot 33,771 Jews in the Babi Yar ravine on the edge of Kyiv.",
+  "reason": "It was part of the mass shootings of Jews that followed the German invasion of the Soviet Union.",
+  "significance": "It was one of the largest single massacres of the Holocaust.",
+  "participants": [
+    "Einsatzgruppe C",
+    "Sonderkommando 4a",
+    "Nazi Germany",
+    "Jews of Kyiv"
+  ],
+  "countries": [
+    "Ukraine",
+    "Germany"
+  ],
+  "place": "Babi Yar, Kyiv, Ukraine",
+  "lat": 50.4714,
+  "lon": 30.4492,
+  "tags": [
+    "war",
+    "rights"
+  ],
+  "weight": 65,
+  "wikipedia": "Babi Yar",
+  "wikidata": "Q48766"
+}

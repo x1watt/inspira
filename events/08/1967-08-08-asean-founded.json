@@ -1,0 +1,34 @@
+{
+  "id": "event-1967-08-08-asean-founded",
+  "title": "ASEAN is founded in Bangkok",
+  "year": 1967,
+  "month": 8,
+  "day": 8,
+  "calendar": "gregorian",
+  "summary": "Indonesia, Malaysia, the Philippines, Singapore and Thailand signed the Bangkok Declaration, founding the Association of Southeast Asian Nations.",
+  "reason": "The countries wanted regional stability and economic cooperation while the Vietnam War raged.",
+  "significance": "ASEAN became the main regional organization of Southeast Asia.",
+  "participants": [
+    "Adam Malik",
+    "Thanat Khoman",
+    "Abdul Razak",
+    "Narciso Ramos",
+    "S. Rajaratnam"
+  ],
+  "countries": [
+    "Thailand",
+    "Indonesia",
+    "Malaysia",
+    "Philippines",
+    "Singapore"
+  ],
+  "place": "Bangkok, Thailand",
+  "lat": 13.7563,
+  "lon": 100.5018,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 55,
+  "wikipedia": "ASEAN Declaration",
+  "wikidata": "Q3042723"
+}

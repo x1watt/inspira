@@ -1,0 +1,29 @@
+{
+  "id": "event-1876-06-25-battle-of-little-bighorn",
+  "title": "Lakota and Cheyenne defeat Custer at the Little Bighorn",
+  "year": 1876,
+  "month": 6,
+  "day": 25,
+  "calendar": "gregorian",
+  "summary": "Lakota, Northern Cheyenne and Arapaho warriors destroyed five companies of the 7th Cavalry under George Armstrong Custer in Montana Territory.",
+  "reason": "The United States sought to force the Plains nations onto reservations after gold was found in the sacred Black Hills.",
+  "significance": "It was the greatest Native American victory of the Plains Wars, but led to an intensified campaign against them.",
+  "participants": [
+    "Sitting Bull",
+    "Crazy Horse",
+    "George Armstrong Custer",
+    "7th Cavalry Regiment"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Little Bighorn River, Montana, United States",
+  "lat": 45.57,
+  "lon": -107.43,
+  "tags": [
+    "war"
+  ],
+  "weight": 60,
+  "wikipedia": "Battle of the Little Bighorn",
+  "wikidata": "Q205422"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "event-1444-11-10-varna",
+  "title": "Ottomans crush a crusading army at Varna",
+  "year": 1444,
+  "month": 11,
+  "day": 10,
+  "calendar": "julian",
+  "summary": "Sultan Murad II defeated a Hungarian and Polish crusader army near the Black Sea port of Varna. King Wladyslaw III of Poland and Hungary was killed in the battle.",
+  "reason": "The crusade aimed to drive the Ottomans out of the Balkans and relieve Constantinople, breaking a recent peace treaty.",
+  "significance": "It ended the last major European attempt to save Byzantium before the fall of Constantinople.",
+  "participants": [
+    "Ottoman Empire",
+    "Kingdom of Hungary",
+    "Kingdom of Poland",
+    "Murad II",
+    "Wladyslaw III",
+    "John Hunyadi"
+  ],
+  "countries": [
+    "Bulgaria",
+    "Turkey",
+    "Hungary",
+    "Poland"
+  ],
+  "place": "Varna, Bulgaria",
+  "lat": 43.214,
+  "lon": 27.915,
+  "tags": [
+    "war"
+  ],
+  "weight": 55,
+  "wikipedia": "Battle of Varna",
+  "wikidata": "Q32832"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "event-2009-05-18-sri-lanka-war-ends",
+  "title": "Sri Lanka's civil war ends",
+  "year": 2009,
+  "month": 5,
+  "day": 18,
+  "calendar": "gregorian",
+  "summary": "The Sri Lankan army defeated the Tamil Tigers in the northeast, and LTTE leader Velupillai Prabhakaran was killed.",
+  "reason": "A massive offensive had cornered the rebels on a narrow coastal strip.",
+  "significance": "It ended 26 years of war, though the final months killed tens of thousands of civilians.",
+  "participants": [
+    "Sri Lanka Armed Forces",
+    "Liberation Tigers of Tamil Eelam",
+    "Velupillai Prabhakaran",
+    "Mahinda Rajapaksa"
+  ],
+  "countries": [
+    "Sri Lanka"
+  ],
+  "place": "Mullivaikkal, Mullaitivu, Sri Lanka",
+  "lat": 9.36,
+  "lon": 80.79,
+  "tags": [
+    "war"
+  ],
+  "weight": 55,
+  "wikipedia": "Sri Lankan civil war"
+}

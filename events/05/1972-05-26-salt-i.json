@@ -1,0 +1,28 @@
+{
+  "id": "event-1972-05-26-salt-i",
+  "title": "Nixon and Brezhnev sign the SALT I agreements",
+  "year": 1972,
+  "month": 5,
+  "day": 26,
+  "calendar": "gregorian",
+  "summary": "In Moscow, Nixon and Leonid Brezhnev signed the Anti-Ballistic Missile Treaty and an interim agreement limiting strategic missiles.",
+  "reason": "Both powers wanted to slow the costly arms race in an era of detente.",
+  "significance": "It was the first agreement to limit American and Soviet strategic weapons.",
+  "participants": [
+    "Richard Nixon",
+    "Leonid Brezhnev"
+  ],
+  "countries": [
+    "Russia",
+    "United States"
+  ],
+  "place": "Moscow, Russia",
+  "lat": 55.7558,
+  "lon": 37.6173,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 58,
+  "wikipedia": "Strategic Arms Limitation Talks",
+  "wikidata": "Q623994"
+}

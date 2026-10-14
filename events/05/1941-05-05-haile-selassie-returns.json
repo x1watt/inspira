@@ -1,0 +1,33 @@
+{
+  "id": "event-1941-05-05-haile-selassie-returns",
+  "title": "Haile Selassie returns to Addis Ababa",
+  "year": 1941,
+  "month": 5,
+  "day": 5,
+  "calendar": "gregorian",
+  "summary": "Emperor Haile Selassie re-entered his capital five years to the day after Italian troops had occupied it, escorted by Ethiopian patriots and British and African forces.",
+  "reason": "British Commonwealth troops and Ethiopian resistance fighters had driven the Italians out of most of Ethiopia in the East African campaign.",
+  "significance": "Ethiopia became the first country occupied by the Axis to be liberated, and it regained its independence.",
+  "participants": [
+    "Haile Selassie",
+    "Arbegnoch",
+    "British Empire",
+    "Kingdom of Italy",
+    "Orde Wingate"
+  ],
+  "countries": [
+    "Ethiopia",
+    "Italy",
+    "United Kingdom"
+  ],
+  "place": "Addis Ababa, Ethiopia",
+  "lat": 9.03,
+  "lon": 38.74,
+  "tags": [
+    "war",
+    "politics"
+  ],
+  "weight": 58,
+  "wikipedia": "Haile Selassie",
+  "wikidata": "Q41178"
+}

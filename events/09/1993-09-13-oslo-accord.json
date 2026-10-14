@@ -1,0 +1,33 @@
+{
+  "id": "event-1993-09-13-oslo-accord",
+  "title": "Oslo I Accord is signed at the White House",
+  "year": 1993,
+  "month": 9,
+  "day": 13,
+  "calendar": "gregorian",
+  "summary": "Israel and the PLO signed a declaration of principles on Palestinian self-rule, sealed by a handshake between Yitzhak Rabin and Yasser Arafat.",
+  "reason": "Secret talks in Norway after the first intifada and the Gulf War produced mutual recognition.",
+  "significance": "It created the Palestinian Authority and framed peace efforts for decades.",
+  "participants": [
+    "Israel",
+    "Palestine Liberation Organization",
+    "Yitzhak Rabin",
+    "Yasser Arafat",
+    "Bill Clinton"
+  ],
+  "countries": [
+    "Israel",
+    "Palestine",
+    "United States",
+    "Norway"
+  ],
+  "place": "White House, Washington, D.C., United States",
+  "lat": 38.8977,
+  "lon": -77.0365,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 80,
+  "wikipedia": "Oslo I Accord",
+  "wikidata": "Q49107"
+}

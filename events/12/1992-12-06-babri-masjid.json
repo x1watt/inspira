@@ -1,0 +1,29 @@
+{
+  "id": "event-1992-12-06-babri-masjid",
+  "title": "Babri Masjid is demolished in Ayodhya",
+  "year": 1992,
+  "month": 12,
+  "day": 6,
+  "calendar": "gregorian",
+  "summary": "Hindu nationalist activists tore down the 16th-century mosque, claiming it stood on the birthplace of Rama. Riots across India killed about 2,000 people.",
+  "reason": "A campaign by the VHP and BJP to build a Ram temple on the site had mobilised a vast crowd.",
+  "significance": "It reshaped Indian politics and hardened Hindu-Muslim divisions.",
+  "participants": [
+    "Vishva Hindu Parishad",
+    "Bharatiya Janata Party",
+    "Rashtriya Swayamsevak Sangh"
+  ],
+  "countries": [
+    "India"
+  ],
+  "place": "Ayodhya, Uttar Pradesh, India",
+  "lat": 26.7956,
+  "lon": 82.1943,
+  "tags": [
+    "religion",
+    "politics"
+  ],
+  "weight": 65,
+  "wikipedia": "Demolition of the Babri Masjid",
+  "wikidata": "Q657494"
+}

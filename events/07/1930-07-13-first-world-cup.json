@@ -1,0 +1,28 @@
+{
+  "id": "event-1930-07-13-first-world-cup",
+  "title": "The first FIFA World Cup kicks off in Uruguay",
+  "year": 1930,
+  "month": 7,
+  "day": 13,
+  "calendar": "gregorian",
+  "summary": "The first FIFA World Cup began with matches in Montevideo; France beat Mexico in the opening game, and Uruguay went on to win the tournament.",
+  "reason": "FIFA wanted a world championship for football separate from the Olympics, and Uruguay, the Olympic champion, offered to host it.",
+  "significance": "The World Cup became the most watched sporting event on Earth.",
+  "participants": [
+    "FIFA",
+    "Uruguay national football team",
+    "Jules Rimet"
+  ],
+  "countries": [
+    "Uruguay"
+  ],
+  "place": "Montevideo, Uruguay",
+  "lat": -34.9011,
+  "lon": -56.1645,
+  "tags": [
+    "sport"
+  ],
+  "weight": 52,
+  "wikipedia": "1930 FIFA World Cup",
+  "wikidata": "Q48432"
+}

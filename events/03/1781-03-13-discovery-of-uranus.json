@@ -1,0 +1,26 @@
+{
+  "id": "event-1781-03-13-discovery-of-uranus",
+  "title": "William Herschel discovers Uranus",
+  "year": 1781,
+  "month": 3,
+  "day": 13,
+  "calendar": "gregorian",
+  "summary": "From his garden in Bath, William Herschel observed an object he first took for a comet. It proved to be a new planet, later named Uranus.",
+  "reason": "Herschel was systematically surveying the sky with telescopes he built himself.",
+  "significance": "It was the first planet discovered with a telescope and doubled the known size of the Solar System.",
+  "participants": [
+    "William Herschel"
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "place": "New King Street, Bath, United Kingdom",
+  "lat": 51.3833,
+  "lon": -2.3667,
+  "tags": [
+    "science"
+  ],
+  "weight": 70,
+  "wikipedia": "William Herschel",
+  "wikidata": "Q14277"
+}

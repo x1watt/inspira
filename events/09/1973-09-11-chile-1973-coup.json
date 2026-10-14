@@ -1,0 +1,30 @@
+{
+  "id": "event-1973-09-11-chile-1973-coup",
+  "title": "Pinochet's coup overthrows Salvador Allende",
+  "year": 1973,
+  "month": 9,
+  "day": 11,
+  "calendar": "gregorian",
+  "summary": "The Chilean armed forces led by Augusto Pinochet bombed La Moneda palace, where President Allende died.",
+  "reason": "Economic crisis, polarization and American hostility to Allende's socialism led the military to act.",
+  "significance": "It began 17 years of dictatorship in Chile.",
+  "participants": [
+    "Augusto Pinochet",
+    "Salvador Allende",
+    "Chilean Armed Forces"
+  ],
+  "countries": [
+    "Chile",
+    "United States"
+  ],
+  "place": "La Moneda Palace, Santiago, Chile",
+  "lat": -33.4429,
+  "lon": -70.6539,
+  "tags": [
+    "politics",
+    "revolution"
+  ],
+  "weight": 70,
+  "wikipedia": "1973 Chilean coup d'état",
+  "wikidata": "Q856670"
+}

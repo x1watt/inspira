@@ -1,0 +1,27 @@
+{
+  "id": "event-1971-08-15-nixon-shock",
+  "title": "Nixon ends the dollar's convertibility into gold",
+  "year": 1971,
+  "month": 8,
+  "day": 15,
+  "calendar": "gregorian",
+  "summary": "President Nixon announced that the United States would no longer convert dollars into gold, along with wage and price controls.",
+  "reason": "American inflation and trade deficits had made the fixed exchange rate system of Bretton Woods unsustainable.",
+  "significance": "It ended the Bretton Woods system and began floating exchange rates.",
+  "participants": [
+    "Richard Nixon",
+    "John Connally"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "White House, Washington, D.C., United States",
+  "lat": 38.8977,
+  "lon": -77.0365,
+  "tags": [
+    "economy"
+  ],
+  "weight": 63,
+  "wikipedia": "Nixon shock",
+  "wikidata": "Q1420512"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "event-537-12-27-hagia-sophia-consecrated",
+  "title": "Hagia Sophia is consecrated",
+  "year": 537,
+  "month": 12,
+  "day": 27,
+  "calendar": "julian",
+  "summary": "Emperor Justinian I dedicated the new church of Hagia Sophia in Constantinople, built in under six years. Its vast dome made it the largest church in the world for nearly a thousand years.",
+  "reason": "The earlier church had burned in the Nika riots, and Justinian wanted a monument to his rule and to Christian faith.",
+  "significance": "It became a model for Byzantine and later Ottoman architecture and a symbol of the city.",
+  "participants": [
+    "Justinian I",
+    "Anthemius of Tralles",
+    "Isidore of Miletus",
+    "Byzantine Empire"
+  ],
+  "countries": [
+    "Turkey"
+  ],
+  "place": "Constantinople, Istanbul, Turkey",
+  "lat": 41.0086,
+  "lon": 28.9802,
+  "tags": [
+    "culture",
+    "religion"
+  ],
+  "weight": 70,
+  "wikipedia": "Hagia Sophia",
+  "wikidata": "Q12506"
+}

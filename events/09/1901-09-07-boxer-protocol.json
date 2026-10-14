@@ -1,0 +1,28 @@
+{
+  "id": "event-1901-09-07-boxer-protocol",
+  "title": "China signs the Boxer Protocol",
+  "year": 1901,
+  "month": 9,
+  "day": 7,
+  "calendar": "gregorian",
+  "summary": "The Qing government signed the Boxer Protocol with eleven foreign powers in Beijing, agreeing to pay a huge indemnity, execute officials and allow foreign troops to be stationed in the capital.",
+  "reason": "The foreign powers that had crushed the Boxer Rebellion imposed punishment and guarantees after occupying Beijing.",
+  "significance": "It deepened China's humiliation and financial ruin, discrediting the Qing dynasty in the decade before its fall.",
+  "participants": [
+    "Qing dynasty",
+    "Eight-Nation Alliance",
+    "Li Hongzhang"
+  ],
+  "countries": [
+    "China"
+  ],
+  "place": "Beijing, China",
+  "lat": 39.9042,
+  "lon": 116.4074,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 52,
+  "wikipedia": "Boxer Protocol",
+  "wikidata": "Q672556"
+}

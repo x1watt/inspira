@@ -1,0 +1,30 @@
+{
+  "id": "event-1913-05-29-rite-of-spring",
+  "title": "The Rite of Spring premieres in Paris",
+  "year": 1913,
+  "month": 5,
+  "day": 29,
+  "calendar": "gregorian",
+  "summary": "The Ballets Russes premiered Igor Stravinsky's The Rite of Spring with choreography by Vaslav Nijinsky at the Theatre des Champs-Elysees, provoking an uproar in the audience.",
+  "reason": "Stravinsky and Nijinsky broke with tradition through harsh dissonance, irregular rhythms and primitive-looking dance.",
+  "significance": "It became a landmark of modernism in music and dance.",
+  "participants": [
+    "Igor Stravinsky",
+    "Vaslav Nijinsky",
+    "Sergei Diaghilev",
+    "Ballets Russes"
+  ],
+  "countries": [
+    "France",
+    "Russia"
+  ],
+  "place": "Theatre des Champs-Elysees, Paris, France",
+  "lat": 48.8659,
+  "lon": 2.3014,
+  "tags": [
+    "culture"
+  ],
+  "weight": 52,
+  "wikipedia": "The Rite of Spring",
+  "wikidata": "Q206015"
+}

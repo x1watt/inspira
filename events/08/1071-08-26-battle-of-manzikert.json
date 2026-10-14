@@ -1,0 +1,29 @@
+{
+  "id": "event-1071-08-26-battle-of-manzikert",
+  "title": "Seljuks defeat the Byzantines at Manzikert",
+  "year": 1071,
+  "month": 8,
+  "day": 26,
+  "calendar": "julian",
+  "summary": "The Seljuk sultan Alp Arslan defeated a Byzantine army and captured Emperor Romanos IV Diogenes near Manzikert in eastern Anatolia.",
+  "reason": "Romanos marched east to stop Turkish raids into Byzantine Armenia and Anatolia.",
+  "significance": "It opened Anatolia to Turkish settlement and led Byzantium to ask the West for help, a cause of the Crusades.",
+  "participants": [
+    "Seljuk Empire",
+    "Alp Arslan",
+    "Byzantine Empire",
+    "Romanos IV Diogenes"
+  ],
+  "countries": [
+    "Turkey"
+  ],
+  "place": "Malazgirt, Mus, Turkey",
+  "lat": 39.145,
+  "lon": 42.539,
+  "tags": [
+    "war"
+  ],
+  "weight": 80,
+  "wikipedia": "Battle of Manzikert",
+  "wikidata": "Q200032"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "event-2007-01-09-iphone-announced",
+  "title": "Steve Jobs unveils the iPhone",
+  "year": 2007,
+  "month": 1,
+  "day": 9,
+  "calendar": "gregorian",
+  "summary": "At Macworld in San Francisco, Steve Jobs introduced the iPhone, a phone, iPod and internet device with a multi-touch screen.",
+  "reason": "Apple wanted to enter the mobile market before phones replaced its iPod.",
+  "significance": "It defined the smartphone and the app economy.",
+  "participants": [
+    "Steve Jobs",
+    "Apple"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Moscone Center, San Francisco, United States",
+  "lat": 37.784,
+  "lon": -122.401,
+  "tags": [
+    "technology"
+  ],
+  "weight": 80,
+  "wikipedia": "IPhone (1st generation)"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "event-1748-10-18-treaty-of-aix-la-chapelle",
+  "title": "Treaty of Aix-la-Chapelle ends the War of the Austrian Succession",
+  "year": 1748,
+  "month": 10,
+  "day": 18,
+  "calendar": "gregorian",
+  "summary": "Britain, France and the Dutch Republic signed peace at Aachen, later joined by the other powers, largely restoring conquests on both sides.",
+  "reason": "Eight years of war over the succession of Maria Theresa had become costly for all sides without a clear winner.",
+  "significance": "Prussia kept Silesia, and the unresolved rivalries led to the Seven Years' War.",
+  "participants": [
+    "Kingdom of Great Britain",
+    "Kingdom of France",
+    "Dutch Republic",
+    "Habsburg monarchy",
+    "Kingdom of Prussia",
+    "Maria Theresa"
+  ],
+  "countries": [
+    "Germany",
+    "United Kingdom",
+    "France",
+    "Austria"
+  ],
+  "place": "Aachen, Germany",
+  "lat": 50.7753,
+  "lon": 6.0839,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 56,
+  "wikipedia": "Treaty of Aix-la-Chapelle (1748)",
+  "wikidata": "Q156086"
+}

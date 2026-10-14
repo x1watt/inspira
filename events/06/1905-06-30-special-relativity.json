@@ -1,0 +1,28 @@
+{
+  "id": "event-1905-06-30-special-relativity",
+  "title": "Einstein submits his paper on special relativity",
+  "year": 1905,
+  "month": 6,
+  "day": 30,
+  "calendar": "gregorian",
+  "summary": "Albert Einstein, a clerk at the Swiss patent office in Bern, submitted On the Electrodynamics of Moving Bodies to Annalen der Physik, setting out the theory of special relativity.",
+  "reason": "Einstein sought to reconcile Maxwell's electromagnetism with the principle that the laws of physics are the same for all observers in uniform motion.",
+  "significance": "Special relativity overturned absolute space and time and became a pillar of modern physics.",
+  "participants": [
+    "Albert Einstein",
+    "Annalen der Physik"
+  ],
+  "countries": [
+    "Switzerland",
+    "Germany"
+  ],
+  "place": "Bern, Switzerland",
+  "lat": 46.948,
+  "lon": 7.4474,
+  "tags": [
+    "science"
+  ],
+  "weight": 80,
+  "wikipedia": "Annus mirabilis papers",
+  "wikidata": "Q51497"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "event-1937-07-07-marco-polo-bridge",
+  "title": "Marco Polo Bridge Incident starts the Second Sino-Japanese War",
+  "year": 1937,
+  "month": 7,
+  "day": 7,
+  "calendar": "gregorian",
+  "summary": "A clash between Japanese and Chinese troops near the Marco Polo Bridge outside Beijing escalated into full-scale war between Japan and China.",
+  "reason": "Japan had been expanding into northern China, and both sides refused to back down after the skirmish.",
+  "significance": "It began the Second Sino-Japanese War, which merged into World War II and killed millions.",
+  "participants": [
+    "Empire of Japan",
+    "National Revolutionary Army",
+    "Republic of China"
+  ],
+  "countries": [
+    "China",
+    "Japan"
+  ],
+  "place": "Marco Polo Bridge, Beijing, China",
+  "lat": 39.8494,
+  "lon": 116.2135,
+  "tags": [
+    "war"
+  ],
+  "weight": 72,
+  "wikipedia": "Marco Polo Bridge incident",
+  "wikidata": "Q219230"
+}

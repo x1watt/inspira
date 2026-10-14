@@ -1,0 +1,28 @@
+{
+  "id": "event-1517-10-31-ninety-five-theses",
+  "title": "Martin Luther posts the Ninety-five Theses",
+  "year": 1517,
+  "month": 10,
+  "day": 31,
+  "calendar": "julian",
+  "summary": "Martin Luther, a professor at Wittenberg, sent his Ninety-five Theses against the sale of indulgences to the Archbishop of Mainz and, by tradition, nailed them to the Castle Church door.",
+  "reason": "Luther objected to the preaching of indulgences to raise money for St. Peter's Basilica and to the idea that forgiveness could be bought.",
+  "significance": "It started the Protestant Reformation, which split Western Christianity.",
+  "participants": [
+    "Martin Luther",
+    "Albert of Brandenburg",
+    "Catholic Church"
+  ],
+  "countries": [
+    "Germany"
+  ],
+  "place": "Castle Church, Wittenberg, Germany",
+  "lat": 51.866,
+  "lon": 12.643,
+  "tags": [
+    "religion"
+  ],
+  "weight": 92,
+  "wikipedia": "Ninety-five Theses",
+  "wikidata": "Q157506"
+}

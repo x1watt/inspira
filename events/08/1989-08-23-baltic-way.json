@@ -1,0 +1,31 @@
+{
+  "id": "event-1989-08-23-baltic-way",
+  "title": "Two million people form the Baltic Way",
+  "year": 1989,
+  "month": 8,
+  "day": 23,
+  "calendar": "gregorian",
+  "summary": "About two million people joined hands in a human chain across Estonia, Latvia and Lithuania.",
+  "reason": "They marked 50 years since the Molotov-Ribbentrop Pact, which had led to Soviet occupation.",
+  "significance": "It drew world attention to the Baltic independence movements.",
+  "participants": [
+    "Popular Front of Estonia",
+    "Popular Front of Latvia",
+    "Sajudis"
+  ],
+  "countries": [
+    "Estonia",
+    "Latvia",
+    "Lithuania"
+  ],
+  "place": "Riga, Latvia",
+  "lat": 56.9496,
+  "lon": 24.1052,
+  "tags": [
+    "rights",
+    "politics"
+  ],
+  "weight": 53,
+  "wikipedia": "Baltic Way",
+  "wikidata": "Q389646"
+}

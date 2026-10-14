@@ -1,0 +1,29 @@
+{
+  "id": "event-1986-10-11-reykjavik-summit",
+  "title": "Reagan and Gorbachev meet at Reykjavik",
+  "year": 1986,
+  "month": 10,
+  "day": 11,
+  "calendar": "gregorian",
+  "summary": "Ronald Reagan and Mikhail Gorbachev met at Hofdi House in Reykjavik and came close to agreeing to abolish nuclear weapons.",
+  "reason": "Both leaders wanted to reduce the arms race, though they split over missile defence.",
+  "significance": "It paved the way for the INF Treaty.",
+  "participants": [
+    "Ronald Reagan",
+    "Mikhail Gorbachev"
+  ],
+  "countries": [
+    "Iceland",
+    "United States",
+    "Russia"
+  ],
+  "place": "Hofdi House, Reykjavik, Iceland",
+  "lat": 64.1474,
+  "lon": -21.91,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 55,
+  "wikipedia": "Reykjavík Summit",
+  "wikidata": "Q1036702"
+}

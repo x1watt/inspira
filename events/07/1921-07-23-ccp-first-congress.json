@@ -1,0 +1,28 @@
+{
+  "id": "event-1921-07-23-ccp-first-congress",
+  "title": "The Chinese Communist Party holds its first congress",
+  "year": 1921,
+  "month": 7,
+  "day": 23,
+  "calendar": "gregorian",
+  "summary": "A small group of delegates, including Mao Zedong, met secretly in Shanghai's French Concession for the first national congress of the Chinese Communist Party.",
+  "reason": "Inspired by the Russian Revolution and supported by the Comintern, Chinese radicals sought to organize a Marxist party.",
+  "significance": "The party it founded went on to rule China from 1949.",
+  "participants": [
+    "Chinese Communist Party",
+    "Mao Zedong",
+    "Comintern"
+  ],
+  "countries": [
+    "China"
+  ],
+  "place": "French Concession, Shanghai, China",
+  "lat": 31.2222,
+  "lon": 121.4747,
+  "tags": [
+    "politics"
+  ],
+  "weight": 72,
+  "wikipedia": "1st National Congress of the Chinese Communist Party",
+  "wikidata": "Q2268189"
+}

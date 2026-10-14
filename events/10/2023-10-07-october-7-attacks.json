@@ -1,0 +1,29 @@
+{
+  "id": "event-2023-10-07-october-7-attacks",
+  "title": "Hamas attacks Israel",
+  "year": 2023,
+  "month": 10,
+  "day": 7,
+  "calendar": "gregorian",
+  "summary": "Hamas-led militants broke out of Gaza and killed about 1,200 people in Israel and took over 250 hostages.",
+  "reason": "Hamas sought to strike Israel and derail Saudi-Israeli normalisation, amid a long blockade of Gaza.",
+  "significance": "It started the Gaza war, which killed tens of thousands and spread conflict across the region.",
+  "participants": [
+    "Hamas",
+    "Israel",
+    "Israel Defense Forces"
+  ],
+  "countries": [
+    "Israel",
+    "Palestine"
+  ],
+  "place": "Gaza envelope, southern Israel",
+  "lat": 31.39,
+  "lon": 34.46,
+  "tags": [
+    "war"
+  ],
+  "weight": 80,
+  "wikipedia": "October 7 attacks",
+  "wikidata": "Q122976243"
+}

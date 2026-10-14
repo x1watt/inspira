@@ -1,0 +1,31 @@
+{
+  "id": "event-1537-06-02-sublimis-deus",
+  "title": "Pope Paul III declares the indigenous peoples free",
+  "year": 1537,
+  "month": 6,
+  "day": 2,
+  "calendar": "julian",
+  "summary": "In the bull Sublimis Deus, Pope Paul III declared that the native peoples of the Americas were rational beings who could not be enslaved or robbed of their property.",
+  "reason": "Dominican friars in the Americas had reported the abuse and enslavement of indigenous people and appealed to Rome.",
+  "significance": "It was an early papal statement of indigenous rights, though widely ignored in practice.",
+  "participants": [
+    "Pope Paul III",
+    "Catholic Church",
+    "Bartolome de las Casas"
+  ],
+  "countries": [
+    "Italy",
+    "Spain",
+    "Mexico"
+  ],
+  "place": "Rome, Italy",
+  "lat": 41.903,
+  "lon": 12.453,
+  "tags": [
+    "rights",
+    "religion"
+  ],
+  "weight": 50,
+  "wikipedia": "Sublimis Deus",
+  "wikidata": "Q1848208"
+}

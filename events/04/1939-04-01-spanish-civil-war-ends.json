@@ -1,0 +1,29 @@
+{
+  "id": "event-1939-04-01-spanish-civil-war-ends",
+  "title": "Franco declares victory in the Spanish Civil War",
+  "year": 1939,
+  "month": 4,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "General Francisco Franco announced that the war was over after Nationalist troops had taken Madrid and the last Republican forces had surrendered.",
+  "reason": "The Republic was divided and exhausted after three years of fighting, while the Nationalists had steady support from Nazi Germany and Fascist Italy.",
+  "significance": "It began Franco's dictatorship, which ruled Spain until 1975 and sent hundreds of thousands of Republicans into exile or prison.",
+  "participants": [
+    "Francisco Franco",
+    "Nationalist faction",
+    "Second Spanish Republic"
+  ],
+  "countries": [
+    "Spain"
+  ],
+  "place": "Madrid, Spain",
+  "lat": 40.4168,
+  "lon": -3.7038,
+  "tags": [
+    "war",
+    "politics"
+  ],
+  "weight": 72,
+  "wikipedia": "Spanish Civil War",
+  "wikidata": "Q10859"
+}

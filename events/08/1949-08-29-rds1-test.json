@@ -1,0 +1,30 @@
+{
+  "id": "event-1949-08-29-rds1-test",
+  "title": "The Soviet Union tests its first atomic bomb",
+  "year": 1949,
+  "month": 8,
+  "day": 29,
+  "calendar": "gregorian",
+  "summary": "The Soviet Union secretly exploded its first atomic bomb, RDS-1, at the Semipalatinsk test site in Kazakhstan.",
+  "reason": "Stalin had ordered a crash programme after Hiroshima, helped by espionage on the Manhattan Project.",
+  "significance": "It ended the American nuclear monopoly and started the nuclear arms race.",
+  "participants": [
+    "Soviet Union",
+    "Igor Kurchatov",
+    "Lavrentiy Beria"
+  ],
+  "countries": [
+    "Kazakhstan",
+    "Russia"
+  ],
+  "place": "Semipalatinsk Test Site, Kazakhstan",
+  "lat": 50.4378,
+  "lon": 77.8131,
+  "tags": [
+    "technology",
+    "war"
+  ],
+  "weight": 75,
+  "wikipedia": "RDS-1",
+  "wikidata": "Q586755"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "event-1965-09-30-30-september-movement",
+  "title": "The 30 September Movement tries to seize power in Indonesia",
+  "year": 1965,
+  "month": 9,
+  "day": 30,
+  "calendar": "gregorian",
+  "summary": "Army officers calling themselves the 30 September Movement killed six generals in Jakarta. General Suharto crushed them and blamed the Communist Party.",
+  "reason": "Tensions between the army and the Communist Party under Sukarno's rule had reached a crisis.",
+  "significance": "It led to mass killings of perhaps 500,000 people and Suharto's three decades of rule.",
+  "participants": [
+    "30 September Movement",
+    "Suharto",
+    "Sukarno",
+    "Communist Party of Indonesia"
+  ],
+  "countries": [
+    "Indonesia"
+  ],
+  "place": "Jakarta, Indonesia",
+  "lat": -6.2088,
+  "lon": 106.8456,
+  "tags": [
+    "politics",
+    "revolution"
+  ],
+  "weight": 58,
+  "wikipedia": "30 September Movement",
+  "wikidata": "Q1643006"
+}

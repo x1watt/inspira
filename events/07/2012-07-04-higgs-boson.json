@@ -1,0 +1,30 @@
+{
+  "id": "event-2012-07-04-higgs-boson",
+  "title": "Discovery of the Higgs boson is announced",
+  "year": 2012,
+  "month": 7,
+  "day": 4,
+  "calendar": "gregorian",
+  "summary": "CERN announced that the ATLAS and CMS experiments had found a new particle consistent with the Higgs boson.",
+  "reason": "The Standard Model of physics predicted the particle in the 1960s, but it had never been seen.",
+  "significance": "It confirmed how elementary particles get mass and earned Peter Higgs and Francois Englert the Nobel Prize.",
+  "participants": [
+    "CERN",
+    "ATLAS",
+    "CMS",
+    "Peter Higgs"
+  ],
+  "countries": [
+    "Switzerland",
+    "France"
+  ],
+  "place": "CERN, Geneva, Switzerland",
+  "lat": 46.233,
+  "lon": 6.0557,
+  "tags": [
+    "science"
+  ],
+  "weight": 75,
+  "wikipedia": "Higgs boson",
+  "wikidata": "Q402"
+}

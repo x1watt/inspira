@@ -1,0 +1,30 @@
+{
+  "id": "event-1848-02-02-treaty-of-guadalupe-hidalgo",
+  "title": "Treaty of Guadalupe Hidalgo ends the Mexican-American War",
+  "year": 1848,
+  "month": 2,
+  "day": 2,
+  "calendar": "gregorian",
+  "summary": "Mexico ceded about half of its territory, including California and New Mexico, to the United States in exchange for 15 million dollars.",
+  "reason": "With its capital occupied by American troops, Mexico had to accept peace on United States terms.",
+  "significance": "It gave the United States its continental shape and sharpened the conflict over the spread of slavery.",
+  "participants": [
+    "United States",
+    "Mexico",
+    "Nicholas Trist"
+  ],
+  "countries": [
+    "Mexico",
+    "United States"
+  ],
+  "place": "Villa de Guadalupe Hidalgo, Mexico City, Mexico",
+  "lat": 19.4847,
+  "lon": -99.1172,
+  "tags": [
+    "diplomacy",
+    "war"
+  ],
+  "weight": 70,
+  "wikipedia": "Treaty of Guadalupe Hidalgo",
+  "wikidata": "Q616109"
+}

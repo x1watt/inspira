@@ -1,0 +1,28 @@
+{
+  "id": "event-1810-07-20-colombian-independence",
+  "title": "Bogota rises against Spanish rule",
+  "year": 1810,
+  "month": 7,
+  "day": 20,
+  "calendar": "gregorian",
+  "summary": "A quarrel over a borrowed flower vase sparked a revolt in Santa Fe de Bogota, and creole leaders set up a junta.",
+  "reason": "Creoles resented Spanish power and saw an opening in the crisis of the Spanish monarchy.",
+  "significance": "It is celebrated as the start of Colombia's independence.",
+  "participants": [
+    "Supreme Junta of Santa Fe",
+    "Jose Acevedo y Gomez",
+    "Antonio Amar y Borbon"
+  ],
+  "countries": [
+    "Colombia",
+    "Spain"
+  ],
+  "place": "Bogota, Colombia",
+  "lat": 4.5981,
+  "lon": -74.0758,
+  "tags": [
+    "revolution"
+  ],
+  "weight": 55,
+  "wikipedia": "Colombian War of Independence"
+}

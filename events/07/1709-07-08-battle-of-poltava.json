@@ -1,0 +1,32 @@
+{
+  "id": "event-1709-07-08-battle-of-poltava",
+  "title": "Peter the Great crushes Sweden at Poltava",
+  "year": 1709,
+  "month": 7,
+  "day": 8,
+  "calendar": "gregorian",
+  "summary": "The Russian army under Peter the Great destroyed the Swedish army of Charles XII near Poltava in Ukraine; the king fled to the Ottoman Empire.",
+  "reason": "Charles had invaded Russia to end the Great Northern War, but winter and lost supplies weakened his army.",
+  "significance": "It ended Sweden's era as a great power and made Russia the dominant power in Eastern Europe.",
+  "participants": [
+    "Peter the Great",
+    "Charles XII of Sweden",
+    "Tsardom of Russia",
+    "Swedish Empire",
+    "Ivan Mazepa"
+  ],
+  "countries": [
+    "Ukraine",
+    "Russia",
+    "Sweden"
+  ],
+  "place": "Poltava, Ukraine",
+  "lat": 49.628,
+  "lon": 34.547,
+  "tags": [
+    "war"
+  ],
+  "weight": 74,
+  "wikipedia": "Battle of Poltava",
+  "wikidata": "Q152486"
+}

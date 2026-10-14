@@ -1,0 +1,30 @@
+{
+  "id": "event-1945-05-08-setif-massacre",
+  "title": "Setif massacre begins in French Algeria",
+  "year": 1945,
+  "month": 5,
+  "day": 8,
+  "calendar": "gregorian",
+  "summary": "A victory parade in Setif turned violent when police tried to seize Algerian nationalist flags, and riots killed about a hundred Europeans. French forces and settler militias then killed thousands of Algerians in reprisals over the following weeks.",
+  "reason": "Algerian nationalists hoped the Allied victory would bring freedom, while the colonial authorities were determined to suppress them.",
+  "significance": "It radicalised Algerian nationalism and is seen as a prelude to the Algerian War of Independence.",
+  "participants": [
+    "French Algeria",
+    "Algerian nationalists",
+    "French Army"
+  ],
+  "countries": [
+    "Algeria",
+    "France"
+  ],
+  "place": "Setif, Algeria",
+  "lat": 36.1911,
+  "lon": 5.4137,
+  "tags": [
+    "rights",
+    "politics"
+  ],
+  "weight": 52,
+  "wikipedia": "Sétif and Guelma massacre",
+  "wikidata": "Q593024"
+}

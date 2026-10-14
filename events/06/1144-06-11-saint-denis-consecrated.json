@@ -1,0 +1,28 @@
+{
+  "id": "event-1144-06-11-saint-denis-consecrated",
+  "title": "Abbot Suger consecrates the new choir of Saint-Denis",
+  "year": 1144,
+  "month": 6,
+  "day": 11,
+  "calendar": "julian",
+  "summary": "The rebuilt choir of the abbey church of Saint-Denis, with pointed arches, ribbed vaults and large stained glass windows, was consecrated in the presence of King Louis VII.",
+  "reason": "Abbot Suger wanted a church filled with light to honor God and the French monarchy, whose kings were buried there.",
+  "significance": "It is considered the first Gothic building, the start of a style that spread across Europe.",
+  "participants": [
+    "Abbot Suger",
+    "Louis VII of France"
+  ],
+  "countries": [
+    "France"
+  ],
+  "place": "Saint-Denis, near Paris, France",
+  "lat": 48.9356,
+  "lon": 2.3597,
+  "tags": [
+    "culture",
+    "religion"
+  ],
+  "weight": 55,
+  "wikipedia": "Basilica of Saint-Denis",
+  "wikidata": "Q184407"
+}

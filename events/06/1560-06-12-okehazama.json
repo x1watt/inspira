@@ -1,0 +1,29 @@
+{
+  "id": "event-1560-06-12-okehazama",
+  "title": "Oda Nobunaga wins the Battle of Okehazama",
+  "year": 1560,
+  "month": 6,
+  "day": 12,
+  "calendar": "julian",
+  "summary": "Oda Nobunaga's small force made a surprise attack during a rainstorm on the camp of the warlord Imagawa Yoshimoto, who was killed.",
+  "reason": "Imagawa was marching on Kyoto with a large army and had invaded Nobunaga's province of Owari.",
+  "significance": "The upset made Nobunaga a leading warlord and began the unification of Japan.",
+  "participants": [
+    "Oda Nobunaga",
+    "Imagawa Yoshimoto",
+    "Oda clan",
+    "Imagawa clan"
+  ],
+  "countries": [
+    "Japan"
+  ],
+  "place": "Okehazama, near Nagoya, Aichi, Japan",
+  "lat": 35.055,
+  "lon": 136.99,
+  "tags": [
+    "war"
+  ],
+  "weight": 55,
+  "wikipedia": "Battle of Okehazama",
+  "wikidata": "Q349422"
+}

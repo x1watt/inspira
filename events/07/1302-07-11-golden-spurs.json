@@ -1,0 +1,30 @@
+{
+  "id": "event-1302-07-11-golden-spurs",
+  "title": "Flemish militias defeat French knights at Courtrai",
+  "year": 1302,
+  "month": 7,
+  "day": 11,
+  "calendar": "julian",
+  "summary": "Flemish town militias, fighting on foot, routed a heavy French cavalry army outside Courtrai. Hundreds of gilded spurs taken from dead knights were hung in a local church.",
+  "reason": "King Philip IV of France tried to absorb the County of Flanders, and the cloth towns rose against French rule and their pro-French patricians.",
+  "significance": "It showed that disciplined infantry could beat mounted knights, a lesson repeated across the century.",
+  "participants": [
+    "Kingdom of France",
+    "County of Flanders",
+    "Robert of Artois",
+    "Guy of Namur"
+  ],
+  "countries": [
+    "Belgium",
+    "France"
+  ],
+  "place": "Groeninge field, Kortrijk, Belgium",
+  "lat": 50.828,
+  "lon": 3.265,
+  "tags": [
+    "war"
+  ],
+  "weight": 55,
+  "wikipedia": "Battle of the Golden Spurs",
+  "wikidata": "Q44732"
+}

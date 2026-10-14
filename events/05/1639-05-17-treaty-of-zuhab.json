@@ -1,0 +1,31 @@
+{
+  "id": "event-1639-05-17-treaty-of-zuhab",
+  "title": "Ottomans and Safavids sign the Treaty of Zuhab",
+  "year": 1639,
+  "month": 5,
+  "day": 17,
+  "calendar": "gregorian",
+  "summary": "The Ottoman Empire and Safavid Persia made peace, dividing the Caucasus and leaving Mesopotamia to the Ottomans.",
+  "reason": "More than a century of wars between the two empires had exhausted both after the Ottoman recapture of Baghdad.",
+  "significance": "Its frontier roughly matches today's border between Iran and its western neighbours Turkey and Iraq.",
+  "participants": [
+    "Ottoman Empire",
+    "Safavid Iran",
+    "Murad IV",
+    "Safi of Persia"
+  ],
+  "countries": [
+    "Iran",
+    "Iraq",
+    "Turkey"
+  ],
+  "place": "Qasr-e Shirin, Iran",
+  "lat": 34.5156,
+  "lon": 45.5797,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 58,
+  "wikipedia": "Treaty of Zuhab",
+  "wikidata": "Q2060524"
+}

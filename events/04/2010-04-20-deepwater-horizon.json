@@ -1,0 +1,28 @@
+{
+  "id": "event-2010-04-20-deepwater-horizon",
+  "title": "Deepwater Horizon oil rig explodes",
+  "year": 2010,
+  "month": 4,
+  "day": 20,
+  "calendar": "gregorian",
+  "summary": "An explosion on BP's Deepwater Horizon rig killed eleven workers, and oil gushed into the Gulf of Mexico for 87 days.",
+  "reason": "A failed cement seal and blowout preventer let gas rush up the well.",
+  "significance": "It was the largest marine oil spill in history.",
+  "participants": [
+    "BP",
+    "Transocean",
+    "Halliburton"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Gulf of Mexico, off Louisiana, United States",
+  "lat": 28.7366,
+  "lon": -88.3659,
+  "tags": [
+    "disaster"
+  ],
+  "weight": 55,
+  "wikipedia": "Deepwater Horizon explosion",
+  "wikidata": "Q3656148"
+}

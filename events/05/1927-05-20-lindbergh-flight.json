@@ -1,0 +1,29 @@
+{
+  "id": "event-1927-05-20-lindbergh-flight",
+  "title": "Lindbergh takes off on the first solo nonstop transatlantic flight",
+  "year": 1927,
+  "month": 5,
+  "day": 20,
+  "calendar": "gregorian",
+  "summary": "Charles Lindbergh took off from Roosevelt Field, New York, in the Spirit of St. Louis and landed in Paris about 33 hours later, the first solo nonstop flight across the Atlantic.",
+  "reason": "Lindbergh was competing for the Orteig Prize for the first nonstop flight between New York and Paris.",
+  "significance": "It made Lindbergh a world celebrity and sparked a boom in public interest in aviation.",
+  "participants": [
+    "Charles Lindbergh",
+    "Spirit of St. Louis"
+  ],
+  "countries": [
+    "United States",
+    "France"
+  ],
+  "place": "Roosevelt Field, Long Island, United States",
+  "lat": 40.7383,
+  "lon": -73.6169,
+  "tags": [
+    "technology",
+    "exploration"
+  ],
+  "weight": 62,
+  "wikipedia": "Spirit of St. Louis",
+  "wikidata": "Q939784"
+}

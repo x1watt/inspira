@@ -1,0 +1,28 @@
+{
+  "id": "event-1909-07-25-bleriot-channel",
+  "title": "Louis Bleriot flies across the English Channel",
+  "year": 1909,
+  "month": 7,
+  "day": 25,
+  "calendar": "gregorian",
+  "summary": "French aviator Louis Bleriot flew his Bleriot XI monoplane from near Calais to Dover in about 37 minutes, the first flight across a large body of water in a heavier-than-air aircraft.",
+  "reason": "The Daily Mail newspaper offered a prize for the first flight across the Channel.",
+  "significance": "It showed that Britain was no longer protected by the sea and boosted public faith in aviation.",
+  "participants": [
+    "Louis Bleriot",
+    "Daily Mail"
+  ],
+  "countries": [
+    "France",
+    "United Kingdom"
+  ],
+  "place": "Dover, United Kingdom",
+  "lat": 51.1279,
+  "lon": 1.3134,
+  "tags": [
+    "technology"
+  ],
+  "weight": 52,
+  "wikipedia": "Blériot XI",
+  "wikidata": "Q887098"
+}

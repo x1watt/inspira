@@ -1,0 +1,29 @@
+{
+  "id": "event-2020-11-30-alphafold",
+  "title": "AlphaFold solves protein structure prediction",
+  "year": 2020,
+  "month": 11,
+  "day": 30,
+  "calendar": "gregorian",
+  "summary": "The organisers of the CASP14 competition announced that DeepMind's AlphaFold predicted protein structures almost as accurately as experiments.",
+  "reason": "Predicting a protein's shape from its amino acids had been a 50-year challenge in biology.",
+  "significance": "It transformed biology and won the 2024 Nobel Prize in Chemistry.",
+  "participants": [
+    "DeepMind",
+    "Demis Hassabis",
+    "John Jumper"
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "place": "London, United Kingdom",
+  "lat": 51.5333,
+  "lon": -0.1259,
+  "tags": [
+    "science",
+    "technology"
+  ],
+  "weight": 65,
+  "wikipedia": "AlphaFold",
+  "wikidata": "Q60827595"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "event-1964-10-01-shinkansen-opens",
+  "title": "The Shinkansen bullet train opens",
+  "year": 1964,
+  "month": 10,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "The Tokaido Shinkansen between Tokyo and Osaka opened, the first high speed railway line in the world.",
+  "reason": "Japan needed more capacity on its busiest corridor and wanted to showcase recovery before the Olympics.",
+  "significance": "It started the age of high speed rail.",
+  "participants": [
+    "Japanese National Railways",
+    "Shinji Sogo"
+  ],
+  "countries": [
+    "Japan"
+  ],
+  "place": "Tokyo Station, Tokyo, Japan",
+  "lat": 35.6812,
+  "lon": 139.7671,
+  "tags": [
+    "technology"
+  ],
+  "weight": 53,
+  "wikipedia": "Tokaido Shinkansen",
+  "wikidata": "Q660895"
+}

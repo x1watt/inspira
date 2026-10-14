@@ -1,0 +1,27 @@
+{
+  "id": "event-1915-11-25-einstein-field-equations",
+  "title": "Einstein presents the field equations of general relativity",
+  "year": 1915,
+  "month": 11,
+  "day": 25,
+  "calendar": "gregorian",
+  "summary": "Albert Einstein presented the final field equations of general relativity to the Prussian Academy of Sciences in Berlin, describing gravity as the curvature of spacetime.",
+  "reason": "Einstein had worked for years to extend relativity to gravity and acceleration.",
+  "significance": "General relativity became the foundation of cosmology and of technologies such as GPS.",
+  "participants": [
+    "Albert Einstein",
+    "Prussian Academy of Sciences"
+  ],
+  "countries": [
+    "Germany"
+  ],
+  "place": "Berlin, Germany",
+  "lat": 52.517,
+  "lon": 13.3889,
+  "tags": [
+    "science"
+  ],
+  "weight": 80,
+  "wikipedia": "History of general relativity",
+  "wikidata": "Q273711"
+}

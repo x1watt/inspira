@@ -1,0 +1,28 @@
+{
+  "id": "event-1368-01-23-ming-dynasty-founded",
+  "title": "Zhu Yuanzhang proclaims the Ming dynasty",
+  "year": 1368,
+  "month": 1,
+  "day": 23,
+  "calendar": "julian",
+  "summary": "The rebel leader Zhu Yuanzhang declared himself emperor in Nanjing, taking the reign name Hongwu and founding the Ming dynasty. His armies took the Yuan capital later that year.",
+  "reason": "Famine, floods and the Red Turban rebellions had broken the Mongol-led Yuan dynasty, and Zhu had defeated his rival rebel warlords.",
+  "significance": "It began nearly three centuries of Ming rule, one of the most stable and populous periods in Chinese history.",
+  "participants": [
+    "Zhu Yuanzhang",
+    "Ming dynasty",
+    "Yuan dynasty"
+  ],
+  "countries": [
+    "China"
+  ],
+  "place": "Nanjing, China",
+  "lat": 32.06,
+  "lon": 118.797,
+  "tags": [
+    "politics"
+  ],
+  "weight": 80,
+  "wikipedia": "Hongwu Emperor",
+  "wikidata": "Q9957"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "event-1878-03-03-treaty-of-san-stefano",
+  "title": "Treaty of San Stefano ends the Russo-Turkish War",
+  "year": 1878,
+  "month": 3,
+  "day": 3,
+  "calendar": "gregorian",
+  "summary": "Russia and the Ottoman Empire signed a peace near Constantinople that created a large autonomous Bulgaria and recognized the independence of Serbia, Montenegro and Romania.",
+  "reason": "Russian armies had reached the outskirts of Constantinople after the war of 1877 to 1878.",
+  "significance": "It is celebrated as Bulgaria's liberation, though the other powers revised it at Berlin months later.",
+  "participants": [
+    "Russian Empire",
+    "Ottoman Empire",
+    "Nikolay Pavlovich Ignatyev"
+  ],
+  "countries": [
+    "Turkey",
+    "Russia",
+    "Bulgaria",
+    "Serbia",
+    "Montenegro",
+    "Romania"
+  ],
+  "place": "San Stefano (Yeşilköy), Istanbul, Turkey",
+  "lat": 40.96,
+  "lon": 28.82,
+  "tags": [
+    "diplomacy",
+    "war"
+  ],
+  "weight": 55,
+  "wikipedia": "Treaty of San Stefano",
+  "wikidata": "Q194113"
+}

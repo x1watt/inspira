@@ -1,0 +1,29 @@
+{
+  "id": "event-1380-09-08-kulikovo",
+  "title": "Muscovite army defeats the Golden Horde at Kulikovo",
+  "year": 1380,
+  "month": 9,
+  "day": 8,
+  "calendar": "julian",
+  "summary": "Grand Prince Dmitry of Moscow led a coalition of Russian principalities to victory over the Tatar army of Mamai near the Don river.",
+  "reason": "Moscow had grown strong enough to refuse tribute to the Golden Horde, and Mamai marched north to restore his authority.",
+  "significance": "It was the first major Russian victory over the Horde and boosted Moscow as the leader of the Russian lands.",
+  "participants": [
+    "Grand Duchy of Moscow",
+    "Golden Horde",
+    "Dmitry Donskoy",
+    "Mamai"
+  ],
+  "countries": [
+    "Russia"
+  ],
+  "place": "Kulikovo Field, Tula Oblast, Russia",
+  "lat": 53.667,
+  "lon": 38.65,
+  "tags": [
+    "war"
+  ],
+  "weight": 62,
+  "wikipedia": "Battle of Kulikovo",
+  "wikidata": "Q210354"
+}

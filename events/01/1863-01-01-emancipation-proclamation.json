@@ -1,0 +1,28 @@
+{
+  "id": "event-1863-01-01-emancipation-proclamation",
+  "title": "Lincoln's Emancipation Proclamation takes effect",
+  "year": 1863,
+  "month": 1,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "President Abraham Lincoln declared all enslaved people in the rebelling Confederate states to be free.",
+  "reason": "Lincoln wanted to weaken the Confederacy, keep European powers from supporting it and turn the war into a fight against slavery.",
+  "significance": "It made the abolition of slavery a goal of the Union war effort and allowed Black men to serve in the Union army.",
+  "participants": [
+    "Abraham Lincoln",
+    "United States"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "White House, Washington, D.C., United States",
+  "lat": 38.8977,
+  "lon": -77.0365,
+  "tags": [
+    "rights",
+    "law"
+  ],
+  "weight": 80,
+  "wikipedia": "Emancipation Proclamation",
+  "wikidata": "Q391358"
+}

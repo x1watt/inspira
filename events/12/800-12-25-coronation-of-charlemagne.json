@@ -1,0 +1,32 @@
+{
+  "id": "event-800-12-25-coronation-of-charlemagne",
+  "title": "Charlemagne is crowned emperor in Rome",
+  "year": 800,
+  "month": 12,
+  "day": 25,
+  "calendar": "julian",
+  "summary": "Pope Leo III crowned the Frankish king Charlemagne as emperor of the Romans in St. Peter's Basilica on Christmas Day.",
+  "reason": "Charlemagne had protected the pope from his enemies in Rome and ruled most of Western Europe, while the throne in Constantinople was held by a woman, Irene.",
+  "significance": "It revived the idea of a Western empire and led to the Holy Roman Empire.",
+  "participants": [
+    "Charlemagne",
+    "Pope Leo III",
+    "Carolingian Empire"
+  ],
+  "countries": [
+    "Vatican City",
+    "Italy",
+    "France",
+    "Germany"
+  ],
+  "place": "Old St. Peter's Basilica, Rome, Vatican City",
+  "lat": 41.9022,
+  "lon": 12.4539,
+  "tags": [
+    "politics",
+    "religion"
+  ],
+  "weight": 85,
+  "wikipedia": "Charlemagne",
+  "wikidata": "Q3044"
+}

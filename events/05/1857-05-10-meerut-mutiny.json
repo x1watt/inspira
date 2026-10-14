@@ -1,0 +1,30 @@
+{
+  "id": "event-1857-05-10-meerut-mutiny",
+  "title": "Indian Rebellion begins at Meerut",
+  "year": 1857,
+  "month": 5,
+  "day": 10,
+  "calendar": "gregorian",
+  "summary": "Indian soldiers of the East India Company army at Meerut rose against their British officers, freed jailed comrades and marched on Delhi.",
+  "reason": "Anger at rumors that new rifle cartridges were greased with cow and pig fat joined deeper grievances over annexations, taxes and British contempt for Indian customs.",
+  "significance": "The rebellion ended East India Company rule and led to direct British Crown rule over India.",
+  "participants": [
+    "Bengal Army",
+    "British East India Company",
+    "Bahadur Shah Zafar"
+  ],
+  "countries": [
+    "India",
+    "United Kingdom"
+  ],
+  "place": "Meerut, Uttar Pradesh, India",
+  "lat": 28.9845,
+  "lon": 77.7064,
+  "tags": [
+    "war",
+    "revolution"
+  ],
+  "weight": 75,
+  "wikipedia": "Indian Rebellion of 1857",
+  "wikidata": "Q129864"
+}

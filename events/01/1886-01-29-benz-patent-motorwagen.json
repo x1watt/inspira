@@ -1,0 +1,27 @@
+{
+  "id": "event-1886-01-29-benz-patent-motorwagen",
+  "title": "Karl Benz patents the first practical automobile",
+  "year": 1886,
+  "month": 1,
+  "day": 29,
+  "calendar": "gregorian",
+  "summary": "Karl Benz filed a patent in Germany for a three-wheeled vehicle powered by a gasoline internal combustion engine.",
+  "reason": "Benz had worked for years on a light, fast-running engine and designed the vehicle around it rather than adapting a carriage.",
+  "significance": "It is regarded as the birth of the automobile.",
+  "participants": [
+    "Karl Benz",
+    "Bertha Benz"
+  ],
+  "countries": [
+    "Germany"
+  ],
+  "place": "Mannheim, Germany",
+  "lat": 49.4875,
+  "lon": 8.466,
+  "tags": [
+    "technology"
+  ],
+  "weight": 75,
+  "wikipedia": "Benz Patent-Motorwagen",
+  "wikidata": "Q326248"
+}

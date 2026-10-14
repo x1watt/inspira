@@ -1,0 +1,32 @@
+{
+  "id": "event-1916-05-16-sykes-picot",
+  "title": "Britain and France conclude the Sykes-Picot Agreement",
+  "year": 1916,
+  "month": 5,
+  "day": 16,
+  "calendar": "gregorian",
+  "summary": "British and French diplomats secretly agreed on how to divide the Arab lands of the Ottoman Empire into zones of control and influence after the war.",
+  "reason": "The two powers wanted to secure their postwar interests in the Middle East while fighting the Ottomans.",
+  "significance": "It shaped the borders of the modern Middle East and remains a symbol of Western betrayal in the Arab world.",
+  "participants": [
+    "Mark Sykes",
+    "Francois Georges-Picot",
+    "United Kingdom",
+    "French Third Republic"
+  ],
+  "countries": [
+    "United Kingdom",
+    "France",
+    "Syria",
+    "Iraq",
+    "Lebanon"
+  ],
+  "place": "London, United Kingdom",
+  "lat": 51.5074,
+  "lon": -0.1278,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 67,
+  "wikipedia": "Sykes-Picot Agreement"
+}

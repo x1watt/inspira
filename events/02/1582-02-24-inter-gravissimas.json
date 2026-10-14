@@ -1,0 +1,30 @@
+{
+  "id": "event-1582-02-24-inter-gravissimas",
+  "title": "Pope Gregory XIII issues the calendar reform bull",
+  "year": 1582,
+  "month": 2,
+  "day": 24,
+  "calendar": "julian",
+  "summary": "With the bull Inter gravissimas, Gregory XIII ordered that ten days be dropped in October 1582 and introduced new leap year rules, creating the Gregorian calendar.",
+  "reason": "The Julian calendar had drifted about ten days from the solar year, moving the date of Easter away from the spring equinox.",
+  "significance": "The Gregorian calendar became the civil calendar of nearly the whole world.",
+  "participants": [
+    "Pope Gregory XIII",
+    "Christopher Clavius",
+    "Aloysius Lilius",
+    "Catholic Church"
+  ],
+  "countries": [
+    "Italy"
+  ],
+  "place": "Villa Mondragone, Frascati, Italy",
+  "lat": 41.797,
+  "lon": 12.692,
+  "tags": [
+    "science",
+    "religion"
+  ],
+  "weight": 80,
+  "wikipedia": "Inter gravissimas",
+  "wikidata": "Q766456"
+}

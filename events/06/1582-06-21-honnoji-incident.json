@@ -1,0 +1,27 @@
+{
+  "id": "event-1582-06-21-honnoji-incident",
+  "title": "Oda Nobunaga dies in the Honnoji Incident",
+  "year": 1582,
+  "month": 6,
+  "day": 21,
+  "calendar": "julian",
+  "summary": "The general Akechi Mitsuhide turned on his lord Oda Nobunaga and attacked him at the Honnoji temple in Kyoto, where Nobunaga took his own life.",
+  "reason": "Mitsuhide's motives remain debated: personal grievances, ambition and fear for his position have all been suggested.",
+  "significance": "Nobunaga's death opened the way for Toyotomi Hideyoshi to complete the unification of Japan.",
+  "participants": [
+    "Oda Nobunaga",
+    "Akechi Mitsuhide",
+    "Oda clan"
+  ],
+  "countries": [
+    "Japan"
+  ],
+  "place": "Honnoji temple, Kyoto, Japan",
+  "lat": 35.0058,
+  "lon": 135.7539,
+  "tags": [
+    "politics"
+  ],
+  "weight": 60,
+  "wikipedia": "Honnō-ji Incident"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "event-378-08-09-battle-of-adrianople",
+  "title": "Goths defeat the Roman army at Adrianople",
+  "year": 378,
+  "month": 8,
+  "day": 9,
+  "calendar": "julian",
+  "summary": "Gothic forces under Fritigern destroyed a Roman army near Adrianople. Emperor Valens was killed.",
+  "reason": "Goths fleeing the Huns had been admitted into the empire but revolted after abuse by Roman officials.",
+  "significance": "It showed that barbarian armies could defeat Rome's field army and began the Gothic settlement within the empire.",
+  "participants": [
+    "Valens",
+    "Fritigern",
+    "Thervingi",
+    "Roman Empire"
+  ],
+  "countries": [
+    "Turkey"
+  ],
+  "place": "Adrianople (Edirne), Turkey",
+  "lat": 41.6771,
+  "lon": 26.5557,
+  "tags": [
+    "war"
+  ],
+  "weight": 80,
+  "wikipedia": "Battle of Adrianople",
+  "wikidata": "Q192473"
+}

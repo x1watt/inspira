@@ -1,0 +1,29 @@
+{
+  "id": "event-1924-03-03-caliphate-abolished",
+  "title": "Turkey abolishes the Ottoman Caliphate",
+  "year": 1924,
+  "month": 3,
+  "day": 3,
+  "calendar": "gregorian",
+  "summary": "The Turkish Grand National Assembly abolished the caliphate and expelled the last caliph, Abdulmejid II, and the Ottoman family from the country.",
+  "reason": "Mustafa Kemal saw the caliphate as a rival center of power and an obstacle to a secular republic.",
+  "significance": "It ended an institution that had led Sunni Islam for centuries.",
+  "participants": [
+    "Grand National Assembly of Turkey",
+    "Abdulmejid II",
+    "Mustafa Kemal Ataturk"
+  ],
+  "countries": [
+    "Turkey"
+  ],
+  "place": "Ankara, Turkey",
+  "lat": 39.9334,
+  "lon": 32.8597,
+  "tags": [
+    "religion",
+    "politics"
+  ],
+  "weight": 62,
+  "wikipedia": "Ottoman Caliphate",
+  "wikidata": "Q2034358"
+}

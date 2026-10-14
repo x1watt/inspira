@@ -1,0 +1,31 @@
+{
+  "id": "event-1291-05-18-fall-of-acre",
+  "title": "Mamluks capture Acre, the last crusader stronghold",
+  "year": 1291,
+  "month": 5,
+  "day": 18,
+  "calendar": "julian",
+  "summary": "The Mamluk army of Sultan al-Ashraf Khalil stormed Acre after a six-week siege. The remaining crusader towns on the coast were abandoned soon after.",
+  "reason": "The Mamluks were driving the last Latin Christians from the Levant, and a massacre of Muslims in Acre gave them a pretext.",
+  "significance": "It ended the crusader states in the Holy Land.",
+  "participants": [
+    "Mamluk Sultanate",
+    "al-Ashraf Khalil",
+    "Kingdom of Jerusalem",
+    "Knights Templar",
+    "Knights Hospitaller"
+  ],
+  "countries": [
+    "Israel",
+    "Egypt"
+  ],
+  "place": "Acre, Israel",
+  "lat": 32.9236,
+  "lon": 35.07,
+  "tags": [
+    "war"
+  ],
+  "weight": 70,
+  "wikipedia": "Siege of Acre (1291)",
+  "wikidata": "Q325985"
+}

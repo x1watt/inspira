@@ -1,0 +1,30 @@
+{
+  "id": "event-1985-05-16-ozone-hole-discovered",
+  "title": "Scientists report the ozone hole over Antarctica",
+  "year": 1985,
+  "month": 5,
+  "day": 16,
+  "calendar": "gregorian",
+  "summary": "Joseph Farman, Brian Gardiner and Jonathan Shanklin of the British Antarctic Survey published evidence in Nature of severe ozone loss over Antarctica.",
+  "reason": "Measurements at Halley station showed a seasonal drop in ozone linked to CFC gases.",
+  "significance": "It led directly to the Montreal Protocol.",
+  "participants": [
+    "Joseph Farman",
+    "Brian Gardiner",
+    "Jonathan Shanklin",
+    "British Antarctic Survey"
+  ],
+  "countries": [
+    "United Kingdom",
+    "Antarctica"
+  ],
+  "place": "Halley Research Station, Antarctica",
+  "lat": -75.58,
+  "lon": -26.66,
+  "tags": [
+    "science"
+  ],
+  "weight": 58,
+  "wikipedia": "Ozone depletion",
+  "wikidata": "Q183140"
+}

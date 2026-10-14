@@ -1,0 +1,30 @@
+{
+  "id": "event-1920-08-18-nineteenth-amendment",
+  "title": "Tennessee ratifies women's suffrage in the United States",
+  "year": 1920,
+  "month": 8,
+  "day": 18,
+  "calendar": "gregorian",
+  "summary": "Tennessee became the 36th state to ratify the Nineteenth Amendment, giving it the support needed to guarantee American women the right to vote.",
+  "reason": "Decades of campaigning by suffragists and women's wartime contribution built support for the amendment.",
+  "significance": "It enfranchised millions of women and was a milestone for women's rights worldwide.",
+  "participants": [
+    "Tennessee General Assembly",
+    "Harry T. Burn",
+    "Carrie Chapman Catt",
+    "Alice Paul"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Tennessee State Capitol, Nashville, United States",
+  "lat": 36.1659,
+  "lon": -86.7844,
+  "tags": [
+    "rights",
+    "law"
+  ],
+  "weight": 62,
+  "wikipedia": "Nineteenth Amendment to the United States Constitution",
+  "wikidata": "Q205304"
+}

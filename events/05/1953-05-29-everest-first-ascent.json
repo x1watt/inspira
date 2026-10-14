@@ -1,0 +1,32 @@
+{
+  "id": "event-1953-05-29-everest-first-ascent",
+  "title": "Hillary and Tenzing reach the summit of Everest",
+  "year": 1953,
+  "month": 5,
+  "day": 29,
+  "calendar": "gregorian",
+  "summary": "Edmund Hillary of New Zealand and Tenzing Norgay, a Sherpa from Nepal, became the first people known to reach the top of Mount Everest.",
+  "reason": "A large British expedition led by John Hunt had chosen them for the second summit attempt.",
+  "significance": "It was the climax of the race for the world's highest peak.",
+  "participants": [
+    "Edmund Hillary",
+    "Tenzing Norgay",
+    "John Hunt"
+  ],
+  "countries": [
+    "Nepal",
+    "China",
+    "New Zealand",
+    "United Kingdom"
+  ],
+  "place": "Mount Everest, Nepal and China",
+  "lat": 27.9881,
+  "lon": 86.925,
+  "tags": [
+    "exploration",
+    "sport"
+  ],
+  "weight": 70,
+  "wikipedia": "1953 British Mount Everest expedition",
+  "wikidata": "Q4567715"
+}

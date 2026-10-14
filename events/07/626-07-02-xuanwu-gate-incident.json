@@ -1,0 +1,29 @@
+{
+  "id": "event-626-07-02-xuanwu-gate-incident",
+  "title": "Li Shimin seizes power in the Xuanwu Gate Incident",
+  "year": 626,
+  "month": 7,
+  "day": 2,
+  "calendar": "julian",
+  "summary": "Prince Li Shimin ambushed and killed his brothers, the crown prince Li Jiancheng and Li Yuanji, at the Xuanwu Gate of the palace in Chang'an. Within weeks his father abdicated in his favor.",
+  "reason": "A bitter rivalry over the succession had grown between Li Shimin, the dynasty's leading general, and the crown prince.",
+  "significance": "Li Shimin became Emperor Taizong, one of the most admired rulers in Chinese history.",
+  "participants": [
+    "Li Shimin",
+    "Li Jiancheng",
+    "Li Yuanji",
+    "Emperor Gaozu of Tang"
+  ],
+  "countries": [
+    "China"
+  ],
+  "place": "Chang'an, Xi'an, China",
+  "lat": 34.2658,
+  "lon": 108.9541,
+  "tags": [
+    "politics"
+  ],
+  "weight": 55,
+  "wikipedia": "Xuanwu Gate Incident",
+  "wikidata": "Q1192865"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "event-2022-11-30-chatgpt",
+  "title": "ChatGPT is released",
+  "year": 2022,
+  "month": 11,
+  "day": 30,
+  "calendar": "gregorian",
+  "summary": "OpenAI released ChatGPT, a chatbot built on a large language model, which gained 100 million users within two months.",
+  "reason": "Advances in large language models made fluent conversation possible.",
+  "significance": "It started a global boom in generative AI.",
+  "participants": [
+    "OpenAI"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Online",
+  "lat": null,
+  "lon": null,
+  "tags": [
+    "technology"
+  ],
+  "weight": 75,
+  "wikipedia": "ChatGPT",
+  "wikidata": "Q115564437"
+}

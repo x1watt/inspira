@@ -1,0 +1,29 @@
+{
+  "id": "event-1976-04-01-apple-founded",
+  "title": "Steve Jobs and Steve Wozniak found Apple",
+  "year": 1976,
+  "month": 4,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "Steve Jobs, Steve Wozniak and Ronald Wayne founded Apple Computer to sell Wozniak's Apple I computer.",
+  "reason": "Wozniak had designed a simple computer board for hobbyists, and Jobs saw a business.",
+  "significance": "Apple helped launch the personal computer revolution.",
+  "participants": [
+    "Steve Jobs",
+    "Steve Wozniak",
+    "Ronald Wayne"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Los Altos, California, United States",
+  "lat": 37.3404,
+  "lon": -122.0697,
+  "tags": [
+    "technology",
+    "economy"
+  ],
+  "weight": 55,
+  "wikipedia": "Apple Inc.",
+  "wikidata": "Q312"
+}

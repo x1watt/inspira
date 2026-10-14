@@ -1,0 +1,28 @@
+{
+  "id": "event-1965-08-09-singapore-independence",
+  "title": "Singapore becomes independent",
+  "year": 1965,
+  "month": 8,
+  "day": 9,
+  "calendar": "gregorian",
+  "summary": "Singapore separated from Malaysia and became an independent republic. Lee Kuan Yew wept as he announced it.",
+  "reason": "Tensions between Singapore's Chinese majority leadership and the Malay led federal government made the union unworkable.",
+  "significance": "The city state became one of the world's richest countries.",
+  "participants": [
+    "Lee Kuan Yew",
+    "Tunku Abdul Rahman"
+  ],
+  "countries": [
+    "Singapore",
+    "Malaysia"
+  ],
+  "place": "Singapore",
+  "lat": 1.2903,
+  "lon": 103.852,
+  "tags": [
+    "politics"
+  ],
+  "weight": 51,
+  "wikipedia": "Proclamation of Singapore",
+  "wikidata": "Q7247434"
+}

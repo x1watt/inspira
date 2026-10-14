@@ -1,0 +1,28 @@
+{
+  "id": "event-312-10-28-battle-of-the-milvian-bridge",
+  "title": "Battle of the Milvian Bridge",
+  "year": 312,
+  "month": 10,
+  "day": 28,
+  "calendar": "julian",
+  "summary": "Constantine defeated his rival Maxentius at the Milvian Bridge outside Rome. Maxentius drowned in the Tiber.",
+  "reason": "The two emperors were fighting for control of the western empire. Constantine reported a vision promising victory under a Christian sign.",
+  "significance": "It made Constantine master of the West and set him on the path to the Christianization of the empire.",
+  "participants": [
+    "Constantine the Great",
+    "Maxentius"
+  ],
+  "countries": [
+    "Italy"
+  ],
+  "place": "Milvian Bridge, Rome, Italy",
+  "lat": 41.9356,
+  "lon": 12.4672,
+  "tags": [
+    "war",
+    "religion"
+  ],
+  "weight": 82,
+  "wikipedia": "Battle of the Milvian Bridge",
+  "wikidata": "Q339321"
+}

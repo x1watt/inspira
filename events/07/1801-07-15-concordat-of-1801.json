@@ -1,0 +1,30 @@
+{
+  "id": "event-1801-07-15-concordat-of-1801",
+  "title": "Napoleon and the Pope sign the Concordat of 1801",
+  "year": 1801,
+  "month": 7,
+  "day": 15,
+  "calendar": "gregorian",
+  "summary": "France and Pope Pius VII agreed to restore the Catholic Church's legal position in France, with the state naming bishops.",
+  "reason": "Napoleon wanted to end the religious conflict of the Revolution and win over Catholic France.",
+  "significance": "It shaped church and state relations in France for a century.",
+  "participants": [
+    "Napoleon Bonaparte",
+    "Pope Pius VII",
+    "Ercole Consalvi"
+  ],
+  "countries": [
+    "France",
+    "Vatican City"
+  ],
+  "place": "Paris, France",
+  "lat": 48.8566,
+  "lon": 2.3522,
+  "tags": [
+    "religion",
+    "diplomacy"
+  ],
+  "weight": 60,
+  "wikipedia": "Concordat of 1801",
+  "wikidata": "Q1428015"
+}

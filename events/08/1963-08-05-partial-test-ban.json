@@ -1,0 +1,32 @@
+{
+  "id": "event-1963-08-05-partial-test-ban",
+  "title": "The Partial Nuclear Test Ban Treaty is signed",
+  "year": 1963,
+  "month": 8,
+  "day": 5,
+  "calendar": "gregorian",
+  "summary": "The United States, the Soviet Union and Britain signed a treaty in Moscow banning nuclear tests in the atmosphere, in space and under water.",
+  "reason": "The Cuban Missile Crisis and fears about fallout made the powers seek limits.",
+  "significance": "It was the first major treaty to restrain the nuclear arms race.",
+  "participants": [
+    "United States",
+    "Soviet Union",
+    "United Kingdom",
+    "Dean Rusk",
+    "Andrei Gromyko"
+  ],
+  "countries": [
+    "Russia",
+    "United States",
+    "United Kingdom"
+  ],
+  "place": "Moscow, Russia",
+  "lat": 55.7558,
+  "lon": 37.6173,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 58,
+  "wikipedia": "Partial Nuclear Test Ban Treaty",
+  "wikidata": "Q278960"
+}

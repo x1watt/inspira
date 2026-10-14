@@ -1,0 +1,29 @@
+{
+  "id": "event-2025-05-08-pope-leo-xiv",
+  "title": "Robert Prevost is elected Pope Leo XIV",
+  "year": 2025,
+  "month": 5,
+  "day": 8,
+  "calendar": "gregorian",
+  "summary": "Cardinals elected Robert Francis Prevost, who took the name Leo XIV, after the death of Pope Francis.",
+  "reason": "The conclave sought a successor able to continue Francis's reforms and unite the church.",
+  "significance": "He is the first pope from the United States.",
+  "participants": [
+    "Pope Leo XIV",
+    "College of Cardinals",
+    "Catholic Church"
+  ],
+  "countries": [
+    "Vatican City",
+    "United States",
+    "Peru"
+  ],
+  "place": "Sistine Chapel, Vatican City",
+  "lat": 41.9029,
+  "lon": 12.4545,
+  "tags": [
+    "religion"
+  ],
+  "weight": 55,
+  "wikipedia": "2025 conclave"
+}

@@ -1,5 +1,6 @@
 import 'dart:math';
 
+import '../models/event.dart';
 import '../models/quote.dart';
 import '../models/story.dart';
 
@@ -12,6 +13,7 @@ class Quiz {
     required this.subject,
     required this.options,
     required this.answer,
+    this.explanation = '',
   });
 
   final String itemId;
@@ -24,21 +26,31 @@ class Quiz {
 
   /// Index of the right option.
   final int answer;
+
+  /// Shown after answering: what happened and why.
+  final String explanation;
 }
 
 /// Builds questions from the collection itself, so every quote and story
 /// can be quizzed without writing questions by hand.
 class QuizGenerator {
-  QuizGenerator(List<Quote> quotes, List<Story> stories)
-    : _quotes = {for (final q in quotes) q.id: q},
-      _stories = {for (final s in stories) s.id: s},
-      _namesByCategory = _names(quotes),
-      _lessonsByKind = _lessons(stories),
-      _history = [
-        for (final s in stories)
-          if (s.kind == StoryKind.history && s.year != null) s,
-      ];
+  QuizGenerator(
+    List<Quote> quotes,
+    List<Story> stories, [
+    List<HistoryEvent> events = const [],
+  ]) : _events = events,
+       _eventsById = {for (final e in events) e.id: e},
+       _quotes = {for (final q in quotes) q.id: q},
+       _stories = {for (final s in stories) s.id: s},
+       _namesByCategory = _names(quotes),
+       _lessonsByKind = _lessons(stories),
+       _history = [
+         for (final s in stories)
+           if (s.kind == StoryKind.history && s.year != null) s,
+       ];
 
+  final List<HistoryEvent> _events;
+  final Map<String, HistoryEvent> _eventsById;
   final Map<String, Quote> _quotes;
   final Map<String, Story> _stories;
   final Map<String, List<String>> _namesByCategory;
@@ -70,8 +82,71 @@ class QuizGenerator {
     final q = _quotes[id];
     if (q != null) return _forQuote(q, random);
     final s = _stories[id];
-    return s == null ? null : _forStory(s, random);
+    if (s != null) return _forStory(s, random);
+    final e = _eventsById[id];
+    return e == null ? null : _forEvent(e, random);
   }
+
+  /// "When did this happen?" (other events' dates, far enough apart that
+  /// the question tests the era) or "What happened on this day?" (other
+  /// events of roughly the same time).
+  Quiz? _forEvent(HistoryEvent e, Random random) {
+    final gap = e.year >= 1900
+        ? 8
+        : e.year >= 1500
+        ? 30
+        : 100;
+    if (random.nextBool()) {
+      final wrong = _distinct(
+        [
+          for (final o in _events)
+            if ((o.year - e.year).abs() >= gap) o.dateLabel,
+        ],
+        e.dateLabel,
+        2,
+        random,
+      );
+      if (wrong.length == 2) {
+        return _build(
+          e.id,
+          e.category,
+          'When did this happen?',
+          e.title,
+          e.dateLabel,
+          wrong,
+          random,
+          explanation: _explain(e),
+        );
+      }
+    }
+    final wrong = _distinct(
+      [
+        for (final o in _events)
+          if (o.id != e.id && (o.year - e.year).abs() <= gap * 4) o.title,
+      ],
+      e.title,
+      2,
+      random,
+    );
+    if (wrong.length < 2) return null;
+    return _build(
+      e.id,
+      e.category,
+      'What happened on ${e.dateLabel}?',
+      // The countries as a hint; the place often names the event.
+      e.countries.take(3).join(', '),
+      e.title,
+      wrong,
+      random,
+      explanation: _explain(e),
+    );
+  }
+
+  static String _explain(HistoryEvent e) => [
+    '${e.dateLabel}${e.place.isEmpty ? '' : ', ${e.place}'}.',
+    e.summary,
+    if (e.reason.isNotEmpty) 'Why: ${e.reason}',
+  ].join(' ');
 
   Quiz? _forQuote(Quote q, Random random) {
     final right = q.speaker ?? q.author;
@@ -157,10 +232,12 @@ class QuizGenerator {
     String subject,
     String right,
     List<String> wrong,
-    Random random,
-  ) {
+    Random random, {
+    String explanation = '',
+  }) {
     final options = [right, ...wrong]..shuffle(random);
     return Quiz(
+      explanation: explanation,
       itemId: id,
       category: category,
       question: question,

@@ -1,0 +1,32 @@
+{
+  "id": "event-2000-06-26-human-genome-draft",
+  "title": "First draft of the human genome is announced",
+  "year": 2000,
+  "month": 6,
+  "day": 26,
+  "calendar": "gregorian",
+  "summary": "Bill Clinton and Tony Blair announced that the Human Genome Project and Celera Genomics had completed a working draft of the human genome.",
+  "reason": "A public consortium and a private rival had raced to read all three billion DNA letters.",
+  "significance": "It opened the era of genomic medicine.",
+  "participants": [
+    "Human Genome Project",
+    "Celera Genomics",
+    "Francis Collins",
+    "Craig Venter",
+    "Bill Clinton"
+  ],
+  "countries": [
+    "United States",
+    "United Kingdom"
+  ],
+  "place": "White House, Washington, D.C., United States",
+  "lat": 38.8977,
+  "lon": -77.0365,
+  "tags": [
+    "science",
+    "medicine"
+  ],
+  "weight": 80,
+  "wikipedia": "Human Genome Project",
+  "wikidata": "Q192446"
+}

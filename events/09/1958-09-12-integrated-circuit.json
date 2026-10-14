@@ -1,0 +1,27 @@
+{
+  "id": "event-1958-09-12-integrated-circuit",
+  "title": "Jack Kilby demonstrates the first integrated circuit",
+  "year": 1958,
+  "month": 9,
+  "day": 12,
+  "calendar": "gregorian",
+  "summary": "At Texas Instruments in Dallas, Jack Kilby demonstrated a working circuit built on a single piece of germanium.",
+  "reason": "Engineers were looking for a way around the tangle of wires needed to connect many separate components.",
+  "significance": "The integrated circuit made microchips and modern computing possible.",
+  "participants": [
+    "Jack Kilby",
+    "Texas Instruments"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Texas Instruments, Dallas, Texas, United States",
+  "lat": 32.9118,
+  "lon": -96.7517,
+  "tags": [
+    "technology"
+  ],
+  "weight": 61,
+  "wikipedia": "Invention of the integrated circuit",
+  "wikidata": "Q4198739"
+}

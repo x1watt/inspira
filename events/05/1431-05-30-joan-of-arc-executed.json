@@ -1,0 +1,30 @@
+{
+  "id": "event-1431-05-30-joan-of-arc-executed",
+  "title": "Joan of Arc is burned at the stake in Rouen",
+  "year": 1431,
+  "month": 5,
+  "day": 30,
+  "calendar": "julian",
+  "summary": "Joan of Arc, the peasant girl who had led French armies to victory at Orleans, was burned in Rouen after a church trial controlled by the English.",
+  "reason": "She was captured by Burgundian forces, sold to the English, and tried for heresy so that her victories and Charles VII's coronation would be discredited.",
+  "significance": "She became a national symbol of France and was later declared a saint.",
+  "participants": [
+    "Joan of Arc",
+    "Kingdom of England",
+    "Pierre Cauchon"
+  ],
+  "countries": [
+    "France",
+    "United Kingdom"
+  ],
+  "place": "Place du Vieux-Marche, Rouen, France",
+  "lat": 49.443,
+  "lon": 1.088,
+  "tags": [
+    "religion",
+    "war"
+  ],
+  "weight": 70,
+  "wikipedia": "Joan of Arc",
+  "wikidata": "Q7226"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "event-1699-01-26-treaty-of-karlowitz",
+  "title": "Treaty of Karlowitz forces the first great Ottoman cession",
+  "year": 1699,
+  "month": 1,
+  "day": 26,
+  "calendar": "gregorian",
+  "summary": "The Ottoman Empire signed peace with the Holy League at Karlowitz, giving up most of Hungary and Transylvania to the Habsburgs and other lands to Venice and Poland.",
+  "reason": "Sixteen years of defeats after the failed siege of Vienna had left the Ottomans unable to continue.",
+  "significance": "It was the first time the Ottomans ceded large territories to Europe, and Habsburg Austria became a great power.",
+  "participants": [
+    "Ottoman Empire",
+    "Habsburg monarchy",
+    "Republic of Venice",
+    "Polish-Lithuanian Commonwealth"
+  ],
+  "countries": [
+    "Serbia",
+    "Turkey",
+    "Austria",
+    "Hungary"
+  ],
+  "place": "Sremski Karlovci, Serbia",
+  "lat": 45.2028,
+  "lon": 19.9344,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 62,
+  "wikipedia": "Treaty of Karlowitz",
+  "wikidata": "Q192303"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "event-1871-01-18-proclamation-german-empire",
+  "title": "German Empire proclaimed at Versailles",
+  "year": 1871,
+  "month": 1,
+  "day": 18,
+  "calendar": "gregorian",
+  "summary": "King Wilhelm I of Prussia was proclaimed German Emperor in the Hall of Mirrors of the Palace of Versailles.",
+  "reason": "Victory over France let Bismarck unite the southern German states with the North German Confederation under Prussia.",
+  "significance": "A united Germany became the strongest power in continental Europe, changing the balance that led to the world wars.",
+  "participants": [
+    "Wilhelm I",
+    "Otto von Bismarck",
+    "German Empire"
+  ],
+  "countries": [
+    "Germany",
+    "France"
+  ],
+  "place": "Hall of Mirrors, Palace of Versailles, France",
+  "lat": 48.8049,
+  "lon": 2.1204,
+  "tags": [
+    "politics"
+  ],
+  "weight": 80,
+  "wikipedia": "Proclamation of the German Empire",
+  "wikidata": "Q10354157"
+}

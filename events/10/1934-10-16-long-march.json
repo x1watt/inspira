@@ -1,0 +1,29 @@
+{
+  "id": "event-1934-10-16-long-march",
+  "title": "The Chinese Red Army begins the Long March",
+  "year": 1934,
+  "month": 10,
+  "day": 16,
+  "calendar": "gregorian",
+  "summary": "Encircled by Nationalist forces, about 86,000 troops of the Red Army broke out of the Jiangxi Soviet and began a retreat of thousands of kilometers.",
+  "reason": "Chiang Kai-shek's encirclement campaigns had made the Communist base in Jiangxi untenable.",
+  "significance": "It saved the Chinese Communist Party and brought Mao Zedong to its leadership.",
+  "participants": [
+    "Chinese Red Army",
+    "Mao Zedong",
+    "Zhou Enlai",
+    "Kuomintang"
+  ],
+  "countries": [
+    "China"
+  ],
+  "place": "Yudu, Jiangxi, China",
+  "lat": 25.952,
+  "lon": 115.411,
+  "tags": [
+    "war"
+  ],
+  "weight": 72,
+  "wikipedia": "Long March",
+  "wikidata": "Q46333"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "event-2020-05-30-crew-dragon-demo-2",
+  "title": "SpaceX launches its first astronauts",
+  "year": 2020,
+  "month": 5,
+  "day": 30,
+  "calendar": "gregorian",
+  "summary": "SpaceX's Crew Dragon carried NASA astronauts Bob Behnken and Doug Hurley to the International Space Station.",
+  "reason": "Since the shuttle's retirement, NASA had relied on Russia and paid private firms to build spacecraft.",
+  "significance": "It was the first crewed orbital flight by a private company.",
+  "participants": [
+    "SpaceX",
+    "NASA",
+    "Bob Behnken",
+    "Doug Hurley"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Kennedy Space Center, Florida, United States",
+  "lat": 28.6084,
+  "lon": -80.6043,
+  "tags": [
+    "exploration",
+    "technology"
+  ],
+  "weight": 60,
+  "wikipedia": "Crew Dragon Demo-2",
+  "wikidata": "Q47246047"
+}

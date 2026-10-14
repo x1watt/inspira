@@ -1,0 +1,32 @@
+{
+  "id": "event-1948-06-24-berlin-blockade",
+  "title": "The Soviet Union begins the Berlin Blockade",
+  "year": 1948,
+  "month": 6,
+  "day": 24,
+  "calendar": "gregorian",
+  "summary": "Soviet forces cut all road, rail and canal routes into the western sectors of Berlin. The Western Allies answered with an airlift that supplied the city for almost a year.",
+  "reason": "Moscow opposed the introduction of a new currency in the western zones and wanted to push the Allies out of Berlin.",
+  "significance": "It was the first major crisis of the Cold War and hastened the division of Germany.",
+  "participants": [
+    "Soviet Union",
+    "United States",
+    "United Kingdom",
+    "France"
+  ],
+  "countries": [
+    "Germany",
+    "Russia",
+    "United States"
+  ],
+  "place": "Berlin, Germany",
+  "lat": 52.52,
+  "lon": 13.405,
+  "tags": [
+    "politics",
+    "diplomacy"
+  ],
+  "weight": 70,
+  "wikipedia": "Berlin Blockade",
+  "wikidata": "Q151349"
+}

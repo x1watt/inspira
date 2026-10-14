@@ -1,0 +1,29 @@
+{
+  "id": "event-1968-10-02-tlatelolco-massacre",
+  "title": "Mexican troops fire on students at Tlatelolco",
+  "year": 1968,
+  "month": 10,
+  "day": 2,
+  "calendar": "gregorian",
+  "summary": "Soldiers and police opened fire on a student rally in the Plaza de las Tres Culturas in Mexico City, killing many.",
+  "reason": "The government wanted to end student protests before the Olympics opened ten days later.",
+  "significance": "It became a lasting symbol of state repression in Mexico.",
+  "participants": [
+    "Mexican Army",
+    "Gustavo Diaz Ordaz",
+    "National Strike Council"
+  ],
+  "countries": [
+    "Mexico"
+  ],
+  "place": "Plaza de las Tres Culturas, Mexico City, Mexico",
+  "lat": 19.451,
+  "lon": -99.137,
+  "tags": [
+    "rights",
+    "politics"
+  ],
+  "weight": 53,
+  "wikipedia": "Tlatelolco massacre",
+  "wikidata": "Q909737"
+}

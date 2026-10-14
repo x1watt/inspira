@@ -1,0 +1,31 @@
+{
+  "id": "event-1700-11-30-battle-of-narva",
+  "title": "Charles XII routs the Russian army at Narva",
+  "year": 1700,
+  "month": 11,
+  "day": 30,
+  "calendar": "gregorian",
+  "summary": "A small Swedish army under the 18-year-old Charles XII attacked in a snowstorm and destroyed a much larger Russian army besieging Narva.",
+  "reason": "Russia, Denmark and Saxony had attacked Sweden to break its hold on the Baltic, starting the Great Northern War.",
+  "significance": "The defeat pushed Peter the Great to modernize the Russian army.",
+  "participants": [
+    "Charles XII of Sweden",
+    "Peter the Great",
+    "Swedish Empire",
+    "Tsardom of Russia"
+  ],
+  "countries": [
+    "Estonia",
+    "Sweden",
+    "Russia"
+  ],
+  "place": "Narva, Estonia",
+  "lat": 59.3797,
+  "lon": 28.1791,
+  "tags": [
+    "war"
+  ],
+  "weight": 56,
+  "wikipedia": "Battle of Narva (1700)",
+  "wikidata": "Q155726"
+}

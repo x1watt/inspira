@@ -1,0 +1,29 @@
+{
+  "id": "event-1633-06-22-galileo-abjures",
+  "title": "Galileo is forced to recant heliocentrism",
+  "year": 1633,
+  "month": 6,
+  "day": 22,
+  "calendar": "gregorian",
+  "summary": "The Roman Inquisition found Galileo vehemently suspect of heresy, and he formally abjured the view that the Earth moves around the Sun; he spent the rest of his life under house arrest.",
+  "reason": "His Dialogue Concerning the Two Chief World Systems had defended Copernicus and offended Pope Urban VIII.",
+  "significance": "The trial became the classic example of conflict between science and religious authority.",
+  "participants": [
+    "Galileo Galilei",
+    "Roman Inquisition",
+    "Pope Urban VIII"
+  ],
+  "countries": [
+    "Italy"
+  ],
+  "place": "Santa Maria sopra Minerva, Rome, Italy",
+  "lat": 41.898,
+  "lon": 12.4777,
+  "tags": [
+    "science",
+    "religion"
+  ],
+  "weight": 70,
+  "wikipedia": "Galileo affair",
+  "wikidata": "Q2517983"
+}

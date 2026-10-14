@@ -1,0 +1,30 @@
+{
+  "id": "event-bc217-06-21-battle-of-lake-trasimene",
+  "title": "Hannibal ambushes the Romans at Lake Trasimene",
+  "year": -217,
+  "month": 6,
+  "day": 21,
+  "calendar": "julian",
+  "summary": "Hannibal trapped a Roman army under the consul Gaius Flaminius on the northern shore of Lake Trasimene and destroyed it. Flaminius was killed.",
+  "reason": "During the Second Punic War Hannibal had crossed the Alps and was seeking to break Roman power in Italy.",
+  "significance": "It remains one of the largest ambushes in military history and spread panic in Rome.",
+  "participants": [
+    "Hannibal",
+    "Carthage",
+    "Roman Republic",
+    "Gaius Flaminius"
+  ],
+  "countries": [
+    "Italy",
+    "Tunisia"
+  ],
+  "place": "Lake Trasimene, Umbria, Italy",
+  "lat": 43.2073,
+  "lon": 12.079,
+  "tags": [
+    "war"
+  ],
+  "weight": 60,
+  "wikipedia": "Battle of Lake Trasimene",
+  "wikidata": "Q207250"
+}

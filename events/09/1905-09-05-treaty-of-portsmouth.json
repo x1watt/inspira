@@ -1,0 +1,32 @@
+{
+  "id": "event-1905-09-05-treaty-of-portsmouth",
+  "title": "Treaty of Portsmouth ends the Russo-Japanese War",
+  "year": 1905,
+  "month": 9,
+  "day": 5,
+  "calendar": "gregorian",
+  "summary": "Russia and Japan signed a peace treaty at the Portsmouth Naval Shipyard in the United States, mediated by President Theodore Roosevelt; Japan gained Port Arthur, southern Sakhalin and control over Korea.",
+  "reason": "Both sides were exhausted: Russia faced revolution at home and Japan was near the limit of its finances.",
+  "significance": "It confirmed Japan as a great power and earned Roosevelt the Nobel Peace Prize.",
+  "participants": [
+    "Empire of Japan",
+    "Russian Empire",
+    "Theodore Roosevelt",
+    "Sergei Witte",
+    "Komura Jutaro"
+  ],
+  "countries": [
+    "United States",
+    "Japan",
+    "Russia"
+  ],
+  "place": "Portsmouth Naval Shipyard, Kittery, United States",
+  "lat": 43.0718,
+  "lon": -70.7626,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 52,
+  "wikipedia": "Treaty of Portsmouth",
+  "wikidata": "Q548067"
+}

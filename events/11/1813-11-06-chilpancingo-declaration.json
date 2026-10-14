@@ -1,0 +1,29 @@
+{
+  "id": "event-1813-11-06-chilpancingo-declaration",
+  "title": "Congress of Chilpancingo declares Mexican independence",
+  "year": 1813,
+  "month": 11,
+  "day": 6,
+  "calendar": "gregorian",
+  "summary": "The Congress of Anahuac, convened by Jose Maria Morelos, signed the first formal declaration of Mexico's independence from Spain.",
+  "reason": "Morelos sought to give the insurgency a government and a political program.",
+  "significance": "It was the first official declaration of Mexican independence.",
+  "participants": [
+    "Jose Maria Morelos",
+    "Congress of Chilpancingo"
+  ],
+  "countries": [
+    "Mexico",
+    "Spain"
+  ],
+  "place": "Chilpancingo, Guerrero, Mexico",
+  "lat": 17.551,
+  "lon": -99.5,
+  "tags": [
+    "revolution",
+    "politics"
+  ],
+  "weight": 50,
+  "wikipedia": "Solemn Act of the Declaration of Independence of Northern America",
+  "wikidata": "Q2268588"
+}

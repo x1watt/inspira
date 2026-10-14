@@ -1,0 +1,29 @@
+{
+  "id": "event-1804-01-01-haiti-independence",
+  "title": "Haiti declares independence",
+  "year": 1804,
+  "month": 1,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "Jean-Jacques Dessalines proclaimed the independence of Haiti at Gonaives.",
+  "reason": "Former slaves had defeated the French army sent to restore slavery.",
+  "significance": "Haiti became the first independent Black republic and the first nation to abolish slavery permanently.",
+  "participants": [
+    "Jean-Jacques Dessalines",
+    "Haiti"
+  ],
+  "countries": [
+    "Haiti",
+    "France"
+  ],
+  "place": "Gonaives, Haiti",
+  "lat": 19.4475,
+  "lon": -72.6883,
+  "tags": [
+    "revolution",
+    "rights"
+  ],
+  "weight": 85,
+  "wikipedia": "Haitian Declaration of Independence",
+  "wikidata": "Q17502440"
+}

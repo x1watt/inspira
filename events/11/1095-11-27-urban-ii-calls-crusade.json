@@ -1,0 +1,29 @@
+{
+  "id": "event-1095-11-27-urban-ii-calls-crusade",
+  "title": "Pope Urban II calls for the First Crusade",
+  "year": 1095,
+  "month": 11,
+  "day": 27,
+  "calendar": "julian",
+  "summary": "At the Council of Clermont, Pope Urban II urged Western Christians to march east to help Byzantium and free Jerusalem. The crowd answered with the cry Deus vult.",
+  "reason": "Byzantine Emperor Alexios I had asked for soldiers against the Seljuks, and the pope also sought to assert papal leadership.",
+  "significance": "It launched two centuries of crusading wars between Latin Christians and the Muslim world.",
+  "participants": [
+    "Pope Urban II",
+    "Catholic Church",
+    "Alexios I Komnenos"
+  ],
+  "countries": [
+    "France"
+  ],
+  "place": "Clermont-Ferrand, France",
+  "lat": 45.7772,
+  "lon": 3.087,
+  "tags": [
+    "religion",
+    "politics"
+  ],
+  "weight": 85,
+  "wikipedia": "Council of Clermont",
+  "wikidata": "Q49964"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "event-1819-08-16-peterloo-massacre",
+  "title": "Peterloo Massacre in Manchester",
+  "year": 1819,
+  "month": 8,
+  "day": 16,
+  "calendar": "gregorian",
+  "summary": "Cavalry charged a crowd of around 60,000 people gathered at St Peter's Field to demand parliamentary reform, killing about 18 and wounding hundreds.",
+  "reason": "Economic hardship after the Napoleonic Wars and the lack of representation for industrial towns fed a mass reform movement that local magistrates feared.",
+  "significance": "It became a symbol of the struggle for democratic reform in Britain and led to the founding of the Manchester Guardian.",
+  "participants": [
+    "Henry Hunt",
+    "Manchester and Salford Yeomanry",
+    "15th The King's Hussars"
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "place": "St Peter's Field, Manchester, United Kingdom",
+  "lat": 53.4777,
+  "lon": -2.2468,
+  "tags": [
+    "politics",
+    "rights"
+  ],
+  "weight": 55,
+  "wikipedia": "Peterloo Massacre",
+  "wikidata": "Q876357"
+}

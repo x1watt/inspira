@@ -1,0 +1,29 @@
+{
+  "id": "event-1942-10-03-v2-first-launch",
+  "title": "First successful V-2 rocket launch at Peenemunde",
+  "year": 1942,
+  "month": 10,
+  "day": 3,
+  "calendar": "gregorian",
+  "summary": "A German A-4 rocket, later called the V-2, flew about 190 kilometres from Peenemunde and reached the edge of space.",
+  "reason": "The German army had funded Wernher von Braun's rocket programme as a long-range weapon not limited by the Versailles Treaty.",
+  "significance": "It was the first human-made object to reach space, and its technology later fed both Soviet and American space programmes.",
+  "participants": [
+    "Wernher von Braun",
+    "Walter Dornberger",
+    "Peenemunde Army Research Center"
+  ],
+  "countries": [
+    "Germany"
+  ],
+  "place": "Peenemunde, Usedom, Germany",
+  "lat": 54.1426,
+  "lon": 13.7742,
+  "tags": [
+    "technology",
+    "war"
+  ],
+  "weight": 65,
+  "wikipedia": "V-2 rocket",
+  "wikidata": "Q174640"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "event-1799-05-04-fall-of-seringapatam",
+  "title": "Tipu Sultan dies as Seringapatam falls",
+  "year": 1799,
+  "month": 5,
+  "day": 4,
+  "calendar": "gregorian",
+  "summary": "British and allied forces stormed Seringapatam, capital of Mysore. Tipu Sultan was killed defending it.",
+  "reason": "The East India Company feared Tipu's alliance with revolutionary France.",
+  "significance": "It removed the most dangerous opponent of British power in southern India.",
+  "participants": [
+    "Tipu Sultan",
+    "Kingdom of Mysore",
+    "East India Company",
+    "Arthur Wellesley",
+    "Hyderabad State"
+  ],
+  "countries": [
+    "India",
+    "United Kingdom"
+  ],
+  "place": "Srirangapatna, Karnataka, India",
+  "lat": 12.4216,
+  "lon": 76.693,
+  "tags": [
+    "war"
+  ],
+  "weight": 60,
+  "wikipedia": "Siege of Seringapatam (1799)",
+  "wikidata": "Q815204"
+}

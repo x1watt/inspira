@@ -1,0 +1,30 @@
+{
+  "id": "event-1761-01-14-third-battle-of-panipat",
+  "title": "Afghans crush the Marathas at the Third Battle of Panipat",
+  "year": 1761,
+  "month": 1,
+  "day": 14,
+  "calendar": "gregorian",
+  "summary": "The army of Ahmad Shah Durrani, joined by Indian allies, destroyed the Maratha army at Panipat north of Delhi. Tens of thousands were killed in the battle and its aftermath.",
+  "reason": "The Marathas had expanded into northern India and the Punjab, clashing with Durrani's ambitions there.",
+  "significance": "It halted Maratha expansion and left a power vacuum that the British later exploited.",
+  "participants": [
+    "Maratha Empire",
+    "Durrani Empire",
+    "Ahmad Shah Durrani",
+    "Sadashivrao Bhau"
+  ],
+  "countries": [
+    "India",
+    "Afghanistan"
+  ],
+  "place": "Panipat, Haryana, India",
+  "lat": 29.3909,
+  "lon": 76.9635,
+  "tags": [
+    "war"
+  ],
+  "weight": 70,
+  "wikipedia": "Third Battle of Panipat",
+  "wikidata": "Q1259218"
+}

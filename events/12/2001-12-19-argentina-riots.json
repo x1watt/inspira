@@ -1,0 +1,28 @@
+{
+  "id": "event-2001-12-19-argentina-riots",
+  "title": "Argentina's economic crisis erupts in riots",
+  "year": 2001,
+  "month": 12,
+  "day": 19,
+  "calendar": "gregorian",
+  "summary": "Looting and protests broke out across Argentina, and President Fernando de la Rua resigned the next day.",
+  "reason": "A recession, a freeze on bank withdrawals and an unpayable debt under a dollar peg brought the economy to collapse.",
+  "significance": "Argentina defaulted on its debt, then the largest sovereign default in history.",
+  "participants": [
+    "Fernando de la Rua",
+    "Domingo Cavallo"
+  ],
+  "countries": [
+    "Argentina"
+  ],
+  "place": "Plaza de Mayo, Buenos Aires, Argentina",
+  "lat": -34.6083,
+  "lon": -58.3712,
+  "tags": [
+    "economy",
+    "politics"
+  ],
+  "weight": 55,
+  "wikipedia": "December 2001 riots in Argentina",
+  "wikidata": "Q5115965"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "event-1953-04-25-dna-structure",
+  "title": "Watson and Crick publish the structure of DNA",
+  "year": 1953,
+  "month": 4,
+  "day": 25,
+  "calendar": "gregorian",
+  "summary": "Nature published James Watson and Francis Crick's paper proposing the double helix structure of DNA, alongside papers from King's College London.",
+  "reason": "Rosalind Franklin's X-ray images and Maurice Wilkins' work gave the evidence the Cambridge pair used to build their model.",
+  "significance": "It explained how genetic information is copied and founded molecular biology.",
+  "participants": [
+    "James Watson",
+    "Francis Crick",
+    "Rosalind Franklin",
+    "Maurice Wilkins"
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "place": "Cavendish Laboratory, Cambridge, United Kingdom",
+  "lat": 52.2053,
+  "lon": 0.1218,
+  "tags": [
+    "science"
+  ],
+  "weight": 88,
+  "wikipedia": "Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid",
+  "wikidata": "Q1895685"
+}

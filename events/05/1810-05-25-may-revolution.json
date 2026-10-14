@@ -1,0 +1,30 @@
+{
+  "id": "event-1810-05-25-may-revolution",
+  "title": "May Revolution sets up a junta in Buenos Aires",
+  "year": 1810,
+  "month": 5,
+  "day": 25,
+  "calendar": "gregorian",
+  "summary": "Residents of Buenos Aires removed the Spanish viceroy and installed the Primera Junta.",
+  "reason": "Napoleon's capture of the Spanish king left the colonies questioning who held authority.",
+  "significance": "It began the independence of Argentina.",
+  "participants": [
+    "Primera Junta",
+    "Cornelio Saavedra",
+    "Baltasar Hidalgo de Cisneros"
+  ],
+  "countries": [
+    "Argentina",
+    "Spain"
+  ],
+  "place": "Plaza de Mayo, Buenos Aires, Argentina",
+  "lat": -34.6083,
+  "lon": -58.3712,
+  "tags": [
+    "revolution",
+    "politics"
+  ],
+  "weight": 70,
+  "wikipedia": "May Revolution",
+  "wikidata": "Q838980"
+}

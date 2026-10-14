@@ -1,0 +1,30 @@
+{
+  "id": "event-1794-02-04-france-abolishes-slavery",
+  "title": "French National Convention abolishes slavery",
+  "year": 1794,
+  "month": 2,
+  "day": 4,
+  "calendar": "gregorian",
+  "summary": "The National Convention abolished slavery in all French colonies and granted citizenship to formerly enslaved people.",
+  "reason": "The slave revolt in Saint-Domingue and the arrival of its deputies in Paris pushed the Convention to act.",
+  "significance": "It was the first general abolition of colonial slavery by a European power, though Napoleon restored it in 1802.",
+  "participants": [
+    "National Convention",
+    "Jean-Baptiste Belley",
+    "Leger-Felicite Sonthonax"
+  ],
+  "countries": [
+    "France",
+    "Haiti"
+  ],
+  "place": "Paris, France",
+  "lat": 48.8566,
+  "lon": 2.3522,
+  "tags": [
+    "rights",
+    "law"
+  ],
+  "weight": 65,
+  "wikipedia": "Law of 4 February 1794",
+  "wikidata": "Q3042938"
+}

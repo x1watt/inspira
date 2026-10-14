@@ -1,0 +1,28 @@
+{
+  "id": "event-1853-03-19-taiping-capture-nanjing",
+  "title": "Taiping rebels capture Nanjing",
+  "year": 1853,
+  "month": 3,
+  "day": 19,
+  "calendar": "gregorian",
+  "summary": "The Taiping army took Nanjing after a short siege and made it the capital of their Heavenly Kingdom.",
+  "reason": "Hong Xiuquan's movement, mixing Christian ideas with anger at Qing rule and poverty, had grown into a vast army advancing down the Yangtze.",
+  "significance": "It gave the Taiping a base for a civil war that killed tens of millions and greatly weakened the Qing dynasty.",
+  "participants": [
+    "Hong Xiuquan",
+    "Taiping Heavenly Kingdom",
+    "Qing dynasty"
+  ],
+  "countries": [
+    "China"
+  ],
+  "place": "Nanjing, Jiangsu, China",
+  "lat": 32.0603,
+  "lon": 118.7969,
+  "tags": [
+    "war",
+    "revolution"
+  ],
+  "weight": 60,
+  "wikipedia": "Battle of Nanjing (1853)"
+}

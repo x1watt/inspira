@@ -1,0 +1,30 @@
+{
+  "id": "event-1947-12-23-transistor-demonstrated",
+  "title": "The transistor is demonstrated at Bell Labs",
+  "year": 1947,
+  "month": 12,
+  "day": 23,
+  "calendar": "gregorian",
+  "summary": "John Bardeen and Walter Brattain, working in William Shockley's group, demonstrated the first working point contact transistor to Bell Labs managers.",
+  "reason": "Bell Labs wanted a smaller, more reliable replacement for vacuum tubes in telephone amplifiers.",
+  "significance": "The transistor became the building block of all modern electronics.",
+  "participants": [
+    "John Bardeen",
+    "Walter Brattain",
+    "William Shockley",
+    "Bell Labs"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Bell Labs, Murray Hill, New Jersey, United States",
+  "lat": 40.6845,
+  "lon": -74.4013,
+  "tags": [
+    "technology",
+    "science"
+  ],
+  "weight": 75,
+  "wikipedia": "History of the transistor",
+  "wikidata": "Q2335216"
+}

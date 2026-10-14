@@ -1,0 +1,27 @@
+{
+  "id": "event-2010-01-12-haiti-earthquake",
+  "title": "Earthquake devastates Haiti",
+  "year": 2010,
+  "month": 1,
+  "day": 12,
+  "calendar": "gregorian",
+  "summary": "A magnitude 7.0 earthquake near Port-au-Prince killed between 100,000 and over 200,000 people.",
+  "reason": "The fault lay near a crowded capital of poorly built concrete houses.",
+  "significance": "It was one of the deadliest earthquakes ever and set back the poorest country in the Americas.",
+  "participants": [
+    "Haiti",
+    "United Nations"
+  ],
+  "countries": [
+    "Haiti"
+  ],
+  "place": "Leogane, near Port-au-Prince, Haiti",
+  "lat": 18.457,
+  "lon": -72.533,
+  "tags": [
+    "disaster"
+  ],
+  "weight": 68,
+  "wikipedia": "2010 Haiti earthquake",
+  "wikidata": "Q43777"
+}

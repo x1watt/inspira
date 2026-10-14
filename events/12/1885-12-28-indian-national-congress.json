@@ -1,0 +1,29 @@
+{
+  "id": "event-1885-12-28-indian-national-congress",
+  "title": "Indian National Congress is founded",
+  "year": 1885,
+  "month": 12,
+  "day": 28,
+  "calendar": "gregorian",
+  "summary": "Seventy-two delegates from across British India met in Bombay for the first session of the Indian National Congress.",
+  "reason": "Educated Indians and the retired official Allan Octavian Hume wanted a forum to press for a greater Indian voice in government.",
+  "significance": "It grew into the main organization of the Indian independence movement.",
+  "participants": [
+    "Allan Octavian Hume",
+    "Womesh Chunder Bonnerjee",
+    "Dadabhai Naoroji",
+    "Indian National Congress"
+  ],
+  "countries": [
+    "India"
+  ],
+  "place": "Gokuldas Tejpal Sanskrit College, Mumbai, India",
+  "lat": 18.949,
+  "lon": 72.834,
+  "tags": [
+    "politics"
+  ],
+  "weight": 70,
+  "wikipedia": "Indian National Congress",
+  "wikidata": "Q10225"
+}

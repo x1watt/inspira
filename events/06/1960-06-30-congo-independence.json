@@ -1,0 +1,29 @@
+{
+  "id": "event-1960-06-30-congo-independence",
+  "title": "Congo becomes independent from Belgium",
+  "year": 1960,
+  "month": 6,
+  "day": 30,
+  "calendar": "gregorian",
+  "summary": "The Belgian Congo became independent as the Republic of the Congo, with Patrice Lumumba as prime minister. Within days the army mutinied.",
+  "reason": "Riots in 1959 led Belgium to grant independence quickly and with little preparation.",
+  "significance": "It opened the Congo Crisis, a central Cold War conflict in Africa.",
+  "participants": [
+    "Patrice Lumumba",
+    "Joseph Kasa-Vubu",
+    "Baudouin of Belgium"
+  ],
+  "countries": [
+    "Democratic Republic of the Congo",
+    "Belgium"
+  ],
+  "place": "Leopoldville (Kinshasa), Democratic Republic of the Congo",
+  "lat": -4.4419,
+  "lon": 15.2663,
+  "tags": [
+    "politics"
+  ],
+  "weight": 55,
+  "wikipedia": "Congo Crisis",
+  "wikidata": "Q1773926"
+}

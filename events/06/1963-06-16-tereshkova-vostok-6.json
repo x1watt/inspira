@@ -1,0 +1,29 @@
+{
+  "id": "event-1963-06-16-tereshkova-vostok-6",
+  "title": "Valentina Tereshkova becomes the first woman in space",
+  "year": 1963,
+  "month": 6,
+  "day": 16,
+  "calendar": "gregorian",
+  "summary": "Soviet cosmonaut Valentina Tereshkova was launched in Vostok 6 and orbited the Earth 48 times in nearly three days.",
+  "reason": "The Soviet programme wanted another first, choosing her from a group of women parachutists.",
+  "significance": "She remains the only woman to have flown a solo space mission.",
+  "participants": [
+    "Valentina Tereshkova",
+    "Soviet space program"
+  ],
+  "countries": [
+    "Russia",
+    "Kazakhstan"
+  ],
+  "place": "Baikonur Cosmodrome, Kazakhstan",
+  "lat": 45.92,
+  "lon": 63.342,
+  "tags": [
+    "exploration",
+    "rights"
+  ],
+  "weight": 55,
+  "wikipedia": "Vostok 6",
+  "wikidata": "Q269668"
+}

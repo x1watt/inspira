@@ -1,0 +1,27 @@
+{
+  "id": "event-1813-01-28-pride-and-prejudice",
+  "title": "Jane Austen's Pride and Prejudice is published",
+  "year": 1813,
+  "month": 1,
+  "day": 28,
+  "calendar": "gregorian",
+  "summary": "Thomas Egerton published Pride and Prejudice in London, without naming its author.",
+  "reason": "Austen had revised an earlier draft after the success of Sense and Sensibility.",
+  "significance": "It became one of the most loved novels in English.",
+  "participants": [
+    "Jane Austen",
+    "Thomas Egerton"
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "place": "London, United Kingdom",
+  "lat": 51.5074,
+  "lon": -0.1278,
+  "tags": [
+    "culture"
+  ],
+  "weight": 60,
+  "wikipedia": "Pride and Prejudice",
+  "wikidata": "Q170583"
+}

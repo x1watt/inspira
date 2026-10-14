@@ -1,0 +1,31 @@
+{
+  "id": "event-bc202-10-19-battle-of-zama",
+  "title": "Scipio defeats Hannibal at Zama",
+  "year": -202,
+  "month": 10,
+  "day": 19,
+  "calendar": "julian",
+  "summary": "Scipio Africanus defeated Hannibal near Zama in North Africa, ending the Second Punic War in Rome's favour.",
+  "reason": "Scipio had carried the war to Africa, forcing Carthage to recall Hannibal from Italy to defend the city.",
+  "significance": "Carthage lost its empire and fleet, and Rome became the leading power of the western Mediterranean.",
+  "participants": [
+    "Scipio Africanus",
+    "Hannibal",
+    "Roman Republic",
+    "Carthage",
+    "Masinissa"
+  ],
+  "countries": [
+    "Tunisia",
+    "Italy"
+  ],
+  "place": "Near Zama Regia, Siliana, Tunisia",
+  "lat": 36.295,
+  "lon": 9.45,
+  "tags": [
+    "war"
+  ],
+  "weight": 80,
+  "wikipedia": "Battle of Zama",
+  "wikidata": "Q200056"
+}

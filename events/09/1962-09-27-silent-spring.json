@@ -1,0 +1,28 @@
+{
+  "id": "event-1962-09-27-silent-spring",
+  "title": "Rachel Carson publishes Silent Spring",
+  "year": 1962,
+  "month": 9,
+  "day": 27,
+  "calendar": "gregorian",
+  "summary": "Houghton Mifflin published Rachel Carson's book documenting the harm caused by pesticides such as DDT.",
+  "reason": "Carson, a marine biologist, was alarmed by the effects of widespread spraying on wildlife.",
+  "significance": "It started the modern environmental movement.",
+  "participants": [
+    "Rachel Carson",
+    "Houghton Mifflin"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Boston, Massachusetts, United States",
+  "lat": 42.3601,
+  "lon": -71.0589,
+  "tags": [
+    "science",
+    "culture"
+  ],
+  "weight": 55,
+  "wikipedia": "Silent Spring",
+  "wikidata": "Q591623"
+}

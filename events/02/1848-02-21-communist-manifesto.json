@@ -1,0 +1,30 @@
+{
+  "id": "event-1848-02-21-communist-manifesto",
+  "title": "Marx and Engels publish The Communist Manifesto",
+  "year": 1848,
+  "month": 2,
+  "day": 21,
+  "calendar": "gregorian",
+  "summary": "The Communist League published a short pamphlet by Karl Marx and Friedrich Engels in London, calling on the workers of all countries to unite.",
+  "reason": "The league commissioned a program, and Marx and Engels wanted to set out their view of history as class struggle and the coming end of capitalism.",
+  "significance": "It became one of the most influential political texts ever written, inspiring socialist and communist movements worldwide.",
+  "participants": [
+    "Karl Marx",
+    "Friedrich Engels",
+    "Communist League"
+  ],
+  "countries": [
+    "United Kingdom",
+    "Germany"
+  ],
+  "place": "Liverpool Street, London, United Kingdom",
+  "lat": 51.518,
+  "lon": -0.081,
+  "tags": [
+    "politics",
+    "culture"
+  ],
+  "weight": 85,
+  "wikipedia": "The Communist Manifesto",
+  "wikidata": "Q40591"
+}

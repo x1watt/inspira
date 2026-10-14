@@ -1,0 +1,29 @@
+{
+  "id": "event-1986-01-28-challenger-disaster",
+  "title": "Space Shuttle Challenger breaks up after launch",
+  "year": 1986,
+  "month": 1,
+  "day": 28,
+  "calendar": "gregorian",
+  "summary": "Space Shuttle Challenger broke apart 73 seconds after lift-off, killing all seven crew, including teacher Christa McAuliffe.",
+  "reason": "A rubber O-ring seal in a booster rocket failed in the cold weather.",
+  "significance": "It halted the shuttle programme for almost three years.",
+  "participants": [
+    "NASA",
+    "Christa McAuliffe",
+    "Dick Scobee"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Off Cape Canaveral, Florida, United States",
+  "lat": 28.64,
+  "lon": -80.28,
+  "tags": [
+    "disaster",
+    "exploration"
+  ],
+  "weight": 55,
+  "wikipedia": "Space Shuttle Challenger disaster",
+  "wikidata": "Q858145"
+}

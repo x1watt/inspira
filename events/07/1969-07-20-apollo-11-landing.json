@@ -1,0 +1,30 @@
+{
+  "id": "event-1969-07-20-apollo-11-landing",
+  "title": "Apollo 11 lands on the Moon",
+  "year": 1969,
+  "month": 7,
+  "day": 20,
+  "calendar": "gregorian",
+  "summary": "Neil Armstrong and Buzz Aldrin landed the lunar module Eagle on the Sea of Tranquility, and Armstrong became the first person to walk on the Moon.",
+  "reason": "President Kennedy had set the goal of a Moon landing within the decade, in the space race with the Soviet Union.",
+  "significance": "It was the first time humans set foot on another world.",
+  "participants": [
+    "Neil Armstrong",
+    "Buzz Aldrin",
+    "Michael Collins",
+    "NASA"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Sea of Tranquility, Moon",
+  "lat": null,
+  "lon": null,
+  "tags": [
+    "exploration",
+    "technology"
+  ],
+  "weight": 98,
+  "wikipedia": "Apollo 11",
+  "wikidata": "Q43653"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "event-1865-02-08-mendel-plant-hybridization",
+  "title": "Mendel presents his laws of inheritance",
+  "year": 1865,
+  "month": 2,
+  "day": 8,
+  "calendar": "gregorian",
+  "summary": "Gregor Mendel read the first part of his paper on pea plant hybridization to the Natural History Society of Brno, describing how traits are inherited in fixed ratios.",
+  "reason": "Mendel had spent eight years crossing thousands of pea plants in his monastery garden to find the rules of heredity.",
+  "significance": "Ignored for decades, his work became the foundation of genetics after its rediscovery in 1900.",
+  "participants": [
+    "Gregor Mendel",
+    "Natural History Society of Brno"
+  ],
+  "countries": [
+    "Czech Republic"
+  ],
+  "place": "Brno, Czech Republic",
+  "lat": 49.1951,
+  "lon": 16.6068,
+  "tags": [
+    "science"
+  ],
+  "weight": 65,
+  "wikipedia": "Experiments on Plant Hybridization",
+  "wikidata": "Q5421194"
+}

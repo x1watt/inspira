@@ -1,0 +1,28 @@
+{
+  "id": "event-1967-05-30-biafra-secession",
+  "title": "Biafra declares independence from Nigeria",
+  "year": 1967,
+  "month": 5,
+  "day": 30,
+  "calendar": "gregorian",
+  "summary": "Military governor Odumegwu Ojukwu declared the Eastern Region of Nigeria independent as the Republic of Biafra.",
+  "reason": "Massacres of Igbo people in the north after the 1966 coups convinced Igbo leaders they were unsafe in Nigeria.",
+  "significance": "The civil war that followed caused a famine that killed perhaps a million people.",
+  "participants": [
+    "Odumegwu Ojukwu",
+    "Yakubu Gowon"
+  ],
+  "countries": [
+    "Nigeria"
+  ],
+  "place": "Enugu, Nigeria",
+  "lat": 6.4584,
+  "lon": 7.5464,
+  "tags": [
+    "war",
+    "politics"
+  ],
+  "weight": 53,
+  "wikipedia": "Biafra",
+  "wikidata": "Q178469"
+}

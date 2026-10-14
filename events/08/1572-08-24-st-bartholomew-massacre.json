@@ -1,0 +1,30 @@
+{
+  "id": "event-1572-08-24-st-bartholomew-massacre",
+  "title": "The St. Bartholomew's Day massacre begins in Paris",
+  "year": 1572,
+  "month": 8,
+  "day": 24,
+  "calendar": "julian",
+  "summary": "Catholic mobs and royal troops killed the Huguenot leader Admiral Coligny and thousands of Protestants in Paris, and the killings spread to other French cities.",
+  "reason": "Huguenot nobles had gathered for the wedding of Henry of Navarre and Margaret of Valois, and the court, led by Catherine de' Medici, feared a Protestant uprising.",
+  "significance": "It reignited the French Wars of Religion and became a symbol of religious violence.",
+  "participants": [
+    "Catherine de' Medici",
+    "Charles IX of France",
+    "Gaspard de Coligny",
+    "Huguenots"
+  ],
+  "countries": [
+    "France"
+  ],
+  "place": "Paris, France",
+  "lat": 48.861,
+  "lon": 2.338,
+  "tags": [
+    "religion",
+    "politics"
+  ],
+  "weight": 68,
+  "wikipedia": "St. Bartholomew's Day massacre",
+  "wikidata": "Q163891"
+}

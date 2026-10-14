@@ -1,0 +1,28 @@
+{
+  "id": "event-1642-11-24-tasman-sights-tasmania",
+  "title": "Abel Tasman sights Tasmania",
+  "year": 1642,
+  "month": 11,
+  "day": 24,
+  "calendar": "gregorian",
+  "summary": "The Dutch navigator Abel Tasman sighted the west coast of an island he named Van Diemen's Land, now Tasmania.",
+  "reason": "The Dutch East India Company sent him from Batavia to explore the unknown southern lands and possible routes to South America.",
+  "significance": "It was the first European sighting of Tasmania, and weeks later Tasman also reached New Zealand.",
+  "participants": [
+    "Abel Tasman",
+    "Dutch East India Company"
+  ],
+  "countries": [
+    "Australia",
+    "Netherlands"
+  ],
+  "place": "West coast of Tasmania, near Macquarie Harbour, Australia",
+  "lat": -42.15,
+  "lon": 145.2,
+  "tags": [
+    "exploration"
+  ],
+  "weight": 56,
+  "wikipedia": "Abel Tasman",
+  "wikidata": "Q42188"
+}

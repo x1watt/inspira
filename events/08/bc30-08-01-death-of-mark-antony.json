@@ -1,0 +1,31 @@
+{
+  "id": "event-bc30-08-01-death-of-mark-antony",
+  "title": "Mark Antony dies as Octavian takes Alexandria",
+  "year": -30,
+  "month": 8,
+  "day": 1,
+  "calendar": "julian",
+  "summary": "As Octavian's army entered Alexandria, Mark Antony stabbed himself on hearing a false report of Cleopatra's death and died in her arms. Cleopatra killed herself days later.",
+  "reason": "After Actium, Antony's forces deserted him, and Octavian advanced on Egypt to finish the war.",
+  "significance": "Egypt became a Roman province, ending the last great Hellenistic kingdom.",
+  "participants": [
+    "Mark Antony",
+    "Octavian",
+    "Cleopatra",
+    "Ptolemaic Kingdom"
+  ],
+  "countries": [
+    "Egypt",
+    "Italy"
+  ],
+  "place": "Alexandria, Egypt",
+  "lat": 31.2001,
+  "lon": 29.9187,
+  "tags": [
+    "war",
+    "politics"
+  ],
+  "weight": 68,
+  "wikipedia": "Mark Antony",
+  "wikidata": "Q51673"
+}

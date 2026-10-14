@@ -1,0 +1,30 @@
+{
+  "id": "event-1979-12-27-operation-storm-333",
+  "title": "Soviet forces storm the palace in Kabul",
+  "year": 1979,
+  "month": 12,
+  "day": 27,
+  "calendar": "gregorian",
+  "summary": "Soviet special forces stormed the Tajbeg Palace and killed Afghan leader Hafizullah Amin as Soviet troops poured into Afghanistan.",
+  "reason": "Moscow distrusted Amin and feared the collapse of the communist government facing revolt.",
+  "significance": "It began the Soviet war in Afghanistan, which drained the Soviet Union.",
+  "participants": [
+    "Soviet Army",
+    "KGB",
+    "Hafizullah Amin",
+    "Babrak Karmal"
+  ],
+  "countries": [
+    "Afghanistan",
+    "Russia"
+  ],
+  "place": "Tajbeg Palace, Kabul, Afghanistan",
+  "lat": 34.4654,
+  "lon": 69.1206,
+  "tags": [
+    "war"
+  ],
+  "weight": 73,
+  "wikipedia": "Operation Storm-333",
+  "wikidata": "Q975430"
+}

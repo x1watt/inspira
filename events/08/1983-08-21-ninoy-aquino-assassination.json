@@ -1,0 +1,27 @@
+{
+  "id": "event-1983-08-21-ninoy-aquino-assassination",
+  "title": "Benigno Aquino is assassinated at Manila airport",
+  "year": 1983,
+  "month": 8,
+  "day": 21,
+  "calendar": "gregorian",
+  "summary": "Opposition leader Benigno Aquino Jr. was shot dead as he left the plane on his return from exile.",
+  "reason": "Aquino came back to challenge Ferdinand Marcos's dictatorship.",
+  "significance": "His murder united the opposition that overthrew Marcos in 1986.",
+  "participants": [
+    "Benigno Aquino Jr.",
+    "Ferdinand Marcos"
+  ],
+  "countries": [
+    "Philippines"
+  ],
+  "place": "Manila International Airport, Philippines",
+  "lat": 14.5086,
+  "lon": 121.0198,
+  "tags": [
+    "politics"
+  ],
+  "weight": 51,
+  "wikipedia": "Assassination of Ninoy Aquino",
+  "wikidata": "Q4808502"
+}

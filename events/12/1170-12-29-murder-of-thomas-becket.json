@@ -1,0 +1,29 @@
+{
+  "id": "event-1170-12-29-murder-of-thomas-becket",
+  "title": "Archbishop Thomas Becket is murdered in Canterbury",
+  "year": 1170,
+  "month": 12,
+  "day": 29,
+  "calendar": "julian",
+  "summary": "Four knights of King Henry II killed Thomas Becket, Archbishop of Canterbury, inside his cathedral.",
+  "reason": "Becket had resisted the king's attempts to control the Church, and the knights acted on Henry's angry words.",
+  "significance": "Becket was quickly made a saint, and Henry had to do public penance and give way on church rights.",
+  "participants": [
+    "Thomas Becket",
+    "Henry II of England",
+    "Kingdom of England"
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "place": "Canterbury Cathedral, United Kingdom",
+  "lat": 51.2798,
+  "lon": 1.0828,
+  "tags": [
+    "religion",
+    "politics"
+  ],
+  "weight": 55,
+  "wikipedia": "Thomas Becket",
+  "wikidata": "Q192236"
+}

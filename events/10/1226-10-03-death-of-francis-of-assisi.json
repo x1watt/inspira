@@ -1,0 +1,27 @@
+{
+  "id": "event-1226-10-03-death-of-francis-of-assisi",
+  "title": "Death of Francis of Assisi",
+  "year": 1226,
+  "month": 10,
+  "day": 3,
+  "calendar": "julian",
+  "summary": "Francis of Assisi, founder of the Franciscan friars, died at the Porziuncola chapel near Assisi. He was made a saint less than two years later.",
+  "reason": "His health had been broken by illness and his life of poverty.",
+  "significance": "His order and his ideal of poverty and love of nature deeply shaped Christianity.",
+  "participants": [
+    "Francis of Assisi",
+    "Franciscans"
+  ],
+  "countries": [
+    "Italy"
+  ],
+  "place": "Porziuncola, Assisi, Italy",
+  "lat": 43.058,
+  "lon": 12.583,
+  "tags": [
+    "religion"
+  ],
+  "weight": 55,
+  "wikipedia": "Francis of Assisi",
+  "wikidata": "Q676555"
+}

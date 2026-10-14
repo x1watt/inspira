@@ -1,0 +1,26 @@
+{
+  "id": "event-2020-08-04-beirut-explosion",
+  "title": "Massive explosion devastates Beirut",
+  "year": 2020,
+  "month": 8,
+  "day": 4,
+  "calendar": "gregorian",
+  "summary": "Ammonium nitrate stored in Beirut's port exploded, killing over 200 people and wrecking much of the city.",
+  "reason": "About 2,750 tonnes of the chemical had been left unsafely in a warehouse for six years.",
+  "significance": "It became a symbol of corruption and state failure in Lebanon.",
+  "participants": [
+    "Lebanon"
+  ],
+  "countries": [
+    "Lebanon"
+  ],
+  "place": "Port of Beirut, Lebanon",
+  "lat": 33.9013,
+  "lon": 35.5193,
+  "tags": [
+    "disaster"
+  ],
+  "weight": 55,
+  "wikipedia": "2020 Beirut explosion",
+  "wikidata": "Q98073118"
+}

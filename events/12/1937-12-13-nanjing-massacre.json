@@ -1,0 +1,30 @@
+{
+  "id": "event-1937-12-13-nanjing-massacre",
+  "title": "Japanese troops capture Nanjing and begin the Nanjing Massacre",
+  "year": 1937,
+  "month": 12,
+  "day": 13,
+  "calendar": "gregorian",
+  "summary": "Japanese forces took China's capital Nanjing and over the following weeks killed tens of thousands to hundreds of thousands of civilians and prisoners and committed mass rapes.",
+  "reason": "Japanese commanders tolerated and encouraged brutality after fierce fighting at Shanghai.",
+  "significance": "It remains one of the worst atrocities of the twentieth century and a deep wound in Chinese-Japanese relations.",
+  "participants": [
+    "Imperial Japanese Army",
+    "Republic of China",
+    "Iwane Matsui"
+  ],
+  "countries": [
+    "China",
+    "Japan"
+  ],
+  "place": "Nanjing, China",
+  "lat": 32.0603,
+  "lon": 118.7969,
+  "tags": [
+    "war",
+    "rights"
+  ],
+  "weight": 72,
+  "wikipedia": "Nanjing Massacre",
+  "wikidata": "Q192055"
+}

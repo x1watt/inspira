@@ -1,0 +1,29 @@
+{
+  "id": "event-1632-11-16-battle-of-lutzen",
+  "title": "Gustavus Adolphus is killed at the Battle of Lutzen",
+  "year": 1632,
+  "month": 11,
+  "day": 16,
+  "calendar": "gregorian",
+  "summary": "Swedish forces defeated the imperial army of Albrecht von Wallenstein near Lutzen in Saxony, but King Gustavus Adolphus died in the fighting.",
+  "reason": "Sweden had entered the Thirty Years' War to protect German Protestants and its own power on the Baltic.",
+  "significance": "The loss of its king weakened the Protestant cause and prolonged the war.",
+  "participants": [
+    "Gustavus Adolphus",
+    "Swedish Empire",
+    "Albrecht von Wallenstein",
+    "Holy Roman Empire"
+  ],
+  "countries": [
+    "Germany",
+    "Sweden"
+  ],
+  "place": "Lutzen, Saxony-Anhalt, Germany",
+  "lat": 51.26,
+  "lon": 12.14,
+  "tags": [
+    "war"
+  ],
+  "weight": 62,
+  "wikipedia": "Battle of Lützen (1632)"
+}

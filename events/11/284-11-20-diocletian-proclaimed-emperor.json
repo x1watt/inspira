@@ -1,0 +1,29 @@
+{
+  "id": "event-284-11-20-diocletian-proclaimed-emperor",
+  "title": "Diocletian is proclaimed Roman emperor",
+  "year": 284,
+  "month": 11,
+  "day": 20,
+  "calendar": "julian",
+  "summary": "The army acclaimed Diocletian emperor near Nicomedia after the death of Emperor Numerian. He personally killed the prefect Aper, accused of Numerian's murder.",
+  "reason": "The Roman Empire was deep in the Crisis of the Third Century, with emperors rapidly made and killed by the army.",
+  "significance": "His reforms, including the Tetrarchy, ended the crisis and reshaped the late Roman state.",
+  "participants": [
+    "Diocletian",
+    "Numerian",
+    "Arrius Aper",
+    "Roman army"
+  ],
+  "countries": [
+    "Turkey"
+  ],
+  "place": "Nicomedia (Izmit), Turkey",
+  "lat": 40.7654,
+  "lon": 29.9408,
+  "tags": [
+    "politics"
+  ],
+  "weight": 70,
+  "wikipedia": "Diocletian",
+  "wikidata": "Q43107"
+}

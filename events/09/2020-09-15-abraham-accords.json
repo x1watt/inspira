@@ -1,0 +1,33 @@
+{
+  "id": "event-2020-09-15-abraham-accords",
+  "title": "Abraham Accords are signed",
+  "year": 2020,
+  "month": 9,
+  "day": 15,
+  "calendar": "gregorian",
+  "summary": "Israel, the United Arab Emirates and Bahrain signed agreements at the White House to normalise relations.",
+  "reason": "Shared hostility to Iran and US mediation brought the Gulf states and Israel together.",
+  "significance": "They were the first Arab-Israeli normalisation deals since 1994.",
+  "participants": [
+    "Israel",
+    "United Arab Emirates",
+    "Bahrain",
+    "Benjamin Netanyahu",
+    "Donald Trump"
+  ],
+  "countries": [
+    "Israel",
+    "United Arab Emirates",
+    "Bahrain",
+    "United States"
+  ],
+  "place": "White House, Washington, D.C., United States",
+  "lat": 38.8977,
+  "lon": -77.0365,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 55,
+  "wikipedia": "Abraham Accords",
+  "wikidata": "Q99495661"
+}

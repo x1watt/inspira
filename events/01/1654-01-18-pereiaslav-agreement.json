@@ -1,0 +1,32 @@
+{
+  "id": "event-1654-01-18-pereiaslav-agreement",
+  "title": "Cossacks swear allegiance to the Tsar at Pereiaslav",
+  "year": 1654,
+  "month": 1,
+  "day": 18,
+  "calendar": "gregorian",
+  "summary": "A Cossack council led by Hetman Bohdan Khmelnytsky agreed at Pereiaslav to place the Cossack Hetmanate under the protection of the Russian tsar.",
+  "reason": "The Cossacks, in revolt against Poland-Lithuania since 1648, needed a strong ally to survive.",
+  "significance": "It brought much of Ukraine under Russian rule and remains contested in Ukrainian and Russian memory.",
+  "participants": [
+    "Bohdan Khmelnytsky",
+    "Cossack Hetmanate",
+    "Tsardom of Russia",
+    "Alexis of Russia"
+  ],
+  "countries": [
+    "Ukraine",
+    "Russia",
+    "Poland"
+  ],
+  "place": "Pereiaslav, Kyiv Oblast, Ukraine",
+  "lat": 50.065,
+  "lon": 31.445,
+  "tags": [
+    "diplomacy",
+    "politics"
+  ],
+  "weight": 60,
+  "wikipedia": "Pereiaslav Agreement",
+  "wikidata": "Q525758"
+}

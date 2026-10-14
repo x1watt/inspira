@@ -1,0 +1,27 @@
+{
+  "id": "event-bc19-09-21-death-of-virgil",
+  "title": "The poet Virgil dies at Brundisium",
+  "year": -19,
+  "month": 9,
+  "day": 21,
+  "calendar": "julian",
+  "summary": "Virgil, author of the Aeneid, died at Brundisium after falling ill on a journey back from Greece. He had asked for the unfinished epic to be burned, but Augustus had it published.",
+  "reason": "Virgil had spent his last decade writing the Aeneid, a national epic for Augustan Rome, and fell ill while travelling.",
+  "significance": "The Aeneid survived and became the central work of Latin literature.",
+  "participants": [
+    "Virgil",
+    "Augustus"
+  ],
+  "countries": [
+    "Italy"
+  ],
+  "place": "Brundisium (Brindisi), Italy",
+  "lat": 40.6327,
+  "lon": 17.9418,
+  "tags": [
+    "culture"
+  ],
+  "weight": 50,
+  "wikipedia": "Virgil",
+  "wikidata": "Q1398"
+}

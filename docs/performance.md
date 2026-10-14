@@ -6,8 +6,8 @@ method next to each number.
 
 ## Rules
 
-1. Nothing heavy on the UI isolate. `QuoteRepository.load` and
-   `StoryRepository.load` decode their bundles with `compute`, which uses
+1. Nothing heavy on the UI isolate. `QuoteRepository.load`,
+   `StoryRepository.load` and `EventRepository.load` decode their bundles with `compute`, which uses
    a background isolate on Android and desktop. The web has no isolates,
    so there the decode runs inline once at start-up, behind the loading
    spinner. `rootBundle.loadString` already decodes large assets off the
@@ -34,7 +34,7 @@ method next to each number.
    from earlier sessions scans the seen ids (capped at 4000) once per quiz,
    which is every 3 to 8 cards in the feed.
 9. `ProgressStore` writes its JSON on XP, quiz and goal changes only.
-   Marking a card seen or nudging weights stays in memory until the next
+   Marking a card seen or read, or nudging weights, stays in memory until the next
    write, so a swipe never encodes the seen list.
 10. Animations on feed pages run once (slow zoom 25 s, confetti 2.6 s,
     XP and heart bursts under 1.2 s); nothing repeats forever.

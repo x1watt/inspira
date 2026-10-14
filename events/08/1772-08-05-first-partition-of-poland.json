@@ -1,0 +1,33 @@
+{
+  "id": "event-1772-08-05-first-partition-of-poland",
+  "title": "Russia, Prussia and Austria agree the First Partition of Poland",
+  "year": 1772,
+  "month": 8,
+  "day": 5,
+  "calendar": "gregorian",
+  "summary": "Russia, Prussia and Austria signed agreements in Saint Petersburg to annex about a third of the Polish-Lithuanian Commonwealth.",
+  "reason": "The neighbouring powers wanted to keep a balance among themselves while exploiting the weakness of the Commonwealth.",
+  "significance": "It began the process that erased Poland from the map by 1795.",
+  "participants": [
+    "Russian Empire",
+    "Kingdom of Prussia",
+    "Habsburg Monarchy",
+    "Polish-Lithuanian Commonwealth"
+  ],
+  "countries": [
+    "Poland",
+    "Russia",
+    "Germany",
+    "Austria",
+    "Lithuania"
+  ],
+  "place": "Saint Petersburg, Russia",
+  "lat": 59.9343,
+  "lon": 30.3351,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 65,
+  "wikipedia": "Partitions of Poland",
+  "wikidata": "Q597506"
+}

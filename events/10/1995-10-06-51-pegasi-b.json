@@ -1,0 +1,29 @@
+{
+  "id": "event-1995-10-06-51-pegasi-b",
+  "title": "First planet found orbiting a Sun-like star",
+  "year": 1995,
+  "month": 10,
+  "day": 6,
+  "calendar": "gregorian",
+  "summary": "Michel Mayor and Didier Queloz announced 51 Pegasi b, a giant planet circling close to a Sun-like star.",
+  "reason": "A new high-precision spectrograph let them detect the tiny wobble a planet causes in its star.",
+  "significance": "It opened the field of exoplanets and earned a Nobel Prize in 2019.",
+  "participants": [
+    "Michel Mayor",
+    "Didier Queloz",
+    "University of Geneva"
+  ],
+  "countries": [
+    "Switzerland",
+    "France"
+  ],
+  "place": "Haute-Provence Observatory, France",
+  "lat": 43.9314,
+  "lon": 5.7128,
+  "tags": [
+    "science"
+  ],
+  "weight": 65,
+  "wikipedia": "51 Pegasi b",
+  "wikidata": "Q242309"
+}

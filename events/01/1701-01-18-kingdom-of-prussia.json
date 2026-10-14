@@ -1,0 +1,29 @@
+{
+  "id": "event-1701-01-18-kingdom-of-prussia",
+  "title": "Frederick I crowns himself King in Prussia",
+  "year": 1701,
+  "month": 1,
+  "day": 18,
+  "calendar": "gregorian",
+  "summary": "Elector Frederick III of Brandenburg crowned himself Frederick I, King in Prussia, in Konigsberg.",
+  "reason": "He won the emperor's consent by promising troops for the coming War of the Spanish Succession.",
+  "significance": "The new Kingdom of Prussia grew into the power that later unified Germany.",
+  "participants": [
+    "Frederick I of Prussia",
+    "Brandenburg-Prussia",
+    "Leopold I, Holy Roman Emperor"
+  ],
+  "countries": [
+    "Russia",
+    "Germany"
+  ],
+  "place": "Konigsberg, now Kaliningrad, Russia",
+  "lat": 54.7104,
+  "lon": 20.4522,
+  "tags": [
+    "politics"
+  ],
+  "weight": 60,
+  "wikipedia": "Frederick I of Prussia",
+  "wikidata": "Q151826"
+}

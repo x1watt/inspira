@@ -1,0 +1,27 @@
+{
+  "id": "event-1980-05-08-smallpox-eradicated",
+  "title": "The WHO declares smallpox eradicated",
+  "year": 1980,
+  "month": 5,
+  "day": 8,
+  "calendar": "gregorian",
+  "summary": "The World Health Assembly in Geneva declared that smallpox had been eradicated, the first human disease wiped out.",
+  "reason": "A global vaccination and surveillance campaign since 1967 had tracked down the last cases.",
+  "significance": "It is one of the greatest achievements of public health.",
+  "participants": [
+    "World Health Organization",
+    "Donald Henderson"
+  ],
+  "countries": [
+    "Switzerland"
+  ],
+  "place": "Geneva, Switzerland",
+  "lat": 46.2044,
+  "lon": 6.1432,
+  "tags": [
+    "medicine"
+  ],
+  "weight": 77,
+  "wikipedia": "Eradication of infectious diseases",
+  "wikidata": "Q12214"
+}

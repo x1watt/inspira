@@ -1,0 +1,29 @@
+{
+  "id": "event-1920-11-02-kdka-broadcast",
+  "title": "KDKA makes the first commercial radio broadcast",
+  "year": 1920,
+  "month": 11,
+  "day": 2,
+  "calendar": "gregorian",
+  "summary": "Pittsburgh station KDKA broadcast the results of the Harding-Cox presidential election, widely regarded as the start of commercial radio broadcasting.",
+  "reason": "Westinghouse launched the station to create demand for the radio receivers it manufactured.",
+  "significance": "It launched the era of mass broadcasting that transformed news, politics and entertainment.",
+  "participants": [
+    "KDKA",
+    "Westinghouse Electric",
+    "Frank Conrad"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Pittsburgh, Pennsylvania, United States",
+  "lat": 40.4406,
+  "lon": -79.9959,
+  "tags": [
+    "technology",
+    "culture"
+  ],
+  "weight": 52,
+  "wikipedia": "KDKA (AM)",
+  "wikidata": "Q1718482"
+}

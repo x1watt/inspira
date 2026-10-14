@@ -1,0 +1,31 @@
+{
+  "id": "event-1764-10-22-battle-of-buxar",
+  "title": "East India Company wins the Battle of Buxar",
+  "year": 1764,
+  "month": 10,
+  "day": 22,
+  "calendar": "gregorian",
+  "summary": "Company forces under Hector Munro defeated the combined armies of Mir Qasim, the Nawab of Awadh and the Mughal emperor Shah Alam II.",
+  "reason": "Mir Qasim had tried to assert independence from the Company and allied with other Indian rulers against it.",
+  "significance": "It confirmed Company supremacy in eastern India.",
+  "participants": [
+    "East India Company",
+    "Hector Munro",
+    "Mir Qasim",
+    "Shuja-ud-Daula",
+    "Shah Alam II"
+  ],
+  "countries": [
+    "India",
+    "United Kingdom"
+  ],
+  "place": "Buxar, Bihar, India",
+  "lat": 25.5647,
+  "lon": 83.9777,
+  "tags": [
+    "war"
+  ],
+  "weight": 60,
+  "wikipedia": "Battle of Buxar",
+  "wikidata": "Q2355467"
+}

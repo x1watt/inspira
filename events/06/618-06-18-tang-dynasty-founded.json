@@ -1,0 +1,28 @@
+{
+  "id": "event-618-06-18-tang-dynasty-founded",
+  "title": "Li Yuan proclaims the Tang dynasty",
+  "year": 618,
+  "month": 6,
+  "day": 18,
+  "calendar": "julian",
+  "summary": "Li Yuan declared himself emperor in Chang'an, founding the Tang dynasty as the Sui dynasty collapsed. He is known as Emperor Gaozu of Tang.",
+  "reason": "Failed wars in Korea, costly public works and revolts had broken Sui rule, and the murder of Emperor Yang left the throne open.",
+  "significance": "The Tang ruled China for almost three centuries in a golden age of culture, trade and power.",
+  "participants": [
+    "Li Yuan",
+    "Tang dynasty",
+    "Sui dynasty"
+  ],
+  "countries": [
+    "China"
+  ],
+  "place": "Chang'an, Xi'an, China",
+  "lat": 34.2658,
+  "lon": 108.9541,
+  "tags": [
+    "politics"
+  ],
+  "weight": 75,
+  "wikipedia": "Tang dynasty",
+  "wikidata": "Q9683"
+}

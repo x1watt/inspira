@@ -1,0 +1,28 @@
+{
+  "id": "event-96-09-18-assassination-of-domitian",
+  "title": "Emperor Domitian is assassinated",
+  "year": 96,
+  "month": 9,
+  "day": 18,
+  "calendar": "julian",
+  "summary": "Domitian was stabbed to death in his palace by court officials. The Senate named the elderly senator Nerva emperor the same day.",
+  "reason": "Domitian's autocratic rule and treason trials had made the Senate and his own household fear for their lives.",
+  "significance": "Nerva's accession began the era of the Five Good Emperors.",
+  "participants": [
+    "Domitian",
+    "Nerva",
+    "Roman Senate"
+  ],
+  "countries": [
+    "Italy"
+  ],
+  "place": "Palatine Hill, Rome, Italy",
+  "lat": 41.8892,
+  "lon": 12.4875,
+  "tags": [
+    "politics"
+  ],
+  "weight": 55,
+  "wikipedia": "Domitian",
+  "wikidata": "Q1423"
+}

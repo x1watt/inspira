@@ -1,0 +1,31 @@
+{
+  "id": "event-1947-11-29-un-partition-plan",
+  "title": "UN votes to partition Palestine",
+  "year": 1947,
+  "month": 11,
+  "day": 29,
+  "calendar": "gregorian",
+  "summary": "The United Nations General Assembly adopted Resolution 181, recommending that Mandatory Palestine be divided into Jewish and Arab states with Jerusalem under international control.",
+  "reason": "Britain had given up the mandate, and the UN sought a solution to the conflicting claims of Jews and Arabs.",
+  "significance": "The vote led directly to the creation of Israel and the first Arab-Israeli war.",
+  "participants": [
+    "United Nations General Assembly",
+    "Jewish Agency",
+    "Arab Higher Committee"
+  ],
+  "countries": [
+    "Israel",
+    "Palestine",
+    "United Kingdom"
+  ],
+  "place": "Flushing Meadows, New York, United States",
+  "lat": 40.74,
+  "lon": -73.8407,
+  "tags": [
+    "diplomacy",
+    "politics"
+  ],
+  "weight": 73,
+  "wikipedia": "United Nations Partition Plan for Palestine",
+  "wikidata": "Q846795"
+}

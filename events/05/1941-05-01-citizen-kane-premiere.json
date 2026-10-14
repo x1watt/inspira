@@ -1,0 +1,28 @@
+{
+  "id": "event-1941-05-01-citizen-kane-premiere",
+  "title": "Citizen Kane premieres in New York",
+  "year": 1941,
+  "month": 5,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "Orson Welles's first feature film, about the rise and fall of a newspaper tycoon, premiered at the Palace Theatre on Broadway.",
+  "reason": "Welles had been given unusual creative freedom by RKO, while the newspaper owner William Randolph Hearst, who saw himself in the story, tried to stop its release.",
+  "significance": "Its storytelling and camera work made it one of the most influential films ever made, often ranked as the greatest.",
+  "participants": [
+    "Orson Welles",
+    "RKO Radio Pictures",
+    "Herman J. Mankiewicz"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Palace Theatre, New York City, United States",
+  "lat": 40.759,
+  "lon": -73.9845,
+  "tags": [
+    "culture"
+  ],
+  "weight": 55,
+  "wikipedia": "Citizen Kane",
+  "wikidata": "Q24815"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "event-1974-05-18-smiling-buddha",
+  "title": "India conducts its first nuclear test",
+  "year": 1974,
+  "month": 5,
+  "day": 18,
+  "calendar": "gregorian",
+  "summary": "India exploded a nuclear device, code named Smiling Buddha, underground at Pokhran in the Rajasthan desert.",
+  "reason": "India wanted to show its strength after China's nuclear tests and the 1971 war.",
+  "significance": "It made India the first country outside the UN's permanent members to test a nuclear weapon.",
+  "participants": [
+    "India",
+    "Indira Gandhi",
+    "Raja Ramanna"
+  ],
+  "countries": [
+    "India"
+  ],
+  "place": "Pokhran, Rajasthan, India",
+  "lat": 27.095,
+  "lon": 71.753,
+  "tags": [
+    "technology",
+    "war"
+  ],
+  "weight": 51,
+  "wikipedia": "Smiling Buddha",
+  "wikidata": "Q1426448"
+}

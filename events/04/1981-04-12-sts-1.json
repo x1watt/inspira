@@ -1,0 +1,29 @@
+{
+  "id": "event-1981-04-12-sts-1",
+  "title": "The first Space Shuttle flight is launched",
+  "year": 1981,
+  "month": 4,
+  "day": 12,
+  "calendar": "gregorian",
+  "summary": "Space Shuttle Columbia lifted off from Kennedy Space Center with John Young and Robert Crippen on the first orbital flight of a reusable spacecraft.",
+  "reason": "NASA wanted a reusable vehicle to lower the cost of reaching orbit.",
+  "significance": "The shuttle flew for 30 years and built the International Space Station.",
+  "participants": [
+    "John Young",
+    "Robert Crippen",
+    "NASA"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Kennedy Space Center, Florida, United States",
+  "lat": 28.6084,
+  "lon": -80.6043,
+  "tags": [
+    "exploration",
+    "technology"
+  ],
+  "weight": 55,
+  "wikipedia": "STS-1",
+  "wikidata": "Q217543"
+}

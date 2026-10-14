@@ -1,0 +1,28 @@
+{
+  "id": "event-1715-09-01-death-of-louis-xiv",
+  "title": "Louis XIV dies after a 72-year reign",
+  "year": 1715,
+  "month": 9,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "Louis XIV, the Sun King, died at Versailles of gangrene, leaving the throne to his five-year-old great-grandson Louis XV.",
+  "reason": "His long reign had outlived his son and grandson, so the crown passed to a child under a regency.",
+  "significance": "His reign, the longest of any European monarch, defined absolute monarchy, but left France deep in debt.",
+  "participants": [
+    "Louis XIV",
+    "Louis XV",
+    "Philippe II, Duke of Orleans"
+  ],
+  "countries": [
+    "France"
+  ],
+  "place": "Palace of Versailles, Versailles, France",
+  "lat": 48.8049,
+  "lon": 2.1204,
+  "tags": [
+    "politics"
+  ],
+  "weight": 62,
+  "wikipedia": "Louis XIV",
+  "wikidata": "Q7742"
+}

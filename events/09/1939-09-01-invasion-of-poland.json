@@ -1,0 +1,30 @@
+{
+  "id": "event-1939-09-01-invasion-of-poland",
+  "title": "Germany invades Poland, starting the Second World War in Europe",
+  "year": 1939,
+  "month": 9,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "German forces attacked Poland from the west, north and south, and the battleship Schleswig-Holstein opened fire on the Polish depot at Westerplatte. Britain and France declared war on Germany two days later.",
+  "reason": "Hitler sought to destroy Poland and gain living space in the east, and his pact with the Soviet Union had removed the threat of Soviet opposition.",
+  "significance": "It began the deadliest war in history in Europe.",
+  "participants": [
+    "Nazi Germany",
+    "Second Polish Republic",
+    "Wehrmacht",
+    "Adolf Hitler"
+  ],
+  "countries": [
+    "Poland",
+    "Germany"
+  ],
+  "place": "Westerplatte, Gdansk, Poland",
+  "lat": 54.4069,
+  "lon": 18.6703,
+  "tags": [
+    "war"
+  ],
+  "weight": 95,
+  "wikipedia": "Invasion of Poland",
+  "wikidata": "Q150812"
+}

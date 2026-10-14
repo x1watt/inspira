@@ -1,0 +1,32 @@
+{
+  "id": "event-2001-10-07-afghanistan-invasion",
+  "title": "US-led invasion of Afghanistan begins",
+  "year": 2001,
+  "month": 10,
+  "day": 7,
+  "calendar": "gregorian",
+  "summary": "The United States and Britain began bombing the Taliban and al-Qaeda, and Kabul fell within weeks.",
+  "reason": "The Taliban refused to hand over Osama bin Laden after the September 11 attacks.",
+  "significance": "It began a twenty-year war that ended with the Taliban's return in 2021.",
+  "participants": [
+    "United States",
+    "United Kingdom",
+    "Taliban",
+    "Northern Alliance",
+    "al-Qaeda"
+  ],
+  "countries": [
+    "Afghanistan",
+    "United States",
+    "United Kingdom"
+  ],
+  "place": "Kabul, Afghanistan",
+  "lat": 34.5553,
+  "lon": 69.2075,
+  "tags": [
+    "war"
+  ],
+  "weight": 75,
+  "wikipedia": "United States invasion of Afghanistan",
+  "wikidata": "Q19646470"
+}

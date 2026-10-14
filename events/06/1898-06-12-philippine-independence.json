@@ -1,0 +1,30 @@
+{
+  "id": "event-1898-06-12-philippine-independence",
+  "title": "Aguinaldo proclaims Philippine independence",
+  "year": 1898,
+  "month": 6,
+  "day": 12,
+  "calendar": "gregorian",
+  "summary": "Emilio Aguinaldo proclaimed the independence of the Philippines from Spain from the window of his house in Kawit, Cavite.",
+  "reason": "Filipino revolutionaries, back from exile and aided by the American defeat of the Spanish fleet, sought to establish their own state.",
+  "significance": "It is the founding date of the Philippine nation, though the United States took over the islands soon after.",
+  "participants": [
+    "Emilio Aguinaldo",
+    "Ambrosio Rianzares Bautista",
+    "Philippine Revolution"
+  ],
+  "countries": [
+    "Philippines",
+    "Spain"
+  ],
+  "place": "Aguinaldo Shrine, Kawit, Cavite, Philippines",
+  "lat": 14.4447,
+  "lon": 120.9031,
+  "tags": [
+    "revolution",
+    "politics"
+  ],
+  "weight": 65,
+  "wikipedia": "Philippine Declaration of Independence",
+  "wikidata": "Q69772"
+}

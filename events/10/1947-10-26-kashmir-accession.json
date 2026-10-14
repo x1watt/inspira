@@ -1,0 +1,30 @@
+{
+  "id": "event-1947-10-26-kashmir-accession",
+  "title": "Kashmir's maharaja accedes to India",
+  "year": 1947,
+  "month": 10,
+  "day": 26,
+  "calendar": "gregorian",
+  "summary": "Maharaja Hari Singh of Jammu and Kashmir signed the Instrument of Accession to India as tribal fighters from Pakistan advanced toward Srinagar.",
+  "reason": "The princely state had stayed undecided at partition until the invasion forced the ruler to seek Indian military help.",
+  "significance": "It began the Kashmir conflict that still divides India and Pakistan.",
+  "participants": [
+    "Hari Singh",
+    "Dominion of India",
+    "Dominion of Pakistan"
+  ],
+  "countries": [
+    "India",
+    "Pakistan"
+  ],
+  "place": "Srinagar, Jammu and Kashmir, India",
+  "lat": 34.0837,
+  "lon": 74.7973,
+  "tags": [
+    "politics",
+    "war"
+  ],
+  "weight": 55,
+  "wikipedia": "Instrument of Accession (Jammu and Kashmir)",
+  "wikidata": "Q6041863"
+}

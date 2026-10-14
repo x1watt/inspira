@@ -1,0 +1,31 @@
+{
+  "id": "event-1867-03-30-alaska-purchase",
+  "title": "United States agrees to buy Alaska from Russia",
+  "year": 1867,
+  "month": 3,
+  "day": 30,
+  "calendar": "gregorian",
+  "summary": "Secretary of State William Seward and the Russian envoy signed a treaty selling Alaska to the United States for 7.2 million dollars.",
+  "reason": "Russia found the colony costly and hard to defend against Britain, and Seward wanted to expand American presence in the Pacific.",
+  "significance": "It added a vast territory rich in gold, fish and later oil to the United States.",
+  "participants": [
+    "William H. Seward",
+    "Eduard de Stoeckl",
+    "Russian Empire",
+    "United States"
+  ],
+  "countries": [
+    "United States",
+    "Russia"
+  ],
+  "place": "Washington, D.C., United States",
+  "lat": 38.8951,
+  "lon": -77.0364,
+  "tags": [
+    "diplomacy",
+    "economy"
+  ],
+  "weight": 60,
+  "wikipedia": "Alaska Purchase",
+  "wikidata": "Q309029"
+}

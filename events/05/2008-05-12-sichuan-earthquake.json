@@ -1,0 +1,26 @@
+{
+  "id": "event-2008-05-12-sichuan-earthquake",
+  "title": "Sichuan earthquake kills about 70,000",
+  "year": 2008,
+  "month": 5,
+  "day": 12,
+  "calendar": "gregorian",
+  "summary": "A magnitude 7.9 earthquake struck Wenchuan county in Sichuan, collapsing towns and schools.",
+  "reason": "The Longmenshan fault ruptured under mountainous, populated terrain.",
+  "significance": "Collapsed schools sparked anger over shoddy construction in China.",
+  "participants": [
+    "China"
+  ],
+  "countries": [
+    "China"
+  ],
+  "place": "Wenchuan, Sichuan, China",
+  "lat": 31.002,
+  "lon": 103.322,
+  "tags": [
+    "disaster"
+  ],
+  "weight": 60,
+  "wikipedia": "2008 Sichuan earthquake",
+  "wikidata": "Q152033"
+}

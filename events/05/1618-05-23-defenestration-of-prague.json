@@ -1,0 +1,32 @@
+{
+  "id": "event-1618-05-23-defenestration-of-prague",
+  "title": "Defenestration of Prague sparks the Bohemian Revolt",
+  "year": 1618,
+  "month": 5,
+  "day": 23,
+  "calendar": "gregorian",
+  "summary": "Protestant Bohemian nobles threw two Catholic imperial governors and their secretary out of a window of Prague Castle; all three survived.",
+  "reason": "The Protestant estates protested against Habsburg violations of their religious freedoms and the rule of the Catholic Ferdinand.",
+  "significance": "The revolt that followed started the Thirty Years' War.",
+  "participants": [
+    "Bohemian estates",
+    "Habsburg monarchy",
+    "Jaroslav Borzita of Martinice",
+    "Vilem Slavata"
+  ],
+  "countries": [
+    "Czech Republic",
+    "Austria"
+  ],
+  "place": "Prague Castle, Prague, Czech Republic",
+  "lat": 50.0903,
+  "lon": 14.4005,
+  "tags": [
+    "politics",
+    "religion",
+    "revolution"
+  ],
+  "weight": 74,
+  "wikipedia": "Defenestrations of Prague",
+  "wikidata": "Q374696"
+}

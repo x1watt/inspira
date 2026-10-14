@@ -1,0 +1,29 @@
+{
+  "id": "event-2022-02-24-russia-invades-ukraine",
+  "title": "Russia launches full-scale invasion of Ukraine",
+  "year": 2022,
+  "month": 2,
+  "day": 24,
+  "calendar": "gregorian",
+  "summary": "Russian forces attacked Ukraine from the north, east and south, including an advance on Kyiv.",
+  "reason": "Vladimir Putin denied Ukraine's right to exist as a sovereign state and opposed its turn to the West.",
+  "significance": "It is the largest war in Europe since 1945.",
+  "participants": [
+    "Russia",
+    "Ukraine",
+    "Vladimir Putin",
+    "Volodymyr Zelenskyy"
+  ],
+  "countries": [
+    "Ukraine",
+    "Russia"
+  ],
+  "place": "Kyiv, Ukraine",
+  "lat": 50.4501,
+  "lon": 30.5234,
+  "tags": [
+    "war"
+  ],
+  "weight": 88,
+  "wikipedia": "Russian invasion of Ukraine"
+}

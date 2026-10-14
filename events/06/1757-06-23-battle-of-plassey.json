@@ -1,0 +1,30 @@
+{
+  "id": "event-1757-06-23-battle-of-plassey",
+  "title": "Battle of Plassey gives the British control of Bengal",
+  "year": 1757,
+  "month": 6,
+  "day": 23,
+  "calendar": "gregorian",
+  "summary": "Robert Clive's East India Company army defeated the much larger force of Siraj ud-Daulah, Nawab of Bengal. Much of the Nawab's army, under Mir Jafar, did not fight.",
+  "reason": "Clive had secretly agreed with Mir Jafar to make him Nawab in exchange for his betrayal, after the Nawab had taken Calcutta.",
+  "significance": "It began British political dominance in India.",
+  "participants": [
+    "East India Company",
+    "Robert Clive",
+    "Siraj ud-Daulah",
+    "Mir Jafar"
+  ],
+  "countries": [
+    "India",
+    "United Kingdom"
+  ],
+  "place": "Palashi, West Bengal, India",
+  "lat": 23.8,
+  "lon": 88.25,
+  "tags": [
+    "war"
+  ],
+  "weight": 80,
+  "wikipedia": "Battle of Plassey",
+  "wikidata": "Q203233"
+}

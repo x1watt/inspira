@@ -1,0 +1,29 @@
+{
+  "id": "event-1580-06-11-buenos-aires-founded",
+  "title": "Juan de Garay refounds Buenos Aires",
+  "year": 1580,
+  "month": 6,
+  "day": 11,
+  "calendar": "julian",
+  "summary": "Juan de Garay, leading settlers from Asuncion, founded a permanent city on the Rio de la Plata on the site of an earlier abandoned settlement.",
+  "reason": "Spain wanted a port on the Atlantic to link Paraguay and the Andes with Spain by sea.",
+  "significance": "Buenos Aires grew into the capital of Argentina and one of the largest cities in the Americas.",
+  "participants": [
+    "Juan de Garay",
+    "Spanish Empire"
+  ],
+  "countries": [
+    "Argentina",
+    "Spain"
+  ],
+  "place": "Buenos Aires, Argentina",
+  "lat": -34.608,
+  "lon": -58.372,
+  "tags": [
+    "politics",
+    "economy"
+  ],
+  "weight": 50,
+  "wikipedia": "Buenos Aires",
+  "wikidata": "Q1486"
+}

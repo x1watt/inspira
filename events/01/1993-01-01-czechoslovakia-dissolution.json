@@ -1,0 +1,29 @@
+{
+  "id": "event-1993-01-01-czechoslovakia-dissolution",
+  "title": "Czechoslovakia splits into two states",
+  "year": 1993,
+  "month": 1,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "Czechoslovakia peacefully divided into the Czech Republic and Slovakia, without a referendum.",
+  "reason": "Czech and Slovak leaders, Vaclav Klaus and Vladimir Meciar, could not agree on a shared constitution after 1989.",
+  "significance": "It was a rare peaceful breakup of a state in post-communist Europe.",
+  "participants": [
+    "Vaclav Klaus",
+    "Vladimir Meciar",
+    "Czechoslovakia"
+  ],
+  "countries": [
+    "Czech Republic",
+    "Slovakia"
+  ],
+  "place": "Prague, Czech Republic",
+  "lat": 50.0755,
+  "lon": 14.4378,
+  "tags": [
+    "politics"
+  ],
+  "weight": 60,
+  "wikipedia": "Dissolution of Czechoslovakia",
+  "wikidata": "Q1059215"
+}

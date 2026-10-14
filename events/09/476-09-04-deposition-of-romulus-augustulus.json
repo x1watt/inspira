@@ -1,0 +1,29 @@
+{
+  "id": "event-476-09-04-deposition-of-romulus-augustulus",
+  "title": "Odoacer deposes Romulus Augustulus",
+  "year": 476,
+  "month": 9,
+  "day": 4,
+  "calendar": "julian",
+  "summary": "The Germanic general Odoacer deposed the boy emperor Romulus Augustulus at Ravenna and ruled Italy as king, sending the imperial regalia to Constantinople.",
+  "reason": "Odoacer's soldiers had been refused land in Italy by Romulus's father Orestes, and they revolted.",
+  "significance": "It is the traditional date of the fall of the Western Roman Empire.",
+  "participants": [
+    "Odoacer",
+    "Romulus Augustulus",
+    "Orestes",
+    "Western Roman Empire"
+  ],
+  "countries": [
+    "Italy"
+  ],
+  "place": "Ravenna, Italy",
+  "lat": 44.4184,
+  "lon": 12.2035,
+  "tags": [
+    "politics"
+  ],
+  "weight": 90,
+  "wikipedia": "Romulus Augustulus",
+  "wikidata": "Q130601"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "event-1981-06-05-first-aids-report",
+  "title": "The CDC reports the first cases of what became AIDS",
+  "year": 1981,
+  "month": 6,
+  "day": 5,
+  "calendar": "gregorian",
+  "summary": "The US Centers for Disease Control reported five cases of a rare pneumonia among young gay men in Los Angeles.",
+  "reason": "Doctors had noticed unusual infections that pointed to a collapse of the immune system.",
+  "significance": "It marked the start of the HIV/AIDS pandemic.",
+  "participants": [
+    "Centers for Disease Control and Prevention",
+    "Michael Gottlieb"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Atlanta, Georgia, United States",
+  "lat": 33.799,
+  "lon": -84.326,
+  "tags": [
+    "medicine"
+  ],
+  "weight": 70,
+  "wikipedia": "History of HIV/AIDS",
+  "wikidata": "Q2081121"
+}

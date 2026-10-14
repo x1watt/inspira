@@ -1,0 +1,30 @@
+{
+  "id": "event-1938-03-12-anschluss",
+  "title": "Germany annexes Austria in the Anschluss",
+  "year": 1938,
+  "month": 3,
+  "day": 12,
+  "calendar": "gregorian",
+  "summary": "German troops crossed into Austria unopposed, and Hitler announced its union with Germany the next day.",
+  "reason": "Hitler wanted to unite all Germans in one Reich, and he moved to stop Chancellor Schuschnigg's referendum on independence.",
+  "significance": "It was Hitler's first annexation of a sovereign state and showed the Western powers would not resist.",
+  "participants": [
+    "Nazi Germany",
+    "Federal State of Austria",
+    "Kurt Schuschnigg",
+    "Arthur Seyss-Inquart"
+  ],
+  "countries": [
+    "Austria",
+    "Germany"
+  ],
+  "place": "Vienna, Austria",
+  "lat": 48.2082,
+  "lon": 16.3738,
+  "tags": [
+    "politics"
+  ],
+  "weight": 67,
+  "wikipedia": "Anschluss",
+  "wikidata": "Q154681"
+}

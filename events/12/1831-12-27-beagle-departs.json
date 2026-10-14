@@ -1,0 +1,29 @@
+{
+  "id": "event-1831-12-27-beagle-departs",
+  "title": "HMS Beagle sails with Charles Darwin aboard",
+  "year": 1831,
+  "month": 12,
+  "day": 27,
+  "calendar": "gregorian",
+  "summary": "HMS Beagle left Plymouth under Captain Robert FitzRoy on a survey voyage around the world, carrying the young naturalist Charles Darwin.",
+  "reason": "The Admiralty wanted the coasts of South America charted, and FitzRoy wanted a gentleman naturalist as a companion.",
+  "significance": "Darwin's observations on the five-year voyage, notably in the Galápagos, led to his theory of evolution by natural selection.",
+  "participants": [
+    "Charles Darwin",
+    "Robert FitzRoy",
+    "Royal Navy"
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "place": "Plymouth Sound, United Kingdom",
+  "lat": 50.364,
+  "lon": -4.142,
+  "tags": [
+    "exploration",
+    "science"
+  ],
+  "weight": 70,
+  "wikipedia": "Second voyage of HMS Beagle",
+  "wikidata": "Q1564366"
+}

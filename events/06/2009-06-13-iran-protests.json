@@ -1,0 +1,29 @@
+{
+  "id": "event-2009-06-13-iran-protests",
+  "title": "Protests erupt over Iran's disputed election",
+  "year": 2009,
+  "month": 6,
+  "day": 13,
+  "calendar": "gregorian",
+  "summary": "Huge crowds took to the streets of Tehran to protest the declared re-election of Mahmoud Ahmadinejad, forming the Green Movement.",
+  "reason": "Supporters of Mir-Hossein Mousavi believed the vote had been rigged.",
+  "significance": "They were the largest protests in Iran since 1979 and were violently crushed.",
+  "participants": [
+    "Mir-Hossein Mousavi",
+    "Mahmoud Ahmadinejad",
+    "Green Movement"
+  ],
+  "countries": [
+    "Iran"
+  ],
+  "place": "Tehran, Iran",
+  "lat": 35.6892,
+  "lon": 51.389,
+  "tags": [
+    "politics",
+    "rights"
+  ],
+  "weight": 55,
+  "wikipedia": "2009 Iranian presidential election protests",
+  "wikidata": "Q854206"
+}

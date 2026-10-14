@@ -1,0 +1,29 @@
+{
+  "id": "event-1973-01-22-roe-v-wade",
+  "title": "Roe v. Wade legalizes abortion in the United States",
+  "year": 1973,
+  "month": 1,
+  "day": 22,
+  "calendar": "gregorian",
+  "summary": "The US Supreme Court ruled that the Constitution protected a woman's right to choose abortion.",
+  "reason": "Abortion was banned in most states, and the case challenged a Texas law.",
+  "significance": "It shaped American politics for half a century until it was overturned in 2022.",
+  "participants": [
+    "Supreme Court of the United States",
+    "Norma McCorvey",
+    "Harry Blackmun"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Supreme Court Building, Washington, D.C., United States",
+  "lat": 38.8906,
+  "lon": -77.0044,
+  "tags": [
+    "law",
+    "rights"
+  ],
+  "weight": 58,
+  "wikipedia": "Roe v. Wade",
+  "wikidata": "Q300950"
+}

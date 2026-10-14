@@ -61,11 +61,33 @@ and then fact-checked by separate model passes; nothing in them is
 machine-checked against a source text, so the card shows the `basis` and
 any `caveat`. How they were produced: `tool/pipeline/stories/README.md`.
 
+### Events
+
+About 1000 dated events in world history, one JSON file per event, in a
+folder per month (for "on this day"):
+
+    events/<mm>/<key>.json
+
+| Field | Meaning |
+|---|---|
+| `id` | `event-<key>`, key = `<year>-<mm>-<dd>-<words>` |
+| `title`, `summary` | headline and what happened |
+| `reason`, `significance` | why it happened, why it matters |
+| `year`, `month`, `day`, `calendar` | the day; `year` negative is BC; `julian` before 15 October 1582, else Gregorian (New Style) |
+| `participants`, `countries` | people, states and groups as named at the time; modern country names for search |
+| `place`, `lat`, `lon` | where it mostly took place; `lat`/`lon` null when there is no single place |
+| `tags` | 1 to 3 of war, politics, revolution, law, diplomacy, science, technology, exploration, medicine, religion, culture, economy, disaster, sport, rights |
+| `weight` | importance 1 to 100; ranks events that share a day |
+| `wikipedia`, `wikidata` | the English article and its Wikidata item |
+
+Every day was checked against Wikidata or the article text, and the rest
+reviewed by hand against Wikipedia; see `tool/pipeline/events/README.md`.
+
 ## 2. Bundle
 
 `tool/bundle_quotes.dart` validates every file and writes all quotes into one
-asset, `assets/quotes.json`, and all stories into `assets/stories.json`, both
-sorted oldest first. Run it after any change in `quotes/` or `stories/`:
+asset, `assets/quotes.json`, all stories into `assets/stories.json` and
+all events into `assets/events.json`, all sorted oldest first. Run it after any change in `quotes/` or `stories/`:
 
     dart run tool/bundle_quotes.dart
 
@@ -92,13 +114,14 @@ always shows the same picture.
 
 | Path | Role |
 |---|---|
-| `lib/models/` | `Quote`, `Story`, `StoryKind`, `QuoteCategory` (labels, icons) |
+| `lib/models/` | `Quote`, `Story`, `StoryKind`, `HistoryEvent`, `QuoteCategory` (labels, icons) |
 | `lib/data/quote_repository.dart` | loads the quote bundle, indexes by category, quote of the day, search |
+| `lib/data/event_repository.dart` | loads the event bundle, events on a calendar day ranked by weight |
 | `lib/data/story_repository.dart` | loads the story bundle, story of the day, filter by category, kind and words |
 | `lib/data/favorites_store.dart` | favorite quote and story ids in `shared_preferences` |
 | `lib/data/image_repository.dart` | portraits, Wikipedia links and background art from `assets/images.json` |
-| `lib/data/progress_store.dart` | XP, levels, daily goal, streak and freezes, quiz review boxes, feed affinity, seen ids; one JSON value in `shared_preferences` |
-| `lib/data/quiz_generator.dart` | questions made from the data: who said this, what is the lesson, what did the study show, when did it happen |
+| `lib/data/progress_store.dart` | XP, levels, daily goal, streak and freezes, quiz review boxes, feed affinity, seen and read ids; one JSON value in `shared_preferences` |
+| `lib/data/quiz_generator.dart` | questions made from the data: who said this, what is the lesson, what did the study show, when did it happen, what happened on this day |
 | `lib/data/feed_engine.dart` | the endless feed: which card comes next |
 | `lib/app_scope.dart` | `AppData` (everything loaded at startup) in an `InheritedWidget`, inserted by `MaterialApp.builder` above the Navigator so pushed routes see it |
 | `lib/screens/` | Feed (home), Quiz (the feed in quiz mode), Quotes (categories, list with search), Stories (story of the day, categories, list with kind filter and search), Favorites and Me (streak, goal, levels, credits), opened from the star and person buttons at the top (`TopActions`) so the bottom bar has four tabs, single quote, single story |
@@ -123,11 +146,17 @@ the next card; `FeedScreen` measures reading time and hands out XP.
   not shown yet are dropped and planned again, so a like shows in the
   very next card.
 - Each (kind, category) has its own shuffled queue; unseen items first.
-- A quiz every 3 to 8 cards (random gap). Due reviews first, then a card
-  from this session, then anything seen before.
-- Quiz tab: the same feed screen with `quizOnly`, a question on every
-  card. Due reviews first; then half the time something seen before,
-  half the time a new item picked like a feed card.
+- A quiz every 3 to 8 cards (random gap); the Quiz tab is the same feed
+  screen with `quizOnly`, a question on every card. What is asked, in
+  order: reviews that are due; stories, history and studies read in the
+  last 30 days or liked (last 100 likes); when fewer than 10 of those are
+  left, half the questions (none left: all) are about dated events, a
+  quarter of those on today's date, the rest weighted by importance.
+  Without events: a card from this session, else anything seen before.
+- Event questions: "When did this happen?" (other events' dates, 8 to 100
+  years apart depending on the era) or "What happened on <day>?" (other
+  events of the time). After the answer the card says what happened,
+  where and why.
 - XP: quote read 4 s: 2; story read 12 s or opened in full: 5; right quiz
   answer: 10, or 20 from the third right answer in a row. Each card pays
   once per session.
@@ -147,8 +176,8 @@ Rules that must hold:
 
 - Double tap likes only on the picture, never over buttons, so buttons
   answer at once (no double tap delay).
-- Quote and quiz cards never scroll inside; long text shrinks to fit.
-  Story cards scroll inside their panel only when the text overflows
+- Quote cards never scroll inside; long text shrinks to fit. Story and
+  quiz cards scroll inside their panel only when the text overflows
   (clamping physics), and pulling past either end turns the page, so a
   vertical drag always ends up moving the feed.
 - The quote and the story of the day depend only on the calendar day, so it is the same

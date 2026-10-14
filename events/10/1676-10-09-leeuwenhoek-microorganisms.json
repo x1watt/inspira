@@ -1,0 +1,27 @@
+{
+  "id": "event-1676-10-09-leeuwenhoek-microorganisms",
+  "title": "Leeuwenhoek reports seeing microorganisms",
+  "year": 1676,
+  "month": 10,
+  "day": 9,
+  "calendar": "gregorian",
+  "summary": "In a letter to the Royal Society, the Delft draper Antonie van Leeuwenhoek described tiny living creatures he had seen in water through his own microscopes.",
+  "reason": "Leeuwenhoek ground lenses of unmatched quality and was curious to examine everything from rainwater to pepper infusions.",
+  "significance": "It was the first report of single-celled life and founded microbiology.",
+  "participants": [
+    "Antonie van Leeuwenhoek",
+    "Royal Society"
+  ],
+  "countries": [
+    "Netherlands"
+  ],
+  "place": "Delft, Netherlands",
+  "lat": 52.0116,
+  "lon": 4.3571,
+  "tags": [
+    "science"
+  ],
+  "weight": 74,
+  "wikipedia": "Antonie van Leeuwenhoek",
+  "wikidata": "Q43522"
+}

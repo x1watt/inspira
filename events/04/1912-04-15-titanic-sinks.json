@@ -1,0 +1,29 @@
+{
+  "id": "event-1912-04-15-titanic-sinks",
+  "title": "RMS Titanic sinks in the North Atlantic",
+  "year": 1912,
+  "month": 4,
+  "day": 15,
+  "calendar": "gregorian",
+  "summary": "The British liner Titanic, on its maiden voyage, sank in the early hours after striking an iceberg, and more than 1,500 people died.",
+  "reason": "The ship was steaming fast through an ice field and carried lifeboats for only about half of those aboard.",
+  "significance": "The disaster led to major reforms in maritime safety, including the first SOLAS convention.",
+  "participants": [
+    "RMS Titanic",
+    "White Star Line",
+    "Edward Smith"
+  ],
+  "countries": [
+    "United Kingdom",
+    "United States"
+  ],
+  "place": "North Atlantic Ocean, south of Newfoundland",
+  "lat": 41.7258,
+  "lon": -49.9469,
+  "tags": [
+    "disaster"
+  ],
+  "weight": 62,
+  "wikipedia": "Sinking of the Titanic",
+  "wikidata": "Q2577588"
+}

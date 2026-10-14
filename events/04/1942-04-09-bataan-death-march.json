@@ -1,0 +1,32 @@
+{
+  "id": "event-1942-04-09-bataan-death-march",
+  "title": "Bataan surrender leads to the Bataan Death March",
+  "year": 1942,
+  "month": 4,
+  "day": 9,
+  "calendar": "gregorian",
+  "summary": "About 76,000 American and Filipino troops surrendered on the Bataan peninsula and were forced to march some 100 kilometres to prison camps. Thousands died from beatings, heat and lack of water.",
+  "reason": "The defenders had held out for three months without supplies or reinforcements, and the Japanese were unprepared for so many prisoners.",
+  "significance": "It was the largest surrender of US forces in history and became a symbol of Japanese war crimes.",
+  "participants": [
+    "Empire of Japan",
+    "United States Army Forces in the Far East",
+    "Philippine Commonwealth Army",
+    "Edward P. King"
+  ],
+  "countries": [
+    "Philippines",
+    "United States",
+    "Japan"
+  ],
+  "place": "Mariveles, Bataan, Philippines",
+  "lat": 14.4333,
+  "lon": 120.4833,
+  "tags": [
+    "war",
+    "rights"
+  ],
+  "weight": 58,
+  "wikipedia": "Bataan Death March",
+  "wikidata": "Q555797"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "event-1980-05-18-gwangju-uprising",
+  "title": "The Gwangju Uprising begins",
+  "year": 1980,
+  "month": 5,
+  "day": 18,
+  "calendar": "gregorian",
+  "summary": "Students and citizens in Gwangju rose against South Korea's military rulers after paratroopers attacked protesters. The army crushed the uprising, killing hundreds.",
+  "reason": "General Chun Doo-hwan had seized power and extended martial law.",
+  "significance": "It became a central memory of South Korea's struggle for democracy.",
+  "participants": [
+    "Chun Doo-hwan",
+    "Republic of Korea Army",
+    "Citizens of Gwangju"
+  ],
+  "countries": [
+    "South Korea"
+  ],
+  "place": "Gwangju, South Korea",
+  "lat": 35.1595,
+  "lon": 126.8526,
+  "tags": [
+    "rights",
+    "revolution"
+  ],
+  "weight": 53,
+  "wikipedia": "Gwangju Uprising",
+  "wikidata": "Q174990"
+}

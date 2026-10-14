@@ -1,0 +1,31 @@
+{
+  "id": "event-1143-10-05-treaty-of-zamora",
+  "title": "Treaty of Zamora recognizes the Kingdom of Portugal",
+  "year": 1143,
+  "month": 10,
+  "day": 5,
+  "calendar": "julian",
+  "summary": "Alfonso VII of Leon accepted Afonso Henriques as king of Portugal in a meeting at Zamora.",
+  "reason": "Afonso Henriques had won battles against the Moors and against Leon and had already been calling himself king.",
+  "significance": "It is taken as the founding date of Portugal as an independent kingdom.",
+  "participants": [
+    "Afonso I of Portugal",
+    "Alfonso VII of Leon and Castile",
+    "Kingdom of Portugal",
+    "Kingdom of Leon"
+  ],
+  "countries": [
+    "Portugal",
+    "Spain"
+  ],
+  "place": "Zamora, Spain",
+  "lat": 41.5033,
+  "lon": -5.7446,
+  "tags": [
+    "diplomacy",
+    "politics"
+  ],
+  "weight": 55,
+  "wikipedia": "Treaty of Zamora",
+  "wikidata": "Q2745374"
+}

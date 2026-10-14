@@ -1,0 +1,30 @@
+{
+  "id": "event-1830-09-15-liverpool-manchester-railway",
+  "title": "Liverpool and Manchester Railway opens",
+  "year": 1830,
+  "month": 9,
+  "day": 15,
+  "calendar": "gregorian",
+  "summary": "The world's first intercity railway opened, with locomotives built by George and Robert Stephenson carrying passengers and goods between the two cities.",
+  "reason": "Merchants wanted a faster and cheaper link between the port of Liverpool and the cotton mills of Manchester than the canals offered.",
+  "significance": "It was the first railway to rely entirely on steam power and timetabled services, and set the pattern for railways worldwide.",
+  "participants": [
+    "George Stephenson",
+    "Robert Stephenson",
+    "Duke of Wellington",
+    "William Huskisson"
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "place": "Liverpool, United Kingdom",
+  "lat": 53.4084,
+  "lon": -2.9916,
+  "tags": [
+    "technology",
+    "economy"
+  ],
+  "weight": 65,
+  "wikipedia": "Liverpool and Manchester Railway",
+  "wikidata": "Q1398696"
+}

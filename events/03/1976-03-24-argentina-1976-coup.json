@@ -1,0 +1,29 @@
+{
+  "id": "event-1976-03-24-argentina-1976-coup",
+  "title": "Argentina's military overthrows Isabel Peron",
+  "year": 1976,
+  "month": 3,
+  "day": 24,
+  "calendar": "gregorian",
+  "summary": "Argentina's armed forces ousted President Isabel Peron and installed a junta led by Jorge Videla.",
+  "reason": "Political violence, economic chaos and a weak government gave the military its pretext.",
+  "significance": "The junta's Dirty War made tens of thousands of people disappear.",
+  "participants": [
+    "Jorge Rafael Videla",
+    "Isabel Peron",
+    "Argentine Armed Forces"
+  ],
+  "countries": [
+    "Argentina"
+  ],
+  "place": "Casa Rosada, Buenos Aires, Argentina",
+  "lat": -34.6081,
+  "lon": -58.3702,
+  "tags": [
+    "politics",
+    "rights"
+  ],
+  "weight": 55,
+  "wikipedia": "1976 Argentine coup d'état",
+  "wikidata": "Q1048750"
+}

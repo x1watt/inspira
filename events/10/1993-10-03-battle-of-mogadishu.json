@@ -1,0 +1,29 @@
+{
+  "id": "event-1993-10-03-battle-of-mogadishu",
+  "title": "Battle of Mogadishu",
+  "year": 1993,
+  "month": 10,
+  "day": 3,
+  "calendar": "gregorian",
+  "summary": "US special forces raiding Mogadishu to capture aides of warlord Mohamed Farrah Aidid lost two Black Hawk helicopters, and 18 Americans and hundreds of Somalis died.",
+  "reason": "The UN mission in Somalia had turned to hunting Aidid after his militia attacked peacekeepers.",
+  "significance": "It made the US wary of intervening in Africa, which shaped its inaction in Rwanda.",
+  "participants": [
+    "United States Army",
+    "Somali National Alliance",
+    "Mohamed Farrah Aidid"
+  ],
+  "countries": [
+    "Somalia",
+    "United States"
+  ],
+  "place": "Mogadishu, Somalia",
+  "lat": 2.0469,
+  "lon": 45.3182,
+  "tags": [
+    "war"
+  ],
+  "weight": 55,
+  "wikipedia": "Battle of Mogadishu (1993)",
+  "wikidata": "Q52226"
+}

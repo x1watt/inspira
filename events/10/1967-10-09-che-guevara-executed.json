@@ -1,0 +1,30 @@
+{
+  "id": "event-1967-10-09-che-guevara-executed",
+  "title": "Che Guevara is executed in Bolivia",
+  "year": 1967,
+  "month": 10,
+  "day": 9,
+  "calendar": "gregorian",
+  "summary": "Che Guevara, captured the day before, was executed by the Bolivian army in the village of La Higuera.",
+  "reason": "Guevara tried to start a guerrilla war in Bolivia, but the army, aided by the CIA, hunted down his band.",
+  "significance": "He became an international icon of revolution.",
+  "participants": [
+    "Che Guevara",
+    "Bolivian Army",
+    "CIA"
+  ],
+  "countries": [
+    "Bolivia",
+    "Cuba",
+    "Argentina"
+  ],
+  "place": "La Higuera, Bolivia",
+  "lat": -18.786,
+  "lon": -64.205,
+  "tags": [
+    "revolution"
+  ],
+  "weight": 55,
+  "wikipedia": "Che Guevara",
+  "wikidata": "Q5809"
+}

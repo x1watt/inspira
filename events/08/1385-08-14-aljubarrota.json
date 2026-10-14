@@ -1,0 +1,31 @@
+{
+  "id": "event-1385-08-14-aljubarrota",
+  "title": "Portugal secures independence at Aljubarrota",
+  "year": 1385,
+  "month": 8,
+  "day": 14,
+  "calendar": "julian",
+  "summary": "A Portuguese army under King John I and Nuno Alvares Pereira, aided by English archers, crushed a much larger Castilian invasion force.",
+  "reason": "After the death of King Ferdinand I, John I of Castile claimed the Portuguese crown through his wife, and Portuguese supporters of the House of Aviz resisted.",
+  "significance": "It secured Portuguese independence and the Aviz dynasty that later launched the age of exploration.",
+  "participants": [
+    "Kingdom of Portugal",
+    "Crown of Castile",
+    "John I of Portugal",
+    "Nuno Alvares Pereira",
+    "John I of Castile"
+  ],
+  "countries": [
+    "Portugal",
+    "Spain"
+  ],
+  "place": "Sao Jorge, near Aljubarrota, Portugal",
+  "lat": 39.6,
+  "lon": -8.85,
+  "tags": [
+    "war"
+  ],
+  "weight": 55,
+  "wikipedia": "Battle of Aljubarrota",
+  "wikidata": "Q1341972"
+}

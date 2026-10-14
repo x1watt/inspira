@@ -1,0 +1,33 @@
+{
+  "id": "event-1410-07-15-grunwald",
+  "title": "Poland and Lithuania defeat the Teutonic Order",
+  "year": 1410,
+  "month": 7,
+  "day": 15,
+  "calendar": "julian",
+  "summary": "A Polish and Lithuanian army under Wladyslaw II Jagiello and Vytautas defeated the Teutonic Knights at Grunwald. The Grand Master and much of the order's leadership were killed.",
+  "reason": "The Teutonic Order and the Polish-Lithuanian union had long disputed Samogitia and other borderlands.",
+  "significance": "It broke the power of the Teutonic Order and made Poland-Lithuania a leading power of Eastern Europe.",
+  "participants": [
+    "Kingdom of Poland",
+    "Grand Duchy of Lithuania",
+    "Teutonic Order",
+    "Wladyslaw II Jagiello",
+    "Vytautas",
+    "Ulrich von Jungingen"
+  ],
+  "countries": [
+    "Poland",
+    "Lithuania",
+    "Germany"
+  ],
+  "place": "Grunwald, Warmian-Masurian Voivodeship, Poland",
+  "lat": 53.484,
+  "lon": 20.117,
+  "tags": [
+    "war"
+  ],
+  "weight": 68,
+  "wikipedia": "Battle of Grunwald",
+  "wikidata": "Q33570"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "event-2013-03-13-pope-francis-elected",
+  "title": "Jorge Mario Bergoglio is elected Pope Francis",
+  "year": 2013,
+  "month": 3,
+  "day": 13,
+  "calendar": "gregorian",
+  "summary": "Cardinals elected the Argentine Jorge Mario Bergoglio, who took the name Francis.",
+  "reason": "The conclave followed the first papal resignation in six centuries, by Benedict XVI.",
+  "significance": "He was the first pope from the Americas and the first Jesuit pope.",
+  "participants": [
+    "Pope Francis",
+    "College of Cardinals",
+    "Catholic Church"
+  ],
+  "countries": [
+    "Vatican City",
+    "Argentina"
+  ],
+  "place": "Sistine Chapel, Vatican City",
+  "lat": 41.9029,
+  "lon": 12.4545,
+  "tags": [
+    "religion"
+  ],
+  "weight": 62,
+  "wikipedia": "2013 conclave"
+}

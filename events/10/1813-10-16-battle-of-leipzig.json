@@ -1,0 +1,34 @@
+{
+  "id": "event-1813-10-16-battle-of-leipzig",
+  "title": "Battle of the Nations begins at Leipzig",
+  "year": 1813,
+  "month": 10,
+  "day": 16,
+  "calendar": "gregorian",
+  "summary": "The armies of Russia, Prussia, Austria and Sweden began a three day battle against Napoleon at Leipzig, the largest in Europe before the First World War.",
+  "reason": "After the Russian disaster, the allies united to drive Napoleon out of Germany.",
+  "significance": "Napoleon's defeat cost him Germany and led to his first abdication.",
+  "participants": [
+    "Napoleon Bonaparte",
+    "Russian Empire",
+    "Kingdom of Prussia",
+    "Austrian Empire",
+    "Sweden"
+  ],
+  "countries": [
+    "Germany",
+    "France",
+    "Russia",
+    "Austria",
+    "Sweden"
+  ],
+  "place": "Leipzig, Germany",
+  "lat": 51.3127,
+  "lon": 12.4136,
+  "tags": [
+    "war"
+  ],
+  "weight": 80,
+  "wikipedia": "Battle of Leipzig",
+  "wikidata": "Q151005"
+}

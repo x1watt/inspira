@@ -1,0 +1,31 @@
+{
+  "id": "event-1914-07-28-austria-declares-war-serbia",
+  "title": "Austria-Hungary declares war on Serbia",
+  "year": 1914,
+  "month": 7,
+  "day": 28,
+  "calendar": "gregorian",
+  "summary": "Austria-Hungary declared war on Serbia by telegram, and alliance commitments drew Russia, Germany, France and Britain into war within a week.",
+  "reason": "Vienna blamed Serbia for the Sarajevo assassination and, backed by Germany, issued an ultimatum it expected Serbia to reject.",
+  "significance": "It began World War I, which killed millions and remade the world order.",
+  "participants": [
+    "Austria-Hungary",
+    "Kingdom of Serbia",
+    "German Empire",
+    "Russian Empire"
+  ],
+  "countries": [
+    "Austria",
+    "Serbia",
+    "Hungary"
+  ],
+  "place": "Vienna, Austria",
+  "lat": 48.2082,
+  "lon": 16.3738,
+  "tags": [
+    "war"
+  ],
+  "weight": 77,
+  "wikipedia": "July Crisis",
+  "wikidata": "Q917435"
+}

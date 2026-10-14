@@ -1,0 +1,27 @@
+{
+  "id": "event-1863-01-10-london-underground-opens",
+  "title": "The world's first underground railway opens in London",
+  "year": 1863,
+  "month": 1,
+  "day": 10,
+  "calendar": "gregorian",
+  "summary": "The Metropolitan Railway opened between Paddington and Farringdon, carrying passengers in gas-lit carriages hauled by steam locomotives.",
+  "reason": "London's streets were choked with traffic, and the railway linked the main line terminals with the City.",
+  "significance": "It was the first underground railway in the world and the start of the London Underground.",
+  "participants": [
+    "Metropolitan Railway",
+    "Charles Pearson"
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "place": "Paddington, London, United Kingdom",
+  "lat": 51.5154,
+  "lon": -0.1755,
+  "tags": [
+    "technology"
+  ],
+  "weight": 60,
+  "wikipedia": "Metropolitan Railway",
+  "wikidata": "Q935025"
+}

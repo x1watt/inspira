@@ -1,0 +1,36 @@
+{
+  "id": "event-1864-08-22-first-geneva-convention",
+  "title": "First Geneva Convention is signed",
+  "year": 1864,
+  "month": 8,
+  "day": 22,
+  "calendar": "gregorian",
+  "summary": "Twelve states signed a treaty protecting wounded soldiers and the medical staff caring for them, marked by a red cross on a white background.",
+  "reason": "Henry Dunant's account of the suffering after Solferino moved Swiss leaders and European governments to act.",
+  "significance": "It founded modern international humanitarian law.",
+  "participants": [
+    "Henry Dunant",
+    "Gustave Moynier",
+    "International Committee of the Red Cross",
+    "Swiss Confederation"
+  ],
+  "countries": [
+    "Switzerland",
+    "France",
+    "Italy",
+    "Spain",
+    "Belgium",
+    "Denmark"
+  ],
+  "place": "Geneva, Switzerland",
+  "lat": 46.2044,
+  "lon": 6.1432,
+  "tags": [
+    "law",
+    "medicine",
+    "diplomacy"
+  ],
+  "weight": 70,
+  "wikipedia": "First Geneva Convention",
+  "wikidata": "Q610272"
+}

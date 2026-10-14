@@ -1,0 +1,26 @@
+{
+  "id": "event-1929-10-29-black-tuesday",
+  "title": "Black Tuesday: the Wall Street Crash",
+  "year": 1929,
+  "month": 10,
+  "day": 29,
+  "calendar": "gregorian",
+  "summary": "Panic selling on the New York Stock Exchange drove prices to collapse, completing the crash that had started days earlier and wiping out billions of dollars.",
+  "reason": "Speculation, buying on margin and an overvalued market left investors exposed when confidence broke.",
+  "significance": "The crash helped trigger the Great Depression, which spread around the world.",
+  "participants": [
+    "New York Stock Exchange"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "New York Stock Exchange, New York City, United States",
+  "lat": 40.7069,
+  "lon": -74.0113,
+  "tags": [
+    "economy"
+  ],
+  "weight": 92,
+  "wikipedia": "Wall Street crash of 1929",
+  "wikidata": "Q201684"
+}

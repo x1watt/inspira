@@ -1,0 +1,31 @@
+{
+  "id": "event-1187-10-02-saladin-takes-jerusalem",
+  "title": "Saladin captures Jerusalem",
+  "year": 1187,
+  "month": 10,
+  "day": 2,
+  "calendar": "julian",
+  "summary": "After a short siege, the defenders of Jerusalem under Balian of Ibelin surrendered the city to Saladin, who allowed most inhabitants to leave on payment of a ransom.",
+  "reason": "The crusader army had been destroyed at Hattin, leaving the city with few soldiers.",
+  "significance": "Its loss shocked Europe and provoked the Third Crusade.",
+  "participants": [
+    "Saladin",
+    "Ayyubid Sultanate",
+    "Balian of Ibelin",
+    "Kingdom of Jerusalem"
+  ],
+  "countries": [
+    "Israel",
+    "Palestine"
+  ],
+  "place": "Jerusalem",
+  "lat": 31.778,
+  "lon": 35.2354,
+  "tags": [
+    "war",
+    "religion"
+  ],
+  "weight": 70,
+  "wikipedia": "Siege of Jerusalem (1187)",
+  "wikidata": "Q815161"
+}

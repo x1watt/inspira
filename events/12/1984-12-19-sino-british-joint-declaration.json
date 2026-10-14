@@ -1,0 +1,30 @@
+{
+  "id": "event-1984-12-19-sino-british-joint-declaration",
+  "title": "Britain and China agree on Hong Kong's return",
+  "year": 1984,
+  "month": 12,
+  "day": 19,
+  "calendar": "gregorian",
+  "summary": "Margaret Thatcher and Zhao Ziyang signed the Sino-British Joint Declaration in Beijing, agreeing that Hong Kong would return to China in 1997.",
+  "reason": "Britain's lease on the New Territories ran out in 1997, and Deng Xiaoping insisted on full sovereignty.",
+  "significance": "It set the terms of one country, two systems for Hong Kong.",
+  "participants": [
+    "Margaret Thatcher",
+    "Zhao Ziyang",
+    "Deng Xiaoping"
+  ],
+  "countries": [
+    "China",
+    "United Kingdom",
+    "Hong Kong"
+  ],
+  "place": "Great Hall of the People, Beijing, China",
+  "lat": 39.9032,
+  "lon": 116.3876,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 53,
+  "wikipedia": "Sino-British Joint Declaration",
+  "wikidata": "Q671479"
+}

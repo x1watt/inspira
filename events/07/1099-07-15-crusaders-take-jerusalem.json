@@ -1,0 +1,31 @@
+{
+  "id": "event-1099-07-15-crusaders-take-jerusalem",
+  "title": "Crusaders capture Jerusalem",
+  "year": 1099,
+  "month": 7,
+  "day": 15,
+  "calendar": "julian",
+  "summary": "Armies of the First Crusade broke into Jerusalem after a five-week siege and massacred much of its Muslim and Jewish population.",
+  "reason": "Freeing the holy city was the goal of the crusade, and Fatimid Egypt had only recently retaken it from the Seljuks.",
+  "significance": "It founded the Kingdom of Jerusalem and left a long memory of crusader violence in the region.",
+  "participants": [
+    "First Crusade",
+    "Godfrey of Bouillon",
+    "Raymond IV of Toulouse",
+    "Fatimid Caliphate"
+  ],
+  "countries": [
+    "Israel",
+    "Palestine"
+  ],
+  "place": "Jerusalem",
+  "lat": 31.778,
+  "lon": 35.2354,
+  "tags": [
+    "war",
+    "religion"
+  ],
+  "weight": 80,
+  "wikipedia": "Siege of Jerusalem (1099)",
+  "wikidata": "Q456993"
+}

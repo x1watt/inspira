@@ -1,0 +1,30 @@
+{
+  "id": "event-1972-02-21-nixon-visits-china",
+  "title": "Richard Nixon arrives in China",
+  "year": 1972,
+  "month": 2,
+  "day": 21,
+  "calendar": "gregorian",
+  "summary": "President Nixon landed in Beijing and met Mao Zedong, the first visit by an American president to the People's Republic.",
+  "reason": "Both sides wanted to balance the Soviet Union, and Henry Kissinger had prepared the visit in secret.",
+  "significance": "It transformed the Cold War balance of power.",
+  "participants": [
+    "Richard Nixon",
+    "Mao Zedong",
+    "Zhou Enlai",
+    "Henry Kissinger"
+  ],
+  "countries": [
+    "China",
+    "United States"
+  ],
+  "place": "Beijing, China",
+  "lat": 39.9042,
+  "lon": 116.4074,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 73,
+  "wikipedia": "1972 visit by Richard Nixon to China",
+  "wikidata": "Q862054"
+}

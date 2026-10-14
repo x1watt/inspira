@@ -1,0 +1,28 @@
+{
+  "id": "event-2001-12-11-china-joins-wto",
+  "title": "China joins the World Trade Organization",
+  "year": 2001,
+  "month": 12,
+  "day": 11,
+  "calendar": "gregorian",
+  "summary": "After fifteen years of negotiations, China formally became a member of the WTO.",
+  "reason": "China's leaders wanted access to world markets to push reform and growth.",
+  "significance": "It turned China into the world's factory and changed global trade.",
+  "participants": [
+    "China",
+    "World Trade Organization",
+    "Zhu Rongji"
+  ],
+  "countries": [
+    "China"
+  ],
+  "place": "Beijing, China",
+  "lat": 39.9042,
+  "lon": 116.4074,
+  "tags": [
+    "economy"
+  ],
+  "weight": 78,
+  "wikipedia": "China and the World Trade Organization",
+  "wikidata": "Q5099981"
+}

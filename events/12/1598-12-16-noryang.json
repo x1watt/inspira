@@ -1,0 +1,32 @@
+{
+  "id": "event-1598-12-16-noryang",
+  "title": "Yi Sun-sin dies winning the Battle of Noryang",
+  "year": 1598,
+  "month": 12,
+  "day": 16,
+  "calendar": "gregorian",
+  "summary": "A combined Korean and Ming fleet attacked the Japanese fleet withdrawing from Korea in the Noryang strait. Admiral Yi Sun-sin was killed by a bullet during the battle.",
+  "reason": "After Hideyoshi's death, Japan ordered its forces home, and the allies tried to destroy them before they escaped.",
+  "significance": "It was the last major battle of the Imjin War.",
+  "participants": [
+    "Yi Sun-sin",
+    "Chen Lin",
+    "Joseon",
+    "Ming dynasty",
+    "Shimazu Yoshihiro"
+  ],
+  "countries": [
+    "South Korea",
+    "Japan",
+    "China"
+  ],
+  "place": "Noryang Strait, near Namhae, South Korea",
+  "lat": 34.95,
+  "lon": 127.87,
+  "tags": [
+    "war"
+  ],
+  "weight": 50,
+  "wikipedia": "Battle of Noryang",
+  "wikidata": "Q484271"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "event-451-06-20-battle-of-the-catalaunian-plains",
+  "title": "Aetius and the Visigoths stop Attila",
+  "year": 451,
+  "month": 6,
+  "day": 20,
+  "calendar": "julian",
+  "summary": "A Roman and Visigothic army under Flavius Aetius and King Theodoric I fought Attila's Huns on the Catalaunian Plains in Gaul. Theodoric was killed, but Attila withdrew.",
+  "reason": "Attila had invaded Gaul, and Romans and Visigoths put aside their rivalry to face the common threat.",
+  "significance": "It halted the Hunnic advance into western Europe.",
+  "participants": [
+    "Flavius Aetius",
+    "Theodoric I",
+    "Attila",
+    "Huns",
+    "Visigoths"
+  ],
+  "countries": [
+    "France"
+  ],
+  "place": "Catalaunian Plains, near Chalons-en-Champagne, France",
+  "lat": 48.9566,
+  "lon": 4.3631,
+  "tags": [
+    "war"
+  ],
+  "weight": 75,
+  "wikipedia": "Battle of the Catalaunian Plains",
+  "wikidata": "Q139808"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "event-1995-01-17-kobe-earthquake",
+  "title": "Great Hanshin earthquake devastates Kobe",
+  "year": 1995,
+  "month": 1,
+  "day": 17,
+  "calendar": "gregorian",
+  "summary": "A magnitude 6.9 earthquake struck the Kobe area early in the morning, killing over 6,400 people.",
+  "reason": "The fault ran directly under a dense port city with many older wooden houses.",
+  "significance": "It exposed failures in Japan's disaster response and spurred a volunteer movement.",
+  "participants": [
+    "Japan"
+  ],
+  "countries": [
+    "Japan"
+  ],
+  "place": "Kobe, Japan",
+  "lat": 34.6901,
+  "lon": 135.1955,
+  "tags": [
+    "disaster"
+  ],
+  "weight": 55,
+  "wikipedia": "Kobe earthquake"
+}

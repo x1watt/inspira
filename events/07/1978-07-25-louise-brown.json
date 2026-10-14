@@ -1,0 +1,29 @@
+{
+  "id": "event-1978-07-25-louise-brown",
+  "title": "Louise Brown, the first IVF baby, is born",
+  "year": 1978,
+  "month": 7,
+  "day": 25,
+  "calendar": "gregorian",
+  "summary": "Louise Brown, the first person conceived by in vitro fertilization, was born at Oldham General Hospital in England.",
+  "reason": "Robert Edwards and Patrick Steptoe had worked for years to help infertile couples conceive.",
+  "significance": "IVF has since led to millions of births.",
+  "participants": [
+    "Louise Brown",
+    "Robert Edwards",
+    "Patrick Steptoe"
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "place": "Oldham General Hospital, Oldham, United Kingdom",
+  "lat": 53.5534,
+  "lon": -2.1215,
+  "tags": [
+    "medicine",
+    "science"
+  ],
+  "weight": 63,
+  "wikipedia": "Louise Brown",
+  "wikidata": "Q234027"
+}

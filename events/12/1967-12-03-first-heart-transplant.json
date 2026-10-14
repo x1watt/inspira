@@ -1,0 +1,28 @@
+{
+  "id": "event-1967-12-03-first-heart-transplant",
+  "title": "Christiaan Barnard performs the first human heart transplant",
+  "year": 1967,
+  "month": 12,
+  "day": 3,
+  "calendar": "gregorian",
+  "summary": "At Groote Schuur Hospital in Cape Town, Christiaan Barnard transplanted the heart of a young woman into Louis Washkansky.",
+  "reason": "Surgeons had worked toward transplants on animals for years.",
+  "significance": "It opened the field of heart transplantation.",
+  "participants": [
+    "Christiaan Barnard",
+    "Louis Washkansky",
+    "Groote Schuur Hospital"
+  ],
+  "countries": [
+    "South Africa"
+  ],
+  "place": "Groote Schuur Hospital, Cape Town, South Africa",
+  "lat": -33.9411,
+  "lon": 18.463,
+  "tags": [
+    "medicine"
+  ],
+  "weight": 63,
+  "wikipedia": "Louis Washkansky",
+  "wikidata": "Q1872054"
+}

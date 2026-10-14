@@ -1,0 +1,31 @@
+{
+  "id": "event-1917-11-02-balfour-declaration",
+  "title": "Britain issues the Balfour Declaration",
+  "year": 1917,
+  "month": 11,
+  "day": 2,
+  "calendar": "gregorian",
+  "summary": "British Foreign Secretary Arthur Balfour sent a letter to Lord Rothschild stating government support for a national home for the Jewish people in Palestine.",
+  "reason": "Britain sought Jewish support for the war effort and a strategic foothold in Palestine near the Suez Canal.",
+  "significance": "It laid the political groundwork for the State of Israel and the Arab-Israeli conflict.",
+  "participants": [
+    "Arthur Balfour",
+    "Walter Rothschild",
+    "Chaim Weizmann",
+    "United Kingdom"
+  ],
+  "countries": [
+    "United Kingdom",
+    "Israel",
+    "Palestine"
+  ],
+  "place": "London, United Kingdom",
+  "lat": 51.5074,
+  "lon": -0.1278,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 67,
+  "wikipedia": "Balfour Declaration",
+  "wikidata": "Q187152"
+}

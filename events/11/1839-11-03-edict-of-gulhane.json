@@ -1,0 +1,29 @@
+{
+  "id": "event-1839-11-03-edict-of-gulhane",
+  "title": "Edict of Gülhane starts the Tanzimat reforms",
+  "year": 1839,
+  "month": 11,
+  "day": 3,
+  "calendar": "gregorian",
+  "summary": "The Ottoman government proclaimed a charter promising security of life and property, fair taxation and regular conscription for all subjects.",
+  "reason": "Military defeats and the loss of territory convinced reformers such as Mustafa Reşid Pasha that the empire had to modernize and win European support.",
+  "significance": "It opened the Tanzimat era of Ottoman modernization.",
+  "participants": [
+    "Abdulmejid I",
+    "Mustafa Reşid Pasha",
+    "Ottoman Empire"
+  ],
+  "countries": [
+    "Turkey"
+  ],
+  "place": "Gülhane Park, Istanbul, Turkey",
+  "lat": 41.013,
+  "lon": 28.981,
+  "tags": [
+    "politics",
+    "law"
+  ],
+  "weight": 60,
+  "wikipedia": "Edict of Gülhane",
+  "wikidata": "Q1332014"
+}

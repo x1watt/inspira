@@ -1,0 +1,28 @@
+{
+  "id": "event-1940-02-29-hattie-mcdaniel-oscar",
+  "title": "Hattie McDaniel becomes the first Black Oscar winner",
+  "year": 1940,
+  "month": 2,
+  "day": 29,
+  "calendar": "gregorian",
+  "summary": "Hattie McDaniel won the Academy Award for Best Supporting Actress for Gone with the Wind. She had to sit at a separate table at the back of the segregated hotel ballroom.",
+  "reason": "Her performance was widely praised, but Hollywood and the hotel still followed the racial segregation of the time.",
+  "significance": "It was the first Oscar won by an African American, and no Black woman won another acting Oscar for fifty years.",
+  "participants": [
+    "Hattie McDaniel",
+    "Academy of Motion Picture Arts and Sciences"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Ambassador Hotel, Los Angeles, California, United States",
+  "lat": 34.0596,
+  "lon": -118.2967,
+  "tags": [
+    "culture",
+    "rights"
+  ],
+  "weight": 50,
+  "wikipedia": "12th Academy Awards",
+  "wikidata": "Q508513"
+}

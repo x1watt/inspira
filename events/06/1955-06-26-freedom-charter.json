@@ -1,0 +1,28 @@
+{
+  "id": "event-1955-06-26-freedom-charter",
+  "title": "The Congress of the People adopts the Freedom Charter",
+  "year": 1955,
+  "month": 6,
+  "day": 26,
+  "calendar": "gregorian",
+  "summary": "At Kliptown near Johannesburg, the Congress of the People adopted the Freedom Charter, declaring that South Africa belongs to all who live in it.",
+  "reason": "The African National Congress and its allies wanted a common programme against apartheid.",
+  "significance": "The charter became the founding document of the anti-apartheid movement.",
+  "participants": [
+    "African National Congress",
+    "Congress Alliance"
+  ],
+  "countries": [
+    "South Africa"
+  ],
+  "place": "Kliptown, Soweto, South Africa",
+  "lat": -26.277,
+  "lon": 27.887,
+  "tags": [
+    "rights",
+    "politics"
+  ],
+  "weight": 51,
+  "wikipedia": "Freedom Charter",
+  "wikidata": "Q1454324"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "event-1982-04-02-falklands-invasion",
+  "title": "Argentina invades the Falkland Islands",
+  "year": 1982,
+  "month": 4,
+  "day": 2,
+  "calendar": "gregorian",
+  "summary": "Argentine forces landed on the Falkland Islands and forced the small British garrison at Stanley to surrender.",
+  "reason": "Argentina's military junta claimed the islands and hoped to win popular support amid economic crisis.",
+  "significance": "Britain retook the islands, and defeat brought down Argentina's junta.",
+  "participants": [
+    "Argentine Armed Forces",
+    "Leopoldo Galtieri",
+    "Royal Marines",
+    "Margaret Thatcher"
+  ],
+  "countries": [
+    "Argentina",
+    "United Kingdom"
+  ],
+  "place": "Stanley, Falkland Islands",
+  "lat": -51.6977,
+  "lon": -57.8517,
+  "tags": [
+    "war"
+  ],
+  "weight": 55,
+  "wikipedia": "1982 invasion of the Falkland Islands",
+  "wikidata": "Q2992361"
+}

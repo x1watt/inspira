@@ -1,0 +1,32 @@
+{
+  "id": "event-1704-08-13-battle-of-blenheim",
+  "title": "Marlborough and Eugene win the Battle of Blenheim",
+  "year": 1704,
+  "month": 8,
+  "day": 13,
+  "calendar": "gregorian",
+  "summary": "An allied army under the Duke of Marlborough and Prince Eugene of Savoy crushed a Franco-Bavarian army on the Danube.",
+  "reason": "France and Bavaria were threatening Vienna, and its fall would have knocked Austria out of the War of the Spanish Succession.",
+  "significance": "It saved Vienna and ended the reputation of French armies as invincible.",
+  "participants": [
+    "John Churchill, Duke of Marlborough",
+    "Prince Eugene of Savoy",
+    "Kingdom of France",
+    "Electorate of Bavaria"
+  ],
+  "countries": [
+    "Germany",
+    "United Kingdom",
+    "France",
+    "Austria"
+  ],
+  "place": "Blindheim, Bavaria, Germany",
+  "lat": 48.6333,
+  "lon": 10.6333,
+  "tags": [
+    "war"
+  ],
+  "weight": 64,
+  "wikipedia": "Battle of Blenheim",
+  "wikidata": "Q154635"
+}

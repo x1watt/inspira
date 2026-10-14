@@ -1,0 +1,29 @@
+{
+  "id": "event-2011-07-09-south-sudan-independence",
+  "title": "South Sudan becomes independent",
+  "year": 2011,
+  "month": 7,
+  "day": 9,
+  "calendar": "gregorian",
+  "summary": "South Sudan declared independence from Sudan in Juba, becoming the world's newest country.",
+  "reason": "Decades of civil war ended with a 2005 peace deal and a referendum in which almost all voters chose independence.",
+  "significance": "It split Africa's largest country in two.",
+  "participants": [
+    "South Sudan",
+    "Salva Kiir",
+    "Sudan"
+  ],
+  "countries": [
+    "South Sudan",
+    "Sudan"
+  ],
+  "place": "Juba, South Sudan",
+  "lat": 4.8594,
+  "lon": 31.5713,
+  "tags": [
+    "politics"
+  ],
+  "weight": 60,
+  "wikipedia": "South Sudan",
+  "wikidata": "Q958"
+}

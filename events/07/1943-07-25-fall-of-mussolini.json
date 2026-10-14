@@ -1,0 +1,30 @@
+{
+  "id": "event-1943-07-25-fall-of-mussolini",
+  "title": "Mussolini is deposed and arrested",
+  "year": 1943,
+  "month": 7,
+  "day": 25,
+  "calendar": "gregorian",
+  "summary": "After the Grand Council of Fascism voted against him, King Victor Emmanuel III dismissed Benito Mussolini and had him arrested, naming Marshal Pietro Badoglio as head of government.",
+  "reason": "Military defeats, the invasion of Sicily and bombing of Italian cities had destroyed support for Mussolini even among Fascist leaders.",
+  "significance": "It ended over twenty years of Fascist rule and led Italy to surrender to the Allies in September.",
+  "participants": [
+    "Benito Mussolini",
+    "Victor Emmanuel III",
+    "Pietro Badoglio",
+    "Dino Grandi",
+    "Grand Council of Fascism"
+  ],
+  "countries": [
+    "Italy"
+  ],
+  "place": "Rome, Italy",
+  "lat": 41.9028,
+  "lon": 12.4964,
+  "tags": [
+    "politics"
+  ],
+  "weight": 68,
+  "wikipedia": "Fall of the Fascist regime in Italy",
+  "wikidata": "Q3885257"
+}

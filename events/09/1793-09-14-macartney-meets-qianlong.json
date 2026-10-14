@@ -1,0 +1,30 @@
+{
+  "id": "event-1793-09-14-macartney-meets-qianlong",
+  "title": "Qianlong Emperor receives the Macartney embassy",
+  "year": 1793,
+  "month": 9,
+  "day": 14,
+  "calendar": "gregorian",
+  "summary": "The Qianlong Emperor received Lord Macartney, Britain's first envoy to China, at the summer retreat of Chengde.",
+  "reason": "Britain wanted to open China to wider trade and a permanent embassy.",
+  "significance": "China's refusal of these requests foreshadowed the conflicts of the Opium Wars.",
+  "participants": [
+    "Qianlong Emperor",
+    "George Macartney",
+    "Qing dynasty",
+    "Kingdom of Great Britain"
+  ],
+  "countries": [
+    "China",
+    "United Kingdom"
+  ],
+  "place": "Chengde Mountain Resort, Hebei, China",
+  "lat": 40.9925,
+  "lon": 117.9361,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 60,
+  "wikipedia": "Macartney Embassy",
+  "wikidata": "Q6722675"
+}

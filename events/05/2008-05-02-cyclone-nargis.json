@@ -1,0 +1,26 @@
+{
+  "id": "event-2008-05-02-cyclone-nargis",
+  "title": "Cyclone Nargis devastates Myanmar",
+  "year": 2008,
+  "month": 5,
+  "day": 2,
+  "calendar": "gregorian",
+  "summary": "Cyclone Nargis struck the Irrawaddy Delta with a huge storm surge, killing about 138,000 people.",
+  "reason": "The low delta was densely farmed, and the military junta gave little warning.",
+  "significance": "The junta's blocking of foreign aid drew global condemnation.",
+  "participants": [
+    "Myanmar"
+  ],
+  "countries": [
+    "Myanmar"
+  ],
+  "place": "Irrawaddy Delta, Myanmar",
+  "lat": 16.1469,
+  "lon": 94.7611,
+  "tags": [
+    "disaster"
+  ],
+  "weight": 55,
+  "wikipedia": "Cyclone Nargis",
+  "wikidata": "Q152314"
+}

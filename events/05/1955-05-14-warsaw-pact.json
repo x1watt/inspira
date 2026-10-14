@@ -1,0 +1,35 @@
+{
+  "id": "event-1955-05-14-warsaw-pact",
+  "title": "The Warsaw Pact is signed",
+  "year": 1955,
+  "month": 5,
+  "day": 14,
+  "calendar": "gregorian",
+  "summary": "The Soviet Union and seven Eastern European states signed a treaty of mutual defence in Warsaw.",
+  "reason": "Moscow answered West Germany's entry into NATO with an alliance of its own.",
+  "significance": "It bound the Eastern bloc militarily to Moscow until 1991.",
+  "participants": [
+    "Soviet Union",
+    "Poland",
+    "East Germany",
+    "Czechoslovakia",
+    "Hungary",
+    "Romania",
+    "Bulgaria",
+    "Albania"
+  ],
+  "countries": [
+    "Poland",
+    "Russia"
+  ],
+  "place": "Warsaw, Poland",
+  "lat": 52.2297,
+  "lon": 21.0122,
+  "tags": [
+    "diplomacy",
+    "war"
+  ],
+  "weight": 70,
+  "wikipedia": "Warsaw Pact",
+  "wikidata": "Q41644"
+}

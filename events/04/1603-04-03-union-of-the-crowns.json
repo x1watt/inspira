@@ -1,0 +1,27 @@
+{
+  "id": "event-1603-04-03-union-of-the-crowns",
+  "title": "James VI of Scotland inherits the English throne",
+  "year": 1603,
+  "month": 4,
+  "day": 3,
+  "calendar": "gregorian",
+  "summary": "Queen Elizabeth I died without children and James VI of Scotland succeeded her as James I of England, joining the two crowns under one monarch.",
+  "reason": "James was the great-grandson of Henry VII and the closest Protestant heir to the childless queen.",
+  "significance": "The personal union of England and Scotland laid the ground for the later United Kingdom.",
+  "participants": [
+    "Elizabeth I",
+    "James VI and I"
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "place": "Richmond Palace, London, United Kingdom",
+  "lat": 51.4613,
+  "lon": -0.3087,
+  "tags": [
+    "politics"
+  ],
+  "weight": 62,
+  "wikipedia": "Union of the Crowns",
+  "wikidata": "Q2732400"
+}

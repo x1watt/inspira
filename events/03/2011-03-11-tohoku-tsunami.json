@@ -1,0 +1,27 @@
+{
+  "id": "event-2011-03-11-tohoku-tsunami",
+  "title": "Tohoku earthquake and tsunami strike Japan",
+  "year": 2011,
+  "month": 3,
+  "day": 11,
+  "calendar": "gregorian",
+  "summary": "A magnitude 9.0 earthquake off northeastern Japan sent a tsunami that killed about 18,000 people and caused the Fukushima nuclear disaster.",
+  "reason": "The Pacific Plate slipped violently under Japan along a huge section of fault.",
+  "significance": "It was Japan's worst disaster since 1945 and turned many countries against nuclear power.",
+  "participants": [
+    "Japan",
+    "Tokyo Electric Power Company"
+  ],
+  "countries": [
+    "Japan"
+  ],
+  "place": "Off the Oshika Peninsula, Tohoku, Japan",
+  "lat": 38.322,
+  "lon": 142.369,
+  "tags": [
+    "disaster"
+  ],
+  "weight": 80,
+  "wikipedia": "2011 Tōhoku earthquake and tsunami",
+  "wikidata": "Q36204"
+}

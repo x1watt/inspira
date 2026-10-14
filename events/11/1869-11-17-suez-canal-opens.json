@@ -1,0 +1,31 @@
+{
+  "id": "event-1869-11-17-suez-canal-opens",
+  "title": "The Suez Canal opens",
+  "year": 1869,
+  "month": 11,
+  "day": 17,
+  "calendar": "gregorian",
+  "summary": "A procession of ships led by the French imperial yacht with Empress Eugénie aboard opened the canal linking the Mediterranean and the Red Sea at Port Said.",
+  "reason": "Ferdinand de Lesseps and the Egyptian rulers built it over ten years, largely with forced Egyptian labor, to shorten the sea route between Europe and Asia.",
+  "significance": "It transformed world trade and made Egypt a strategic prize for the European powers.",
+  "participants": [
+    "Ferdinand de Lesseps",
+    "Isma'il Pasha",
+    "Suez Canal Company",
+    "Empress Eugénie"
+  ],
+  "countries": [
+    "Egypt",
+    "France"
+  ],
+  "place": "Port Said, Egypt",
+  "lat": 31.2653,
+  "lon": 32.3019,
+  "tags": [
+    "technology",
+    "economy"
+  ],
+  "weight": 80,
+  "wikipedia": "Suez Canal",
+  "wikidata": "Q899"
+}

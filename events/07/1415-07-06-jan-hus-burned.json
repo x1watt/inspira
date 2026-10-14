@@ -1,0 +1,29 @@
+{
+  "id": "event-1415-07-06-jan-hus-burned",
+  "title": "Jan Hus is burned at the stake in Constance",
+  "year": 1415,
+  "month": 7,
+  "day": 6,
+  "calendar": "julian",
+  "summary": "The Czech reformer Jan Hus was condemned as a heretic by the Council of Constance and burned, despite a promise of safe conduct from Emperor Sigismund.",
+  "reason": "Hus attacked clerical corruption and the sale of indulgences and questioned papal authority, which the council saw as a threat to church unity.",
+  "significance": "His death sparked the Hussite movement in Bohemia and foreshadowed the Reformation.",
+  "participants": [
+    "Jan Hus",
+    "Council of Constance",
+    "Sigismund, Holy Roman Emperor"
+  ],
+  "countries": [
+    "Germany",
+    "Czech Republic"
+  ],
+  "place": "Konstanz, Germany",
+  "lat": 47.66,
+  "lon": 9.175,
+  "tags": [
+    "religion"
+  ],
+  "weight": 65,
+  "wikipedia": "Jan Hus",
+  "wikidata": "Q43977"
+}

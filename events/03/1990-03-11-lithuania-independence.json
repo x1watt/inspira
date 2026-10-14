@@ -1,0 +1,30 @@
+{
+  "id": "event-1990-03-11-lithuania-independence",
+  "title": "Lithuania declares independence from the Soviet Union",
+  "year": 1990,
+  "month": 3,
+  "day": 11,
+  "calendar": "gregorian",
+  "summary": "The Supreme Council of Lithuania voted to restore the country's independence, the first Soviet republic to do so.",
+  "reason": "Gorbachev's reforms allowed the Sajudis movement to win elections on a platform of ending the 1940 Soviet annexation.",
+  "significance": "It set off the chain of secessions that ended the Soviet Union.",
+  "participants": [
+    "Supreme Council of Lithuania",
+    "Vytautas Landsbergis",
+    "Soviet Union"
+  ],
+  "countries": [
+    "Lithuania",
+    "Russia"
+  ],
+  "place": "Vilnius, Lithuania",
+  "lat": 54.6872,
+  "lon": 25.2797,
+  "tags": [
+    "politics",
+    "revolution"
+  ],
+  "weight": 62,
+  "wikipedia": "Act of the Re-Establishment of the State of Lithuania",
+  "wikidata": "Q2823577"
+}

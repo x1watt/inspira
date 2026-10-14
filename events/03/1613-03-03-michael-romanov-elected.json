@@ -1,0 +1,26 @@
+{
+  "id": "event-1613-03-03-michael-romanov-elected",
+  "title": "Michael Romanov is elected tsar of Russia",
+  "year": 1613,
+  "month": 3,
+  "day": 3,
+  "calendar": "gregorian",
+  "summary": "An assembly of the land in Moscow chose the young Michael Romanov as tsar, ending the Time of Troubles.",
+  "reason": "Years of famine, civil war and Polish and Swedish invasion after the end of the Rurik dynasty left Russia without a ruler.",
+  "significance": "It founded the Romanov dynasty, which ruled Russia until 1917.",
+  "participants": [
+    "Michael I of Russia",
+    "Zemsky Sobor"
+  ],
+  "countries": [
+    "Russia"
+  ],
+  "place": "Moscow, Russia",
+  "lat": 55.752,
+  "lon": 37.6175,
+  "tags": [
+    "politics"
+  ],
+  "weight": 66,
+  "wikipedia": "Michael of Russia"
+}

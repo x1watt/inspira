@@ -1,0 +1,28 @@
+{
+  "id": "event-1864-07-19-third-battle-of-nanking",
+  "title": "Qing forces retake Nanjing from the Taiping",
+  "year": 1864,
+  "month": 7,
+  "day": 19,
+  "calendar": "gregorian",
+  "summary": "Zeng Guofan's Xiang Army broke through the walls of Nanjing and captured the Taiping capital, massacring many defenders.",
+  "reason": "The Qing and regional armies had besieged the city for two years after the Taiping were weakened by internal purges.",
+  "significance": "It effectively ended the Taiping Rebellion, one of the deadliest conflicts in history.",
+  "participants": [
+    "Zeng Guofan",
+    "Zeng Guoquan",
+    "Xiang Army",
+    "Taiping Heavenly Kingdom"
+  ],
+  "countries": [
+    "China"
+  ],
+  "place": "Nanjing, Jiangsu, China",
+  "lat": 32.0603,
+  "lon": 118.7969,
+  "tags": [
+    "war"
+  ],
+  "weight": 55,
+  "wikipedia": "Third Battle of Nanjing"
+}

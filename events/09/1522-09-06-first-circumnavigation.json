@@ -1,0 +1,28 @@
+{
+  "id": "event-1522-09-06-first-circumnavigation",
+  "title": "The Victoria completes the first circumnavigation",
+  "year": 1522,
+  "month": 9,
+  "day": 6,
+  "calendar": "julian",
+  "summary": "The ship Victoria, commanded by Juan Sebastian Elcano, reached Sanlucar de Barrameda with 18 survivors, three years after Magellan's fleet of five ships had set out.",
+  "reason": "The expedition had sought a western route to the Spice Islands, and the survivors returned westward around Africa.",
+  "significance": "It was the first voyage around the world and proved the true size of the Earth's oceans.",
+  "participants": [
+    "Juan Sebastian Elcano",
+    "Ferdinand Magellan",
+    "Spanish Empire"
+  ],
+  "countries": [
+    "Spain"
+  ],
+  "place": "Sanlucar de Barrameda, Andalusia, Spain",
+  "lat": 36.778,
+  "lon": -6.352,
+  "tags": [
+    "exploration"
+  ],
+  "weight": 85,
+  "wikipedia": "Magellan expedition",
+  "wikidata": "Q1225170"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "event-1924-01-21-death-of-lenin",
+  "title": "Vladimir Lenin dies",
+  "year": 1924,
+  "month": 1,
+  "day": 21,
+  "calendar": "gregorian",
+  "summary": "Vladimir Lenin, founder of the Soviet state, died at his estate in Gorki near Moscow after a series of strokes.",
+  "reason": "Lenin's health had failed since 1922, partly linked to an assassination attempt in 1918.",
+  "significance": "His death opened a power struggle that Joseph Stalin won.",
+  "participants": [
+    "Vladimir Lenin",
+    "Joseph Stalin",
+    "Soviet Union"
+  ],
+  "countries": [
+    "Russia"
+  ],
+  "place": "Gorki Leninskiye, near Moscow, Russia",
+  "lat": 55.5063,
+  "lon": 37.7594,
+  "tags": [
+    "politics"
+  ],
+  "weight": 57,
+  "wikipedia": "Death and state funeral of Vladimir Lenin",
+  "wikidata": "Q16609395"
+}

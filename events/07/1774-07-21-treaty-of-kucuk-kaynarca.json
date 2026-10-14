@@ -1,0 +1,30 @@
+{
+  "id": "event-1774-07-21-treaty-of-kucuk-kaynarca",
+  "title": "Treaty of Kucuk Kaynarca ends a Russo-Turkish war",
+  "year": 1774,
+  "month": 7,
+  "day": 21,
+  "calendar": "gregorian",
+  "summary": "The Ottoman Empire made peace with Russia, recognising the independence of the Crimean Khanate and giving Russia ports on the Black Sea.",
+  "reason": "Russia had won a series of decisive victories over the Ottomans by land and sea.",
+  "significance": "It marked the beginning of Ottoman decline relative to Russia and the start of the Eastern Question.",
+  "participants": [
+    "Russian Empire",
+    "Ottoman Empire",
+    "Pyotr Rumyantsev"
+  ],
+  "countries": [
+    "Bulgaria",
+    "Russia",
+    "Turkey"
+  ],
+  "place": "Kaynardzha, Bulgaria",
+  "lat": 44.0,
+  "lon": 27.5,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 65,
+  "wikipedia": "Treaty of Küçük Kaynarca",
+  "wikidata": "Q123227"
+}

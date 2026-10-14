@@ -1,0 +1,30 @@
+{
+  "id": "event-1940-09-22-japan-invades-indochina",
+  "title": "Japan invades northern French Indochina",
+  "year": 1940,
+  "month": 9,
+  "day": 22,
+  "calendar": "gregorian",
+  "summary": "Japanese troops crossed from China into northern Vietnam and fought brief battles with French colonial forces around Lang Son before Vichy France accepted Japanese bases.",
+  "reason": "Japan wanted to cut the supply route to Nationalist China through Haiphong and to gain a foothold in South-East Asia after France's defeat.",
+  "significance": "It drew US economic sanctions on Japan and began the Japanese presence in Indochina that later fed the Vietnamese independence struggle.",
+  "participants": [
+    "Empire of Japan",
+    "Vichy France",
+    "French Indochina"
+  ],
+  "countries": [
+    "Vietnam",
+    "Japan",
+    "France"
+  ],
+  "place": "Lang Son, Vietnam",
+  "lat": 21.8537,
+  "lon": 106.7615,
+  "tags": [
+    "war"
+  ],
+  "weight": 52,
+  "wikipedia": "Japanese invasion of French Indochina",
+  "wikidata": "Q140025"
+}

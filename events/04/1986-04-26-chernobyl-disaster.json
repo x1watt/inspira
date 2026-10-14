@@ -1,0 +1,30 @@
+{
+  "id": "event-1986-04-26-chernobyl-disaster",
+  "title": "Reactor explodes at Chernobyl",
+  "year": 1986,
+  "month": 4,
+  "day": 26,
+  "calendar": "gregorian",
+  "summary": "Reactor No. 4 of the Chernobyl nuclear plant in Soviet Ukraine exploded during a safety test, releasing radioactive material across Europe.",
+  "reason": "A flawed reactor design and operators breaking rules during the test caused a power surge.",
+  "significance": "It is the worst nuclear disaster in history and damaged trust in the Soviet system.",
+  "participants": [
+    "Chernobyl Nuclear Power Plant",
+    "Soviet Union"
+  ],
+  "countries": [
+    "Ukraine",
+    "Belarus",
+    "Russia"
+  ],
+  "place": "Chernobyl Nuclear Power Plant, Pripyat, Ukraine",
+  "lat": 51.389,
+  "lon": 30.099,
+  "tags": [
+    "disaster",
+    "technology"
+  ],
+  "weight": 85,
+  "wikipedia": "Chernobyl disaster",
+  "wikidata": "Q486"
+}

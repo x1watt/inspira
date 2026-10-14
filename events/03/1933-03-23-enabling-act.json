@@ -1,0 +1,30 @@
+{
+  "id": "event-1933-03-23-enabling-act",
+  "title": "The Reichstag passes the Enabling Act",
+  "year": 1933,
+  "month": 3,
+  "day": 23,
+  "calendar": "gregorian",
+  "summary": "Meeting in the Kroll Opera House, the Reichstag passed a law allowing Hitler's cabinet to make laws without parliament, with only the Social Democrats voting against.",
+  "reason": "Hitler sought legal cover for dictatorship, using intimidation and promises to win the needed two-thirds majority.",
+  "significance": "It gave Hitler dictatorial power and ended Weimar democracy.",
+  "participants": [
+    "Adolf Hitler",
+    "Reichstag",
+    "Otto Wels",
+    "Centre Party"
+  ],
+  "countries": [
+    "Germany"
+  ],
+  "place": "Kroll Opera House, Berlin, Germany",
+  "lat": 52.518,
+  "lon": 13.368,
+  "tags": [
+    "law",
+    "politics"
+  ],
+  "weight": 67,
+  "wikipedia": "Enabling Act of 1933",
+  "wikidata": "Q310218"
+}

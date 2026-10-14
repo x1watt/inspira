@@ -1,0 +1,27 @@
+{
+  "id": "event-1791-09-30-magic-flute-premiere",
+  "title": "Mozart's The Magic Flute premieres in Vienna",
+  "year": 1791,
+  "month": 9,
+  "day": 30,
+  "calendar": "gregorian",
+  "summary": "Mozart's opera The Magic Flute, with a libretto by Emanuel Schikaneder, premiered at the Theater auf der Wieden. Mozart conducted.",
+  "reason": "Schikaneder's popular theatre wanted a German language opera mixing comedy, fantasy and Masonic ideals.",
+  "significance": "It became one of the most performed operas in the world.",
+  "participants": [
+    "Wolfgang Amadeus Mozart",
+    "Emanuel Schikaneder"
+  ],
+  "countries": [
+    "Austria"
+  ],
+  "place": "Theater auf der Wieden, Vienna, Austria",
+  "lat": 48.1967,
+  "lon": 16.364,
+  "tags": [
+    "culture"
+  ],
+  "weight": 50,
+  "wikipedia": "The Magic Flute",
+  "wikidata": "Q5064"
+}

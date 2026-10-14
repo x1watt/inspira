@@ -1,0 +1,28 @@
+{
+  "id": "event-1795-04-07-metric-system-adopted",
+  "title": "France adopts the metric system",
+  "year": 1795,
+  "month": 4,
+  "day": 7,
+  "calendar": "gregorian",
+  "summary": "A French law defined the metre, the gram and the litre as the new national units of measure, with decimal multiples.",
+  "reason": "Revolutionaries wanted rational, universal units to replace hundreds of local measures.",
+  "significance": "The metric system became the international standard.",
+  "participants": [
+    "National Convention",
+    "French Academy of Sciences"
+  ],
+  "countries": [
+    "France"
+  ],
+  "place": "Paris, France",
+  "lat": 48.8566,
+  "lon": 2.3522,
+  "tags": [
+    "science",
+    "law"
+  ],
+  "weight": 60,
+  "wikipedia": "History of the metric system",
+  "wikidata": "Q17091707"
+}

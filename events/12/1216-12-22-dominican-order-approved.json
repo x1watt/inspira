@@ -1,0 +1,28 @@
+{
+  "id": "event-1216-12-22-dominican-order-approved",
+  "title": "Pope Honorius III approves the Dominican Order",
+  "year": 1216,
+  "month": 12,
+  "day": 22,
+  "calendar": "julian",
+  "summary": "Pope Honorius III issued a bull confirming the Order of Preachers founded by Dominic de Guzman.",
+  "reason": "Dominic wanted educated, poor preachers to counter heresy in southern France.",
+  "significance": "The Dominicans became one of the most influential orders in teaching, theology and later the Inquisition.",
+  "participants": [
+    "Pope Honorius III",
+    "Saint Dominic",
+    "Dominican Order"
+  ],
+  "countries": [
+    "Italy"
+  ],
+  "place": "Rome, Italy",
+  "lat": 41.8933,
+  "lon": 12.4829,
+  "tags": [
+    "religion"
+  ],
+  "weight": 50,
+  "wikipedia": "Dominican Order",
+  "wikidata": "Q131479"
+}

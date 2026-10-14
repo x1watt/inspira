@@ -1,0 +1,30 @@
+{
+  "id": "event-1990-04-24-hubble-launch",
+  "title": "Hubble Space Telescope is launched",
+  "year": 1990,
+  "month": 4,
+  "day": 24,
+  "calendar": "gregorian",
+  "summary": "Space Shuttle Discovery lifted off on mission STS-31 carrying the Hubble Space Telescope, which it released into orbit the next day.",
+  "reason": "Astronomers wanted a large telescope above the atmosphere, which blurs and absorbs starlight.",
+  "significance": "Hubble transformed astronomy, from the age of the universe to the study of distant galaxies.",
+  "participants": [
+    "NASA",
+    "European Space Agency",
+    "Space Shuttle Discovery"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Kennedy Space Center, Florida, United States",
+  "lat": 28.6084,
+  "lon": -80.6043,
+  "tags": [
+    "science",
+    "technology",
+    "exploration"
+  ],
+  "weight": 75,
+  "wikipedia": "STS-31",
+  "wikidata": "Q834673"
+}

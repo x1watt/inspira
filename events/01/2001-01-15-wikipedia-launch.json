@@ -1,0 +1,28 @@
+{
+  "id": "event-2001-01-15-wikipedia-launch",
+  "title": "Wikipedia is launched",
+  "year": 2001,
+  "month": 1,
+  "day": 15,
+  "calendar": "gregorian",
+  "summary": "Jimmy Wales and Larry Sanger launched Wikipedia, a free encyclopedia anyone could edit.",
+  "reason": "It began as a wiki side project to speed up writing for the expert-written Nupedia.",
+  "significance": "It became the largest reference work ever assembled.",
+  "participants": [
+    "Jimmy Wales",
+    "Larry Sanger"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Online",
+  "lat": 39.0436,
+  "lon": -77.4875,
+  "tags": [
+    "technology",
+    "culture"
+  ],
+  "weight": 72,
+  "wikipedia": "Wikipedia",
+  "wikidata": "Q52"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "event-1652-04-06-van-riebeeck-cape",
+  "title": "Jan van Riebeeck founds a Dutch station at the Cape",
+  "year": 1652,
+  "month": 4,
+  "day": 6,
+  "calendar": "gregorian",
+  "summary": "Jan van Riebeeck arrived in Table Bay with three ships and set up a fort and garden to supply Dutch East India Company ships.",
+  "reason": "Ships sailing between Europe and Asia needed fresh water, food and repairs halfway along the long voyage.",
+  "significance": "The outpost grew into Cape Town and the start of European settlement in South Africa.",
+  "participants": [
+    "Jan van Riebeeck",
+    "Dutch East India Company",
+    "Khoikhoi"
+  ],
+  "countries": [
+    "South Africa",
+    "Netherlands"
+  ],
+  "place": "Table Bay, Cape Town, South Africa",
+  "lat": -33.9249,
+  "lon": 18.4241,
+  "tags": [
+    "exploration",
+    "economy"
+  ],
+  "weight": 66,
+  "wikipedia": "Dutch Cape Colony",
+  "wikidata": "Q4807130"
+}

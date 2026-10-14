@@ -1,0 +1,28 @@
+{
+  "id": "event-439-10-19-vandals-capture-carthage",
+  "title": "The Vandals capture Carthage",
+  "year": 439,
+  "month": 10,
+  "day": 19,
+  "calendar": "julian",
+  "summary": "Genseric's Vandals seized Carthage by surprise, breaking a treaty with Rome, and made it the capital of their kingdom.",
+  "reason": "The Vandals sought the rich grain lands of Africa Proconsularis, the bread basket of Rome.",
+  "significance": "Losing Africa's grain and taxes was a heavy blow to the Western Roman Empire.",
+  "participants": [
+    "Genseric",
+    "Vandals",
+    "Western Roman Empire"
+  ],
+  "countries": [
+    "Tunisia"
+  ],
+  "place": "Carthage, Tunisia",
+  "lat": 36.8528,
+  "lon": 10.3233,
+  "tags": [
+    "war"
+  ],
+  "weight": 65,
+  "wikipedia": "Gaiseric",
+  "wikidata": "Q10416611"
+}

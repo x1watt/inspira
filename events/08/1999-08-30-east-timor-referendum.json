@@ -1,0 +1,30 @@
+{
+  "id": "event-1999-08-30-east-timor-referendum",
+  "title": "East Timor votes for independence",
+  "year": 1999,
+  "month": 8,
+  "day": 30,
+  "calendar": "gregorian",
+  "summary": "In a UN-run referendum, 78.5 percent of East Timorese voted to leave Indonesia.",
+  "reason": "After Suharto's fall, Indonesia allowed a vote on the territory it had occupied since 1975.",
+  "significance": "Despite militia violence after the vote, it led to the independence of Timor-Leste in 2002.",
+  "participants": [
+    "United Nations",
+    "Indonesia",
+    "Xanana Gusmao"
+  ],
+  "countries": [
+    "Timor-Leste",
+    "Indonesia"
+  ],
+  "place": "Dili, Timor-Leste",
+  "lat": -8.5569,
+  "lon": 125.5603,
+  "tags": [
+    "rights",
+    "politics"
+  ],
+  "weight": 55,
+  "wikipedia": "1999 East Timorese independence referendum",
+  "wikidata": "Q2492380"
+}

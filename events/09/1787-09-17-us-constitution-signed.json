@@ -1,0 +1,29 @@
+{
+  "id": "event-1787-09-17-us-constitution-signed",
+  "title": "The United States Constitution is signed",
+  "year": 1787,
+  "month": 9,
+  "day": 17,
+  "calendar": "gregorian",
+  "summary": "Delegates to the Constitutional Convention in Philadelphia signed the new Constitution of the United States.",
+  "reason": "The Articles of Confederation had left the national government too weak to tax, defend or regulate commerce.",
+  "significance": "It became the oldest written national constitution still in use.",
+  "participants": [
+    "Constitutional Convention",
+    "George Washington",
+    "James Madison"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Independence Hall, Philadelphia, United States",
+  "lat": 39.9489,
+  "lon": -75.15,
+  "tags": [
+    "politics",
+    "law"
+  ],
+  "weight": 85,
+  "wikipedia": "Signing of the United States Constitution",
+  "wikidata": "Q1434166"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "event-1926-03-16-goddard-rocket",
+  "title": "Robert Goddard launches the first liquid-fueled rocket",
+  "year": 1926,
+  "month": 3,
+  "day": 16,
+  "calendar": "gregorian",
+  "summary": "Robert Goddard launched a small rocket fueled by gasoline and liquid oxygen from a farm in Auburn, Massachusetts; it flew for about two and a half seconds.",
+  "reason": "Goddard believed liquid propellants could power rockets to high altitudes and eventually into space.",
+  "significance": "It founded modern rocketry, which led to spaceflight and missiles.",
+  "participants": [
+    "Robert H. Goddard"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Auburn, Massachusetts, United States",
+  "lat": 42.2079,
+  "lon": -71.8326,
+  "tags": [
+    "technology"
+  ],
+  "weight": 67,
+  "wikipedia": "Robert H. Goddard",
+  "wikidata": "Q182546"
+}

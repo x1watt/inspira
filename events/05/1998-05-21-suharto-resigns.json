@@ -1,0 +1,28 @@
+{
+  "id": "event-1998-05-21-suharto-resigns",
+  "title": "Suharto resigns after 31 years",
+  "year": 1998,
+  "month": 5,
+  "day": 21,
+  "calendar": "gregorian",
+  "summary": "Indonesian President Suharto stepped down amid mass protests and riots.",
+  "reason": "The Asian financial crisis had wrecked Indonesia's economy and turned students and elites against him.",
+  "significance": "It opened Indonesia's transition to democracy.",
+  "participants": [
+    "Suharto",
+    "B. J. Habibie"
+  ],
+  "countries": [
+    "Indonesia"
+  ],
+  "place": "Jakarta, Indonesia",
+  "lat": -6.2088,
+  "lon": 106.8456,
+  "tags": [
+    "politics",
+    "revolution"
+  ],
+  "weight": 65,
+  "wikipedia": "Fall of Suharto",
+  "wikidata": "Q5432165"
+}

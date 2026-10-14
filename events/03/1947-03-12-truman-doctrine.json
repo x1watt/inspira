@@ -1,0 +1,30 @@
+{
+  "id": "event-1947-03-12-truman-doctrine",
+  "title": "Truman announces the Truman Doctrine",
+  "year": 1947,
+  "month": 3,
+  "day": 12,
+  "calendar": "gregorian",
+  "summary": "President Harry Truman asked Congress for aid to Greece and Turkey and declared that the United States would support free peoples resisting subjugation.",
+  "reason": "Britain could no longer afford to support Greece against a communist insurgency, and Turkey faced Soviet pressure.",
+  "significance": "It made containment of communism the core of American foreign policy.",
+  "participants": [
+    "Harry S. Truman",
+    "United States Congress"
+  ],
+  "countries": [
+    "United States",
+    "Greece",
+    "Turkey"
+  ],
+  "place": "United States Capitol, Washington, D.C., United States",
+  "lat": 38.8899,
+  "lon": -77.0091,
+  "tags": [
+    "politics",
+    "diplomacy"
+  ],
+  "weight": 70,
+  "wikipedia": "Truman Doctrine",
+  "wikidata": "Q171375"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "event-1492-03-31-alhambra-decree",
+  "title": "Spain orders the expulsion of its Jews",
+  "year": 1492,
+  "month": 3,
+  "day": 31,
+  "calendar": "julian",
+  "summary": "Ferdinand and Isabella signed the Alhambra Decree, ordering all Jews in Castile and Aragon to convert to Christianity or leave by the end of July.",
+  "reason": "The monarchs, urged by the Inquisition, wanted religious unity after the conquest of Granada and blamed Jews for influencing converts.",
+  "significance": "It ended centuries of Jewish life in Spain and scattered Sephardic communities across the Mediterranean and beyond.",
+  "participants": [
+    "Ferdinand II of Aragon",
+    "Isabella I of Castile",
+    "Tomas de Torquemada",
+    "Spanish Inquisition"
+  ],
+  "countries": [
+    "Spain"
+  ],
+  "place": "Alhambra, Granada, Spain",
+  "lat": 37.176,
+  "lon": -3.588,
+  "tags": [
+    "religion",
+    "rights"
+  ],
+  "weight": 68,
+  "wikipedia": "Alhambra Decree",
+  "wikidata": "Q1061030"
+}

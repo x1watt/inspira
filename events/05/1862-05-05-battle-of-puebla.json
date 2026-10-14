@@ -1,0 +1,30 @@
+{
+  "id": "event-1862-05-05-battle-of-puebla",
+  "title": "Mexico defeats the French at the Battle of Puebla",
+  "year": 1862,
+  "month": 5,
+  "day": 5,
+  "calendar": "gregorian",
+  "summary": "A Mexican army under Ignacio Zaragoza repelled an attack by French troops on the forts of Puebla.",
+  "reason": "France had invaded Mexico, using unpaid debts as a pretext, to set up a friendly monarchy.",
+  "significance": "The unexpected victory became a symbol of Mexican resistance, celebrated as Cinco de Mayo.",
+  "participants": [
+    "Ignacio Zaragoza",
+    "Mexico",
+    "Second French Empire",
+    "Charles de Lorencez"
+  ],
+  "countries": [
+    "Mexico",
+    "France"
+  ],
+  "place": "Puebla, Mexico",
+  "lat": 19.0577,
+  "lon": -98.188,
+  "tags": [
+    "war"
+  ],
+  "weight": 55,
+  "wikipedia": "Battle of Puebla",
+  "wikidata": "Q1061228"
+}

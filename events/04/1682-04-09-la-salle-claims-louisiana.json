@@ -1,0 +1,28 @@
+{
+  "id": "event-1682-04-09-la-salle-claims-louisiana",
+  "title": "La Salle claims the Mississippi basin for France",
+  "year": 1682,
+  "month": 4,
+  "day": 9,
+  "calendar": "gregorian",
+  "summary": "Having descended the Mississippi to the Gulf of Mexico, Rene-Robert Cavelier de La Salle claimed the whole river basin for Louis XIV and named it Louisiana.",
+  "reason": "France wanted to link its Canadian colony with the Gulf and block English and Spanish expansion in the interior.",
+  "significance": "It gave France a claim to the heart of North America, later sold to the United States in 1803.",
+  "participants": [
+    "Rene-Robert Cavelier, Sieur de La Salle",
+    "Kingdom of France"
+  ],
+  "countries": [
+    "United States",
+    "France"
+  ],
+  "place": "Mississippi River delta, Louisiana, United States",
+  "lat": 29.15,
+  "lon": -89.25,
+  "tags": [
+    "exploration"
+  ],
+  "weight": 56,
+  "wikipedia": "René-Robert Cavelier, Sieur de La Salle",
+  "wikidata": "Q658054"
+}

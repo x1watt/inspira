@@ -1,0 +1,28 @@
+{
+  "id": "event-1861-03-03-emancipation-of-serfs",
+  "title": "Alexander II frees the serfs of Russia",
+  "year": 1861,
+  "month": 3,
+  "day": 3,
+  "calendar": "gregorian",
+  "summary": "Tsar Alexander II signed the Emancipation Manifesto, freeing about 23 million privately owned serfs in the Russian Empire.",
+  "reason": "Defeat in the Crimean War exposed Russia's backwardness, and the tsar feared revolt from below if reform did not come from above.",
+  "significance": "It was the largest single act of emancipation in history and began Russia's era of Great Reforms.",
+  "participants": [
+    "Alexander II of Russia",
+    "Russian Empire"
+  ],
+  "countries": [
+    "Russia"
+  ],
+  "place": "Saint Petersburg, Russia",
+  "lat": 59.9343,
+  "lon": 30.3351,
+  "tags": [
+    "rights",
+    "law"
+  ],
+  "weight": 70,
+  "wikipedia": "Emancipation reform of 1861",
+  "wikidata": "Q1192212"
+}

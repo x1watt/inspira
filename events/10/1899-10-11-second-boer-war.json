@@ -1,0 +1,31 @@
+{
+  "id": "event-1899-10-11-second-boer-war",
+  "title": "Second Boer War begins",
+  "year": 1899,
+  "month": 10,
+  "day": 11,
+  "calendar": "gregorian",
+  "summary": "The South African Republic and the Orange Free State went to war with Britain when their ultimatum expired, and Boer commandos invaded Natal and the Cape.",
+  "reason": "Britain sought control over the gold-rich Transvaal and pressed for voting rights for British miners there, which the Boers saw as a threat to their independence.",
+  "significance": "The war, with its concentration camps, brought the Boer republics into the British Empire and shaped twentieth-century South Africa.",
+  "participants": [
+    "South African Republic",
+    "Orange Free State",
+    "Paul Kruger",
+    "British Empire",
+    "Alfred Milner"
+  ],
+  "countries": [
+    "South Africa",
+    "United Kingdom"
+  ],
+  "place": "Pretoria, South Africa",
+  "lat": -25.7479,
+  "lon": 28.2293,
+  "tags": [
+    "war"
+  ],
+  "weight": 60,
+  "wikipedia": "Second Boer War",
+  "wikidata": "Q215112"
+}

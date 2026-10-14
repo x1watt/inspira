@@ -1,0 +1,31 @@
+{
+  "id": "event-1944-05-18-crimean-tatars-deported",
+  "title": "Soviet Union deports the Crimean Tatars",
+  "year": 1944,
+  "month": 5,
+  "day": 18,
+  "calendar": "gregorian",
+  "summary": "Soviet security forces rounded up the entire Crimean Tatar people, about 190,000 people, and sent them in cattle cars to Central Asia. Many thousands died on the way and in the first years of exile.",
+  "reason": "Stalin accused the whole nation of collaborating with the German occupiers.",
+  "significance": "Ukraine and several other countries recognise it as a genocide, and the Tatars could return only after 1989.",
+  "participants": [
+    "NKVD",
+    "Joseph Stalin",
+    "Lavrentiy Beria",
+    "Crimean Tatars"
+  ],
+  "countries": [
+    "Ukraine",
+    "Russia",
+    "Uzbekistan"
+  ],
+  "place": "Crimea, Ukraine",
+  "lat": 44.9521,
+  "lon": 34.1024,
+  "tags": [
+    "rights"
+  ],
+  "weight": 52,
+  "wikipedia": "Deportation of the Crimean Tatars",
+  "wikidata": "Q1775286"
+}

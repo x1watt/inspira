@@ -1,0 +1,28 @@
+{
+  "id": "event-2019-01-03-change-4",
+  "title": "Chang'e 4 lands on the far side of the Moon",
+  "year": 2019,
+  "month": 1,
+  "day": 3,
+  "calendar": "gregorian",
+  "summary": "China's Chang'e 4 probe made the first ever soft landing on the far side of the Moon and released the Yutu-2 rover.",
+  "reason": "China had a step-by-step lunar program and used a relay satellite to talk to the hidden side.",
+  "significance": "It showed China's rise as a leading space power.",
+  "participants": [
+    "China National Space Administration",
+    "Yutu-2"
+  ],
+  "countries": [
+    "China"
+  ],
+  "place": "Von Karman crater, far side of the Moon",
+  "lat": null,
+  "lon": null,
+  "tags": [
+    "exploration",
+    "science"
+  ],
+  "weight": 60,
+  "wikipedia": "Chang'e 4",
+  "wikidata": "Q723045"
+}

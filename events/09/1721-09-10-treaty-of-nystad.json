@@ -1,0 +1,33 @@
+{
+  "id": "event-1721-09-10-treaty-of-nystad",
+  "title": "Treaty of Nystad ends the Great Northern War",
+  "year": 1721,
+  "month": 9,
+  "day": 10,
+  "calendar": "gregorian",
+  "summary": "Sweden and Russia made peace at Nystad, ceding Livonia, Estonia, Ingria and part of Karelia to Russia.",
+  "reason": "After two decades of war, Sweden had lost its army and its allies and could no longer resist Russian attacks on its coast.",
+  "significance": "Russia gained its Baltic coastline and replaced Sweden as the leading power of Northern Europe.",
+  "participants": [
+    "Tsardom of Russia",
+    "Swedish Empire",
+    "Peter the Great",
+    "Frederick I of Sweden"
+  ],
+  "countries": [
+    "Finland",
+    "Russia",
+    "Sweden",
+    "Estonia",
+    "Latvia"
+  ],
+  "place": "Uusikaupunki, Finland",
+  "lat": 60.8,
+  "lon": 21.4167,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 62,
+  "wikipedia": "Treaty of Nystad",
+  "wikidata": "Q153286"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "event-1941-06-25-executive-order-8802",
+  "title": "Roosevelt bans racial discrimination in US defence industries",
+  "year": 1941,
+  "month": 6,
+  "day": 25,
+  "calendar": "gregorian",
+  "summary": "President Roosevelt issued Executive Order 8802, forbidding discrimination by race, creed, colour or national origin in the defence industries and the federal government, and set up a committee to enforce it.",
+  "reason": "A. Philip Randolph had threatened a mass march on Washington by Black workers shut out of booming war jobs.",
+  "significance": "It was the first federal action against racial discrimination in employment since Reconstruction.",
+  "participants": [
+    "Franklin D. Roosevelt",
+    "A. Philip Randolph",
+    "Fair Employment Practice Committee"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Washington, D.C., United States",
+  "lat": 38.8977,
+  "lon": -77.0365,
+  "tags": [
+    "rights",
+    "law"
+  ],
+  "weight": 55,
+  "wikipedia": "Executive Order 8802",
+  "wikidata": "Q1383604"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "event-1927-10-06-the-jazz-singer",
+  "title": "The Jazz Singer premieres with synchronized speech",
+  "year": 1927,
+  "month": 10,
+  "day": 6,
+  "calendar": "gregorian",
+  "summary": "Warner Bros. premiered The Jazz Singer, starring Al Jolson, in New York, the first feature film with synchronized dialogue and singing.",
+  "reason": "Warner Bros. gambled on the Vitaphone sound-on-disc system to compete with larger studios.",
+  "significance": "It started the talkie era and quickly ended silent cinema.",
+  "participants": [
+    "Warner Bros.",
+    "Al Jolson",
+    "Alan Crosland"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Warner Theatre, New York City, United States",
+  "lat": 40.759,
+  "lon": -73.9845,
+  "tags": [
+    "culture",
+    "technology"
+  ],
+  "weight": 52,
+  "wikipedia": "The Jazz Singer",
+  "wikidata": "Q465087"
+}

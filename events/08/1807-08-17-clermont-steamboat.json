@@ -1,0 +1,27 @@
+{
+  "id": "event-1807-08-17-clermont-steamboat",
+  "title": "Fulton's steamboat sails up the Hudson",
+  "year": 1807,
+  "month": 8,
+  "day": 17,
+  "calendar": "gregorian",
+  "summary": "Robert Fulton's North River Steamboat left New York City for Albany, making the trip in about 32 hours.",
+  "reason": "Fulton and Robert Livingston sought a monopoly on steam navigation on the Hudson.",
+  "significance": "It began commercially successful steam navigation.",
+  "participants": [
+    "Robert Fulton",
+    "Robert Livingston"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "New York City, United States",
+  "lat": 40.7128,
+  "lon": -74.006,
+  "tags": [
+    "technology"
+  ],
+  "weight": 60,
+  "wikipedia": "North River Steamboat",
+  "wikidata": "Q1785439"
+}

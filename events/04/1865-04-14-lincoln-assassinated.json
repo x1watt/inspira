@@ -1,0 +1,27 @@
+{
+  "id": "event-1865-04-14-lincoln-assassinated",
+  "title": "Abraham Lincoln is shot at Ford's Theatre",
+  "year": 1865,
+  "month": 4,
+  "day": 14,
+  "calendar": "gregorian",
+  "summary": "Actor John Wilkes Booth shot President Lincoln during a play at Ford's Theatre in Washington; Lincoln died the next morning.",
+  "reason": "Booth, a Confederate sympathizer, hoped to revive the Southern cause days after Lee's surrender.",
+  "significance": "It was the first assassination of a United States president and shaped the troubled Reconstruction that followed.",
+  "participants": [
+    "Abraham Lincoln",
+    "John Wilkes Booth"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Ford's Theatre, Washington, D.C., United States",
+  "lat": 38.8967,
+  "lon": -77.0257,
+  "tags": [
+    "politics"
+  ],
+  "weight": 75,
+  "wikipedia": "Assassination of Abraham Lincoln",
+  "wikidata": "Q1025404"
+}

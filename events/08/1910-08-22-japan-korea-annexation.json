@@ -1,0 +1,30 @@
+{
+  "id": "event-1910-08-22-japan-korea-annexation",
+  "title": "Japan annexes Korea",
+  "year": 1910,
+  "month": 8,
+  "day": 22,
+  "calendar": "gregorian",
+  "summary": "Representatives of Japan and the Korean Empire signed the annexation treaty in Seoul, making Korea a Japanese colony; it was made public a week later.",
+  "reason": "Japan had made Korea a protectorate after defeating Russia and moved to full control to secure its strategic and economic interests.",
+  "significance": "It began 35 years of Japanese colonial rule over Korea.",
+  "participants": [
+    "Empire of Japan",
+    "Korean Empire",
+    "Terauchi Masatake",
+    "Ye Wanyong"
+  ],
+  "countries": [
+    "South Korea",
+    "North Korea",
+    "Japan"
+  ],
+  "place": "Seoul, South Korea",
+  "lat": 37.5665,
+  "lon": 126.978,
+  "tags": [
+    "politics"
+  ],
+  "weight": 62,
+  "wikipedia": "Japan-Korea Treaty of 1910"
+}

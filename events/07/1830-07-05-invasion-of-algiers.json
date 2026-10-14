@@ -1,0 +1,29 @@
+{
+  "id": "event-1830-07-05-invasion-of-algiers",
+  "title": "French army captures Algiers",
+  "year": 1830,
+  "month": 7,
+  "day": 5,
+  "calendar": "gregorian",
+  "summary": "The Dey of Algiers surrendered his city to the French expeditionary army three weeks after it landed at Sidi Ferruch.",
+  "reason": "Charles X sought prestige abroad and used a diplomatic insult to the French consul and old debts as a pretext.",
+  "significance": "It began 132 years of French colonial rule in Algeria.",
+  "participants": [
+    "Kingdom of France",
+    "Hussein Dey",
+    "Regency of Algiers",
+    "Louis-Auguste-Victor de Bourmont"
+  ],
+  "countries": [
+    "Algeria",
+    "France"
+  ],
+  "place": "Algiers, Algeria",
+  "lat": 36.7538,
+  "lon": 3.0588,
+  "tags": [
+    "war"
+  ],
+  "weight": 60,
+  "wikipedia": "Invasion of Algiers (1830)"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "event-1940-05-26-dunkirk-evacuation",
+  "title": "Dunkirk evacuation begins",
+  "year": 1940,
+  "month": 5,
+  "day": 26,
+  "calendar": "gregorian",
+  "summary": "The Royal Navy, helped by hundreds of civilian small boats, began evacuating Allied soldiers trapped at Dunkirk. By 4 June more than 338,000 British and French troops had been brought to England.",
+  "reason": "German armoured forces had cut off the British Expeditionary Force and French armies against the Channel coast.",
+  "significance": "Saving the army allowed Britain to keep fighting, and the 'Dunkirk spirit' became a lasting part of British national memory.",
+  "participants": [
+    "British Expeditionary Force",
+    "Royal Navy",
+    "French Army",
+    "Bertram Ramsay"
+  ],
+  "countries": [
+    "France",
+    "United Kingdom"
+  ],
+  "place": "Dunkirk, France",
+  "lat": 51.0343,
+  "lon": 2.3768,
+  "tags": [
+    "war"
+  ],
+  "weight": 72,
+  "wikipedia": "Dunkirk evacuation",
+  "wikidata": "Q911972"
+}

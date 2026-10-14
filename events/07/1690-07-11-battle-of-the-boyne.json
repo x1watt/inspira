@@ -1,0 +1,31 @@
+{
+  "id": "event-1690-07-11-battle-of-the-boyne",
+  "title": "William III defeats James II at the Boyne",
+  "year": 1690,
+  "month": 7,
+  "day": 11,
+  "calendar": "gregorian",
+  "summary": "The army of William III crossed the River Boyne and defeated the forces of the deposed James II, who fled back to France.",
+  "reason": "James had landed in Ireland with French help, hoping to use Catholic Ireland as a base to win back his crown.",
+  "significance": "It secured Protestant rule in Ireland and is still commemorated by Ulster loyalists.",
+  "participants": [
+    "William III of England",
+    "James II of England",
+    "Kingdom of France"
+  ],
+  "countries": [
+    "Ireland",
+    "United Kingdom",
+    "France"
+  ],
+  "place": "Oldbridge, County Meath, Ireland",
+  "lat": 53.7233,
+  "lon": -6.417,
+  "tags": [
+    "war",
+    "religion"
+  ],
+  "weight": 58,
+  "wikipedia": "Battle of the Boyne",
+  "wikidata": "Q644960"
+}

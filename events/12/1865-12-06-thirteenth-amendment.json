@@ -1,0 +1,29 @@
+{
+  "id": "event-1865-12-06-thirteenth-amendment",
+  "title": "Thirteenth Amendment abolishes slavery in the United States",
+  "year": 1865,
+  "month": 12,
+  "day": 6,
+  "calendar": "gregorian",
+  "summary": "Georgia's ratification gave the Thirteenth Amendment the votes it needed, abolishing slavery and involuntary servitude except as punishment for crime.",
+  "reason": "The Union victory and the Emancipation Proclamation needed a permanent constitutional basis.",
+  "significance": "It ended slavery throughout the United States, freeing about four million people.",
+  "participants": [
+    "United States Congress",
+    "Abraham Lincoln",
+    "Andrew Johnson"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "United States",
+  "lat": null,
+  "lon": null,
+  "tags": [
+    "rights",
+    "law"
+  ],
+  "weight": 75,
+  "wikipedia": "Thirteenth Amendment to the United States Constitution",
+  "wikidata": "Q175613"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "event-1981-08-12-ibm-pc",
+  "title": "IBM launches the IBM Personal Computer",
+  "year": 1981,
+  "month": 8,
+  "day": 12,
+  "calendar": "gregorian",
+  "summary": "IBM introduced its Personal Computer, using an Intel processor and Microsoft's operating system.",
+  "reason": "IBM wanted a quick entry into the growing personal computer market and used outside parts.",
+  "significance": "Its open design became the industry standard for personal computers.",
+  "participants": [
+    "IBM",
+    "Microsoft",
+    "Intel"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "New York City, United States",
+  "lat": 40.7564,
+  "lon": -73.974,
+  "tags": [
+    "technology"
+  ],
+  "weight": 61,
+  "wikipedia": "IBM Personal Computer",
+  "wikidata": "Q202712"
+}

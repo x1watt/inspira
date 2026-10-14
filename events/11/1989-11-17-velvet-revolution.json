@@ -1,0 +1,29 @@
+{
+  "id": "event-1989-11-17-velvet-revolution",
+  "title": "The Velvet Revolution begins in Prague",
+  "year": 1989,
+  "month": 11,
+  "day": 17,
+  "calendar": "gregorian",
+  "summary": "Police beat students marching in Prague on International Students' Day, sparking mass protests that ended communist rule within weeks.",
+  "reason": "Revolutions elsewhere in Eastern Europe encouraged Czechoslovaks to demand change.",
+  "significance": "Vaclav Havel became president, and the transition was peaceful.",
+  "participants": [
+    "Vaclav Havel",
+    "Civic Forum",
+    "Communist Party of Czechoslovakia"
+  ],
+  "countries": [
+    "Czech Republic",
+    "Slovakia"
+  ],
+  "place": "Narodni trida, Prague, Czech Republic",
+  "lat": 50.0819,
+  "lon": 14.418,
+  "tags": [
+    "revolution"
+  ],
+  "weight": 61,
+  "wikipedia": "Velvet Revolution",
+  "wikidata": "Q182817"
+}

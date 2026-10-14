@@ -1,0 +1,28 @@
+{
+  "id": "event-1923-11-08-beer-hall-putsch",
+  "title": "Hitler stages the Beer Hall Putsch in Munich",
+  "year": 1923,
+  "month": 11,
+  "day": 8,
+  "calendar": "gregorian",
+  "summary": "Adolf Hitler and the Nazi party tried to seize power in Munich, starting at the Burgerbraukeller beer hall; the coup collapsed the next day when police opened fire.",
+  "reason": "Hyperinflation and the occupation of the Ruhr had shaken the Weimar Republic, and Hitler hoped to copy Mussolini's march on Rome.",
+  "significance": "Hitler's trial and imprisonment gave him national fame and the time to write Mein Kampf.",
+  "participants": [
+    "Adolf Hitler",
+    "Nazi Party",
+    "Erich Ludendorff"
+  ],
+  "countries": [
+    "Germany"
+  ],
+  "place": "Burgerbraukeller, Munich, Germany",
+  "lat": 48.13,
+  "lon": 11.5925,
+  "tags": [
+    "politics"
+  ],
+  "weight": 52,
+  "wikipedia": "Beer Hall Putsch",
+  "wikidata": "Q36749"
+}

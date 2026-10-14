@@ -1,0 +1,30 @@
+{
+  "id": "event-303-02-23-diocletianic-persecution-begins",
+  "title": "The Great Persecution of Christians begins",
+  "year": 303,
+  "month": 2,
+  "day": 23,
+  "calendar": "julian",
+  "summary": "On the feast of the Terminalia, imperial troops destroyed the new church at Nicomedia, and the next day an edict ordered churches and scriptures destroyed across the empire.",
+  "reason": "Diocletian and his Caesar Galerius saw the growing Christian church as a threat to the unity and traditional religion of the empire.",
+  "significance": "It was the last and most severe persecution of Christians in the Roman Empire.",
+  "participants": [
+    "Diocletian",
+    "Galerius",
+    "Early Christians",
+    "Roman Empire"
+  ],
+  "countries": [
+    "Turkey"
+  ],
+  "place": "Nicomedia (Izmit), Turkey",
+  "lat": 40.7654,
+  "lon": 29.9408,
+  "tags": [
+    "religion",
+    "law"
+  ],
+  "weight": 65,
+  "wikipedia": "Diocletianic Persecution",
+  "wikidata": "Q1265674"
+}

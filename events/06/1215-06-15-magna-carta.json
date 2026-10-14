@@ -1,0 +1,30 @@
+{
+  "id": "event-1215-06-15-magna-carta",
+  "title": "King John agrees to Magna Carta at Runnymede",
+  "year": 1215,
+  "month": 6,
+  "day": 15,
+  "calendar": "julian",
+  "summary": "Faced with rebel barons, King John of England set his seal to a charter of liberties at Runnymede beside the Thames.",
+  "reason": "Heavy taxes, arbitrary rule and military failure in France had driven the barons to revolt.",
+  "significance": "It became a lasting symbol of the principle that rulers are bound by law.",
+  "participants": [
+    "John of England",
+    "English barons",
+    "Stephen Langton"
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "place": "Runnymede, Surrey, United Kingdom",
+  "lat": 51.4439,
+  "lon": -0.564,
+  "tags": [
+    "law",
+    "rights",
+    "politics"
+  ],
+  "weight": 85,
+  "wikipedia": "Magna Carta",
+  "wikidata": "Q12519"
+}

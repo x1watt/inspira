@@ -1,0 +1,28 @@
+{
+  "id": "event-1682-05-06-louis-xiv-moves-to-versailles",
+  "title": "Louis XIV moves his court to Versailles",
+  "year": 1682,
+  "month": 5,
+  "day": 6,
+  "calendar": "gregorian",
+  "summary": "King Louis XIV officially moved the royal court and government of France from Paris to the palace he had built at Versailles.",
+  "reason": "Louis wanted to escape the unrest of Paris and keep the nobility close and dependent on royal favor.",
+  "significance": "Versailles became the model of absolute monarchy and of court life across Europe.",
+  "participants": [
+    "Louis XIV",
+    "Kingdom of France"
+  ],
+  "countries": [
+    "France"
+  ],
+  "place": "Palace of Versailles, Versailles, France",
+  "lat": 48.8049,
+  "lon": 2.1204,
+  "tags": [
+    "politics",
+    "culture"
+  ],
+  "weight": 60,
+  "wikipedia": "Palace of Versailles",
+  "wikidata": "Q2946"
+}

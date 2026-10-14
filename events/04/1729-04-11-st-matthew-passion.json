@@ -1,0 +1,28 @@
+{
+  "id": "event-1729-04-11-st-matthew-passion",
+  "title": "Bach's St Matthew Passion is first performed",
+  "year": 1727,
+  "month": 4,
+  "day": 11,
+  "calendar": "gregorian",
+  "summary": "Johann Sebastian Bach's St Matthew Passion, for two choirs and two orchestras, was performed at the Good Friday vespers in Leipzig's St. Thomas Church.",
+  "reason": "As cantor of St. Thomas, Bach had to supply music for the Lutheran liturgy, including a passion for Good Friday.",
+  "significance": "It is one of the summits of Western sacred music.",
+  "participants": [
+    "Johann Sebastian Bach",
+    "St. Thomas Church, Leipzig"
+  ],
+  "countries": [
+    "Germany"
+  ],
+  "place": "St. Thomas Church, Leipzig, Germany",
+  "lat": 51.3392,
+  "lon": 12.3726,
+  "tags": [
+    "culture",
+    "religion"
+  ],
+  "weight": 54,
+  "wikipedia": "St Matthew Passion",
+  "wikidata": "Q379111"
+}

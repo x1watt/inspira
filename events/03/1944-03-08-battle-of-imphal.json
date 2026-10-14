@@ -1,0 +1,33 @@
+{
+  "id": "event-1944-03-08-battle-of-imphal",
+  "title": "Japan launches its offensive on Imphal",
+  "year": 1944,
+  "month": 3,
+  "day": 8,
+  "calendar": "gregorian",
+  "summary": "The Japanese army crossed the Chindwin river to attack British and Indian forces at Imphal and Kohima in north-east India. Besieged but supplied by air, the defenders held, and the Japanese retreated with enormous losses.",
+  "reason": "Japan hoped to stop an Allied offensive into Burma and perhaps spark an uprising in India.",
+  "significance": "It was Japan's greatest land defeat to that point and opened the way for the reconquest of Burma.",
+  "participants": [
+    "Japanese Fifteenth Army",
+    "British Fourteenth Army",
+    "William Slim",
+    "Renya Mutaguchi",
+    "Indian National Army"
+  ],
+  "countries": [
+    "India",
+    "Myanmar",
+    "Japan",
+    "United Kingdom"
+  ],
+  "place": "Imphal, Manipur, India",
+  "lat": 24.817,
+  "lon": 93.9368,
+  "tags": [
+    "war"
+  ],
+  "weight": 58,
+  "wikipedia": "Battle of Imphal",
+  "wikidata": "Q707238"
+}

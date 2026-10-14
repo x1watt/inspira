@@ -1,0 +1,28 @@
+{
+  "id": "event-1742-04-24-messiah-premiere",
+  "title": "Handel's Messiah premieres in Dublin",
+  "year": 1742,
+  "month": 4,
+  "day": 24,
+  "calendar": "gregorian",
+  "summary": "George Frideric Handel's oratorio Messiah was first performed at the Great Music Hall on Fishamble Street in Dublin, as a charity concert.",
+  "reason": "Handel had been invited to Dublin for a season of concerts to raise money for local charities and prisoners.",
+  "significance": "It became one of the most performed choral works in the world.",
+  "participants": [
+    "George Frideric Handel",
+    "Charles Jennens"
+  ],
+  "countries": [
+    "Ireland"
+  ],
+  "place": "Fishamble Street, Dublin, Ireland",
+  "lat": 53.3443,
+  "lon": -6.271,
+  "tags": [
+    "culture",
+    "religion"
+  ],
+  "weight": 56,
+  "wikipedia": "Messiah (Handel)",
+  "wikidata": "Q207732"
+}

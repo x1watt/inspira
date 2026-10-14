@@ -1,0 +1,28 @@
+{
+  "id": "event-115-12-13-antioch-earthquake",
+  "title": "Earthquake devastates Antioch",
+  "year": 115,
+  "month": 12,
+  "day": 13,
+  "calendar": "julian",
+  "summary": "A powerful earthquake destroyed much of Antioch, one of the largest cities of the Roman Empire. Emperor Trajan, wintering there during his Parthian war, escaped with minor injuries.",
+  "reason": "Antioch lies on the active Dead Sea fault system, where strong earthquakes recur.",
+  "significance": "It was among the deadliest disasters of the Roman period and nearly killed the emperor.",
+  "participants": [
+    "Trajan",
+    "Hadrian",
+    "Antioch"
+  ],
+  "countries": [
+    "Turkey"
+  ],
+  "place": "Antioch (Antakya), Turkey",
+  "lat": 36.2021,
+  "lon": 36.1606,
+  "tags": [
+    "disaster"
+  ],
+  "weight": 50,
+  "wikipedia": "115 Antioch earthquake",
+  "wikidata": "Q4547511"
+}

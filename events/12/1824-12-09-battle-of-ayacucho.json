@@ -1,0 +1,33 @@
+{
+  "id": "event-1824-12-09-battle-of-ayacucho",
+  "title": "Battle of Ayacucho ends Spanish rule in South America",
+  "year": 1824,
+  "month": 12,
+  "day": 9,
+  "calendar": "gregorian",
+  "summary": "Antonio José de Sucre's army defeated the last royalist army of the Viceroyalty of Peru and captured the viceroy.",
+  "reason": "The royalists still held the Peruvian highlands, and Bolívar's forces sought a decisive battle to finish the wars of independence.",
+  "significance": "It effectively ended Spanish colonial power on the South American mainland.",
+  "participants": [
+    "Antonio José de Sucre",
+    "José de la Serna",
+    "Gran Colombia",
+    "Spanish Empire"
+  ],
+  "countries": [
+    "Peru",
+    "Colombia",
+    "Venezuela",
+    "Spain"
+  ],
+  "place": "Pampa de Quinua, Ayacucho, Peru",
+  "lat": -13.0458,
+  "lon": -74.1347,
+  "tags": [
+    "war",
+    "revolution"
+  ],
+  "weight": 65,
+  "wikipedia": "Battle of Ayacucho",
+  "wikidata": "Q934157"
+}

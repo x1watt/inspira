@@ -1,0 +1,33 @@
+{
+  "id": "event-1991-01-17-desert-storm",
+  "title": "Operation Desert Storm begins",
+  "year": 1991,
+  "month": 1,
+  "day": 17,
+  "calendar": "gregorian",
+  "summary": "A US-led coalition began a massive air campaign against Iraqi forces in Iraq and Kuwait.",
+  "reason": "Iraq ignored a United Nations deadline of 15 January to withdraw from Kuwait.",
+  "significance": "It showed the power of precision weapons and led to Kuwait's liberation within weeks.",
+  "participants": [
+    "United States",
+    "United Kingdom",
+    "Saudi Arabia",
+    "Iraq",
+    "Norman Schwarzkopf"
+  ],
+  "countries": [
+    "Iraq",
+    "Kuwait",
+    "United States",
+    "Saudi Arabia"
+  ],
+  "place": "Baghdad, Iraq",
+  "lat": 33.3152,
+  "lon": 44.3661,
+  "tags": [
+    "war"
+  ],
+  "weight": 72,
+  "wikipedia": "Gulf War air campaign",
+  "wikidata": "Q8256467"
+}

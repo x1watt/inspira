@@ -1,0 +1,30 @@
+{
+  "id": "event-1945-07-16-trinity-test",
+  "title": "Trinity: the first atomic bomb is detonated",
+  "year": 1945,
+  "month": 7,
+  "day": 16,
+  "calendar": "gregorian",
+  "summary": "Scientists of the Manhattan Project exploded a plutonium bomb in the New Mexico desert, releasing energy equal to about 21,000 tons of TNT.",
+  "reason": "The United States needed to test the complex implosion design before using such a weapon against Japan.",
+  "significance": "It began the nuclear age, and the same design was used on Nagasaki three weeks later.",
+  "participants": [
+    "Manhattan Project",
+    "J. Robert Oppenheimer",
+    "Leslie Groves"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Jornada del Muerto desert, New Mexico, United States",
+  "lat": 33.6773,
+  "lon": -106.4754,
+  "tags": [
+    "science",
+    "technology",
+    "war"
+  ],
+  "weight": 85,
+  "wikipedia": "Trinity (nuclear test)",
+  "wikidata": "Q207342"
+}

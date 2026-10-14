@@ -1,0 +1,28 @@
+{
+  "id": "event-1908-10-01-ford-model-t",
+  "title": "Ford introduces the Model T",
+  "year": 1908,
+  "month": 10,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "The Ford Motor Company released the Model T, a simple, durable and affordable automobile built in Detroit.",
+  "reason": "Henry Ford aimed to build a car that ordinary working families could afford.",
+  "significance": "The Model T put the world on wheels and helped create the mass consumer economy.",
+  "participants": [
+    "Henry Ford",
+    "Ford Motor Company"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Detroit, Michigan, United States",
+  "lat": 42.3314,
+  "lon": -83.0458,
+  "tags": [
+    "technology",
+    "economy"
+  ],
+  "weight": 72,
+  "wikipedia": "Ford Model T",
+  "wikidata": "Q182323"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "event-656-06-17-assassination-of-uthman",
+  "title": "Caliph Uthman is assassinated in Medina",
+  "year": 656,
+  "month": 6,
+  "day": 17,
+  "calendar": "julian",
+  "summary": "Rebels besieged the house of the third caliph, Uthman ibn Affan, and killed him while he was reading the Quran. Ali ibn Abi Talib then became caliph.",
+  "reason": "Many provincial Muslims resented Uthman's favoring of his own Umayyad clan and his choice of governors.",
+  "significance": "His death led to the First Fitna, the first civil war within the Muslim community.",
+  "participants": [
+    "Uthman ibn Affan",
+    "Ali ibn Abi Talib",
+    "Rashidun Caliphate"
+  ],
+  "countries": [
+    "Saudi Arabia"
+  ],
+  "place": "Medina, Saudi Arabia",
+  "lat": 24.4672,
+  "lon": 39.6111,
+  "tags": [
+    "politics",
+    "religion"
+  ],
+  "weight": 60,
+  "wikipedia": "Assassination of Uthman",
+  "wikidata": "Q3625539"
+}

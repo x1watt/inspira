@@ -1,0 +1,29 @@
+{
+  "id": "event-1988-03-16-halabja-massacre",
+  "title": "Iraq attacks Halabja with chemical weapons",
+  "year": 1988,
+  "month": 3,
+  "day": 16,
+  "calendar": "gregorian",
+  "summary": "Iraqi aircraft dropped chemical weapons on the Kurdish town of Halabja, killing about 5,000 civilians.",
+  "reason": "Saddam Hussein's regime was punishing Kurds who had sided with Iran in the war.",
+  "significance": "It is the deadliest chemical attack against civilians in history.",
+  "participants": [
+    "Saddam Hussein",
+    "Iraqi Air Force",
+    "Ali Hassan al-Majid"
+  ],
+  "countries": [
+    "Iraq"
+  ],
+  "place": "Halabja, Iraq",
+  "lat": 35.1778,
+  "lon": 45.9861,
+  "tags": [
+    "war",
+    "rights"
+  ],
+  "weight": 53,
+  "wikipedia": "Halabja massacre",
+  "wikidata": "Q579179"
+}

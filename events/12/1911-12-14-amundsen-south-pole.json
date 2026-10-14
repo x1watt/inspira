@@ -1,0 +1,27 @@
+{
+  "id": "event-1911-12-14-amundsen-south-pole",
+  "title": "Roald Amundsen reaches the South Pole",
+  "year": 1911,
+  "month": 12,
+  "day": 14,
+  "calendar": "gregorian",
+  "summary": "A Norwegian party of five led by Roald Amundsen reached the South Pole using dog sledges, five weeks ahead of Robert Falcon Scott's British expedition.",
+  "reason": "Amundsen changed his plans from the North Pole after hearing it had been claimed, and raced Scott to the south.",
+  "significance": "It was the first human arrival at the South Pole, a peak of the heroic age of polar exploration.",
+  "participants": [
+    "Roald Amundsen",
+    "Olav Bjaaland"
+  ],
+  "countries": [
+    "Norway"
+  ],
+  "place": "South Pole, Antarctica",
+  "lat": -90.0,
+  "lon": 0.0,
+  "tags": [
+    "exploration"
+  ],
+  "weight": 67,
+  "wikipedia": "Amundsen's South Pole expedition",
+  "wikidata": "Q8414"
+}

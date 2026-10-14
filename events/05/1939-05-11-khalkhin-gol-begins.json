@@ -1,0 +1,33 @@
+{
+  "id": "event-1939-05-11-khalkhin-gol-begins",
+  "title": "Soviet-Japanese fighting begins at Khalkhin Gol",
+  "year": 1939,
+  "month": 5,
+  "day": 11,
+  "calendar": "gregorian",
+  "summary": "Clashes between Mongolian and Manchukuoan cavalry on the disputed Khalkhin Gol river grew into a full battle between the Soviet Union and Japan. In August a Soviet offensive led by Georgy Zhukov encircled and destroyed the Japanese forces.",
+  "reason": "Japan and the Soviet Union disputed the border between Japanese-controlled Manchukuo and the Soviet-allied Mongolian People's Republic.",
+  "significance": "The defeat pushed Japan to turn south against European colonies rather than north against the Soviet Union, which shaped the Pacific War.",
+  "participants": [
+    "Soviet Union",
+    "Mongolian People's Republic",
+    "Empire of Japan",
+    "Manchukuo",
+    "Georgy Zhukov"
+  ],
+  "countries": [
+    "Mongolia",
+    "Russia",
+    "Japan",
+    "China"
+  ],
+  "place": "Khalkhin Gol river, Dornod Province, Mongolia",
+  "lat": 47.7167,
+  "lon": 118.5833,
+  "tags": [
+    "war"
+  ],
+  "weight": 55,
+  "wikipedia": "Battles of Khalkhin Gol",
+  "wikidata": "Q188925"
+}

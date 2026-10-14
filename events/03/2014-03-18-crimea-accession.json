@@ -1,0 +1,29 @@
+{
+  "id": "event-2014-03-18-crimea-accession",
+  "title": "Russia signs the annexation of Crimea",
+  "year": 2014,
+  "month": 3,
+  "day": 18,
+  "calendar": "gregorian",
+  "summary": "Vladimir Putin signed a treaty in the Kremlin absorbing Crimea into Russia, two days after a disputed referendum.",
+  "reason": "After the fall of Yanukovych, Russia seized the peninsula with soldiers without insignia.",
+  "significance": "It was the first annexation of territory in Europe since 1945 and started the war in Ukraine.",
+  "participants": [
+    "Vladimir Putin",
+    "Russia",
+    "Ukraine"
+  ],
+  "countries": [
+    "Russia",
+    "Ukraine"
+  ],
+  "place": "Kremlin, Moscow, Russia",
+  "lat": 55.752,
+  "lon": 37.6175,
+  "tags": [
+    "war",
+    "politics"
+  ],
+  "weight": 75,
+  "wikipedia": "2014 Russian annexation of Crimea"
+}

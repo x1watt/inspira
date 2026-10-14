@@ -1,0 +1,30 @@
+{
+  "id": "event-1881-05-12-treaty-of-bardo",
+  "title": "Treaty of Bardo makes Tunisia a French protectorate",
+  "year": 1881,
+  "month": 5,
+  "day": 12,
+  "calendar": "gregorian",
+  "summary": "Under pressure from French troops, the Bey of Tunis signed a treaty placing his country under French protection.",
+  "reason": "France wanted to secure Algeria's eastern border and keep Italy from gaining influence in Tunisia.",
+  "significance": "It began 75 years of French rule in Tunisia and soured French relations with Italy.",
+  "participants": [
+    "Muhammad III as-Sadiq",
+    "French Third Republic",
+    "Beylik of Tunis"
+  ],
+  "countries": [
+    "Tunisia",
+    "France"
+  ],
+  "place": "Ksar Said Palace, near Tunis, Tunisia",
+  "lat": 36.818,
+  "lon": 10.13,
+  "tags": [
+    "diplomacy",
+    "politics"
+  ],
+  "weight": 50,
+  "wikipedia": "Treaty of Bardo",
+  "wikidata": "Q808027"
+}

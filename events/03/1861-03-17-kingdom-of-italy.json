@@ -1,0 +1,28 @@
+{
+  "id": "event-1861-03-17-kingdom-of-italy",
+  "title": "The Kingdom of Italy is proclaimed",
+  "year": 1861,
+  "month": 3,
+  "day": 17,
+  "calendar": "gregorian",
+  "summary": "The first Italian parliament, meeting in Turin, proclaimed Victor Emmanuel II King of Italy.",
+  "reason": "Wars and plebiscites in 1859 and 1860, together with Garibaldi's conquest of the south, had united most of the peninsula under Piedmont-Sardinia.",
+  "significance": "It created the modern Italian state.",
+  "participants": [
+    "Victor Emmanuel II",
+    "Camillo Benso, Count of Cavour",
+    "Giuseppe Garibaldi"
+  ],
+  "countries": [
+    "Italy"
+  ],
+  "place": "Palazzo Carignano, Turin, Italy",
+  "lat": 45.0697,
+  "lon": 7.6858,
+  "tags": [
+    "politics"
+  ],
+  "weight": 70,
+  "wikipedia": "Proclamation of the Kingdom of Italy",
+  "wikidata": "Q3922436"
+}

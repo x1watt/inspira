@@ -1,0 +1,27 @@
+{
+  "id": "event-1900-12-14-planck-quantum",
+  "title": "Max Planck presents the quantum hypothesis",
+  "year": 1900,
+  "month": 12,
+  "day": 14,
+  "calendar": "gregorian",
+  "summary": "Max Planck presented his derivation of the law of black-body radiation to the German Physical Society in Berlin, assuming that energy is emitted in discrete packets, or quanta.",
+  "reason": "Classical physics could not explain the measured spectrum of radiation from hot bodies, and Planck sought a formula that fit the experimental data.",
+  "significance": "The talk is regarded as the birth of quantum theory, which reshaped physics and modern technology.",
+  "participants": [
+    "Max Planck",
+    "German Physical Society"
+  ],
+  "countries": [
+    "Germany"
+  ],
+  "place": "Berlin, Germany",
+  "lat": 52.52,
+  "lon": 13.405,
+  "tags": [
+    "science"
+  ],
+  "weight": 77,
+  "wikipedia": "Max Planck",
+  "wikidata": "Q212986"
+}

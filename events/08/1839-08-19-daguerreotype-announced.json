@@ -1,0 +1,29 @@
+{
+  "id": "event-1839-08-19-daguerreotype-announced",
+  "title": "The daguerreotype is presented to the world",
+  "year": 1839,
+  "month": 8,
+  "day": 19,
+  "calendar": "gregorian",
+  "summary": "At a joint meeting of the French Academies of Sciences and Fine Arts, the details of Louis Daguerre's photographic process were made public.",
+  "reason": "The French government had bought the rights from Daguerre in exchange for a pension so that it could give the invention freely to the world.",
+  "significance": "It made photography practical and started its rapid spread across the world.",
+  "participants": [
+    "Louis Daguerre",
+    "François Arago",
+    "French Academy of Sciences"
+  ],
+  "countries": [
+    "France"
+  ],
+  "place": "Institut de France, Paris, France",
+  "lat": 48.8574,
+  "lon": 2.3373,
+  "tags": [
+    "technology",
+    "culture"
+  ],
+  "weight": 65,
+  "wikipedia": "Daguerreotype",
+  "wikidata": "Q179744"
+}

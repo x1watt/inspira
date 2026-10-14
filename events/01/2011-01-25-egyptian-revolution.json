@@ -1,0 +1,27 @@
+{
+  "id": "event-2011-01-25-egyptian-revolution",
+  "title": "Egyptian revolution begins",
+  "year": 2011,
+  "month": 1,
+  "day": 25,
+  "calendar": "gregorian",
+  "summary": "Protests began across Egypt, centred on Tahrir Square in Cairo, and forced Hosni Mubarak to resign on 11 February.",
+  "reason": "Inspired by Tunisia, Egyptians rose against police brutality, poverty and 30 years of Mubarak's rule.",
+  "significance": "It ended Mubarak's rule and became the centre of the Arab Spring.",
+  "participants": [
+    "Hosni Mubarak",
+    "April 6 Youth Movement",
+    "Muslim Brotherhood"
+  ],
+  "countries": [
+    "Egypt"
+  ],
+  "place": "Tahrir Square, Cairo, Egypt",
+  "lat": 30.0444,
+  "lon": 31.2357,
+  "tags": [
+    "revolution"
+  ],
+  "weight": 75,
+  "wikipedia": "2011 Egyptian revolution"
+}

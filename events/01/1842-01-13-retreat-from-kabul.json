@@ -1,0 +1,31 @@
+{
+  "id": "event-1842-01-13-retreat-from-kabul",
+  "title": "Lone survivor of the retreat from Kabul reaches Jalalabad",
+  "year": 1842,
+  "month": 1,
+  "day": 13,
+  "calendar": "gregorian",
+  "summary": "Assistant surgeon William Brydon arrived at Jalalabad as the only British survivor to reach safety from an army of about 4,500 soldiers and 12,000 followers that left Kabul.",
+  "reason": "An Afghan uprising against the British-installed ruler Shah Shuja forced the garrison to withdraw through snowbound passes, where it was destroyed.",
+  "significance": "It was one of the worst British military disasters of the century and a lasting warning about foreign intervention in Afghanistan.",
+  "participants": [
+    "William Brydon",
+    "British East India Company",
+    "Akbar Khan",
+    "Emirate of Afghanistan"
+  ],
+  "countries": [
+    "Afghanistan",
+    "United Kingdom",
+    "India"
+  ],
+  "place": "Jalalabad, Afghanistan",
+  "lat": 34.43,
+  "lon": 70.45,
+  "tags": [
+    "war"
+  ],
+  "weight": 50,
+  "wikipedia": "1842 retreat from Kabul",
+  "wikidata": "Q108532624"
+}

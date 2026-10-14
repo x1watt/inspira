@@ -1,0 +1,26 @@
+{
+  "id": "event-1985-09-19-mexico-city-earthquake",
+  "title": "Earthquake devastates Mexico City",
+  "year": 1985,
+  "month": 9,
+  "day": 19,
+  "calendar": "gregorian",
+  "summary": "A magnitude 8.0 earthquake off the Pacific coast collapsed buildings across Mexico City, killing at least 5,000 people.",
+  "reason": "The city's soft lake bed soils amplified the shaking.",
+  "significance": "Citizen rescue efforts after the slow official response strengthened civil society in Mexico.",
+  "participants": [
+    "Mexico City"
+  ],
+  "countries": [
+    "Mexico"
+  ],
+  "place": "Mexico City, Mexico",
+  "lat": 19.4326,
+  "lon": -99.1332,
+  "tags": [
+    "disaster"
+  ],
+  "weight": 51,
+  "wikipedia": "1985 Mexico City earthquake",
+  "wikidata": "Q1798567"
+}

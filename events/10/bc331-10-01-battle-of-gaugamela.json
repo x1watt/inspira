@@ -1,0 +1,31 @@
+{
+  "id": "event-bc331-10-01-battle-of-gaugamela",
+  "title": "Battle of Gaugamela",
+  "year": -331,
+  "month": 10,
+  "day": 1,
+  "calendar": "julian",
+  "summary": "Alexander the Great decisively defeated Darius III at Gaugamela, east of the Tigris. Darius fled again and was later killed by his own officers.",
+  "reason": "After losing the western provinces, Darius raised a vast army in Mesopotamia to stop Alexander's march into the Persian heartland.",
+  "significance": "It brought down the Achaemenid Empire and opened the way for the Hellenistic world.",
+  "participants": [
+    "Alexander the Great",
+    "Darius III",
+    "Macedonia",
+    "Achaemenid Empire"
+  ],
+  "countries": [
+    "Iraq",
+    "Greece",
+    "Iran"
+  ],
+  "place": "Gaugamela, near Mosul, Iraq",
+  "lat": 36.56,
+  "lon": 43.44,
+  "tags": [
+    "war"
+  ],
+  "weight": 85,
+  "wikipedia": "Battle of Gaugamela",
+  "wikidata": "Q179670"
+}

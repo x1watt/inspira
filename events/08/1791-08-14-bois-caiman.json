@@ -1,0 +1,31 @@
+{
+  "id": "event-1791-08-14-bois-caiman",
+  "title": "Bois Caiman ceremony launches the Haitian Revolution",
+  "year": 1791,
+  "month": 8,
+  "day": 14,
+  "calendar": "gregorian",
+  "summary": "Enslaved people of northern Saint-Domingue gathered at Bois Caiman for a Vodou ceremony led by Dutty Boukman, where they planned a revolt. The uprising broke out a week later.",
+  "reason": "Brutal plantation slavery and news of revolutionary ideals from France fuelled the plot.",
+  "significance": "It began the only successful slave revolution in history.",
+  "participants": [
+    "Dutty Boukman",
+    "Cecile Fatiman",
+    "enslaved Africans of Saint-Domingue"
+  ],
+  "countries": [
+    "Haiti",
+    "France"
+  ],
+  "place": "Bois Caiman, near Morne-Rouge, Haiti",
+  "lat": 19.69,
+  "lon": -72.27,
+  "tags": [
+    "revolution",
+    "religion",
+    "rights"
+  ],
+  "weight": 70,
+  "wikipedia": "Bois Caïman",
+  "wikidata": "Q3010371"
+}

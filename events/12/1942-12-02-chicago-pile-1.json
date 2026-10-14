@@ -1,0 +1,30 @@
+{
+  "id": "event-1942-12-02-chicago-pile-1",
+  "title": "First controlled nuclear chain reaction in Chicago",
+  "year": 1942,
+  "month": 12,
+  "day": 2,
+  "calendar": "gregorian",
+  "summary": "A team led by Enrico Fermi achieved the first self-sustaining nuclear chain reaction in Chicago Pile-1, a stack of graphite and uranium under the stands of a football field at the University of Chicago.",
+  "reason": "The Manhattan Project needed proof that a chain reaction could be started and controlled before building reactors and bombs.",
+  "significance": "It opened the nuclear age, leading both to atomic weapons and to nuclear power.",
+  "participants": [
+    "Enrico Fermi",
+    "Leo Szilard",
+    "Manhattan Project",
+    "University of Chicago"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "University of Chicago, Chicago, Illinois, United States",
+  "lat": 41.7925,
+  "lon": -87.6014,
+  "tags": [
+    "science",
+    "technology"
+  ],
+  "weight": 82,
+  "wikipedia": "Chicago Pile-1",
+  "wikidata": "Q284681"
+}

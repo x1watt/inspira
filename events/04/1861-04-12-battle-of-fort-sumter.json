@@ -1,0 +1,29 @@
+{
+  "id": "event-1861-04-12-battle-of-fort-sumter",
+  "title": "Confederates fire on Fort Sumter",
+  "year": 1861,
+  "month": 4,
+  "day": 12,
+  "calendar": "gregorian",
+  "summary": "Confederate artillery bombarded the federal Fort Sumter in Charleston Harbor, forcing its surrender the next day.",
+  "reason": "After Lincoln's election, seven Southern states had seceded to protect slavery and demanded the surrender of federal forts.",
+  "significance": "It started the American Civil War.",
+  "participants": [
+    "Confederate States of America",
+    "United States",
+    "P. G. T. Beauregard",
+    "Robert Anderson"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Fort Sumter, Charleston, South Carolina, United States",
+  "lat": 32.7523,
+  "lon": -79.8747,
+  "tags": [
+    "war"
+  ],
+  "weight": 70,
+  "wikipedia": "Battle of Fort Sumter",
+  "wikidata": "Q543165"
+}

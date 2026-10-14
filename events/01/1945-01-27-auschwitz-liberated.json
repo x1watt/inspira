@@ -1,0 +1,31 @@
+{
+  "id": "event-1945-01-27-auschwitz-liberated",
+  "title": "Soviet troops liberate Auschwitz",
+  "year": 1945,
+  "month": 1,
+  "day": 27,
+  "calendar": "gregorian",
+  "summary": "Soldiers of the Red Army entered the Auschwitz camps and found about 7,000 sick and starving prisoners left behind after the SS had forced most others on death marches.",
+  "reason": "The Soviet offensive across Poland reached the camp as German forces retreated westward.",
+  "significance": "About 1.1 million people, most of them Jews, had been murdered there, and the date is now International Holocaust Remembrance Day.",
+  "participants": [
+    "Red Army",
+    "SS",
+    "Prisoners of Auschwitz"
+  ],
+  "countries": [
+    "Poland",
+    "Russia",
+    "Germany"
+  ],
+  "place": "Oswiecim, Poland",
+  "lat": 50.0358,
+  "lon": 19.1783,
+  "tags": [
+    "war",
+    "rights"
+  ],
+  "weight": 82,
+  "wikipedia": "Auschwitz concentration camp",
+  "wikidata": "Q7341"
+}

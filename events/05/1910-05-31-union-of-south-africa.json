@@ -1,0 +1,29 @@
+{
+  "id": "event-1910-05-31-union-of-south-africa",
+  "title": "The Union of South Africa is formed",
+  "year": 1910,
+  "month": 5,
+  "day": 31,
+  "calendar": "gregorian",
+  "summary": "The Cape, Natal, Transvaal and Orange River colonies were united into the Union of South Africa, a self-governing British dominion with Louis Botha as prime minister.",
+  "reason": "After the Boer War, British and Boer leaders sought a unified state, built on a settlement that excluded most black Africans from political power.",
+  "significance": "It founded the modern South African state and entrenched the racial order that led to apartheid.",
+  "participants": [
+    "Union of South Africa",
+    "Louis Botha",
+    "United Kingdom"
+  ],
+  "countries": [
+    "South Africa",
+    "United Kingdom"
+  ],
+  "place": "Pretoria, South Africa",
+  "lat": -25.7461,
+  "lon": 28.1881,
+  "tags": [
+    "politics"
+  ],
+  "weight": 52,
+  "wikipedia": "Union of South Africa",
+  "wikidata": "Q193619"
+}

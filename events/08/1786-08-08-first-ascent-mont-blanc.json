@@ -1,0 +1,29 @@
+{
+  "id": "event-1786-08-08-first-ascent-mont-blanc",
+  "title": "Mont Blanc is climbed for the first time",
+  "year": 1786,
+  "month": 8,
+  "day": 8,
+  "calendar": "gregorian",
+  "summary": "Jacques Balmat and Michel-Gabriel Paccard reached the summit of Mont Blanc, the highest peak of the Alps.",
+  "reason": "The scientist Horace-Benedict de Saussure had offered a reward for the first ascent.",
+  "significance": "It is considered the birth of modern mountaineering.",
+  "participants": [
+    "Jacques Balmat",
+    "Michel-Gabriel Paccard"
+  ],
+  "countries": [
+    "France",
+    "Italy"
+  ],
+  "place": "Mont Blanc, France",
+  "lat": 45.8326,
+  "lon": 6.8652,
+  "tags": [
+    "sport",
+    "exploration"
+  ],
+  "weight": 50,
+  "wikipedia": "Jacques Balmat",
+  "wikidata": "Q982588"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "event-1975-08-01-helsinki-final-act",
+  "title": "The Helsinki Final Act is signed",
+  "year": 1975,
+  "month": 8,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "Thirty five states, including the United States and the Soviet Union, signed the Final Act of the Conference on Security and Cooperation in Europe.",
+  "reason": "The Soviet Union sought recognition of postwar borders, and the West won human rights commitments in return.",
+  "significance": "Its rights provisions became a tool for dissidents in the Eastern bloc.",
+  "participants": [
+    "Conference on Security and Co-operation in Europe",
+    "Gerald Ford",
+    "Leonid Brezhnev"
+  ],
+  "countries": [
+    "Finland"
+  ],
+  "place": "Finlandia Hall, Helsinki, Finland",
+  "lat": 60.1757,
+  "lon": 24.9338,
+  "tags": [
+    "diplomacy",
+    "rights"
+  ],
+  "weight": 58,
+  "wikipedia": "Helsinki Accords"
+}

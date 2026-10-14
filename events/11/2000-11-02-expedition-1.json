@@ -1,0 +1,31 @@
+{
+  "id": "event-2000-11-02-expedition-1",
+  "title": "First crew arrives at the International Space Station",
+  "year": 2000,
+  "month": 11,
+  "day": 2,
+  "calendar": "gregorian",
+  "summary": "William Shepherd, Yuri Gidzenko and Sergei Krikalev docked with the ISS, starting continuous human presence in orbit.",
+  "reason": "Enough modules were in place for a crew to live aboard.",
+  "significance": "Humans have lived in space without a break ever since.",
+  "participants": [
+    "NASA",
+    "Roscosmos",
+    "William Shepherd",
+    "Yuri Gidzenko",
+    "Sergei Krikalev"
+  ],
+  "countries": [
+    "United States",
+    "Russia"
+  ],
+  "place": "International Space Station, low Earth orbit",
+  "lat": null,
+  "lon": null,
+  "tags": [
+    "exploration"
+  ],
+  "weight": 62,
+  "wikipedia": "Expedition 1",
+  "wikidata": "Q17181"
+}

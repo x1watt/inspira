@@ -1,0 +1,27 @@
+{
+  "id": "event-1939-01-24-chillan-earthquake",
+  "title": "Earthquake destroys Chillan in central Chile",
+  "year": 1939,
+  "month": 1,
+  "day": 24,
+  "calendar": "gregorian",
+  "summary": "A powerful earthquake struck south-central Chile late at night, levelling the city of Chillan and nearby towns. Around 28,000 people died, making it the deadliest earthquake in Chilean history.",
+  "reason": "Chile sits on the boundary where the Nazca Plate dives beneath South America, and most houses in the region were built of heavy adobe that collapsed easily.",
+  "significance": "The disaster led Chile to found CORFO, its state development agency, and to adopt stricter building codes.",
+  "participants": [
+    "Government of Chile",
+    "Pedro Aguirre Cerda"
+  ],
+  "countries": [
+    "Chile"
+  ],
+  "place": "Chillan, Nuble Region, Chile",
+  "lat": -36.6066,
+  "lon": -72.1034,
+  "tags": [
+    "disaster"
+  ],
+  "weight": 50,
+  "wikipedia": "1939 Chillán earthquake",
+  "wikidata": "Q3311679"
+}

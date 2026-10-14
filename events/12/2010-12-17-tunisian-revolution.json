@@ -1,0 +1,27 @@
+{
+  "id": "event-2010-12-17-tunisian-revolution",
+  "title": "Tunisian revolution begins",
+  "year": 2010,
+  "month": 12,
+  "day": 17,
+  "calendar": "gregorian",
+  "summary": "Street vendor Mohamed Bouazizi set himself on fire in Sidi Bouzid, sparking protests that toppled President Ben Ali within a month.",
+  "reason": "Unemployment, corruption and police abuse had built deep frustration.",
+  "significance": "It ignited the Arab Spring across the Middle East and North Africa.",
+  "participants": [
+    "Mohamed Bouazizi",
+    "Zine El Abidine Ben Ali"
+  ],
+  "countries": [
+    "Tunisia"
+  ],
+  "place": "Sidi Bouzid, Tunisia",
+  "lat": 35.0382,
+  "lon": 9.4849,
+  "tags": [
+    "revolution"
+  ],
+  "weight": 80,
+  "wikipedia": "Tunisian revolution",
+  "wikidata": "Q46959"
+}

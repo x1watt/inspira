@@ -1,0 +1,33 @@
+{
+  "id": "event-2015-07-14-iran-nuclear-deal",
+  "title": "Iran nuclear deal is agreed in Vienna",
+  "year": 2015,
+  "month": 7,
+  "day": 14,
+  "calendar": "gregorian",
+  "summary": "Iran and six world powers agreed the Joint Comprehensive Plan of Action, limiting Iran's nuclear program in return for lifting sanctions.",
+  "reason": "Years of sanctions and fears of an Iranian bomb pushed both sides to negotiate.",
+  "significance": "It was the biggest nuclear agreement in decades, though the US left it in 2018.",
+  "participants": [
+    "Iran",
+    "United States",
+    "European Union",
+    "Russia",
+    "China",
+    "Mohammad Javad Zarif",
+    "John Kerry"
+  ],
+  "countries": [
+    "Iran",
+    "Austria",
+    "United States"
+  ],
+  "place": "Vienna, Austria",
+  "lat": 48.2082,
+  "lon": 16.3738,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 62,
+  "wikipedia": "Iran nuclear deal"
+}

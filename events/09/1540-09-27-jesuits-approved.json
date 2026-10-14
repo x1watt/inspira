@@ -1,0 +1,29 @@
+{
+  "id": "event-1540-09-27-jesuits-approved",
+  "title": "Pope Paul III approves the Society of Jesus",
+  "year": 1540,
+  "month": 9,
+  "day": 27,
+  "calendar": "julian",
+  "summary": "With the bull Regimini militantis Ecclesiae, Paul III formally approved the religious order founded by Ignatius of Loyola and his companions.",
+  "reason": "The church sought disciplined, educated priests to answer the Protestant challenge and to spread Catholicism overseas.",
+  "significance": "The Jesuits became a leading force of the Counter-Reformation, of education and of missions in Asia and the Americas.",
+  "participants": [
+    "Pope Paul III",
+    "Ignatius of Loyola",
+    "Society of Jesus"
+  ],
+  "countries": [
+    "Italy",
+    "Spain"
+  ],
+  "place": "Rome, Italy",
+  "lat": 41.893,
+  "lon": 12.483,
+  "tags": [
+    "religion"
+  ],
+  "weight": 65,
+  "wikipedia": "Regimini militantis Ecclesiae",
+  "wikidata": "Q1310914"
+}

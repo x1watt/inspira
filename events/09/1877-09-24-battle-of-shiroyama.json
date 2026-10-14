@@ -1,0 +1,29 @@
+{
+  "id": "event-1877-09-24-battle-of-shiroyama",
+  "title": "Saigō Takamori dies at the Battle of Shiroyama",
+  "year": 1877,
+  "month": 9,
+  "day": 24,
+  "calendar": "gregorian",
+  "summary": "Imperial troops overwhelmed the last few hundred Satsuma rebels on Shiroyama hill above Kagoshima, where their leader Saigō Takamori died.",
+  "reason": "Discontented samurai had rebelled against the Meiji government's abolition of their privileges and its modern conscript army.",
+  "significance": "It ended the Satsuma Rebellion and the samurai class as a military force.",
+  "participants": [
+    "Saigō Takamori",
+    "Imperial Japanese Army",
+    "Satsuma rebels",
+    "Yamagata Aritomo"
+  ],
+  "countries": [
+    "Japan"
+  ],
+  "place": "Shiroyama, Kagoshima, Japan",
+  "lat": 31.5966,
+  "lon": 130.5571,
+  "tags": [
+    "war"
+  ],
+  "weight": 50,
+  "wikipedia": "Battle of Shiroyama",
+  "wikidata": "Q1788393"
+}

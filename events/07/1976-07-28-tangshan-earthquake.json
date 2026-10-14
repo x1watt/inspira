@@ -1,0 +1,26 @@
+{
+  "id": "event-1976-07-28-tangshan-earthquake",
+  "title": "The Tangshan earthquake devastates northern China",
+  "year": 1976,
+  "month": 7,
+  "day": 28,
+  "calendar": "gregorian",
+  "summary": "A magnitude 7.6 earthquake destroyed the industrial city of Tangshan in the early morning, killing at least 240,000 people.",
+  "reason": "It struck a fault beneath the city with no warning while people slept.",
+  "significance": "It was one of the deadliest earthquakes of the 20th century.",
+  "participants": [
+    "China"
+  ],
+  "countries": [
+    "China"
+  ],
+  "place": "Tangshan, Hebei, China",
+  "lat": 39.63,
+  "lon": 118.18,
+  "tags": [
+    "disaster"
+  ],
+  "weight": 58,
+  "wikipedia": "1976 Tangshan earthquake",
+  "wikidata": "Q462195"
+}

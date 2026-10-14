@@ -1,0 +1,29 @@
+{
+  "id": "event-1938-11-09-kristallnacht",
+  "title": "Kristallnacht pogrom across Nazi Germany",
+  "year": 1938,
+  "month": 11,
+  "day": 9,
+  "calendar": "gregorian",
+  "summary": "Nazi paramilitaries and civilians attacked Jewish homes, shops and synagogues across Germany and Austria, killing dozens and sending about 30,000 Jewish men to concentration camps.",
+  "reason": "The regime used the killing of a German diplomat in Paris by a young Polish Jew as a pretext for organized violence.",
+  "significance": "It marked a shift from discrimination to open violence against Jews, foreshadowing the Holocaust.",
+  "participants": [
+    "Nazi Germany",
+    "Sturmabteilung",
+    "Joseph Goebbels"
+  ],
+  "countries": [
+    "Germany",
+    "Austria"
+  ],
+  "place": "Berlin, Germany",
+  "lat": 52.52,
+  "lon": 13.405,
+  "tags": [
+    "rights"
+  ],
+  "weight": 67,
+  "wikipedia": "Kristallnacht",
+  "wikidata": "Q36756"
+}

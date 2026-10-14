@@ -1,0 +1,28 @@
+{
+  "id": "event-1631-06-17-death-of-mumtaz-mahal",
+  "title": "Death of Mumtaz Mahal inspires the Taj Mahal",
+  "year": 1631,
+  "month": 6,
+  "day": 17,
+  "calendar": "gregorian",
+  "summary": "Mumtaz Mahal, the beloved wife of the Mughal emperor Shah Jahan, died in Burhanpur giving birth to her fourteenth child.",
+  "reason": "She had accompanied her husband on a military campaign in the Deccan, and the birth went badly.",
+  "significance": "Grieving, Shah Jahan built the Taj Mahal in Agra as her tomb.",
+  "participants": [
+    "Mumtaz Mahal",
+    "Shah Jahan",
+    "Mughal Empire"
+  ],
+  "countries": [
+    "India"
+  ],
+  "place": "Burhanpur, Madhya Pradesh, India",
+  "lat": 21.309,
+  "lon": 76.23,
+  "tags": [
+    "culture"
+  ],
+  "weight": 56,
+  "wikipedia": "Mumtaz Mahal",
+  "wikidata": "Q231693"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "event-2004-12-26-indian-ocean-tsunami",
+  "title": "Indian Ocean earthquake and tsunami",
+  "year": 2004,
+  "month": 12,
+  "day": 26,
+  "calendar": "gregorian",
+  "summary": "A magnitude 9.1 earthquake off Sumatra sent tsunamis across the Indian Ocean, killing about 230,000 people in fourteen countries.",
+  "reason": "The Indian Plate slipped under the Burma Plate along a 1,300 kilometre rupture, and there was no warning system in the ocean.",
+  "significance": "It was one of the deadliest natural disasters in history and led to a global tsunami warning network.",
+  "participants": [
+    "Indonesia",
+    "Sri Lanka",
+    "India",
+    "Thailand"
+  ],
+  "countries": [
+    "Indonesia",
+    "Sri Lanka",
+    "India",
+    "Thailand"
+  ],
+  "place": "Off the west coast of Sumatra, Indonesia",
+  "lat": 3.316,
+  "lon": 95.854,
+  "tags": [
+    "disaster"
+  ],
+  "weight": 82,
+  "wikipedia": "2004 Indian Ocean earthquake and tsunami",
+  "wikidata": "Q130754"
+}

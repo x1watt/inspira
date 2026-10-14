@@ -1,0 +1,32 @@
+{
+  "id": "event-1941-08-25-anglo-soviet-invasion-iran",
+  "title": "Britain and the Soviet Union invade Iran",
+  "year": 1941,
+  "month": 8,
+  "day": 25,
+  "calendar": "gregorian",
+  "summary": "British and Soviet forces entered Iran from the south and north and overcame its army within days. Reza Shah was forced to abdicate in favour of his son Mohammad Reza Pahlavi.",
+  "reason": "The Allies wanted Iran's oil fields and a supply route to the Soviet Union, and distrusted the Shah's ties to Germany.",
+  "significance": "The Persian Corridor became a key Lend-Lease route, and the occupation deeply shaped Iranian nationalism.",
+  "participants": [
+    "United Kingdom",
+    "Soviet Union",
+    "Imperial State of Iran",
+    "Reza Shah",
+    "Mohammad Reza Pahlavi"
+  ],
+  "countries": [
+    "Iran",
+    "United Kingdom",
+    "Russia"
+  ],
+  "place": "Tehran, Iran",
+  "lat": 35.6892,
+  "lon": 51.389,
+  "tags": [
+    "war"
+  ],
+  "weight": 55,
+  "wikipedia": "Anglo-Soviet invasion of Iran",
+  "wikidata": "Q541369"
+}

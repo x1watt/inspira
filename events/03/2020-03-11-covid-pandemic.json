@@ -1,0 +1,29 @@
+{
+  "id": "event-2020-03-11-covid-pandemic",
+  "title": "WHO declares COVID-19 a pandemic",
+  "year": 2020,
+  "month": 3,
+  "day": 11,
+  "calendar": "gregorian",
+  "summary": "The World Health Organization declared the spread of the new coronavirus a pandemic.",
+  "reason": "The virus, first identified in Wuhan, China, had spread to over 100 countries.",
+  "significance": "The pandemic killed millions and brought lockdowns that changed life worldwide.",
+  "participants": [
+    "World Health Organization",
+    "Tedros Adhanom Ghebreyesus"
+  ],
+  "countries": [
+    "Switzerland",
+    "China"
+  ],
+  "place": "World Health Organization, Geneva, Switzerland",
+  "lat": 46.2326,
+  "lon": 6.134,
+  "tags": [
+    "medicine",
+    "disaster"
+  ],
+  "weight": 92,
+  "wikipedia": "COVID-19 pandemic",
+  "wikidata": "Q81068910"
+}

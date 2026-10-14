@@ -1,0 +1,27 @@
+{
+  "id": "event-1948-05-14-israel-independence",
+  "title": "David Ben-Gurion declares the State of Israel",
+  "year": 1948,
+  "month": 5,
+  "day": 14,
+  "calendar": "gregorian",
+  "summary": "In Tel Aviv, David Ben-Gurion proclaimed the establishment of the State of Israel, hours before the British Mandate ended. Neighbouring Arab states invaded the next day.",
+  "reason": "The UN partition plan and the end of British rule opened the way to a Jewish state.",
+  "significance": "Israel's founding reshaped the Middle East and began the displacement of hundreds of thousands of Palestinians.",
+  "participants": [
+    "David Ben-Gurion",
+    "Jewish People's Council"
+  ],
+  "countries": [
+    "Israel"
+  ],
+  "place": "Independence Hall, Tel Aviv, Israel",
+  "lat": 32.0637,
+  "lon": 34.7708,
+  "tags": [
+    "politics"
+  ],
+  "weight": 85,
+  "wikipedia": "Israeli Declaration of Independence",
+  "wikidata": "Q223732"
+}

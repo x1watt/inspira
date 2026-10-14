@@ -1,0 +1,32 @@
+{
+  "id": "event-1783-09-03-treaty-of-paris-1783",
+  "title": "Treaty of Paris recognises American independence",
+  "year": 1783,
+  "month": 9,
+  "day": 3,
+  "calendar": "gregorian",
+  "summary": "Britain and the United States signed a peace treaty in Paris. Britain recognised the independence of the United States with borders reaching the Mississippi.",
+  "reason": "After Yorktown, Britain decided to end a costly war it could not win.",
+  "significance": "It formally established the United States as an independent nation.",
+  "participants": [
+    "United States",
+    "Kingdom of Great Britain",
+    "Benjamin Franklin",
+    "John Adams",
+    "John Jay"
+  ],
+  "countries": [
+    "United States",
+    "United Kingdom",
+    "France"
+  ],
+  "place": "Paris, France",
+  "lat": 48.8566,
+  "lon": 2.3522,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 80,
+  "wikipedia": "Treaty of Paris (1783)",
+  "wikidata": "Q217450"
+}

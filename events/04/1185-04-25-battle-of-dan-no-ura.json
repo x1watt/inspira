@@ -1,0 +1,29 @@
+{
+  "id": "event-1185-04-25-battle-of-dan-no-ura",
+  "title": "The Minamoto destroy the Taira at Dan-no-ura",
+  "year": 1185,
+  "month": 4,
+  "day": 25,
+  "calendar": "julian",
+  "summary": "In a naval battle in the Shimonoseki Strait, the Minamoto fleet defeated the Taira clan. The child emperor Antoku drowned with many of the Taira.",
+  "reason": "It was the final battle of the Genpei War between the two great warrior clans for control of Japan.",
+  "significance": "Minamoto no Yoritomo went on to found the Kamakura shogunate and centuries of warrior rule.",
+  "participants": [
+    "Minamoto clan",
+    "Minamoto no Yoshitsune",
+    "Taira clan",
+    "Emperor Antoku"
+  ],
+  "countries": [
+    "Japan"
+  ],
+  "place": "Shimonoseki Strait, Japan",
+  "lat": 33.964,
+  "lon": 130.956,
+  "tags": [
+    "war"
+  ],
+  "weight": 70,
+  "wikipedia": "Battle of Dan-no-ura",
+  "wikidata": "Q968676"
+}

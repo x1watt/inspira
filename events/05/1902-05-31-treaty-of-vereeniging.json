@@ -1,0 +1,31 @@
+{
+  "id": "event-1902-05-31-treaty-of-vereeniging",
+  "title": "Treaty of Vereeniging ends the Second Boer War",
+  "year": 1902,
+  "month": 5,
+  "day": 31,
+  "calendar": "gregorian",
+  "summary": "Boer leaders and British representatives signed the Treaty of Vereeniging in Pretoria, ending the Second Boer War and bringing the Transvaal and Orange Free State under British rule.",
+  "reason": "After years of guerrilla war, scorched-earth tactics and deaths in concentration camps, the Boer commandos could no longer continue fighting.",
+  "significance": "It ended Boer independence and set the stage for the Union of South Africa in 1910.",
+  "participants": [
+    "United Kingdom",
+    "South African Republic",
+    "Orange Free State",
+    "Lord Kitchener"
+  ],
+  "countries": [
+    "South Africa",
+    "United Kingdom"
+  ],
+  "place": "Melrose House, Pretoria, South Africa",
+  "lat": -25.7545,
+  "lon": 28.1914,
+  "tags": [
+    "war",
+    "diplomacy"
+  ],
+  "weight": 57,
+  "wikipedia": "Treaty of Vereeniging",
+  "wikidata": "Q927606"
+}

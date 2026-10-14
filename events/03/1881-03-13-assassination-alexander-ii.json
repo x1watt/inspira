@@ -1,0 +1,28 @@
+{
+  "id": "event-1881-03-13-assassination-alexander-ii",
+  "title": "Tsar Alexander II assassinated in Saint Petersburg",
+  "year": 1881,
+  "month": 3,
+  "day": 13,
+  "calendar": "gregorian",
+  "summary": "Members of the revolutionary group Narodnaya Volya killed Tsar Alexander II with bombs thrown at his carriage beside the Catherine Canal.",
+  "reason": "The revolutionaries believed that killing the tsar would spark a popular uprising against autocracy.",
+  "significance": "It ended the reform era and brought harsh reaction and pogroms under Alexander III.",
+  "participants": [
+    "Alexander II of Russia",
+    "Narodnaya Volya",
+    "Ignacy Hryniewiecki",
+    "Sophia Perovskaya"
+  ],
+  "countries": [
+    "Russia"
+  ],
+  "place": "Catherine Canal, Saint Petersburg, Russia",
+  "lat": 59.94,
+  "lon": 30.3285,
+  "tags": [
+    "politics"
+  ],
+  "weight": 65,
+  "wikipedia": "Assassination of Alexander II of Russia"
+}

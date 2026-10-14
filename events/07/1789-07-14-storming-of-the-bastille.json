@@ -1,0 +1,28 @@
+{
+  "id": "event-1789-07-14-storming-of-the-bastille",
+  "title": "Parisians storm the Bastille",
+  "year": 1789,
+  "month": 7,
+  "day": 14,
+  "calendar": "gregorian",
+  "summary": "A crowd of Parisians attacked and captured the Bastille fortress and prison, seeking its gunpowder.",
+  "reason": "Fear that the king would crush the National Assembly, together with high bread prices, drove Paris into revolt.",
+  "significance": "It became the symbol of the French Revolution and the end of absolute monarchy.",
+  "participants": [
+    "Parisian revolutionaries",
+    "Bernard-Rene de Launay",
+    "French Guards"
+  ],
+  "countries": [
+    "France"
+  ],
+  "place": "Bastille, Paris, France",
+  "lat": 48.8532,
+  "lon": 2.3692,
+  "tags": [
+    "revolution"
+  ],
+  "weight": 95,
+  "wikipedia": "Storming of the Bastille",
+  "wikidata": "Q6539"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "event-1973-01-27-paris-peace-accords",
+  "title": "The Paris Peace Accords are signed",
+  "year": 1973,
+  "month": 1,
+  "day": 27,
+  "calendar": "gregorian",
+  "summary": "The United States, North Vietnam, South Vietnam and the Viet Cong's government signed agreements in Paris to end the Vietnam War.",
+  "reason": "Years of negotiation and Nixon's need to withdraw American troops led to the deal.",
+  "significance": "American forces left Vietnam, but fighting between the Vietnamese resumed.",
+  "participants": [
+    "Henry Kissinger",
+    "Le Duc Tho",
+    "United States",
+    "North Vietnam",
+    "South Vietnam"
+  ],
+  "countries": [
+    "Vietnam",
+    "United States",
+    "France"
+  ],
+  "place": "Hotel Majestic, Paris, France",
+  "lat": 48.8713,
+  "lon": 2.2928,
+  "tags": [
+    "diplomacy",
+    "war"
+  ],
+  "weight": 63,
+  "wikipedia": "Paris Peace Accords",
+  "wikidata": "Q696802"
+}

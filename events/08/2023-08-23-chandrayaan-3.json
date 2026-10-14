@@ -1,0 +1,27 @@
+{
+  "id": "event-2023-08-23-chandrayaan-3",
+  "title": "Chandrayaan-3 lands near the Moon's south pole",
+  "year": 2023,
+  "month": 8,
+  "day": 23,
+  "calendar": "gregorian",
+  "summary": "India's Chandrayaan-3 lander touched down near the lunar south pole.",
+  "reason": "India sought to succeed after its 2019 lander crashed and to study ice near the pole.",
+  "significance": "India became the fourth country to soft-land on the Moon and the first near its south pole.",
+  "participants": [
+    "Indian Space Research Organisation"
+  ],
+  "countries": [
+    "India"
+  ],
+  "place": "Lunar south polar region, Moon",
+  "lat": null,
+  "lon": null,
+  "tags": [
+    "exploration",
+    "science"
+  ],
+  "weight": 60,
+  "wikipedia": "Chandrayaan-3",
+  "wikidata": "Q65049774"
+}

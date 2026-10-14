@@ -1,0 +1,29 @@
+{
+  "id": "event-1808-03-07-portuguese-court-rio",
+  "title": "Portuguese royal court arrives in Rio de Janeiro",
+  "year": 1808,
+  "month": 3,
+  "day": 7,
+  "calendar": "gregorian",
+  "summary": "Prince Regent John and the Portuguese court reached Rio de Janeiro, which became the capital of the Portuguese Empire.",
+  "reason": "The royal family fled Lisbon to escape Napoleon's invasion of Portugal.",
+  "significance": "It transformed Brazil and led directly to its independence.",
+  "participants": [
+    "John VI of Portugal",
+    "Maria I of Portugal",
+    "Kingdom of Portugal"
+  ],
+  "countries": [
+    "Brazil",
+    "Portugal"
+  ],
+  "place": "Rio de Janeiro, Brazil",
+  "lat": -22.9035,
+  "lon": -43.1729,
+  "tags": [
+    "politics"
+  ],
+  "weight": 60,
+  "wikipedia": "Transfer of the Portuguese court to Brazil",
+  "wikidata": "Q2670007"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "event-1603-03-24-tokugawa-shogunate",
+  "title": "Tokugawa Ieyasu becomes shogun of Japan",
+  "year": 1603,
+  "month": 3,
+  "day": 24,
+  "calendar": "gregorian",
+  "summary": "Emperor Go-Yozei appointed Tokugawa Ieyasu as shogun, founding the Tokugawa shogunate with its seat at Edo.",
+  "reason": "Ieyasu's victory at Sekigahara made him the dominant warlord, and the title gave his rule legitimacy.",
+  "significance": "The Tokugawa shogunate ruled a unified and largely peaceful Japan until 1868.",
+  "participants": [
+    "Tokugawa Ieyasu",
+    "Emperor Go-Yozei"
+  ],
+  "countries": [
+    "Japan"
+  ],
+  "place": "Fushimi Castle, Kyoto, Japan",
+  "lat": 34.94,
+  "lon": 135.78,
+  "tags": [
+    "politics"
+  ],
+  "weight": 74,
+  "wikipedia": "Tokugawa shogunate",
+  "wikidata": "Q205662"
+}

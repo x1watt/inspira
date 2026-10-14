@@ -1,0 +1,29 @@
+{
+  "id": "event-1994-04-07-rwandan-genocide",
+  "title": "The Rwandan genocide begins",
+  "year": 1994,
+  "month": 4,
+  "day": 7,
+  "calendar": "gregorian",
+  "summary": "A day after the president's plane was shot down, Hutu extremists began killing Tutsi and moderate Hutu. About 800,000 people were murdered in 100 days.",
+  "reason": "Decades of ethnic tension, civil war with the RPF and a prepared extremist network drove the killings.",
+  "significance": "The world's failure to stop it reshaped thinking on humanitarian intervention.",
+  "participants": [
+    "Interahamwe",
+    "Rwandan Armed Forces",
+    "Rwandan Patriotic Front"
+  ],
+  "countries": [
+    "Rwanda"
+  ],
+  "place": "Kigali, Rwanda",
+  "lat": -1.9441,
+  "lon": 30.0619,
+  "tags": [
+    "war",
+    "rights"
+  ],
+  "weight": 88,
+  "wikipedia": "Rwandan genocide",
+  "wikidata": "Q131297"
+}

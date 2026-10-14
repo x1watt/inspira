@@ -1,0 +1,31 @@
+{
+  "id": "event-1915-04-25-landing-at-anzac-cove",
+  "title": "Allied troops land at Gallipoli",
+  "year": 1915,
+  "month": 4,
+  "day": 25,
+  "calendar": "gregorian",
+  "summary": "Australian and New Zealand troops landed at what became Anzac Cove on the Gallipoli peninsula, as British and French forces landed elsewhere, beginning a failed eight-month campaign.",
+  "reason": "The Allies hoped to knock the Ottoman Empire out of the war and open a sea route to Russia through the Dardanelles.",
+  "significance": "The campaign shaped national identity in Australia, New Zealand and Turkey, and made Mustafa Kemal famous.",
+  "participants": [
+    "Australian and New Zealand Army Corps",
+    "Ottoman Empire",
+    "Mustafa Kemal"
+  ],
+  "countries": [
+    "Turkey",
+    "Australia",
+    "New Zealand",
+    "United Kingdom"
+  ],
+  "place": "Anzac Cove, Gallipoli peninsula, Turkey",
+  "lat": 40.246,
+  "lon": 26.279,
+  "tags": [
+    "war"
+  ],
+  "weight": 62,
+  "wikipedia": "Landing at Anzac Cove",
+  "wikidata": "Q2624963"
+}

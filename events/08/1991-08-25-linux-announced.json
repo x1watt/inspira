@@ -1,0 +1,26 @@
+{
+  "id": "event-1991-08-25-linux-announced",
+  "title": "Linus Torvalds announces Linux",
+  "year": 1991,
+  "month": 8,
+  "day": 25,
+  "calendar": "gregorian",
+  "summary": "A Finnish student, Linus Torvalds, posted on Usenet that he was writing a free operating system kernel as a hobby.",
+  "reason": "He wanted a Unix-like system for his new PC and was frustrated by the limits of Minix.",
+  "significance": "Linux grew into the kernel behind most servers, supercomputers and Android phones.",
+  "participants": [
+    "Linus Torvalds"
+  ],
+  "countries": [
+    "Finland"
+  ],
+  "place": "Helsinki, Finland",
+  "lat": 60.1699,
+  "lon": 24.9384,
+  "tags": [
+    "technology"
+  ],
+  "weight": 60,
+  "wikipedia": "History of Linux",
+  "wikidata": "Q1517650"
+}

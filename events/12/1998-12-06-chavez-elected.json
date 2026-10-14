@@ -1,0 +1,26 @@
+{
+  "id": "event-1998-12-06-chavez-elected",
+  "title": "Hugo Chavez wins Venezuela's presidency",
+  "year": 1998,
+  "month": 12,
+  "day": 6,
+  "calendar": "gregorian",
+  "summary": "Former coup leader Hugo Chavez won the presidential election with about 56 percent of the vote.",
+  "reason": "Voters were angry at corruption and poverty under the old two-party system.",
+  "significance": "His Bolivarian revolution transformed Venezuela and influenced the Latin American left.",
+  "participants": [
+    "Hugo Chavez"
+  ],
+  "countries": [
+    "Venezuela"
+  ],
+  "place": "Venezuela",
+  "lat": null,
+  "lon": null,
+  "tags": [
+    "politics"
+  ],
+  "weight": 55,
+  "wikipedia": "1998 Venezuelan presidential election",
+  "wikidata": "Q8883"
+}

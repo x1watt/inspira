@@ -1,0 +1,26 @@
+{
+  "id": "event-1801-01-01-ceres-discovered",
+  "title": "Giuseppe Piazzi discovers Ceres",
+  "year": 1801,
+  "month": 1,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "At the Palermo observatory, Giuseppe Piazzi found a moving object between Mars and Jupiter, the first known asteroid.",
+  "reason": "Astronomers were searching for a planet predicted to lie in the gap between Mars and Jupiter.",
+  "significance": "It revealed the asteroid belt.",
+  "participants": [
+    "Giuseppe Piazzi"
+  ],
+  "countries": [
+    "Italy"
+  ],
+  "place": "Palermo Astronomical Observatory, Palermo, Italy",
+  "lat": 38.111,
+  "lon": 13.353,
+  "tags": [
+    "science"
+  ],
+  "weight": 60,
+  "wikipedia": "Ceres (dwarf planet)",
+  "wikidata": "Q596"
+}

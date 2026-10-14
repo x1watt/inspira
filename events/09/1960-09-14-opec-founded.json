@@ -1,0 +1,32 @@
+{
+  "id": "event-1960-09-14-opec-founded",
+  "title": "OPEC is founded in Baghdad",
+  "year": 1960,
+  "month": 9,
+  "day": 14,
+  "calendar": "gregorian",
+  "summary": "Iran, Iraq, Kuwait, Saudi Arabia and Venezuela founded the Organization of the Petroleum Exporting Countries.",
+  "reason": "Western oil companies had cut posted prices, reducing the revenues of producing states.",
+  "significance": "OPEC gave oil states great power over the world economy.",
+  "participants": [
+    "OPEC",
+    "Juan Pablo Perez Alfonzo",
+    "Abdullah Tariki"
+  ],
+  "countries": [
+    "Iraq",
+    "Iran",
+    "Kuwait",
+    "Saudi Arabia",
+    "Venezuela"
+  ],
+  "place": "Baghdad, Iraq",
+  "lat": 33.3152,
+  "lon": 44.3661,
+  "tags": [
+    "economy"
+  ],
+  "weight": 63,
+  "wikipedia": "OPEC",
+  "wikidata": "Q7795"
+}

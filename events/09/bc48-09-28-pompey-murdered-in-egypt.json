@@ -1,0 +1,29 @@
+{
+  "id": "event-bc48-09-28-pompey-murdered-in-egypt",
+  "title": "Pompey the Great is murdered in Egypt",
+  "year": -48,
+  "month": 9,
+  "day": 28,
+  "calendar": "julian",
+  "summary": "Pompey, fleeing after his defeat at Pharsalus, was stabbed to death as he landed at Pelusium on the orders of the advisers of the young king Ptolemy XIII.",
+  "reason": "The Egyptian court hoped to win favour with the victorious Caesar and avoid being drawn into the Roman civil war.",
+  "significance": "His death removed Caesar's greatest rival and drew Caesar into Egyptian politics and his alliance with Cleopatra.",
+  "participants": [
+    "Pompey",
+    "Ptolemy XIII",
+    "Ptolemaic Kingdom"
+  ],
+  "countries": [
+    "Egypt",
+    "Italy"
+  ],
+  "place": "Pelusium, Egypt",
+  "lat": 31.042,
+  "lon": 32.545,
+  "tags": [
+    "politics"
+  ],
+  "weight": 60,
+  "wikipedia": "Pompey",
+  "wikidata": "Q125414"
+}

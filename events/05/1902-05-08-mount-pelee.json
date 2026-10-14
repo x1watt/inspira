@@ -1,0 +1,27 @@
+{
+  "id": "event-1902-05-08-mount-pelee",
+  "title": "Mount Pelee erupts and destroys Saint-Pierre",
+  "year": 1902,
+  "month": 5,
+  "day": 8,
+  "calendar": "gregorian",
+  "summary": "A pyroclastic flow from Mount Pelee on Martinique swept over the town of Saint-Pierre, killing about 28,000 people within minutes; only a handful survived.",
+  "reason": "The volcano had shown warning signs for weeks, but authorities kept residents in town, partly because of an upcoming election.",
+  "significance": "It was the deadliest volcanic eruption of the twentieth century and transformed the study of volcanic hazards.",
+  "participants": [
+    "Saint-Pierre",
+    "French Third Republic"
+  ],
+  "countries": [
+    "France"
+  ],
+  "place": "Saint-Pierre, Martinique, France",
+  "lat": 14.744,
+  "lon": -61.1757,
+  "tags": [
+    "disaster"
+  ],
+  "weight": 52,
+  "wikipedia": "1902 eruption of Mount Pelée",
+  "wikidata": "Q386230"
+}

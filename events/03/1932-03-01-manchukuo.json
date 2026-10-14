@@ -1,0 +1,29 @@
+{
+  "id": "event-1932-03-01-manchukuo",
+  "title": "Japan sets up the puppet state of Manchukuo",
+  "year": 1932,
+  "month": 3,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "Japan proclaimed the state of Manchukuo in Manchuria, installing the former Qing emperor Puyi as its head with its capital at Changchun.",
+  "reason": "After conquering Manchuria, Japan wanted a nominally independent regime to control the region's resources.",
+  "significance": "It deepened conflict with China and led Japan to leave the League of Nations.",
+  "participants": [
+    "Empire of Japan",
+    "Puyi",
+    "Kwantung Army"
+  ],
+  "countries": [
+    "China",
+    "Japan"
+  ],
+  "place": "Changchun, China",
+  "lat": 43.8171,
+  "lon": 125.3235,
+  "tags": [
+    "politics"
+  ],
+  "weight": 52,
+  "wikipedia": "Manchukuo",
+  "wikidata": "Q30623"
+}

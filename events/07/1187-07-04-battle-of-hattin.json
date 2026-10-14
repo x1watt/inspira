@@ -1,0 +1,30 @@
+{
+  "id": "event-1187-07-04-battle-of-hattin",
+  "title": "Saladin crushes the crusaders at the Battle of Hattin",
+  "year": 1187,
+  "month": 7,
+  "day": 4,
+  "calendar": "julian",
+  "summary": "Saladin's army surrounded and destroyed the army of the Kingdom of Jerusalem near the Horns of Hattin. King Guy of Lusignan was captured.",
+  "reason": "Saladin had united Egypt and Syria and declared war after crusader attacks on Muslim caravans.",
+  "significance": "The defeat left the crusader states almost defenceless and led to the fall of Jerusalem.",
+  "participants": [
+    "Saladin",
+    "Ayyubid Sultanate",
+    "Guy of Lusignan",
+    "Kingdom of Jerusalem",
+    "Raynald of Chatillon"
+  ],
+  "countries": [
+    "Israel"
+  ],
+  "place": "Horns of Hattin, near Tiberias, Israel",
+  "lat": 32.803,
+  "lon": 35.444,
+  "tags": [
+    "war"
+  ],
+  "weight": 75,
+  "wikipedia": "Battle of Hattin",
+  "wikidata": "Q233568"
+}

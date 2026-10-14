@@ -1,0 +1,30 @@
+{
+  "id": "event-955-08-10-battle-of-lechfeld",
+  "title": "Otto I defeats the Magyars at the Battle of Lechfeld",
+  "year": 955,
+  "month": 8,
+  "day": 10,
+  "calendar": "julian",
+  "summary": "King Otto I of Germany destroyed a large Hungarian army that was besieging Augsburg, on the plain by the river Lech.",
+  "reason": "Magyar horsemen had raided Western Europe for decades and invaded Bavaria again in 955.",
+  "significance": "It ended the Hungarian raids, and the Magyars settled and soon became a Christian kingdom.",
+  "participants": [
+    "Otto I",
+    "Kingdom of Germany",
+    "Hungarians",
+    "Bulcsu"
+  ],
+  "countries": [
+    "Germany",
+    "Hungary"
+  ],
+  "place": "Lechfeld, near Augsburg, Germany",
+  "lat": 48.3705,
+  "lon": 10.8978,
+  "tags": [
+    "war"
+  ],
+  "weight": 65,
+  "wikipedia": "Battle of Lechfeld",
+  "wikidata": "Q273069"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "event-1641-01-14-dutch-capture-malacca",
+  "title": "The Dutch capture Malacca from the Portuguese",
+  "year": 1641,
+  "month": 1,
+  "day": 14,
+  "calendar": "gregorian",
+  "summary": "After a siege of several months with help from the Sultanate of Johor, the Dutch East India Company forced the Portuguese garrison of Malacca to surrender.",
+  "reason": "Control of Malacca meant control of the strait linking the Indian Ocean with the South China Sea.",
+  "significance": "It ended Portuguese dominance in Southeast Asia and made the Dutch the leading European power there.",
+  "participants": [
+    "Dutch East India Company",
+    "Portuguese Empire",
+    "Johor Sultanate"
+  ],
+  "countries": [
+    "Malaysia",
+    "Netherlands",
+    "Portugal"
+  ],
+  "place": "Malacca, Malaysia",
+  "lat": 2.1896,
+  "lon": 102.2501,
+  "tags": [
+    "war",
+    "economy"
+  ],
+  "weight": 52,
+  "wikipedia": "Siege of Malacca (1641)"
+}

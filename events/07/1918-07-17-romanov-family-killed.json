@@ -1,0 +1,29 @@
+{
+  "id": "event-1918-07-17-romanov-family-killed",
+  "title": "The Bolsheviks kill the Romanov family",
+  "year": 1918,
+  "month": 7,
+  "day": 17,
+  "calendar": "gregorian",
+  "summary": "Former Tsar Nicholas II, his wife, their five children and four servants were shot by Bolshevik guards in the Ipatiev House in Yekaterinburg.",
+  "reason": "With White forces approaching the city, the Bolsheviks feared the family could be rescued and become a rallying point.",
+  "significance": "It ended the Romanov dynasty and signaled the ruthlessness of the Civil War.",
+  "participants": [
+    "Nicholas II",
+    "Romanov family",
+    "Yakov Yurovsky",
+    "Bolsheviks"
+  ],
+  "countries": [
+    "Russia"
+  ],
+  "place": "Ipatiev House, Yekaterinburg, Russia",
+  "lat": 56.8444,
+  "lon": 60.6086,
+  "tags": [
+    "politics"
+  ],
+  "weight": 52,
+  "wikipedia": "Murder of the Romanov family",
+  "wikidata": "Q1356047"
+}

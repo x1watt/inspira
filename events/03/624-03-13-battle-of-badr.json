@@ -1,0 +1,30 @@
+{
+  "id": "event-624-03-13-battle-of-badr",
+  "title": "Muslims defeat the Quraysh at the Battle of Badr",
+  "year": 624,
+  "month": 3,
+  "day": 13,
+  "calendar": "julian",
+  "summary": "A small force led by Muhammad defeated a larger army of the Quraysh of Mecca near the wells of Badr. Several leading Meccans were killed.",
+  "reason": "The Muslims of Medina had moved to intercept a Meccan caravan, and Mecca sent an army to protect it.",
+  "significance": "The victory strengthened Muhammad's position in Arabia and is remembered in Islam as a sign of divine support.",
+  "participants": [
+    "Muhammad",
+    "Muslims of Medina",
+    "Quraysh",
+    "Abu Jahl"
+  ],
+  "countries": [
+    "Saudi Arabia"
+  ],
+  "place": "Badr, near Medina, Saudi Arabia",
+  "lat": 23.7333,
+  "lon": 38.7667,
+  "tags": [
+    "war",
+    "religion"
+  ],
+  "weight": 70,
+  "wikipedia": "Battle of Badr",
+  "wikidata": "Q486124"
+}

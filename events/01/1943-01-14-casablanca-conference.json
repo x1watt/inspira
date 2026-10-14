@@ -1,0 +1,31 @@
+{
+  "id": "event-1943-01-14-casablanca-conference",
+  "title": "Casablanca Conference opens in Morocco",
+  "year": 1943,
+  "month": 1,
+  "day": 14,
+  "calendar": "gregorian",
+  "summary": "Roosevelt and Churchill met at Anfa near Casablanca to plan Allied strategy, agreeing to invade Sicily and to demand the unconditional surrender of the Axis powers.",
+  "reason": "With North Africa almost won, the Allies needed to decide where to fight next and to reassure the Soviet Union.",
+  "significance": "The demand for unconditional surrender shaped the rest of the war and how it ended.",
+  "participants": [
+    "Franklin D. Roosevelt",
+    "Winston Churchill",
+    "Charles de Gaulle",
+    "Henri Giraud"
+  ],
+  "countries": [
+    "Morocco",
+    "United States",
+    "United Kingdom"
+  ],
+  "place": "Anfa, Casablanca, Morocco",
+  "lat": 33.5731,
+  "lon": -7.5898,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 60,
+  "wikipedia": "Casablanca Conference",
+  "wikidata": "Q502093"
+}

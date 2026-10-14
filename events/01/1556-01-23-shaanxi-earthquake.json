@@ -1,0 +1,27 @@
+{
+  "id": "event-1556-01-23-shaanxi-earthquake",
+  "title": "The Shaanxi earthquake kills about 830,000 people",
+  "year": 1556,
+  "month": 1,
+  "day": 23,
+  "calendar": "julian",
+  "summary": "A massive earthquake struck the Wei river valley in northern China. Many victims died when the cave dwellings cut into the soft loess hills collapsed.",
+  "reason": "The quake came from movement on faults in the Weihe basin, and dense settlement in fragile loess caves multiplied the deaths.",
+  "significance": "It is the deadliest earthquake on record.",
+  "participants": [
+    "Ming dynasty",
+    "Jiajing Emperor"
+  ],
+  "countries": [
+    "China"
+  ],
+  "place": "Hua County, Shaanxi, China",
+  "lat": 34.5,
+  "lon": 109.7,
+  "tags": [
+    "disaster"
+  ],
+  "weight": 70,
+  "wikipedia": "1556 Shaanxi earthquake",
+  "wikidata": "Q191293"
+}

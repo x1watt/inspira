@@ -1,0 +1,33 @@
+{
+  "id": "event-1953-07-27-korean-armistice",
+  "title": "The Korean Armistice ends the fighting in Korea",
+  "year": 1953,
+  "month": 7,
+  "day": 27,
+  "calendar": "gregorian",
+  "summary": "Delegates of the UN Command, North Korea and the Chinese volunteers signed an armistice at Panmunjom, creating a demilitarized zone.",
+  "reason": "Two years of stalemate and Stalin's death made both sides ready to stop fighting.",
+  "significance": "No peace treaty followed, so Korea remains divided and technically at war.",
+  "participants": [
+    "United Nations Command",
+    "North Korea",
+    "People's Volunteer Army",
+    "Mark W. Clark"
+  ],
+  "countries": [
+    "North Korea",
+    "South Korea",
+    "China",
+    "United States"
+  ],
+  "place": "Panmunjom, Korea",
+  "lat": 37.9561,
+  "lon": 126.6772,
+  "tags": [
+    "war",
+    "diplomacy"
+  ],
+  "weight": 73,
+  "wikipedia": "Korean Armistice Agreement",
+  "wikidata": "Q2862267"
+}

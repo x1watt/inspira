@@ -1,0 +1,30 @@
+{
+  "id": "event-1914-08-15-panama-canal-opens",
+  "title": "The Panama Canal opens to shipping",
+  "year": 1914,
+  "month": 8,
+  "day": 15,
+  "calendar": "gregorian",
+  "summary": "The cargo ship SS Ancon made the first official transit of the Panama Canal, linking the Atlantic and Pacific oceans.",
+  "reason": "The United States built the canal over a decade to shorten sea routes and strengthen its naval and commercial reach.",
+  "significance": "It transformed world shipping and became one of the most important trade routes on Earth.",
+  "participants": [
+    "SS Ancon",
+    "United States",
+    "George Washington Goethals"
+  ],
+  "countries": [
+    "Panama",
+    "United States"
+  ],
+  "place": "Panama Canal, Panama",
+  "lat": 9.08,
+  "lon": -79.68,
+  "tags": [
+    "technology",
+    "economy"
+  ],
+  "weight": 72,
+  "wikipedia": "Panama Canal",
+  "wikidata": "Q7350"
+}

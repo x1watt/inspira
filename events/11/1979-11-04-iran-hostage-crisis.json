@@ -1,0 +1,30 @@
+{
+  "id": "event-1979-11-04-iran-hostage-crisis",
+  "title": "Students seize the US embassy in Tehran",
+  "year": 1979,
+  "month": 11,
+  "day": 4,
+  "calendar": "gregorian",
+  "summary": "Iranian students stormed the American embassy in Tehran and took 52 Americans hostage, holding them for 444 days.",
+  "reason": "They demanded that the United States return the shah, who had been admitted for medical treatment.",
+  "significance": "The crisis ended Jimmy Carter's presidency and poisoned relations between Iran and the United States.",
+  "participants": [
+    "Muslim Student Followers of the Imam's Line",
+    "Ruhollah Khomeini",
+    "Jimmy Carter"
+  ],
+  "countries": [
+    "Iran",
+    "United States"
+  ],
+  "place": "United States Embassy, Tehran, Iran",
+  "lat": 35.7083,
+  "lon": 51.4228,
+  "tags": [
+    "politics",
+    "diplomacy"
+  ],
+  "weight": 65,
+  "wikipedia": "Iran hostage crisis",
+  "wikidata": "Q589673"
+}

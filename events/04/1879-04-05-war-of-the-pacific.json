@@ -1,0 +1,30 @@
+{
+  "id": "event-1879-04-05-war-of-the-pacific",
+  "title": "Chile declares war on Peru and Bolivia",
+  "year": 1879,
+  "month": 4,
+  "day": 5,
+  "calendar": "gregorian",
+  "summary": "Chile formally declared war on Peru and Bolivia, starting the War of the Pacific over the nitrate-rich Atacama Desert.",
+  "reason": "Bolivia had raised taxes on a Chilean nitrate company in breach of a treaty, and Peru was bound to Bolivia by a secret alliance.",
+  "significance": "Chile won the war, and Bolivia lost its coastline and became landlocked.",
+  "participants": [
+    "Chile",
+    "Peru",
+    "Bolivia"
+  ],
+  "countries": [
+    "Chile",
+    "Peru",
+    "Bolivia"
+  ],
+  "place": "Santiago, Chile",
+  "lat": -33.4489,
+  "lon": -70.6693,
+  "tags": [
+    "war"
+  ],
+  "weight": 55,
+  "wikipedia": "War of the Pacific",
+  "wikidata": "Q152004"
+}

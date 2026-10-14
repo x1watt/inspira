@@ -1,0 +1,31 @@
+{
+  "id": "event-1904-08-11-battle-of-waterberg",
+  "title": "German troops defeat the Herero at the Battle of Waterberg",
+  "year": 1904,
+  "month": 8,
+  "day": 11,
+  "calendar": "gregorian",
+  "summary": "German colonial forces under Lothar von Trotha attacked the Herero at the Waterberg plateau and drove survivors into the Omaheke desert, where many died of thirst.",
+  "reason": "The Herero had risen against German land seizures and abuses in German South West Africa, and von Trotha sought their destruction.",
+  "significance": "It began the Herero and Nama genocide, often called the first genocide of the twentieth century.",
+  "participants": [
+    "German Empire",
+    "Herero people",
+    "Lothar von Trotha",
+    "Samuel Maharero"
+  ],
+  "countries": [
+    "Namibia",
+    "Germany"
+  ],
+  "place": "Waterberg plateau, Namibia",
+  "lat": -20.5167,
+  "lon": 17.2333,
+  "tags": [
+    "war",
+    "rights"
+  ],
+  "weight": 52,
+  "wikipedia": "Battle of Waterberg",
+  "wikidata": "Q178842"
+}

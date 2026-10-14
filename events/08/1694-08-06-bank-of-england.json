@@ -1,0 +1,28 @@
+{
+  "id": "event-1694-08-06-bank-of-england",
+  "title": "The Bank of England is founded",
+  "year": 1694,
+  "month": 8,
+  "day": 6,
+  "calendar": "gregorian",
+  "summary": "A royal charter created the Governor and Company of the Bank of England, which lent 1.2 million pounds to the government.",
+  "reason": "King William III needed money to fight France, and investors were offered interest and banking privileges in return.",
+  "significance": "It became the model for central banks and for modern public debt.",
+  "participants": [
+    "Bank of England",
+    "William III of England",
+    "William Paterson"
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "place": "London, United Kingdom",
+  "lat": 51.5142,
+  "lon": -0.0885,
+  "tags": [
+    "economy"
+  ],
+  "weight": 64,
+  "wikipedia": "Bank of England",
+  "wikidata": "Q183231"
+}

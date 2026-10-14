@@ -1,0 +1,31 @@
+{
+  "id": "event-1769-06-03-transit-of-venus-tahiti",
+  "title": "Cook's expedition observes the transit of Venus from Tahiti",
+  "year": 1769,
+  "month": 6,
+  "day": 3,
+  "calendar": "gregorian",
+  "summary": "James Cook, Charles Green and others recorded the passage of Venus across the Sun from Point Venus in Tahiti.",
+  "reason": "The Royal Society sent the expedition so that timings from distant places could be used to measure the distance from the Earth to the Sun.",
+  "significance": "It was part of the first great international scientific project and opened the Pacific voyages of Cook.",
+  "participants": [
+    "James Cook",
+    "Charles Green",
+    "Royal Society",
+    "HMS Endeavour"
+  ],
+  "countries": [
+    "French Polynesia",
+    "United Kingdom"
+  ],
+  "place": "Point Venus, Tahiti, French Polynesia",
+  "lat": -17.495,
+  "lon": -149.495,
+  "tags": [
+    "science",
+    "exploration"
+  ],
+  "weight": 50,
+  "wikipedia": "1769 transit of Venus observed from Tahiti",
+  "wikidata": "Q4553059"
+}

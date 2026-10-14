@@ -1,0 +1,33 @@
+{
+  "id": "event-1859-06-24-battle-of-solferino",
+  "title": "Battle of Solferino",
+  "year": 1859,
+  "month": 6,
+  "day": 24,
+  "calendar": "gregorian",
+  "summary": "French and Sardinian armies defeated the Austrians in one of the largest battles of the century, leaving tens of thousands dead and wounded.",
+  "reason": "Napoleon III had allied with Piedmont-Sardinia to drive Austria out of northern Italy.",
+  "significance": "It advanced Italian unification, and the suffering Henry Dunant saw there led him to found the Red Cross.",
+  "participants": [
+    "Napoleon III",
+    "Victor Emmanuel II",
+    "Franz Joseph I",
+    "Austrian Empire",
+    "Second French Empire",
+    "Kingdom of Sardinia"
+  ],
+  "countries": [
+    "Italy",
+    "France",
+    "Austria"
+  ],
+  "place": "Solferino, Lombardy, Italy",
+  "lat": 45.3692,
+  "lon": 10.5658,
+  "tags": [
+    "war"
+  ],
+  "weight": 60,
+  "wikipedia": "Battle of Solferino",
+  "wikidata": "Q324916"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "event-1915-04-24-armenian-intellectuals-deported",
+  "title": "Ottoman arrest of Armenian leaders begins the Armenian genocide",
+  "year": 1915,
+  "month": 4,
+  "day": 24,
+  "calendar": "gregorian",
+  "summary": "Ottoman authorities arrested hundreds of Armenian intellectuals and community leaders in Constantinople, most of whom were later killed.",
+  "reason": "The Young Turk government, at war and suspicious of Armenians as a disloyal minority, set out to destroy the Armenian population of Anatolia.",
+  "significance": "The date marks the start of the Armenian genocide, in which around a million people died.",
+  "participants": [
+    "Ottoman Empire",
+    "Committee of Union and Progress",
+    "Talat Pasha"
+  ],
+  "countries": [
+    "Turkey",
+    "Armenia"
+  ],
+  "place": "Constantinople (Istanbul), Turkey",
+  "lat": 41.0082,
+  "lon": 28.9784,
+  "tags": [
+    "rights",
+    "war"
+  ],
+  "weight": 72,
+  "wikipedia": "Deportation of Armenian intellectuals on 24 April 1915",
+  "wikidata": "Q5260701"
+}

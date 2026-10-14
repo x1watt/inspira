@@ -1,0 +1,30 @@
+{
+  "id": "event-1765-03-22-stamp-act",
+  "title": "British Parliament passes the Stamp Act",
+  "year": 1765,
+  "month": 3,
+  "day": 22,
+  "calendar": "gregorian",
+  "summary": "Parliament imposed a direct tax on the American colonies, requiring stamped paper for legal documents, newspapers and other printed items.",
+  "reason": "Britain wanted the colonies to help pay for troops stationed in America after the costly Seven Years' War.",
+  "significance": "Colonial protest under the slogan of no taxation without representation set the path toward the American Revolution.",
+  "participants": [
+    "Parliament of Great Britain",
+    "George Grenville",
+    "Thirteen Colonies"
+  ],
+  "countries": [
+    "United Kingdom",
+    "United States"
+  ],
+  "place": "Westminster, London, United Kingdom",
+  "lat": 51.4995,
+  "lon": -0.1248,
+  "tags": [
+    "law",
+    "politics"
+  ],
+  "weight": 55,
+  "wikipedia": "Stamp Act 1765",
+  "wikidata": "Q1335777"
+}

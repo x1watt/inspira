@@ -1,0 +1,28 @@
+{
+  "id": "event-1960-03-21-sharpeville-massacre",
+  "title": "Police kill 69 protesters at Sharpeville",
+  "year": 1960,
+  "month": 3,
+  "day": 21,
+  "calendar": "gregorian",
+  "summary": "South African police opened fire on a crowd protesting the pass laws at Sharpeville, killing 69 people.",
+  "reason": "The Pan Africanist Congress had called for protesters to turn up at police stations without their passes.",
+  "significance": "The massacre led to the banning of the ANC and PAC and the turn to armed struggle.",
+  "participants": [
+    "South African Police",
+    "Pan Africanist Congress",
+    "Robert Sobukwe"
+  ],
+  "countries": [
+    "South Africa"
+  ],
+  "place": "Sharpeville, South Africa",
+  "lat": -26.688,
+  "lon": 27.871,
+  "tags": [
+    "rights"
+  ],
+  "weight": 61,
+  "wikipedia": "Sharpeville massacre",
+  "wikidata": "Q518753"
+}

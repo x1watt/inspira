@@ -1,0 +1,30 @@
+{
+  "id": "event-2021-08-15-fall-of-kabul",
+  "title": "The Taliban take Kabul",
+  "year": 2021,
+  "month": 8,
+  "day": 15,
+  "calendar": "gregorian",
+  "summary": "Taliban fighters entered Kabul as President Ashraf Ghani fled, completing their takeover of Afghanistan.",
+  "reason": "The US had agreed to withdraw its troops, and the Afghan army collapsed in weeks.",
+  "significance": "It ended twenty years of the Western-backed republic.",
+  "participants": [
+    "Taliban",
+    "Ashraf Ghani",
+    "United States"
+  ],
+  "countries": [
+    "Afghanistan",
+    "United States"
+  ],
+  "place": "Kabul, Afghanistan",
+  "lat": 34.5553,
+  "lon": 69.2075,
+  "tags": [
+    "war",
+    "politics"
+  ],
+  "weight": 70,
+  "wikipedia": "Fall of Kabul (2021)",
+  "wikidata": "Q108102583"
+}

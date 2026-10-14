@@ -1,0 +1,29 @@
+{
+  "id": "event-1994-05-10-mandela-inauguration",
+  "title": "Nelson Mandela becomes president of South Africa",
+  "year": 1994,
+  "month": 5,
+  "day": 10,
+  "calendar": "gregorian",
+  "summary": "Nelson Mandela was sworn in as South Africa's first black president at the Union Buildings in Pretoria.",
+  "reason": "The ANC won the country's first elections with universal suffrage in April 1994.",
+  "significance": "It marked the formal end of apartheid.",
+  "participants": [
+    "Nelson Mandela",
+    "African National Congress",
+    "F. W. de Klerk",
+    "Thabo Mbeki"
+  ],
+  "countries": [
+    "South Africa"
+  ],
+  "place": "Union Buildings, Pretoria, South Africa",
+  "lat": -25.7402,
+  "lon": 28.212,
+  "tags": [
+    "rights",
+    "politics"
+  ],
+  "weight": 85,
+  "wikipedia": "Presidency of Nelson Mandela"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "event-2004-05-01-eu-enlargement",
+  "title": "European Union enlarges by ten countries",
+  "year": 2004,
+  "month": 5,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "Ten countries, mostly former communist states such as Poland, joined the European Union.",
+  "reason": "After 1989 these states sought security, prosperity and a place in a united Europe.",
+  "significance": "It was the largest single expansion of the EU and reunited the continent.",
+  "participants": [
+    "European Union",
+    "Poland",
+    "Czech Republic",
+    "Hungary"
+  ],
+  "countries": [
+    "Poland",
+    "Czech Republic",
+    "Hungary",
+    "Estonia",
+    "Latvia",
+    "Lithuania",
+    "Slovakia",
+    "Slovenia",
+    "Malta",
+    "Cyprus"
+  ],
+  "place": "Europe",
+  "lat": null,
+  "lon": null,
+  "tags": [
+    "politics",
+    "diplomacy"
+  ],
+  "weight": 68,
+  "wikipedia": "2004 enlargement of the European Union",
+  "wikidata": "Q1230874"
+}

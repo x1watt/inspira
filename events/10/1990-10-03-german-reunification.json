@@ -1,0 +1,29 @@
+{
+  "id": "event-1990-10-03-german-reunification",
+  "title": "Germany is reunified",
+  "year": 1990,
+  "month": 10,
+  "day": 3,
+  "calendar": "gregorian",
+  "summary": "The German Democratic Republic joined the Federal Republic of Germany, ending 45 years of division. Crowds celebrated at the Reichstag in Berlin.",
+  "reason": "The fall of the Berlin Wall and the collapse of East Germany's government made unification possible, agreed in the Two Plus Four Treaty.",
+  "significance": "It made Germany the largest state in the European Community and closed a chapter of the Cold War.",
+  "participants": [
+    "Federal Republic of Germany",
+    "German Democratic Republic",
+    "Helmut Kohl"
+  ],
+  "countries": [
+    "Germany"
+  ],
+  "place": "Reichstag, Berlin, Germany",
+  "lat": 52.5186,
+  "lon": 13.3762,
+  "tags": [
+    "politics",
+    "diplomacy"
+  ],
+  "weight": 88,
+  "wikipedia": "German reunification",
+  "wikidata": "Q56039"
+}

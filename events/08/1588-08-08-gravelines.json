@@ -1,0 +1,32 @@
+{
+  "id": "event-1588-08-08-gravelines",
+  "title": "English fleet scatters the Spanish Armada at Gravelines",
+  "year": 1588,
+  "month": 8,
+  "day": 8,
+  "calendar": "gregorian",
+  "summary": "After fireships broke up the Armada's formation off Calais, English ships attacked it off Gravelines. Winds then drove the Spanish fleet into the North Sea.",
+  "reason": "Philip II sent the Armada to escort an army from the Netherlands to invade England and end English support for the Dutch revolt.",
+  "significance": "The failure of the invasion secured Protestant England and its rise as a naval power.",
+  "participants": [
+    "Spanish Armada",
+    "Kingdom of England",
+    "Charles Howard",
+    "Francis Drake",
+    "Duke of Medina Sidonia"
+  ],
+  "countries": [
+    "France",
+    "United Kingdom",
+    "Spain"
+  ],
+  "place": "Off Gravelines, Nord, France",
+  "lat": 51.05,
+  "lon": 2.05,
+  "tags": [
+    "war"
+  ],
+  "weight": 75,
+  "wikipedia": "Battle of Gravelines (1588)",
+  "wikidata": "Q417610"
+}

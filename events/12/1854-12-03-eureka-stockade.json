@@ -1,0 +1,30 @@
+{
+  "id": "event-1854-12-03-eureka-stockade",
+  "title": "Miners fight colonial troops at the Eureka Stockade",
+  "year": 1854,
+  "month": 12,
+  "day": 3,
+  "calendar": "gregorian",
+  "summary": "Soldiers and police stormed a stockade built by gold miners at Ballarat, killing more than 20 people in a short battle.",
+  "reason": "Miners protested against expensive mining licenses, harsh policing and their lack of political representation.",
+  "significance": "It is often seen as a birth of Australian democracy, as most miners' demands were soon granted.",
+  "participants": [
+    "Peter Lalor",
+    "Ballarat Reform League",
+    "Colony of Victoria"
+  ],
+  "countries": [
+    "Australia",
+    "United Kingdom"
+  ],
+  "place": "Ballarat, Victoria, Australia",
+  "lat": -37.5622,
+  "lon": 143.8503,
+  "tags": [
+    "rights",
+    "revolution"
+  ],
+  "weight": 50,
+  "wikipedia": "Eureka Rebellion",
+  "wikidata": "Q2164870"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "event-1811-07-05-venezuela-independence",
+  "title": "Venezuela declares independence",
+  "year": 1811,
+  "month": 7,
+  "day": 5,
+  "calendar": "gregorian",
+  "summary": "A congress in Caracas declared Venezuela independent of Spain.",
+  "reason": "Revolutionaries such as Francisco de Miranda and Simon Bolivar pushed for a full break with Spain.",
+  "significance": "It was the first independence declaration in Spanish America.",
+  "participants": [
+    "Congress of Venezuela",
+    "Francisco de Miranda",
+    "Simon Bolivar"
+  ],
+  "countries": [
+    "Venezuela",
+    "Spain"
+  ],
+  "place": "Caracas, Venezuela",
+  "lat": 10.5061,
+  "lon": -66.9146,
+  "tags": [
+    "revolution",
+    "politics"
+  ],
+  "weight": 60,
+  "wikipedia": "Venezuelan Declaration of Independence",
+  "wikidata": "Q3382350"
+}

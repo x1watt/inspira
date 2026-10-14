@@ -1,0 +1,28 @@
+{
+  "id": "event-1987-12-09-first-intifada",
+  "title": "The First Intifada begins",
+  "year": 1987,
+  "month": 12,
+  "day": 9,
+  "calendar": "gregorian",
+  "summary": "Palestinian protests broke out in the Jabalia refugee camp in Gaza and spread across the occupied territories.",
+  "reason": "A traffic accident that killed four Palestinians sparked anger built up over twenty years of occupation.",
+  "significance": "The uprising put the Palestinian cause at the centre of world attention and led toward the Oslo Accords.",
+  "participants": [
+    "Palestinians",
+    "Israel Defense Forces"
+  ],
+  "countries": [
+    "Palestine",
+    "Israel"
+  ],
+  "place": "Jabalia, Gaza Strip, Palestine",
+  "lat": 31.53,
+  "lon": 34.483,
+  "tags": [
+    "revolution"
+  ],
+  "weight": 58,
+  "wikipedia": "First Intifada",
+  "wikidata": "Q49105"
+}

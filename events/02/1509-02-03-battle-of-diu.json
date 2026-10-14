@@ -1,0 +1,32 @@
+{
+  "id": "event-1509-02-03-battle-of-diu",
+  "title": "Portugal wins the naval Battle of Diu",
+  "year": 1509,
+  "month": 2,
+  "day": 3,
+  "calendar": "julian",
+  "summary": "A Portuguese fleet under Francisco de Almeida defeated the combined fleets of the Mamluk Sultanate, the Gujarat Sultanate and the Zamorin of Calicut off Diu.",
+  "reason": "Muslim and Indian powers, backed by Venice, wanted to break Portugal's attempt to control the spice trade of the Indian Ocean.",
+  "significance": "It gave Portugal naval dominance in the Indian Ocean for most of the century.",
+  "participants": [
+    "Kingdom of Portugal",
+    "Francisco de Almeida",
+    "Mamluk Sultanate",
+    "Gujarat Sultanate",
+    "Zamorin of Calicut"
+  ],
+  "countries": [
+    "India",
+    "Portugal",
+    "Egypt"
+  ],
+  "place": "Off Diu, India",
+  "lat": 20.714,
+  "lon": 70.987,
+  "tags": [
+    "war",
+    "economy"
+  ],
+  "weight": 62,
+  "wikipedia": "Battle of Diu"
+}

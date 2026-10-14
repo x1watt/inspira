@@ -1,0 +1,28 @@
+{
+  "id": "event-1274-03-07-death-of-thomas-aquinas",
+  "title": "Death of Thomas Aquinas",
+  "year": 1274,
+  "month": 3,
+  "day": 7,
+  "calendar": "julian",
+  "summary": "The Dominican theologian Thomas Aquinas died at the abbey of Fossanova while travelling to the Second Council of Lyon. His Summa Theologica was left unfinished.",
+  "reason": "He fell ill on the journey, possibly after a head injury.",
+  "significance": "His joining of Aristotle's philosophy with Christian theology became the basis of Catholic thought.",
+  "participants": [
+    "Thomas Aquinas",
+    "Dominican Order"
+  ],
+  "countries": [
+    "Italy"
+  ],
+  "place": "Fossanova Abbey, Priverno, Italy",
+  "lat": 41.438,
+  "lon": 13.196,
+  "tags": [
+    "religion",
+    "culture"
+  ],
+  "weight": 55,
+  "wikipedia": "Thomas Aquinas",
+  "wikidata": "Q9438"
+}

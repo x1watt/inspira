@@ -1,0 +1,29 @@
+{
+  "id": "event-1796-05-14-jenner-smallpox-vaccine",
+  "title": "Edward Jenner tests the first vaccine",
+  "year": 1796,
+  "month": 5,
+  "day": 14,
+  "calendar": "gregorian",
+  "summary": "Edward Jenner inoculated eight year old James Phipps with material from a cowpox sore. The boy later proved immune to smallpox.",
+  "reason": "Jenner had heard that milkmaids who caught cowpox did not get smallpox.",
+  "significance": "It founded vaccination, which later eradicated smallpox.",
+  "participants": [
+    "Edward Jenner",
+    "James Phipps",
+    "Sarah Nelmes"
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "place": "Berkeley, Gloucestershire, United Kingdom",
+  "lat": 51.6903,
+  "lon": -2.458,
+  "tags": [
+    "medicine",
+    "science"
+  ],
+  "weight": 85,
+  "wikipedia": "Edward Jenner",
+  "wikidata": "Q40852"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "event-1919-03-01-march-first-movement",
+  "title": "Koreans declare independence in the March 1st Movement",
+  "year": 1919,
+  "month": 3,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "Korean leaders read a declaration of independence in Seoul, sparking peaceful demonstrations across Korea that Japanese authorities suppressed violently.",
+  "reason": "Koreans resented harsh Japanese colonial rule and were inspired by Wilson's call for self-determination.",
+  "significance": "It led to the Provisional Government of Korea and remains central to Korean national identity.",
+  "participants": [
+    "Korean independence activists",
+    "Empire of Japan",
+    "Son Byong-hi"
+  ],
+  "countries": [
+    "South Korea",
+    "North Korea",
+    "Japan"
+  ],
+  "place": "Tapgol Park, Seoul, South Korea",
+  "lat": 37.5711,
+  "lon": 126.9883,
+  "tags": [
+    "rights",
+    "revolution"
+  ],
+  "weight": 57,
+  "wikipedia": "March First Movement"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "event-2005-04-23-me-at-the-zoo",
+  "title": "First video is uploaded to YouTube",
+  "year": 2005,
+  "month": 4,
+  "day": 23,
+  "calendar": "gregorian",
+  "summary": "YouTube co-founder Jawed Karim uploaded Me at the Zoo, an 18-second clip filmed at the San Diego Zoo.",
+  "reason": "The founders wanted an easy way to share videos online.",
+  "significance": "YouTube became the world's main video platform.",
+  "participants": [
+    "Jawed Karim",
+    "YouTube"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "San Diego Zoo, California, United States",
+  "lat": 32.7353,
+  "lon": -117.149,
+  "tags": [
+    "technology",
+    "culture"
+  ],
+  "weight": 58,
+  "wikipedia": "Me at the zoo",
+  "wikidata": "Q6803111"
+}

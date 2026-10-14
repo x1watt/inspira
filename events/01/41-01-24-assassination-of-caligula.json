@@ -1,0 +1,29 @@
+{
+  "id": "event-41-01-24-assassination-of-caligula",
+  "title": "Emperor Caligula is assassinated",
+  "year": 41,
+  "month": 1,
+  "day": 24,
+  "calendar": "julian",
+  "summary": "Officers of the Praetorian Guard led by Cassius Chaerea killed the emperor Caligula in a passage of the palace on the Palatine. The guard then proclaimed his uncle Claudius emperor.",
+  "reason": "Caligula's cruelty, humiliation of senators and officers, and erratic rule had made many enemies at court.",
+  "significance": "It showed that the Praetorian Guard could make and unmake emperors.",
+  "participants": [
+    "Caligula",
+    "Cassius Chaerea",
+    "Praetorian Guard",
+    "Claudius"
+  ],
+  "countries": [
+    "Italy"
+  ],
+  "place": "Palatine Hill, Rome, Italy",
+  "lat": 41.8892,
+  "lon": 12.4875,
+  "tags": [
+    "politics"
+  ],
+  "weight": 58,
+  "wikipedia": "Caligula",
+  "wikidata": "Q1409"
+}

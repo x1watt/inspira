@@ -1,0 +1,30 @@
+{
+  "id": "event-1931-09-18-mukden-incident",
+  "title": "The Mukden Incident gives Japan a pretext to seize Manchuria",
+  "year": 1931,
+  "month": 9,
+  "day": 18,
+  "calendar": "gregorian",
+  "summary": "Japanese officers blew up a section of railway near Mukden, blamed Chinese soldiers, and used it as a pretext for the Kwantung Army to invade Manchuria.",
+  "reason": "Japanese militarists wanted Manchuria's resources and territory and acted without approval from Tokyo.",
+  "significance": "It led to the puppet state of Manchukuo and exposed the League of Nations' weakness.",
+  "participants": [
+    "Kwantung Army",
+    "Empire of Japan",
+    "Republic of China",
+    "Zhang Xueliang"
+  ],
+  "countries": [
+    "China",
+    "Japan"
+  ],
+  "place": "Liutiaohu, near Shenyang, China",
+  "lat": 41.837,
+  "lon": 123.45,
+  "tags": [
+    "war"
+  ],
+  "weight": 67,
+  "wikipedia": "Mukden incident",
+  "wikidata": "Q242099"
+}

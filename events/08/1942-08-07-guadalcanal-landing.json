@@ -1,0 +1,30 @@
+{
+  "id": "event-1942-08-07-guadalcanal-landing",
+  "title": "US Marines land on Guadalcanal",
+  "year": 1942,
+  "month": 8,
+  "day": 7,
+  "calendar": "gregorian",
+  "summary": "US Marines landed on Guadalcanal and nearby islands in the Solomons, beginning a six-month campaign of land, sea and air battles.",
+  "reason": "The Allies wanted to stop Japan from using an airfield on the island to cut the supply line between the United States and Australia.",
+  "significance": "It was the first major Allied offensive against Japan and ended Japanese expansion in the South Pacific.",
+  "participants": [
+    "United States Marine Corps",
+    "Empire of Japan",
+    "Alexander Vandegrift"
+  ],
+  "countries": [
+    "Solomon Islands",
+    "United States",
+    "Japan"
+  ],
+  "place": "Lunga Point, Guadalcanal, Solomon Islands",
+  "lat": -9.428,
+  "lon": 160.049,
+  "tags": [
+    "war"
+  ],
+  "weight": 65,
+  "wikipedia": "Guadalcanal campaign",
+  "wikidata": "Q217145"
+}

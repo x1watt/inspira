@@ -1,0 +1,30 @@
+{
+  "id": "event-1919-05-29-eddington-eclipse",
+  "title": "Eclipse observations confirm Einstein's bending of light",
+  "year": 1919,
+  "month": 5,
+  "day": 29,
+  "calendar": "gregorian",
+  "summary": "Expeditions led by Arthur Eddington on the island of Principe and by others in Sobral, Brazil, photographed stars during a total solar eclipse to measure the bending of starlight by the Sun.",
+  "reason": "General relativity predicted a deflection twice that of Newtonian physics, and an eclipse was the only way to test it.",
+  "significance": "The results confirmed general relativity and made Einstein world famous.",
+  "participants": [
+    "Arthur Eddington",
+    "Frank Watson Dyson",
+    "Royal Astronomical Society"
+  ],
+  "countries": [
+    "Sao Tome and Principe",
+    "Brazil",
+    "United Kingdom"
+  ],
+  "place": "Roca Sundy, Principe, Sao Tome and Principe",
+  "lat": 1.672,
+  "lon": 7.384,
+  "tags": [
+    "science"
+  ],
+  "weight": 62,
+  "wikipedia": "Eddington experiment",
+  "wikidata": "Q65041294"
+}

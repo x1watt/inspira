@@ -1,0 +1,31 @@
+{
+  "id": "event-1945-02-04-yalta-conference",
+  "title": "Yalta Conference opens in Crimea",
+  "year": 1945,
+  "month": 2,
+  "day": 4,
+  "calendar": "gregorian",
+  "summary": "Roosevelt, Churchill and Stalin met at the Livadia Palace near Yalta to decide on the future of Germany, Poland and the planned United Nations.",
+  "reason": "With Germany's defeat near, the Allies needed to agree on how to occupy it and what would happen to the liberated countries of eastern Europe.",
+  "significance": "Its agreements shaped the post-war division of Europe and are often seen as the start of the Cold War order.",
+  "participants": [
+    "Franklin D. Roosevelt",
+    "Winston Churchill",
+    "Joseph Stalin"
+  ],
+  "countries": [
+    "Ukraine",
+    "United States",
+    "United Kingdom",
+    "Russia"
+  ],
+  "place": "Livadia Palace, Yalta, Ukraine",
+  "lat": 44.4678,
+  "lon": 34.1433,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 80,
+  "wikipedia": "Yalta Conference",
+  "wikidata": "Q161227"
+}

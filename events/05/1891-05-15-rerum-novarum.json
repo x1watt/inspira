@@ -1,0 +1,28 @@
+{
+  "id": "event-1891-05-15-rerum-novarum",
+  "title": "Pope Leo XIII issues Rerum novarum",
+  "year": 1891,
+  "month": 5,
+  "day": 15,
+  "calendar": "gregorian",
+  "summary": "Pope Leo XIII published an encyclical on the condition of workers, defending private property while supporting fair wages and trade unions.",
+  "reason": "Industrialization had created great hardship for workers, and the Church sought an answer between laissez-faire capitalism and socialism.",
+  "significance": "It founded modern Catholic social teaching and influenced Christian democratic politics.",
+  "participants": [
+    "Pope Leo XIII",
+    "Catholic Church"
+  ],
+  "countries": [
+    "Vatican City"
+  ],
+  "place": "Vatican City",
+  "lat": 41.9029,
+  "lon": 12.4534,
+  "tags": [
+    "religion",
+    "economy"
+  ],
+  "weight": 55,
+  "wikipedia": "Rerum novarum",
+  "wikidata": "Q335987"
+}

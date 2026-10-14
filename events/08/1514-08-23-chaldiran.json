@@ -1,0 +1,30 @@
+{
+  "id": "event-1514-08-23-chaldiran",
+  "title": "Ottomans defeat the Safavids at Chaldiran",
+  "year": 1514,
+  "month": 8,
+  "day": 23,
+  "calendar": "julian",
+  "summary": "Sultan Selim I's army, using artillery and firearms, defeated the cavalry of Shah Ismail I of Persia in northwestern Iran.",
+  "reason": "The Sunni Ottomans feared the spread of Safavid Shia influence among the Turkmen tribes of Anatolia.",
+  "significance": "It fixed the Ottoman-Persian frontier for generations and deepened the Sunni-Shia divide between the two empires.",
+  "participants": [
+    "Ottoman Empire",
+    "Safavid Iran",
+    "Selim I",
+    "Ismail I"
+  ],
+  "countries": [
+    "Iran",
+    "Turkey"
+  ],
+  "place": "Chaldiran plain, West Azerbaijan, Iran",
+  "lat": 39.065,
+  "lon": 44.383,
+  "tags": [
+    "war"
+  ],
+  "weight": 60,
+  "wikipedia": "Battle of Chaldiran",
+  "wikidata": "Q745110"
+}

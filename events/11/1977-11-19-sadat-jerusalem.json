@@ -1,0 +1,28 @@
+{
+  "id": "event-1977-11-19-sadat-jerusalem",
+  "title": "Anwar Sadat visits Jerusalem",
+  "year": 1977,
+  "month": 11,
+  "day": 19,
+  "calendar": "gregorian",
+  "summary": "Egyptian President Anwar Sadat flew to Israel and the next day addressed the Knesset, the first Arab leader to visit the country.",
+  "reason": "Sadat wanted to recover Sinai and end the cost of war with Israel.",
+  "significance": "It opened the way to the Camp David Accords.",
+  "participants": [
+    "Anwar Sadat",
+    "Menachem Begin"
+  ],
+  "countries": [
+    "Egypt",
+    "Israel"
+  ],
+  "place": "Jerusalem",
+  "lat": 31.7767,
+  "lon": 35.2054,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 61,
+  "wikipedia": "1977 visit by Anwar Sadat to Jerusalem",
+  "wikidata": "Q42013"
+}

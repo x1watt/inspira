@@ -1,0 +1,28 @@
+{
+  "id": "event-1913-12-01-moving-assembly-line",
+  "title": "Ford starts the moving assembly line",
+  "year": 1913,
+  "month": 10,
+  "day": 7,
+  "calendar": "gregorian",
+  "summary": "Ford's moving assembly line for the Model T began operation at the Highland Park plant, eventually cutting the time to build a car from about 12 hours to about 90 minutes.",
+  "reason": "Ford wanted to meet enormous demand and lower costs by dividing work into simple repeated tasks.",
+  "significance": "Mass production on the assembly line transformed industry around the world.",
+  "participants": [
+    "Henry Ford",
+    "Ford Motor Company"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Highland Park, Michigan, United States",
+  "lat": 42.4106,
+  "lon": -83.0966,
+  "tags": [
+    "technology",
+    "economy"
+  ],
+  "weight": 67,
+  "wikipedia": "Assembly line",
+  "wikidata": "Q455037"
+}

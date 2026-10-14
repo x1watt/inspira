@@ -1,0 +1,30 @@
+{
+  "id": "event-1453-05-29-fall-of-constantinople",
+  "title": "Constantinople falls to the Ottoman Turks",
+  "year": 1453,
+  "month": 5,
+  "day": 29,
+  "calendar": "julian",
+  "summary": "After a siege of nearly two months, the army of Sultan Mehmed II stormed Constantinople. The last Byzantine emperor, Constantine XI, died in the fighting.",
+  "reason": "The Ottomans had surrounded the shrunken Byzantine state for decades, and Mehmed II used giant cannon to breach its walls.",
+  "significance": "It ended the Byzantine Empire and made the city the capital of the Ottoman Empire for nearly five centuries.",
+  "participants": [
+    "Ottoman Empire",
+    "Byzantine Empire",
+    "Mehmed II",
+    "Constantine XI Palaiologos"
+  ],
+  "countries": [
+    "Turkey",
+    "Greece"
+  ],
+  "place": "Constantinople (Istanbul), Turkey",
+  "lat": 41.011,
+  "lon": 28.955,
+  "tags": [
+    "war"
+  ],
+  "weight": 95,
+  "wikipedia": "Fall of Constantinople",
+  "wikidata": "Q160077"
+}

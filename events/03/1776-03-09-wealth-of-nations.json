@@ -1,0 +1,27 @@
+{
+  "id": "event-1776-03-09-wealth-of-nations",
+  "title": "Adam Smith publishes The Wealth of Nations",
+  "year": 1776,
+  "month": 3,
+  "day": 9,
+  "calendar": "gregorian",
+  "summary": "Adam Smith's An Inquiry into the Nature and Causes of the Wealth of Nations was published in London.",
+  "reason": "Smith wanted to explain how division of labour and free markets produce prosperity, against the mercantilist policies of his time.",
+  "significance": "It founded modern economics.",
+  "participants": [
+    "Adam Smith"
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "place": "London, United Kingdom",
+  "lat": 51.5074,
+  "lon": -0.1278,
+  "tags": [
+    "economy",
+    "culture"
+  ],
+  "weight": 75,
+  "wikipedia": "The Wealth of Nations",
+  "wikidata": "Q233562"
+}

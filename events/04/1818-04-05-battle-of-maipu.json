@@ -1,0 +1,32 @@
+{
+  "id": "event-1818-04-05-battle-of-maipu",
+  "title": "Battle of Maipú secures Chilean independence",
+  "year": 1818,
+  "month": 4,
+  "day": 5,
+  "calendar": "gregorian",
+  "summary": "The patriot army under José de San Martín defeated the Spanish royalist army on the plains of Maipú south of Santiago.",
+  "reason": "Chile had just proclaimed independence and Spain sent an expedition from Peru to restore its rule.",
+  "significance": "It ended serious Spanish attempts to reconquer Chile and opened the way for San Martín's campaign against Peru.",
+  "participants": [
+    "José de San Martín",
+    "Bernardo O'Higgins",
+    "Army of the Andes",
+    "Spanish Empire"
+  ],
+  "countries": [
+    "Chile",
+    "Argentina",
+    "Spain"
+  ],
+  "place": "Maipú, near Santiago, Chile",
+  "lat": -33.51,
+  "lon": -70.76,
+  "tags": [
+    "war",
+    "revolution"
+  ],
+  "weight": 55,
+  "wikipedia": "Battle of Maipú",
+  "wikidata": "Q1073849"
+}

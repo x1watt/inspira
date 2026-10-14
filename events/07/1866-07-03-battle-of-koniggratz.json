@@ -1,0 +1,31 @@
+{
+  "id": "event-1866-07-03-battle-of-koniggratz",
+  "title": "Prussia defeats Austria at Königgrätz",
+  "year": 1866,
+  "month": 7,
+  "day": 3,
+  "calendar": "gregorian",
+  "summary": "Prussian armies using railways and breech-loading rifles defeated the Austrian army near Königgrätz in Bohemia.",
+  "reason": "Bismarck sought to expel Austria from German affairs and unite Germany under Prussian leadership.",
+  "significance": "It decided the Austro-Prussian War and made Prussia the dominant German power.",
+  "participants": [
+    "Helmuth von Moltke the Elder",
+    "Ludwig von Benedek",
+    "Kingdom of Prussia",
+    "Austrian Empire"
+  ],
+  "countries": [
+    "Czech Republic",
+    "Germany",
+    "Austria"
+  ],
+  "place": "Sadová, near Hradec Králové, Czech Republic",
+  "lat": 50.295,
+  "lon": 15.74,
+  "tags": [
+    "war"
+  ],
+  "weight": 60,
+  "wikipedia": "Battle of Königgrätz",
+  "wikidata": "Q154942"
+}

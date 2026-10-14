@@ -1,0 +1,29 @@
+{
+  "id": "event-1945-08-17-indonesian-independence",
+  "title": "Sukarno proclaims Indonesia's independence",
+  "year": 1945,
+  "month": 8,
+  "day": 17,
+  "calendar": "gregorian",
+  "summary": "Sukarno read a short proclamation of independence at his house in Jakarta, with Mohammad Hatta at his side.",
+  "reason": "Japan had just surrendered, and nationalist youths pushed the leaders to act before the Dutch could return to their former colony.",
+  "significance": "It began the Indonesian National Revolution, and the Netherlands recognised Indonesia's independence in 1949.",
+  "participants": [
+    "Sukarno",
+    "Mohammad Hatta"
+  ],
+  "countries": [
+    "Indonesia",
+    "Netherlands"
+  ],
+  "place": "Jalan Pegangsaan Timur 56, Jakarta, Indonesia",
+  "lat": -6.2025,
+  "lon": 106.8455,
+  "tags": [
+    "politics",
+    "revolution"
+  ],
+  "weight": 75,
+  "wikipedia": "Proclamation of Indonesian Independence",
+  "wikidata": "Q1661772"
+}

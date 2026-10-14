@@ -1,0 +1,32 @@
+{
+  "id": "event-1940-06-22-armistice-compiegne",
+  "title": "France signs an armistice with Germany at Compiegne",
+  "year": 1940,
+  "month": 6,
+  "day": 22,
+  "calendar": "gregorian",
+  "summary": "French representatives signed an armistice in the same railway carriage, in the Compiegne forest, where Germany had signed the armistice of 1918. Germany occupied northern and western France, and a collaborationist regime formed at Vichy.",
+  "reason": "The French army had collapsed, Paris had fallen, and Marshal Philippe Petain's new government chose to stop fighting.",
+  "significance": "It divided France for four years and left Britain and its empire as Germany's only major opponents in the west.",
+  "participants": [
+    "France",
+    "Nazi Germany",
+    "Philippe Petain",
+    "Wilhelm Keitel",
+    "Charles Huntziger"
+  ],
+  "countries": [
+    "France",
+    "Germany"
+  ],
+  "place": "Glade of the Armistice, Compiegne, France",
+  "lat": 49.4272,
+  "lon": 2.9061,
+  "tags": [
+    "diplomacy",
+    "war"
+  ],
+  "weight": 75,
+  "wikipedia": "Armistice of 22 June 1940",
+  "wikidata": "Q170360"
+}

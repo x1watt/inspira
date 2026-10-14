@@ -1,0 +1,28 @@
+{
+  "id": "event-1930-01-26-purna-swaraj",
+  "title": "Indian nationalists declare Purna Swaraj",
+  "year": 1930,
+  "month": 1,
+  "day": 26,
+  "calendar": "gregorian",
+  "summary": "The Indian National Congress publicly celebrated its declaration of Purna Swaraj, complete independence from British rule, with oaths taken across India.",
+  "reason": "Britain had failed to grant dominion status, and Congress under Jawaharlal Nehru adopted full independence as its goal.",
+  "significance": "India later chose 26 January as Republic Day when its constitution took effect in 1950.",
+  "participants": [
+    "Indian National Congress",
+    "Jawaharlal Nehru",
+    "Mohandas Gandhi"
+  ],
+  "countries": [
+    "India"
+  ],
+  "place": "India",
+  "lat": null,
+  "lon": null,
+  "tags": [
+    "politics"
+  ],
+  "weight": 57,
+  "wikipedia": "Purna Swaraj",
+  "wikidata": "Q2723918"
+}

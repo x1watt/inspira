@@ -1,0 +1,27 @@
+{
+  "id": "event-1605-01-16-don-quixote-published",
+  "title": "Cervantes publishes the first part of Don Quixote",
+  "year": 1605,
+  "month": 1,
+  "day": 16,
+  "calendar": "gregorian",
+  "summary": "The first part of Miguel de Cervantes' novel about a would-be knight and his squire Sancho Panza was published in Madrid.",
+  "reason": "Cervantes satirized the popular chivalric romances of his time while portraying Spanish society with irony and warmth.",
+  "significance": "It is widely considered the first modern novel and one of the most influential works of literature.",
+  "participants": [
+    "Miguel de Cervantes",
+    "Juan de la Cuesta"
+  ],
+  "countries": [
+    "Spain"
+  ],
+  "place": "Madrid, Spain",
+  "lat": 40.4168,
+  "lon": -3.7038,
+  "tags": [
+    "culture"
+  ],
+  "weight": 68,
+  "wikipedia": "Don Quixote",
+  "wikidata": "Q480"
+}

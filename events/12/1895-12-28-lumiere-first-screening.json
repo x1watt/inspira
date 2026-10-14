@@ -1,0 +1,27 @@
+{
+  "id": "event-1895-12-28-lumiere-first-screening",
+  "title": "Lumière brothers hold the first public film screening",
+  "year": 1895,
+  "month": 12,
+  "day": 28,
+  "calendar": "gregorian",
+  "summary": "Auguste and Louis Lumière projected ten short films to a paying audience in the Salon Indien of the Grand Café in Paris.",
+  "reason": "The brothers had developed the Cinématographe, a light camera and projector, and wanted to show it commercially.",
+  "significance": "It is widely regarded as the birth of cinema.",
+  "participants": [
+    "Auguste Lumière",
+    "Louis Lumière"
+  ],
+  "countries": [
+    "France"
+  ],
+  "place": "Grand Café, Boulevard des Capucines, Paris, France",
+  "lat": 48.8708,
+  "lon": 2.3316,
+  "tags": [
+    "culture",
+    "technology"
+  ],
+  "weight": 70,
+  "wikipedia": "Lumière brothers"
+}

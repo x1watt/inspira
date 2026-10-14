@@ -1,0 +1,31 @@
+{
+  "id": "event-1815-03-02-kandyan-convention",
+  "title": "Kandyan Convention ends the Kingdom of Kandy",
+  "year": 1815,
+  "month": 3,
+  "day": 2,
+  "calendar": "gregorian",
+  "summary": "Kandyan chiefs and the British signed an agreement placing the Kandyan Kingdom under the British Crown.",
+  "reason": "The chiefs had turned against their king, and the British had occupied Kandy.",
+  "significance": "It brought all of Sri Lanka under British rule.",
+  "participants": [
+    "Kingdom of Kandy",
+    "Robert Brownrigg",
+    "Kandyan chiefs",
+    "British Empire"
+  ],
+  "countries": [
+    "Sri Lanka",
+    "United Kingdom"
+  ],
+  "place": "Kandy, Sri Lanka",
+  "lat": 7.2936,
+  "lon": 80.6413,
+  "tags": [
+    "diplomacy",
+    "politics"
+  ],
+  "weight": 50,
+  "wikipedia": "Kandyan Convention",
+  "wikidata": "Q3538392"
+}

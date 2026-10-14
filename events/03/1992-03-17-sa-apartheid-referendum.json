@@ -1,0 +1,29 @@
+{
+  "id": "event-1992-03-17-sa-apartheid-referendum",
+  "title": "White South Africans vote to end apartheid",
+  "year": 1992,
+  "month": 3,
+  "day": 17,
+  "calendar": "gregorian",
+  "summary": "In a whites-only referendum, about 69 percent backed continuing the reform process begun by F. W. de Klerk.",
+  "reason": "De Klerk called the vote to answer conservative critics and secure a mandate for negotiations with the ANC.",
+  "significance": "It gave the government a clear mandate to negotiate the end of white minority rule.",
+  "participants": [
+    "F. W. de Klerk",
+    "National Party",
+    "Conservative Party"
+  ],
+  "countries": [
+    "South Africa"
+  ],
+  "place": "South Africa",
+  "lat": null,
+  "lon": null,
+  "tags": [
+    "rights",
+    "politics"
+  ],
+  "weight": 52,
+  "wikipedia": "1992 South African apartheid referendum",
+  "wikidata": "Q7565818"
+}

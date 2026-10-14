@@ -1,0 +1,32 @@
+{
+  "id": "event-1997-07-01-hong-kong-handover",
+  "title": "Britain hands Hong Kong to China",
+  "year": 1997,
+  "month": 7,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "At midnight Britain transferred sovereignty over Hong Kong to China, ending 156 years of British rule.",
+  "reason": "The 1984 Sino-British Joint Declaration fixed the handover when the lease on the New Territories expired.",
+  "significance": "It began the one country, two systems arrangement.",
+  "participants": [
+    "United Kingdom",
+    "China",
+    "Chris Patten",
+    "Jiang Zemin",
+    "Charles, Prince of Wales"
+  ],
+  "countries": [
+    "China",
+    "United Kingdom"
+  ],
+  "place": "Hong Kong Convention and Exhibition Centre, Hong Kong",
+  "lat": 22.283,
+  "lon": 114.1747,
+  "tags": [
+    "diplomacy",
+    "politics"
+  ],
+  "weight": 78,
+  "wikipedia": "Handover of Hong Kong",
+  "wikidata": "Q15251"
+}

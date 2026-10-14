@@ -1,0 +1,31 @@
+{
+  "id": "event-363-06-26-death-of-julian",
+  "title": "Emperor Julian dies on campaign in Persia",
+  "year": 363,
+  "month": 6,
+  "day": 26,
+  "calendar": "julian",
+  "summary": "Julian, the last pagan Roman emperor, died of a wound received in a skirmish with Sasanian forces near Samarra during his retreat from Ctesiphon.",
+  "reason": "Julian had invaded the Sasanian Empire to win glory and secure the east, but failed to take Ctesiphon.",
+  "significance": "His death ended the last attempt to restore paganism and forced Rome into a humiliating peace with Persia.",
+  "participants": [
+    "Julian",
+    "Shapur II",
+    "Sasanian Empire",
+    "Jovian"
+  ],
+  "countries": [
+    "Iraq",
+    "Iran"
+  ],
+  "place": "Near Samarra, Iraq",
+  "lat": 34.1959,
+  "lon": 43.8857,
+  "tags": [
+    "war",
+    "religion"
+  ],
+  "weight": 60,
+  "wikipedia": "Julian (emperor)",
+  "wikidata": "Q33941"
+}

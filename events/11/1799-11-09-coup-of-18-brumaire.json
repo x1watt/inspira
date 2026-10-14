@@ -1,0 +1,29 @@
+{
+  "id": "event-1799-11-09-coup-of-18-brumaire",
+  "title": "Napoleon seizes power in the coup of 18 Brumaire",
+  "year": 1799,
+  "month": 11,
+  "day": 9,
+  "calendar": "gregorian",
+  "summary": "Napoleon Bonaparte and his allies overthrew the Directory and set up the Consulate, with Napoleon as First Consul.",
+  "reason": "The Directory was unpopular, corrupt and unable to end war and instability.",
+  "significance": "It ended the revolutionary decade and began Napoleon's rule.",
+  "participants": [
+    "Napoleon Bonaparte",
+    "Emmanuel Joseph Sieyes",
+    "French Directory"
+  ],
+  "countries": [
+    "France"
+  ],
+  "place": "Saint-Cloud, France",
+  "lat": 48.8442,
+  "lon": 2.2197,
+  "tags": [
+    "politics",
+    "revolution"
+  ],
+  "weight": 75,
+  "wikipedia": "Coup of 18 Brumaire",
+  "wikidata": "Q620965"
+}

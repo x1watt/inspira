@@ -1,0 +1,28 @@
+{
+  "id": "event-1922-11-04-tutankhamun-tomb",
+  "title": "Howard Carter finds the tomb of Tutankhamun",
+  "year": 1922,
+  "month": 11,
+  "day": 4,
+  "calendar": "gregorian",
+  "summary": "Howard Carter's team uncovered the first step leading down to the almost intact tomb of the pharaoh Tutankhamun in the Valley of the Kings.",
+  "reason": "Carter, funded by Lord Carnarvon, had searched the valley for years for a tomb he believed was still undiscovered.",
+  "significance": "It became the most famous archaeological find in history and sparked worldwide interest in ancient Egypt.",
+  "participants": [
+    "Howard Carter",
+    "Lord Carnarvon"
+  ],
+  "countries": [
+    "Egypt",
+    "United Kingdom"
+  ],
+  "place": "Valley of the Kings, Luxor, Egypt",
+  "lat": 25.7402,
+  "lon": 32.6014,
+  "tags": [
+    "exploration",
+    "culture"
+  ],
+  "weight": 62,
+  "wikipedia": "Tomb of Tutankhamun"
+}

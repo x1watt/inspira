@@ -1,0 +1,29 @@
+{
+  "id": "event-2002-07-09-african-union",
+  "title": "The African Union is launched",
+  "year": 2002,
+  "month": 7,
+  "day": 9,
+  "calendar": "gregorian",
+  "summary": "The African Union replaced the Organisation of African Unity at a summit in Durban.",
+  "reason": "African leaders wanted a stronger body to promote integration, peace and good governance.",
+  "significance": "It became the continent's main political organisation.",
+  "participants": [
+    "African Union",
+    "Thabo Mbeki",
+    "Muammar Gaddafi"
+  ],
+  "countries": [
+    "South Africa"
+  ],
+  "place": "Durban, South Africa",
+  "lat": -29.8587,
+  "lon": 31.0218,
+  "tags": [
+    "diplomacy",
+    "politics"
+  ],
+  "weight": 60,
+  "wikipedia": "African Union",
+  "wikidata": "Q7159"
+}

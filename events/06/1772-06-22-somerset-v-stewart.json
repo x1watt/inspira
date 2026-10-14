@@ -1,0 +1,30 @@
+{
+  "id": "event-1772-06-22-somerset-v-stewart",
+  "title": "Somerset v Stewart rules against forced removal of a slave",
+  "year": 1772,
+  "month": 6,
+  "day": 22,
+  "calendar": "gregorian",
+  "summary": "Lord Mansfield ruled that James Somerset, an enslaved man brought to England, could not be forcibly taken out of the country to be sold.",
+  "reason": "Abolitionist Granville Sharp backed Somerset's case to test whether slavery had legal standing in England.",
+  "significance": "It was widely taken to mean slavery had no basis in English law and strengthened the abolition movement.",
+  "participants": [
+    "James Somerset",
+    "Lord Mansfield",
+    "Granville Sharp",
+    "Charles Stewart"
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "place": "Westminster Hall, London, United Kingdom",
+  "lat": 51.4995,
+  "lon": -0.1255,
+  "tags": [
+    "law",
+    "rights"
+  ],
+  "weight": 55,
+  "wikipedia": "Somerset v Stewart",
+  "wikidata": "Q18529918"
+}

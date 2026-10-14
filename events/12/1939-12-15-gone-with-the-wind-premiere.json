@@ -1,0 +1,29 @@
+{
+  "id": "event-1939-12-15-gone-with-the-wind-premiere",
+  "title": "Gone with the Wind premieres in Atlanta",
+  "year": 1939,
+  "month": 12,
+  "day": 15,
+  "calendar": "gregorian",
+  "summary": "The film of Margaret Mitchell's novel, starring Vivien Leigh and Clark Gable, premiered at Loew's Grand Theatre in Atlanta amid three days of celebrations.",
+  "reason": "Producer David O. Selznick had spent years and a record budget on the adaptation of one of the best-selling American novels.",
+  "significance": "Adjusted for inflation it remains the highest-grossing film ever, and Hattie McDaniel's role in it won the first Oscar for a Black performer.",
+  "participants": [
+    "David O. Selznick",
+    "Vivien Leigh",
+    "Clark Gable",
+    "Margaret Mitchell"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Loew's Grand Theatre, Atlanta, Georgia, United States",
+  "lat": 33.759,
+  "lon": -84.388,
+  "tags": [
+    "culture"
+  ],
+  "weight": 50,
+  "wikipedia": "Gone with the Wind (film)",
+  "wikidata": "Q2875"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "event-1825-09-27-stockton-darlington-railway",
+  "title": "Stockton and Darlington Railway opens",
+  "year": 1825,
+  "month": 9,
+  "day": 27,
+  "calendar": "gregorian",
+  "summary": "George Stephenson's Locomotion No. 1 hauled a train of wagons and passengers on the opening day of the Stockton and Darlington Railway.",
+  "reason": "Colliery owners in County Durham wanted cheaper transport for coal to the River Tees than horses and canals could provide.",
+  "significance": "It was the first public railway to use steam locomotives, starting the railway age.",
+  "participants": [
+    "George Stephenson",
+    "Edward Pease",
+    "Stockton and Darlington Railway"
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "place": "Stockton-on-Tees, United Kingdom",
+  "lat": 54.57,
+  "lon": -1.3187,
+  "tags": [
+    "technology",
+    "economy"
+  ],
+  "weight": 65,
+  "wikipedia": "Stockton and Darlington Railway",
+  "wikidata": "Q375044"
+}

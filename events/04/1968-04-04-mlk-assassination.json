@@ -1,0 +1,28 @@
+{
+  "id": "event-1968-04-04-mlk-assassination",
+  "title": "Martin Luther King Jr. is assassinated",
+  "year": 1968,
+  "month": 4,
+  "day": 4,
+  "calendar": "gregorian",
+  "summary": "Martin Luther King Jr. was shot dead on a balcony of the Lorraine Motel in Memphis by James Earl Ray.",
+  "reason": "King was in Memphis to support striking sanitation workers.",
+  "significance": "His death set off riots in more than 100 American cities.",
+  "participants": [
+    "Martin Luther King Jr.",
+    "James Earl Ray"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Lorraine Motel, Memphis, Tennessee, United States",
+  "lat": 35.1345,
+  "lon": -90.0578,
+  "tags": [
+    "rights",
+    "politics"
+  ],
+  "weight": 75,
+  "wikipedia": "Assassination of Martin Luther King Jr.",
+  "wikidata": "Q757963"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "event-1819-02-06-founding-of-singapore",
+  "title": "Stamford Raffles signs treaty founding modern Singapore",
+  "year": 1819,
+  "month": 2,
+  "day": 6,
+  "calendar": "gregorian",
+  "summary": "Stamford Raffles signed a treaty with Sultan Hussein Shah and the Temenggong of Johor allowing the British East India Company to set up a trading post on Singapore island.",
+  "reason": "Britain wanted a base at the southern end of the Strait of Malacca to challenge Dutch control of the regional trade routes.",
+  "significance": "The free port grew into one of the great trading hubs of Asia and the core of the modern state of Singapore.",
+  "participants": [
+    "Stamford Raffles",
+    "British East India Company",
+    "Hussein Shah of Johor"
+  ],
+  "countries": [
+    "Singapore",
+    "United Kingdom",
+    "Malaysia"
+  ],
+  "place": "Singapore River, Singapore",
+  "lat": 1.2903,
+  "lon": 103.852,
+  "tags": [
+    "politics",
+    "economy",
+    "diplomacy"
+  ],
+  "weight": 60,
+  "wikipedia": "1819 Singapore Treaty"
+}

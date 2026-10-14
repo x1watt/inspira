@@ -1,0 +1,30 @@
+{
+  "id": "event-1927-08-01-nanchang-uprising",
+  "title": "Communists rise in the Nanchang Uprising",
+  "year": 1927,
+  "month": 8,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "Communist-led troops under Zhou Enlai, He Long and Zhu De seized the city of Nanchang before being driven out by Nationalist forces days later.",
+  "reason": "After the Nationalists' purge, the Communists decided to launch armed resistance.",
+  "significance": "It is regarded as the founding of the People's Liberation Army, whose anniversary is 1 August.",
+  "participants": [
+    "Chinese Communist Party",
+    "Zhou Enlai",
+    "He Long",
+    "Zhu De",
+    "Kuomintang"
+  ],
+  "countries": [
+    "China"
+  ],
+  "place": "Nanchang, China",
+  "lat": 28.682,
+  "lon": 115.8579,
+  "tags": [
+    "war",
+    "revolution"
+  ],
+  "weight": 52,
+  "wikipedia": "Nanchang Uprising"
+}

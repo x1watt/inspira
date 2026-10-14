@@ -1,0 +1,29 @@
+{
+  "id": "event-2008-08-08-beijing-olympics",
+  "title": "Beijing Olympics open",
+  "year": 2008,
+  "month": 8,
+  "day": 8,
+  "calendar": "gregorian",
+  "summary": "China opened the Games of the XXIX Olympiad with a spectacular ceremony at the Bird's Nest stadium.",
+  "reason": "China sought to present itself as a modern world power.",
+  "significance": "It marked China's arrival on the world stage.",
+  "participants": [
+    "International Olympic Committee",
+    "China",
+    "Zhang Yimou"
+  ],
+  "countries": [
+    "China"
+  ],
+  "place": "Beijing National Stadium, Beijing, China",
+  "lat": 39.9929,
+  "lon": 116.3963,
+  "tags": [
+    "sport",
+    "culture"
+  ],
+  "weight": 58,
+  "wikipedia": "2008 Summer Olympics opening ceremony",
+  "wikidata": "Q1077302"
+}

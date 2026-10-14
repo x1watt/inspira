@@ -1,0 +1,27 @@
+{
+  "id": "event-1984-01-24-macintosh-launch",
+  "title": "Apple launches the Macintosh",
+  "year": 1984,
+  "month": 1,
+  "day": 24,
+  "calendar": "gregorian",
+  "summary": "Steve Jobs unveiled the Macintosh, a personal computer with a graphical interface and a mouse, at a shareholders' meeting in Cupertino.",
+  "reason": "Apple wanted an easy to use computer to compete with IBM.",
+  "significance": "It made the graphical user interface popular.",
+  "participants": [
+    "Steve Jobs",
+    "Apple Computer"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Flint Center, Cupertino, California, United States",
+  "lat": 37.3196,
+  "lon": -122.0451,
+  "tags": [
+    "technology"
+  ],
+  "weight": 53,
+  "wikipedia": "Macintosh 128K",
+  "wikidata": "Q1137478"
+}

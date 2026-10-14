@@ -1,0 +1,35 @@
+{
+  "id": "event-1815-06-09-congress-of-vienna-final-act",
+  "title": "Congress of Vienna signs its Final Act",
+  "year": 1815,
+  "month": 6,
+  "day": 9,
+  "calendar": "gregorian",
+  "summary": "European powers signed the Final Act of the Congress of Vienna, redrawing the map of Europe after the Napoleonic Wars.",
+  "reason": "The victors wanted a balance of power that would prevent another French domination.",
+  "significance": "It shaped a European order that largely kept the peace among great powers for decades.",
+  "participants": [
+    "Klemens von Metternich",
+    "Austrian Empire",
+    "Russian Empire",
+    "Kingdom of Prussia",
+    "United Kingdom",
+    "Charles Maurice de Talleyrand"
+  ],
+  "countries": [
+    "Austria",
+    "Russia",
+    "Germany",
+    "United Kingdom",
+    "France"
+  ],
+  "place": "Vienna, Austria",
+  "lat": 48.2082,
+  "lon": 16.3738,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 80,
+  "wikipedia": "Congress of Vienna",
+  "wikidata": "Q46362"
+}

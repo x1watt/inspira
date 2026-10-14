@@ -1,0 +1,32 @@
+{
+  "id": "event-1620-11-08-battle-of-white-mountain",
+  "title": "Catholic forces crush Bohemia at White Mountain",
+  "year": 1620,
+  "month": 11,
+  "day": 8,
+  "calendar": "gregorian",
+  "summary": "Imperial and Catholic League armies routed the Bohemian Protestant army outside Prague within a few hours.",
+  "reason": "Emperor Ferdinand II set out to end the Bohemian revolt and remove Frederick V, whom the rebels had elected king.",
+  "significance": "Bohemia lost its independence and was forcibly re-Catholicized under Habsburg rule.",
+  "participants": [
+    "Holy Roman Empire",
+    "Catholic League",
+    "Bohemian Confederation",
+    "Frederick V of the Palatinate"
+  ],
+  "countries": [
+    "Czech Republic",
+    "Austria",
+    "Germany"
+  ],
+  "place": "Bila Hora, Prague, Czech Republic",
+  "lat": 50.078,
+  "lon": 14.32,
+  "tags": [
+    "war",
+    "religion"
+  ],
+  "weight": 58,
+  "wikipedia": "Battle of White Mountain",
+  "wikidata": "Q4373"
+}

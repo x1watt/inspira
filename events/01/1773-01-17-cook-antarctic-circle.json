@@ -1,0 +1,28 @@
+{
+  "id": "event-1773-01-17-cook-antarctic-circle",
+  "title": "James Cook's ships cross the Antarctic Circle",
+  "year": 1773,
+  "month": 1,
+  "day": 17,
+  "calendar": "gregorian",
+  "summary": "HMS Resolution and HMS Adventure became the first known ships to cross the Antarctic Circle.",
+  "reason": "Cook was searching for a great southern continent that geographers believed must exist.",
+  "significance": "It showed that any southern continent lay far to the south, beyond habitable lands.",
+  "participants": [
+    "James Cook",
+    "HMS Resolution",
+    "HMS Adventure"
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "place": "Southern Ocean, south of the Indian Ocean",
+  "lat": -66.6,
+  "lon": 39.5833,
+  "tags": [
+    "exploration"
+  ],
+  "weight": 55,
+  "wikipedia": "Second voyage of James Cook",
+  "wikidata": "Q2881842"
+}

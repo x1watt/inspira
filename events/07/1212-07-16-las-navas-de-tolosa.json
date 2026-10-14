@@ -1,0 +1,31 @@
+{
+  "id": "event-1212-07-16-las-navas-de-tolosa",
+  "title": "Christian kingdoms defeat the Almohads at Las Navas de Tolosa",
+  "year": 1212,
+  "month": 7,
+  "day": 16,
+  "calendar": "julian",
+  "summary": "The united armies of Castile, Aragon, Navarre and Portugal defeated the Almohad caliph Muhammad al-Nasir in the Sierra Morena.",
+  "reason": "After the Christian defeat at Alarcos, Pope Innocent III backed a crusade and the Iberian kings joined forces.",
+  "significance": "It broke Almohad power and opened southern Spain to the Christian reconquest.",
+  "participants": [
+    "Alfonso VIII of Castile",
+    "Peter II of Aragon",
+    "Sancho VII of Navarre",
+    "Almohad Caliphate",
+    "Muhammad al-Nasir"
+  ],
+  "countries": [
+    "Spain",
+    "Morocco"
+  ],
+  "place": "Santa Elena, Jaen, Spain",
+  "lat": 38.342,
+  "lon": -3.537,
+  "tags": [
+    "war"
+  ],
+  "weight": 70,
+  "wikipedia": "Battle of Las Navas de Tolosa",
+  "wikidata": "Q219697"
+}

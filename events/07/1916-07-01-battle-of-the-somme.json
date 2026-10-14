@@ -1,0 +1,31 @@
+{
+  "id": "event-1916-07-01-battle-of-the-somme",
+  "title": "The Battle of the Somme begins",
+  "year": 1916,
+  "month": 7,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "British and French troops attacked German lines along the Somme; the British army suffered about 57,000 casualties on the first day alone.",
+  "reason": "The Allies planned a joint offensive to break through, which also became a way to relieve pressure on the French at Verdun.",
+  "significance": "It became one of the bloodiest battles in history and a symbol of the slaughter of World War I.",
+  "participants": [
+    "British Army",
+    "French Army",
+    "German Army",
+    "Douglas Haig"
+  ],
+  "countries": [
+    "France",
+    "United Kingdom",
+    "Germany"
+  ],
+  "place": "Somme, France",
+  "lat": 50.0,
+  "lon": 2.7,
+  "tags": [
+    "war"
+  ],
+  "weight": 67,
+  "wikipedia": "Battle of the Somme",
+  "wikidata": "Q132568"
+}

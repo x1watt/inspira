@@ -1,0 +1,31 @@
+{
+  "id": "event-1941-03-11-lend-lease-act",
+  "title": "Roosevelt signs the Lend-Lease Act",
+  "year": 1941,
+  "month": 3,
+  "day": 11,
+  "calendar": "gregorian",
+  "summary": "President Franklin D. Roosevelt signed a law allowing the United States to lend or lease weapons and supplies to any country whose defence was vital to American security.",
+  "reason": "Britain was running out of money to buy American arms, and Roosevelt wanted to help it without entering the war.",
+  "significance": "It made the United States the 'arsenal of democracy', supplying Britain, the Soviet Union, China and others with goods worth tens of billions of dollars.",
+  "participants": [
+    "Franklin D. Roosevelt",
+    "United States Congress",
+    "United Kingdom"
+  ],
+  "countries": [
+    "United States",
+    "United Kingdom"
+  ],
+  "place": "White House, Washington, D.C., United States",
+  "lat": 38.8977,
+  "lon": -77.0365,
+  "tags": [
+    "law",
+    "diplomacy",
+    "economy"
+  ],
+  "weight": 72,
+  "wikipedia": "Lend-Lease",
+  "wikidata": "Q207637"
+}

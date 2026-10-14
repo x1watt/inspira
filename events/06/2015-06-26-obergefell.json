@@ -1,0 +1,29 @@
+{
+  "id": "event-2015-06-26-obergefell",
+  "title": "US Supreme Court legalises same-sex marriage",
+  "year": 2015,
+  "month": 6,
+  "day": 26,
+  "calendar": "gregorian",
+  "summary": "In Obergefell v. Hodges the Supreme Court ruled that same-sex couples have a constitutional right to marry.",
+  "reason": "Plaintiffs challenged state bans after years of rapid change in public opinion.",
+  "significance": "It made same-sex marriage legal in all fifty states.",
+  "participants": [
+    "Supreme Court of the United States",
+    "Jim Obergefell",
+    "Anthony Kennedy"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Supreme Court Building, Washington, D.C., United States",
+  "lat": 38.8906,
+  "lon": -77.0044,
+  "tags": [
+    "rights",
+    "law"
+  ],
+  "weight": 62,
+  "wikipedia": "Obergefell v. Hodges",
+  "wikidata": "Q19866992"
+}

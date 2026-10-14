@@ -1,0 +1,31 @@
+{
+  "id": "event-2020-01-03-soleimani-killed",
+  "title": "US drone strike kills Qasem Soleimani",
+  "year": 2020,
+  "month": 1,
+  "day": 3,
+  "calendar": "gregorian",
+  "summary": "A US drone strike at Baghdad airport killed Iranian general Qasem Soleimani, head of the Quds Force.",
+  "reason": "The US blamed him for attacks on American forces and an assault on its Baghdad embassy.",
+  "significance": "It brought the US and Iran close to open war.",
+  "participants": [
+    "Qasem Soleimani",
+    "United States",
+    "Donald Trump",
+    "Islamic Revolutionary Guard Corps"
+  ],
+  "countries": [
+    "Iraq",
+    "Iran",
+    "United States"
+  ],
+  "place": "Baghdad International Airport, Iraq",
+  "lat": 33.2625,
+  "lon": 44.2346,
+  "tags": [
+    "war"
+  ],
+  "weight": 55,
+  "wikipedia": "Assassination of Qasem Soleimani",
+  "wikidata": "Q80754846"
+}

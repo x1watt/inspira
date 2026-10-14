@@ -2,6 +2,7 @@ import 'dart:convert';
 
 import 'package:flutter/services.dart';
 
+import '../models/event.dart';
 import '../models/quote.dart';
 import '../models/story.dart';
 import 'stable_hash.dart';
@@ -116,6 +117,14 @@ class ImageRepository {
       _ => s.category,
     };
     return _pick(pool, s.id) ?? _pick(s.category, s.id);
+  }
+
+  /// Science and discovery events get the study pool, the rest the pool
+  /// of their category.
+  ArtImage? artForEvent(HistoryEvent e) {
+    const studyTags = {'science', 'technology', 'exploration', 'medicine'};
+    final pool = e.tags.any(studyTags.contains) ? 'study' : e.category;
+    return _pick(pool, e.id) ?? _pick(e.category, e.id);
   }
 
   ArtImage? _pick(String pool, String id) {

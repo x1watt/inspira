@@ -1,0 +1,29 @@
+{
+  "id": "event-1920-01-10-league-of-nations",
+  "title": "The League of Nations comes into being",
+  "year": 1920,
+  "month": 1,
+  "day": 10,
+  "calendar": "gregorian",
+  "summary": "The Covenant of the League of Nations took effect with the Treaty of Versailles, creating the first worldwide organization to keep the peace.",
+  "reason": "After the catastrophe of World War I, statesmen led by Woodrow Wilson sought collective security to prevent new wars.",
+  "significance": "Though it failed to stop World War II, it was the forerunner of the United Nations.",
+  "participants": [
+    "League of Nations",
+    "Woodrow Wilson"
+  ],
+  "countries": [
+    "Switzerland",
+    "France",
+    "United Kingdom"
+  ],
+  "place": "No single place",
+  "lat": null,
+  "lon": null,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 77,
+  "wikipedia": "League of Nations",
+  "wikidata": "Q38130"
+}

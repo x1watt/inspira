@@ -1,0 +1,30 @@
+{
+  "id": "event-1575-06-28-nagashino",
+  "title": "Oda and Tokugawa gunners win the Battle of Nagashino",
+  "year": 1575,
+  "month": 6,
+  "day": 28,
+  "calendar": "julian",
+  "summary": "Massed arquebusiers of Oda Nobunaga and Tokugawa Ieyasu, firing from behind wooden palisades, destroyed the cavalry charges of Takeda Katsuyori.",
+  "reason": "Takeda Katsuyori had besieged Nagashino castle, and Nobunaga and Ieyasu marched to relieve it.",
+  "significance": "It broke the Takeda clan and showed the decisive power of firearms in Japanese warfare.",
+  "participants": [
+    "Oda Nobunaga",
+    "Tokugawa Ieyasu",
+    "Takeda Katsuyori",
+    "Takeda clan"
+  ],
+  "countries": [
+    "Japan"
+  ],
+  "place": "Shitarabara, near Shinshiro, Aichi, Japan",
+  "lat": 34.92,
+  "lon": 137.54,
+  "tags": [
+    "war",
+    "technology"
+  ],
+  "weight": 52,
+  "wikipedia": "Battle of Nagashino",
+  "wikidata": "Q428369"
+}

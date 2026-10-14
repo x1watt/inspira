@@ -1,0 +1,31 @@
+{
+  "id": "event-1944-08-04-anne-frank-arrested",
+  "title": "Anne Frank and her family are arrested in Amsterdam",
+  "year": 1944,
+  "month": 8,
+  "day": 4,
+  "calendar": "gregorian",
+  "summary": "German police raided the secret annex behind Otto Frank's business on the Prinsengracht and arrested the eight Jews who had hidden there for two years. Anne Frank died at Bergen-Belsen months later.",
+  "reason": "Someone had betrayed the hiding place to the authorities, who were deporting the Jews of the Netherlands to the death camps.",
+  "significance": "Her diary, saved by a helper and published in 1947, became one of the most widely read accounts of the Holocaust.",
+  "participants": [
+    "Anne Frank",
+    "Otto Frank",
+    "Miep Gies",
+    "Sicherheitsdienst"
+  ],
+  "countries": [
+    "Netherlands",
+    "Germany"
+  ],
+  "place": "Prinsengracht 263, Amsterdam, Netherlands",
+  "lat": 52.3752,
+  "lon": 4.884,
+  "tags": [
+    "rights",
+    "culture"
+  ],
+  "weight": 58,
+  "wikipedia": "Anne Frank",
+  "wikidata": "Q4583"
+}

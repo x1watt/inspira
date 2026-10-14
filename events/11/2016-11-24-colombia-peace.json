@@ -1,0 +1,28 @@
+{
+  "id": "event-2016-11-24-colombia-peace",
+  "title": "Colombia signs peace deal with the FARC",
+  "year": 2016,
+  "month": 11,
+  "day": 24,
+  "calendar": "gregorian",
+  "summary": "President Juan Manuel Santos and FARC leader Rodrigo Londono signed a revised peace agreement in Bogota.",
+  "reason": "After a first deal was rejected in a referendum, the two sides renegotiated to end a war of over fifty years.",
+  "significance": "It ended the longest-running armed conflict in the Americas.",
+  "participants": [
+    "Juan Manuel Santos",
+    "FARC",
+    "Rodrigo Londono"
+  ],
+  "countries": [
+    "Colombia"
+  ],
+  "place": "Teatro Colon, Bogota, Colombia",
+  "lat": 4.5974,
+  "lon": -74.075,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 62,
+  "wikipedia": "Colombian peace process",
+  "wikidata": "Q5858325"
+}

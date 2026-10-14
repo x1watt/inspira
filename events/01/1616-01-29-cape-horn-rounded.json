@@ -1,0 +1,28 @@
+{
+  "id": "event-1616-01-29-cape-horn-rounded",
+  "title": "Le Maire and Schouten round Cape Horn",
+  "year": 1616,
+  "month": 1,
+  "day": 29,
+  "calendar": "gregorian",
+  "summary": "Dutch navigators Jacob Le Maire and Willem Schouten sailed past the southern tip of South America and named it Kaap Hoorn after the town of Hoorn.",
+  "reason": "They sought a route to the Pacific outside the Strait of Magellan, which the Dutch East India Company's monopoly controlled.",
+  "significance": "It opened the Cape Horn route that sailing ships used for three centuries.",
+  "participants": [
+    "Jacob Le Maire",
+    "Willem Schouten"
+  ],
+  "countries": [
+    "Chile",
+    "Netherlands"
+  ],
+  "place": "Cape Horn, Chile",
+  "lat": -55.9833,
+  "lon": -67.2667,
+  "tags": [
+    "exploration"
+  ],
+  "weight": 56,
+  "wikipedia": "Jacob Le Maire",
+  "wikidata": "Q438156"
+}

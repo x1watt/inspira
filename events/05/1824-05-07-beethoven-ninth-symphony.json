@@ -1,0 +1,28 @@
+{
+  "id": "event-1824-05-07-beethoven-ninth-symphony",
+  "title": "Beethoven's Ninth Symphony premieres in Vienna",
+  "year": 1824,
+  "month": 5,
+  "day": 7,
+  "calendar": "gregorian",
+  "summary": "Ludwig van Beethoven's Ninth Symphony, with its choral finale setting Schiller's Ode to Joy, was first performed at the Theater am Kärntnertor.",
+  "reason": "Beethoven, almost completely deaf, had worked for years on a symphony that would include voices, and Viennese patrons organized the concert.",
+  "significance": "It is one of the most celebrated works of Western music and its finale is now the anthem of Europe.",
+  "participants": [
+    "Ludwig van Beethoven",
+    "Michael Umlauf"
+  ],
+  "countries": [
+    "Austria",
+    "Germany"
+  ],
+  "place": "Theater am Kärntnertor, Vienna, Austria",
+  "lat": 48.2033,
+  "lon": 16.37,
+  "tags": [
+    "culture"
+  ],
+  "weight": 60,
+  "wikipedia": "Symphony No. 9 (Beethoven)",
+  "wikidata": "Q11989"
+}

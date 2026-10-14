@@ -1,0 +1,27 @@
+{
+  "id": "event-762-07-30-founding-of-baghdad",
+  "title": "Caliph al-Mansur founds Baghdad",
+  "year": 762,
+  "month": 7,
+  "day": 30,
+  "calendar": "julian",
+  "summary": "The Abbasid caliph al-Mansur laid the foundations of a new capital, the round city of Baghdad, on the Tigris. It was planned as a circle with the palace and mosque at its centre.",
+  "reason": "The Abbasids wanted a capital away from Umayyad Syria, near their supporters in Iraq and Persia and on major trade routes.",
+  "significance": "Baghdad became the largest city of its age and the centre of the Islamic Golden Age.",
+  "participants": [
+    "al-Mansur",
+    "Abbasid Caliphate"
+  ],
+  "countries": [
+    "Iraq"
+  ],
+  "place": "Baghdad, Iraq",
+  "lat": 33.3152,
+  "lon": 44.3661,
+  "tags": [
+    "politics",
+    "culture"
+  ],
+  "weight": 75,
+  "wikipedia": "Baghdad"
+}

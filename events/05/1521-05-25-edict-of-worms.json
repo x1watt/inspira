@@ -1,0 +1,30 @@
+{
+  "id": "event-1521-05-25-edict-of-worms",
+  "title": "Emperor Charles V outlaws Martin Luther",
+  "year": 1521,
+  "month": 5,
+  "day": 25,
+  "calendar": "julian",
+  "summary": "After Luther refused to recant at the Diet of Worms, Charles V issued an edict declaring him an outlaw and banning his writings.",
+  "reason": "Charles saw himself as the defender of the Catholic Church and wanted to stop the spread of Luther's ideas in the Empire.",
+  "significance": "The edict could not be enforced, and Luther's protection by Saxony let the Reformation spread.",
+  "participants": [
+    "Charles V, Holy Roman Emperor",
+    "Martin Luther",
+    "Diet of Worms",
+    "Frederick III, Elector of Saxony"
+  ],
+  "countries": [
+    "Germany"
+  ],
+  "place": "Worms, Rhineland-Palatinate, Germany",
+  "lat": 49.634,
+  "lon": 8.35,
+  "tags": [
+    "religion",
+    "law"
+  ],
+  "weight": 62,
+  "wikipedia": "Diet of Worms",
+  "wikidata": "Q835934"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "event-1996-09-24-ctbt-signed",
+  "title": "Nuclear Test-Ban Treaty opens for signature",
+  "year": 1996,
+  "month": 9,
+  "day": 24,
+  "calendar": "gregorian",
+  "summary": "The Comprehensive Nuclear-Test-Ban Treaty, banning all nuclear explosions, opened for signature at the UN, and Bill Clinton signed first.",
+  "reason": "With the Cold War over, states sought to halt the development of new nuclear weapons.",
+  "significance": "Though not in force, it has made nuclear testing almost unthinkable.",
+  "participants": [
+    "United Nations",
+    "Bill Clinton"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "United Nations Headquarters, New York City, United States",
+  "lat": 40.7489,
+  "lon": -73.968,
+  "tags": [
+    "diplomacy",
+    "law"
+  ],
+  "weight": 55,
+  "wikipedia": "Comprehensive Nuclear-Test-Ban Treaty",
+  "wikidata": "Q521306"
+}

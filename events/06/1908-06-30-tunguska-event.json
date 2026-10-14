@@ -1,0 +1,27 @@
+{
+  "id": "event-1908-06-30-tunguska-event",
+  "title": "The Tunguska explosion flattens a Siberian forest",
+  "year": 1908,
+  "month": 6,
+  "day": 30,
+  "calendar": "gregorian",
+  "summary": "A huge explosion over the Podkamennaya Tunguska River in Siberia flattened about 80 million trees across more than 2,000 square kilometers.",
+  "reason": "It is thought to have been caused by a meteoroid or comet fragment bursting in the air several kilometers above the ground.",
+  "significance": "It is the largest impact event in recorded history and a key case in assessing asteroid risks.",
+  "participants": [
+    "Russian Empire"
+  ],
+  "countries": [
+    "Russia"
+  ],
+  "place": "Podkamennaya Tunguska River, Siberia, Russia",
+  "lat": 60.8858,
+  "lon": 101.8939,
+  "tags": [
+    "disaster",
+    "science"
+  ],
+  "weight": 52,
+  "wikipedia": "Tunguska event",
+  "wikidata": "Q125953"
+}

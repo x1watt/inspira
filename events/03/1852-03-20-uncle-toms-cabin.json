@@ -1,0 +1,28 @@
+{
+  "id": "event-1852-03-20-uncle-toms-cabin",
+  "title": "Uncle Tom's Cabin is published as a book",
+  "year": 1852,
+  "month": 3,
+  "day": 20,
+  "calendar": "gregorian",
+  "summary": "Harriet Beecher Stowe's antislavery novel was published in two volumes in Boston after appearing as a serial.",
+  "reason": "Stowe was outraged by the Fugitive Slave Act of 1850, which forced Northerners to help return escaped slaves.",
+  "significance": "It became the best-selling novel of the century and hardened Northern opposition to slavery.",
+  "participants": [
+    "Harriet Beecher Stowe",
+    "John P. Jewett and Company"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Boston, Massachusetts, United States",
+  "lat": 42.3601,
+  "lon": -71.0589,
+  "tags": [
+    "culture",
+    "rights"
+  ],
+  "weight": 60,
+  "wikipedia": "Uncle Tom's Cabin",
+  "wikidata": "Q2222"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "event-1542-11-20-new-laws",
+  "title": "Charles V signs the New Laws for the Indies",
+  "year": 1542,
+  "month": 11,
+  "day": 20,
+  "calendar": "julian",
+  "summary": "Charles V issued the New Laws in Barcelona, banning the enslavement of indigenous Americans and limiting the encomienda labour system.",
+  "reason": "Reports by Bartolome de las Casas and others about the brutal treatment and collapse of native populations moved the crown to act.",
+  "significance": "They were among the first laws of a colonial power meant to protect colonized people, though settler revolts forced their weakening.",
+  "participants": [
+    "Charles V, Holy Roman Emperor",
+    "Bartolome de las Casas",
+    "Spanish Empire"
+  ],
+  "countries": [
+    "Spain",
+    "Mexico",
+    "Peru"
+  ],
+  "place": "Barcelona, Spain",
+  "lat": 41.387,
+  "lon": 2.17,
+  "tags": [
+    "law",
+    "rights"
+  ],
+  "weight": 55,
+  "wikipedia": "New Laws",
+  "wikidata": "Q1121487"
+}

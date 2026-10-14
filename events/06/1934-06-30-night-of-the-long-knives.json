@@ -1,0 +1,29 @@
+{
+  "id": "event-1934-06-30-night-of-the-long-knives",
+  "title": "Hitler purges rivals in the Night of the Long Knives",
+  "year": 1934,
+  "month": 6,
+  "day": 30,
+  "calendar": "gregorian",
+  "summary": "Hitler had SA leader Ernst Rohm and dozens of other rivals arrested and murdered by the SS over several days, starting at Bad Wiessee.",
+  "reason": "Hitler wanted to remove the SA as a threat and win the loyalty of the army.",
+  "significance": "It consolidated Hitler's absolute power and established the SS as the regime's terror arm.",
+  "participants": [
+    "Adolf Hitler",
+    "Ernst Rohm",
+    "Schutzstaffel",
+    "Sturmabteilung"
+  ],
+  "countries": [
+    "Germany"
+  ],
+  "place": "Bad Wiessee, Bavaria, Germany",
+  "lat": 47.7167,
+  "lon": 11.7167,
+  "tags": [
+    "politics"
+  ],
+  "weight": 57,
+  "wikipedia": "Night of the Long Knives",
+  "wikidata": "Q130783"
+}

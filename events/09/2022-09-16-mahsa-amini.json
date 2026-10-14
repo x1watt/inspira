@@ -1,0 +1,27 @@
+{
+  "id": "event-2022-09-16-mahsa-amini",
+  "title": "Death of Mahsa Amini sparks protests in Iran",
+  "year": 2022,
+  "month": 9,
+  "day": 16,
+  "calendar": "gregorian",
+  "summary": "Mahsa Amini, 22, died in custody after her arrest by Iran's morality police for improper hijab, sparking nationwide protests.",
+  "reason": "Iranians, led by women, were angry at compulsory veiling and repression.",
+  "significance": "The Woman, Life, Freedom movement became the largest challenge to the Islamic Republic in years.",
+  "participants": [
+    "Mahsa Amini",
+    "Guidance Patrol"
+  ],
+  "countries": [
+    "Iran"
+  ],
+  "place": "Tehran, Iran",
+  "lat": 35.6892,
+  "lon": 51.389,
+  "tags": [
+    "rights"
+  ],
+  "weight": 58,
+  "wikipedia": "Death of Mahsa Amini",
+  "wikidata": "Q114051466"
+}

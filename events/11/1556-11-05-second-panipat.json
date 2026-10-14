@@ -1,0 +1,30 @@
+{
+  "id": "event-1556-11-05-second-panipat",
+  "title": "Mughals defeat Hemu at the Second Battle of Panipat",
+  "year": 1556,
+  "month": 11,
+  "day": 5,
+  "calendar": "julian",
+  "summary": "Akbar's forces under Bairam Khan defeated the army of Hemu, who had seized Delhi, after Hemu was struck in the eye by an arrow.",
+  "reason": "Hemu, a Hindu general of the Sur dynasty, had taken Delhi and Agra and claimed the throne after Humayun's death.",
+  "significance": "It secured Mughal rule in northern India.",
+  "participants": [
+    "Akbar",
+    "Bairam Khan",
+    "Hemu",
+    "Mughal Empire",
+    "Sur Empire"
+  ],
+  "countries": [
+    "India"
+  ],
+  "place": "Panipat, Haryana, India",
+  "lat": 29.391,
+  "lon": 76.964,
+  "tags": [
+    "war"
+  ],
+  "weight": 60,
+  "wikipedia": "Second Battle of Panipat",
+  "wikidata": "Q233414"
+}

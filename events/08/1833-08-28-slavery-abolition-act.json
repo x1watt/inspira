@@ -1,0 +1,32 @@
+{
+  "id": "event-1833-08-28-slavery-abolition-act",
+  "title": "Britain abolishes slavery across most of its empire",
+  "year": 1833,
+  "month": 8,
+  "day": 28,
+  "calendar": "gregorian",
+  "summary": "The Slavery Abolition Act received royal assent, freeing enslaved people in most British colonies from 1834, with compensation paid to slave owners.",
+  "reason": "Decades of abolitionist campaigning, slave rebellions such as the Baptist War in Jamaica, and the reformed Parliament made abolition politically possible.",
+  "significance": "It freed about 800,000 people and made Britain a leading force against slavery worldwide.",
+  "participants": [
+    "Parliament of the United Kingdom",
+    "William Wilberforce",
+    "Thomas Fowell Buxton"
+  ],
+  "countries": [
+    "United Kingdom",
+    "Jamaica",
+    "South Africa",
+    "Mauritius"
+  ],
+  "place": "Palace of Westminster, London, United Kingdom",
+  "lat": 51.4995,
+  "lon": -0.1248,
+  "tags": [
+    "law",
+    "rights"
+  ],
+  "weight": 75,
+  "wikipedia": "Slavery Abolition Act 1833",
+  "wikidata": "Q487420"
+}

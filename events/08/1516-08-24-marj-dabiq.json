@@ -1,0 +1,31 @@
+{
+  "id": "event-1516-08-24-marj-dabiq",
+  "title": "Ottomans destroy the Mamluk army at Marj Dabiq",
+  "year": 1516,
+  "month": 8,
+  "day": 24,
+  "calendar": "julian",
+  "summary": "Selim I defeated the Mamluk Sultan Qansuh al-Ghawri north of Aleppo. The sultan died on the field and Syria passed to the Ottomans.",
+  "reason": "Rivalry over the frontier and fears of a Mamluk alliance with Safavid Persia drove Selim to attack.",
+  "significance": "It opened the way to the Ottoman conquest of Egypt and made the Ottomans guardians of Mecca and Medina.",
+  "participants": [
+    "Ottoman Empire",
+    "Mamluk Sultanate",
+    "Selim I",
+    "Qansuh al-Ghawri"
+  ],
+  "countries": [
+    "Syria",
+    "Turkey",
+    "Egypt"
+  ],
+  "place": "Marj Dabiq, near Aleppo, Syria",
+  "lat": 36.533,
+  "lon": 37.267,
+  "tags": [
+    "war"
+  ],
+  "weight": 60,
+  "wikipedia": "Battle of Marj Dabiq",
+  "wikidata": "Q971248"
+}

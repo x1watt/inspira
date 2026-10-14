@@ -1,0 +1,29 @@
+{
+  "id": "event-1957-03-06-ghana-independence",
+  "title": "Ghana becomes independent",
+  "year": 1957,
+  "month": 3,
+  "day": 6,
+  "calendar": "gregorian",
+  "summary": "The Gold Coast became independent as Ghana, led by Kwame Nkrumah, the first sub-Saharan African colony to win independence from colonial rule after the war.",
+  "reason": "Nkrumah's Convention People's Party had won elections and pressed Britain for self-government.",
+  "significance": "It inspired independence movements across Africa.",
+  "participants": [
+    "Kwame Nkrumah",
+    "Convention People's Party",
+    "United Kingdom"
+  ],
+  "countries": [
+    "Ghana",
+    "United Kingdom"
+  ],
+  "place": "Accra, Ghana",
+  "lat": 5.6037,
+  "lon": -0.187,
+  "tags": [
+    "politics"
+  ],
+  "weight": 63,
+  "wikipedia": "Gold Coast (British colony)",
+  "wikidata": "Q503623"
+}

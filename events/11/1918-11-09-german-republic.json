@@ -1,0 +1,28 @@
+{
+  "id": "event-1918-11-09-german-republic",
+  "title": "Germany is proclaimed a republic as the Kaiser falls",
+  "year": 1918,
+  "month": 11,
+  "day": 9,
+  "calendar": "gregorian",
+  "summary": "As revolution spread, Chancellor Max von Baden announced Kaiser Wilhelm II's abdication and Philipp Scheidemann proclaimed a republic from the Reichstag balcony.",
+  "reason": "Military defeat, naval mutinies and mass strikes had destroyed support for the monarchy.",
+  "significance": "It ended the German Empire and began the Weimar Republic.",
+  "participants": [
+    "Wilhelm II",
+    "Philipp Scheidemann",
+    "Friedrich Ebert",
+    "Max von Baden"
+  ],
+  "countries": [
+    "Germany"
+  ],
+  "place": "Reichstag, Berlin, Germany",
+  "lat": 52.5186,
+  "lon": 13.3762,
+  "tags": [
+    "revolution"
+  ],
+  "weight": 62,
+  "wikipedia": "German Revolution of 1918-1919"
+}

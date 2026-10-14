@@ -1,0 +1,30 @@
+{
+  "id": "event-1898-12-26-discovery-of-radium",
+  "title": "Marie and Pierre Curie announce the discovery of radium",
+  "year": 1898,
+  "month": 12,
+  "day": 26,
+  "calendar": "gregorian",
+  "summary": "The Curies and Gustave Bémont reported to the French Academy of Sciences that they had found a new, intensely radioactive element in pitchblende.",
+  "reason": "Marie Curie was studying the rays discovered by Henri Becquerel and found that pitchblende was far more active than its uranium could explain.",
+  "significance": "It opened the study of radioactivity, which transformed physics and medicine.",
+  "participants": [
+    "Marie Curie",
+    "Pierre Curie",
+    "Gustave Bémont",
+    "French Academy of Sciences"
+  ],
+  "countries": [
+    "France",
+    "Poland"
+  ],
+  "place": "Institut de France, Paris, France",
+  "lat": 48.8574,
+  "lon": 2.3373,
+  "tags": [
+    "science"
+  ],
+  "weight": 70,
+  "wikipedia": "Radium",
+  "wikidata": "Q1128"
+}

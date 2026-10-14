@@ -1,0 +1,29 @@
+{
+  "id": "event-1789-08-26-rights-of-man",
+  "title": "France adopts the Declaration of the Rights of Man",
+  "year": 1789,
+  "month": 8,
+  "day": 26,
+  "calendar": "gregorian",
+  "summary": "The National Constituent Assembly adopted the Declaration of the Rights of Man and of the Citizen.",
+  "reason": "Deputies wanted to state the principles of a new order after abolishing feudal privileges.",
+  "significance": "It became a founding text of human rights and liberal democracy.",
+  "participants": [
+    "National Constituent Assembly",
+    "Lafayette"
+  ],
+  "countries": [
+    "France"
+  ],
+  "place": "Versailles, France",
+  "lat": 48.8049,
+  "lon": 2.1204,
+  "tags": [
+    "rights",
+    "law",
+    "revolution"
+  ],
+  "weight": 85,
+  "wikipedia": "Declaration of the Rights of Man and of the Citizen",
+  "wikidata": "Q169759"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "event-1942-01-20-wannsee-conference",
+  "title": "Nazi officials coordinate the Holocaust at Wannsee",
+  "year": 1942,
+  "month": 1,
+  "day": 20,
+  "calendar": "gregorian",
+  "summary": "Senior Nazi and German government officials met in a villa at Wannsee, Berlin, under Reinhard Heydrich to coordinate the deportation and murder of the Jews of Europe.",
+  "reason": "Mass killing was already under way, and Heydrich wanted all ministries to cooperate in what the Nazis called the Final Solution.",
+  "significance": "Its minutes are among the clearest records of the Holocaust's planning.",
+  "participants": [
+    "Reinhard Heydrich",
+    "Adolf Eichmann",
+    "Nazi Germany"
+  ],
+  "countries": [
+    "Germany"
+  ],
+  "place": "Villa Marlier, Wannsee, Berlin, Germany",
+  "lat": 52.4334,
+  "lon": 13.1658,
+  "tags": [
+    "politics",
+    "rights"
+  ],
+  "weight": 78,
+  "wikipedia": "Wannsee Conference",
+  "wikidata": "Q152120"
+}

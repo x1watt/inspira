@@ -1,0 +1,28 @@
+{
+  "id": "event-1917-02-05-mexican-constitution",
+  "title": "Mexico promulgates its revolutionary constitution",
+  "year": 1917,
+  "month": 2,
+  "day": 5,
+  "calendar": "gregorian",
+  "summary": "A constitutional congress in Queretaro adopted a new constitution for Mexico with land reform, labor rights and limits on the Church and foreign ownership of resources.",
+  "reason": "The victorious revolutionary faction of Venustiano Carranza needed to consolidate power and address the demands of peasants and workers.",
+  "significance": "It was among the first constitutions to guarantee social rights and is still in force today.",
+  "participants": [
+    "Venustiano Carranza",
+    "Constituent Congress of Queretaro"
+  ],
+  "countries": [
+    "Mexico"
+  ],
+  "place": "Queretaro, Mexico",
+  "lat": 20.5888,
+  "lon": -100.3899,
+  "tags": [
+    "law",
+    "rights"
+  ],
+  "weight": 52,
+  "wikipedia": "Constitution of Mexico",
+  "wikidata": "Q2170072"
+}

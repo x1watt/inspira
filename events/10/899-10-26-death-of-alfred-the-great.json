@@ -1,0 +1,28 @@
+{
+  "id": "event-899-10-26-death-of-alfred-the-great",
+  "title": "Death of Alfred the Great",
+  "year": 899,
+  "month": 10,
+  "day": 26,
+  "calendar": "julian",
+  "summary": "Alfred, king of Wessex, died in Winchester after a reign spent defending his kingdom against the Vikings. He was succeeded by his son Edward the Elder.",
+  "reason": "He died after years of ill health.",
+  "significance": "His defence of Wessex and support for learning laid the ground for a united kingdom of England.",
+  "participants": [
+    "Alfred the Great",
+    "Kingdom of Wessex",
+    "Edward the Elder"
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "place": "Winchester, England, United Kingdom",
+  "lat": 51.0632,
+  "lon": -1.308,
+  "tags": [
+    "politics"
+  ],
+  "weight": 50,
+  "wikipedia": "Alfred the Great",
+  "wikidata": "Q83476"
+}

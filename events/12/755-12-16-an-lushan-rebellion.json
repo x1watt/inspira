@@ -1,0 +1,30 @@
+{
+  "id": "event-755-12-16-an-lushan-rebellion",
+  "title": "An Lushan launches his rebellion against the Tang",
+  "year": 755,
+  "month": 12,
+  "day": 16,
+  "calendar": "julian",
+  "summary": "The frontier general An Lushan marched south from his base at Fanyang against the Tang court. He soon took Luoyang and Chang'an and proclaimed his own dynasty.",
+  "reason": "An Lushan commanded huge armies in the northeast and feared the hostility of the chief minister Yang Guozhong.",
+  "significance": "The eight-year war killed millions and permanently weakened the Tang dynasty.",
+  "participants": [
+    "An Lushan",
+    "Tang dynasty",
+    "Emperor Xuanzong of Tang",
+    "Yang Guozhong"
+  ],
+  "countries": [
+    "China"
+  ],
+  "place": "Fanyang, near Beijing, China",
+  "lat": 39.9042,
+  "lon": 116.4074,
+  "tags": [
+    "war",
+    "revolution"
+  ],
+  "weight": 70,
+  "wikipedia": "An Lushan rebellion",
+  "wikidata": "Q253774"
+}

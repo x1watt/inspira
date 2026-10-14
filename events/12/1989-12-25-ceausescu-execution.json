@@ -1,0 +1,27 @@
+{
+  "id": "event-1989-12-25-ceausescu-execution",
+  "title": "Nicolae Ceausescu is executed",
+  "year": 1989,
+  "month": 12,
+  "day": 25,
+  "calendar": "gregorian",
+  "summary": "Romanian dictator Nicolae Ceausescu and his wife Elena were shot after a hasty military trial in Targoviste.",
+  "reason": "A revolution that began in Timisoara had overthrown the regime, and the army had changed sides.",
+  "significance": "It was the only violent overthrow of a communist regime in Eastern Europe in 1989.",
+  "participants": [
+    "Nicolae Ceausescu",
+    "Elena Ceausescu",
+    "National Salvation Front"
+  ],
+  "countries": [
+    "Romania"
+  ],
+  "place": "Targoviste, Romania",
+  "lat": 44.9254,
+  "lon": 25.4567,
+  "tags": [
+    "revolution"
+  ],
+  "weight": 55,
+  "wikipedia": "Trial and execution of Nicolae and Elena Ceaușescu"
+}

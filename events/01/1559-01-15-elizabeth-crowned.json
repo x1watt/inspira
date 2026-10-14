@@ -1,0 +1,27 @@
+{
+  "id": "event-1559-01-15-elizabeth-crowned",
+  "title": "Elizabeth I is crowned Queen of England",
+  "year": 1559,
+  "month": 1,
+  "day": 15,
+  "calendar": "julian",
+  "summary": "Elizabeth, daughter of Henry VIII and Anne Boleyn, was crowned in Westminster Abbey two months after the death of her half-sister Mary I.",
+  "reason": "Mary I died without children, leaving the Protestant Elizabeth as heir under her father's will.",
+  "significance": "Her 44-year reign settled the Church of England and saw England rise as a sea power.",
+  "participants": [
+    "Elizabeth I",
+    "Kingdom of England"
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "place": "Westminster Abbey, London, United Kingdom",
+  "lat": 51.499,
+  "lon": -0.127,
+  "tags": [
+    "politics"
+  ],
+  "weight": 62,
+  "wikipedia": "Coronation of Elizabeth I",
+  "wikidata": "Q40923399"
+}

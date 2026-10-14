@@ -1,0 +1,28 @@
+{
+  "id": "event-1608-10-02-telescope-patent",
+  "title": "Hans Lipperhey applies for a patent on the telescope",
+  "year": 1608,
+  "month": 10,
+  "day": 2,
+  "calendar": "gregorian",
+  "summary": "The spectacle maker Hans Lipperhey of Middelburg asked the States General in The Hague for a patent on a device that made distant things appear near.",
+  "reason": "Lens makers had found that combining a convex and a concave lens magnified distant objects, and Lipperhey sought exclusive rights.",
+  "significance": "It is the earliest written record of a telescope, which soon transformed astronomy.",
+  "participants": [
+    "Hans Lipperhey",
+    "States General of the Netherlands"
+  ],
+  "countries": [
+    "Netherlands"
+  ],
+  "place": "The Hague, Netherlands",
+  "lat": 52.0799,
+  "lon": 4.3113,
+  "tags": [
+    "technology",
+    "science"
+  ],
+  "weight": 66,
+  "wikipedia": "Hans Lipperhey",
+  "wikidata": "Q76468"
+}

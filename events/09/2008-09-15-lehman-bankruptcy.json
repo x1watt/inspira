@@ -1,0 +1,28 @@
+{
+  "id": "event-2008-09-15-lehman-bankruptcy",
+  "title": "Lehman Brothers files for bankruptcy",
+  "year": 2008,
+  "month": 9,
+  "day": 15,
+  "calendar": "gregorian",
+  "summary": "The investment bank Lehman Brothers filed for the largest bankruptcy in US history, setting off a global panic.",
+  "reason": "Lehman had huge losses on subprime mortgage securities, and the government refused to rescue it.",
+  "significance": "It turned a credit crisis into the worst global recession since the 1930s.",
+  "participants": [
+    "Lehman Brothers",
+    "Henry Paulson",
+    "Federal Reserve"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "New York City, United States",
+  "lat": 40.7605,
+  "lon": -73.9845,
+  "tags": [
+    "economy"
+  ],
+  "weight": 85,
+  "wikipedia": "Bankruptcy of Lehman Brothers",
+  "wikidata": "Q3269580"
+}

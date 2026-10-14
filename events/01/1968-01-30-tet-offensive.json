@@ -1,0 +1,30 @@
+{
+  "id": "event-1968-01-30-tet-offensive",
+  "title": "North Vietnam launches the Tet Offensive",
+  "year": 1968,
+  "month": 1,
+  "day": 30,
+  "calendar": "gregorian",
+  "summary": "North Vietnamese and Viet Cong forces attacked cities and bases across South Vietnam during the Tet holiday, even entering the US embassy compound in Saigon.",
+  "reason": "Hanoi hoped to spark a popular uprising and break American resolve.",
+  "significance": "Though a military defeat for the attackers, it turned American opinion against the war.",
+  "participants": [
+    "Viet Cong",
+    "People's Army of Vietnam",
+    "United States Army",
+    "Army of the Republic of Vietnam"
+  ],
+  "countries": [
+    "Vietnam",
+    "United States"
+  ],
+  "place": "South Vietnam",
+  "lat": 10.7769,
+  "lon": 106.7009,
+  "tags": [
+    "war"
+  ],
+  "weight": 70,
+  "wikipedia": "Tet Offensive",
+  "wikidata": "Q82542"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "event-bc216-08-02-battle-of-cannae",
+  "title": "Battle of Cannae",
+  "year": -216,
+  "month": 8,
+  "day": 2,
+  "calendar": "julian",
+  "summary": "Hannibal encircled and destroyed a much larger Roman army at Cannae in Apulia. Tens of thousands of Romans died in a single day.",
+  "reason": "Rome sought a decisive battle to end Hannibal's campaign in Italy and sent an exceptionally large army against him.",
+  "significance": "Its double envelopment became a classic of military tactics, studied for more than two thousand years.",
+  "participants": [
+    "Hannibal",
+    "Carthage",
+    "Roman Republic",
+    "Lucius Aemilius Paullus",
+    "Gaius Terentius Varro"
+  ],
+  "countries": [
+    "Italy",
+    "Tunisia"
+  ],
+  "place": "Cannae, Apulia, Italy",
+  "lat": 41.3064,
+  "lon": 16.1322,
+  "tags": [
+    "war"
+  ],
+  "weight": 80,
+  "wikipedia": "Battle of Cannae",
+  "wikidata": "Q179591"
+}

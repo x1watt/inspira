@@ -1,0 +1,30 @@
+{
+  "id": "event-1972-09-05-munich-massacre",
+  "title": "Terrorists take Israeli athletes hostage at the Munich Olympics",
+  "year": 1972,
+  "month": 9,
+  "day": 5,
+  "calendar": "gregorian",
+  "summary": "Members of the Palestinian group Black September seized Israeli team members in the Olympic Village. Eleven Israelis were killed.",
+  "reason": "The group demanded the release of Palestinian prisoners held in Israel.",
+  "significance": "It was a turning point in international terrorism and counterterrorism.",
+  "participants": [
+    "Black September Organization",
+    "Israel Olympic team",
+    "West German police"
+  ],
+  "countries": [
+    "Germany",
+    "Israel"
+  ],
+  "place": "Olympic Village, Munich, Germany",
+  "lat": 48.1798,
+  "lon": 11.549,
+  "tags": [
+    "war",
+    "sport"
+  ],
+  "weight": 53,
+  "wikipedia": "Munich massacre",
+  "wikidata": "Q229007"
+}

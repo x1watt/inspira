@@ -1,6 +1,7 @@
 import 'dart:math';
 
 import '../models/category.dart';
+import '../models/event.dart';
 import '../models/quote.dart';
 import '../models/story.dart';
 import 'progress_store.dart';
@@ -70,9 +71,26 @@ class FeedEngine {
     required this.quizzes,
     Random? random,
     this.quizOnly = false,
-  }) : _random = random ?? Random() {
+    List<HistoryEvent> events = const [],
+    Iterable<String> Function()? liked,
+    DateTime? today,
+  }) : _random = random ?? Random(),
+       _events = events,
+       _liked = liked ?? (() => const []),
+       _today = today ?? DateTime.now() {
     _untilQuiz = _quizGap();
+    var sum = 0;
+    for (final e in events) {
+      _eventTotals.add(sum += e.weight);
+    }
   }
+
+  /// Fewer unquizzed recent stories than this: half the quizzes are about
+  /// dated events instead. None at all: all of them.
+  static const _fewRecent = 10;
+
+  /// How far back "recently read" goes.
+  static const _recentDays = 30;
 
   static const kinds = ['quote', 'story', 'history', 'study'];
 
@@ -97,6 +115,12 @@ class FeedEngine {
   final QuoteRepository quotes;
   final StoryRepository stories;
   final Random _random;
+  final List<HistoryEvent> _events;
+
+  /// Running sums of event weights, for weighted picks in O(log n).
+  final _eventTotals = <int>[];
+  final Iterable<String> Function() _liked;
+  final DateTime _today;
   final _cards = <FeedCard>[];
 
   /// Cards left until the next quiz, after each card; restored by [steer]
@@ -196,11 +220,24 @@ class FeedEngine {
     return null;
   }
 
-  /// What to ask about: a card from this session (not one of the last two
-  /// shown), else anything seen before. In quiz mode, half the questions
-  /// are about something new, picked like a feed card.
+  /// What to ask about, in this order:
+  ///
+  /// 1. Stories, history and studies the user read or liked recently.
+  /// 2. When there are few of those (or none), dated events: important
+  ///    ones more often, today's anniversaries first.
+  /// 3. Without events: a card from this session, else anything seen
+  ///    before; in quiz mode, anything at all.
   String? _quizCandidate() {
-    if (quizOnly && _random.nextBool()) return _anyItem();
+    final recent = _recentStories();
+    final eventShare = recent.isEmpty
+        ? 1.0
+        : recent.length < _fewRecent
+        ? 0.5
+        : 0.0;
+    if (_events.isNotEmpty && _random.nextDouble() < eventShare) {
+      if (_anyEvent() case final id?) return id;
+    }
+    if (recent.isNotEmpty) return recent[_random.nextInt(recent.length)];
     final session = [
       for (var i = 0; i < _sessionSeen.length - 2; i++)
         if (!_quizzed.contains(_sessionSeen[i])) _sessionSeen[i],
@@ -212,6 +249,49 @@ class FeedEngine {
     ];
     if (earlier.isNotEmpty) return earlier[_random.nextInt(earlier.length)];
     return quizOnly ? _anyItem() : null;
+  }
+
+  /// Story ids read in the last [_recentDays] days or liked (the last 100
+  /// likes), not yet asked this session and not on screen a moment ago.
+  List<String> _recentStories() {
+    final justShown = _sessionSeen.length < 2
+        ? _sessionSeen.toSet()
+        : _sessionSeen.sublist(_sessionSeen.length - 2).toSet();
+    final liked = _liked().where((id) => id.startsWith('story-')).toList();
+    return {
+      ...progress
+          .recentlyRead(_recentDays)
+          .where((id) => id.startsWith('story-')),
+      ...liked.skip(max(0, liked.length - 100)),
+    }.where((id) => !_quizzed.contains(id) && !justShown.contains(id)).toList();
+  }
+
+  /// A dated event not asked this session: a quarter of the time one on
+  /// today's date when there is any, else weighted by importance.
+  String? _anyEvent() {
+    if (_random.nextDouble() < 0.25) {
+      final today = [
+        for (final e in _events)
+          if (e.month == _today.month &&
+              e.day == _today.day &&
+              !_quizzed.contains(e.id))
+            e,
+      ];
+      if (today.isNotEmpty) return today[_random.nextInt(today.length)].id;
+    }
+    final total = _eventTotals.last;
+    for (var tries = 0; tries < 12; tries++) {
+      final r = _random.nextInt(total);
+      // First running sum above r.
+      var lo = 0, hi = _eventTotals.length - 1;
+      while (lo < hi) {
+        final mid = (lo + hi) ~/ 2;
+        _eventTotals[mid] > r ? hi = mid : lo = mid + 1;
+      }
+      final id = _events[lo].id;
+      if (!_quizzed.contains(id)) return id;
+    }
+    return null;
   }
 
   String? _anyItem() => switch (_content(_pickKind(), _pickCategory())) {

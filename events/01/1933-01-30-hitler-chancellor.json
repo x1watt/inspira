@@ -1,0 +1,29 @@
+{
+  "id": "event-1933-01-30-hitler-chancellor",
+  "title": "Adolf Hitler is appointed Chancellor of Germany",
+  "year": 1933,
+  "month": 1,
+  "day": 30,
+  "calendar": "gregorian",
+  "summary": "President Paul von Hindenburg appointed Nazi party leader Adolf Hitler as Chancellor at the head of a coalition government.",
+  "reason": "The Depression had fueled Nazi support, and conservative elites believed they could control Hitler.",
+  "significance": "It began the Nazi dictatorship that led to World War II and the Holocaust.",
+  "participants": [
+    "Adolf Hitler",
+    "Paul von Hindenburg",
+    "Franz von Papen",
+    "Nazi Party"
+  ],
+  "countries": [
+    "Germany"
+  ],
+  "place": "Reich Chancellery, Berlin, Germany",
+  "lat": 52.5115,
+  "lon": 13.3822,
+  "tags": [
+    "politics"
+  ],
+  "weight": 92,
+  "wikipedia": "Adolf Hitler's rise to power",
+  "wikidata": "Q4684105"
+}

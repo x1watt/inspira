@@ -1,0 +1,31 @@
+{
+  "id": "event-1792-09-20-battle-of-valmy",
+  "title": "French revolutionaries win the cannonade of Valmy",
+  "year": 1792,
+  "month": 9,
+  "day": 20,
+  "calendar": "gregorian",
+  "summary": "French forces under Kellermann and Dumouriez stopped the Prussian advance on Paris in an artillery duel at Valmy.",
+  "reason": "Prussia and Austria had invaded to restore Louis XVI's power.",
+  "significance": "It saved the Revolution, and the Republic was proclaimed the next day.",
+  "participants": [
+    "French Revolutionary Army",
+    "Kingdom of Prussia",
+    "Francois Christophe Kellermann",
+    "Duke of Brunswick"
+  ],
+  "countries": [
+    "France",
+    "Germany"
+  ],
+  "place": "Valmy, Marne, France",
+  "lat": 49.0833,
+  "lon": 4.7667,
+  "tags": [
+    "war",
+    "revolution"
+  ],
+  "weight": 65,
+  "wikipedia": "Battle of Valmy",
+  "wikidata": "Q4411"
+}

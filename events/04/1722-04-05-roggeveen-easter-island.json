@@ -1,0 +1,29 @@
+{
+  "id": "event-1722-04-05-roggeveen-easter-island",
+  "title": "Jacob Roggeveen reaches Easter Island",
+  "year": 1722,
+  "month": 4,
+  "day": 5,
+  "calendar": "gregorian",
+  "summary": "The Dutch explorer Jacob Roggeveen sighted a remote Pacific island on Easter Sunday and named it Easter Island; his men landed and saw its great stone statues.",
+  "reason": "Roggeveen was searching for the supposed southern continent on behalf of the Dutch West India Company.",
+  "significance": "It was the first known European contact with Rapa Nui and its moai.",
+  "participants": [
+    "Jacob Roggeveen",
+    "Rapa Nui people",
+    "Dutch West India Company"
+  ],
+  "countries": [
+    "Chile",
+    "Netherlands"
+  ],
+  "place": "Easter Island, Chile",
+  "lat": -27.1127,
+  "lon": -109.3497,
+  "tags": [
+    "exploration"
+  ],
+  "weight": 52,
+  "wikipedia": "Jacob Roggeveen",
+  "wikidata": "Q243375"
+}

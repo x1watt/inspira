@@ -1,0 +1,29 @@
+{
+  "id": "event-1895-10-08-eulmi-incident",
+  "title": "Empress Myeongseong of Korea assassinated",
+  "year": 1895,
+  "month": 10,
+  "day": 8,
+  "calendar": "gregorian",
+  "summary": "Japanese agents and Korean collaborators broke into Gyeongbokgung Palace in Seoul and murdered Queen Min, later honored as Empress Myeongseong.",
+  "reason": "Japan saw the queen as the leader of a pro-Russian faction blocking its control over Korea.",
+  "significance": "It caused outrage in Korea, drove King Gojong to seek Russian protection and deepened Korean resistance to Japan.",
+  "participants": [
+    "Empress Myeongseong",
+    "Miura Gorō",
+    "Empire of Japan",
+    "Joseon"
+  ],
+  "countries": [
+    "South Korea",
+    "Japan"
+  ],
+  "place": "Gyeongbokgung Palace, Seoul, South Korea",
+  "lat": 37.5796,
+  "lon": 126.977,
+  "tags": [
+    "politics"
+  ],
+  "weight": 55,
+  "wikipedia": "Assassination of Empress Myeongseong"
+}

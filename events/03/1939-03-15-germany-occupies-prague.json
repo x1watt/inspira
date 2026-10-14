@@ -1,0 +1,30 @@
+{
+  "id": "event-1939-03-15-germany-occupies-prague",
+  "title": "German troops occupy Prague and Bohemia-Moravia",
+  "year": 1939,
+  "month": 3,
+  "day": 15,
+  "calendar": "gregorian",
+  "summary": "German forces marched into the remaining Czech lands, and Hitler declared the Protectorate of Bohemia and Moravia from Prague Castle. Slovakia had declared itself a separate state under German protection the day before.",
+  "reason": "Hitler wanted Czech industry and territory beyond the Sudetenland he had gained at Munich, and the rump Czechoslovak state was too weak to resist.",
+  "significance": "It proved the Munich Agreement worthless and turned Britain and France toward guaranteeing Poland, which set the course for war.",
+  "participants": [
+    "Nazi Germany",
+    "Adolf Hitler",
+    "Emil Hacha",
+    "Czechoslovakia"
+  ],
+  "countries": [
+    "Czech Republic",
+    "Germany"
+  ],
+  "place": "Prague, Czech Republic",
+  "lat": 50.0755,
+  "lon": 14.4378,
+  "tags": [
+    "politics",
+    "war"
+  ],
+  "weight": 70,
+  "wikipedia": "Occupation of Czechoslovakia (1938-1945)"
+}

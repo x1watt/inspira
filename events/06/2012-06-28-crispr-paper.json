@@ -1,0 +1,29 @@
+{
+  "id": "event-2012-06-28-crispr-paper",
+  "title": "CRISPR gene editing is shown to work",
+  "year": 2012,
+  "month": 6,
+  "day": 28,
+  "calendar": "gregorian",
+  "summary": "Jennifer Doudna, Emmanuelle Charpentier and colleagues published the paper showing that CRISPR-Cas9 can be programmed to cut DNA at chosen sites.",
+  "reason": "They had been studying how bacteria use CRISPR to defend against viruses.",
+  "significance": "It made gene editing cheap and precise, and won the 2020 Nobel Prize.",
+  "participants": [
+    "Jennifer Doudna",
+    "Emmanuelle Charpentier"
+  ],
+  "countries": [
+    "United States",
+    "France"
+  ],
+  "place": "University of California, Berkeley, United States",
+  "lat": 37.8719,
+  "lon": -122.2585,
+  "tags": [
+    "science",
+    "medicine"
+  ],
+  "weight": 72,
+  "wikipedia": "CRISPR gene editing",
+  "wikidata": "Q17310682"
+}

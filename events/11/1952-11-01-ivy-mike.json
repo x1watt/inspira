@@ -1,0 +1,30 @@
+{
+  "id": "event-1952-11-01-ivy-mike",
+  "title": "The United States detonates the first hydrogen bomb",
+  "year": 1952,
+  "month": 11,
+  "day": 1,
+  "calendar": "gregorian",
+  "summary": "The United States exploded Ivy Mike, the first full scale thermonuclear device, on Elugelab island in Enewetak Atoll, which was vaporized.",
+  "reason": "After the first Soviet atomic test, Truman ordered development of a far more powerful weapon.",
+  "significance": "It raised the nuclear arms race to weapons of almost unlimited power.",
+  "participants": [
+    "United States",
+    "Edward Teller",
+    "Los Alamos"
+  ],
+  "countries": [
+    "Marshall Islands",
+    "United States"
+  ],
+  "place": "Enewetak Atoll, Marshall Islands",
+  "lat": 11.6667,
+  "lon": 162.1833,
+  "tags": [
+    "technology",
+    "war"
+  ],
+  "weight": 63,
+  "wikipedia": "Ivy Mike",
+  "wikidata": "Q248542"
+}

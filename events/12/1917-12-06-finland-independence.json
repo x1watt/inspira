@@ -1,0 +1,28 @@
+{
+  "id": "event-1917-12-06-finland-independence",
+  "title": "Finland declares independence from Russia",
+  "year": 1917,
+  "month": 12,
+  "day": 6,
+  "calendar": "gregorian",
+  "summary": "The Finnish parliament approved a declaration of independence, ending more than a century as a grand duchy of the Russian Empire.",
+  "reason": "The Russian revolutions had left a power vacuum, and Finnish leaders feared Bolshevik rule.",
+  "significance": "It founded the independent Finnish state; 6 December is its national day.",
+  "participants": [
+    "Parliament of Finland",
+    "Pehr Evind Svinhufvud"
+  ],
+  "countries": [
+    "Finland",
+    "Russia"
+  ],
+  "place": "Helsinki, Finland",
+  "lat": 60.1699,
+  "lon": 24.9384,
+  "tags": [
+    "politics"
+  ],
+  "weight": 52,
+  "wikipedia": "Finnish Declaration of Independence",
+  "wikidata": "Q1994771"
+}

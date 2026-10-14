@@ -1,0 +1,29 @@
+{
+  "id": "event-1826-06-15-auspicious-incident",
+  "title": "Sultan Mahmud II destroys the Janissary corps",
+  "year": 1826,
+  "month": 6,
+  "day": 15,
+  "calendar": "gregorian",
+  "summary": "When the Janissaries revolted against military reforms, Sultan Mahmud II had loyal troops shell their barracks in Istanbul, killing thousands and abolishing the corps.",
+  "reason": "The Janissaries had become a privileged and conservative force that blocked every attempt to modernize the Ottoman army.",
+  "significance": "It removed the main obstacle to Ottoman reform and paved the way for the Tanzimat.",
+  "participants": [
+    "Mahmud II",
+    "Janissaries",
+    "Ottoman Empire"
+  ],
+  "countries": [
+    "Turkey"
+  ],
+  "place": "Istanbul, Turkey",
+  "lat": 41.0082,
+  "lon": 28.9784,
+  "tags": [
+    "politics",
+    "war"
+  ],
+  "weight": 55,
+  "wikipedia": "Auspicious Incident",
+  "wikidata": "Q2665576"
+}

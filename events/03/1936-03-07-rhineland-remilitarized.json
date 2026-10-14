@@ -1,0 +1,30 @@
+{
+  "id": "event-1936-03-07-rhineland-remilitarized",
+  "title": "German troops reoccupy the Rhineland",
+  "year": 1936,
+  "month": 3,
+  "day": 7,
+  "calendar": "gregorian",
+  "summary": "German troops marched into the demilitarized Rhineland in breach of the Treaty of Versailles and the Locarno Treaties; France and Britain did not respond with force.",
+  "reason": "Hitler gambled that the Western powers, divided and war-weary, would not act.",
+  "significance": "Its success encouraged Hitler's later aggression and weakened France's security.",
+  "participants": [
+    "Nazi Germany",
+    "Wehrmacht",
+    "France",
+    "United Kingdom"
+  ],
+  "countries": [
+    "Germany",
+    "France"
+  ],
+  "place": "Cologne, Germany",
+  "lat": 50.9375,
+  "lon": 6.9603,
+  "tags": [
+    "war",
+    "diplomacy"
+  ],
+  "weight": 57,
+  "wikipedia": "Remilitarisation of the Rhineland"
+}

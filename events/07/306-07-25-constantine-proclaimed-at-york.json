@@ -1,0 +1,28 @@
+{
+  "id": "event-306-07-25-constantine-proclaimed-at-york",
+  "title": "Constantine is proclaimed emperor at York",
+  "year": 306,
+  "month": 7,
+  "day": 25,
+  "calendar": "julian",
+  "summary": "After the death of his father, the emperor Constantius Chlorus, the troops at Eboracum acclaimed Constantine as emperor.",
+  "reason": "The army in Britain preferred Constantine to the successor chosen under the Tetrarchy's rules.",
+  "significance": "It started the rise of the man who would reunite the empire and adopt Christianity.",
+  "participants": [
+    "Constantine the Great",
+    "Constantius Chlorus",
+    "Roman army"
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "place": "Eboracum (York), England, United Kingdom",
+  "lat": 53.96,
+  "lon": -1.0873,
+  "tags": [
+    "politics"
+  ],
+  "weight": 68,
+  "wikipedia": "Constantine the Great",
+  "wikidata": "Q8413"
+}

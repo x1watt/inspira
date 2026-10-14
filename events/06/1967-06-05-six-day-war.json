@@ -1,0 +1,33 @@
+{
+  "id": "event-1967-06-05-six-day-war",
+  "title": "Israel strikes Egypt, starting the Six-Day War",
+  "year": 1967,
+  "month": 6,
+  "day": 5,
+  "calendar": "gregorian",
+  "summary": "Israel launched surprise air strikes that destroyed most of Egypt's air force on the ground, then fought Egypt, Jordan and Syria.",
+  "reason": "Egypt had expelled UN peacekeepers, closed the Straits of Tiran and massed troops in Sinai.",
+  "significance": "Israel captured Sinai, Gaza, the West Bank, East Jerusalem and the Golan Heights, reshaping the conflict.",
+  "participants": [
+    "Israel Defense Forces",
+    "Egypt",
+    "Jordan",
+    "Syria",
+    "Moshe Dayan"
+  ],
+  "countries": [
+    "Israel",
+    "Egypt",
+    "Jordan",
+    "Syria"
+  ],
+  "place": "Sinai Peninsula, Egypt",
+  "lat": 29.5,
+  "lon": 33.8,
+  "tags": [
+    "war"
+  ],
+  "weight": 75,
+  "wikipedia": "Six-Day War",
+  "wikidata": "Q49077"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "event-1755-04-15-johnson-dictionary",
+  "title": "Samuel Johnson publishes his Dictionary",
+  "year": 1755,
+  "month": 4,
+  "day": 15,
+  "calendar": "gregorian",
+  "summary": "Samuel Johnson's A Dictionary of the English Language was published in London. It defined about 40,000 words and illustrated them with quotations from English literature.",
+  "reason": "London booksellers wanted an authoritative English dictionary comparable to those of the French and Italian academies, and hired Johnson to write it.",
+  "significance": "It shaped English lexicography and remained the standard dictionary until the Oxford English Dictionary.",
+  "participants": [
+    "Samuel Johnson"
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "place": "London, United Kingdom",
+  "lat": 51.5074,
+  "lon": -0.1278,
+  "tags": [
+    "culture"
+  ],
+  "weight": 55,
+  "wikipedia": "A Dictionary of the English Language",
+  "wikidata": "Q1210346"
+}

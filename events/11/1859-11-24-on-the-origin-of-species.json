@@ -1,0 +1,28 @@
+{
+  "id": "event-1859-11-24-on-the-origin-of-species",
+  "title": "Darwin publishes On the Origin of Species",
+  "year": 1859,
+  "month": 11,
+  "day": 24,
+  "calendar": "gregorian",
+  "summary": "Charles Darwin's book setting out the theory of evolution by natural selection was published in London by John Murray.",
+  "reason": "Darwin had developed the theory for twenty years and hurried to publish after Alfred Russel Wallace reached similar conclusions.",
+  "significance": "It founded modern biology and transformed humanity's understanding of its own origins.",
+  "participants": [
+    "Charles Darwin",
+    "John Murray",
+    "Alfred Russel Wallace"
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "place": "Albemarle Street, London, United Kingdom",
+  "lat": 51.5087,
+  "lon": -0.1418,
+  "tags": [
+    "science"
+  ],
+  "weight": 90,
+  "wikipedia": "On the Origin of Species",
+  "wikidata": "Q20124"
+}

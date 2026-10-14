@@ -1,0 +1,31 @@
+{
+  "id": "event-1897-02-18-capture-of-benin-city",
+  "title": "British forces capture Benin City",
+  "year": 1897,
+  "month": 2,
+  "day": 18,
+  "calendar": "gregorian",
+  "summary": "A British punitive expedition captured and burned Benin City, exiled the Oba Ovonramwen and looted thousands of artworks, including the Benin Bronzes.",
+  "reason": "Britain sought control over the trade of the Niger Delta region and used the killing of a British party in January as justification.",
+  "significance": "It ended the independent Kingdom of Benin, and the return of the looted bronzes is still debated today.",
+  "participants": [
+    "Kingdom of Benin",
+    "Ovonramwen",
+    "British Empire",
+    "Harry Rawson"
+  ],
+  "countries": [
+    "Nigeria",
+    "United Kingdom"
+  ],
+  "place": "Benin City, Edo, Nigeria",
+  "lat": 6.335,
+  "lon": 5.6037,
+  "tags": [
+    "war",
+    "culture"
+  ],
+  "weight": 50,
+  "wikipedia": "Benin Expedition of 1897",
+  "wikidata": "Q3966451"
+}

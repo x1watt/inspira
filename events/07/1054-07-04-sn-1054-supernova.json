@@ -1,0 +1,26 @@
+{
+  "id": "event-1054-07-04-sn-1054-supernova",
+  "title": "Astronomers record the supernova that made the Crab Nebula",
+  "year": 1054,
+  "month": 7,
+  "day": 4,
+  "calendar": "julian",
+  "summary": "Chinese astronomers of the Song court recorded a guest star bright enough to be seen in daylight for weeks. It was the explosion that left the Crab Nebula.",
+  "reason": "A massive star in the constellation Taurus ended its life in a supernova.",
+  "significance": "Its records let modern astronomers date the Crab Nebula and its pulsar exactly.",
+  "participants": [
+    "Song dynasty astronomers"
+  ],
+  "countries": [
+    "China"
+  ],
+  "place": "Kaifeng, China",
+  "lat": 34.7972,
+  "lon": 114.3076,
+  "tags": [
+    "science"
+  ],
+  "weight": 55,
+  "wikipedia": "SN 1054",
+  "wikidata": "Q32037"
+}

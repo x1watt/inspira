@@ -1,0 +1,28 @@
+{
+  "id": "event-1975-04-13-lebanese-civil-war",
+  "title": "The Lebanese Civil War begins",
+  "year": 1975,
+  "month": 4,
+  "day": 13,
+  "calendar": "gregorian",
+  "summary": "Christian Phalangist gunmen attacked a bus carrying Palestinians in the Beirut suburb of Ain el-Rummaneh, after an attack on a church. Fighting spread across Lebanon.",
+  "reason": "Tensions among religious communities and the armed Palestinian presence had undermined Lebanon's power sharing system.",
+  "significance": "The war lasted 15 years and killed about 150,000 people.",
+  "participants": [
+    "Kataeb Party",
+    "Palestine Liberation Organization",
+    "Lebanese National Movement"
+  ],
+  "countries": [
+    "Lebanon"
+  ],
+  "place": "Ain el-Rummaneh, Beirut, Lebanon",
+  "lat": 33.8622,
+  "lon": 35.5247,
+  "tags": [
+    "war"
+  ],
+  "weight": 55,
+  "wikipedia": "Lebanese Civil War",
+  "wikidata": "Q208484"
+}

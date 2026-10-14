@@ -1,0 +1,29 @@
+{
+  "id": "event-1942-02-19-executive-order-9066",
+  "title": "Roosevelt orders the removal of Japanese Americans",
+  "year": 1942,
+  "month": 2,
+  "day": 19,
+  "calendar": "gregorian",
+  "summary": "President Roosevelt signed Executive Order 9066, allowing the military to exclude people from areas of the West Coast. About 120,000 people of Japanese descent, most of them US citizens, were sent to camps.",
+  "reason": "Fear and racial prejudice after Pearl Harbor led officials to treat Japanese Americans as a security threat without evidence.",
+  "significance": "It became one of the gravest civil rights violations in US history, for which the government formally apologised in 1988.",
+  "participants": [
+    "Franklin D. Roosevelt",
+    "War Relocation Authority",
+    "Japanese Americans"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "Washington, D.C., United States",
+  "lat": 38.8977,
+  "lon": -77.0365,
+  "tags": [
+    "rights",
+    "law"
+  ],
+  "weight": 62,
+  "wikipedia": "Executive Order 9066",
+  "wikidata": "Q2159918"
+}

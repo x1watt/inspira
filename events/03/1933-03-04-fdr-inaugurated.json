@@ -1,0 +1,27 @@
+{
+  "id": "event-1933-03-04-fdr-inaugurated",
+  "title": "Franklin D. Roosevelt takes office and launches the New Deal",
+  "year": 1933,
+  "month": 3,
+  "day": 4,
+  "calendar": "gregorian",
+  "summary": "Franklin D. Roosevelt was inaugurated as US president, declaring that the only thing to fear was fear itself, and began a burst of emergency economic legislation.",
+  "reason": "The Great Depression had left a quarter of workers jobless and the banking system near collapse.",
+  "significance": "The New Deal reshaped the role of the US federal government in the economy.",
+  "participants": [
+    "Franklin D. Roosevelt"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "place": "United States Capitol, Washington, D.C., United States",
+  "lat": 38.8899,
+  "lon": -77.0091,
+  "tags": [
+    "politics",
+    "economy"
+  ],
+  "weight": 62,
+  "wikipedia": "First inauguration of Franklin D. Roosevelt",
+  "wikidata": "Q5454185"
+}

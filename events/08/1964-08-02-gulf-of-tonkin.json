@@ -1,0 +1,29 @@
+{
+  "id": "event-1964-08-02-gulf-of-tonkin",
+  "title": "The Gulf of Tonkin incident",
+  "year": 1964,
+  "month": 8,
+  "day": 2,
+  "calendar": "gregorian",
+  "summary": "North Vietnamese torpedo boats attacked the US destroyer Maddox in the Gulf of Tonkin. A second attack reported two days later probably never happened.",
+  "reason": "The Maddox was gathering intelligence near North Vietnam's coast during South Vietnamese raids.",
+  "significance": "Congress's resolution after the incident allowed the American escalation of the Vietnam War.",
+  "participants": [
+    "USS Maddox",
+    "Vietnam People's Navy",
+    "Lyndon B. Johnson"
+  ],
+  "countries": [
+    "Vietnam",
+    "United States"
+  ],
+  "place": "Gulf of Tonkin, off North Vietnam",
+  "lat": 19.7,
+  "lon": 106.7,
+  "tags": [
+    "war"
+  ],
+  "weight": 61,
+  "wikipedia": "Gulf of Tonkin incident",
+  "wikidata": "Q482402"
+}

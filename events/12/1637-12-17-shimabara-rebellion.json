@@ -1,0 +1,29 @@
+{
+  "id": "event-1637-12-17-shimabara-rebellion",
+  "title": "Shimabara Rebellion breaks out in Japan",
+  "year": 1637,
+  "month": 12,
+  "day": 17,
+  "calendar": "gregorian",
+  "summary": "Peasants and masterless samurai, many of them Christians, rose against their lord on the Shimabara Peninsula in Kyushu.",
+  "reason": "Crushing taxes during famine and the persecution of Japanese Christians drove the population to revolt.",
+  "significance": "Its suppression led the shogunate to expel the Portuguese and seal Japan off from most foreign contact.",
+  "participants": [
+    "Amakusa Shiro",
+    "Tokugawa shogunate",
+    "Matsukura Katsuie"
+  ],
+  "countries": [
+    "Japan"
+  ],
+  "place": "Shimabara Peninsula, Nagasaki, Japan",
+  "lat": 32.7881,
+  "lon": 130.37,
+  "tags": [
+    "revolution",
+    "religion"
+  ],
+  "weight": 55,
+  "wikipedia": "Shimabara Rebellion",
+  "wikidata": "Q696217"
+}

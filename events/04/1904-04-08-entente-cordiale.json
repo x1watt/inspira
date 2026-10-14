@@ -1,0 +1,30 @@
+{
+  "id": "event-1904-04-08-entente-cordiale",
+  "title": "Britain and France sign the Entente Cordiale",
+  "year": 1904,
+  "month": 4,
+  "day": 8,
+  "calendar": "gregorian",
+  "summary": "Britain and France signed a series of agreements in London settling colonial disputes, notably recognizing British control of Egypt and French influence in Morocco.",
+  "reason": "Both countries wanted to end old colonial rivalries and were increasingly wary of German power.",
+  "significance": "It ended centuries of Anglo-French hostility and laid the basis of the alliance that fought together in World War I.",
+  "participants": [
+    "United Kingdom",
+    "French Third Republic",
+    "Lord Lansdowne",
+    "Paul Cambon"
+  ],
+  "countries": [
+    "United Kingdom",
+    "France"
+  ],
+  "place": "London, United Kingdom",
+  "lat": 51.5074,
+  "lon": -0.1278,
+  "tags": [
+    "diplomacy"
+  ],
+  "weight": 62,
+  "wikipedia": "Entente Cordiale",
+  "wikidata": "Q464399"
+}

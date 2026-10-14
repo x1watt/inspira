@@ -1,0 +1,31 @@
+{
+  "id": "event-1527-05-06-sack-of-rome",
+  "title": "Mutinous imperial troops sack Rome",
+  "year": 1527,
+  "month": 5,
+  "day": 6,
+  "calendar": "julian",
+  "summary": "Unpaid soldiers of Charles V, including German Landsknechte, stormed Rome, killed thousands and looted the city while Pope Clement VII hid in Castel Sant'Angelo.",
+  "reason": "Clement VII had joined the League of Cognac against Charles V, and the emperor's army in Italy had gone unpaid and out of control.",
+  "significance": "It is often seen as the end of the High Renaissance in Rome and left the papacy under imperial influence.",
+  "participants": [
+    "Charles V, Holy Roman Emperor",
+    "Pope Clement VII",
+    "Landsknechte",
+    "Charles III, Duke of Bourbon"
+  ],
+  "countries": [
+    "Italy",
+    "Germany",
+    "Spain"
+  ],
+  "place": "Rome, Italy",
+  "lat": 41.903,
+  "lon": 12.453,
+  "tags": [
+    "war"
+  ],
+  "weight": 60,
+  "wikipedia": "Sack of Rome (1527)",
+  "wikidata": "Q465627"
+}

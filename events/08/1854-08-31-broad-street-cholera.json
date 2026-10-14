@@ -1,0 +1,29 @@
+{
+  "id": "event-1854-08-31-broad-street-cholera",
+  "title": "Broad Street cholera outbreak strikes Soho",
+  "year": 1854,
+  "month": 8,
+  "day": 31,
+  "calendar": "gregorian",
+  "summary": "A severe cholera outbreak began in Soho, London, killing more than 600 people; physician John Snow traced it to a contaminated public water pump on Broad Street.",
+  "reason": "Sewage from a cesspit near the pump had leaked into the well, at a time when most doctors blamed cholera on bad air.",
+  "significance": "Snow's mapping of the cases became a founding moment of epidemiology and of the germ theory of disease.",
+  "participants": [
+    "John Snow",
+    "Henry Whitehead"
+  ],
+  "countries": [
+    "United Kingdom"
+  ],
+  "place": "Broad Street, Soho, London, United Kingdom",
+  "lat": 51.5133,
+  "lon": -0.1366,
+  "tags": [
+    "medicine",
+    "science",
+    "disaster"
+  ],
+  "weight": 65,
+  "wikipedia": "1854 Broad Street cholera outbreak",
+  "wikidata": "Q2035019"
+}

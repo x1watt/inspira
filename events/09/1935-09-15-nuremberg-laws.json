@@ -1,0 +1,29 @@
+{
+  "id": "event-1935-09-15-nuremberg-laws",
+  "title": "Nazi Germany enacts the Nuremberg Laws",
+  "year": 1935,
+  "month": 9,
+  "day": 15,
+  "calendar": "gregorian",
+  "summary": "At the Nazi party rally in Nuremberg, the Reichstag passed laws stripping Jews of German citizenship and banning marriage between Jews and non-Jews.",
+  "reason": "The Nazi regime's racial ideology aimed to exclude Jews from German society.",
+  "significance": "It gave legal form to Nazi antisemitism and was a step toward the Holocaust.",
+  "participants": [
+    "Nazi Germany",
+    "Reichstag",
+    "Adolf Hitler"
+  ],
+  "countries": [
+    "Germany"
+  ],
+  "place": "Nuremberg, Germany",
+  "lat": 49.4521,
+  "lon": 11.0767,
+  "tags": [
+    "law",
+    "rights"
+  ],
+  "weight": 67,
+  "wikipedia": "Nuremberg Laws",
+  "wikidata": "Q27906"
+}

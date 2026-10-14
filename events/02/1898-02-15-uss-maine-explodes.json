@@ -1,0 +1,29 @@
+{
+  "id": "event-1898-02-15-uss-maine-explodes",
+  "title": "USS Maine explodes in Havana harbor",
+  "year": 1898,
+  "month": 2,
+  "day": 15,
+  "calendar": "gregorian",
+  "summary": "The American battleship Maine blew up and sank in Havana harbor, killing 266 of her crew.",
+  "reason": "The ship had been sent to protect American interests during Cuba's war of independence against Spain; the cause of the explosion is still disputed.",
+  "significance": "Blamed on Spain by the American press, it helped bring on the Spanish-American War.",
+  "participants": [
+    "United States Navy",
+    "Spanish Empire"
+  ],
+  "countries": [
+    "Cuba",
+    "United States",
+    "Spain"
+  ],
+  "place": "Havana Harbor, Havana, Cuba",
+  "lat": 23.1356,
+  "lon": -82.3556,
+  "tags": [
+    "disaster",
+    "war"
+  ],
+  "weight": 55,
+  "wikipedia": "USS Maine (1890)"
+}

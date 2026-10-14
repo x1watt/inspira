@@ -1,0 +1,32 @@
+{
+  "id": "event-1261-07-25-reconquest-of-constantinople",
+  "title": "Nicaean forces retake Constantinople",
+  "year": 1261,
+  "month": 7,
+  "day": 25,
+  "calendar": "julian",
+  "summary": "A small Nicaean force under Alexios Strategopoulos entered Constantinople while its Latin garrison was away, ending the Latin Empire.",
+  "reason": "The Empire of Nicaea had been rebuilding Byzantine power in Anatolia and Greece since the sack of 1204.",
+  "significance": "Michael VIII Palaiologos restored the Byzantine Empire, which lasted until 1453.",
+  "participants": [
+    "Empire of Nicaea",
+    "Michael VIII Palaiologos",
+    "Alexios Strategopoulos",
+    "Latin Empire",
+    "Baldwin II"
+  ],
+  "countries": [
+    "Turkey",
+    "Greece"
+  ],
+  "place": "Constantinople, Istanbul, Turkey",
+  "lat": 41.0086,
+  "lon": 28.9802,
+  "tags": [
+    "war",
+    "politics"
+  ],
+  "weight": 60,
+  "wikipedia": "Reconquest of Constantinople",
+  "wikidata": "Q1400402"
+}

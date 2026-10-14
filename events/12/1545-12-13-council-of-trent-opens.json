@@ -1,0 +1,28 @@
+{
+  "id": "event-1545-12-13-council-of-trent-opens",
+  "title": "The Council of Trent opens",
+  "year": 1545,
+  "month": 12,
+  "day": 13,
+  "calendar": "julian",
+  "summary": "Bishops and theologians met in the city of Trent for the first session of an ecumenical council that would meet on and off until 1563.",
+  "reason": "The Catholic Church needed to answer Protestant teachings and reform the abuses that had fuelled the Reformation.",
+  "significance": "Its decrees defined Catholic doctrine and practice until the twentieth century and launched the Counter-Reformation.",
+  "participants": [
+    "Pope Paul III",
+    "Catholic Church",
+    "Council of Trent"
+  ],
+  "countries": [
+    "Italy"
+  ],
+  "place": "Trento, Italy",
+  "lat": 46.067,
+  "lon": 11.121,
+  "tags": [
+    "religion"
+  ],
+  "weight": 72,
+  "wikipedia": "Council of Trent",
+  "wikidata": "Q172991"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "event-1805-10-21-battle-of-trafalgar",
+  "title": "Nelson wins the Battle of Trafalgar",
+  "year": 1805,
+  "month": 10,
+  "day": 21,
+  "calendar": "gregorian",
+  "summary": "A British fleet under Horatio Nelson defeated the combined French and Spanish fleet off Cape Trafalgar. Nelson was killed.",
+  "reason": "Napoleon's fleet was trying to gain control of the seas for operations against Britain.",
+  "significance": "It ensured British naval supremacy for a century and ended any threat of a French invasion of Britain.",
+  "participants": [
+    "Horatio Nelson",
+    "Royal Navy",
+    "Pierre-Charles Villeneuve",
+    "French Navy",
+    "Spanish Navy"
+  ],
+  "countries": [
+    "Spain",
+    "United Kingdom",
+    "France"
+  ],
+  "place": "off Cape Trafalgar, Spain",
+  "lat": 36.183,
+  "lon": -6.033,
+  "tags": [
+    "war"
+  ],
+  "weight": 80,
+  "wikipedia": "Battle of Trafalgar",
+  "wikidata": "Q171416"
+}

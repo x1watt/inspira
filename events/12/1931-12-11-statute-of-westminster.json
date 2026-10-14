@@ -1,0 +1,34 @@
+{
+  "id": "event-1931-12-11-statute-of-westminster",
+  "title": "The Statute of Westminster grants dominions full independence",
+  "year": 1931,
+  "month": 12,
+  "day": 11,
+  "calendar": "gregorian",
+  "summary": "The British Parliament passed the Statute of Westminster, giving the dominions such as Canada, Australia, New Zealand and South Africa legislative independence.",
+  "reason": "The dominions had grown into nations and demanded legal equality with Britain, as recognized in the Balfour Declaration of 1926.",
+  "significance": "It turned the British Empire into the Commonwealth of equal nations.",
+  "participants": [
+    "Parliament of the United Kingdom",
+    "Canada",
+    "Australia",
+    "New Zealand",
+    "Union of South Africa"
+  ],
+  "countries": [
+    "United Kingdom",
+    "Canada",
+    "Australia",
+    "New Zealand",
+    "South Africa"
+  ],
+  "place": "Westminster, London, United Kingdom",
+  "lat": 51.4995,
+  "lon": -0.1248,
+  "tags": [
+    "law"
+  ],
+  "weight": 52,
+  "wikipedia": "Statute of Westminster 1931",
+  "wikidata": "Q719883"
+}

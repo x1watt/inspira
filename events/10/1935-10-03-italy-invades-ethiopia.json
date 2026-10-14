@@ -1,0 +1,31 @@
+{
+  "id": "event-1935-10-03-italy-invades-ethiopia",
+  "title": "Italy invades Ethiopia",
+  "year": 1935,
+  "month": 10,
+  "day": 3,
+  "calendar": "gregorian",
+  "summary": "Italian troops crossed from Eritrea into Ethiopia without a declaration of war, beginning the Second Italo-Ethiopian War.",
+  "reason": "Mussolini sought an empire and revenge for Italy's defeat at Adwa in 1896.",
+  "significance": "The League of Nations' failure to stop the invasion discredited collective security.",
+  "participants": [
+    "Kingdom of Italy",
+    "Ethiopian Empire",
+    "Benito Mussolini",
+    "Haile Selassie"
+  ],
+  "countries": [
+    "Ethiopia",
+    "Italy",
+    "Eritrea"
+  ],
+  "place": "Mareb River, near Adwa, Ethiopia",
+  "lat": 14.1667,
+  "lon": 38.9,
+  "tags": [
+    "war"
+  ],
+  "weight": 62,
+  "wikipedia": "Second Italo-Ethiopian War",
+  "wikidata": "Q94916"
+}

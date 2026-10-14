@@ -1,0 +1,28 @@
+{
+  "id": "event-1905-01-22-bloody-sunday",
+  "title": "Bloody Sunday: troops fire on marchers in St. Petersburg",
+  "year": 1905,
+  "month": 1,
+  "day": 22,
+  "calendar": "gregorian",
+  "summary": "Imperial troops fired on a peaceful procession of workers led by the priest Georgy Gapon who were marching to the Winter Palace to petition the Tsar, killing and wounding hundreds.",
+  "reason": "Workers were suffering harsh conditions and defeat in the war with Japan had increased discontent with autocratic rule.",
+  "significance": "The massacre sparked the Russian Revolution of 1905 and destroyed popular faith in the Tsar.",
+  "participants": [
+    "Georgy Gapon",
+    "Imperial Russian Army",
+    "Nicholas II"
+  ],
+  "countries": [
+    "Russia"
+  ],
+  "place": "Winter Palace, St. Petersburg, Russia",
+  "lat": 59.9398,
+  "lon": 30.3146,
+  "tags": [
+    "revolution"
+  ],
+  "weight": 62,
+  "wikipedia": "Bloody Sunday (1905)",
+  "wikidata": "Q185642"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "event-455-06-02-sack-of-rome-455",
+  "title": "The Vandals sack Rome",
+  "year": 455,
+  "month": 6,
+  "day": 2,
+  "calendar": "julian",
+  "summary": "Vandals under Genseric entered Rome and plundered it for two weeks, carrying off treasure and the empress Licinia Eudoxia and her daughters.",
+  "reason": "The murder of Emperor Valentinian III broke the treaty with Genseric, who used the chaos to attack.",
+  "significance": "The thorough plunder gave rise to the word vandalism.",
+  "participants": [
+    "Genseric",
+    "Vandals",
+    "Pope Leo I",
+    "Western Roman Empire"
+  ],
+  "countries": [
+    "Italy",
+    "Tunisia"
+  ],
+  "place": "Rome, Italy",
+  "lat": 41.8925,
+  "lon": 12.4853,
+  "tags": [
+    "war"
+  ],
+  "weight": 65,
+  "wikipedia": "Sack of Rome (455)",
+  "wikidata": "Q1463832"
+}

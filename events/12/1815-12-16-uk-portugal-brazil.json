@@ -1,0 +1,28 @@
+{
+  "id": "event-1815-12-16-uk-portugal-brazil",
+  "title": "Brazil is raised to a kingdom equal to Portugal",
+  "year": 1815,
+  "month": 12,
+  "day": 16,
+  "calendar": "gregorian",
+  "summary": "Prince Regent John created the United Kingdom of Portugal, Brazil and the Algarves, ending Brazil's colonial status.",
+  "reason": "With the court in Rio, the crown wanted a dignified status for Brazil and a strong position at the Congress of Vienna.",
+  "significance": "It was a key step toward Brazilian independence.",
+  "participants": [
+    "John VI of Portugal",
+    "Kingdom of Portugal"
+  ],
+  "countries": [
+    "Brazil",
+    "Portugal"
+  ],
+  "place": "Rio de Janeiro, Brazil",
+  "lat": -22.9035,
+  "lon": -43.1729,
+  "tags": [
+    "politics"
+  ],
+  "weight": 55,
+  "wikipedia": "United Kingdom of Portugal, Brazil and the Algarves",
+  "wikidata": "Q903779"
+}

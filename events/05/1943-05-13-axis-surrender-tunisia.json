@@ -1,0 +1,34 @@
+{
+  "id": "event-1943-05-13-axis-surrender-tunisia",
+  "title": "Axis forces in North Africa surrender in Tunisia",
+  "year": 1943,
+  "month": 5,
+  "day": 13,
+  "calendar": "gregorian",
+  "summary": "The last German and Italian forces in Tunisia surrendered to the Allies, and about 250,000 soldiers became prisoners.",
+  "reason": "Squeezed between the British advancing from Libya and the Americans and British from Algeria, the Axis armies had no way to escape by sea.",
+  "significance": "It ended the North African campaign and opened the way for the invasion of Italy.",
+  "participants": [
+    "British First Army",
+    "British Eighth Army",
+    "US II Corps",
+    "Army Group Africa",
+    "Hans-Jurgen von Arnim"
+  ],
+  "countries": [
+    "Tunisia",
+    "Germany",
+    "Italy",
+    "United Kingdom",
+    "United States"
+  ],
+  "place": "Tunis, Tunisia",
+  "lat": 36.8065,
+  "lon": 10.1815,
+  "tags": [
+    "war"
+  ],
+  "weight": 55,
+  "wikipedia": "Tunisian campaign",
+  "wikidata": "Q852365"
+}

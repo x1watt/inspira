@@ -1,0 +1,46 @@
+{"key": "bc196-03-27-memphis-decree-rosetta", "action": "keep", "note": "Decree date 27 March 196 BC in article; Wikidata date and coords are of the stone's discovery and museum"}
+{"key": "406-12-31-crossing-of-the-rhine", "action": "keep", "note": "Date matches; Mainz is the traditional crossing site"}
+{"key": "755-12-16-an-lushan-rebellion", "action": "keep", "note": "Date matches; Fanyang was the rebellion's base, Wikidata coords are generic China"}
+{"key": "962-02-02-otto-crowned-emperor", "action": "keep", "note": "Article infobox: coronation 2 February 962"}
+{"key": "1287-12-14-st-lucias-flood", "action": "keep", "note": "Date matches; Wikidata coords are in the North Sea"}
+{"key": "1492-10-12-columbus-landfall", "action": "keep", "note": "12 October 1492 in article; Wikidata coords are generic Caribbean"}
+{"key": "1526-04-21-first-panipat", "action": "keep", "note": "Article gives 21 April 1526"}
+{"key": "1582-06-21-honnoji-incident", "action": "fix", "fields": {"wikipedia": "Honnō-ji Incident", "lat": 35.0058, "lon": 135.7539}, "note": "21 June 1582 confirmed; exact title and article coordinates"}
+{"key": "1603-04-03-union-of-the-crowns", "action": "keep", "note": "24 March 1603 Old Style is 3 April New Style"}
+{"key": "1637-02-24-joseon-surrenders-to-qing", "action": "drop", "note": "Article gives 30 January 1637 or the day after 27 January, not 24 February; day unconfirmed"}
+{"key": "1688-11-15-william-lands-at-torbay", "action": "keep", "note": "5 November 1688 Old Style is 15 November New Style; Wikidata is the revolution's end"}
+{"key": "1721-11-02-russian-empire-proclaimed", "action": "keep", "note": "Date matches; Wikidata coords are the country centroid"}
+{"key": "1765-03-22-stamp-act", "action": "keep", "note": "Passed 22 March 1765; Wikidata date is the repeal"}
+{"key": "1779-02-14-cook-killed-hawaii", "action": "keep", "note": "Cook killed 14 February 1779; Wikidata dates are the voyage span"}
+{"key": "1796-07-20-mungo-park-niger", "action": "fix", "fields": {"day": 21, "wikipedia": "Mungo Park (explorer)"}, "note": "Article: reached the Niger at Segou on 21 July 1796; title was a disambiguation"}
+{"key": "1812-06-24-napoleon-invades-russia", "action": "keep", "note": "Date matches; Kaunas is the Neman crossing, Wikidata coords are Russia centroid"}
+{"key": "1831-12-27-beagle-departs", "action": "keep", "note": "Date matches; Plymouth is the departure point"}
+{"key": "1858-08-02-government-of-india-act", "action": "keep", "note": "Royal assent 2 August 1858; Wikidata date is the takeover proclamation"}
+{"key": "1865-04-14-lincoln-assassinated", "action": "keep", "note": "Shot 14 April, died 15 April"}
+{"key": "1879-04-05-war-of-the-pacific", "action": "keep", "note": "Declaration date matches; Santiago is where it was issued"}
+{"key": "1901-12-10-first-nobel-prizes", "action": "keep", "note": "Article infobox: first awarded 10 December 1901"}
+{"key": "1908-10-01-ford-model-t", "action": "keep", "note": "Introduced 1 October 1908; Wikidata dates are first production"}
+{"key": "1913-12-01-moving-assembly-line", "action": "fix", "fields": {"month": 10, "day": 7, "summary": "Ford's moving assembly line for the Model T began operation at the Highland Park plant, eventually cutting the time to build a car from about 12 hours to about 90 minutes."}, "note": "Article: moving assembly line began operation on October 7, 1913"}
+{"key": "1915-11-25-einstein-field-equations", "action": "fix", "fields": {"wikipedia": "History of general relativity"}, "note": "25 November 1915 presentation is stated in History of general relativity"}
+{"key": "1927-05-20-lindbergh-flight", "action": "keep", "note": "Took off 20 May 1927; Wikidata date is the aircraft's first flight"}
+{"key": "1935-09-15-nuremberg-laws", "action": "keep", "note": "Enacted 15 September 1935; Wikidata date is the repeal"}
+{"key": "1938-06-09-yellow-river-flood", "action": "drop", "note": "Article says the dike was destroyed on June 5 and June 7; no single confirmed day"}
+{"key": "1939-12-13-battle-of-the-river-plate", "action": "keep", "note": "Date matches; our coords are the battle area"}
+{"key": "1940-11-16-warsaw-ghetto-sealed", "action": "fix", "fields": {"day": 15}, "note": "Article: Germans closed the ghetto on November 15, 1940"}
+{"key": "1941-09-29-babi-yar", "action": "keep", "note": "Massacre began 29 September 1941, the day it is known by"}
+{"key": "1943-07-10-invasion-of-sicily", "action": "keep", "note": "Landings on 10 July 1943, airborne drops the night before"}
+{"key": "1946-11-03-japan-constitution", "action": "keep", "note": "Promulgated 3 November 1946, in force 3 May 1947"}
+{"key": "1952-11-01-ivy-mike", "action": "keep", "note": "1 November local time, 31 October GMT"}
+{"key": "1956-07-26-suez-nationalization", "action": "keep", "note": "Nationalization speech 26 July 1956 in Alexandria; Wikidata dates are the war"}
+{"key": "1962-10-20-sino-indian-war", "action": "keep", "note": "Date matches; Namka Chu was the initial attack site"}
+{"key": "1968-07-01-npt-signed", "action": "keep", "note": "Date matches; Washington was one of three signing capitals"}
+{"key": "1973-10-06-yom-kippur-war", "action": "keep", "note": "Date matches; the Suez Canal crossing was the main Egyptian front"}
+{"key": "1977-11-19-sadat-jerusalem", "action": "fix", "fields": {"wikipedia": "1977 visit by Anwar Sadat to Jerusalem"}, "note": "19 November 1977 confirmed; dedicated article exists"}
+{"key": "1987-12-09-first-intifada", "action": "keep", "note": "Article: the Intifada began on 9 December 1987"}
+{"key": "1991-06-15-pinatubo-eruption", "action": "keep", "note": "Climactic eruption 15 June 1991"}
+{"key": "1995-07-16-amazon-launch", "action": "keep", "note": "Online store opened 16 July 1995; Wikidata date is incorporation"}
+{"key": "2001-10-07-afghanistan-invasion", "action": "keep", "note": "Date matches; Wikidata coords are country centroid"}
+{"key": "2005-04-02-death-john-paul-ii", "action": "keep", "note": "Died 2 April 2005; Wikidata date is the funeral"}
+{"key": "2011-03-15-syrian-civil-war", "action": "keep", "note": "Date matches; Wikidata coords are country centroid"}
+{"key": "2016-11-24-colombia-peace", "action": "keep", "note": "Revised agreement signed 24 November 2016 at Teatro Colon"}
+{"key": "2020-12-08-first-covid-vaccine", "action": "fix", "fields": {"wikipedia": "COVID-19 vaccination in the United Kingdom"}, "note": "Article: vaccinations began 8 December 2020 with Margaret Keenan"}

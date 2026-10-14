@@ -1,0 +1,29 @@
+{
+  "id": "event-1794-07-27-fall-of-robespierre",
+  "title": "Robespierre falls on 9 Thermidor",
+  "year": 1794,
+  "month": 7,
+  "day": 27,
+  "calendar": "gregorian",
+  "summary": "The National Convention turned on Maximilien Robespierre and his allies, who were arrested and guillotined the next day.",
+  "reason": "Deputies feared they would be the next victims of the Terror.",
+  "significance": "It ended the Reign of Terror.",
+  "participants": [
+    "Maximilien Robespierre",
+    "National Convention",
+    "Committee of Public Safety"
+  ],
+  "countries": [
+    "France"
+  ],
+  "place": "Paris, France",
+  "lat": 48.8566,
+  "lon": 2.3522,
+  "tags": [
+    "revolution",
+    "politics"
+  ],
+  "weight": 70,
+  "wikipedia": "Fall of Maximilien Robespierre",
+  "wikidata": "Q12989672"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "event-1842-08-29-treaty-of-nanking",
+  "title": "Treaty of Nanking ends the First Opium War",
+  "year": 1842,
+  "month": 8,
+  "day": 29,
+  "calendar": "gregorian",
+  "summary": "Aboard HMS Cornwallis off Nanjing, Qing officials signed a treaty ceding Hong Kong Island to Britain and opening five ports to foreign trade.",
+  "reason": "British forces had defeated the Qing in the war over the opium trade and threatened Nanjing.",
+  "significance": "It was the first of the unequal treaties that opened China to Western powers on their terms.",
+  "participants": [
+    "Qing dynasty",
+    "United Kingdom",
+    "Henry Pottinger",
+    "Qiying"
+  ],
+  "countries": [
+    "China",
+    "United Kingdom"
+  ],
+  "place": "Yangtze River off Nanjing, China",
+  "lat": 32.0603,
+  "lon": 118.7969,
+  "tags": [
+    "diplomacy",
+    "war"
+  ],
+  "weight": 75,
+  "wikipedia": "Treaty of Nanking",
+  "wikidata": "Q238262"
+}

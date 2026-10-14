@@ -1,0 +1,30 @@
+{
+  "id": "event-1954-05-07-dien-bien-phu-falls",
+  "title": "Dien Bien Phu falls to the Viet Minh",
+  "year": 1954,
+  "month": 5,
+  "day": 7,
+  "calendar": "gregorian",
+  "summary": "After a siege of nearly two months, the French garrison at Dien Bien Phu in northern Vietnam surrendered to Viet Minh forces under Vo Nguyen Giap.",
+  "reason": "France had fortified the remote valley to lure the Viet Minh into battle, but Giap surrounded it with artillery on the hills.",
+  "significance": "The defeat ended French rule in Indochina and sent shock waves through colonial empires.",
+  "participants": [
+    "Viet Minh",
+    "Vo Nguyen Giap",
+    "French Far East Expeditionary Corps",
+    "Christian de Castries"
+  ],
+  "countries": [
+    "Vietnam",
+    "France"
+  ],
+  "place": "Dien Bien Phu, Vietnam",
+  "lat": 21.386,
+  "lon": 103.023,
+  "tags": [
+    "war"
+  ],
+  "weight": 65,
+  "wikipedia": "Battle of Dien Bien Phu",
+  "wikidata": "Q604897"
+}

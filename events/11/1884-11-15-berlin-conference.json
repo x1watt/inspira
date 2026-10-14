@@ -1,0 +1,37 @@
+{
+  "id": "event-1884-11-15-berlin-conference",
+  "title": "Berlin Conference on Africa opens",
+  "year": 1884,
+  "month": 11,
+  "day": 15,
+  "calendar": "gregorian",
+  "summary": "Representatives of fourteen states met in Berlin at Bismarck's invitation to set rules for European claims to African territory.",
+  "reason": "Rival claims, especially over the Congo basin, threatened conflict among European powers racing for colonies.",
+  "significance": "It accelerated the Scramble for Africa and the partition of the continent without any African participation.",
+  "participants": [
+    "Otto von Bismarck",
+    "Leopold II of Belgium",
+    "German Empire",
+    "French Third Republic",
+    "United Kingdom",
+    "Kingdom of Portugal"
+  ],
+  "countries": [
+    "Germany",
+    "France",
+    "United Kingdom",
+    "Portugal",
+    "Belgium",
+    "Democratic Republic of the Congo"
+  ],
+  "place": "Reich Chancellery, Berlin, Germany",
+  "lat": 52.5122,
+  "lon": 13.382,
+  "tags": [
+    "diplomacy",
+    "politics"
+  ],
+  "weight": 80,
+  "wikipedia": "Berlin Conference",
+  "wikidata": "Q13582"
+}
