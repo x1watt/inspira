@@ -19,6 +19,9 @@ import '../widgets/feed_pages.dart';
 /// Reading earns XP (a quote read for 4 seconds, a story read for 12 or
 /// opened), quizzes earn more, and the daily goal keeps the streak alive.
 /// What the user lingers on, likes or skips steers the mix.
+/// Widest the feed gets; wider screens show black on both sides.
+const maxFeedWidth = 560.0;
+
 class FeedScreen extends StatefulWidget {
   const FeedScreen({super.key, this.active = true, this.random, this.now});
 
@@ -223,48 +226,55 @@ class _FeedScreenState extends State<FeedScreen> {
       data: blackTheme(),
       child: ColoredBox(
         color: Colors.black,
-        child: Stack(
-          fit: StackFit.expand,
-          children: [
-            // Desktop: drag with the mouse too, and arrow keys or space.
-            ScrollConfiguration(
-              behavior: ScrollConfiguration.of(context)
-                  .copyWith(dragDevices: PointerDeviceKind.values.toSet()),
-              child: Focus(
-                focusNode: _focus,
-                autofocus: true,
-                onKeyEvent: _onKey,
-                child: PageView.builder(
-                  controller: _pages,
-                  scrollDirection: Axis.vertical,
-                  onPageChanged: _onPageChanged,
-                  itemBuilder: (context, i) => _page(i),
+        // Phone-width column on wide screens (web, desktop), as on TikTok
+        // web; full width on phones.
+        child: Center(
+          child: ConstrainedBox(
+            constraints: const BoxConstraints(maxWidth: maxFeedWidth),
+            child: Stack(
+              fit: StackFit.expand,
+              children: [
+                // Desktop: drag with the mouse too, and arrow keys or space.
+                ScrollConfiguration(
+                  behavior: ScrollConfiguration.of(context)
+                      .copyWith(dragDevices: PointerDeviceKind.values.toSet()),
+                  child: Focus(
+                    focusNode: _focus,
+                    autofocus: true,
+                    onKeyEvent: _onKey,
+                    child: PageView.builder(
+                      controller: _pages,
+                      scrollDirection: Axis.vertical,
+                      onPageChanged: _onPageChanged,
+                      itemBuilder: (context, i) => _page(i),
+                    ),
+                  ),
                 ),
-              ),
-            ),
-            if (_heartAt case final at?)
-              _HeartBurst(key: ValueKey(_heartKey), at: at),
-            const Positioned(
-              top: 0,
-              left: 0,
-              right: 0,
-              child: SafeArea(child: _Hud()),
-            ),
-            if (_burstText case final text?)
-              Positioned(
-                top: 0,
-                right: 16,
-                child: SafeArea(
-                  child: _XpBurst(key: ValueKey(_burstKey), text: text),
+                if (_heartAt case final at?)
+                  _HeartBurst(key: ValueKey(_heartKey), at: at),
+                const Positioned(
+                  top: 0,
+                  left: 0,
+                  right: 0,
+                  child: SafeArea(child: _Hud()),
                 ),
-              ),
-            if (_celebrations.isNotEmpty)
-              _Celebration(
-                key: ValueKey(_celebrations.first),
-                milestone: _celebrations.first,
-                onDone: () => setState(_celebrations.removeFirst),
-              ),
-          ],
+                if (_burstText case final text?)
+                  Positioned(
+                    top: 0,
+                    right: 16,
+                    child: SafeArea(
+                      child: _XpBurst(key: ValueKey(_burstKey), text: text),
+                    ),
+                  ),
+                if (_celebrations.isNotEmpty)
+                  _Celebration(
+                    key: ValueKey(_celebrations.first),
+                    milestone: _celebrations.first,
+                    onDone: () => setState(_celebrations.removeFirst),
+                  ),
+              ],
+            ),
+          ),
         ),
       ),
     );

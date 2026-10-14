@@ -96,7 +96,7 @@ class _FeedFrame extends StatelessWidget {
                           // and through it, the text stays readable.
                           child: DecoratedBox(
                             decoration: BoxDecoration(
-                              color: Colors.black.withValues(alpha: 0.6),
+                              color: Colors.black.withValues(alpha: 0.72),
                               borderRadius: BorderRadius.circular(18),
                             ),
                             child: Padding(
@@ -489,7 +489,7 @@ class StoryFeedPage extends StatelessWidget {
             overflow: TextOverflow.ellipsis,
             style: const TextStyle(
               color: Colors.white,
-              fontSize: 15,
+              fontSize: 16.5,
               height: 1.45,
             ),
           ),
@@ -511,7 +511,7 @@ class StoryFeedPage extends StatelessWidget {
                     story.lesson,
                     style: const TextStyle(
                       color: Colors.white,
-                      fontSize: 14,
+                      fontSize: 15.5,
                       fontWeight: FontWeight.w600,
                     ),
                   ),
@@ -602,7 +602,7 @@ class _QuizFeedPageState extends State<QuizFeedPage> {
             overflow: TextOverflow.ellipsis,
             style: const TextStyle(
               color: Colors.white70,
-              fontSize: 15,
+              fontSize: 16,
               fontStyle: FontStyle.italic,
               height: 1.4,
             ),
@@ -707,7 +707,7 @@ class _OptionButton extends StatelessWidget {
                 text,
                 style: const TextStyle(
                   color: Colors.white,
-                  fontSize: 15,
+                  fontSize: 16,
                   fontWeight: FontWeight.w600,
                   height: 1.3,
                 ),
