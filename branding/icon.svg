@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="flame" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#FF6A00"/>
+      <stop offset="0.55" stop-color="#FFA726"/>
+      <stop offset="1" stop-color="#FFE082"/>
+    </linearGradient>
+    <linearGradient id="core" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#FFF3C4"/>
+      <stop offset="1" stop-color="#FFFFFF"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.52" r="0.5">
+      <stop offset="0" stop-color="#FF8F00" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#FF8F00" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1024" height="1024" fill="#000"/>
+  <circle cx="512" cy="520" r="400" fill="url(#glow)"/>
+  <!-- flame -->
+  <path fill="url(#flame)" d="M512 150
+    C 560 260, 700 330, 690 500
+    C 684 600, 610 660, 512 668
+    C 414 660, 340 600, 334 500
+    C 328 410, 390 360, 420 300
+    C 430 360, 455 395, 485 410
+    C 470 320, 480 230, 512 150 Z"/>
+  <path fill="url(#core)" d="M512 400
+    C 545 460, 600 500, 594 570
+    C 590 620, 555 650, 512 652
+    C 469 650, 434 620, 430 570
+    C 427 530, 455 500, 470 470
+    C 478 500, 492 515, 505 520
+    C 498 480, 500 440, 512 400 Z"/>
+  <!-- open book -->
+  <path fill="#FFFFFF" d="M512 700
+    C 430 650, 300 640, 200 668 L 200 840
+    C 300 812, 430 822, 512 872 Z"/>
+  <path fill="#E0E0E0" d="M512 700
+    C 594 650, 724 640, 824 668 L 824 840
+    C 724 812, 594 822, 512 872 Z"/>
+  <path fill="none" stroke="#000" stroke-width="10" d="M512 700 L 512 872"/>
+</svg>

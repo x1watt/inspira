@@ -101,7 +101,7 @@ always shows the same picture.
 | `lib/data/quiz_generator.dart` | questions made from the data: who said this, what is the lesson, what did the study show, when did it happen |
 | `lib/data/feed_engine.dart` | the endless feed: which card comes next |
 | `lib/app_scope.dart` | `AppData` (everything loaded at startup) in an `InheritedWidget`, inserted by `MaterialApp.builder` above the Navigator so pushed routes see it |
-| `lib/screens/` | Feed (home), Quotes (categories, list with search), Stories (story of the day, categories, list with kind filter and search), Favorites, Me (streak, goal, levels, credits), single quote, single story |
+| `lib/screens/` | Feed (home), Quiz (the feed in quiz mode), Quotes (categories, list with search), Stories (story of the day, categories, list with kind filter and search), Favorites, Me (streak, goal, levels, credits), single quote, single story |
 | `lib/widgets/` | feed pages (quote, story, quiz) with the action rail, `ArtBackground`, `Confetti`, `QuoteCard`, `StoryCard`, `ItemActions`, quote and story tiles and lists |
 
 ## 4. Feed and rewards
@@ -123,8 +123,11 @@ the next card; `FeedScreen` measures reading time and hands out XP.
   not shown yet are dropped and planned again, so a like shows in the
   very next card.
 - Each (kind, category) has its own shuffled queue; unseen items first.
-- A quiz every 4 to 7 cards (random gap). Due reviews first, then a card
-  from this session.
+- A quiz every 3 to 8 cards (random gap). Due reviews first, then a card
+  from this session, then anything seen before.
+- Quiz tab: the same feed screen with `quizOnly`, a question on every
+  card. Due reviews first; then half the time something seen before,
+  half the time a new item picked like a feed card.
 - XP: quote read 4 s: 2; story read 12 s or opened in full: 5; right quiz
   answer: 10, or 20 from the third right answer in a row. Each card pays
   once per session.

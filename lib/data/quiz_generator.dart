@@ -116,7 +116,8 @@ class QuizGenerator {
   /// "When did this happen?" with dates at least a century away, so the
   /// question tests the era rather than the exact year.
   Quiz? _forDate(Story s, Random random) {
-    final year = s.year!;
+    final year = s.year;
+    if (year == null || s.date.isEmpty) return null;
     final others = [
       for (final h in _history)
         if ((h.year! - year).abs() >= 100) h.date,

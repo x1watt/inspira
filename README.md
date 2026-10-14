@@ -9,7 +9,7 @@ Runs on Android, Linux, Windows, macOS and the web. Use it in the browser:
 https://x1watt.github.io/inspira/
 
 Features: a full-screen feed (swipe up) of quotes, stories, history and
-studies over public domain art, with quick quizzes, XP, levels per
+studies over public domain art, with quizzes popping up between cards and a Quiz tab of questions only, XP, levels per
 category, a daily goal and a streak; story of the day, browse and search by
 category, favorites, copy and share.
 
@@ -46,3 +46,7 @@ Pages (`.github/workflows/pages.yml`).
 To start the last Linux build without compiling: `./launch-linux.sh`.
 
 Tests: `flutter test`.
+
+App icon: `branding/icon.svg`, with a 1024 px render in `branding/`. The
+web icons and Android launcher icons (`mipmap-*`, adaptive icon in
+`mipmap-anydpi-v26`) are resized from that render.

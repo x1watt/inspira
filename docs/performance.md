@@ -30,7 +30,9 @@ method next to each number.
    pages only. Avatars are 256 px.
 8. Picking the next feed card costs O(kinds + categories): each (kind,
    category) has its own queue, shuffled once on first use. Replanning
-   after a like or skip drops at most the two cards planned ahead.
+   after a like or skip drops at most the two cards planned ahead. A quiz
+   from earlier sessions scans the seen ids (capped at 4000) once per quiz,
+   which is every 3 to 8 cards in the feed.
 9. `ProgressStore` writes its JSON on XP, quiz and goal changes only.
    Marking a card seen or nudging weights stays in memory until the next
    write, so a swipe never encodes the seen list.

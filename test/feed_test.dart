@@ -87,7 +87,7 @@ void main() {
     expect(who.options[who.answer], 'Author 3');
   });
 
-  test('starts with a random story and quizzes every 4 to 7 cards', () {
+  test('starts with a random story and quizzes every 3 to 8 cards', () {
     final openers = {
       for (var seed = 0; seed < 20; seed++)
         (engine(seed).cardAt(0) as StoryFeedCard).story.id,
@@ -100,7 +100,7 @@ void main() {
     ];
     expect(quizAt, isNotEmpty);
     for (var i = 1; i < quizAt.length; i++) {
-      expect(quizAt[i] - quizAt[i - 1], inInclusiveRange(4, 7));
+      expect(quizAt[i] - quizAt[i - 1], inInclusiveRange(3, 8));
     }
   });
 
@@ -152,6 +152,21 @@ void main() {
     }
 
     expect(share(4), greaterThan(share(1) * 1.6));
+  });
+
+  test('quiz mode asks a question on every card, even for a new user', () {
+    final e = FeedEngine(
+      quotes: quotes,
+      stories: stories,
+      progress: progress,
+      quizzes: quizzes,
+      random: Random(9),
+      quizOnly: true,
+    );
+    final ids = [
+      for (var i = 0; i < 20; i++) (e.cardAt(i) as QuizFeedCard).quiz.itemId,
+    ];
+    expect(ids.toSet().length, greaterThan(10));
   });
 
   test('wrong answers come back as reviews', () {

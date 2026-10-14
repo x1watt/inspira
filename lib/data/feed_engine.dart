@@ -59,9 +59,9 @@ class QuizFeedCard extends FeedCard {
 ///   yet, so a like shows up in the very next card.
 /// - Unseen items come first; each (kind, category) has its own shuffled
 ///   queue, so picking a card costs O(categories), not O(items).
-/// - A quiz comes every 4 to 7 cards (an unpredictable gap keeps it a small
+/// - A quiz comes every 3 to 8 cards (an unpredictable gap keeps it a small
 ///   surprise), first from reviews that are due, else from a card seen
-///   earlier in this session.
+///   earlier in this session or before. With [quizOnly] every card is one.
 class FeedEngine {
   FeedEngine({
     required this.quotes,
@@ -69,6 +69,7 @@ class FeedEngine {
     required this.progress,
     required this.quizzes,
     Random? random,
+    this.quizOnly = false,
   }) : _random = random ?? Random() {
     _untilQuiz = _quizGap();
   }
@@ -89,6 +90,9 @@ class FeedEngine {
   static const _boostDecay = 0.9;
 
   final ProgressStore progress;
+
+  /// Quiz tab: every card is a question.
+  final bool quizOnly;
   final QuizGenerator quizzes;
   final QuoteRepository quotes;
   final StoryRepository stories;
@@ -104,7 +108,7 @@ class FeedEngine {
   final _boost = <String, double>{};
   late int _untilQuiz;
 
-  int _quizGap() => 4 + _random.nextInt(4);
+  int _quizGap() => 3 + _random.nextInt(6);
 
   FeedCard cardAt(int index) {
     while (_cards.length <= index) {
@@ -140,7 +144,10 @@ class FeedEngine {
   double _weight(String key) => progress.weight(key) * (_boost[key] ?? 1);
 
   FeedCard _next() {
-    if (_cards.isEmpty) {
+    if (quizOnly) {
+      if (_nextQuiz() case final quiz?) return quiz;
+    }
+    if (_cards.isEmpty && !quizOnly) {
       for (var tries = 0; tries < 8; tries++) {
         final kind = _openers[_random.nextInt(_openers.length)];
         final card = _content(kind, _pickCategory());
@@ -179,18 +186,39 @@ class FeedEngine {
         return QuizFeedCard(q, review: true);
       }
     }
-    // Something from this session, not the card just shown.
-    final candidates = [
+    for (var tries = 0; tries < 8; tries++) {
+      final id = _quizCandidate();
+      if (id == null) return null;
+      _quizzed.add(id);
+      final q = quizzes.forId(id, _random);
+      if (q != null) return QuizFeedCard(q, review: false);
+    }
+    return null;
+  }
+
+  /// What to ask about: a card from this session (not one of the last two
+  /// shown), else anything seen before. In quiz mode, half the questions
+  /// are about something new, picked like a feed card.
+  String? _quizCandidate() {
+    if (quizOnly && _random.nextBool()) return _anyItem();
+    final session = [
       for (var i = 0; i < _sessionSeen.length - 2; i++)
         if (!_quizzed.contains(_sessionSeen[i])) _sessionSeen[i],
     ];
-    if (candidates.isEmpty) return null;
-    final id = candidates[_random.nextInt(candidates.length)];
-    final q = quizzes.forId(id, _random);
-    if (q == null) return null;
-    _quizzed.add(id);
-    return QuizFeedCard(q, review: false);
+    if (session.isNotEmpty) return session[_random.nextInt(session.length)];
+    final earlier = [
+      for (final id in progress.seen)
+        if (!_quizzed.contains(id) && !_sessionSeen.contains(id)) id,
+    ];
+    if (earlier.isNotEmpty) return earlier[_random.nextInt(earlier.length)];
+    return quizOnly ? _anyItem() : null;
   }
+
+  String? _anyItem() => switch (_content(_pickKind(), _pickCategory())) {
+    QuoteFeedCard(:final quote) => quote.id,
+    StoryFeedCard(:final story) => story.id,
+    _ => null,
+  };
 
   String _pickKind() => _weighted(
     kinds,

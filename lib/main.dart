@@ -89,18 +89,19 @@ class _Shell extends StatefulWidget {
 class _ShellState extends State<_Shell> {
   int _tab = 0;
 
-  static const _titles = ['', 'Quotes', 'Stories', 'Favorites', 'Me'];
+  static const _titles = ['', '', 'Quotes', 'Stories', 'Favorites', 'Me'];
 
   @override
   Widget build(BuildContext context) {
-    final feed = _tab == 0;
+    // Feed and Quiz are full screen; the other tabs get a normal app bar.
+    final fullScreen = _tab <= 1;
     return Scaffold(
-      // The feed is full screen; the other tabs get a normal app bar.
-      appBar: feed ? null : AppBar(title: Text(_titles[_tab])),
+      appBar: fullScreen ? null : AppBar(title: Text(_titles[_tab])),
       body: IndexedStack(
         index: _tab,
         children: [
-          FeedScreen(active: feed),
+          FeedScreen(active: _tab == 0),
+          FeedScreen(active: _tab == 1, quizOnly: true),
           const CategoriesScreen(),
           const StoriesScreen(),
           const FavoritesScreen(),
@@ -115,6 +116,11 @@ class _ShellState extends State<_Shell> {
             icon: Icon(Icons.play_circle_outline),
             selectedIcon: Icon(Icons.play_circle),
             label: 'Feed',
+          ),
+          NavigationDestination(
+            icon: Icon(Icons.psychology_alt_outlined),
+            selectedIcon: Icon(Icons.psychology_alt),
+            label: 'Quiz',
           ),
           NavigationDestination(
             icon: Icon(Icons.format_quote_outlined),

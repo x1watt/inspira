@@ -23,10 +23,19 @@ import '../widgets/feed_pages.dart';
 const maxFeedWidth = 560.0;
 
 class FeedScreen extends StatefulWidget {
-  const FeedScreen({super.key, this.active = true, this.random, this.now});
+  const FeedScreen({
+    super.key,
+    this.active = true,
+    this.quizOnly = false,
+    this.random,
+    this.now,
+  });
 
   /// False while another tab is shown; reading time then stops counting.
   final bool active;
+
+  /// The Quiz tab: the same feed with a question on every card.
+  final bool quizOnly;
 
   /// For tests.
   final Random? random;
@@ -76,6 +85,7 @@ class _FeedScreenState extends State<FeedScreen> {
       progress: scope.progress,
       quizzes: QuizGenerator(scope.repository.quotes, scope.stories.stories),
       random: widget.random,
+      quizOnly: widget.quizOnly,
     );
     _show(0);
   }
@@ -278,7 +288,7 @@ class _FeedScreenState extends State<FeedScreen> {
                       .copyWith(dragDevices: PointerDeviceKind.values.toSet()),
                   child: Focus(
                     focusNode: _focus,
-                    autofocus: true,
+                    autofocus: widget.active,
                     onKeyEvent: _onKey,
                     child: NotificationListener<ScrollNotification>(
                       onNotification: _onInnerScroll,
