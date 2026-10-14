@@ -1,0 +1,15 @@
+{
+  "id": "story-grameen-bank-groups",
+  "category": "team",
+  "kind": "history",
+  "title": "Grameen Bank's Lending Groups",
+  "text": "In 1974 a famine struck Bangladesh. Muhammad Yunus, an economics professor at Chittagong University, felt that his theories had nothing to say to the starving people near his campus. He began visiting the nearby village of Jobra.\n\nThere he met women who made bamboo stools. They had to borrow money for materials from a trader who then bought the stools back at a price that left them almost nothing. In his book Banker to the Poor, Yunus says he made a list of people in the village caught in this trap: there were 42 of them, and together they needed only 27 dollars. He lent them the money himself.\n\nBanks refused to lend to the poor without collateral, so Yunus began acting as guarantor, and he developed a system that relied on groups instead of property. Borrowers, most of them women, formed groups of five. Only two members would receive loans at first; the others got theirs only after the first ones had kept up repayments. Groups met weekly with bank workers, and members encouraged and supported each other. Repayment rates were high.\n\nIn 1983 a government ordinance made Grameen, \"village\" in Bengali, an independent bank, owned largely by its borrowers. The group model spread to many countries. In 2006 Yunus and the Grameen Bank shared the Nobel Peace Prize.",
+  "lesson": "Small groups of peers who support and vouch for each other can unlock trust that formal rules cannot. Shared responsibility can stand in for collateral.",
+  "people": "Muhammad Yunus",
+  "date": "1976 to 1983",
+  "year": 1976,
+  "location": "Jobra, Chittagong, Bangladesh",
+  "source": "Muhammad Yunus, Banker to the Poor (1998)",
+  "basis": "documented",
+  "caveat": "Later randomized studies of microcredit found only modest average effects on poverty, and Yunus's early figures come from his own account."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "story-wuchty-jones-uzzi-team-science-2007",
+  "category": "team",
+  "kind": "study",
+  "title": "The Rise of Teams in Science",
+  "text": "The image of the lone genius still shapes how people think about discovery. In 2007, Stefan Wuchty, Benjamin Jones and Brian Uzzi of Northwestern University tested that image against the record.\n\nThey analyzed millions of research papers published over about five decades in the sciences, social sciences, and arts and humanities, along with millions of US patents. For each, they counted the number of authors or inventors and looked at how often the work was later cited by others.\n\nThe share of work produced by teams rose steadily across nearly every field. In science and engineering, team papers had become the large majority, and average team size kept growing. Even in the social sciences, the trend toward teams was clear, and in patents it was similar.\n\nTeams also increasingly produced the most influential work. In earlier decades, single authors were relatively more likely to write the most cited papers. By the end of the period, team-authored papers were far more likely to become highly cited, including the rare papers that become landmarks. The authors argued that knowledge had become so specialized that the most important contributions increasingly came from combining expertise.",
+  "lesson": "Big problems now need several kinds of expertise at once. Learn to collaborate well, because the most valued work is increasingly done in teams.",
+  "people": "Stefan Wuchty, Benjamin Jones, Brian Uzzi",
+  "date": "2007",
+  "year": 2007,
+  "location": "Northwestern University, Evanston, USA",
+  "source": "Wuchty, S., Jones, B. F., and Uzzi, B. (2007). The increasing dominance of teams in production of knowledge. Science, 316(5827), 1036-1039.",
+  "basis": "study"
+}

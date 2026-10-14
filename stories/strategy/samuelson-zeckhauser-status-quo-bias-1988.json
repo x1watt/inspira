@@ -1,0 +1,14 @@
+{
+  "id": "story-samuelson-zeckhauser-status-quo-bias-1988",
+  "category": "strategy",
+  "kind": "study",
+  "title": "Status Quo Bias",
+  "text": "In 1988 the economists William Samuelson and Richard Zeckhauser published a long study of a simple question: does it matter which option is presented as the one you already have?\n\nIn questionnaire experiments, they asked students to imagine they had inherited a large sum of money and had to choose how to invest it among several options, such as a moderate-risk company, a high-risk company, treasury bills and municipal bonds. Some participants simply chose. Others were told that the money was already invested in one of the options and that they could switch at no cost. Whichever option was described as the current holding was chosen far more often, whatever it happened to be.\n\nThey then looked at real decisions. When Harvard University added new health insurance plans for its staff, newly hired employees chose among all plans freely, while existing employees could switch but mostly stayed in the plan they already had, even when newcomers clearly preferred the new options. Similar patterns showed up in retirement plan choices.\n\nSamuelson and Zeckhauser named the effect status quo bias. They traced it to several causes: the costs of thinking and switching, the regret people expect to feel if a change turns out badly, and the wish to stay consistent with past choices. The pattern helped explain why defaults have such strong effects in policy and business.",
+  "lesson": "Review the arrangements you inherited, your plans, subscriptions and routines, as if you were choosing them today. Staying put is also a decision, and it deserves the same scrutiny as a change.",
+  "people": "William Samuelson, Richard Zeckhauser",
+  "date": "1988",
+  "year": 1988,
+  "location": "Boston University and Harvard University, USA",
+  "source": "Samuelson, W., and Zeckhauser, R. (1988). Status quo bias in decision making. Journal of Risk and Uncertainty, 1(1), 7-59.",
+  "basis": "study"
+}

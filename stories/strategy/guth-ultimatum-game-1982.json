@@ -1,0 +1,14 @@
+{
+  "id": "story-guth-ultimatum-game-1982",
+  "category": "strategy",
+  "kind": "study",
+  "title": "The Ultimatum Game",
+  "text": "In 1982 the German economists Werner Guth, Rolf Schmittberger and Bernd Schwarze published an experiment that became one of the most studied games in economics.\n\nStudents at the University of Cologne were paired anonymously. One, the proposer, was given a sum of money and had to offer some share of it to the other, the responder. The responder could accept, and the money was divided as proposed, or reject, and then neither got anything. There was no negotiation and no second round.\n\nStandard economic theory gives a clear answer. A responder who only cares about money should accept any offer above zero, since something beats nothing. Knowing this, a proposer should offer the smallest possible amount. That is not what happened. The most common offer was an even split, and many offers were close to it. And responders did reject low offers, giving up real money to deny the proposer an unfair gain. A week later, when the same students played again, behavior moved somewhat toward the theory, but fairness still mattered.\n\nThe ultimatum game has since been played thousands of times around the world, with higher stakes, in many cultures and in small-scale societies. Average offers vary between cultures, but the basic pattern holds nearly everywhere: people punish offers they see as unfair, and proposers who anticipate this offer more.",
+  "lesson": "In any deal, the other side's sense of fairness is part of the math. An offer that is legally acceptable but feels insulting may cost you the whole agreement.",
+  "people": "Werner Guth, Rolf Schmittberger, Bernd Schwarze",
+  "date": "1982",
+  "year": 1982,
+  "location": "University of Cologne, Germany",
+  "source": "Guth, W., Schmittberger, R., and Schwarze, B. (1982). An experimental analysis of ultimatum bargaining. Journal of Economic Behavior and Organization, 3(4), 367-388.",
+  "basis": "study"
+}

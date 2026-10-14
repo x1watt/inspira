@@ -1,0 +1,14 @@
+{
+  "id": "story-smallpox-surveillance-containment",
+  "category": "strategy",
+  "kind": "history",
+  "title": "Smallpox and the Ring Strategy",
+  "text": "When the World Health Organization launched its intensified campaign to eradicate smallpox in 1967, the standard approach was mass vaccination: immunize so much of the population that the disease could no longer spread. In many poor and densely populated countries, that goal seemed out of reach.\n\nIn December 1966 the American epidemiologist William Foege was working in eastern Nigeria when an outbreak began. Vaccine was short, and there was not enough to vaccinate everyone. Foege and his colleagues used a network of missionaries and their radio contacts to find out where cases were appearing. They then concentrated their vaccine on the people around each case and in the villages where the disease was likely to spread next. The outbreak stopped, even though only a small part of the population had been vaccinated.\n\nThe approach became known as surveillance and containment. Under D. A. Henderson, the WHO program made it central to the campaign: find every case quickly through reporting and searches, isolate the patient, and vaccinate the contacts and their contacts, building a ring of immunity around each outbreak. Mass vaccination continued too, but the targeted strategy made eradication possible in places where full coverage could not be reached.\n\nThe last natural case of smallpox was a hospital cook, Ali Maow Maalin, in Merca, Somalia, in October 1977. In 1980 the World Health Assembly declared smallpox eradicated, the first human disease to be wiped out.",
+  "lesson": "When you cannot cover everything, put your resources where the problem actually is. Good information about where to act can matter more than the size of your effort.",
+  "people": "William Foege, D. A. Henderson, Ali Maow Maalin",
+  "date": "1966 to 1980",
+  "year": 1967,
+  "location": "Nigeria, India, Somalia and worldwide",
+  "source": "F. Fenner, D. A. Henderson, I. Arita, Z. Jezek and I. D. Ladnyi, Smallpox and its Eradication (WHO, 1988); William Foege, House on Fire (2011)",
+  "basis": "documented"
+}

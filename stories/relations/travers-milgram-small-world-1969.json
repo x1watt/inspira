@@ -1,0 +1,15 @@
+{
+  "id": "story-travers-milgram-small-world-1969",
+  "category": "relations",
+  "kind": "study",
+  "title": "Six Degrees from Nebraska to Boston",
+  "text": "How many acquaintances separate any two people in a large country? In the 1960s Stanley Milgram, then at Harvard, set out to measure it. The 1969 paper with Jeffrey Travers describes the best known version.\n\nNearly three hundred people received a folder about the study. Most lived in Nebraska; the rest lived in the Boston area. Each was given the name and some details of a target person, a stockbroker who lived in Sharon, Massachusetts, and worked in Boston. The rule was simple: if you know the target personally, send him the folder. If not, send it to a friend or acquaintance you know on a first-name basis who is more likely to know him. Each person who forwarded the folder also mailed a postcard to the researchers, so they could trace the chain.\n\nMost chains died out along the way. But 64 folders reached the stockbroker, and those that arrived had passed through a strikingly short number of hands: about five intermediaries on average. Many of the final steps passed through a few well-connected people who knew the target. The result gave rise to the phrase \"six degrees of separation,\" and to the idea that even a huge society is a small world.",
+  "lesson": "You are only a few introductions away from almost anyone. When you need to reach someone, ask the people you know who they know.",
+  "people": "Jeffrey Travers, Stanley Milgram",
+  "date": "1969",
+  "year": 1969,
+  "location": "Nebraska and Boston, USA",
+  "source": "Travers, J., and Milgram, S. (1969). An experimental study of the small world problem. Sociometry, 32(4), 425-443.",
+  "basis": "study",
+  "caveat": "Most chains never reached the target, and critics have argued that the average was based on a small and possibly unrepresentative set of completed chains."
+}

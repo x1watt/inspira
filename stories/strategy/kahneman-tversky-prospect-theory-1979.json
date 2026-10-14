@@ -1,0 +1,14 @@
+{
+  "id": "story-kahneman-tversky-prospect-theory-1979",
+  "category": "strategy",
+  "kind": "study",
+  "title": "Prospect Theory: Why Losses Hurt More",
+  "text": "Classical economics assumed that people weigh choices by how much total wealth each option leaves them with. In the 1970s Daniel Kahneman and Amos Tversky tested that assumption with simple questions put to students and university staff, asking people to choose between sure things and gambles.\n\nThe answers showed a striking pattern. Offered a sure gain or a gamble with the same expected value, most people took the sure gain. But when the same choice was turned into losses, a sure loss against a gamble that might lose more or nothing at all, most people took the gamble. They were cautious when winning and willing to take risks to avoid losing.\n\nKahneman and Tversky concluded that people do not judge outcomes by final wealth. They judge them as gains or losses from a reference point, usually where they stand now or where they expected to be. And losses loom larger than gains: losing a sum of money hurts more than winning the same sum pleases. They also found that people overweight small probabilities and underweight outcomes that are merely probable compared with ones that are certain.\n\nThey published the model as prospect theory in Econometrica in 1979. It became one of the most cited papers in economics and the backbone of behavioral economics. In 2002 Kahneman received the Nobel Memorial Prize in Economic Sciences for this work; Tversky had died in 1996.",
+  "lesson": "When a choice feels painful, ask whether you are judging it against an arbitrary reference point. Taking big risks just to avoid admitting a small loss is often how a small loss becomes a large one.",
+  "people": "Daniel Kahneman, Amos Tversky",
+  "date": "1979",
+  "year": 1979,
+  "location": "Israel, Sweden and USA (student and faculty respondents)",
+  "source": "Kahneman, D., and Tversky, A. (1979). Prospect theory: An analysis of decision under risk. Econometrica, 47(2), 263-291.",
+  "basis": "study"
+}

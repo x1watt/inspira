@@ -1,0 +1,15 @@
+{
+  "id": "story-petrov-false-alarm-1983",
+  "category": "strategy",
+  "kind": "history",
+  "title": "Stanislav Petrov Doubts the Alarm",
+  "text": "On the night of 26 September 1983, relations between the Soviet Union and the United States were at their worst in decades. Only weeks earlier the Soviets had shot down a Korean airliner. Lieutenant Colonel Stanislav Petrov was the duty officer at Serpukhov-15, a command center near Moscow that monitored the new Oko satellite system for warning of American missile launches.\n\nShortly after midnight the alarms went off. The system reported that a Minuteman missile had been launched from the United States, then more, up to five. The screens showed the warning in large letters. Petrov's task was to report to his superiors, who could then decide on a response within minutes.\n\nPetrov judged that the alarm was probably false. He later explained his reasoning in interviews. An American first strike, he thought, would involve hundreds of missiles, not five. The satellite system was new and he did not fully trust it. And the ground radars, which would detect real missiles once they rose over the horizon, had shown nothing. He reported a system malfunction instead of an attack. Minutes passed, and no missiles arrived.\n\nInvestigation later showed that the satellites had mistaken sunlight reflecting off high clouds for the flare of rocket launches. Petrov received no reward at the time, and the incident remained secret until the 1990s, after which he was honored internationally.",
+  "lesson": "Automated systems and alarms are tools, not oracles. When a signal does not fit what you know about the situation, check it before you act on it.",
+  "people": "Stanislav Petrov",
+  "date": "26 September 1983",
+  "year": 1983,
+  "location": "Serpukhov-15, near Moscow (Russia)",
+  "source": "Stanislav Petrov's interviews (for example, BBC, 2013); David E. Hoffman, The Dead Hand (2009)",
+  "basis": "documented",
+  "caveat": "Some argue that Soviet procedure would have required further confirmation before any launch, so Petrov's call may not have been the only safeguard."
+}

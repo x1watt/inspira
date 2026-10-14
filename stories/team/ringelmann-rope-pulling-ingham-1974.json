@@ -1,0 +1,14 @@
+{
+  "id": "story-ringelmann-rope-pulling-ingham-1974",
+  "category": "team",
+  "kind": "study",
+  "title": "Pulling on a Rope Together",
+  "text": "Maximilien Ringelmann was a French agricultural engineer interested in how to get the most work out of people, horses and machines. In experiments he reported in 1913, he had men pull on a rope attached to a gauge, first alone and then in groups. The group total rose as people were added, but far less than the sum of their separate efforts. The more people on the rope, the less each one seemed to contribute.\n\nRingelmann's finding could have two causes: people slacking off, or simple coordination problems, since many people never pull at exactly the same moment or in exactly the same direction. In 1974 Alan Ingham and colleagues at the University of Massachusetts set out to separate the two.\n\nThey rebuilt the rope task and added a trick. Participants were blindfolded and told that others were pulling behind them, when in fact the others were confederates who only pretended. With no coordination to lose, any drop in force had to come from reduced effort. It did. People pulled less hard when they believed others were pulling with them, with most of the drop appearing once one or two others were added.\n\nThe decline that Ringelmann saw was not only clumsy teamwork. Part of it was motivation quietly leaking away in a crowd.",
+  "lesson": "Adding people to a task does not add their full effort. Keep groups small enough that each person feels their pull matters.",
+  "people": "Maximilien Ringelmann; Alan Ingham, George Levinger, James Graves, Vaughn Peckham",
+  "date": "1913; 1974",
+  "year": 1913,
+  "location": "France; University of Massachusetts, Amherst, USA",
+  "source": "Ringelmann, M. (1913). Recherches sur les moteurs animes: Travail de l'homme. Annales de l'Institut National Agronomique. Ingham, A. G., Levinger, G., Graves, J., and Peckham, V. (1974). The Ringelmann effect: Studies of group size and group performance. Journal of Experimental Social Psychology, 10.",
+  "basis": "study"
+}

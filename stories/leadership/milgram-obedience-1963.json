@@ -1,0 +1,15 @@
+{
+  "id": "story-milgram-obedience-1963",
+  "category": "leadership",
+  "kind": "study",
+  "title": "The Shock Machine at Yale",
+  "text": "In the early 1960s the Yale psychologist Stanley Milgram placed a newspaper advertisement asking for men to take part in a study of memory and learning. Each volunteer was told he would be the \"teacher.\" Another man, secretly an actor, was strapped into a chair in the next room as the \"learner.\" Every time the learner gave a wrong answer, the teacher had to press a switch on a large machine that seemed to deliver an electric shock, rising in steps of 15 volts up to 450 volts, a level marked with warnings.\n\nNo real shocks were given, but the volunteers did not know that. At 300 volts the learner pounded on the wall, and after 315 volts he fell silent and gave no more answers. When a volunteer hesitated, a calm experimenter in a gray coat used a set of scripted prods, such as \"Please continue\" and \"The experiment requires that you continue.\"\n\nBefore the study, Yale psychology students whom Milgram surveyed predicted that almost nobody would go to the end. In fact 26 of the 40 men, 65 percent, pressed every switch up to the maximum. Many sweated, trembled or laughed nervously, and several protested, yet they kept going when the man in charge calmly told them to.\n\nMilgram later ran many variations. Obedience fell sharply when the experimenter gave orders by phone, when the volunteer had to touch the learner, or when two other \"teachers\" refused to continue.",
+  "lesson": "People will do things on your instruction that they would never do alone. If you give the orders, own them fully, and make it easy for others to refuse a wrong one.",
+  "people": "Stanley Milgram",
+  "date": "1963",
+  "year": 1963,
+  "location": "Yale University, New Haven, USA",
+  "source": "Milgram, S. (1963). Behavioral study of obedience. Journal of Abnormal and Social Psychology, 67(4), 371-378.",
+  "basis": "study",
+  "caveat": "Later analysis of Milgram's archives suggests many participants doubted the shocks were real and that the prods were not always delivered as scripted, so the exact rate is debated."
+}

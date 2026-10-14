@@ -1,0 +1,14 @@
+{
+  "id": "story-huckman-pisano-surgeons-firm-specific-2006",
+  "category": "team",
+  "kind": "study",
+  "title": "Surgeons and Their Home Hospital",
+  "text": "Is a skilled professional's performance something they carry around with them, or does part of it belong to the team and place where they work? Robert Huckman and Gary Pisano of Harvard Business School tested this with heart surgeons.\n\nThey used state data from Pennsylvania on coronary artery bypass operations in the mid-1990s. Many cardiac surgeons in the state operated at more than one hospital, which allowed the researchers to compare how the same surgeon did in different places. They looked at risk-adjusted death rates among patients.\n\nA surgeon's results at a given hospital improved with the number of operations that surgeon had recently performed at that same hospital. The surgeon's volume at other hospitals did little to improve outcomes at this one. In other words, practice helped, but mostly where it happened.\n\nThe authors argued that a surgeon's performance depends partly on familiarity with a particular team of nurses, anesthetists and other staff, and with that hospital's routines and equipment. Experience gained elsewhere did not fully transfer, because some of the skill lived in the relationships and systems of a specific workplace, not only in the surgeon's hands.",
+  "lesson": "Much of your skill is built with the people you work with. Value long-standing teammates, and expect a dip when you move to a new team.",
+  "people": "Robert Huckman, Gary Pisano",
+  "date": "2006",
+  "year": 2006,
+  "location": "Hospitals in Pennsylvania, USA",
+  "source": "Huckman, R. S., and Pisano, G. P. (2006). The firm specificity of individual performance: Evidence from cardiac surgery. Management Science, 52(4), 473-488.",
+  "basis": "study"
+}

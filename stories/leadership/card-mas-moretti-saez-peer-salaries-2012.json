@@ -1,0 +1,14 @@
+{
+  "id": "story-card-mas-moretti-saez-peer-salaries-2012",
+  "category": "leadership",
+  "kind": "study",
+  "title": "When Everyone Could See the Salaries",
+  "text": "In 2008 the Sacramento Bee newspaper launched a website where anyone could look up the salary of any California state employee, including the staff and faculty of the University of California. The economists David Card, Alexandre Mas, Enrico Moretti and Emmanuel Saez saw an opportunity for a natural experiment.\n\nAt several University of California campuses, they sent an email to a random selection of employees telling them about the website. Others received no such message. A few days later, the researchers surveyed employees in both groups about their job satisfaction and whether they were looking for a new job. They could also see what people actually earned compared with colleagues in their own department and occupation.\n\nLearning about the website clearly increased the number of people who looked up colleagues' salaries. For employees paid below the median in their unit, finding out about the website lowered their job satisfaction and made them more likely to say they were looking for another job. For those paid above the median, there was no comparable increase in satisfaction. Knowing they earned more did not make people noticeably happier, but knowing they earned less made them unhappy.",
+  "lesson": "People judge their pay against those around them, and falling short hurts more than being ahead helps. Make sure pay differences are ones you can explain and defend.",
+  "people": "David Card, Alexandre Mas, Enrico Moretti, Emmanuel Saez",
+  "date": "2008 (published 2012)",
+  "year": 2012,
+  "location": "University of California campuses, USA",
+  "source": "Card, D., Mas, A., Moretti, E., and Saez, E. (2012). Inequality at work: The effect of peer salaries on job satisfaction. American Economic Review, 102(6), 2981-3003.",
+  "basis": "study"
+}

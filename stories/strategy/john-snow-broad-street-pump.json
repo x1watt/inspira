@@ -1,0 +1,15 @@
+{
+  "id": "story-john-snow-broad-street-pump",
+  "category": "strategy",
+  "kind": "history",
+  "title": "John Snow and the Broad Street Pump",
+  "text": "At the end of August 1854 cholera exploded in Soho, London. Snow later wrote that there were more than five hundred fatal attacks within about ten days around Broad Street. Most doctors believed cholera spread through bad air, or miasma. The physician John Snow suspected that it spread through contaminated water.\n\nSnow went door to door collecting the addresses of the dead and plotted them on a map. The deaths clustered around the public water pump on Broad Street. He also studied the exceptions. A nearby workhouse with its own well had few cases. Workers at a local brewery, who drank beer and water from the brewery's own well, were largely spared. A widow living far away in Hampstead died of cholera, and Snow found that she had liked the taste of Broad Street water so much that she had it brought to her by cart.\n\nOn 7 September Snow presented his findings to the local Board of Guardians. They were skeptical but agreed to act, and the next day the pump handle was removed. The epidemic, already declining as people fled, faded out. Snow published his analysis in the second edition of On the Mode of Communication of Cholera in 1855. The miasma theory held on for years, but his map became a founding document of epidemiology.",
+  "lesson": "When everyone agrees on a cause, look at where the cases actually are, and pay special attention to the exceptions. They often test the theory best.",
+  "people": "John Snow, Henry Whitehead",
+  "date": "1854",
+  "year": 1854,
+  "location": "Soho, London (United Kingdom)",
+  "source": "John Snow, On the Mode of Communication of Cholera, 2nd ed. (1855)",
+  "basis": "documented",
+  "caveat": "The epidemic was already in decline when the handle was removed, so the action itself did not end it."
+}

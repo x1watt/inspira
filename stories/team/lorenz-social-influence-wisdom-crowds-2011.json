@@ -1,0 +1,14 @@
+{
+  "id": "story-lorenz-social-influence-wisdom-crowds-2011",
+  "category": "team",
+  "kind": "study",
+  "title": "How Influence Spoils the Crowd",
+  "text": "The wisdom of crowds depends on people guessing independently, so that individual errors cancel out. In 2011, Jan Lorenz, Heiko Rauhut, Frank Schweitzer and Dirk Helbing at ETH Zurich tested what happens when people can see each other's answers.\n\nThey recruited 144 students and asked them factual questions with numerical answers, such as the population density of Switzerland or the length of its border with Italy. Each question was answered over five rounds, with a small payment for accuracy. Some participants received no information about others' answers between rounds. Others saw the average of everyone's previous estimates, or saw all of them.\n\nSeeing others' answers changed the crowd in three ways. The estimates converged: the range of answers shrank, so the group lost the diversity that makes averaging work. The group's collective estimate did not become more accurate, and the true value often ended up outside the narrowed range. And participants became more confident in their answers even though they were no better.\n\nThe authors warned that the combination, reduced diversity and growing confidence without greater accuracy, could mislead decision makers who rely on a crowd's consensus.",
+  "lesson": "A group that compares notes too early loses its independence. Collect people's estimates privately before anyone sees what others think.",
+  "people": "Jan Lorenz, Heiko Rauhut, Frank Schweitzer, Dirk Helbing",
+  "date": "2011",
+  "year": 2011,
+  "location": "ETH Zurich, Zurich, Switzerland",
+  "source": "Lorenz, J., Rauhut, H., Schweitzer, F., and Helbing, D. (2011). How social influence can undermine the wisdom of crowd effect. Proceedings of the National Academy of Sciences, 108(22), 9020-9025.",
+  "basis": "study"
+}

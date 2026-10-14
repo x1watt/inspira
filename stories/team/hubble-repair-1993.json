@@ -1,0 +1,14 @@
+{
+  "id": "story-hubble-repair-1993",
+  "category": "team",
+  "kind": "history",
+  "title": "Fixing Hubble's Flawed Mirror",
+  "text": "When the Hubble Space Telescope was launched in April 1990, it was meant to give the sharpest views of the universe ever seen. Within weeks, astronomers realized its images were blurred. The main mirror had been ground to the wrong shape. The error was tiny, about two microns at the edge, a small fraction of the width of a human hair, but enough to spoil the telescope's focus. An investigation traced it to a testing instrument that had been assembled slightly wrong.\n\nSince the mirror could not be replaced in orbit, engineers designed corrections instead, like glasses for the telescope. A new camera was built with the correction in its own optics, and a device called COSTAR would place small corrective mirrors in front of the other instruments.\n\nThe repair mission, STS-61, flew on the shuttle Endeavour in December 1993. Its seven astronauts had rehearsed every step for months, including many hours underwater in giant pools that simulate weightlessness. In orbit, Claude Nicollier used the shuttle's robotic arm to capture the telescope, and two pairs of spacewalkers, Story Musgrave and Jeffrey Hoffman, Kathryn Thornton and Tom Akers, worked in turns over five long spacewalks, a record at the time. They installed the new camera and COSTAR, replaced solar panels and gyroscopes, and released Hubble again.\n\nIn January 1994 NASA released the first images after the repair. They were sharp. Hubble went on to become one of the most productive scientific instruments ever built.",
+  "lesson": "Costly mistakes can be fixed when a team owns the problem and prepares thoroughly. Rehearsal turns a risky repair into a routine one.",
+  "people": "Richard Covey, Story Musgrave, Jeffrey Hoffman, Kathryn Thornton, Tom Akers, Claude Nicollier, NASA engineers",
+  "date": "December 1993",
+  "year": 1993,
+  "location": "Earth orbit, aboard Space Shuttle Endeavour",
+  "source": "NASA mission reports for STS-61; The Hubble Space Telescope Optical Systems Failure Report (Allen Report, 1990)",
+  "basis": "documented"
+}

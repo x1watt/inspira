@@ -1,0 +1,14 @@
+{
+  "id": "story-nummi-plant-turnaround",
+  "category": "team",
+  "kind": "history",
+  "title": "The NUMMI Plant",
+  "text": "General Motors' assembly plant in Fremont, California, was one of the worst in the company. By the early 1980s it was known for poor quality, high absenteeism, wildcat strikes and bitter relations between managers and the union. GM closed it in 1982.\n\nIn 1984 it reopened as New United Motor Manufacturing, Inc., or NUMMI, a joint venture between GM and Toyota. Toyota would run the plant using its production system. Remarkably, most of the hourly workforce was hired back from the old plant, members of the same United Auto Workers local, including some of the union leaders who had fought management hardest.\n\nWhat changed was the system around them. Groups of workers were sent to Toyota's plants in Japan for training. Back in Fremont they worked in small teams with a team leader, helped design their own jobs and standards, and could pull the andon cord to stop the line when something went wrong. Managers were expected to help fix problems rather than assign blame.\n\nWithin a couple of years NUMMI's quality and productivity were close to those of Toyota's Japanese plants and far better than GM's other factories, and absenteeism had dropped sharply. Researchers at MIT and elsewhere studied it closely. GM, however, struggled for years to spread the lessons to its other plants. NUMMI closed in 2010, and the building became Tesla's Fremont factory.",
+  "lesson": "Poor performance is often a property of the system, not the people. Change how a team is organized and treated, and the same people can do excellent work.",
+  "people": "General Motors, Toyota, United Auto Workers, Fremont workers",
+  "date": "1984",
+  "year": 1984,
+  "location": "Fremont, California, USA",
+  "source": "John Shook, 'How to Change a Culture: Lessons from NUMMI', MIT Sloan Management Review 51(2) (2010); Paul S. Adler, 'Time-and-Motion Regained', Harvard Business Review (1993)",
+  "basis": "documented"
+}

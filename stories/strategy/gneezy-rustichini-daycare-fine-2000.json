@@ -1,0 +1,14 @@
+{
+  "id": "story-gneezy-rustichini-daycare-fine-2000",
+  "category": "strategy",
+  "kind": "study",
+  "title": "A Fine Is a Price",
+  "text": "At day-care centers in the Israeli city of Haifa, parents sometimes came late to pick up their children, forcing a teacher to stay after closing time. In the late 1990s the economists Uri Gneezy and Aldo Rustichini ran a field experiment in ten of these private centers to see whether a fine would solve the problem.\n\nFor four weeks, they simply recorded how many parents arrived late. Then, in six of the centers, they introduced a fine of 10 shekels for any parent who was more than ten minutes late. The other four centers served as a comparison and changed nothing.\n\nThe result was the opposite of what the standard theory of deterrence predicts. In the centers with the fine, late arrivals increased, rising within a few weeks to about double their earlier level. In the comparison centers, lateness stayed about the same. After several months, the fine was removed. Lateness in those centers did not return to the original level; it stayed high.\n\nGneezy and Rustichini explained the result with the title of their paper: a fine is a price. Before, parents had seen lateness as a favor that imposed on the teachers, something to avoid out of guilt or respect. The fine turned it into a service for sale, and a cheap one. Once the social norm had been replaced by a market transaction, removing the price did not bring the old norm back.",
+  "lesson": "Putting a price on behavior can replace a sense of obligation with a simple transaction. Before using fines or payments to change behavior, consider what moral reasons you might be crowding out.",
+  "people": "Uri Gneezy, Aldo Rustichini",
+  "date": "2000",
+  "year": 2000,
+  "location": "Haifa, Israel",
+  "source": "Gneezy, U., and Rustichini, A. (2000). A fine is a price. Journal of Legal Studies, 29(1), 1-17.",
+  "basis": "study"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "story-swaab-too-much-talent-2014",
+  "category": "team",
+  "kind": "study",
+  "title": "The Too-Much-Talent Effect",
+  "text": "Teams often try to sign as many stars as they can. Roderick Swaab, Adam Galinsky and their colleagues asked whether there can be too much of a good thing.\n\nThey first surveyed people, who generally believed that more top talent always makes a team better. Then they looked at sports data. In international football, they measured each national team's talent by the share of its players who played for elite clubs, and compared it with the team's results in World Cup qualifying. In professional basketball, they used measures of individual player quality and compared them with team records over multiple seasons. In baseball, where players depend less on each other during play, they did the same.\n\nIn football and basketball, adding top talent improved performance up to a point. Beyond that point, further stars brought no gain and appeared to harm results. In basketball, the authors linked this to a drop in coordination, such as fewer assists, as stars competed for the ball. In baseball, more talent simply kept helping.\n\nThe authors concluded that when team members must work closely together, too many stars can undermine coordination, as each expects to play the lead role.",
+  "lesson": "Stacking a team with stars can backfire when the work requires close coordination. Make sure someone is happy to play the supporting roles.",
+  "people": "Roderick Swaab, Michael Schaerer, Eric Anicich, Richard Ronay, Adam Galinsky",
+  "date": "2014",
+  "year": 2014,
+  "location": "International football, the NBA and Major League Baseball",
+  "source": "Swaab, R. I., Schaerer, M., Anicich, E. M., Ronay, R., and Galinsky, A. D. (2014). The too-much-talent effect: Team interdependence determines when more talent is too much or not enough. Psychological Science, 25(8), 1581-1591.",
+  "basis": "study",
+  "caveat": "Later reanalyses with other data and methods have questioned whether extra talent actually hurts teams, rather than simply adding less."
+}

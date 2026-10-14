@@ -1,0 +1,15 @@
+{
+  "id": "story-mani-poverty-cognitive-function-2013",
+  "category": "strategy",
+  "kind": "study",
+  "title": "Sugarcane Farmers Before and After Harvest",
+  "text": "In 2013 Anandi Mani, Sendhil Mullainathan, Eldar Shafir and Jiaying Zhao published two studies in Science on how money worries affect thinking.\n\nThe first took place in a shopping mall in New Jersey. Participants were asked to imagine a financial problem, such as their car needing a repair, and to think about how they would handle it. For some the repair cost was modest; for others it was large. Then everyone took tests of reasoning and self-control. When the problem was easy, poorer and richer participants performed about equally. When it was hard, the poorer participants did markedly worse, as if thinking about a serious money problem had used up part of their mental capacity.\n\nThe second study took place among sugarcane farmers in Tamil Nadu, India. These farmers receive most of their income once a year, at harvest, so the same person is relatively poor before harvest and relatively well off afterwards. The researchers tested several hundred farmers in both periods. Before harvest, when many had pawned possessions and taken loans, the farmers scored noticeably worse on tests of reasoning and attention than they did after harvest. The difference could not be explained by nutrition, physical work or stress from the harvest itself, which the researchers checked.\n\nThe authors argued that poverty imposes a mental tax: scarcity captures attention and leaves less capacity for everything else. Later studies that tried to reproduce the effect with other groups and settings have had mixed results.",
+  "lesson": "Financial stress or any acute scarcity drains attention you need for decisions. When you are under that pressure, simplify choices, use reminders and postpone big decisions if you can.",
+  "people": "Anandi Mani, Sendhil Mullainathan, Eldar Shafir, Jiaying Zhao",
+  "date": "2013",
+  "year": 2013,
+  "location": "New Jersey, USA, and Tamil Nadu, India",
+  "source": "Mani, A., Mullainathan, S., Shafir, E., and Zhao, J. (2013). Poverty impedes cognitive function. Science, 341(6149), 976-980.",
+  "basis": "study",
+  "caveat": "Some later replications (for example Carvalho, Meier and Wang, 2016, around paydays in the US) did not find the effect, so its generality is debated."
+}

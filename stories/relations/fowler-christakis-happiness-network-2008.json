@@ -1,0 +1,15 @@
+{
+  "id": "story-fowler-christakis-happiness-network-2008",
+  "category": "relations",
+  "kind": "study",
+  "title": "Happiness Spreads Through Networks",
+  "text": "Since 1948 the Framingham Heart Study has followed residents of a town near Boston to learn about heart disease. Participants also listed relatives, close friends, neighbors and coworkers, often people who were in the study too. James Fowler and Nicholas Christakis realized that these records formed a map of a real social network, and that the study had also measured people's happiness.\n\nIn 2008 they analyzed data on nearly five thousand people from 1983 to 2003. Happy and unhappy people formed clusters in the network. More striking, happiness seemed to travel over time. A person whose friend living within a mile became happy was substantially more likely to become happy too, and the same held for next-door neighbors and for siblings who lived nearby. Coworkers showed no such effect. The association extended, more weakly, to the friend of a friend and even to the friend of a friend of a friend.\n\nThe researchers concluded that happiness is not only an individual matter but partly a property of groups, spreading through ties like a kind of contagion. The effect faded with physical distance and with time, suggesting that frequent face-to-face contact was part of how it worked.",
+  "lesson": "Your mood affects people close to you and theirs affects yours. Spending time with cheerful people, and being one, may help a whole circle of friends.",
+  "people": "James Fowler, Nicholas Christakis",
+  "date": "2008",
+  "year": 2008,
+  "location": "Framingham, Massachusetts, USA",
+  "source": "Fowler, J. H., and Christakis, N. A. (2008). Dynamic spread of happiness in a large social network: Longitudinal analysis over 20 years in the Framingham Heart Study. BMJ, 337, a2338.",
+  "basis": "study",
+  "caveat": "Critics argue that such network effects are hard to separate from people choosing similar friends and sharing the same surroundings, so the contagion claim remains debated."
+}

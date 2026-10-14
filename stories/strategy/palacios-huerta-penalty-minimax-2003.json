@@ -1,0 +1,14 @@
+{
+  "id": "story-palacios-huerta-penalty-minimax-2003",
+  "category": "strategy",
+  "kind": "study",
+  "title": "Penalty Kicks and Game Theory",
+  "text": "Game theory makes a clear prediction about contests like a soccer penalty kick. If the kicker always shot to the same side, the goalkeeper would learn it and dive there; if the keeper always dived one way, the kicker would shoot the other. The best strategy for each is to mix choices at random in such proportions that the opponent cannot gain by guessing, a solution known as minimax. In a real minimax equilibrium, a kicker's chance of scoring should be the same whichever side he picks, and his choices should show no predictable pattern over time.\n\nThese predictions had rarely been confirmed outside the laboratory, where people tend to alternate too often and make poor random choices. In 2003 Ignacio Palacios-Huerta, an economist at Brown University, analyzed over 1,400 penalty kicks taken in professional matches in several European leagues, mostly in the late 1990s.\n\nHe found that the professionals behaved almost exactly as the theory required. Scoring rates were statistically the same whether kickers aimed left or right, and so were goalkeepers' success rates whichever way they dived. And the sequence of each player's choices looked random: what a kicker did last time did not predict what he would do next.\n\nThe result was one of the first clean tests of minimax with real stakes. It showed that experienced professionals in a high-pressure contest had learned, without any formal theory, to be exactly as unpredictable as they needed to be.",
+  "lesson": "In any contest where an opponent can learn your habits, predictability is a weakness. Vary your choices so the other side cannot profit from guessing them.",
+  "people": "Ignacio Palacios-Huerta",
+  "date": "2003",
+  "year": 2003,
+  "location": "Brown University, Providence, USA (kicks from European leagues)",
+  "source": "Palacios-Huerta, I. (2003). Professionals play minimax. Review of Economic Studies, 70(2), 395-415.",
+  "basis": "study"
+}

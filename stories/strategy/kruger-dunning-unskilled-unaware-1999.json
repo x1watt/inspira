@@ -1,0 +1,15 @@
+{
+  "id": "story-kruger-dunning-unskilled-unaware-1999",
+  "category": "strategy",
+  "kind": "study",
+  "title": "Unskilled and Unaware",
+  "text": "In 1999 Justin Kruger and David Dunning of Cornell University published a series of studies on how well people judge their own competence. Students took tests of humor (judging how funny jokes were, compared with ratings by professional comedians), logical reasoning and English grammar. Afterwards, each estimated their score and how they ranked compared with other students.\n\nMost people thought they were above average, but the error was not evenly spread. Those who scored in the bottom quarter overestimated themselves the most. On the logical reasoning test, for example, students who on average performed around the 12th percentile believed they had done better than about two thirds of their peers. Top performers, in contrast, slightly underestimated their relative standing, because they assumed others found the test as easy as they did.\n\nKruger and Dunning argued that the skills needed to do a task well are often the same skills needed to recognize good performance. People who lack them suffer a double burden: they make mistakes and cannot see that they are mistakes. In one study, giving low scorers a short training in logic improved both their performance and their ability to judge it.\n\nThe pattern became famous as the Dunning-Kruger effect. Critics have since shown that part of it is a statistical artifact: when everyone tends to rate themselves above average, and self-ratings are imperfectly tied to actual scores, the lowest scorers will inevitably show the largest overestimates. The debate continues over how much remains beyond this.",
+  "lesson": "Feeling confident is not evidence of being competent, especially in areas new to you. Seek honest feedback and outside measures, and learn enough to recognize what good work looks like.",
+  "people": "Justin Kruger, David Dunning",
+  "date": "1999",
+  "year": 1999,
+  "location": "Cornell University, Ithaca, USA",
+  "source": "Kruger, J., and Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one's own incompetence lead to inflated self-assessments. Journal of Personality and Social Psychology, 77(6), 1121-1134.",
+  "basis": "study",
+  "caveat": "Part of the pattern can be produced by regression to the mean and the general better-than-average effect, so its size beyond statistical artifact is debated."
+}

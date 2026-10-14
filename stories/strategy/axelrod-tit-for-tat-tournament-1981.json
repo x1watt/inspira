@@ -1,0 +1,15 @@
+{
+  "id": "story-axelrod-tit-for-tat-tournament-1981",
+  "category": "strategy",
+  "kind": "study",
+  "title": "The Tit for Tat Tournament",
+  "text": "In the prisoner's dilemma, two players each choose to cooperate or defect. Each does better by defecting whatever the other does, yet if both defect, both end up worse off than if both had cooperated. When the game is played over and over by the same pair, what strategy works best?\n\nAround 1980 the political scientist Robert Axelrod of the University of Michigan invited game theorists, economists, psychologists and computer scientists to submit computer programs that would play repeated prisoner's dilemmas against each other in a round-robin tournament. Fourteen strategies were entered in the first round, some of them elaborate. The winner was the shortest: Tit for Tat, submitted by the psychologist Anatol Rapoport. It cooperated on the first move and from then on simply copied whatever the other player had done on the previous move.\n\nAxelrod published the results and ran a second tournament. This time 62 entries arrived, many designed specifically to beat Tit for Tat. It won again.\n\nAnalyzing the results, Axelrod identified what successful strategies had in common. They were nice, never the first to defect. They retaliated, so they could not be exploited. They were forgiving, returning to cooperation as soon as the other did. And they were clear, so others could quickly learn that cooperation paid. In a 1981 paper in Science with the biologist William Hamilton, he showed how such cooperation could evolve even among self-interested players, provided they were likely to meet again.",
+  "lesson": "In long-term relationships, start by cooperating, respond firmly to bad faith, forgive quickly when the other side changes course, and be predictable so people know where they stand.",
+  "people": "Robert Axelrod, William Hamilton, Anatol Rapoport",
+  "date": "1980 to 1981",
+  "year": 1981,
+  "location": "University of Michigan, Ann Arbor, USA",
+  "source": "Axelrod, R., and Hamilton, W. D. (1981). The evolution of cooperation. Science, 211(4489), 1390-1396. Tournaments reported in Axelrod, R. (1980). Effective choice in the prisoner's dilemma. Journal of Conflict Resolution, 24(1), 3-25.",
+  "basis": "study",
+  "caveat": "Later simulations with noise and errors found that more forgiving variants (such as Generous Tit for Tat) can do better than strict Tit for Tat."
+}

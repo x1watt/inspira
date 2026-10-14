@@ -1,0 +1,15 @@
+{
+  "id": "story-semmelweis-handwashing-rejection",
+  "category": "relations",
+  "kind": "history",
+  "title": "Semmelweis Was Right and Still Lost",
+  "text": "In the 1840s, at the Vienna General Hospital, the young Hungarian doctor Ignaz Semmelweis was troubled by a puzzle. Women giving birth in the clinic run by doctors and medical students died of childbed fever far more often than those in the clinic run by midwives. In 1847 a colleague cut his finger during an autopsy and died with the same symptoms. Semmelweis concluded that doctors coming from the dissecting room were carrying something from corpses to the mothers.\n\nHe ordered everyone to wash their hands in a chlorinated lime solution before examining patients. Deaths in his clinic fell sharply, to roughly the level of the midwives' clinic.\n\nBut Semmelweis was slow to publish, and he could not explain the mechanism, since germ theory did not yet exist. Many senior doctors resisted the idea that they themselves were killing patients. His appointment in Vienna was not renewed, and he moved to Pest. When he finally published his book in 1861 and critics dismissed it, he wrote open letters calling his opponents ignorant and murderers. The insults made enemies, not converts. In 1865 he was committed to an asylum and died there two weeks later. Only after Pasteur and Lister did his work win acceptance.",
+  "lesson": "Being right is not enough to change minds. If you need others to adopt your idea, explain it patiently and give them a way to change without being humiliated.",
+  "people": "Ignaz Semmelweis",
+  "date": "1847 to 1865",
+  "year": 1847,
+  "location": "Vienna, Austria, and Pest (modern Budapest, Hungary)",
+  "source": "Ignaz Semmelweis, The Etiology, Concept and Prophylaxis of Childbed Fever (1861); Sherwin B. Nuland, The Doctors' Plague (2003)",
+  "basis": "documented",
+  "caveat": "Historians note that his rejection had several causes, including the lack of a theory to explain his results, so his abrasiveness was only part of the story."
+}

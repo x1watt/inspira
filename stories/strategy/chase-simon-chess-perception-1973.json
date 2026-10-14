@@ -1,0 +1,15 @@
+{
+  "id": "story-chase-simon-chess-perception-1973",
+  "category": "strategy",
+  "kind": "study",
+  "title": "Chess Masters and Random Boards",
+  "text": "In the 1940s the Dutch psychologist and chess master Adriaan de Groot had found something surprising: grandmasters did not calculate more moves ahead than weaker players, yet after a glance of a few seconds they could reconstruct a position on the board almost perfectly. In 1973 William Chase and Herbert Simon of Carnegie Mellon University in Pittsburgh set out to discover why.\n\nThey tested a chess master, a strong amateur and a beginner. Each was shown a chess position for five seconds and then asked to rebuild it on an empty board. When the position came from a real game, the master placed far more pieces correctly than the amateur, who in turn did much better than the beginner.\n\nThen the researchers used boards with the same pieces placed at random. Now the master's advantage nearly vanished. All three players did about equally poorly. The master's memory was not generally better. It was specialized for the kind of positions that occur in real play.\n\nBy watching how players placed pieces, Chase and Simon found that masters recalled positions in clusters, or \"chunks,\" of related pieces such as a castled king with its pawns. They estimated that a master had tens of thousands of such patterns stored from years of play. Expertise, they argued, consists largely of recognizing familiar patterns, which lets the expert see at once what a novice must work out step by step.",
+  "lesson": "Expert intuition is pattern recognition built from long experience in a stable domain. Trust it inside that domain, and be humble outside it, where the patterns no longer apply.",
+  "people": "William Chase, Herbert Simon",
+  "date": "1973",
+  "year": 1973,
+  "location": "Carnegie Mellon University, Pittsburgh, USA",
+  "source": "Chase, W. G., and Simon, H. A. (1973). Perception in chess. Cognitive Psychology, 4(1), 55-81.",
+  "basis": "study",
+  "caveat": "Later studies (Gobet and Simon, 1996) found that masters keep a small advantage even on random boards, though far smaller than on real positions."
+}

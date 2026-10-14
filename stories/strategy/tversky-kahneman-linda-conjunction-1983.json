@@ -1,0 +1,14 @@
+{
+  "id": "story-tversky-kahneman-linda-conjunction-1983",
+  "category": "strategy",
+  "kind": "study",
+  "title": "Linda the Bank Teller",
+  "text": "Amos Tversky and Daniel Kahneman wrote a short description of an imaginary woman. Linda was 31, single, outspoken and very bright. She had majored in philosophy, and as a student she had been deeply concerned with discrimination and social justice and had joined anti-nuclear demonstrations.\n\nParticipants then ranked several statements about Linda by how probable they were. Two of them mattered: \"Linda is a bank teller\" and \"Linda is a bank teller and is active in the feminist movement.\"\n\nLogic leaves no room for doubt here. Every feminist bank teller is a bank teller, so the combined statement can never be more likely than the single one. Yet in Tversky and Kahneman's studies, around 85 percent of the students ranked the feminist bank teller as more probable. The pattern held among graduate students with training in statistics, and it held when the two options were placed side by side.\n\nThe researchers called it the conjunction fallacy. The description of Linda matched the image of a feminist far better than the image of a bank teller, so people judged by resemblance instead of by probability. Adding a detail made the story more convincing while making it less likely. Later researchers argued about how much the wording of the problem contributed, and asking in terms of frequencies (\"out of 100 women like Linda\") reduced the error, but the basic effect has proved robust.",
+  "lesson": "Each extra detail in a forecast or a plan makes it more vivid and less probable. When a scenario feels very convincing, count how many separate things must all come true for it to happen.",
+  "people": "Amos Tversky, Daniel Kahneman",
+  "date": "1983",
+  "year": 1983,
+  "location": "University of British Columbia, Canada, and Stanford University, USA",
+  "source": "Tversky, A., and Kahneman, D. (1983). Extensional versus intuitive reasoning: The conjunction fallacy in probability judgment. Psychological Review, 90(4), 293-315.",
+  "basis": "study"
+}

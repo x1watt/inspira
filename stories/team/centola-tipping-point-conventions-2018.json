@@ -1,0 +1,15 @@
+{
+  "id": "story-centola-tipping-point-conventions-2018",
+  "category": "team",
+  "kind": "study",
+  "title": "A Quarter to Tip a Norm",
+  "text": "How big must a committed minority be to overturn an established social convention? In 2018, Damon Centola and his colleagues Joshua Becker, Devon Brackbill and Andrea Baronchelli tested this online.\n\nParticipants were placed in groups and paired repeatedly with random members of their group. In each round, both partners saw a picture of a face and had to type a name for it. They earned money when they gave the same name. Over many rounds, each group settled on a shared name, which became its convention.\n\nThe researchers then introduced a committed minority of confederates, who always used a different name no matter what others said. They varied the size of that minority across groups.\n\nThe result showed a clear threshold. When the committed minority made up less than about a quarter of the group, the established convention held. When it reached about a quarter, the new name spread and the whole group quickly switched. Below the threshold, the minority had little effect; above it, it won. The authors linked this to what each person saw in their recent interactions: once enough partners used the new name, people switched to it to coordinate.",
+  "lesson": "Changing a group's habits does not require a majority, but it does require a committed core. Aim for roughly a quarter of the group acting consistently on the new norm.",
+  "people": "Damon Centola, Joshua Becker, Devon Brackbill, Andrea Baronchelli",
+  "date": "2018",
+  "year": 2018,
+  "location": "University of Pennsylvania, Philadelphia, USA (online experiment)",
+  "source": "Centola, D., Becker, J., Brackbill, D., and Baronchelli, A. (2018). Experimental evidence for tipping points in social convention. Science, 360(6393), 1116-1119.",
+  "basis": "study",
+  "caveat": "The quarter threshold was found in a simple naming game, and real norms with higher stakes or stronger beliefs may behave differently."
+}

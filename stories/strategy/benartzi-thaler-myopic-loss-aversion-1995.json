@@ -1,0 +1,14 @@
+{
+  "id": "story-benartzi-thaler-myopic-loss-aversion-1995",
+  "category": "strategy",
+  "kind": "study",
+  "title": "Myopic Loss Aversion",
+  "text": "For most of the twentieth century, American stocks earned far higher returns than safe government bonds, several percentage points a year more on average. Economists called this gap the equity premium puzzle, because standard theories said investors would need to be implausibly afraid of risk to leave so much money on the table.\n\nIn 1995 Shlomo Benartzi and Richard Thaler offered an explanation built from two ideas. The first was loss aversion, from Kahneman and Tversky's prospect theory: losses hurt roughly twice as much as equal gains please. The second was mental accounting: investors evaluate their portfolios at intervals, and each evaluation is felt as a gain or a loss.\n\nPut together, these create what they called myopic loss aversion. Over a single day or month, stocks fall almost as often as they rise, so an investor who looks often experiences many painful losses and finds stocks unattractive. Over many years, stocks almost always come out ahead. Benartzi and Thaler calculated that the historical equity premium was just what one would expect if investors evaluated their portfolios about once a year.\n\nLater experiments confirmed the idea. In a 1997 study by Thaler, Tversky, Kahneman and Schwartz, people who received frequent feedback on a simulated investment took less risk and earned less than those who received feedback rarely. Looking too often made investors more cautious and poorer.",
+  "lesson": "For long-term goals, check your progress less often. Frequent glances at short-term ups and downs magnify losses in your mind and push you toward overly cautious, costly decisions.",
+  "people": "Shlomo Benartzi, Richard Thaler",
+  "date": "1995",
+  "year": 1995,
+  "location": "USA (analysis of historical US market data)",
+  "source": "Benartzi, S., and Thaler, R. H. (1995). Myopic loss aversion and the equity premium puzzle. Quarterly Journal of Economics, 110(1), 73-92.",
+  "basis": "study"
+}

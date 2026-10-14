@@ -1,0 +1,14 @@
+{
+  "id": "story-challenger-o-ring-decision",
+  "category": "team",
+  "kind": "history",
+  "title": "The Night Before Challenger",
+  "text": "On the evening of 27 January 1986, NASA and its contractor Morton Thiokol held a teleconference about the next morning's launch of the space shuttle Challenger. The forecast was for freezing temperatures at Cape Canaveral, far colder than any previous launch.\n\nThiokol engineers, among them Roger Boisjoly and Arnie Thompson, were alarmed. The joints of the solid rocket boosters were sealed by rubber O-rings, and earlier flights had shown erosion and soot getting past the seals, worst on a cold launch. The engineers argued that the rubber would stiffen in the cold and might not seal. Thiokol's first recommendation was not to launch below 53 degrees Fahrenheit.\n\nNASA managers pushed back hard. One, Lawrence Mulloy, asked whether Thiokol wanted them to wait until April. Thiokol's managers asked for a private caucus. There, according to the Rogers Commission, senior vice president Jerald Mason told engineering vice president Robert Lund to \"take off his engineering hat and put on his management hat.\" The managers then voted to approve the launch, without the engineers, and Thiokol reversed its recommendation.\n\nThe next morning, at about 36 degrees, Challenger lifted off. Seventy-three seconds later a booster joint failed and the shuttle broke apart, killing all seven crew members, including the schoolteacher Christa McAuliffe. The presidential commission concluded that the decision-making process itself had been flawed, and that the people who made the final call had not been told of the engineers' full concerns.",
+  "lesson": "Expertise only protects a team if it is allowed to say no. When schedule pressure starts overruling the people closest to the risk, stop and listen.",
+  "people": "Roger Boisjoly, Arnie Thompson, Jerald Mason, Robert Lund, Lawrence Mulloy",
+  "date": "27 to 28 January 1986",
+  "year": 1986,
+  "location": "Kennedy Space Center, Florida, and Morton Thiokol, Utah, USA",
+  "source": "Report of the Presidential Commission on the Space Shuttle Challenger Accident (Rogers Commission, 1986)",
+  "basis": "documented"
+}

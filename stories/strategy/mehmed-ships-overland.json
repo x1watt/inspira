@@ -1,0 +1,15 @@
+{
+  "id": "story-mehmed-ships-overland",
+  "category": "strategy",
+  "kind": "history",
+  "title": "Mehmed Moves His Fleet Over the Hill",
+  "text": "In the spring of 1453 the Ottoman sultan Mehmed II besieged Constantinople. The city was protected on its land side by massive walls and on its north by the Golden Horn, a deep harbor whose entrance the Byzantines had closed with a great floating chain. Behind the chain, Byzantine and Italian ships kept the harbor safe, so the defenders did not have to man the weaker sea walls along it. Ottoman attempts to break through the chain failed.\n\nMehmed found another way. On the far side of the Golden Horn, behind the Genoese town of Galata, his engineers prepared a road over the hill from the Bosphorus to the upper harbor, laid with greased wooden runners. On 22 April 1453, according to the Greek historian Kritovoulos and the Venetian ship's doctor Nicolo Barbaro, who was inside the city, teams of men and oxen hauled dozens of ships up and over the ridge and slid them down into the Golden Horn, behind the chain. Accounts say some ships went over with sails raised and crews aboard.\n\nThe defenders woke to see an Ottoman fleet inside their harbor. An attempt to burn it failed. Now they had to spread their few soldiers along the sea walls of the Golden Horn as well as the land walls. On 29 May 1453 the Ottomans stormed the city, and the Byzantine Empire came to an end.",
+  "lesson": "When the obvious path is blocked, the solution may lie in a route everyone considers impossible. Changing the field can stretch a defense past its limit.",
+  "people": "Mehmed II, Constantine XI",
+  "date": "22 April 1453",
+  "year": 1453,
+  "location": "Constantinople (modern Istanbul, Turkey)",
+  "source": "Kritovoulos, History of Mehmed the Conqueror; Nicolo Barbaro, Diary of the Siege of Constantinople",
+  "basis": "documented",
+  "caveat": "The number of ships carried over is given differently in the sources, roughly between seventy and eighty."
+}

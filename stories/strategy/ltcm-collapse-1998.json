@@ -1,0 +1,14 @@
+{
+  "id": "story-ltcm-collapse-1998",
+  "category": "strategy",
+  "kind": "history",
+  "title": "The Fall of Long-Term Capital Management",
+  "text": "Long-Term Capital Management was founded in 1994 by John Meriwether, a celebrated bond trader from Salomon Brothers. His partners included top traders and two of the most famous economists in finance, Myron Scholes and Robert Merton, who shared the Nobel Prize in economics in 1997. The fund bet on small price differences between related securities, expecting them to converge, and used sophisticated models built on historical data.\n\nBecause each bet earned very little, the fund borrowed heavily to make the returns worthwhile. At its peak, it held assets worth well over a hundred billion dollars on a capital base of under five billion, plus derivative positions with a far larger face value. For its first years returns were excellent, and banks competed to lend to it.\n\nIn August 1998 Russia defaulted on its debt. Investors around the world fled to the safest, most liquid assets. The price differences that LTCM had bet would narrow instead widened sharply, in many markets at once, a combination its models treated as extremely unlikely. Because of its leverage, the fund lost billions within weeks, and because everyone knew its positions were huge, it could not sell them without driving prices further against itself.\n\nIn September 1998, fearing a wider financial panic, the Federal Reserve Bank of New York brought together major banks, which put in about 3.6 billion dollars to take over the fund and wind it down in an orderly way. The original partners lost most of their own investments.",
+  "lesson": "Models based on the past can fail exactly when it matters most. Leverage turns rare events into fatal ones, so leave a margin for being wrong.",
+  "people": "John Meriwether, Myron Scholes, Robert Merton",
+  "date": "1994 to 1998",
+  "year": 1998,
+  "location": "Greenwich, Connecticut, and New York (USA)",
+  "source": "Roger Lowenstein, When Genius Failed: The Rise and Fall of Long-Term Capital Management (2000)",
+  "basis": "documented"
+}

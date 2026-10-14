@@ -1,0 +1,15 @@
+{
+  "id": "story-caesar-alesia-double-wall",
+  "category": "strategy",
+  "kind": "history",
+  "title": "Caesar's Double Wall at Alesia",
+  "text": "In 52 BC most of Gaul rose against Rome under the Arvernian chief Vercingetorix. After a failed battle he withdrew with a large army into Alesia, a hilltop town in eastern Gaul, and sent his cavalry out to summon help from every tribe.\n\nCaesar, in his own Commentaries, describes his answer. Rather than storm the hill, he surrounded it with a siege line about eleven Roman miles long: ditches, a rampart with towers, and fields of hidden stakes and pits in front. Knowing that a relief army was coming, he then built a second, outer line facing outward, about fourteen miles around, so that his legions sat in a ring between two walls. He stored food and fodder to last for a month.\n\nInside, food ran low. The Gauls expelled the local Mandubii people, women and children included, but Caesar refused to let them through, and they were trapped between the lines. Then the relief army arrived, which Caesar puts at a quarter of a million men, and attacked the outer wall while Vercingetorix attacked the inner one. For several days the Romans fought on both fronts. In the final assault Caesar, recognizable by his scarlet cloak, led reserves to the critical point, and his cavalry struck the attackers from behind. The relief army broke.\n\nThe next day Vercingetorix surrendered. The revolt collapsed, and Gaul remained Roman.",
+  "lesson": "When pressure may come from two sides at once, prepare for both before either arrives. Securing your own position can matter as much as attacking.",
+  "people": "Julius Caesar, Vercingetorix",
+  "date": "52 BC",
+  "year": -52,
+  "location": "Alesia, near Alise-Sainte-Reine (France)",
+  "source": "Julius Caesar, Commentaries on the Gallic War 7.68 to 7.89",
+  "basis": "documented",
+  "caveat": "Caesar's figures for the Gallic armies are almost certainly inflated."
+}

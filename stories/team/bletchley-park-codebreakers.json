@@ -1,0 +1,15 @@
+{
+  "id": "story-bletchley-park-codebreakers",
+  "category": "team",
+  "kind": "history",
+  "title": "The Codebreakers of Bletchley Park",
+  "text": "In August 1939 Britain's Government Code and Cypher School moved to Bletchley Park, a country house north of London, to attack the German Enigma cipher. Just weeks before, Polish cryptanalysts had handed their British and French allies everything they had learned about Enigma, including how they had reconstructed the machine.\n\nThe people recruited to Bletchley were an unusual mix: mathematicians such as Alan Turing and Gordon Welchman, linguists and classicists, chess champions like Hugh Alexander and Stuart Milner-Barry, and later people who could finish a newspaper crossword fast. Turing and Welchman designed the bombe, an electromechanical machine that tested possible Enigma settings, and thousands of young women, many from the Women's Royal Naval Service, ran the machines day and night. By the end of the war the staff numbered in the thousands, and most of them were women.\n\nThe work was organized in huts, each with its own task, passing material along like a factory line. When shortages of staff and typists slowed them in October 1941, Turing, Welchman, Alexander and Milner-Barry wrote directly to Winston Churchill. He ordered that they be given all they needed, marking the note \"Action this day.\"\n\nBletchley's intelligence, code-named Ultra, helped the Allies fight the U-boats in the Atlantic, follow German moves in North Africa and plan D-Day. Engineer Tommy Flowers of the Post Office research station at Dollis Hill built Colossus for Bletchley to break a different German cipher. Nearly all of them kept the secret for some thirty years.",
+  "lesson": "Hard problems yield to mixed teams. Bring together people with very different skills, give them a shared goal and the tools they need, and protect them from bureaucracy.",
+  "people": "Alan Turing, Gordon Welchman, Hugh Alexander, Stuart Milner-Barry, Tommy Flowers, Joan Clarke",
+  "date": "1939 to 1945",
+  "year": 1939,
+  "location": "Bletchley Park, Buckinghamshire, United Kingdom",
+  "source": "F. H. Hinsley et al., British Intelligence in the Second World War (1979 to 1990); F. H. Hinsley and Alan Stripp, eds., Codebreakers (1993)",
+  "basis": "documented",
+  "caveat": "Estimates that Ultra shortened the war by about two years come from Hinsley and are debated."
+}

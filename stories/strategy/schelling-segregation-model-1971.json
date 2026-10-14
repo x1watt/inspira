@@ -1,0 +1,14 @@
+{
+  "id": "story-schelling-segregation-model-1971",
+  "category": "strategy",
+  "kind": "study",
+  "title": "Small Preferences, Big Segregation",
+  "text": "In the late 1960s the economist Thomas Schelling of Harvard University began playing with coins on a checkerboard. He placed pennies and dimes at random on the squares, leaving some empty, and gave each coin a simple rule. A coin was content if at least a certain share of its neighbors, for example one third, were of its own kind. If not, it moved to the nearest empty square where it would be content.\n\nSchelling moved the discontented coins one by one and watched. Even when no coin minded being in the minority, and each was happy as long as a modest share of neighbors were like it, the board quickly sorted itself into large areas of pennies and large areas of dimes. Each move changed the neighborhoods of other coins, triggering new moves, until the mixture had separated into clusters far more uniform than anyone individually wanted.\n\nHe published the work in 1971 as \"Dynamic Models of Segregation.\" Its lesson was that collective outcomes can differ sharply from individual intentions. A neighborhood can become highly segregated without anyone wanting segregation, simply through the chain reaction of many people acting on mild preferences. Schelling stressed that the model did not prove this was how real cities had become segregated; discrimination and economic barriers played their own roles. It showed what could happen.\n\nThe model became a founding example of agent-based modeling. Schelling received the Nobel Memorial Prize in Economic Sciences in 2005.",
+  "lesson": "A group's outcome can differ sharply from what any member intends. When you see a pattern in a team or market, consider how small individual choices may have added up to it.",
+  "people": "Thomas Schelling",
+  "date": "1971",
+  "year": 1971,
+  "location": "Harvard University, Cambridge, Massachusetts, USA",
+  "source": "Schelling, T. C. (1971). Dynamic models of segregation. Journal of Mathematical Sociology, 1(2), 143-186.",
+  "basis": "study"
+}

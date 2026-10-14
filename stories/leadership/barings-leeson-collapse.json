@@ -1,0 +1,14 @@
+{
+  "id": "story-barings-leeson-collapse",
+  "category": "leadership",
+  "kind": "history",
+  "title": "One Trader Brings Down Barings Bank",
+  "text": "Barings was the oldest merchant bank in London, founded in 1762, a bank that had helped finance the Louisiana Purchase and served the royal family. In the early 1990s it sent a young trader, Nick Leeson, to run its futures operation in Singapore.\n\nLeeson was put in charge both of trading and of the back office that recorded and settled the trades. That meant there was no independent check on what he was doing. When he made losses, he hid them in a secret error account, number 88888, and made larger and larger bets on the Japanese stock market to win the money back. Meanwhile he reported large profits, and London sent him the cash he asked for, without anyone questioning how such low-risk trading could make so much.\n\nIn January 1995 the Kobe earthquake sent the Japanese market down, and Leeson's positions collapsed. He fled Singapore in February. The losses came to about 827 million pounds, more than the bank's entire capital. Barings was declared insolvent and was sold to the Dutch bank ING for one pound.\n\nThe Bank of England's report blamed serious failures of management and internal control at Barings, as well as Leeson's fraud.",
+  "lesson": "Never let anyone check their own work, and question results that look too good. What you do not understand can ruin you.",
+  "people": "Nick Leeson, Barings Bank",
+  "date": "1992 to 1995",
+  "year": 1995,
+  "location": "Singapore and London, United Kingdom",
+  "source": "Bank of England, Report of the Board of Banking Supervision Inquiry into the Circumstances of the Collapse of Barings (July 1995)",
+  "basis": "documented"
+}

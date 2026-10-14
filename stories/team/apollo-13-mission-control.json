@@ -1,0 +1,14 @@
+{
+  "id": "story-apollo-13-mission-control",
+  "category": "team",
+  "kind": "history",
+  "title": "Apollo 13 and the Square Filter in a Round Hole",
+  "text": "On the evening of 13 April 1970, nearly 56 hours after launch and far out on the way to the Moon, an oxygen tank in Apollo 13's service module exploded. The command module began losing power and oxygen. Jim Lovell, Jack Swigert and Fred Haise moved into the lunar module, Aquarius, and used it as a lifeboat while the spacecraft swung around the Moon and headed home.\n\nAquarius was built to keep two men alive for about two days, not three men for four. The most urgent problem was carbon dioxide. The lunar module's own lithium hydroxide canisters were nearly used up, and the spare canisters from the command module were square, while the lunar module's system took round ones.\n\nIn Houston, engineers led by Ed Smylie worked out an adapter using only things known to be on board: plastic bags, cardboard covers from the flight manuals, hoses from the spacesuits and plenty of duct tape. They tested it on the ground, then read the instructions up to the crew step by step. The astronauts built the box, and the carbon dioxide level fell.\n\nOther teams worked in parallel. Flight controllers under Gene Kranz and his colleagues rationed every amp of power, planned engine burns to correct the course, and wrote a new procedure to bring the cold, dead command module back to life for reentry, rehearsed in the simulator by astronaut Ken Mattingly. On 17 April the crew splashed down safely in the Pacific.",
+  "lesson": "When the plan is gone, list what you actually have and give each problem to a focused team. Calm, shared problem solving can turn spare parts into a way home.",
+  "people": "Gene Kranz, Jim Lovell, Jack Swigert, Fred Haise, Ed Smylie, Ken Mattingly",
+  "date": "April 1970",
+  "year": 1970,
+  "location": "Mission Control, Houston, USA, and cislunar space",
+  "source": "NASA, Report of the Apollo 13 Review Board (1970); Jim Lovell and Jeffrey Kluger, Lost Moon (1994)",
+  "basis": "documented"
+}

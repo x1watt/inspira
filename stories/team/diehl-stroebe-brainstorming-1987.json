@@ -1,0 +1,14 @@
+{
+  "id": "story-diehl-stroebe-brainstorming-1987",
+  "category": "team",
+  "kind": "study",
+  "title": "Brainstorming's Riddle",
+  "text": "In the 1950s, advertising executive Alex Osborn popularized brainstorming, claiming that a group following rules such as no criticism and quantity over quality would produce far more ideas than its members working alone. Research soon contradicted him. Again and again, groups produced fewer ideas than the same number of people working separately whose ideas were pooled afterward.\n\nMichael Diehl and Wolfgang Stroebe at the University of Tubingen, in Germany, set out to solve the riddle of why. They tested three explanations: fear of being judged by others, people relaxing because others would contribute, and a simple practical problem they called production blocking. In a group, only one person can speak at a time, so others must wait, and while waiting they forget ideas or stop generating new ones.\n\nIn a series of experiments, they varied each factor. Evaluation fears and free riding made only small differences. Blocking made a big one. In one key test, people worked in separate rooms but could only speak their ideas when a light showed that no one else was talking. Even alone, they produced far fewer ideas, just like interacting groups. When blocking was removed, the gap largely disappeared.",
+  "lesson": "Group brainstorming loses ideas while people wait their turn. Have everyone generate ideas alone first, then share and build on them together.",
+  "people": "Michael Diehl, Wolfgang Stroebe",
+  "date": "1987",
+  "year": 1987,
+  "location": "University of Tubingen, Tubingen, Germany",
+  "source": "Diehl, M., and Stroebe, W. (1987). Productivity loss in brainstorming groups: Toward the solution of a riddle. Journal of Personality and Social Psychology, 53(3), 497-509.",
+  "basis": "study"
+}

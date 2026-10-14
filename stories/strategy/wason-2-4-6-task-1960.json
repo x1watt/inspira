@@ -1,0 +1,14 @@
+{
+  "id": "story-wason-2-4-6-task-1960",
+  "category": "strategy",
+  "kind": "study",
+  "title": "Two, Four, Six",
+  "text": "In 1960 the British psychologist Peter Wason, working at University College London, gave students a puzzle. He told them that the three numbers 2, 4, 6 followed a rule he had in mind. Their job was to discover the rule by proposing other sets of three numbers. For each set, he would say whether it fitted the rule or not. When they felt sure, they could announce the rule.\n\nMost participants quickly formed a guess, such as \"numbers increasing by two.\" Then they tested it with sets like 8, 10, 12 or 20, 22, 24. Each time Wason said yes, the sequence fitted. Encouraged, they announced their rule with confidence, and they were wrong.\n\nThe actual rule was simply \"any three numbers in increasing order.\" Sets like 1, 2, 3 or 5, 17, 100 would also have fitted. Participants rarely tried such sets, because they were looking for examples that confirmed their idea rather than examples that could prove it wrong. A single test like 3, 2, 1 or 1, 7, 50 would have told them far more than a dozen confirming ones. Only a minority found the correct rule on their first announcement.\n\nWason's task became a classic demonstration of what is now called confirmation bias: the tendency to seek and favor evidence that supports what we already believe.",
+  "lesson": "To test an idea, look for the result that would show it is wrong. Agreement with your expectation tells you little; a failed attempt to disprove it tells you much more.",
+  "people": "Peter Wason",
+  "date": "1960",
+  "year": 1960,
+  "location": "University College London, United Kingdom",
+  "source": "Wason, P. C. (1960). On the failure to eliminate hypotheses in a conceptual task. Quarterly Journal of Experimental Psychology, 12(3), 129-140.",
+  "basis": "study"
+}

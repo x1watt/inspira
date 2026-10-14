@@ -1,0 +1,15 @@
+{
+  "id": "story-xerox-parc-jobs-visit",
+  "category": "strategy",
+  "kind": "history",
+  "title": "Steve Jobs Visits Xerox PARC",
+  "text": "In the 1970s Xerox's Palo Alto Research Center, known as PARC, invented much of modern computing. Its researchers built the Alto, a personal computer with a graphical screen, windows, icons and a mouse, linked by Ethernet and printing on laser printers. Xerox headquarters, focused on copiers, struggled to see what to do with it.\n\nIn late 1979 Xerox's venture arm was allowed to invest in Apple before its stock offering. As part of the arrangement, Steve Jobs and a group of Apple engineers visited PARC and were shown the Alto and the Smalltalk environment. Some PARC researchers objected strongly to the demonstration. Jobs, by his own and others' accounts, was electrified by the graphical interface and returned to Apple convinced that this was the future of computing.\n\nApple hired several PARC people and built the ideas into the Lisa, released in 1983, and the Macintosh, in 1984, making them cheaper and simpler and adding its own inventions. Xerox did bring out a commercial machine, the Star, in 1981, but it was expensive, sold to offices and never caught on. The graphical interface that Xerox had invented became the basis of Apple's, and later Microsoft's, fortunes.",
+  "lesson": "An invention is only as valuable as the vision for using it. Make sure the people who decide can see what your best ideas are good for.",
+  "people": "Steve Jobs, Larry Tesler, Adele Goldberg, Xerox PARC",
+  "date": "1979",
+  "year": 1979,
+  "location": "Palo Alto, California (USA)",
+  "source": "Michael Hiltzik, Dealers of Lightning (1999); Douglas K. Smith and Robert C. Alexander, Fumbling the Future (1988)",
+  "basis": "documented",
+  "caveat": "Accounts differ on how many visits there were and what exactly was shown, and Apple's interface work had begun before the visit."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "story-steiner-process-loss-1972",
+  "category": "team",
+  "kind": "study",
+  "title": "Process Loss",
+  "text": "In 1972, Ivan Steiner, a social psychologist, published Group Process and Productivity, a book that offered a simple framework for understanding why groups so often fall short of their promise.\n\nSteiner proposed that a group's actual productivity equals its potential productivity minus losses due to faulty process. Potential productivity is what the group could achieve if it used its members' resources perfectly. Process losses come from two sources: coordination losses, when members' efforts do not combine efficiently, and motivation losses, when members put in less effort than they could. Ringelmann's rope-pulling experiments were, for Steiner, a clear example of both.\n\nSteiner also classified group tasks by how members' contributions combine. In additive tasks, like pulling a rope, the group's output is the sum of individual efforts. In disjunctive tasks, like solving a puzzle with one right answer, the group's result depends on its best member. In conjunctive tasks, like climbers roped together, it depends on its weakest member. In discretionary tasks, the group can decide how to combine contributions.\n\nDifferent kinds of tasks made groups vulnerable to different process losses, so the way to improve a group depended on understanding the task it faced.",
+  "lesson": "A group's results depend on how well it combines its talents, not just how much talent it has. Study how your team's work fits together and fix the process.",
+  "people": "Ivan Steiner",
+  "date": "1972",
+  "year": 1972,
+  "location": "United States",
+  "source": "Steiner, I. D. (1972). Group Process and Productivity. Academic Press.",
+  "basis": "study"
+}

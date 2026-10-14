@@ -1,0 +1,15 @@
+{
+  "id": "story-frey-oberholzer-gee-nuclear-waste-1997",
+  "category": "strategy",
+  "kind": "study",
+  "title": "Paying a Town to Accept Nuclear Waste",
+  "text": "In the early 1990s the Swiss government was searching for a site to store low and medium level radioactive waste, and communities in central Switzerland were among the candidates. In 1993 the economists Bruno Frey and Felix Oberholzer-Gee surveyed residents of the area.\n\nFirst, residents were asked whether they would accept a repository in their community if parliament decided to build it there. About half, a little over 50 percent, said yes, despite real fears about safety. Many explained that they saw it as a civic duty: the waste had to go somewhere, and someone had to accept it.\n\nThen the researchers asked the same question with an added offer: the federal government would pay each resident a substantial sum of compensation every year. Standard economics predicts that money should increase acceptance. Instead, support fell to about 25 percent. Raising the amount offered did not bring it back up.\n\nFrey and Oberholzer-Gee argued that the offer of money crowded out civic motivation. Accepting the facility for the common good felt honorable; accepting it in exchange for cash felt like a bribe, or suggested that the risks were greater than officials admitted. Once the decision was framed as a deal, people judged it as a deal, and many found the price too low. The study became a key example of motivation crowding, the idea that external rewards can weaken intrinsic or moral reasons for acting.",
+  "lesson": "When asking people to bear a burden for a shared good, appeal first to their sense of duty and fairness. Offering money can turn a civic act into a bargain and make people less willing.",
+  "people": "Bruno Frey, Felix Oberholzer-Gee",
+  "date": "1997",
+  "year": 1997,
+  "location": "Central Switzerland",
+  "source": "Frey, B. S., and Oberholzer-Gee, F. (1997). The cost of price incentives: An empirical analysis of motivation crowding-out. American Economic Review, 87(4), 746-755.",
+  "basis": "study",
+  "caveat": "The findings come from survey answers about a hypothetical offer, not from observed behavior."
+}

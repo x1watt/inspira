@@ -1,0 +1,15 @@
+{
+  "id": "story-ariely-large-stakes-big-mistakes-2009",
+  "category": "leadership",
+  "kind": "study",
+  "title": "Large Stakes, Big Mistakes",
+  "text": "Many companies assume that the bigger the bonus, the better people will perform. In 2009 Dan Ariely, Uri Gneezy, George Loewenstein and Nina Mazar published a test of what happens when the stakes become very large.\n\nBecause large rewards are expensive, they ran their main experiment in rural India, near the city of Madurai, where modest sums of money in dollar terms meant a great deal. Participants played several games requiring concentration, memory, creativity or motor skill, such as remembering sequences of numbers, solving a puzzle under time pressure or throwing balls at a target. They were randomly offered small, medium or very large payments for reaching performance targets. The very large payment was roughly equal to several months of typical spending for people in the area.\n\nPerformance did not rise with the reward. People offered small and medium payments performed similarly, while those offered the very large payment performed worst on most of the tasks. In a separate study at MIT, larger rewards improved performance on a simple task of pressing keys, but hurt performance on a task requiring arithmetic. The authors concluded that very high stakes can make people choke.",
+  "lesson": "Very high stakes can make people tense and worse at tasks that need careful thinking. Keep pressure in proportion, especially for skilled and creative work.",
+  "people": "Dan Ariely, Uri Gneezy, George Loewenstein, Nina Mazar",
+  "date": "2009",
+  "year": 2009,
+  "location": "Madurai, India, and Massachusetts Institute of Technology, USA",
+  "source": "Ariely, D., Gneezy, U., Loewenstein, G., and Mazar, N. (2009). Large stakes and big mistakes. Review of Economic Studies, 76(2), 451-469.",
+  "basis": "study",
+  "caveat": "The samples were modest in size, so the precise drop in performance should not be overstated."
+}

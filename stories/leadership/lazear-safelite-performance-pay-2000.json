@@ -1,0 +1,15 @@
+{
+  "id": "story-lazear-safelite-performance-pay-2000",
+  "category": "leadership",
+  "kind": "study",
+  "title": "The Windshield Installers of Safelite",
+  "text": "In the mid 1990s Safelite Glass, then the largest installer of car windshields in the United States, changed how it paid the workers who drove to customers and fitted the glass. Under the old system, installers were paid by the hour. Under the new one, they were paid a set amount for each windshield installed, with a guaranteed minimum so that no one would earn less than before.\n\nThe economist Edward Lazear, of Stanford, obtained detailed monthly records of each worker's output before and after the change, covering several thousand employees. Because the switch was rolled out across the company over about a year and a half, he could compare the same people under both systems.\n\nOutput per worker rose by about 44 percent. Lazear found that roughly half of this came from existing workers simply doing more once their effort was rewarded. The other half came from a change in who worked there: more productive workers were attracted to the company and stayed, while less productive ones were more likely to leave. Pay rose too, and the company's profits increased.",
+  "lesson": "How you pay people shapes not only how hard they work but who chooses to work for you. Think about whom an incentive will attract as well as what it will reward.",
+  "people": "Edward Lazear",
+  "date": "1994 to 1995 (published 2000)",
+  "year": 2000,
+  "location": "Safelite Glass Corporation, USA",
+  "source": "Lazear, E. P. (2000). Performance pay and productivity. American Economic Review, 90(5), 1346-1361.",
+  "basis": "study",
+  "caveat": "Installing windshields is easy to count and to check for quality, which is why piece rates worked so well here; in complex jobs they can backfire."
+}

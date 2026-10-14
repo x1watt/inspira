@@ -1,0 +1,15 @@
+{
+  "id": "story-bloom-ctrip-working-from-home-2015",
+  "category": "leadership",
+  "kind": "study",
+  "title": "Working From Home at Ctrip",
+  "text": "In 2010 the Chinese travel company Ctrip, which ran a large call center in Shanghai, wanted to know whether letting staff work from home would help or hurt. Its cofounder James Liang, then a doctoral student at Stanford, designed an experiment with the economist Nicholas Bloom.\n\nCall center employees were invited to volunteer. Among the volunteers who had a suitable room at home and enough experience, those with even-numbered birthdays were allowed to work from home four days a week for nine months, while those with odd-numbered birthdays stayed in the office. Both groups used the same equipment and software and were paid in the same way.\n\nThe home workers performed about 13 percent better, mostly because they worked more minutes per shift, with fewer breaks and sick days, and partly because they handled more calls per minute in a quieter setting. Their quit rate was about half that of the office group. Yet when the experiment ended and Ctrip offered the option to all, about half of the home group chose to return to the office, many saying they felt lonely. Their promotion rate had also been lower given their performance.",
+  "lesson": "Results, not presence, measure good work, but people still need contact and visibility. Offer flexibility, and keep remote people connected and in view.",
+  "people": "Nicholas Bloom, James Liang, John Roberts, Zhichun Jenny Ying",
+  "date": "2010 to 2011 (published 2015)",
+  "year": 2015,
+  "location": "Ctrip, Shanghai, China",
+  "source": "Bloom, N., Liang, J., Roberts, J., and Ying, Z. J. (2015). Does working from home work? Evidence from a Chinese experiment. Quarterly Journal of Economics, 130(1), 165-218.",
+  "basis": "study",
+  "caveat": "The jobs were simple, easily measured call center work, so the results may not transfer to tasks that need close collaboration."
+}

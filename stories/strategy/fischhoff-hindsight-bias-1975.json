@@ -1,0 +1,14 @@
+{
+  "id": "story-fischhoff-hindsight-bias-1975",
+  "category": "strategy",
+  "kind": "study",
+  "title": "I Knew It All Along",
+  "text": "In the early 1970s Baruch Fischhoff, then a graduate student at the Hebrew University of Jerusalem, studied what knowing the ending does to our sense of how predictable events were.\n\nHe gave participants short passages describing historical and clinical situations they were unlikely to know, among them a nineteenth-century conflict between the British and the Gurkhas of Nepal. Each passage listed several possible outcomes. Some participants were told nothing about how the story ended. Others were told that one particular outcome had happened. Everyone then rated how likely each outcome had been, judged as if they did not know the result.\n\nThose told an outcome rated it as considerably more likely than those who had not been told. Whatever ending they had been given, that ending now seemed to have been the probable one all along. They also judged the facts in the passage that pointed toward that outcome as more relevant. And when asked to answer as they would have without knowing, they could not undo the effect. The knowledge had blended into their understanding so smoothly that they did not notice it.\n\nFischhoff called this creeping determinism, now usually called hindsight bias. It has been confirmed in many studies since, in fields from medicine to law to business, and helps explain why people judge past decisions by their outcomes.",
+  "lesson": "Before judging an old decision, yours or someone else's, write down what was actually known at the time. Outcomes always look more predictable afterwards than they were.",
+  "people": "Baruch Fischhoff",
+  "date": "1975",
+  "year": 1975,
+  "location": "Hebrew University of Jerusalem, Israel",
+  "source": "Fischhoff, B. (1975). Hindsight is not equal to foresight: The effect of outcome knowledge on judgment under uncertainty. Journal of Experimental Psychology: Human Perception and Performance, 1(3), 288-299.",
+  "basis": "study"
+}

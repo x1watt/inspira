@@ -1,0 +1,14 @@
+{
+  "id": "story-toyota-andon-cord",
+  "category": "team",
+  "kind": "history",
+  "title": "Anyone Can Stop the Line",
+  "text": "In most mid-twentieth-century car factories, the assembly line was sacred. If a worker spotted a defect, the car kept moving and the problem was fixed, if at all, at the end of the line or by inspectors. Stopping the line was expensive and only managers could do it.\n\nAt Toyota, the engineer Taiichi Ohno built a different system in the decades after the Second World War. One of its two pillars was jidoka, which Toyota traced back to Sakichi Toyoda's automatic loom, a machine that stopped itself when a thread broke so that no defective cloth was woven. Ohno applied the same idea to people. Every worker on the line could pull a cord, or press a button, when something was wrong. A signal board called an andon lit up, and a team leader came at once to help. If the problem could not be solved quickly, the whole line stopped.\n\nTo outsiders this looked wasteful. Ohno saw it the other way: each stop exposed a problem that could then be traced to its root cause, often by asking \"why\" repeatedly, and fixed so it would not happen again. Workers were expected to raise problems, not hide them, and were not blamed for doing so.\n\nOver the following decades the Toyota Production System gave the company a reputation for quality and efficiency that rivals spent years trying to copy.",
+  "lesson": "Give everyone on the team the authority and the duty to raise a problem the moment they see it. Problems surfaced early are cheap; hidden ones are expensive.",
+  "people": "Taiichi Ohno, Sakichi Toyoda, Toyota workers",
+  "date": "1950s onward",
+  "year": 1955,
+  "location": "Toyota City, Aichi Prefecture, Japan",
+  "source": "Taiichi Ohno, Toyota Production System: Beyond Large-Scale Production (1978; English edition 1988)",
+  "basis": "documented"
+}

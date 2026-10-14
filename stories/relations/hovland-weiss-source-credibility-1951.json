@@ -1,0 +1,15 @@
+{
+  "id": "story-hovland-weiss-source-credibility-1951",
+  "category": "relations",
+  "kind": "study",
+  "title": "Who Said It, and the Sleeper Effect",
+  "text": "In 1951 Carl Hovland and Walter Weiss of Yale University asked how much the reputation of a source affects persuasion, and how long the effect lasts. They gave students printed articles on several topics, such as whether antihistamine drugs should be sold without a prescription and whether a practical atomic-powered submarine could be built soon.\n\nEach article was presented as coming either from a highly trusted source or from a doubtful one. For the submarine article, for example, the trusted source was the physicist J. Robert Oppenheimer and the doubtful one was Pravda, the Soviet newspaper. The articles themselves were identical. The researchers measured opinions before reading, right after, and again four weeks later.\n\nRight after reading, the trusted sources changed opinions much more than the doubtful ones, even though the arguments were the same. But four weeks later, the gap had largely closed. People who had read the trusted source had drifted back somewhat, while those who had read the doubtful source had moved further toward the message. Over time, people seemed to remember what they had read but forget, or stop connecting it with, where it came from. Hovland and his colleagues had earlier named this delayed rise in persuasion the sleeper effect.",
+  "lesson": "People remember messages longer than they remember who sent them. Check the source when you hear something, because later you will only remember the claim.",
+  "people": "Carl Hovland, Walter Weiss",
+  "date": "1951",
+  "year": 1951,
+  "location": "Yale University, New Haven, USA",
+  "source": "Hovland, C. I., and Weiss, W. (1951). The influence of source credibility on communication effectiveness. Public Opinion Quarterly, 15(4), 635-650.",
+  "basis": "study",
+  "caveat": "Later research found the sleeper effect is fragile and appears only under specific conditions."
+}

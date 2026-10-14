@@ -1,0 +1,14 @@
+{
+  "id": "story-shubik-dollar-auction-1971",
+  "category": "strategy",
+  "kind": "study",
+  "title": "The Dollar Auction",
+  "text": "In 1971 the Yale economist and game theorist Martin Shubik described a simple game that he and colleagues had tried at parties and in classrooms. An auctioneer offers a one-dollar bill to the highest bidder. Bids rise in small steps, such as five cents. There is one unusual rule: the second-highest bidder must also pay what they bid, and gets nothing.\n\nThe game starts innocently. Bidding a few cents for a dollar seems like a bargain, and several people join in. As bids approach a dollar, most drop out, leaving two. Now the trap closes. Suppose one bidder is at 90 cents and the other at 95. The lower bidder reasons that it is better to bid a dollar and break even than to lose 90 cents. The other, at 95 cents, then faces losing 95 cents, so bidding 1.05 dollars, and losing only five cents, looks better. Each step makes sense on its own, and the bidding goes past the dollar.\n\nShubik reported that the total bids often exceeded a dollar, sometimes by a wide margin. Later classroom versions, including those run by Max Bazerman with MBA students, saw a twenty-dollar bill sold for far more than twenty dollars.\n\nShubik presented the game as a model of escalation: arms races, price wars, strikes and long legal battles, where each side keeps investing because quitting means accepting the loss already incurred.",
+  "lesson": "Before entering a contest where losers also pay, decide how much you are willing to spend in total. Once in, judge each next step by future value, not by what you have already paid.",
+  "people": "Martin Shubik",
+  "date": "1971",
+  "year": 1971,
+  "location": "Yale University, New Haven, USA",
+  "source": "Shubik, M. (1971). The dollar auction game: A paradox in noncooperative behavior and escalation. Journal of Conflict Resolution, 15(1), 109-111.",
+  "basis": "study"
+}

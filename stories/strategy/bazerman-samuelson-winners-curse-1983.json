@@ -1,0 +1,14 @@
+{
+  "id": "story-bazerman-samuelson-winners-curse-1983",
+  "category": "strategy",
+  "kind": "study",
+  "title": "The Jar of Coins and the Winner's Curse",
+  "text": "In the early 1980s Max Bazerman and William Samuelson, then at Boston University, ran a simple auction in their MBA classes. They showed students a jar of coins, worth eight dollars, though the students did not know this, and auctioned it to the highest bidder. Students also wrote down their estimate of the jar's value. The procedure was repeated across many class sessions with jars of coins and of other small items.\n\nOn average, students underestimated the contents: the mean estimate was well below the true value. Yet the winning bids averaged above ten dollars. The winners lost money, around two dollars on average. The reason was not that the typical student overestimated. It was that the auction selected the person who had overestimated the most. Whoever won was, almost by definition, the bidder with the most optimistic error.\n\nThis phenomenon had been noticed in the 1970s by petroleum engineers, who saw oil companies winning drilling leases and then earning disappointing returns. They called it the winner's curse. Bazerman and Samuelson showed it in a controlled setting and found that it grew worse with more bidders and with more uncertainty about the value.\n\nThe title they chose captured the result: \"I won the auction but don't want the prize.\"",
+  "lesson": "When you win a bidding contest for something of uncertain value, ask why others valued it less. Bid as if winning means you were the most optimistic person in the room.",
+  "people": "Max Bazerman, William Samuelson",
+  "date": "1983",
+  "year": 1983,
+  "location": "Boston University, USA",
+  "source": "Bazerman, M. H., and Samuelson, W. F. (1983). I won the auction but don't want the prize. Journal of Conflict Resolution, 27(4), 618-634.",
+  "basis": "study"
+}

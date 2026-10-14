@@ -1,0 +1,14 @@
+{
+  "id": "story-thaler-dynamic-inconsistency-1981",
+  "category": "strategy",
+  "kind": "study",
+  "title": "An Apple Today or Two Tomorrow",
+  "text": "In 1981 the economist Richard Thaler published a short paper on a puzzle in how people value time. Standard economic theory assumed people discount future rewards at a steady rate: if waiting a month is worth a certain premium, waiting a year should be worth proportionally more, and preferences should not change as dates approach.\n\nThaler illustrated the problem with apples. Many people would prefer one apple today to two apples tomorrow. But almost nobody would prefer one apple in a year to two apples in a year and a day. The extra day of waiting is the same in both cases, yet it feels very different when it starts now.\n\nHe then asked students in the United States how much money they would need to receive later to make them indifferent to receiving 15 dollars right away. The typical answers were about 20 dollars in a month, 50 dollars in a year and 100 dollars in ten years. Converted to yearly interest rates, those answers imply enormous discounting over short delays and far milder discounting over long ones. Similar patterns appeared for larger sums and for losses, though people discounted large amounts and losses less steeply.\n\nThis pattern, later known as present bias or hyperbolic discounting, means that plans made in advance tend to unravel. From a distance, people choose patience; when the moment arrives, the immediate reward suddenly looms larger.",
+  "lesson": "Your future self will feel the pull of the present more than you expect. Make important commitments in advance and remove easy chances to back out when the moment comes.",
+  "people": "Richard Thaler",
+  "date": "1981",
+  "year": 1981,
+  "location": "USA",
+  "source": "Thaler, R. (1981). Some empirical evidence on dynamic inconsistency. Economics Letters, 8(3), 201-207.",
+  "basis": "study"
+}

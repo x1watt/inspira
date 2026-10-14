@@ -1,0 +1,14 @@
+{
+  "id": "story-meehl-clinical-vs-statistical-1954",
+  "category": "strategy",
+  "kind": "study",
+  "title": "Clinical Versus Statistical Prediction",
+  "text": "In 1954 Paul Meehl, a psychologist at the University of Minnesota who was himself a practicing clinician, published a short book with an uncomfortable question at its heart. When professionals predict how people will turn out, are they better than a simple formula?\n\nMeehl gathered the studies then available, about twenty of them, that compared two ways of making the same prediction. In one, trained experts such as psychologists, psychiatrists or counselors studied the case and used their judgment. In the other, a few pieces of information, such as test scores or past records, were combined by a fixed statistical rule. The outcomes predicted included success in school or training, parole violations and response to psychiatric treatment.\n\nIn almost every comparison, the formula did as well as the experts or better. The clinicians had more information and years of experience, yet their holistic judgments added little or nothing to the accuracy of a mechanical combination. Meehl was careful to say that experts were still needed to decide what to measure and to handle rare situations the formula did not cover.\n\nThe book caused an uproar among clinicians. Over the following decades, many more comparisons were run in medicine, finance, hiring and other fields. A 2000 meta-analysis by William Grove and colleagues, covering well over a hundred studies, confirmed Meehl's conclusion: mechanical prediction was on average modestly more accurate, and rarely worse.",
+  "lesson": "For repeated decisions like hiring or approving loans, write down a few relevant criteria and score them consistently. A simple rule applied the same way every time often beats confident gut feeling.",
+  "people": "Paul Meehl",
+  "date": "1954",
+  "year": 1954,
+  "location": "University of Minnesota, Minneapolis, USA",
+  "source": "Meehl, P. E. (1954). Clinical Versus Statistical Prediction: A Theoretical Analysis and a Review of the Evidence. Minneapolis: University of Minnesota Press.",
+  "basis": "study"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "story-nagel-beauty-contest-guessing-1995",
+  "category": "strategy",
+  "kind": "study",
+  "title": "Guess Two Thirds of the Average",
+  "text": "John Maynard Keynes once compared the stock market to a newspaper beauty contest in which readers win by picking not the face they find prettiest, but the one they expect others to pick. In 1995 the economist Rosemarie Nagel published experiments that turned this idea into a simple game.\n\nGroups of about fifteen to eighteen students in Germany were each asked to choose a number from 0 to 100. The winner was the person whose number came closest to a fraction, for example two thirds, of the group's average. The game was repeated four times, with the results announced after each round.\n\nIf everyone chose at random, the average would be around 50, so a smart player might guess about 33. But if everyone thought that way, the best answer would be about 22, and so on. Following this logic all the way leads to zero, the game's theoretical solution. Few players went that far. Nagel found clusters of first-round choices near 33 and 22, suggesting that most players reasoned one or two steps ahead and stopped. Some chose numbers with no clear reasoning. Over the repeated rounds, guesses fell steadily toward zero as players learned how others behaved.\n\nNagel's study launched a large body of research on how many steps of reasoning people actually perform. It showed that the winning answer is not the most logical one, but the one that correctly anticipates how deeply others think.",
+  "lesson": "In any competitive situation, think about how others will actually reason, not how a perfectly logical player would. Being exactly one step ahead often beats being many steps ahead.",
+  "people": "Rosemarie Nagel",
+  "date": "1995",
+  "year": 1995,
+  "location": "Germany",
+  "source": "Nagel, R. (1995). Unraveling in guessing games: An experimental study. American Economic Review, 85(5), 1313-1326.",
+  "basis": "study"
+}

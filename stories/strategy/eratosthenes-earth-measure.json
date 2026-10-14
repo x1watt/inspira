@@ -1,0 +1,15 @@
+{
+  "id": "story-eratosthenes-earth-measure",
+  "category": "strategy",
+  "kind": "history",
+  "title": "Eratosthenes Measures the Earth",
+  "text": "Around 240 BC Eratosthenes, librarian of the great library at Alexandria, set out to measure the size of the Earth without leaving Egypt. Greek scholars already accepted that the Earth was a sphere. The question was how big.\n\nThe method is described by the later astronomer Cleomedes. Eratosthenes had learned that at Syene, in the south of Egypt, on the day of the summer solstice the noon sun shone straight down, so that upright objects cast no shadow. On the same day at noon in Alexandria, farther north, a vertical pointer in a bowl-shaped sundial did cast a short shadow. He measured the angle of that shadow at about one fiftieth of a full circle.\n\nAssuming that the sun was so far away that its rays arrive parallel, and that Syene lay due south of Alexandria, the angle of the shadow equals the angle between the two cities at the center of the Earth. So the distance between them must be one fiftieth of the Earth's circumference. Taking that distance as 5,000 stadia, he multiplied by fifty and arrived at 250,000 stadia.\n\nWe do not know exactly which stadium length he used, so his precise accuracy is debated. But depending on the conversion, his figure falls fairly close to the true circumference, an astonishing result from a shadow, a distance and a piece of geometry.",
+  "lesson": "A problem that seems too large to handle directly can often be solved by finding a small, measurable piece connected to it by sound reasoning.",
+  "people": "Eratosthenes of Cyrene",
+  "date": "c. 240 BC",
+  "year": -240,
+  "location": "Alexandria and Syene (modern Aswan), Egypt",
+  "source": "Cleomedes, On the Circular Motions of the Celestial Bodies 1.7",
+  "basis": "documented",
+  "caveat": "The length of the stadium Eratosthenes used is uncertain, so claims about how accurate he was vary."
+}

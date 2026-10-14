@@ -1,0 +1,14 @@
+{
+  "id": "story-cain-loewenstein-moore-disclosure-2005",
+  "category": "strategy",
+  "kind": "study",
+  "title": "The Dirt on Coming Clean",
+  "text": "A common remedy for conflicts of interest is disclosure: if an adviser tells you they have something to gain from your choice, you can take their advice with a grain of salt. In 2005 Daylian Cain, George Loewenstein and Don Moore of Carnegie Mellon University tested whether this works.\n\nParticipants were paired as estimators and advisers. Estimators saw jars of coins briefly and from a distance, then guessed the value of the coins, earning money for accuracy. Advisers had a better view and extra information, and gave the estimators advice. In one condition, advisers were also paid for accuracy. In the others, advisers were paid more the higher the estimator's guess, a conflict of interest. Sometimes this conflict was disclosed to the estimator; sometimes it was kept hidden.\n\nDisclosure backfired. Advisers whose conflict was disclosed gave even more inflated advice than those whose conflict was hidden, as if having confessed made them feel freer to exaggerate, or as if they expected their advice to be discounted and pushed harder to compensate. Estimators did discount disclosed advice, but not nearly enough. As a result, estimators who were told about the conflict ended up with less accurate guesses and earned less than those who were not told, while advisers earned more.\n\nThe authors concluded that disclosure, often treated as a cure for conflicts of interest, can make matters worse for the very people it is meant to protect.",
+  "lesson": "When an adviser discloses a conflict of interest, do not assume you can simply adjust for it. Seek a second opinion from someone who does not gain from your decision.",
+  "people": "Daylian Cain, George Loewenstein, Don Moore",
+  "date": "2005",
+  "year": 2005,
+  "location": "Carnegie Mellon University, Pittsburgh, USA",
+  "source": "Cain, D. M., Loewenstein, G., and Moore, D. A. (2005). The dirt on coming clean: Perverse effects of disclosing conflicts of interest. Journal of Legal Studies, 34(1), 1-25.",
+  "basis": "study"
+}

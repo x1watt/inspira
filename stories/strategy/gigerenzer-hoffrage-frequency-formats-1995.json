@@ -1,0 +1,14 @@
+{
+  "id": "story-gigerenzer-hoffrage-frequency-formats-1995",
+  "category": "strategy",
+  "kind": "study",
+  "title": "Natural Frequencies",
+  "text": "A classic problem in medical reasoning goes like this. The probability that a woman of a certain age has breast cancer is 1 percent. If she has cancer, the probability that a mammogram is positive is 80 percent. If she does not, the probability of a positive result is still 9.6 percent. A woman tests positive. What is the chance she actually has cancer? The correct answer is only about 8 percent, but most people, including many doctors in earlier studies, guess far higher, often around 70 or 80 percent.\n\nIn 1995 the psychologists Gerd Gigerenzer and Ulrich Hoffrage argued that the difficulty lay less in people's minds than in the format of the information. Human beings, they reasoned, did not evolve to handle percentages and conditional probabilities, but they are used to counting cases as they encounter them.\n\nThey gave university students a set of such problems in two formats. One used probabilities as above. The other used natural frequencies: of 1,000 women, 10 have breast cancer; of these 10, 8 test positive; of the 990 without cancer, about 95 also test positive. Put that way, the answer becomes visible: 8 of the roughly 103 women who test positive actually have cancer. With probabilities, only about one in six students reasoned correctly. With natural frequencies, the share rose to almost half, with no training at all.\n\nGigerenzer later used this approach to teach doctors and judges to understand test results and risks.",
+  "lesson": "When you explain or judge a risk, such as a test result, turn the percentages into counts: out of 1,000 people, how many have the condition, how many test positive, and how many of those are real cases.",
+  "people": "Gerd Gigerenzer, Ulrich Hoffrage",
+  "date": "1995",
+  "year": 1995,
+  "location": "Germany and USA",
+  "source": "Gigerenzer, G., and Hoffrage, U. (1995). How to improve Bayesian reasoning without instruction: Frequency formats. Psychological Review, 102(4), 684-704.",
+  "basis": "study"
+}

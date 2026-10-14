@@ -1,0 +1,15 @@
+{
+  "id": "story-haynes-surgical-safety-checklist-2009",
+  "category": "team",
+  "kind": "study",
+  "title": "The Surgical Safety Checklist",
+  "text": "In 2007 and 2008, a team led by Alex Haynes and Atul Gawande, working with the World Health Organization, tested a simple one-page checklist in eight hospitals in very different settings: Toronto, New Delhi, Amman, Auckland, Manila, Ifakara in Tanzania, London and Seattle.\n\nThe checklist had three short pauses. Before anesthesia, the team confirmed the patient's identity, the procedure and the risks. Before the first incision, everyone in the room introduced themselves by name and role, and the surgeon, anesthetist and nurses briefly went over what to expect. Before the patient left the room, they checked counts of instruments and sponges and discussed recovery.\n\nThe researchers compared thousands of operations before and after the checklist was introduced. The rate of major complications fell from about 11 percent to about 7 percent, and deaths after surgery fell from about 1.5 percent to about 0.8 percent. Improvements appeared in rich and poor hospitals alike. The researchers suggested that the gains came not only from catching specific errors but from changing how the team worked together, including the moment when every person in the room was named and invited to speak.",
+  "lesson": "A short routine that makes everyone speak at the start of a task can save a team from its own silence. Introduce yourselves and say aloud what could go wrong.",
+  "people": "Alex Haynes, Atul Gawande and colleagues",
+  "date": "2009",
+  "year": 2009,
+  "location": "Eight hospitals in Canada, India, Jordan, New Zealand, the Philippines, Tanzania, the UK and the USA",
+  "source": "Haynes, A. B., Weiser, T. G., Berry, W. R., Lipsitz, S. R., Breizat, A. H., Dellinger, E. P., et al. (2009). A surgical safety checklist to reduce morbidity and mortality in a global population. New England Journal of Medicine, 360(5), 491-499.",
+  "basis": "study",
+  "caveat": "It was a before and after study without a control group, and some later evaluations, such as one in Ontario, found smaller or no improvements when checklists were mandated."
+}

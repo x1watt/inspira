@@ -1,0 +1,15 @@
+{
+  "id": "story-hong-page-diversity-trumps-ability-2004",
+  "category": "team",
+  "kind": "study",
+  "title": "Diversity Trumps Ability",
+  "text": "Lu Hong, an economist, and Scott Page, a complex systems scientist at the University of Michigan, asked a question with a computer model rather than with people: when solving a hard problem, is it better to have a team of the best individual problem solvers, or a team of varied ones?\n\nThey created simulated agents, each with its own set of simple rules, or heuristics, for searching through a large set of possible solutions to find the best one. Each agent got stuck at different points, depending on its heuristics. The researchers first measured how well each agent did alone. Then they compared two kinds of teams: one made of the best performing agents, and one made of agents chosen at random from a large pool.\n\nIn many runs of the model, the random teams outperformed the teams of top performers. The reason was that the best individual agents tended to use similar heuristics, so they got stuck in the same places. The random teams contained more varied approaches, so when one agent got stuck, another could often find a way forward. Hong and Page gave mathematical conditions under which this result holds, and summed it up in a phrase that became famous: diversity trumps ability.",
+  "lesson": "A group of people who all think alike can get stuck together. When building a team for hard problems, look for different ways of thinking, not just the strongest CVs.",
+  "people": "Lu Hong, Scott Page",
+  "date": "2004",
+  "year": 2004,
+  "location": "University of Michigan, Ann Arbor, USA (computer model)",
+  "source": "Hong, L., and Page, S. E. (2004). Groups of diverse problem solvers can outperform groups of high-ability problem solvers. Proceedings of the National Academy of Sciences, 101(46), 16385-16389.",
+  "basis": "study",
+  "caveat": "It is a mathematical model, not a study of real teams, and critics such as the mathematician Abigail Thompson have argued that its conclusions depend on narrow assumptions."
+}

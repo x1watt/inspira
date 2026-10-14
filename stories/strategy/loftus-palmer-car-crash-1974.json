@@ -1,0 +1,14 @@
+{
+  "id": "story-loftus-palmer-car-crash-1974",
+  "category": "strategy",
+  "kind": "study",
+  "title": "Smashed or Hit",
+  "text": "In 1974 Elizabeth Loftus and John Palmer of the University of Washington showed students short films of traffic accidents. Afterwards the students answered questions about what they had seen, including one about speed. The wording of that question varied: \"About how fast were the cars going when they\" smashed into, collided with, bumped, hit or contacted each other?\n\nThe verb alone changed the answers. Students asked about cars that \"smashed\" estimated an average speed of about 41 miles per hour. Those asked about cars that \"contacted\" each other estimated about 32 miles per hour, with the other verbs in between.\n\nIn a second experiment, students saw a film of a crash and were asked either the \"smashed\" question, the \"hit\" question, or no question about speed. A week later they returned and were asked whether they had seen any broken glass. There had been none in the film. About 32 percent of the \"smashed\" group said they had seen broken glass, compared with about 14 percent of the \"hit\" group and 12 percent of those not asked about speed.\n\nLoftus and Palmer concluded that the question had not just biased the answer. It had changed the memory itself, adding details consistent with a violent crash. The study launched decades of research by Loftus on how memory can be altered after the fact, with important consequences for how police and courts question eyewitnesses.",
+  "lesson": "Memory is rebuilt each time we recall it, and the words used in questions can reshape it. When you need an honest account, ask open, neutral questions and avoid suggesting the answer.",
+  "people": "Elizabeth Loftus, John Palmer",
+  "date": "1974",
+  "year": 1974,
+  "location": "University of Washington, Seattle, USA",
+  "source": "Loftus, E. F., and Palmer, J. C. (1974). Reconstruction of automobile destruction: An example of the interaction between language and memory. Journal of Verbal Learning and Verbal Behavior, 13(5), 585-589.",
+  "basis": "study"
+}

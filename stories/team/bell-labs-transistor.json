@@ -1,0 +1,14 @@
+{
+  "id": "story-bell-labs-transistor",
+  "category": "team",
+  "kind": "history",
+  "title": "The Transistor Team at Bell Labs",
+  "text": "After the Second World War, Bell Telephone Laboratories set up a solid-state physics group to find a replacement for the vacuum tube, which was bulky, hot and unreliable. William Shockley led it. Two of its members made a remarkable pair: John Bardeen, a quiet theorist, and Walter Brattain, a skilled experimentalist who could build almost anything.\n\nWorking closely, with Bardeen suggesting what to try and Brattain building it, they spent months chasing problems at the surface of semiconductor crystals. In December 1947 Brattain pressed two gold contacts, very close together, onto a piece of germanium. A small signal going in came out amplified. It was the first transistor, and they showed it to Bell Labs management on 23 December.\n\nShockley had not been part of the final breakthrough, and he was stung. Over the next weeks, working largely alone, he worked out a different and better design, the junction transistor, which became the basis of later devices. But he began to shut Bardeen and Brattain out of his work, and the group soured. In publicity photographs Shockley appeared at the center, seated at the apparatus. Bardeen left Bell Labs in 1951 for the University of Illinois.\n\nIn 1956 the three men shared the Nobel Prize in Physics for the transistor. By then they were no longer working together. Bardeen went on to win a second Nobel, for superconductivity, with a new team.",
+  "lesson": "Collaboration can produce breakthroughs that no one would reach alone. Rivalry over credit can wreck the same team, so share recognition generously.",
+  "people": "John Bardeen, Walter Brattain, William Shockley",
+  "date": "1947 to 1951",
+  "year": 1947,
+  "location": "Bell Telephone Laboratories, Murray Hill, New Jersey, USA",
+  "source": "Michael Riordan and Lillian Hoddeson, Crystal Fire: The Birth of the Information Age (1997)",
+  "basis": "documented"
+}

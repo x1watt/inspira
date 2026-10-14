@@ -1,0 +1,14 @@
+{
+  "id": "story-kahneman-knetsch-thaler-fairness-1986",
+  "category": "relations",
+  "kind": "study",
+  "title": "The Snow Shovel Price",
+  "text": "Economists often assume that businesses charge whatever the market will bear. In the mid-1980s Daniel Kahneman, Jack Knetsch and Richard Thaler asked ordinary people whether they agreed. In telephone surveys of residents of Toronto and Vancouver, people were read short scenarios and asked whether the business behaved fairly.\n\nThe best known went like this: a hardware store has been selling snow shovels for 15 dollars. The morning after a large snowstorm, the store raises the price to 20 dollars. About 82 percent of respondents called this unfair. It was simply supply and demand, but people saw it as taking advantage of a sudden need.\n\nOther scenarios revealed the rules people used. A company that cut wages by 7 percent in a time of unemployment and no inflation was judged unfair by most respondents. When the company instead gave a 5 percent raise while inflation was 12 percent, cutting real wages by about the same amount, only a minority objected. People judged changes against a reference point: they considered it fair for firms to protect their profits when their costs rose, but unfair to exploit shifts in demand to take what customers and workers saw as theirs. The researchers argued that firms that ignore these norms risk punishment from customers and employees.",
+  "lesson": "People judge fairness by what they are used to and whether you seem to exploit their need. Raising prices or cutting pay can cost more in trust than it gains.",
+  "people": "Daniel Kahneman, Jack Knetsch, Richard Thaler",
+  "date": "1986",
+  "year": 1986,
+  "location": "Toronto and Vancouver, Canada",
+  "source": "Kahneman, D., Knetsch, J. L., and Thaler, R. H. (1986). Fairness as a constraint on profit seeking: Entitlements in the market. American Economic Review, 76(4), 728-741.",
+  "basis": "study"
+}

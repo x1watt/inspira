@@ -1,0 +1,14 @@
+{
+  "id": "story-romer-fourth-down-nfl-2006",
+  "category": "strategy",
+  "kind": "study",
+  "title": "Punting on Fourth Down",
+  "text": "In American football, a team that has failed to advance ten yards after three plays faces a choice on fourth down. It can try for the remaining distance, risking giving the ball to the opponent at that spot, or it can kick: a punt that pushes the opponent back, or a field goal attempt for three points. Coaches overwhelmingly choose to kick.\n\nThe economist David Romer of the University of California, Berkeley, asked whether this was the best strategy. Using play-by-play data from National Football League games in the 1998 to 2000 seasons, he estimated the value, in expected points, of having the ball at each spot on the field. He could then compare the expected payoff of going for it with the payoff of kicking in each situation.\n\nHis conclusion was striking. In many common situations, especially when only a few yards were needed or the team was in the opponent's half of the field, going for it would have produced more expected points than kicking. Teams nonetheless kicked in the great majority of such cases. He estimated that a better policy would win a team additional games over time, a meaningful edge in a short season.\n\nRomer titled the paper \"Do Firms Maximize?\" and argued that if professional teams with clear goals and abundant data deviate this much from the best choice, other organizations probably do too. He suggested that coaches might prefer the conventional decision because failing with an unusual one draws more blame. In the years after his work, NFL teams gradually began going for it more often.",
+  "lesson": "Conventional choices feel safe because failure is easier to defend. When the numbers favor a bolder option, it may be worth taking the criticism to win more often.",
+  "people": "David Romer",
+  "date": "2006",
+  "year": 2006,
+  "location": "University of California, Berkeley, USA (NFL data)",
+  "source": "Romer, D. (2006). Do firms maximize? Evidence from professional football. Journal of Political Economy, 114(2), 340-365.",
+  "basis": "study"
+}

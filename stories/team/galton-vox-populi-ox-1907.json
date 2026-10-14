@@ -1,0 +1,14 @@
+{
+  "id": "story-galton-vox-populi-ox-1907",
+  "category": "team",
+  "kind": "study",
+  "title": "Guessing the Weight of the Ox",
+  "text": "In 1906, the scientist Francis Galton, then in his eighties, visited the West of England Fat Stock and Poultry Exhibition in Plymouth. At the fair, a fat ox was on display, and visitors could buy a ticket for sixpence and write down their guess of its weight once it had been slaughtered and dressed. The best guesses won prizes.\n\nGalton was skeptical of the judgment of ordinary people, and he saw an opportunity to test it. After the contest, he borrowed the tickets. Some were illegible, but around 800 were usable. Some came from butchers and farmers, but many came from people with no particular expertise.\n\nHe arranged the estimates in order and took the middle one, the median, as the voice of the people. It was 1,207 pounds. The ox's actual dressed weight was 1,198 pounds. The crowd's middle estimate was off by less than one percent.\n\nGalton published his result in the journal Nature in 1907, under the title Vox Populi. He noted, somewhat to his surprise, that the collective judgment was more trustworthy than might have been expected.",
+  "lesson": "Many independent guesses, pooled, can beat most experts. When estimating, collect separate judgments before people discuss and combine them.",
+  "people": "Francis Galton",
+  "date": "1906 to 1907",
+  "year": 1907,
+  "location": "Plymouth, England, UK",
+  "source": "Galton, F. (1907). Vox populi. Nature, 75, 450-451.",
+  "basis": "study"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "story-kodak-digital-camera",
+  "category": "strategy",
+  "kind": "history",
+  "title": "Kodak Invents the Digital Camera",
+  "text": "In 1975 Steve Sasson, a young engineer at Eastman Kodak in Rochester, New York, was given a loose assignment: see whether a new kind of electronic image sensor could be used for anything. He built a contraption about the size of a toaster, weighing around eight pounds. It captured a black and white image of 100 by 100 pixels and took about 23 seconds to record it onto a cassette tape. A separate playback unit showed the picture on a television set.\n\nSasson later recalled showing it to managers in conference rooms. They asked why anyone would want to look at pictures on a TV, and how such images would be stored. Kodak made most of its money from film, paper and processing, with very high margins. A camera that needed no film threatened the core of the business.\n\nKodak did not ignore digital imaging. It patented Sasson's camera, did serious research, and later sold digital cameras and earned large sums from its patents. But it kept treating digital as a supplement to film rather than its replacement. As digital photography, and then phone cameras, swept the market in the 2000s, film sales collapsed. In January 2012 Kodak filed for bankruptcy protection.",
+  "lesson": "If your new idea threatens your profitable old one, someone else will build it anyway. Better to disrupt your own business than to protect it until the market does it for you.",
+  "people": "Steve Sasson, Eastman Kodak",
+  "date": "1975 to 2012",
+  "year": 1975,
+  "location": "Rochester, New York (USA)",
+  "source": "Steve Sasson's interviews and accounts (for example, New York Times, 2015); business histories of Eastman Kodak",
+  "basis": "documented",
+  "caveat": "The popular version that Kodak simply buried the invention is oversimplified: the company invested in digital but failed to rebuild its business model around it."
+}

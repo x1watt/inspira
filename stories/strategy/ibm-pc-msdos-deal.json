@@ -1,0 +1,14 @@
+{
+  "id": "story-ibm-pc-msdos-deal",
+  "category": "strategy",
+  "kind": "history",
+  "title": "Microsoft Keeps the Rights to DOS",
+  "text": "In 1980 IBM decided to enter the personal computer market quickly, using parts bought from outside suppliers. It approached a small company called Microsoft, run by Bill Gates and Paul Allen, for programming languages, and then also needed an operating system.\n\nMicrosoft did not have one. It obtained a system called 86-DOS from Seattle Computer Products, written by Tim Paterson, first under license and then outright, and adapted it for IBM. The crucial point was in the contract. Microsoft licensed the system to IBM, which shipped it as PC DOS, but did not sell it outright and kept the right to license it to other computer makers as MS-DOS.\n\nIBM launched the PC in August 1981, and it quickly became the business standard. Because IBM had used off-the-shelf parts, other companies such as Compaq soon built compatible machines. Each of them needed an operating system that ran the same software, and they bought it from Microsoft. As the clone market grew, Microsoft's revenue grew with every machine sold by IBM's competitors, while IBM's own share of the market it had created steadily shrank. The operating system, not the hardware, became the center of the industry, and Microsoft became one of the most valuable companies in the world.",
+  "lesson": "In any deal, look beyond the first payment to the rights you keep. A non-exclusive license can be worth far more than the sale itself.",
+  "people": "Bill Gates, Paul Allen, Tim Paterson, IBM",
+  "date": "1980 to 1981",
+  "year": 1980,
+  "location": "Boca Raton, Florida, and Seattle, Washington (USA)",
+  "source": "Paul Allen, Idea Man (2011); Paul Freiberger and Michael Swaine, Fire in the Valley",
+  "basis": "documented"
+}

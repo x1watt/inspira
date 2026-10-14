@@ -1,0 +1,15 @@
+{
+  "id": "story-operation-fortitude",
+  "category": "strategy",
+  "kind": "history",
+  "title": "Operation Fortitude",
+  "text": "As the Allies prepared to invade northern France in 1944, they faced a basic problem: the Germans knew an invasion was coming. The question was where. The shortest crossing was to the Pas de Calais, and German commanders expected the main blow there. The Allies planned to land in Normandy instead.\n\nOperation Fortitude was built to keep the Germans believing what they already believed. Planners invented a whole army group, the First United States Army Group, supposedly based in southeast England opposite Calais and commanded by George Patton, whom the Germans regarded as the Allies' most dangerous general. Its existence was signaled through fake radio traffic, some dummy equipment and planted references. Most importantly, MI5's Double Cross system controlled the German spy network in Britain: every German agent there had been caught or turned. Double agents, above all Juan Pujol, code-named Garbo, fed Berlin a steady stream of convincing reports. A separate deception, Fortitude North, suggested an invasion of Norway.\n\nAfter the Normandy landings on 6 June 1944, Garbo reported that they were only a diversion and that the real attack would come at Calais. German commanders took this seriously, and strong forces of the 15th Army stayed in the Pas de Calais for weeks, waiting for an attack that never came, while the Allies built up their beachhead in Normandy.",
+  "lesson": "The easiest deception confirms what the other side already expects. Control the sources your opponent trusts, and let him reach the wrong conclusion himself.",
+  "people": "Juan Pujol (Garbo), George S. Patton, the London Controlling Section and MI5",
+  "date": "1943 to 1944",
+  "year": 1944,
+  "location": "England and northern France",
+  "source": "Roger Hesketh, Fortitude: The D-Day Deception Campaign (official history, published 1999); Ben Macintyre, Double Cross (2012)",
+  "basis": "documented",
+  "caveat": "Historians debate how much of the visual deception, such as dummy tanks, the Germans actually saw; the double agents carried most of the weight."
+}

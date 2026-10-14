@@ -1,0 +1,14 @@
+{
+  "id": "story-staats-milkman-fox-team-scaling-fallacy-2012",
+  "category": "team",
+  "kind": "study",
+  "title": "The Team Scaling Fallacy",
+  "text": "When a project is falling behind, managers often add people to it. Bradley Staats, Katherine Milkman and Craig Fox suspected that people systematically underestimate how much larger teams slow down because of the extra coordination they require.\n\nIn one study, they gave teams of two or four people the task of building the same figure out of Lego bricks. Before starting, each team estimated how long the job would take. The four-person teams took considerably longer than the pairs to finish, yet they had not expected to, and their estimates were much further off than those of the smaller teams.\n\nThe authors called this the team scaling fallacy: as a team grows, people increasingly underestimate the time and effort it will need, because they think of more hands adding more output without accounting for the growing costs of coordinating everyone. They noted that this bias may lead managers to create teams that are larger than they should be.",
+  "lesson": "Adding people adds coordination costs that are easy to underestimate. Keep teams as small as the work allows, and pad estimates for large ones.",
+  "people": "Bradley Staats, Katherine Milkman, Craig Fox",
+  "date": "2012",
+  "year": 2012,
+  "location": "United States",
+  "source": "Staats, B. R., Milkman, K. L., and Fox, C. R. (2012). The team scaling fallacy: Underestimating the declining efficiency of larger teams. Organizational Behavior and Human Decision Processes, 118(2), 132-142.",
+  "basis": "study"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "story-pasteur-pouilly-le-fort",
+  "category": "strategy",
+  "kind": "history",
+  "title": "Pasteur's Public Test at Pouilly-le-Fort",
+  "text": "In 1881 anthrax was killing large numbers of sheep and cattle in France. Louis Pasteur announced that he had developed a vaccine against it. Many veterinarians were skeptical, and one of them, Hippolyte Rossignol, challenged Pasteur to prove it in public. The test was to be held at a farm at Pouilly-le-Fort, near Melun, southeast of Paris.\n\nPasteur accepted, and with his assistants Emile Roux and Charles Chamberland he set up a demonstration designed to leave no doubt. Fifty sheep were divided into two groups, along with a few other animals, mostly cattle. In May 1881 half the animals received two doses of vaccine some days apart. On 31 May all of the animals, vaccinated and unvaccinated alike, were injected with a deadly dose of anthrax.\n\nPasteur had committed himself publicly to the result. On 2 June a crowd of farmers, officials, veterinarians and journalists gathered at the farm. The vaccinated sheep were alive and healthy. The unvaccinated sheep were dead or dying, and the rest died soon after. The result was reported throughout Europe, and demand for the vaccine quickly followed.\n\nA century later, the historian Gerald Geison studied Pasteur's private notebooks. He found that the vaccine used at Pouilly-le-Fort had been prepared with a chemical method developed in Pasteur's lab by Chamberland and Roux, close to one used by a rival, Henri Toussaint, rather than the oxygen method Pasteur had implied in public.",
+  "lesson": "A clear, public demonstration with a control group can persuade skeptics far better than argument. Be honest about how you got the result, because the details come out.",
+  "people": "Louis Pasteur, Emile Roux, Charles Chamberland, Hippolyte Rossignol",
+  "date": "May to June 1881",
+  "year": 1881,
+  "location": "Pouilly-le-Fort, near Melun (France)",
+  "source": "Louis Pasteur, Chamberland and Roux, report to the Academy of Sciences (June 1881); Gerald L. Geison, The Private Science of Louis Pasteur (1995)",
+  "basis": "documented",
+  "caveat": "Geison's research showed Pasteur was not candid about the method used to make the vaccine."
+}

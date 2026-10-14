@@ -1,0 +1,15 @@
+{
+  "id": "story-huber-payne-puto-decoy-1982",
+  "category": "strategy",
+  "kind": "study",
+  "title": "The Decoy Option",
+  "text": "In 1982 Joel Huber, John Payne and Christopher Puto of Duke University published an experiment that challenged a basic assumption of choice theory: adding a new option to a menu should never increase the share of an option that was already there.\n\nStudents made choices between pairs of products in several categories, such as cars, restaurants, beers, lottery games and television sets. Each product was described on two attributes, for example a beer's price and its quality rating, or a car's mileage and its ride quality. In each pair, one option was better on one attribute and the other was better on the other, so there was a genuine trade-off.\n\nThen the researchers added a third option, the decoy. It was designed to be clearly worse than one of the two original options, call it the target, on both attributes, while not clearly worse than the other. Almost nobody chose the decoy. But its presence changed choices between the other two: the target, the option that dominated the decoy, gained share. Next to an obviously inferior neighbor, it looked like the smart choice.\n\nThe authors called this the asymmetric dominance effect, now often called the decoy or attraction effect. It has been used in pricing ever since, as in a medium drink priced just below a large one. Some later studies found it weaker when options are shown in realistic formats, such as pictures, rather than numbers.",
+  "lesson": "When one option looks clearly best, check whether it is only being compared with a deliberately weak alternative. Judge your top choices against each other, not against the filler.",
+  "people": "Joel Huber, John Payne, Christopher Puto",
+  "date": "1982",
+  "year": 1982,
+  "location": "Duke University, Durham, North Carolina, USA",
+  "source": "Huber, J., Payne, J. W., and Puto, C. (1982). Adding asymmetrically dominated alternatives: Violations of regularity and the similarity hypothesis. Journal of Consumer Research, 9(1), 90-98.",
+  "basis": "study",
+  "caveat": "Later studies (for example Frederick, Lee and Baskin, 2014) found the effect weaker or absent when options are presented perceptually rather than as numeric attributes."
+}

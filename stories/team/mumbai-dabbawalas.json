@@ -1,0 +1,15 @@
+{
+  "id": "story-mumbai-dabbawalas",
+  "category": "team",
+  "kind": "history",
+  "title": "The Dabbawalas of Mumbai",
+  "text": "Every working day in Mumbai, thousands of office workers eat a hot lunch cooked in their own homes that morning, delivered by the dabbawalas, \"box carriers.\" The service traces its origins to 1890, when Mahadeo Havaji Bachche began delivering lunch to office workers in what was then Bombay.\n\nThe system works as a relay. In the morning a dabbawala collects tiffin boxes from homes in his area and carries them to the local railway station. There boxes are sorted by destination and loaded onto suburban trains in crates. At stations in the city center other dabbawalas unload, sort again, and deliver by bicycle, handcart or on foot to offices. After lunch the empty boxes travel back the same way.\n\nMany dabbawalas have little formal schooling. Instead of addresses, each box carries a simple code of colors, letters and numbers on the lid that shows the origin station, the destination station, the building and the floor. Teams are small, each responsible for an area, and members cover for each other. Dabbawalas are members of their association rather than employees, share in its earnings, wear the same white cap, and follow strict rules about punctuality.\n\nThe network is often said to handle about two hundred thousand lunches a day, and late or lost boxes are rare. Business schools and visiting executives have studied it as a model of reliability built from simple tools and teamwork.",
+  "lesson": "Reliability comes from a simple system run by a disciplined team. Clear codes, small groups with shared ownership and mutual cover can beat complex technology.",
+  "people": "Mahadeo Havaji Bachche, Mumbai dabbawalas",
+  "date": "1890 onward",
+  "year": 1890,
+  "location": "Mumbai, India",
+  "source": "Studies of the dabbawala system, e.g. Stefan Thomke, 'Mumbai's Models of Service Excellence', Harvard Business Review (November 2012)",
+  "basis": "documented",
+  "caveat": "The widely repeated claim of 'six sigma' accuracy (one error in millions) comes from a 1998 Forbes report and was never rigorously measured."
+}

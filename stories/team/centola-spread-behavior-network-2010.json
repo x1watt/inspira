@@ -1,0 +1,14 @@
+{
+  "id": "story-centola-spread-behavior-network-2010",
+  "category": "team",
+  "kind": "study",
+  "title": "How Behavior Spreads",
+  "text": "A common idea in network science is that information spreads fastest through networks with many long-range connections, linking distant parts of a community. Damon Centola, then at MIT, wondered whether behavior spreads the same way as information.\n\nHe created an online health community and recruited more than 1,500 participants. Without knowing it, they were placed in one of two kinds of networks. In clustered networks, each person's neighbors were also connected to each other, like a tight neighborhood. In random networks, each person had the same number of contacts, but they were scattered across the network, creating many shortcuts.\n\nParticipants did not see each other's names. They were given health buddies, and whenever a buddy signed up for an online health forum, participants received an email inviting them to join too.\n\nThe behavior spread further and faster in the clustered networks. People were much more likely to join when they received invitations from several of their buddies, which happened more often in the clustered networks, where contacts overlapped. A single invitation often was not enough. Centola concluded that for behaviors that involve some cost or uncertainty, people need reinforcement from multiple contacts before they act.",
+  "lesson": "To change behavior in a team or community, concentrate efforts in tight clusters where people hear the same message from several peers, rather than spreading thinly.",
+  "people": "Damon Centola",
+  "date": "2010",
+  "year": 2010,
+  "location": "Massachusetts Institute of Technology, Cambridge, USA (online experiment)",
+  "source": "Centola, D. (2010). The spread of behavior in an online social network experiment. Science, 329(5996), 1194-1197.",
+  "basis": "study"
+}

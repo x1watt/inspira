@@ -1,0 +1,15 @@
+{
+  "id": "story-concorde-sunk-cost",
+  "category": "strategy",
+  "kind": "history",
+  "title": "Concorde and the Sunk Cost Trap",
+  "text": "In November 1962 Britain and France signed a treaty to build a supersonic airliner together. The project became Concorde, a technological marvel that could cross the Atlantic in about three and a half hours. It also became one of the most famous financial disasters in aviation.\n\nCosts rose far above the original estimates as the engineering challenges multiplied. At several points British governments looked seriously at cancelling. But the treaty had no easy exit clause, France was opposed, thousands of jobs depended on the work, and so much money had already been spent that stopping seemed to waste it all. The program went on. Meanwhile airlines lost interest: the plane was small, thirsty for fuel and banned from flying supersonically over land because of its sonic boom. Orders from many airlines were cancelled, and in the end only twenty aircraft were built, including prototypes and development models. Only British Airways and Air France, both then state-owned, flew it in regular service, from 1976. Concorde was retired in 2003, after a fatal crash near Paris in 2000 and a slump in air travel.\n\nThe episode gave its name to a concept. Biologists Richard Dawkins and Tamsin Carlisle wrote of the Concorde fallacy in 1976, and in 1999 psychologists Hal Arkes and Peter Ayton reviewed the sunk cost effect under that name: the tendency to keep investing in a failing course because of what has already been spent.",
+  "lesson": "Money and effort already spent are gone whatever you decide. Judge whether to continue by the costs and benefits ahead, not by what you have put in.",
+  "people": "British and French governments, Hal Arkes, Peter Ayton",
+  "date": "1962 to 2003",
+  "year": 1962,
+  "location": "United Kingdom and France",
+  "source": "Hal R. Arkes and Peter Ayton (1999). The sunk cost and Concorde effects: Are humans less rational than lower animals? Psychological Bulletin, 125(5), 591-600; Richard Dawkins and Tamsin R. Carlisle (1976). Parental investment, mate desertion and a fallacy. Nature, 262",
+  "basis": "documented",
+  "caveat": "Some historians argue that political and treaty obligations, not only the sunk cost fallacy, kept Concorde going."
+}

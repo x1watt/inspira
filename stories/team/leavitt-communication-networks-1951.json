@@ -1,0 +1,15 @@
+{
+  "id": "story-leavitt-communication-networks-1951",
+  "category": "team",
+  "kind": "study",
+  "title": "Wheel, Chain and Circle",
+  "text": "Does it matter who can talk to whom in a team? Harold Leavitt, at the Massachusetts Institute of Technology, built an experiment to find out. Groups of five people sat at a table divided by partitions, so they could not see each other. They could communicate only by passing written notes through slots, and the researcher controlled which slots were open.\n\nThis created different communication networks. In the wheel, one person in the center could exchange notes with all four others, who could not talk to each other. In the chain, messages had to pass along a line. In the circle, each person could talk to two neighbors, and no one was in the middle.\n\nEach person received a card with several symbols, and the group's task was to find the one symbol that all five cards had in common. Groups solved the problem many times in a row.\n\nThe wheel, the most centralized network, was fastest and made the fewest errors, and the person in the center quickly became the recognized leader. The circle was slower and made more mistakes, and no clear leader emerged. But members of the circle enjoyed the task more. In the wheel, the person at the center was satisfied, while those at the edges were not.",
+  "lesson": "Centralizing communication makes simple work fast but leaves people on the edges disengaged. Decide how much speed you need versus how involved everyone should feel.",
+  "people": "Harold Leavitt",
+  "date": "1951",
+  "year": 1951,
+  "location": "Massachusetts Institute of Technology, Cambridge, USA",
+  "source": "Leavitt, H. J. (1951). Some effects of certain communication patterns on group performance. Journal of Abnormal and Social Psychology, 46(1), 38-50.",
+  "basis": "study",
+  "caveat": "Later work found that centralized networks lose their advantage on complex problems, where the person at the center becomes overloaded."
+}

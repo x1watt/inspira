@@ -1,0 +1,15 @@
+{
+  "id": "story-kosfeld-oxytocin-trust-2005",
+  "category": "relations",
+  "kind": "study",
+  "title": "The Trust Hormone Question",
+  "text": "In 2005 a team at the University of Zurich, led by Michael Kosfeld and Ernst Fehr with Markus Heinrichs, Paul Zak and Urs Fischbacher, published a study in Nature that made headlines. They gave male students a nasal spray containing either the hormone oxytocin, which is involved in bonding and childbirth, or a placebo. Then the students played a trust game, in which they could send money to a partner who might or might not return some of it.\n\nStudents who had received oxytocin sent more money. Nearly half of them sent the maximum, about twice the share in the placebo group. When the students played a similar game against a random computer rather than a person, oxytocin made no difference, which suggested that the hormone affected trust in people rather than willingness to take risks in general.\n\nThe study gave rise to the popular idea of oxytocin as a \"trust hormone,\" and even to products sold on that claim. But later attempts to repeat the result, including larger studies, largely failed to find the effect. Reviews concluded that the original finding was probably much weaker than it first appeared, or not real.",
+  "lesson": "Trust between people is built through experience and behavior, not a simple chemical switch. Be wary of neat single-cause explanations for complex human bonds.",
+  "people": "Michael Kosfeld, Markus Heinrichs, Paul Zak, Urs Fischbacher, Ernst Fehr",
+  "date": "2005",
+  "year": 2005,
+  "location": "University of Zurich, Zurich, Switzerland",
+  "source": "Kosfeld, M., Heinrichs, M., Zak, P. J., Fischbacher, U., and Fehr, E. (2005). Oxytocin increases trust in humans. Nature, 435, 673-676.",
+  "basis": "study",
+  "caveat": "Later replications largely failed to reproduce the effect of oxytocin on trust, so the original result is doubtful."
+}

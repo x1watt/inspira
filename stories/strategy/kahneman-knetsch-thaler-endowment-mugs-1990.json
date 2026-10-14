@@ -1,0 +1,15 @@
+{
+  "id": "story-kahneman-knetsch-thaler-endowment-mugs-1990",
+  "category": "strategy",
+  "kind": "study",
+  "title": "The Coffee Mugs and the Endowment Effect",
+  "text": "In the late 1980s, Daniel Kahneman, Jack Knetsch and Richard Thaler ran a series of classroom markets, many of them at Cornell University. The goods were ordinary: coffee mugs bearing the university logo, the kind sold in the campus bookstore.\n\nHalf the students in a class were given a mug. The others were not. Then the researchers set up a simple market. Mug owners stated the lowest price at which they would sell, and the others stated the highest price they would pay. Since the mugs had been handed out at random, standard economics predicted that about half of them would change hands.\n\nFar fewer trades happened. Owners typically asked for about twice as much as the buyers were willing to pay. The same pattern appeared with pens and other small items, and it did not disappear when the students had several rounds to learn how the market worked. The mere fact of owning the mug, for a few minutes, made it more valuable to its owner.\n\nThe researchers called this the endowment effect and linked it to loss aversion: giving up something you have feels like a loss, while acquiring the same thing feels like a smaller gain. Later studies debated how much depends on the exact procedure and on how experienced traders are, but the basic gap between selling and buying prices has been found many times.",
+  "lesson": "When you hesitate to sell, cancel or give up something, ask whether you would buy it today at that price. If not, you may be paying only to avoid the feeling of losing it.",
+  "people": "Daniel Kahneman, Jack Knetsch, Richard Thaler",
+  "date": "1990",
+  "year": 1990,
+  "location": "Cornell University, Ithaca, USA",
+  "source": "Kahneman, D., Knetsch, J. L., and Thaler, R. H. (1990). Experimental tests of the endowment effect and the Coase theorem. Journal of Political Economy, 98(6), 1325-1348.",
+  "basis": "study",
+  "caveat": "Later work (for example Plott and Zeiler, 2005) found that the gap shrinks under some experimental procedures, so its size depends on context."
+}

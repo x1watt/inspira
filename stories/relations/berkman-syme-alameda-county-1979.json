@@ -1,0 +1,15 @@
+{
+  "id": "story-berkman-syme-alameda-county-1979",
+  "category": "relations",
+  "kind": "study",
+  "title": "Alameda County's Social Ties",
+  "text": "In 1965 researchers surveyed a large random sample of adults in Alameda County, California, the area around Oakland and Berkeley. Among many questions about health and habits, they asked about people's social lives: whether they were married, how many close friends and relatives they had and how often they saw them, whether they belonged to a church, and whether they took part in other groups.\n\nLisa Berkman and S. Leonard Syme of the University of California, Berkeley, then followed nearly seven thousand of these people for nine years, using death records to see who had died. They combined the answers into a social network index.\n\nThe people with the fewest social ties died at roughly two to three times the rate of those with the most ties, in every age group and for both men and women. The difference did not disappear when the researchers accounted for health status at the start of the study, income, smoking, drinking, weight and physical activity. Each kind of tie helped, and close ties such as marriage and friends mattered more than church or group membership, but different ties could partly make up for one another. This was one of the first large studies to show that social isolation itself is a risk to life.",
+  "lesson": "Isolation is a health risk in its own right. Keeping several kinds of ties alive (family, friends and groups) protects you in ways diet and exercise alone cannot.",
+  "people": "Lisa Berkman, S. Leonard Syme",
+  "date": "1979",
+  "year": 1979,
+  "location": "Alameda County, California, USA",
+  "source": "Berkman, L. F., and Syme, S. L. (1979). Social networks, host resistance, and mortality: A nine-year follow-up study of Alameda County residents. American Journal of Epidemiology, 109(2), 186-204.",
+  "basis": "study",
+  "caveat": "As an observational study, it shows a strong association but cannot by itself prove that social ties cause longer life."
+}

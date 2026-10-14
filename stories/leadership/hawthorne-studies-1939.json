@@ -1,0 +1,15 @@
+{
+  "id": "story-hawthorne-studies-1939",
+  "category": "leadership",
+  "kind": "study",
+  "title": "The Lights at the Hawthorne Works",
+  "text": "From 1924 to 1932 researchers studied workers at Western Electric's Hawthorne Works near Chicago, a huge factory making telephone equipment. The first experiments asked a simple question: does better lighting raise output? The puzzling answer was that output seemed to rise both when the lights were turned up and when they were turned down, as if being studied mattered more than the light itself.\n\nLater phases went further. A small group of women assembling telephone relays was moved to a separate test room, where researchers changed rest breaks and hours and talked with them often. Output generally rose over the years. In another room, the Bank Wiring study, observers found that a group of men quietly enforced their own idea of a fair day's work and pressured anyone who produced too much or too little.\n\nElton Mayo, Fritz Roethlisberger and William Dickson concluded that attention, informal groups and social relations shaped productivity as much as pay and physical conditions. The work helped launch the human relations movement in management, and the term \"Hawthorne effect\" came to mean people changing their behavior because they are observed.",
+  "lesson": "People at work respond to how they are treated and to the norms of their group, not only to pay and conditions. Notice the informal rules your team actually lives by.",
+  "people": "Fritz Roethlisberger, William Dickson, Elton Mayo",
+  "date": "1924 to 1932",
+  "year": 1924,
+  "location": "Western Electric Hawthorne Works, Cicero, Illinois, USA",
+  "source": "Roethlisberger, F. J., and Dickson, W. J. (1939). Management and the Worker. Harvard University Press.",
+  "basis": "study",
+  "caveat": "Reanalysis of the surviving lighting data by Steven Levitt and John List (2011) found the famous effect much weaker than the legend, and the relay room results had other explanations."
+}

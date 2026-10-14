@@ -1,0 +1,15 @@
+{
+  "id": "story-durkheim-suicide-1897",
+  "category": "team",
+  "kind": "study",
+  "title": "Suicide and Social Integration",
+  "text": "Suicide seems like the most personal of acts. In 1897, the French sociologist Emile Durkheim set out to show that it also has social causes. Working with official statistics from several European countries, he compared suicide rates across groups and over time.\n\nHe found that rates differed in consistent ways. Protestant regions had higher rates than Catholic ones, and Jewish communities lower still. Married people had lower rates than unmarried ones, and those with children lower than those without. Rates tended to fall during major political crises and wars, when people were drawn together.\n\nDurkheim argued that what these patterns had in common was the degree to which people were integrated into a group and regulated by its norms. He described several types of suicide. Egoistic suicide arose when people were too weakly bound to family, religion or community. Altruistic suicide arose in the opposite case, when the group's claim on the individual was so strong that a person sacrificed themselves for it. Anomic suicide arose when sudden change, such as economic upheaval, disrupted the norms that gave people's lives order.\n\nHis work became a founding study of sociology, showing that social facts could be measured and explained.",
+  "lesson": "Belonging to a group protects people. Pay attention to members who are drifting to the edges of the team, especially during times of upheaval.",
+  "people": "Emile Durkheim",
+  "date": "1897",
+  "year": 1897,
+  "location": "France (data from several European countries)",
+  "source": "Durkheim, E. (1897). Le Suicide: Etude de sociologie. Felix Alcan.",
+  "basis": "study",
+  "caveat": "Later scholars have criticized the quality of 19th century suicide statistics and the risk of drawing individual conclusions from group-level data, though the link between social integration and suicide remains widely studied."
+}

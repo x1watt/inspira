@@ -1,0 +1,15 @@
+{
+  "id": "story-lord-ross-lepper-biased-assimilation-1979",
+  "category": "strategy",
+  "kind": "study",
+  "title": "Same Evidence, Stronger Beliefs",
+  "text": "In the late 1970s, Charles Lord, Lee Ross and Mark Lepper at Stanford University recruited students with strong opinions on capital punishment. Half believed the death penalty deterred murder; half believed it did not.\n\nEach student read about two studies. One seemed to show that the death penalty deterred crime, comparing murder rates in states before and after it was adopted, or in neighboring states with and without it. The other seemed to show the opposite. The studies were invented by the researchers, and the methods were swapped between versions, so that each design supported deterrence for some readers and opposed it for others.\n\nThe students judged the study that supported their own view to be more convincing and better done. They picked apart the methods of the opposing study, finding flaws they ignored in the one they liked. And after reading the same mixed evidence, both groups reported that their original views had grown stronger. Instead of moving toward each other, the two sides moved further apart.\n\nThe researchers called this biased assimilation and attitude polarization. Later attempts to reproduce the polarization part, measured more directly, have found it weaker and less consistent, but the tendency to judge evidence by whether it agrees with us has been confirmed many times.",
+  "lesson": "When you read research or news on a question you care about, apply the same standard to evidence you like and evidence you dislike. If you only find flaws on one side, that is a warning sign.",
+  "people": "Charles Lord, Lee Ross, Mark Lepper",
+  "date": "1979",
+  "year": 1979,
+  "location": "Stanford University, California, USA",
+  "source": "Lord, C. G., Ross, L., and Lepper, M. R. (1979). Biased assimilation and attitude polarization: The effects of prior theories on subsequently considered evidence. Journal of Personality and Social Psychology, 37(11), 2098-2109.",
+  "basis": "study",
+  "caveat": "The polarization result relied on self-reported change in attitudes, and later studies measuring it directly found it weaker than the biased evaluation of evidence."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "story-danziger-parole-judges-2011",
+  "category": "strategy",
+  "kind": "study",
+  "title": "Hungry Judges",
+  "text": "In 2011 Shai Danziger, Jonathan Levav and Liora Avnaim-Pesso published a study of more than 1,100 parole decisions made by eight experienced judges serving on parole boards in Israel over ten months. Each day the judges heard a series of requests from prisoners and took two food breaks, a morning snack and lunch, which split the day into three sessions.\n\nThe researchers plotted the share of favorable rulings across each session. At the start of a session, the judges granted about 65 percent of requests. As the session wore on, the rate fell steadily, approaching zero just before a break. After the break it jumped back to around 65 percent, then declined again. The authors suggested that repeated decisions wear down mental resources, so that tired judges fall back on the easier default, which is to deny parole.\n\nThe paper was widely cited as proof that legal rulings depend on what judges had for breakfast. Critics soon raised doubts. Keren Weinshall-Margel and John Shapard pointed out that the order of cases was not random: prisoners without lawyers, whose requests were more often denied, tended to be heard at the end of sessions. Later analyses, including simulations by Andreas Glockner, showed that if judges simply avoided starting a case they could not finish before the break, a similar pattern could arise without any fatigue at all.\n\nThe original authors defended their findings, but the size of the effect seems too large for mental fatigue alone.",
+  "lesson": "Important judgments can be shaped by things that should not matter, like timing and order. Still, check how cases were sorted before blaming a striking pattern on the decision maker's state of mind.",
+  "people": "Shai Danziger, Jonathan Levav, Liora Avnaim-Pesso",
+  "date": "2011",
+  "year": 2011,
+  "location": "Israel (parole boards)",
+  "source": "Danziger, S., Levav, J., and Avnaim-Pesso, L. (2011). Extraneous factors in judicial decisions. Proceedings of the National Academy of Sciences, 108(17), 6889-6892.",
+  "basis": "study",
+  "caveat": "Critics showed that the ordering of cases (for example, unrepresented prisoners heard last) could produce much of the pattern, so the role of fatigue remains disputed."
+}

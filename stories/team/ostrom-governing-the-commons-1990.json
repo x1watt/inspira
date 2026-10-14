@@ -1,0 +1,14 @@
+{
+  "id": "story-ostrom-governing-the-commons-1990",
+  "category": "team",
+  "kind": "study",
+  "title": "Governing the Commons",
+  "text": "In 1968, ecologist Garrett Hardin popularized the tragedy of the commons: when many people share a resource such as a pasture, each has an incentive to overuse it, and the resource is ruined unless the state controls it or it is divided into private property. Political scientist Elinor Ostrom of Indiana University doubted that those were the only options.\n\nShe gathered detailed case studies of communities that had managed shared resources themselves, some for centuries. In the Swiss village of Torbel, residents had governed their alpine meadows and forests under rules dating back hundreds of years. In Valencia, Spain, farmers shared irrigation water through a system with its own water court. She also studied Japanese mountain villages, Philippine irrigation societies and fisheries and groundwater basins.\n\nOstrom found that successful commons shared certain features. Boundaries and membership were clear. Rules fit local conditions and were made largely by the users themselves. Users monitored each other, sanctions started mild and grew for repeat offenders, and there were cheap ways to resolve disputes. Failures tended to occur where these features were missing or where outside authorities overrode local rules. In 2009, she became the first woman to receive the Nobel Prize in economics.",
+  "lesson": "Shared resources can be managed well by the people who use them, if they set clear rules together, watch each other fairly and settle disputes early.",
+  "people": "Elinor Ostrom",
+  "date": "1990",
+  "year": 1990,
+  "location": "Indiana University, Bloomington, USA (cases from Switzerland, Spain, Japan, the Philippines and elsewhere)",
+  "source": "Ostrom, E. (1990). Governing the Commons: The Evolution of Institutions for Collective Action. Cambridge University Press.",
+  "basis": "study"
+}

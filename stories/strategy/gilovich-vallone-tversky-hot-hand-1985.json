@@ -1,0 +1,15 @@
+{
+  "id": "story-gilovich-vallone-tversky-hot-hand-1985",
+  "category": "strategy",
+  "kind": "study",
+  "title": "The Hot Hand",
+  "text": "Basketball players and fans widely believe in the \"hot hand\": after making a few shots in a row, a player is more likely to make the next one. In 1985 Thomas Gilovich, Robert Vallone and Amos Tversky decided to check.\n\nThey surveyed fans, who strongly endorsed the idea. Then they analyzed shooting records of the Philadelphia 76ers over a season, free throws by the Boston Celtics, and a controlled shooting experiment with players from Cornell University's teams. In the 76ers data, players were not more likely to score after a run of hits than after a run of misses. Streaks appeared about as often as one would expect from chance alone, given each player's overall shooting percentage.\n\nThe authors concluded that the hot hand was largely an illusion. People expect random sequences to alternate more than they really do, so when they see ordinary runs of success, they read meaning into them. The paper became a classic example of how people see patterns in randomness.\n\nThe story had a twist. In 2018 the economists Joshua Miller and Adam Sanjurjo showed that the statistical method used in the original study had a subtle bias: in a finite sequence, looking at shots that follow a streak naturally underestimates the hit rate. Correcting for it, they found evidence of a modest hot hand in the original Cornell data. The debate now is mostly about its size, which appears smaller than fans believe.",
+  "lesson": "Streaks happen naturally in random processes, so a run of success or failure is weak evidence on its own. Look at the longer record before concluding that someone is on fire or out of form.",
+  "people": "Thomas Gilovich, Robert Vallone, Amos Tversky",
+  "date": "1985",
+  "year": 1985,
+  "location": "Cornell University, Ithaca, and Stanford University, USA",
+  "source": "Gilovich, T., Vallone, R., and Tversky, A. (1985). The hot hand in basketball: On the misperception of random sequences. Cognitive Psychology, 17(3), 295-314.",
+  "basis": "study",
+  "caveat": "A 2018 reanalysis by Miller and Sanjurjo found a statistical bias in the original method and evidence for a real but modest hot hand."
+}

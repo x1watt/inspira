@@ -1,0 +1,15 @@
+{
+  "id": "story-ericsson-deliberate-practice-1993",
+  "category": "strategy",
+  "kind": "study",
+  "title": "Deliberate Practice",
+  "text": "In the late 1980s K. Anders Ericsson, Ralf Krampe and Clemens Tesch-Romer studied violin students at the Music Academy of West Berlin, a school that trained many top performers. With the help of the professors, they divided the students into three groups: the best violinists, likely to become international soloists; good violinists; and students training to become music teachers. They also interviewed violinists from professional orchestras.\n\nThe researchers asked the musicians to keep detailed diaries of their activities for a week and to estimate how much they had practiced alone at each age since they started. The groups did not differ in how much time they spent on music overall. What separated them was solitary, focused practice: working on specific weaknesses, with full concentration, usually following goals set by a teacher. By age 18, the best violinists had accumulated thousands of hours more of this kind of practice than the future teachers.\n\nEricsson called this deliberate practice: effortful activity designed specifically to improve performance, which is not inherently enjoyable. The best performers also slept more, including naps, which the authors linked to recovery from such demanding work. Ericsson argued that expert performance reflects long years of deliberate practice more than innate talent.\n\nThe study became famous, partly through popular books that turned it into a \"10,000-hour rule,\" a phrase Ericsson himself disputed.",
+  "lesson": "Improvement comes less from time spent than from focused practice on what you cannot yet do well, with clear goals and feedback. Plan it, protect it, and rest afterwards.",
+  "people": "K. Anders Ericsson, Ralf Krampe, Clemens Tesch-Romer",
+  "date": "1993",
+  "year": 1993,
+  "location": "Music Academy of West Berlin, Germany",
+  "source": "Ericsson, K. A., Krampe, R. T., and Tesch-Romer, C. (1993). The role of deliberate practice in the acquisition of expert performance. Psychological Review, 100(3), 363-406.",
+  "basis": "study",
+  "caveat": "A 2014 meta-analysis (Macnamara, Hambrick and Oswald) found that practice explains only part of the differences in skill, so talent and other factors also matter."
+}

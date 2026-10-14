@@ -1,0 +1,14 @@
+{
+  "id": "story-tucker-edmondson-hospitals-dont-learn-2003",
+  "category": "team",
+  "kind": "study",
+  "title": "Why Hospitals Don't Learn",
+  "text": "In the late 1990s and early 2000s, Anita Tucker shadowed nurses on their shifts in several American hospitals, recording every small problem that got in the way of their work. Together with Amy Edmondson, she analyzed what the nurses did when something went wrong.\n\nThe problems were mostly mundane: missing supplies, linens that had not been delivered, medications not ready, equipment that did not work, information missing from a chart. They happened constantly, often several times an hour, and they ate into time meant for patients.\n\nThe nurses were skilled at solving them. They borrowed linens from another unit, went to fetch medication themselves, or found a workaround and got on with caring for the patient. Tucker and Edmondson called this first-order problem solving. What the nurses rarely did was second-order problem solving: telling someone who could change the system, questioning why the problem kept happening, or working with other departments to fix its cause.\n\nThe researchers traced this to features of the organization: an ideal of the self-reliant nurse, managers who were rarely present, constant time pressure, and a lack of support for raising issues. Because every problem was quietly patched, the same problems came back every day, and the hospital never learned.",
+  "lesson": "Heroic workarounds hide broken systems. When you fix the same problem twice, tell someone who can fix it for good.",
+  "people": "Anita Tucker, Amy Edmondson",
+  "date": "2003",
+  "year": 2003,
+  "location": "Hospitals in the United States",
+  "source": "Tucker, A. L., and Edmondson, A. C. (2003). Why hospitals don't learn from failures: Organizational and psychological dynamics that inhibit system change. California Management Review, 45(2), 55-72.",
+  "basis": "study"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "story-hutchins-cognition-in-the-wild-1995",
+  "category": "team",
+  "kind": "study",
+  "title": "Navigating a Warship",
+  "text": "In the 1980s, cognitive scientist Edwin Hutchins spent time aboard a US Navy ship, which he called the Palau, observing how its crew navigated. When the ship moved through coastal waters, a team on the bridge had to determine its position at regular intervals. Sailors on each side of the ship took bearings on landmarks with special instruments and called them out over a phone. Another sailor recorded them, and a plotter used charts and tools to fix the ship's position and project its course.\n\nHutchins argued that no single person on the bridge knew where the ship was in a complete sense. The knowledge was produced by the whole system: the people, their instruments, the charts and the routines they followed. Some computations were built into the tools themselves, and the division of labor allowed the team to do what no individual could do alone.\n\nHe described one dramatic episode. As the ship was entering San Diego harbor, it suffered an engineering failure that cut power to some of the navigation equipment. The team had to make its calculations by hand. Under pressure and without a plan, the sailors gradually invented a new division of labor among themselves, and the ship came through safely.",
+  "lesson": "Much of a team's intelligence lives in its tools, routines and shared work, not in any one head. Design those systems well, and they will carry the team through surprises.",
+  "people": "Edwin Hutchins",
+  "date": "1995",
+  "year": 1995,
+  "location": "San Diego, California, USA",
+  "source": "Hutchins, E. (1995). Cognition in the Wild. MIT Press.",
+  "basis": "study"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "story-curie-petites-curies",
+  "category": "leadership",
+  "kind": "history",
+  "title": "Marie Curie's Mobile X-Ray Cars",
+  "text": "When the First World War broke out in 1914, Marie Curie was the most famous scientist in France, with two Nobel Prizes. She soon saw that X-rays could save soldiers' lives by showing surgeons where bullets and shrapnel lay and where bones were broken, but that the army had very little radiology equipment, and almost none near the front.\n\nShe set out to fix this herself. Using donated cars and money, she had vehicles fitted with X-ray machines and with generators driven by the car's engine, so they could work where there was no electricity. Soldiers nicknamed them \"petites Curies\". She learned to drive, studied anatomy, and went to field hospitals near the front to operate the equipment, often with her teenage daughter Irene.\n\nShe also trained women as X-ray technicians, since there were not enough qualified men, and helped set up radiology rooms in hospitals. By the end of the war, according to standard accounts, about twenty mobile units and some two hundred fixed installations had been set up through her work. Over a million examinations of wounded soldiers are estimated to have been made.\n\nAfter the war she described this work in a book, La radiologie et la guerre.",
+  "lesson": "When you see what is needed and no one is providing it, use your skills and your name to build it yourself.",
+  "people": "Marie Curie, Irene Curie",
+  "date": "1914 to 1918",
+  "year": 1914,
+  "location": "France, near the Western Front",
+  "source": "Marie Curie, La radiologie et la guerre (1921); Eve Curie, Madame Curie (1937)",
+  "basis": "documented",
+  "caveat": "The number of examinations is an estimate and varies between sources."
+}

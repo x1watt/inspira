@@ -1,0 +1,15 @@
+{
+  "id": "story-titmuss-gift-relationship-1970",
+  "category": "relations",
+  "kind": "study",
+  "title": "The Gift of Blood",
+  "text": "In 1970 the British social researcher Richard Titmuss of the London School of Economics published The Gift Relationship, a comparison of how blood was collected for transfusions in different countries. In Britain, blood was given entirely by unpaid volunteers. In the United States at the time, a large share was bought from paid sellers, often poor people who needed the money.\n\nTitmuss argued that the voluntary system was better on almost every count. Blood bought from paid donors was more often contaminated, notably with hepatitis, because sellers had reasons to hide their health problems. The commercial system was also more wasteful and more expensive. Beyond efficiency, he argued, turning a gift to strangers into a market transaction could weaken people's willingness to give freely and the social bonds such giving expresses.\n\nHis claim that payment can crowd out generosity was tested much later. In a field experiment published in 2008, Carl Mellstrom and Magnus Johannesson offered people in Gothenburg, Sweden, the chance to take a health check to become blood donors. Some were offered no money, some were offered a small payment, and some could choose to give the payment to charity. Among women, the share who agreed to take the health check fell from about half to under a third when payment was offered, and recovered when the money could go to charity. Among men, payment made no clear difference.",
+  "lesson": "Paying people for what they would do out of kindness can make them less willing to do it. Think twice before turning a gift into a transaction.",
+  "people": "Richard Titmuss; Carl Mellstrom, Magnus Johannesson",
+  "date": "1970",
+  "year": 1970,
+  "location": "United Kingdom and United States; later test in Gothenburg, Sweden",
+  "source": "Titmuss, R. M. (1970). The Gift Relationship: From Human Blood to Social Policy. Allen and Unwin. Mellstrom, C., and Johannesson, M. (2008). Crowding out in blood donation: Was Titmuss right? Journal of the European Economic Association, 6(4), 845-863.",
+  "basis": "study",
+  "caveat": "Other studies have found that small non-cash incentives can increase blood donation, so whether payment crowds out giving depends on the setting."
+}

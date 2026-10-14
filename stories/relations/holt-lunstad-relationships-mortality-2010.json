@@ -1,0 +1,15 @@
+{
+  "id": "story-holt-lunstad-relationships-mortality-2010",
+  "category": "relations",
+  "kind": "study",
+  "title": "Social Ties and Survival",
+  "text": "Doctors routinely ask about smoking, drinking and exercise. In 2010 Julianne Holt-Lunstad, Timothy Smith and J. Bradley Layton of Brigham Young University asked whether they should also ask about friends and family.\n\nThey gathered 148 studies that had measured people's social relationships and then followed them over time to see who died. Together the studies covered more than 300,000 people, mostly in North America and Europe, followed for an average of about seven years. Social relationships were measured in many ways: whether people were married, lived alone, belonged to groups, had others to rely on, or felt integrated in a social network.\n\nAcross all these studies, people with stronger social relationships had about a 50 percent greater likelihood of survival over the follow-up period than those with weaker ties. The link held across age, sex and initial health status. The authors noted that the size of the effect was comparable to quitting smoking and larger than that of well-known risks such as physical inactivity and obesity. Complex measures of social integration showed the strongest association, while simply living alone or not showed a weaker one.",
+  "lesson": "Friendships and family ties are not a luxury but part of staying healthy. Treat time with the people close to you as seriously as exercise or sleep.",
+  "people": "Julianne Holt-Lunstad, Timothy Smith, J. Bradley Layton",
+  "date": "2010",
+  "year": 2010,
+  "location": "Brigham Young University, Provo, Utah, USA (meta-analysis of international studies)",
+  "source": "Holt-Lunstad, J., Smith, T. B., and Layton, J. B. (2010). Social relationships and mortality risk: A meta-analytic review. PLoS Medicine, 7(7), e1000316.",
+  "basis": "study",
+  "caveat": "The studies are observational, so the link shows association and cannot fully rule out that healthier people simply have more ties."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "story-salganik-musiclab-2006",
+  "category": "team",
+  "kind": "study",
+  "title": "MusicLab",
+  "text": "Why do a few songs, books and films become huge hits while others of similar quality disappear? In 2006, Matthew Salganik, Peter Dodds and Duncan Watts at Columbia University built an artificial music market online to find out.\n\nMore than 14,000 participants, mostly young people recruited through a website, came to a site called MusicLab. They could listen to 48 songs by unknown bands, rate them, and download the ones they liked. Without knowing it, each participant was randomly assigned to one of several separate worlds.\n\nIn the independent world, participants saw only the names of the bands and songs. In eight social influence worlds, they also saw how many times each song had already been downloaded by others in their world. Each of these worlds began at zero and evolved on its own.\n\nSocial influence made success much more unequal: the most popular songs captured a far larger share of downloads than in the independent world. It also made success less predictable. The same song could be a hit in one world and middling in another, depending on which songs happened to get early downloads. Quality still mattered at the extremes, since the best songs rarely did very badly and the worst rarely did very well, but in between, early luck snowballed.",
+  "lesson": "Early popularity can snowball regardless of merit. When judging ideas or people, look at their quality before looking at how many others already back them.",
+  "people": "Matthew Salganik, Peter Dodds, Duncan Watts",
+  "date": "2006",
+  "year": 2006,
+  "location": "Columbia University, New York, USA (online experiment)",
+  "source": "Salganik, M. J., Dodds, P. S., and Watts, D. J. (2006). Experimental study of inequality and unpredictability in an artificial cultural market. Science, 311(5762), 854-856.",
+  "basis": "study"
+}

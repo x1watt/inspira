@@ -1,0 +1,14 @@
+{
+  "id": "story-tversky-kahneman-heuristics-biases-1974",
+  "category": "strategy",
+  "kind": "study",
+  "title": "The Wheel of Fortune and Anchoring",
+  "text": "In the early 1970s, Amos Tversky and Daniel Kahneman, two psychologists who had become close collaborators at the Hebrew University of Jerusalem, set out to catalogue the mental shortcuts people use when they judge uncertain things. One of their demonstrations used a wheel of fortune marked from 0 to 100.\n\nThe wheel had been fixed so that it stopped on either 10 or 65. A participant watched it spin and land on a number. Then came two questions: was the percentage of African countries in the United Nations higher or lower than that number, and what was the actual percentage?\n\nEveryone knew the wheel had nothing to do with Africa or the United Nations. Even so, the number stuck. People who had seen the wheel stop at 10 gave a median estimate of 25 percent. People who had seen 65 gave a median of 45 percent. A meaningless starting point had moved their answers by twenty points.\n\nTversky and Kahneman called this anchoring and adjustment. People start from whatever value is at hand and adjust away from it, but not far enough. Their 1974 paper in Science described anchoring alongside two other shortcuts, representativeness and availability, and became one of the most cited papers in social science, the foundation of what came to be called the heuristics and biases program.",
+  "lesson": "Before you estimate a price, a deadline or a budget, notice which number you heard first. Form your own estimate independently, then compare, so a random anchor does not quietly set the range.",
+  "people": "Amos Tversky, Daniel Kahneman",
+  "date": "1974",
+  "year": 1974,
+  "location": "Hebrew University of Jerusalem, Israel, and University of Oregon, Eugene, USA",
+  "source": "Tversky, A., and Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. Science, 185(4157), 1124-1131.",
+  "basis": "study"
+}

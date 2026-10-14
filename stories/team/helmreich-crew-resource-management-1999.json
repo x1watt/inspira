@@ -1,0 +1,14 @@
+{
+  "id": "story-helmreich-crew-resource-management-1999",
+  "category": "team",
+  "kind": "study",
+  "title": "Crew Resource Management",
+  "text": "In December 1978, United Airlines Flight 173 approached Portland, Oregon, with a landing gear warning light on. The captain circled for about an hour while the crew worked on the problem. The flight engineer and first officer mentioned the fuel situation, but only indirectly, and the captain did not act on it in time. The plane ran out of fuel and crashed short of the airport, killing ten people. Investigators found no mechanical failure that made the crash unavoidable. The problem lay in how the crew worked together.\n\nAccidents like this, and research showing that most crashes involved human error, led to a NASA workshop in 1979 and to training programs that became known as crew resource management. In 1999, Robert Helmreich, Ashleigh Merritt and John Wilhelm of the University of Texas reviewed how this training had evolved.\n\nEarly courses focused on personality and general psychology and drew resistance from pilots. Later versions concentrated on concrete skills: briefing the crew, inviting input, junior officers stating concerns clearly, and captains making it normal to be questioned. The newest generation framed the goal as error management: accepting that errors will happen and training crews to catch and correct them together.",
+  "lesson": "In any team with a hierarchy, the person who sees the danger may not be the one in charge. Make it routine for juniors to speak plainly and for leaders to ask.",
+  "people": "Robert Helmreich, Ashleigh Merritt, John Wilhelm",
+  "date": "1999",
+  "year": 1999,
+  "location": "University of Texas at Austin, USA",
+  "source": "Helmreich, R. L., Merritt, A. C., and Wilhelm, J. A. (1999). The evolution of crew resource management training in commercial aviation. International Journal of Aviation Psychology, 9(1), 19-32.",
+  "basis": "study"
+}

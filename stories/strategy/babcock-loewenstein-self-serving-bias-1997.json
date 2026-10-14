@@ -1,0 +1,14 @@
+{
+  "id": "story-babcock-loewenstein-self-serving-bias-1997",
+  "category": "strategy",
+  "kind": "study",
+  "title": "Both Sides Think They Are Right",
+  "text": "Why do so many disputes end in costly lawsuits and strikes, when both sides would gain by settling? In a series of experiments during the 1990s, summarized in a 1997 article, Linda Babcock and George Loewenstein of Carnegie Mellon University pointed to a simple bias.\n\nPairs of participants were given the same materials from a real legal case in Texas, in which a motorcyclist had been hit by a car and was suing the driver for 100,000 dollars in damages. The materials included testimony, police reports and depositions. One participant was assigned to play the plaintiff, the other the defendant. Before negotiating, each privately predicted what the judge in the actual case had awarded, with a bonus for accuracy. Then they bargained, with costs mounting for every round without agreement. If they failed to settle, the judge's award was imposed.\n\nThough both read the same facts, plaintiffs predicted much higher awards than defendants did. Each side recalled and weighed more heavily the facts that favored itself. The larger the gap in predictions within a pair, the more likely the pair was to reach an impasse.\n\nIn one variation, participants learned which role they would play only after reading the case. Their predictions converged, and impasses dropped sharply. In another, asking participants to write down the weaknesses of their own side's case reduced the bias, while merely explaining the bias to them did not help.",
+  "lesson": "In any dispute, expect that your reading of the facts leans toward your side. Before negotiating, list the strongest points against your own position; it makes settlement more likely.",
+  "people": "Linda Babcock, George Loewenstein",
+  "date": "1997",
+  "year": 1997,
+  "location": "Carnegie Mellon University, Pittsburgh, USA",
+  "source": "Babcock, L., and Loewenstein, G. (1997). Explaining bargaining impasse: The role of self-serving biases. Journal of Economic Perspectives, 11(1), 109-126.",
+  "basis": "study"
+}

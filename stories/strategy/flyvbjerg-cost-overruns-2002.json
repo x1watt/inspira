@@ -1,0 +1,14 @@
+{
+  "id": "story-flyvbjerg-cost-overruns-2002",
+  "category": "strategy",
+  "kind": "study",
+  "title": "Why Big Projects Run Over Budget",
+  "text": "In 2002 the Danish planning scholar Bent Flyvbjerg and his colleagues Mette Skamris Holm and Soren Buhl published the first large statistical study of cost overruns in public transport infrastructure. They gathered data on 258 projects, including roads, bridges, tunnels and railways, built in 20 countries on five continents over about 70 years.\n\nAlmost nine out of ten projects cost more than forecast. Rail projects were the worst, running on average about 45 percent over budget. Bridges and tunnels averaged around a third over, and roads around 20 percent. The overruns were found in every region studied, and, strikingly, they had not shrunk over time. Decades of experience, better methods and more data had not made the forecasts more accurate.\n\nThe authors argued that such a stable, one-sided pattern could not be explained by honest technical error, which should push estimates up as often as down and should improve with practice. They pointed instead to two forces: optimism on the part of planners, and what they called strategic misrepresentation, the deliberate understating of costs to get projects approved. In the title they put the question bluntly: error or lie?\n\nFlyvbjerg later promoted reference class forecasting, a method that starts from the actual outcomes of similar past projects rather than from the details of the new plan, as a remedy.",
+  "lesson": "For any large plan, compare your budget with what similar projects really cost, and be wary of estimates made by people who need the project approved.",
+  "people": "Bent Flyvbjerg, Mette Skamris Holm, Soren Buhl",
+  "date": "2002",
+  "year": 2002,
+  "location": "Aalborg University, Denmark (data from 20 countries)",
+  "source": "Flyvbjerg, B., Holm, M. S., and Buhl, S. (2002). Underestimating costs in public works projects: Error or lie? Journal of the American Planning Association, 68(3), 279-295.",
+  "basis": "study"
+}

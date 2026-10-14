@@ -1,0 +1,14 @@
+{
+  "id": "story-watson-crick-franklin-dna",
+  "category": "team",
+  "kind": "history",
+  "title": "The Double Helix and Photo 51",
+  "text": "In the early 1950s several groups were racing to find the structure of DNA. At King's College London, Rosalind Franklin, an expert in X-ray crystallography, was producing the sharpest diffraction images of DNA anyone had taken. She and her student Raymond Gosling made the most famous of them, known as Photo 51, in 1952. Her relationship with her colleague Maurice Wilkins was poor: he assumed she had come to assist him, while she understood the DNA work to be her own.\n\nIn Cambridge, James Watson and Francis Crick were trying to build a model. Their first attempt, a three-stranded structure, was wrong, and Franklin pointed out its errors when they showed it to the King's group.\n\nIn January 1953 Wilkins showed Photo 51 to Watson without Franklin's knowledge. Its cross pattern told Watson at a glance that DNA was a helix. Crick also saw a research council report summarizing Franklin's measurements. Combining her data with their own model building and with Erwin Chargaff's rules on base ratios, Watson and Crick arrived at the double helix within weeks.\n\nTheir paper appeared in Nature on 25 April 1953, alongside papers from Wilkins's team and from Franklin and Gosling. Watson and Crick acknowledged only that they had been stimulated by a general knowledge of the King's group's unpublished results. Franklin died of cancer in 1958, at 37. In 1962 Watson, Crick and Wilkins shared the Nobel Prize, which is not awarded after death.",
+  "lesson": "Big discoveries are almost always built from many people's work. Share data openly, ask before using a colleague's results, and give credit in full.",
+  "people": "James Watson, Francis Crick, Rosalind Franklin, Maurice Wilkins, Raymond Gosling",
+  "date": "1951 to 1953",
+  "year": 1953,
+  "location": "King's College London and Cavendish Laboratory, Cambridge, United Kingdom",
+  "source": "James D. Watson, The Double Helix (1968); Brenda Maddox, Rosalind Franklin: The Dark Lady of DNA (2002); Watson and Crick, Nature 171 (1953)",
+  "basis": "documented"
+}

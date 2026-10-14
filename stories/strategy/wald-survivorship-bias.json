@@ -1,0 +1,15 @@
+{
+  "id": "story-wald-survivorship-bias",
+  "category": "strategy",
+  "kind": "history",
+  "title": "Abraham Wald and the Missing Bullet Holes",
+  "text": "During the Second World War the mathematician Abraham Wald worked for the Statistical Research Group at Columbia University, a team of scientists solving practical problems for the US military. One question concerned bombers. Armor protected planes from enemy fire, but it was heavy, so it could only be added where it would help most.\n\nThe popular version of the story runs like this. Military officers looked at the bombers returning from missions and noted where they had been hit. Bullet holes were common on the wings and fuselage and much rarer on the engines. The natural conclusion was to add armor where the holes were. Wald pointed out the flaw: the planes being examined were the ones that came back. Holes in the fuselage showed where a plane could be hit and still return. The missing holes on the engines showed where hits brought planes down, since those planes never returned to be counted. The armor should go where the surviving planes had no holes.\n\nWald's actual memoranda, written in 1943, were more technical. They developed mathematical methods to estimate how vulnerable different parts of an aircraft were, using damage on returning planes and correcting for the planes that were lost. But the core insight is the same, and it has become the classic illustration of survivorship bias: drawing conclusions only from the cases that made it through a filter.",
+  "lesson": "Before drawing a lesson from the winners, ask what happened to those who did not make it into your sample. The missing cases may tell you the most.",
+  "people": "Abraham Wald, Statistical Research Group",
+  "date": "1943",
+  "year": 1943,
+  "location": "Columbia University, New York (USA)",
+  "source": "Abraham Wald, A Method of Estimating Plane Vulnerability Based on Damage of Survivors (Statistical Research Group memoranda, 1943; reprinted by the Center for Naval Analyses, 1980); Marc Mangel and Francisco Samaniego (1984), Journal of the American Statistical Association, 79(386)",
+  "basis": "documented",
+  "caveat": "The popular story of officers wanting to armor the holes is a simplification; Wald's work was a statistical method rather than a single dramatic recommendation."
+}

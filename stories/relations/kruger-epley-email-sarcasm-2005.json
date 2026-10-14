@@ -1,0 +1,14 @@
+{
+  "id": "story-kruger-epley-email-sarcasm-2005",
+  "category": "relations",
+  "kind": "study",
+  "title": "Sarcasm over E-mail",
+  "text": "In 2005 Justin Kruger, Nicholas Epley, Jason Parker and Zhi-Wen Ng published a set of studies on a modern problem: how well we communicate tone in writing.\n\nIn one experiment, students were given a list of topics and asked to write pairs of short statements about each, one sarcastic and one serious. They sent these by e-mail to another participant, who had to judge which messages were sarcastic and which were serious. Before the messages were read, the senders predicted how many the receiver would get right. Senders expected their receivers to identify the tone correctly almost 80 percent of the time. In fact receivers got it right only a little more than half the time, barely better than guessing. Receivers, for their part, were confident that they had read the tone correctly.\n\nWhen the same statements were spoken aloud, receivers did much better, because the voice carried the tone. The researchers traced the e-mail problem to egocentrism. When writing, senders hear their own intended tone in their heads and find it hard to imagine how the bare words look to someone who lacks it. The same overconfidence appeared in several variations of the task.",
+  "lesson": "Tone that seems obvious when you write often vanishes on the screen. For anything delicate, say it plainly, or say it by voice.",
+  "people": "Justin Kruger, Nicholas Epley, Jason Parker, Zhi-Wen Ng",
+  "date": "2005",
+  "year": 2005,
+  "location": "United States",
+  "source": "Kruger, J., Epley, N., Parker, J., and Ng, Z.-W. (2005). Egocentrism over e-mail: Can we communicate as well as we think? Journal of Personality and Social Psychology, 89(6), 925-936.",
+  "basis": "study"
+}

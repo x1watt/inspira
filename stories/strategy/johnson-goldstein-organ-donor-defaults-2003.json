@@ -1,0 +1,15 @@
+{
+  "id": "story-johnson-goldstein-organ-donor-defaults-2003",
+  "category": "strategy",
+  "kind": "study",
+  "title": "Do Defaults Save Lives?",
+  "text": "In 2003 Eric Johnson and Daniel Goldstein of Columbia University published a short paper in Science that compared organ donation consent across European countries. Some countries used an opt-in system: you were a donor only if you signed up. Others used an opt-out system: you were presumed to be a donor unless you registered a refusal.\n\nThe differences were enormous. In opt-in countries such as Germany, Denmark and the United Kingdom, effective consent rates ranged from about 4 percent to under 30 percent. In opt-out countries such as Austria, Belgium, France and Sweden, they ranged from about 86 percent to nearly 100 percent. Neighbors with similar cultures, such as Germany and Austria, sat at opposite ends.\n\nJohnson and Goldstein also ran an online experiment. Asked whether they would be donors, participants who had to opt in agreed about 42 percent of the time. Those who had to opt out agreed about 82 percent of the time. Those forced to choose without any default agreed about 79 percent of the time.\n\nThe authors suggested several reasons: changing a default takes effort, a default can look like a recommendation from authorities, and it feels like the normal choice. Comparing actual donation rates, they found that opt-out countries had noticeably higher rates, though the gap was much smaller than the gap in consent, since families and medical systems also play a large role.",
+  "lesson": "Whoever sets the default shapes most outcomes, because most people never change it. When you design a process for others, choose the default you would want them to end up with.",
+  "people": "Eric Johnson, Daniel Goldstein",
+  "date": "2003",
+  "year": 2003,
+  "location": "Columbia University, New York, USA (data from European countries)",
+  "source": "Johnson, E. J., and Goldstein, D. (2003). Do defaults save lives? Science, 302(5649), 1338-1339.",
+  "basis": "study",
+  "caveat": "Actual donation rates differ far less than consent rates, since families and hospital systems also decide outcomes."
+}

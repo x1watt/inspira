@@ -1,0 +1,14 @@
+{
+  "id": "story-mellers-good-judgment-project-2014",
+  "category": "strategy",
+  "kind": "study",
+  "title": "Superforecasters",
+  "text": "In 2011 the US intelligence research agency IARPA launched a forecasting tournament. Several research teams competed to predict world events, such as whether a country would hold an election on schedule or whether a currency would fall below a certain level, with questions resolving within months. One team was the Good Judgment Project, led by Philip Tetlock and Barbara Mellers at the University of Pennsylvania, which recruited thousands of volunteer forecasters from the public.\n\nThe project used the tournament as an experiment. Forecasters were randomly assigned to conditions. Some received about an hour of training in probabilistic reasoning, covering ideas like starting from base rates and avoiding common biases. Some worked alone, while others worked in teams that could share information and debate. After each year, the top 2 percent of forecasters were grouped into elite teams of \"superforecasters.\"\n\nAll three measures helped. Training improved accuracy, teamwork improved it further, and the superforecaster teams were the most accurate of all. Their predictions kept improving rather than falling back toward average, suggesting real skill rather than luck. By combining forecasts and giving more weight to the best performers, the Good Judgment Project beat the other competing teams by a wide margin, and the agency eventually concentrated its funding on it.\n\nMellers and colleagues reported these results in 2014. The best forecasters tended to be curious, open-minded, numerate and willing to update their estimates in small steps as news arrived.",
+  "lesson": "Forecasting is a skill that improves with practice, feedback and a little training. Put numbers on your expectations, keep score, discuss with others and revise often in small steps.",
+  "people": "Barbara Mellers, Philip Tetlock, Lyle Ungar, Jonathan Baron and colleagues",
+  "date": "2014",
+  "year": 2014,
+  "location": "University of Pennsylvania, Philadelphia, USA",
+  "source": "Mellers, B., Ungar, L., Baron, J., et al. (2014). Psychological strategies for winning a geopolitical forecasting tournament. Psychological Science, 25(5), 1106-1115.",
+  "basis": "study"
+}

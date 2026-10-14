@@ -1,0 +1,835 @@
+{"name": "Amos", "id": null}
+{"name": "Homer", "id": "Q6691"}
+{"name": "Book of Proverbs", "id": null}
+{"name": "Book of Deuteronomy", "id": null}
+{"name": "Book of Joshua", "id": null}
+{"name": "Aesop", "id": "Q43423"}
+{"name": "Book of Exodus", "id": null}
+{"name": "Book of Genesis", "id": null}
+{"name": "Taittiriya Upanishad", "id": null}
+{"name": "Book of Ruth", "id": null}
+{"name": "Psalms", "id": null}
+{"name": "Sun Tzu", "id": "Q37151"}
+{"name": "Gautama Buddha", "id": "Q9441"}
+{"name": "Confucius", "id": "Q4604"}
+{"name": "Thucydides", "id": "Q41683"}
+{"name": "Laozi", "id": "Q9333"}
+{"name": "Song of Solomon", "id": null}
+{"name": "Plato", "id": "Q859"}
+{"name": "Xenophon", "id": "Q129772"}
+{"name": "Aristotle", "id": "Q868"}
+{"name": "Mencius", "id": "Q188903"}
+{"name": "Jesus ben Sira", "id": "Q3092598"}
+{"name": "Marcus Tullius Cicero", "id": "Q1541"}
+{"name": "Julius Caesar", "id": "Q1048"}
+{"name": "Cicero", "id": "Q1541"}
+{"name": "Sallust", "id": "Q7170"}
+{"name": "Lucius Annaeus Seneca", "id": "Q2054"}
+{"name": "Paul the Apostle", "id": "Q9200"}
+{"name": "Seneca", "id": "Q2054"}
+{"name": "Mark the Evangelist", "id": "Q31966"}
+{"name": "Matthew the Evangelist", "id": "Q43600"}
+{"name": "Plutarch", "id": "Q41523"}
+{"name": "Pliny the Younger", "id": "Q168707"}
+{"name": "Epictetus", "id": "Q183144"}
+{"name": "Marcus Aurelius", "id": "Q1430"}
+{"name": "Prince Shotoku", "id": "Q263972"}
+{"name": "Quran", "id": null}
+{"name": "Niccolo Machiavelli", "id": "Q1399"}
+{"name": "Michel de Montaigne", "id": "Q41568"}
+{"name": "William Shakespeare", "id": "Q692"}
+{"name": "John Donne", "id": "Q140412"}
+{"name": "Francis Bacon", "id": "Q37388"}
+{"name": "Oliver Cromwell", "id": "Q44279"}
+{"name": "Francois de La Rochefoucauld", "id": "Q273708"}
+{"name": "Isaac Newton", "id": "Q935"}
+{"name": "Anne Bradstreet", "id": "Q242332"}
+{"name": "Benjamin Franklin", "id": "Q34969"}
+{"name": "Alexander Pope", "id": "Q164047"}
+{"name": "Philip Stanhope, 4th Earl of Chesterfield", "id": "Q332487"}
+{"name": "Samuel Johnson", "id": "Q183266"}
+{"name": "Jean-Jacques Rousseau", "id": "Q6527"}
+{"name": "Edmund Burke", "id": "Q165792"}
+{"name": "Abigail Adams", "id": "Q206191"}
+{"name": "John Adams", "id": "Q11806"}
+{"name": "Adam Smith", "id": "Q9381"}
+{"name": "Thomas Paine", "id": "Q126462"}
+{"name": "Alexander Hamilton", "id": "Q178903"}
+{"name": "Thomas Jefferson", "id": "Q11812"}
+{"name": "George Washington", "id": "Q23"}
+{"name": "Robert Burns", "id": "Q81960"}
+{"name": "William Wordsworth", "id": "Q45546"}
+{"name": "Jane Austen", "id": "Q36322"}
+{"name": "Napoleon Bonaparte", "id": "Q517"}
+{"name": "John Howard Payne", "id": "Q4401542"}
+{"name": "Abraham Lincoln", "id": "Q91"}
+{"name": "Carl von Clausewitz", "id": "Q76430"}
+{"name": "Alexis de Tocqueville", "id": "Q140694"}
+{"name": "Ralph Waldo Emerson", "id": "Q48226"}
+{"name": "Alfred, Lord Tennyson", "id": "Q173869"}
+{"name": "Alexandre Dumas", "id": "Q38337"}
+{"name": "William Makepeace Thackeray", "id": "Q167768"}
+{"name": "Walt Whitman", "id": "Q81438"}
+{"name": "George Eliot", "id": "Q131333"}
+{"name": "Samuel Smiles", "id": "Q1195422"}
+{"name": "Charles Dickens", "id": "Q5686"}
+{"name": "Louisa May Alcott", "id": "Q185696"}
+{"name": "Charles Darwin", "id": "Q1035"}
+{"name": "Leo Tolstoy", "id": "Q7243"}
+{"name": "Fyodor Dostoevsky", "id": "Q991"}
+{"name": "Frederick Douglass", "id": "Q215562"}
+{"name": "Oscar Wilde", "id": "Q30875"}
+{"name": "Rudyard Kipling", "id": "Q34743"}
+{"name": "Booker T. Washington", "id": "Q319871"}
+{"name": "Rainer Maria Rilke", "id": "Q76483"}
+{"name": "Peter Kropotkin", "id": "Q5752"}
+{"name": "Theodore Roosevelt", "id": "Q33866"}
+{"name": "Lionel Giles", "id": "Q59188"}
+{"name": "Frederick Winslow Taylor", "id": "Q203906"}
+{"name": "Andrew Carnegie", "id": "Q484265"}
+{"name": "Robert Frost", "id": "Q168728"}
+{"name": "Ralph Chaplin", "id": "Q2915127"}
+{"name": "Rabindranath Tagore", "id": "Q7241"}
+{"name": "Eugene V. Debs", "id": "Q334993"}
+{"name": "Henry Ford", "id": "Q8768"}
+{"name": "Kahlil Gibran", "id": "Q47737"}
+{"name": "Franklin D. Roosevelt", "id": "Q8007"}
+{"name": "Antoine de Saint-Exupery", "id": "Q2908"}
+{"name": "Dietrich Bonhoeffer", "id": "Q76326"}
+{"name": "Dwight D. Eisenhower", "id": "Q9916"}
+{"name": "Benjamin Spock", "id": "Q310694"}
+{"name": "J. R. R. Tolkien", "id": "Q892"}
+{"name": "John F. Kennedy", "id": "Q9696"}
+{"name": "Martin Luther King Jr.", "id": "Q8027"}
+{"name": "Diomedes", "id": "Q208256"}
+{"name": "Moses", "id": "Q9077"}
+{"name": "Joshua", "id": null}
+{"name": "The Lion", "id": null}
+{"name": "The Mule", "id": null}
+{"name": "The Lioness", "id": null}
+{"name": "The Farmer", "id": null}
+{"name": "The Fox", "id": null}
+{"name": "Mercury", "id": null}
+{"name": "The Wild Boar", "id": null}
+{"name": "The Lion and the Boar", "id": null}
+{"name": "The Stag", "id": null}
+{"name": "The Mother", "id": null}
+{"name": "Hercules", "id": "Q122248"}
+{"name": "The Oak", "id": null}
+{"name": "The Miller", "id": null}
+{"name": "The Father", "id": null}
+{"name": "The Ass", "id": null}
+{"name": "The Boy", "id": null}
+{"name": "The Reeds", "id": null}
+{"name": "The Ants", "id": null}
+{"name": "The Dog", "id": null}
+{"name": "God", "id": "Q190"}
+{"name": "Tu Mu", "id": "Q334095"}
+{"name": "King T'ang", "id": "Q471820"}
+{"name": "Cleon", "id": null}
+{"name": "Pericles", "id": "Q80398"}
+{"name": "Alcibiades", "id": "Q187982"}
+{"name": "Archidamus", "id": "Q313731"}
+{"name": "Hermocrates", "id": "Q367407"}
+{"name": "Nicias", "id": "Q315822"}
+{"name": "Diodotus", "id": null}
+{"name": "Athenagoras", "id": null}
+{"name": "Brasidas", "id": null}
+{"name": "Demosthenes", "id": "Q504986"}
+{"name": "Phormio", "id": null}
+{"name": "Themistocles", "id": "Q179552"}
+{"name": "Socrates", "id": "Q913"}
+{"name": "Cyrus", "id": "Q8423"}
+{"name": "Cambyses", "id": "Q299428"}
+{"name": "Clearchus", "id": null}
+{"name": "Cyaxares", "id": null}
+{"name": "Gobryas", "id": null}
+{"name": "Tigranes", "id": null}
+{"name": "Simonides", "id": "Q273003"}
+{"name": "Hiero", "id": null}
+{"name": "Curio", "id": null}
+{"name": "Caesar", "id": "Q1048"}
+{"name": "Cato", "id": null}
+{"name": "Zeno", "id": null}
+{"name": "Athenodorus", "id": null}
+{"name": "Jesus", "id": "Q302"}
+{"name": "Diogenes", "id": null}
+{"name": "Fundanus", "id": null}
+{"name": "Lycurgus", "id": "Q211326"}
+{"name": "Bias", "id": null}
+{"name": "Protogenes", "id": null}
+{"name": "Hesiod", "id": "Q44233"}
+{"name": "Ptolemy", "id": null}
+{"name": "Agesilaus", "id": "Q271850"}
+{"name": "Euripides", "id": "Q48305"}
+{"name": "Chabrias", "id": "Q543525"}
+{"name": "Phocion", "id": "Q175942"}
+{"name": "Theophrastus", "id": "Q160362"}
+{"name": "Agasicles", "id": null}
+{"name": "Phocylides", "id": null}
+{"name": "Anthemion", "id": null}
+{"name": "Epaminondas", "id": "Q190436"}
+{"name": "Solon", "id": "Q133337"}
+{"name": "Cato the Elder", "id": "Q180081"}
+{"name": "Dion", "id": null}
+{"name": "Camillus", "id": null}
+{"name": "Cimon", "id": "Q218102"}
+{"name": "Lysander", "id": "Q143559"}
+{"name": "Volumnia", "id": "Q543615"}
+{"name": "Artabanus", "id": null}
+{"name": "Dionysius the Younger", "id": "Q380453"}
+{"name": "Carbo", "id": null}
+{"name": "Sertorius", "id": "Q296238"}
+{"name": "Porus", "id": null}
+{"name": "Pelopidas", "id": "Q316059"}
+{"name": "Cato Major", "id": "Q180081"}
+{"name": "Cato the Younger", "id": "Q193506"}
+{"name": "Philopoemen", "id": "Q366117"}
+{"name": "Aemilius Paulus", "id": "Q298168"}
+{"name": "Menenius Agrippa", "id": "Q396971"}
+{"name": "Anacharsis", "id": "Q325026"}
+{"name": "Antigonus", "id": null}
+{"name": "Pyrrhus", "id": "Q172353"}
+{"name": "Titus Livius", "id": "Q2039"}
+{"name": "Tacitus", "id": "Q2161"}
+{"name": "Fabrizio Colonna", "id": null}
+{"name": "Castruccio Castracani", "id": "Q1049990"}
+{"name": "Chilo", "id": null}
+{"name": "King Henry", "id": null}
+{"name": "King Lear", "id": "Q28469410"}
+{"name": "Father Abraham", "id": null}
+{"name": "Charlotte Lucas", "id": "Q64019239"}
+{"name": "Montecuculli", "id": "Q454789"}
+{"name": "Archduke Charles", "id": "Q84201"}
+{"name": "Frederick the Great", "id": "Q33550"}
+{"name": "Ulysses", "id": "Q47231"}
+{"name": "d'Artagnan", "id": "Q12306805"}
+{"name": "Dr. Johnson", "id": "Q183266"}
+{"name": "Lord Melbourne", "id": "Q312567"}
+{"name": "Granville Sharp", "id": "Q726029"}
+{"name": "Lord Burleigh", "id": "Q354309"}
+{"name": "Charles James Fox", "id": "Q438131"}
+{"name": "Sir Walter Scott", "id": "Q79025"}
+{"name": "Lord Collingwood", "id": null}
+{"name": "Richard Cecil", "id": null}
+{"name": "Sir Charles Napier", "id": null}
+{"name": "Caroline Chisholm", "id": "Q5045013"}
+{"name": "Nathan Rothschild", "id": null}
+{"name": "Pip", "id": null}
+{"name": "Mrs. March", "id": "Q84764771"}
+{"name": "Napoleon", "id": "Q517"}
+{"name": "John Brown", "id": "Q189366"}
+{"name": "Susanna Wesley", "id": "Q461044"}
+{"name": "Colbert", "id": null}
+{"name": "Anna Jameson", "id": "Q274627"}
+{"name": "Arthur Helps", "id": "Q321238"}
+{"name": "Jeremy Bentham", "id": "Q60887"}
+{"name": "Duke of Wellington", "id": "Q131691"}
+{"name": "Lucy Hutchinson", "id": "Q6698372"}
+{"name": "Johann Gottlieb Fichte", "id": "Q102585"}
+{"name": "F. W. Robertson", "id": "Q5499104"}
+{"name": "Sainte-Beuve", "id": "Q1063392"}
+{"name": "Sir John Pakington", "id": null}
+{"name": "George Wilson", "id": null}
+{"name": "Francois Guizot", "id": "Q157324"}
+{"name": "St. Francis de Sales", "id": "Q231256"}
+{"name": "George Herbert", "id": "Q317887"}
+{"name": "David Hume", "id": "Q37160"}
+{"name": "Jules Simon", "id": "Q548532"}
+{"name": "Dr. Arnold", "id": null}
+{"name": "Canon Kingsley", "id": "Q353238"}
+{"name": "Sir Henry Taylor", "id": "Q1607302"}
+{"name": "Saint Augustine", "id": "Q8018"}
+{"name": "Lord Stanley", "id": null}
+{"name": "Duke of Marlborough", "id": "Q153803"}
+{"name": "Vittoria Colonna", "id": "Q255368"}
+{"name": "Ary Scheffer", "id": "Q436726"}
+{"name": "Sir Thomas Overbury", "id": "Q1790396"}
+{"name": "Sir Charles Bell", "id": "Q451727"}
+{"name": "Alyosha Karamazov", "id": "Q2027772"}
+{"name": "Samuel Plimsoll", "id": "Q333611"}
+{"name": "Warren", "id": null}
+{"name": "Mark Lehner", "id": "Q366280"}
+{"name": "Ramesses II", "id": "Q1523"}
+{"name": "Guan Zhong", "id": "Q457972"}
+{"name": "Duke Mu of Qin", "id": "Q1146646"}
+{"name": "King Zhuang of Chu", "id": "Q198154"}
+{"name": "Thales of Miletus", "id": "Q36303"}
+{"name": "Cleobis", "id": null}
+{"name": "Cyrus the Great", "id": "Q8423"}
+{"name": "Gnaeus Marcius Coriolanus", "id": "Q570532"}
+{"name": "Aristides the Just", "id": "Q294942"}
+{"name": "Lucius Quinctius Cincinnatus", "id": "Q309637"}
+{"name": "Mozi", "id": null}
+{"name": "Wu Qi", "id": "Q698899"}
+{"name": "Marcus Furius Camillus", "id": "Q294862"}
+{"name": "Damon", "id": null}
+{"name": "Shang Yang", "id": "Q351345"}
+{"name": "Sun Bin", "id": "Q334090"}
+{"name": "Philip II of Macedon", "id": "Q130650"}
+{"name": "Alexander the Great", "id": "Q8409"}
+{"name": "Lian Po", "id": "Q744827"}
+{"name": "Pyrrhus of Epirus", "id": "Q172353"}
+{"name": "Gaius Fabricius Luscinus", "id": "Q1196109"}
+{"name": "Ashoka", "id": "Q8589"}
+{"name": "Marcus Atilius Regulus", "id": "Q318718"}
+{"name": "Eratosthenes of Cyrene", "id": "Q43182"}
+{"name": "Quintus Fabius Maximus", "id": "Q274545"}
+{"name": "Hannibal Barca", "id": "Q36456"}
+{"name": "Archimedes", "id": "Q8739"}
+{"name": "Qin Shi Huang", "id": "Q7192"}
+{"name": "Scipio Africanus", "id": "Q2253"}
+{"name": "Han Xin", "id": "Q574498"}
+{"name": "Cornelia", "id": "Q234533"}
+{"name": "Zhang Qian", "id": "Q197276"}
+{"name": "Sima Qian", "id": "Q9372"}
+{"name": "Augustus", "id": "Q1405"}
+{"name": "Arria the Elder", "id": "Q441774"}
+{"name": "Seneca the Younger", "id": "Q2054"}
+{"name": "Yochanan ben Zakkai", "id": "Q733660"}
+{"name": "Pliny the Elder", "id": "Q82778"}
+{"name": "Ban Zhao", "id": "Q177081"}
+{"name": "Emperor Hadrian", "id": "Q1427"}
+{"name": "Liu Bei", "id": "Q245315"}
+{"name": "Cao Cao", "id": "Q204077"}
+{"name": "Zhuge Liang", "id": "Q198211"}
+{"name": "Pope Leo I", "id": "Q43954"}
+{"name": "Benedict of Nursia", "id": "Q44265"}
+{"name": "Empress Theodora", "id": "Q204843"}
+{"name": "Khadija bint Khuwaylid", "id": "Q42034"}
+{"name": "Muhammad", "id": "Q9458"}
+{"name": "Emperor Taizong of Tang", "id": "Q9701"}
+{"name": "Harun al-Rashid", "id": "Q131002"}
+{"name": "Fatima al-Fihri", "id": "Q182363"}
+{"name": "Alfred the Great", "id": "Q83476"}
+{"name": "Ouyang Xiu", "id": "Q334323"}
+{"name": "Cnut the Great", "id": "Q134128"}
+{"name": "Fan Zhongyan", "id": "Q381822"}
+{"name": "William of Normandy", "id": "Q37594"}
+{"name": "Henry IV", "id": "Q60094"}
+{"name": "Su Shi (Su Dongpo)", "id": null}
+{"name": "Yue Fei", "id": "Q334398"}
+{"name": "Peter Abelard", "id": "Q4295"}
+{"name": "Conrad III", "id": "Q157133"}
+{"name": "Henry II of England", "id": "Q102140"}
+{"name": "Hoelun", "id": "Q378676"}
+{"name": "Henry II", "id": "Q102140"}
+{"name": "Frederick Barbarossa", "id": "Q79789"}
+{"name": "Saladin", "id": "Q8581"}
+{"name": "Blondel de Nesle", "id": "Q5170"}
+{"name": "King John", "id": "Q129308"}
+{"name": "Francis of Assisi", "id": "Q676555"}
+{"name": "Blanche of Castile", "id": "Q353"}
+{"name": "Jalal ad-Din Rumi", "id": "Q43347"}
+{"name": "Uri", "id": null}
+{"name": "Robert the Bruce", "id": "Q187312"}
+{"name": "Mansa Musa", "id": "Q309333"}
+{"name": "Edward III", "id": "Q129247"}
+{"name": "Merchants", "id": null}
+{"name": "Christine de Pizan", "id": "Q234816"}
+{"name": "Filippo Brunelleschi", "id": "Q174330"}
+{"name": "Joan of Arc", "id": "Q7226"}
+{"name": "Margaret Paston", "id": null}
+{"name": "Mehmed II", "id": "Q34503"}
+{"name": "Isabella I of Castile", "id": "Q45859"}
+{"name": "Lorenzo de Medici", "id": "Q177854"}
+{"name": "Christopher Columbus", "id": "Q7322"}
+{"name": "Hernan Cortes", "id": "Q7326"}
+{"name": "Jakob Fugger", "id": "Q65103"}
+{"name": "Babur", "id": "Q797848"}
+{"name": "Francisco Pizarro", "id": "Q44741"}
+{"name": "Thomas More", "id": "Q42544"}
+{"name": "Bartolome de las Casas", "id": "Q207416"}
+{"name": "Mori Motonari", "id": "Q1156545"}
+{"name": "Oda Nobunaga", "id": "Q171411"}
+{"name": "Hai Rui", "id": "Q934891"}
+{"name": "Uesugi Kenshin", "id": "Q311080"}
+{"name": "Tokugawa Ieyasu", "id": "Q171977"}
+{"name": "Ishida Mitsunari", "id": "Q334107"}
+{"name": "Akbar", "id": "Q8597"}
+{"name": "Sir Philip Sidney", "id": "Q315509"}
+{"name": "Elizabeth I", "id": "Q7207"}
+{"name": "Sen no Rikyu", "id": "Q305477"}
+{"name": "Matteo Ricci", "id": "Q233340"}
+{"name": "Yi Sun-sin", "id": "Q50184"}
+{"name": "King James I", "id": null}
+{"name": "Johannes Kepler", "id": "Q8963"}
+{"name": "William Bradford", "id": null}
+{"name": "Nzinga of Ndongo", "id": "Q467650"}
+{"name": "Gustavus Adolphus", "id": "Q52938"}
+{"name": "Shah Jahan", "id": "Q83672"}
+{"name": "Galileo Galilei", "id": "Q307"}
+{"name": "Tokugawa Iemitsu", "id": "Q314481"}
+{"name": "Roger Williams", "id": "Q391591"}
+{"name": "Jijabai", "id": "Q6192525"}
+{"name": "Shivaji Bhosale", "id": "Q239505"}
+{"name": "Aurangzeb", "id": "Q485547"}
+{"name": "Shivaji", "id": "Q239505"}
+{"name": "Mitsui Takatoshi", "id": "Q6883251"}
+{"name": "William Penn", "id": "Q209152"}
+{"name": "Peter I of Russia", "id": "Q8479"}
+{"name": "Oishi Kuranosuke", "id": "Q530128"}
+{"name": "Bhai Kanhaiya", "id": "Q4900749"}
+{"name": "Lady Mary Wortley Montagu", "id": "Q235121"}
+{"name": "Bartholomew Roberts", "id": "Q313430"}
+{"name": "Maria Theresa", "id": "Q131706"}
+{"name": "Denis Diderot", "id": "Q448"}
+{"name": "Leopold Mozart", "id": "Q156280"}
+{"name": "Josiah Wedgwood", "id": "Q319331"}
+{"name": "Wolfgang Amadeus Mozart", "id": "Q254"}
+{"name": "Joseph-Michel Montgolfier", "id": "Q2467332"}
+{"name": "Joseph Haydn", "id": "Q7349"}
+{"name": "William Bligh", "id": "Q294147"}
+{"name": "Toussaint Louverture", "id": "Q205783"}
+{"name": "Johann Wolfgang von Goethe", "id": "Q5879"}
+{"name": "Mary Wollstonecraft", "id": "Q101638"}
+{"name": "Horatio Nelson", "id": "Q83235"}
+{"name": "Edward Jenner", "id": "Q40852"}
+{"name": "Meriwether Lewis", "id": "Q313492"}
+{"name": "Sacagawea", "id": "Q238960"}
+{"name": "Arthur Wellesley", "id": "Q131691"}
+{"name": "Jacob Grimm", "id": "Q6701"}
+{"name": "Mikhail Kutuzov", "id": "Q185801"}
+{"name": "Elizabeth Fry", "id": "Q271477"}
+{"name": "Shaka kaSenzangakhona", "id": "Q27695"}
+{"name": "Mayer Amschel Rothschild", "id": "Q76988"}
+{"name": "Jose de San Martin", "id": "Q134160"}
+{"name": "Humphry Davy", "id": "Q131761"}
+{"name": "Moshoeshoe I", "id": "Q469775"}
+{"name": "Grace Darling", "id": "Q461882"}
+{"name": "Nakahama Manjiro", "id": "Q1193167"}
+{"name": "Fanny Mendelssohn Hensel", "id": "Q57286"}
+{"name": "Rochdale Society of Equitable Pioneers", "id": null}
+{"name": "Charlotte Bronte", "id": "Q127332"}
+{"name": "Elizabeth Barrett Browning", "id": "Q228494"}
+{"name": "Ignaz Semmelweis", "id": "Q59736"}
+{"name": "Savitribai Phule", "id": "Q2645692"}
+{"name": "William Still", "id": "Q3568976"}
+{"name": "Matthew C. Perry", "id": "Q61855"}
+{"name": "Robert Schumann", "id": "Q7351"}
+{"name": "Lord Raglan", "id": null}
+{"name": "Clara Schumann", "id": "Q132232"}
+{"name": "John Snow", "id": "Q356407"}
+{"name": "Florence Nightingale", "id": "Q37103"}
+{"name": "Harriet Tubman", "id": "Q102870"}
+{"name": "Lucy Stone", "id": "Q452281"}
+{"name": "Rani Lakshmibai", "id": "Q181878"}
+{"name": "Henry Dunant", "id": "Q12091"}
+{"name": "Queen Victoria", "id": "Q9439"}
+{"name": "Joshua Lawrence Chamberlain", "id": "Q80766"}
+{"name": "Robert E. Lee", "id": "Q165557"}
+{"name": "Ulysses S. Grant", "id": "Q34836"}
+{"name": "Sakamoto Ryoma", "id": "Q378450"}
+{"name": "William Seward", "id": "Q297308"}
+{"name": "Otto von Bismarck", "id": "Q8442"}
+{"name": "Iwakura Tomomi", "id": "Q428200"}
+{"name": "Lord Chelmsford", "id": "Q336300"}
+{"name": "James Murray", "id": null}
+{"name": "Louis Pasteur", "id": "Q529"}
+{"name": "Emily Warren Roebling", "id": "Q49902"}
+{"name": "Anne Sullivan", "id": "Q239135"}
+{"name": "Vincent van Gogh", "id": "Q5582"}
+{"name": "Thomas Edison", "id": "Q8743"}
+{"name": "William Worrall Mayo", "id": "Q904681"}
+{"name": "Swami Vivekananda", "id": "Q47478"}
+{"name": "Fridtjof Nansen", "id": "Q72292"}
+{"name": "Menelik II", "id": "Q244748"}
+{"name": "Emile Durkheim", "id": "Q15948"}
+{"name": "Empress Dowager Cixi", "id": "Q47842"}
+{"name": "Marie Curie", "id": "Q7186"}
+{"name": "Norman Triplett", "id": "Q7052882"}
+{"name": "Yaa Asantewaa", "id": "Q467803"}
+{"name": "Wilbur Wright", "id": "Q1396131"}
+{"name": "Togo Heihachiro", "id": "Q296785"}
+{"name": "John Harvey Kellogg", "id": "Q380036"}
+{"name": "Francis Galton", "id": "Q191026"}
+{"name": "Ernest Shackleton", "id": "Q957543"}
+{"name": "Joseph Baratz", "id": "Q2855738"}
+{"name": "Roald Amundsen", "id": "Q926"}
+{"name": "Albert Einstein", "id": "Q937"}
+{"name": "Mohandas Gandhi", "id": "Q1001"}
+{"name": "Robert Michels", "id": "Q57314"}
+{"name": "Noguchi Hideyo", "id": "Q356114"}
+{"name": "Lawrence Oates", "id": "Q317941"}
+{"name": "Srinivasa Ramanujan", "id": "Q83163"}
+{"name": "British", "id": null}
+{"name": "Brudenell White", "id": "Q3363207"}
+{"name": "Walt Disney", "id": "Q8704"}
+{"name": "Jawaharlal Nehru", "id": "Q1047"}
+{"name": "Douglas Jardine", "id": "Q3038014"}
+{"name": "Konosuke Matsushita", "id": "Q252785"}
+{"name": "Muzafer Sherif", "id": "Q557613"}
+{"name": "Haile Selassie", "id": "Q41178"}
+{"name": "Jesse Owens", "id": "Q52651"}
+{"name": "Sakichi Toyoda", "id": "Q137727"}
+{"name": "Alan Turing", "id": "Q7251"}
+{"name": "Kurt Lewin", "id": "Q77106"}
+{"name": "Nicholas Winton", "id": "Q460431"}
+{"name": "Winston Churchill", "id": "Q8016"}
+{"name": "Bertram Ramsay", "id": "Q710439"}
+{"name": "Haakon VII of Norway", "id": "Q154927"}
+{"name": "Chiune Sugihara", "id": "Q161381"}
+{"name": "Jean Piaget", "id": "Q123190"}
+{"name": "Joseph Rochefort", "id": "Q187113"}
+{"name": "Irena Sendler", "id": "Q151932"}
+{"name": "Ewen Montagu", "id": "Q366399"}
+{"name": "Clarence \"Kelly\" Johnson", "id": "Q596353"}
+{"name": "Franz Stigler", "id": "Q55417889"}
+{"name": "Abraham Wald", "id": "Q240772"}
+{"name": "William Foote Whyte", "id": "Q1074700"}
+{"name": "John Bowlby", "id": "Q128868"}
+{"name": "Raoul Wallenberg", "id": "Q152850"}
+{"name": "Branch Rickey", "id": "Q126019"}
+{"name": "Verghese Kurien", "id": "Q180385"}
+{"name": "John Bardeen", "id": "Q949"}
+{"name": "Thor Heyerdahl", "id": "Q133622"}
+{"name": "George C. Marshall", "id": "Q151414"}
+{"name": "Otto Frank", "id": "Q7336"}
+{"name": "Pee Wee Reese", "id": "Q182485"}
+{"name": "Lucius Clay", "id": "Q369360"}
+{"name": "Adolf Dassler", "id": "Q76751"}
+{"name": "Gail Halvorsen", "id": "Q566677"}
+{"name": "Seretse Khama", "id": "Q219962"}
+{"name": "Solomon Asch", "id": null}
+{"name": "Harry S. Truman", "id": "Q11613"}
+{"name": "Edmund Hillary", "id": "Q33817"}
+{"name": "Ferenc Puskas", "id": "Q482931"}
+{"name": "James Watson", "id": "Q83333"}
+{"name": "Roger Bannister", "id": "Q319351"}
+{"name": "Isidor Rabi", "id": "Q165969"}
+{"name": "Jonas Salk", "id": "Q200101"}
+{"name": "Rosa Parks", "id": "Q41921"}
+{"name": "Taiichi Ohno", "id": "Q504100"}
+{"name": "Jose Maria Arizmendiarrieta", "id": "Q1366898"}
+{"name": "Albert Camus", "id": "Q34670"}
+{"name": "Bill Russell", "id": "Q242185"}
+{"name": "Robert Noyce", "id": "Q241735"}
+{"name": "Elliot Aronson", "id": "Q449733"}
+{"name": "Morton Deutsch", "id": "Q611121"}
+{"name": "Frank Worrell", "id": "Q954650"}
+{"name": "Albert Bandura", "id": "Q153753"}
+{"name": "Vasili Arkhipov", "id": "Q1395757"}
+{"name": "Katherine Johnson", "id": "Q11740"}
+{"name": "Jomo Kenyatta", "id": "Q173563"}
+{"name": "Stanley Milgram", "id": "Q208236"}
+{"name": "Eugenio Monti", "id": "Q725577"}
+{"name": "Bobby Charlton", "id": "Q171583"}
+{"name": "Jonathan Freedman", "id": null}
+{"name": "Diana Baumrind", "id": "Q446567"}
+{"name": "Edward Jones", "id": null}
+{"name": "William Foege", "id": "Q8009181"}
+{"name": "Cesar Chavez", "id": "Q355425"}
+{"name": "John Darley", "id": null}
+{"name": "Dick Fosbury", "id": "Q310989"}
+{"name": "Robert Rosenthal", "id": null}
+{"name": "Michael Collins", "id": "Q104859"}
+{"name": "Nelson Mandela", "id": "Q8023"}
+{"name": "Serge Moscovici", "id": "Q527522"}
+{"name": "Jack Nicklaus", "id": "Q9424"}
+{"name": "Gene Kranz", "id": "Q711493"}
+{"name": "Willy Brandt", "id": "Q2514"}
+{"name": "Rinus Michels", "id": "Q2154479"}
+{"name": "Edward Deci", "id": "Q5344000"}
+{"name": "Bernard Kouchner", "id": "Q206327"}
+{"name": "Thomas Schelling", "id": "Q206460"}
+{"name": "Henri Tajfel", "id": "Q1338858"}
+{"name": "Nando Parrado", "id": "Q582826"}
+{"name": "Karen Dion", "id": null}
+{"name": "Zhou Enlai", "id": "Q17410"}
+{"name": "William Chase", "id": null}
+{"name": "Henry Mintzberg", "id": "Q355277"}
+{"name": "Muhammad Ali", "id": "Q36107"}
+{"name": "Elizabeth Loftus", "id": "Q262154"}
+{"name": "Robert Cialdini", "id": "Q1198516"}
+{"name": "Baruch Fischhoff", "id": "Q21934237"}
+{"name": "Ellen Langer", "id": "Q374377"}
+{"name": "Muhammad Yunus", "id": "Q43969"}
+{"name": "Mau Piailug", "id": "Q6792168"}
+{"name": "Dick Hoyt", "id": "Q123588285"}
+{"name": "Rosabeth Moss Kanter", "id": "Q468450"}
+{"name": "Lee Ross", "id": "Q6514844"}
+{"name": "Anwar Sadat", "id": "Q42013"}
+{"name": "Mark Snyder", "id": null}
+{"name": "Lee Iacocca", "id": "Q281847"}
+{"name": "Daniel Kahneman", "id": "Q233950"}
+{"name": "Charles Lord", "id": null}
+{"name": "Steve Jobs", "id": "Q19837"}
+{"name": "Bill Gates", "id": "Q5284"}
+{"name": "Herb Brooks", "id": "Q1390562"}
+{"name": "Lech Walesa", "id": "Q444"}
+{"name": "Robert Axelrod", "id": "Q583438"}
+{"name": "Richard Petty", "id": null}
+{"name": "Richard Thaler", "id": "Q371212"}
+{"name": "Gerald Patterson", "id": null}
+{"name": "James Burke", "id": null}
+{"name": "Emmy Werner", "id": null}
+{"name": "Pope John Paul II", "id": "Q989"}
+{"name": "Stanislav Petrov", "id": "Q52412"}
+{"name": "Heinz Wimmer", "id": null}
+{"name": "General Motors", "id": null}
+{"name": "Thomas Gilovich", "id": "Q2424257"}
+{"name": "Paul O'Neill", "id": "Q456921"}
+{"name": "Robert Plomin", "id": "Q3401334"}
+{"name": "Al Haynes", "id": "Q66780285"}
+{"name": "Thomas Bouchard", "id": null}
+{"name": "Elinor Ostrom", "id": "Q153761"}
+{"name": "Leigh Thompson", "id": "Q67071750"}
+{"name": "Tom Tyler", "id": null}
+{"name": "Linus Torvalds", "id": "Q34253"}
+{"name": "Michael Marmot", "id": "Q1928530"}
+{"name": "Derek Redmond", "id": "Q1200109"}
+{"name": "Imran Khan", "id": "Q155164"}
+{"name": "Nalini Ambady", "id": "Q6960906"}
+{"name": "Richard Covey", "id": "Q658221"}
+{"name": "Gerd Gigerenzer", "id": "Q108184"}
+{"name": "Betty Hart", "id": null}
+{"name": "Edwin Hutchins", "id": "Q5346536"}
+{"name": "Diane Wei Liang", "id": "Q4572500"}
+{"name": "Amy Edmondson", "id": "Q30069746"}
+{"name": "John Gottman", "id": "Q776341"}
+{"name": "Desmond Tutu", "id": "Q43033"}
+{"name": "Bruno Frey", "id": "Q124970"}
+{"name": "Daniel Gilbert", "id": "Q449564"}
+{"name": "Claudia Mueller", "id": null}
+{"name": "Michael Rutter", "id": null}
+{"name": "Uri Gneezy", "id": "Q15127484"}
+{"name": "Claudia Goldin", "id": "Q1097475"}
+{"name": "Sheena Iyengar", "id": "Q29752"}
+{"name": "Edward Lazear", "id": "Q448413"}
+{"name": "Adam Galinsky", "id": "Q19873437"}
+{"name": "Dan Ariely", "id": "Q731905"}
+{"name": "George Bonanno", "id": "Q5537091"}
+{"name": "Ernst Fehr", "id": "Q78655"}
+{"name": "Edwin Locke", "id": "Q2902502"}
+{"name": "Barry Schwartz", "id": "Q3500411"}
+{"name": "Stephanie Brown", "id": null}
+{"name": "Eric Johnson", "id": null}
+{"name": "Dacher Keltner", "id": "Q5207597"}
+{"name": "Richard Lucas", "id": null}
+{"name": "Robert Sapolsky", "id": "Q3118802"}
+{"name": "Janice Kiecolt-Glaser", "id": "Q63254476"}
+{"name": "Ulrike Malmendier", "id": "Q105343"}
+{"name": "Michelle Ryan", "id": "Q17016690"}
+{"name": "Philip Tetlock", "id": "Q2086480"}
+{"name": "Thomas Pettigrew", "id": null}
+{"name": "Peter Pronovost", "id": "Q7176458"}
+{"name": "Stephen Reicher", "id": "Q7613720"}
+{"name": "David Romer", "id": "Q1176380"}
+{"name": "Matthew Salganik", "id": "Q56273186"}
+{"name": "Michael Bar-Eli", "id": "Q65252424"}
+{"name": "Nicholas Bloom", "id": "Q17579896"}
+{"name": "Adam Grant", "id": "Q14712273"}
+{"name": "Marshall Duke", "id": null}
+{"name": "Elizabeth Dunn", "id": "Q75040175"}
+{"name": "James Fowler", "id": null}
+{"name": "Cameron Anderson", "id": null}
+{"name": "Alexandre Mas", "id": null}
+{"name": "Katherine Phillips", "id": null}
+{"name": "Damon Centola", "id": "Q27825242"}
+{"name": "David Card", "id": "Q1173928"}
+{"name": "Paul Piff", "id": "Q23728301"}
+{"name": "Frances Campbell", "id": null}
+{"name": "Raj Chetty", "id": "Q1153274"}
+{"name": "Elizabeth Gershoff", "id": "Q44870579"}
+{"name": "Servius Sulpicius Rufus", "id": "Q435163"}
+{"name": "John Dickinson", "id": null}
+{"name": "The Mouse", "id": null}
+{"name": "An old Fox", "id": null}
+{"name": "The Crow", "id": null}
+{"name": "The Brazier", "id": null}
+{"name": "The Fisherman", "id": null}
+{"name": "Chang Yu", "id": null}
+{"name": "Yang Ho", "id": null}
+{"name": "Sthenelaidas", "id": "Q3973090"}
+{"name": "Teutiaplus", "id": "Q11951694"}
+{"name": "Min Sun", "id": null}
+{"name": "Critobulus", "id": "Q11916159"}
+{"name": "The Youth", "id": null}
+{"name": "Lamprocles", "id": "Q5132817"}
+{"name": "Chrysantas", "id": "Q3509072"}
+{"name": "Ischomachus", "id": "Q3155222"}
+{"name": "Critognatus", "id": "Q3002987"}
+{"name": "Laelius", "id": null}
+{"name": "Areus", "id": null}
+{"name": "Laberius", "id": "Q1181859"}
+{"name": "Demetrius the Cynic", "id": "Q742345"}
+{"name": "Demaratus", "id": "Q334478"}
+{"name": "Theopompus", "id": null}
+{"name": "Lamprias", "id": null}
+{"name": "Sylla", "id": null}
+{"name": "Minucius", "id": null}
+{"name": "Damocrates", "id": null}
+{"name": "Alexander", "id": null}
+{"name": "Charilaus", "id": "Q176022"}
+{"name": "Aristides", "id": null}
+{"name": "Fabius", "id": null}
+{"name": "Sir William Keith", "id": null}
+{"name": "Lord Erskine", "id": null}
+{"name": "Richard Sharp", "id": "Q7328980"}
+{"name": "Caroline Perthes", "id": "Q20980058"}
+{"name": "Earl of Strafford", "id": null}
+{"name": "Sir John Patteson", "id": "Q6252143"}
+{"name": "George Dasent", "id": "Q3101512"}
+{"name": "Almustafa", "id": null}
+{"name": "Samwise Gamgee", "id": "Q219473"}
+{"name": "Fan Li", "id": null}
+{"name": "Gorgidas", "id": "Q2721135"}
+{"name": "Tian Ji", "id": "Q3528010"}
+{"name": "Feng Xuan", "id": null}
+{"name": "Zhao Gao", "id": "Q197436"}
+{"name": "Zhou Yu", "id": null}
+{"name": "Choctaw Nation", "id": null}
+{"name": "Fritz Roethlisberger", "id": "Q5505005"}
+{"name": "Joe Rantz", "id": "Q3441227"}
+{"name": "Andre", "id": null}
+{"name": "Theodore Newcomb", "id": "Q7781928"}
+{"name": "Rene Spitz", "id": "Q78727"}
+{"name": "Edward Shils", "id": "Q706683"}
+{"name": "Samuel Stouffer", "id": "Q2217894"}
+{"name": "Leon Festinger", "id": "Q315916"}
+{"name": "Harold Kelley", "id": "Q3783439"}
+{"name": "Carl Hovland", "id": "Q1038976"}
+{"name": "Harold Leavitt", "id": "Q3040989"}
+{"name": "Pete Schoening", "id": "Q718492"}
+{"name": "Paul Meehl", "id": "Q2059366"}
+{"name": "Harry Harlow", "id": "Q1356498"}
+{"name": "Frederick Herzberg", "id": "Q142881"}
+{"name": "Peter Wason", "id": "Q13561980"}
+{"name": "Sam Glucksberg", "id": "Q16800929"}
+{"name": "Daimatsu Hirobumi", "id": "Q10935760"}
+{"name": "Bruce Tuckman", "id": "Q991846"}
+{"name": "Robert Zajonc", "id": "Q914495"}
+{"name": "Elaine Walster", "id": "Q1324810"}
+{"name": "Fred Fiedler", "id": "Q78839"}
+{"name": "Bibb Latane", "id": "Q4902973"}
+{"name": "Alexander Thomas", "id": "Q107546134"}
+{"name": "Colin Murray Parkes", "id": "Q5145444"}
+{"name": "Jeffrey Travers", "id": null}
+{"name": "Glenn Cowan", "id": "Q5568742"}
+{"name": "Dennis Regan", "id": null}
+{"name": "Martin Shubik", "id": "Q1569297"}
+{"name": "Irving Janis", "id": "Q3080462"}
+{"name": "David Kipnis", "id": "Q116192405"}
+{"name": "Stanley Lieberson", "id": "Q50882881"}
+{"name": "Mark Granovetter", "id": "Q594320"}
+{"name": "Mark Lepper", "id": "Q6768562"}
+{"name": "Craig Haney", "id": "Q27805367"}
+{"name": "Gaura Devi", "id": "Q37823385"}
+{"name": "Donald Dutton", "id": "Q110317098"}
+{"name": "Glen Elder", "id": "Q1485542"}
+{"name": "Amos Tversky", "id": "Q474333"}
+{"name": "Thomas Stafford", "id": null}
+{"name": "Gary Latham", "id": null}
+{"name": "J. Richard Hackman", "id": "Q49793156"}
+{"name": "David Wood", "id": null}
+{"name": "Andrew Meltzoff", "id": "Q4758101"}
+{"name": "Mary Ainsworth", "id": "Q242625"}
+{"name": "Philip Brickman", "id": "Q105082941"}
+{"name": "Edward Tronick", "id": "Q18631983"}
+{"name": "Lisa Berkman", "id": "Q30069762"}
+{"name": "Michael Ross", "id": "Q125545848"}
+{"name": "C. Daniel Batson", "id": "Q5216510"}
+{"name": "Ola Svenson", "id": null}
+{"name": "Werner Guth", "id": "Q29901768"}
+{"name": "Joel Huber", "id": null}
+{"name": "Max Bazerman", "id": "Q16246142"}
+{"name": "Norbert Kerr", "id": "Q55138551"}
+{"name": "Caryl Rusbult", "id": "Q5047690"}
+{"name": "Hal Arkes", "id": "Q26307492"}
+{"name": "James Meindl", "id": null}
+{"name": "Roberto Goizueta", "id": "Q3622684"}
+{"name": "Garold Stasser", "id": "Q130782622"}
+{"name": "Roger Boisjoly", "id": "Q36245"}
+{"name": "Gary Klein", "id": "Q5524569"}
+{"name": "Robert Lord", "id": null}
+{"name": "Michael Diehl", "id": null}
+{"name": "Cindy Hazan", "id": "Q137708828"}
+{"name": "Jerome Kagan", "id": "Q1771609"}
+{"name": "Lawrence Lemieux", "id": "Q3219912"}
+{"name": "William Samuelson", "id": null}
+{"name": "Walter Mischel", "id": "Q215978"}
+{"name": "Deborah Mitchell", "id": null}
+{"name": "Jerald Greenberg", "id": "Q112449107"}
+{"name": "Elizabeth Newton", "id": null}
+{"name": "Paul Amato", "id": "Q20675636"}
+{"name": "Alice Eagly", "id": "Q16209853"}
+{"name": "Carolyn Zahn-Waxler", "id": "Q114877028"}
+{"name": "James Barker", "id": null}
+{"name": "K. Anders Ericsson", "id": "Q6323089"}
+{"name": "Deborah Prentice", "id": "Q29136496"}
+{"name": "Nick Leeson", "id": "Q463502"}
+{"name": "Shlomo Benartzi", "id": "Q23662139"}
+{"name": "Joyce Berg", "id": null}
+{"name": "Aaron Feuerstein", "id": "Q4662003"}
+{"name": "Rosemarie Nagel", "id": "Q21264588"}
+{"name": "Ruth Wageman", "id": "Q133175532"}
+{"name": "Sandra Murray", "id": "Q45302506"}
+{"name": "Arthur Aron", "id": "Q18763824"}
+{"name": "Linda Babcock", "id": "Q42161639"}
+{"name": "Colin Camerer", "id": "Q1108379"}
+{"name": "Peter Gollwitzer", "id": "Q106159"}
+{"name": "Vincent Felitti", "id": "Q125502235"}
+{"name": "Kristen Hawkes", "id": "Q28823534"}
+{"name": "John Laub", "id": "Q1700319"}
+{"name": "John Meriwether", "id": "Q1701072"}
+{"name": "David Schkade", "id": null}
+{"name": "Tanya Chartrand", "id": "Q103843013"}
+{"name": "Justin Kruger", "id": "Q29654717"}
+{"name": "Jennifer Lerner", "id": "Q16731411"}
+{"name": "Daniel Simons", "id": "Q5218770"}
+{"name": "Margaret Stroebe", "id": "Q47607965"}
+{"name": "Brad Barber", "id": "Q102722524"}
+{"name": "Guido Hertel", "id": "Q1259071"}
+{"name": "Robert Putnam", "id": "Q351815"}
+{"name": "Alyson Shapiro", "id": "Q91588691"}
+{"name": "Bennett Tepper", "id": "Q78857554"}
+{"name": "Brigitte Madrian", "id": "Q97675419"}
+{"name": "Charlan Nemeth", "id": "Q112533089"}
+{"name": "Barbara Fiese", "id": "Q57321754"}
+{"name": "Bent Flyvbjerg", "id": "Q4890318"}
+{"name": "E. Mavis Hetherington", "id": "Q28115222"}
+{"name": "Gabriele Oettingen", "id": "Q1490526"}
+{"name": "Emily Pronin", "id": "Q104851261"}
+{"name": "Marianne Bertrand", "id": "Q1805905"}
+{"name": "Naomi Eisenberger", "id": "Q28007281"}
+{"name": "Patricia Kuhl", "id": "Q7145662"}
+{"name": "Annette Lareau", "id": "Q4769093"}
+{"name": "Frances Milliken", "id": null}
+{"name": "Devah Pager", "id": "Q5266430"}
+{"name": "Ignacio Palacios-Huerta", "id": "Q41805698"}
+{"name": "Jean Twenge", "id": "Q32979574"}
+{"name": "Janice Driver", "id": "Q117839395"}
+{"name": "Shelly Gable", "id": "Q78100659"}
+{"name": "Lu Hong", "id": null}
+{"name": "Timothy Judge", "id": null}
+{"name": "Ian Weaver", "id": null}
+{"name": "Michael Kosfeld", "id": "Q41803716"}
+{"name": "Alexander Todorov", "id": "Q30162487"}
+{"name": "Brian Uzzi", "id": "Q61731745"}
+{"name": "Melissa Bateson", "id": "Q51810205"}
+{"name": "Ingrid Nembhard", "id": "Q89863483"}
+{"name": "Samuel Sommers", "id": "Q30331904"}
+{"name": "Felix Warneken", "id": "Q77910656"}
+{"name": "Janine Willis", "id": null}
+{"name": "Charles Nelson", "id": null}
+{"name": "Christine Porath", "id": "Q56647253"}
+{"name": "Stefan Wuchty", "id": "Q87803920"}
+{"name": "Noah Goldstein", "id": null}
+{"name": "Boris Groysberg", "id": "Q14919792"}
+{"name": "Kees Keizer", "id": "Q119593329"}
+{"name": "Alex Haynes", "id": "Q60663248"}
+{"name": "Julianne Holt-Lunstad", "id": "Q62779529"}
+{"name": "Teresa Amabile", "id": "Q7702091"}
+{"name": "Terrie Moffitt", "id": "Q2405380"}
+{"name": "S. Alexander Haslam", "id": "Q4719094"}
+{"name": "Jan Lorenz", "id": "Q59696213"}
+{"name": "Elizabeth Gunderson", "id": "Q47876931"}
+{"name": "Celeste Kidd", "id": "Q65549007"}
+{"name": "Anandi Mani", "id": "Q70744164"}
+{"name": "Nicholas Epley", "id": "Q36423409"}
+{"name": "Ruth Feldman", "id": "Q27162175"}
+{"name": "Barbara Mellers", "id": "Q29166460"}
+{"name": "Gillian Sandstrom", "id": "Q59684059"}
+{"name": "Julia Rohrer", "id": "Q57642073"}
+{"name": "Erica Boothby", "id": "Q98780079"}
+{"name": "Amit Kumar", "id": null}

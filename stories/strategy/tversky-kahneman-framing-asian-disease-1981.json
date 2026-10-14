@@ -1,0 +1,14 @@
+{
+  "id": "story-tversky-kahneman-framing-asian-disease-1981",
+  "category": "strategy",
+  "kind": "study",
+  "title": "The Asian Disease Problem",
+  "text": "In a 1981 paper, Amos Tversky and Daniel Kahneman asked university students in the United States and Canada to imagine that the country was preparing for an unusual disease expected to kill 600 people. Two programs had been proposed to fight it.\n\nOne group read the options in terms of lives saved. With Program A, 200 people would be saved. With Program B, there was a one-third chance that all 600 would be saved and a two-thirds chance that nobody would be saved. About 72 percent chose the sure option, Program A.\n\nA second group read the same options described in terms of deaths. With Program C, 400 people would die. With Program D, there was a one-third chance that nobody would die and a two-thirds chance that all 600 would die. Now about 78 percent chose the gamble, Program D.\n\nPrograms A and C were identical, as were B and D. Only the wording had changed, from saving to dying. Yet the majority preference reversed. When the outcome was framed as a gain, people avoided risk; when it was framed as a loss, they embraced it. Tversky and Kahneman called this the framing effect and showed that it appeared even among people who, when shown both versions, agreed they ought to give the same answer. The finding has been replicated many times and is now a staple of decision research.",
+  "lesson": "Before a decision, restate the options the other way around: as gains and as losses. If your preference flips, the wording, not the substance, was doing the choosing.",
+  "people": "Amos Tversky, Daniel Kahneman",
+  "date": "1981",
+  "year": 1981,
+  "location": "Stanford University, USA, and University of British Columbia, Canada",
+  "source": "Tversky, A., and Kahneman, D. (1981). The framing of decisions and the psychology of choice. Science, 211(4481), 453-458.",
+  "basis": "study"
+}

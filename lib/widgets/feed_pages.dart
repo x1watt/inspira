@@ -1,0 +1,721 @@
+import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
+import 'package:share_plus/share_plus.dart';
+
+import '../app_scope.dart';
+import '../data/image_repository.dart';
+import '../data/quiz_generator.dart';
+import '../data/stable_hash.dart';
+import '../models/category.dart';
+import '../models/quote.dart';
+import '../models/story.dart';
+import '../screens/category_screen.dart';
+import '../screens/quote_screen.dart';
+import '../screens/story_list_screen.dart';
+import '../screens/story_screen.dart';
+import 'art_background.dart';
+import 'item_actions.dart';
+import 'person_sheet.dart';
+import 'story_card.dart';
+
+/// Space kept free at the top for the streak and goal bar.
+const _hudHeight = 64.0;
+
+/// Width of the action rail on the right.
+const _railWidth = 72.0;
+
+TextStyle? _quoteStyle(BuildContext context, int length) {
+  final t = Theme.of(context).textTheme;
+  final base = length < 120
+      ? t.headlineMedium
+      : length < 260
+      ? t.headlineSmall
+      : length < 450
+      ? t.titleLarge
+      : t.titleMedium;
+  return base?.copyWith(
+    color: Colors.white,
+    height: 1.35,
+    fontWeight: FontWeight.w500,
+  );
+}
+
+/// Background, readable content at the bottom, action rail on the right
+/// and the image credit; the frame every feed page shares.
+class _FeedFrame extends StatelessWidget {
+  const _FeedFrame({
+    required this.art,
+    required this.seed,
+    required this.content,
+    this.rail,
+    this.onDoubleTap,
+  });
+
+  final ArtImage? art;
+  final int seed;
+  final Widget content;
+  final Widget? rail;
+
+  /// Double tap on the picture (not on buttons) likes the card.
+  final GestureTapDownCallback? onDoubleTap;
+
+  @override
+  Widget build(BuildContext context) {
+    final credit = art?.credit ?? '';
+    return Stack(
+      fit: StackFit.expand,
+      children: [
+        GestureDetector(
+          onDoubleTapDown: onDoubleTap,
+          onDoubleTap: onDoubleTap == null ? null : () {},
+          child: ArtBackground(art: art, seed: seed),
+        ),
+        SafeArea(
+          child: Padding(
+            padding: EdgeInsets.fromLTRB(
+              20,
+              _hudHeight,
+              rail == null ? 20 : _railWidth,
+              12,
+            ),
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                // Content sits at the bottom and shrinks to fit instead of
+                // scrolling, so a vertical drag always reaches the feed.
+                Expanded(
+                  child: LayoutBuilder(
+                    builder: (context, c) => Align(
+                      alignment: Alignment.bottomLeft,
+                      child: FittedBox(
+                        fit: BoxFit.scaleDown,
+                        alignment: Alignment.bottomLeft,
+                        child: SizedBox(
+                          width: c.maxWidth,
+                          // Dimmed panel: the picture stays visible around
+                          // and through it, the text stays readable.
+                          child: DecoratedBox(
+                            decoration: BoxDecoration(
+                              color: Colors.black.withValues(alpha: 0.6),
+                              borderRadius: BorderRadius.circular(18),
+                            ),
+                            child: Padding(
+                              padding: const EdgeInsets.all(16),
+                              child: content,
+                            ),
+                          ),
+                        ),
+                      ),
+                    ),
+                  ),
+                ),
+                if (credit.isNotEmpty) ...[
+                  const SizedBox(height: 10),
+                  Text(
+                    'Image: $credit',
+                    maxLines: 1,
+                    overflow: TextOverflow.ellipsis,
+                    style: const TextStyle(color: Colors.white54, fontSize: 10),
+                  ),
+                ],
+              ],
+            ),
+          ),
+        ),
+        if (rail != null)
+          Positioned(right: 8, bottom: 28, child: SafeArea(child: rail!)),
+      ],
+    );
+  }
+}
+
+/// The TikTok style column of actions: who, like, copy, share, details.
+class FeedRail extends StatelessWidget {
+  const FeedRail({
+    super.key,
+    required this.id,
+    required this.person,
+    required this.shareText,
+    required this.onLike,
+    required this.onPerson,
+    required this.onDetails,
+  });
+
+  final String id;
+  final String? person;
+  final String shareText;
+  final VoidCallback onLike;
+  final VoidCallback? onPerson;
+  final VoidCallback onDetails;
+
+  @override
+  Widget build(BuildContext context) {
+    final scope = AppScope.of(context);
+    final avatar = scope.images.avatarFor(person);
+    return Column(
+      mainAxisSize: MainAxisSize.min,
+      children: [
+        if (person != null)
+          _RailButton(
+            label: '',
+            onTap: onPerson,
+            child: CircleAvatar(
+              radius: 24,
+              backgroundColor: Colors.white,
+              child: CircleAvatar(
+                radius: 22,
+                backgroundColor: Colors.blueGrey.shade700,
+                foregroundImage: avatar == null ? null : AssetImage(avatar),
+                child: Text(
+                  _initials(person!),
+                  style: const TextStyle(color: Colors.white),
+                ),
+              ),
+            ),
+          ),
+        ListenableBuilder(
+          listenable: scope.favorites,
+          builder: (context, _) {
+            final fav = scope.favorites.contains(id);
+            return _RailButton(
+              label: fav ? 'Saved' : 'Like',
+              onTap: () {
+                if (!fav) onLike();
+                scope.favorites.toggle(id);
+              },
+              child: Icon(
+                fav ? Icons.favorite : Icons.favorite_border,
+                size: 34,
+                color: fav ? Colors.redAccent : Colors.white,
+              ),
+            );
+          },
+        ),
+        _RailButton(
+          label: 'Copy',
+          onTap: () async {
+            await Clipboard.setData(ClipboardData(text: shareText));
+            if (!context.mounted) return;
+            ScaffoldMessenger.of(context)
+              ..hideCurrentSnackBar()
+              ..showSnackBar(const SnackBar(content: Text('Copied')));
+          },
+          child: const Icon(Icons.copy_rounded, size: 30, color: Colors.white),
+        ),
+        if (canShare)
+          _RailButton(
+            label: 'Share',
+            onTap: () => SharePlus.instance.share(ShareParams(text: shareText)),
+            child: const Icon(
+              Icons.reply_rounded,
+              size: 34,
+              color: Colors.white,
+            ),
+          ),
+        _RailButton(
+          label: 'More',
+          onTap: onDetails,
+          child: const Icon(
+            Icons.info_outline_rounded,
+            size: 30,
+            color: Colors.white,
+          ),
+        ),
+      ],
+    );
+  }
+
+  static String _initials(String name) => name
+      .split(RegExp(r'\s+'))
+      .where((w) => w.isNotEmpty && w[0].toUpperCase() == w[0])
+      .take(2)
+      .map((w) => w[0])
+      .join();
+}
+
+class _RailButton extends StatelessWidget {
+  const _RailButton({required this.label, required this.child, this.onTap});
+
+  final String label;
+  final Widget child;
+  final VoidCallback? onTap;
+
+  @override
+  Widget build(BuildContext context) {
+    return Padding(
+      padding: const EdgeInsets.only(bottom: 14),
+      child: InkResponse(
+        onTap: onTap,
+        radius: 32,
+        child: Column(
+          children: [
+            DecoratedBox(
+              decoration: const BoxDecoration(
+                boxShadow: [BoxShadow(color: Colors.black38, blurRadius: 12)],
+              ),
+              child: child,
+            ),
+            if (label.isNotEmpty)
+              Padding(
+                padding: const EdgeInsets.only(top: 2),
+                child: Text(
+                  label,
+                  style: const TextStyle(
+                    color: Colors.white,
+                    fontSize: 11,
+                    fontWeight: FontWeight.w600,
+                  ),
+                ),
+              ),
+          ],
+        ),
+      ),
+    );
+  }
+}
+
+class _Chip extends StatelessWidget {
+  const _Chip(this.icon, this.text);
+
+  final IconData icon;
+  final String text;
+
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
+      decoration: BoxDecoration(
+        color: Colors.white.withValues(alpha: 0.16),
+        borderRadius: BorderRadius.circular(20),
+      ),
+      child: Row(
+        mainAxisSize: MainAxisSize.min,
+        children: [
+          Icon(icon, size: 14, color: Colors.white),
+          const SizedBox(width: 6),
+          Text(
+            text,
+            style: const TextStyle(
+              color: Colors.white,
+              fontSize: 12,
+              fontWeight: FontWeight.w600,
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+}
+
+class QuoteFeedPage extends StatelessWidget {
+  const QuoteFeedPage({
+    super.key,
+    required this.quote,
+    required this.onLike,
+    this.onDoubleTap,
+    this.header,
+  });
+
+  final Quote quote;
+  final String? header;
+  final VoidCallback onLike;
+  final GestureTapDownCallback? onDoubleTap;
+
+  @override
+  Widget build(BuildContext context) {
+    final scope = AppScope.of(context);
+    final category = QuoteCategory.byId(quote.category);
+    final person = quote.speaker ?? quote.author;
+    return _FeedFrame(
+      art: scope.images.artForQuote(quote),
+      seed: stableHash(quote.id),
+      onDoubleTap: onDoubleTap,
+      rail: FeedRail(
+        id: quote.id,
+        person: person,
+        shareText: quote.toShareText(),
+        onLike: onLike,
+        onPerson: () => showPersonSheet(
+          context,
+          person,
+          browseLabel: 'All quotes by $person',
+          onBrowse: () => Navigator.of(context).push(
+            MaterialPageRoute(
+              builder: (_) => CategoryScreen(initialQuery: person),
+            ),
+          ),
+        ),
+        onDetails: () => Navigator.of(context)
+            .push(MaterialPageRoute(builder: (_) => QuoteScreen(quote: quote))),
+      ),
+      content: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        mainAxisSize: MainAxisSize.min,
+        children: [
+          _Chip(category.icon, header ?? category.label),
+          const SizedBox(height: 14),
+          Text(
+            '"${quote.text}"',
+            style: _quoteStyle(context, quote.text.length),
+          ),
+          const SizedBox(height: 16),
+          Text(
+            quote.byline,
+            style: const TextStyle(
+              color: Colors.white,
+              fontSize: 16,
+              fontWeight: FontWeight.w700,
+            ),
+          ),
+          const SizedBox(height: 2),
+          Text(
+            quote.citation,
+            maxLines: 2,
+            overflow: TextOverflow.ellipsis,
+            style: const TextStyle(color: Colors.white70, fontSize: 12),
+          ),
+        ],
+      ),
+    );
+  }
+}
+
+class StoryFeedPage extends StatelessWidget {
+  const StoryFeedPage({
+    super.key,
+    required this.story,
+    required this.onLike,
+    required this.onOpened,
+    this.onDoubleTap,
+  });
+
+  final Story story;
+  final VoidCallback onLike;
+  final GestureTapDownCallback? onDoubleTap;
+
+  /// Called when the full story is opened (counts as real reading).
+  final VoidCallback onOpened;
+
+  static IconData _kindIcon(StoryKind k) => storyKindIcon(k);
+
+  void _openFull(BuildContext context) {
+    onOpened();
+    showModalBottomSheet<void>(
+      context: context,
+      isScrollControlled: true,
+      useSafeArea: true,
+      builder: (_) => DraggableScrollableSheet(
+        expand: false,
+        initialChildSize: 0.85,
+        maxChildSize: 0.95,
+        builder: (context, controller) => SingleChildScrollView(
+          controller: controller,
+          padding: const EdgeInsets.all(12),
+          child: StoryCard(story: story),
+        ),
+      ),
+    );
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    final scope = AppScope.of(context);
+    final category = QuoteCategory.byId(story.category);
+    final firstParagraph = story.text.split('\n\n').first;
+    final person = story.people.isEmpty
+        ? null
+        : story.people.split(',').first.split(' and ').first.trim();
+    return _FeedFrame(
+      art: scope.images.artForStory(story),
+      seed: stableHash(story.id),
+      onDoubleTap: onDoubleTap,
+      rail: FeedRail(
+        id: story.id,
+        person: story.kind == StoryKind.story ? null : person,
+        shareText: story.toShareText(),
+        onLike: onLike,
+        onPerson: person == null
+            ? null
+            : () => showPersonSheet(
+                context,
+                person,
+                browseLabel: 'Stories about $person',
+                // In a story the person is a figure in it, not its author.
+                wikiLabel: 'Read about this person on Wikipedia',
+                onBrowse: () => Navigator.of(context).push(
+                  MaterialPageRoute(
+                    builder: (_) => StoryListScreen(initialQuery: person),
+                  ),
+                ),
+              ),
+        onDetails: () => Navigator.of(context)
+            .push(MaterialPageRoute(builder: (_) => StoryScreen(story: story))),
+      ),
+      content: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        mainAxisSize: MainAxisSize.min,
+        children: [
+          Wrap(
+            spacing: 8,
+            runSpacing: 6,
+            children: [
+              _Chip(_kindIcon(story.kind), story.kind.label),
+              _Chip(category.icon, category.label),
+            ],
+          ),
+          const SizedBox(height: 12),
+          Text(
+            story.title,
+            style: Theme.of(context).textTheme.headlineSmall
+                ?.copyWith(color: Colors.white, fontWeight: FontWeight.w700),
+          ),
+          if (story.date.isNotEmpty || story.location.isNotEmpty)
+            Padding(
+              padding: const EdgeInsets.only(top: 4),
+              child: Text(
+                [
+                  story.date,
+                  story.location,
+                ].where((s) => s.isNotEmpty).join(', '),
+                maxLines: 1,
+                overflow: TextOverflow.ellipsis,
+                style: const TextStyle(color: Colors.white70, fontSize: 12),
+              ),
+            ),
+          const SizedBox(height: 12),
+          Text(
+            firstParagraph,
+            maxLines: 7,
+            overflow: TextOverflow.ellipsis,
+            style: const TextStyle(
+              color: Colors.white,
+              fontSize: 15,
+              height: 1.45,
+            ),
+          ),
+          const SizedBox(height: 12),
+          Container(
+            padding: const EdgeInsets.all(12),
+            decoration: BoxDecoration(
+              color: Colors.amber.withValues(alpha: 0.18),
+              border: Border.all(color: Colors.amber.withValues(alpha: 0.6)),
+              borderRadius: BorderRadius.circular(12),
+            ),
+            child: Row(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                const Icon(Icons.lightbulb, color: Colors.amber, size: 20),
+                const SizedBox(width: 8),
+                Expanded(
+                  child: Text(
+                    story.lesson,
+                    style: const TextStyle(
+                      color: Colors.white,
+                      fontSize: 14,
+                      fontWeight: FontWeight.w600,
+                    ),
+                  ),
+                ),
+              ],
+            ),
+          ),
+          const SizedBox(height: 10),
+          FilledButton.tonalIcon(
+            onPressed: () => _openFull(context),
+            icon: const Icon(Icons.menu_book_rounded),
+            label: const Text('Read the full story'),
+          ),
+        ],
+      ),
+    );
+  }
+}
+
+/// A question with big answer buttons and instant feedback.
+class QuizFeedPage extends StatefulWidget {
+  const QuizFeedPage({
+    super.key,
+    required this.quiz,
+    required this.review,
+    required this.onAnswer,
+  });
+
+  final Quiz quiz;
+  final bool review;
+
+  /// Returns the XP earned, shown on the page.
+  final int Function(bool correct) onAnswer;
+
+  @override
+  State<QuizFeedPage> createState() => _QuizFeedPageState();
+}
+
+class _QuizFeedPageState extends State<QuizFeedPage> {
+  int? _picked;
+  int _xp = 0;
+
+  void _pick(int i) {
+    if (_picked != null) return;
+    final correct = i == widget.quiz.answer;
+    correct ? HapticFeedback.mediumImpact() : HapticFeedback.heavyImpact();
+    final xp = widget.onAnswer(correct);
+    setState(() {
+      _picked = i;
+      _xp = xp;
+    });
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    final q = widget.quiz;
+    final scope = AppScope.of(context);
+    final quote = scope.repository.byId(q.itemId);
+    final story = scope.stories.byId(q.itemId);
+    final art = quote != null
+        ? scope.images.artForQuote(quote)
+        : story != null
+        ? scope.images.artForStory(story)
+        : null;
+    final picked = _picked;
+    final right = picked != null && picked == q.answer;
+    return _FeedFrame(
+      art: art,
+      seed: stableHash(q.itemId) + 1,
+      content: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        mainAxisSize: MainAxisSize.min,
+        children: [
+          _Chip(
+            widget.review ? Icons.replay_rounded : Icons.bolt_rounded,
+            widget.review ? 'Review' : 'Quick check',
+          ),
+          const SizedBox(height: 12),
+          Text(
+            q.question,
+            style: Theme.of(context).textTheme.headlineSmall
+                ?.copyWith(color: Colors.white, fontWeight: FontWeight.w800),
+          ),
+          const SizedBox(height: 8),
+          Text(
+            q.subject,
+            maxLines: 5,
+            overflow: TextOverflow.ellipsis,
+            style: const TextStyle(
+              color: Colors.white70,
+              fontSize: 15,
+              fontStyle: FontStyle.italic,
+              height: 1.4,
+            ),
+          ),
+          const SizedBox(height: 16),
+          for (var i = 0; i < q.options.length; i++)
+            _OptionButton(
+              text: q.options[i],
+              state: picked == null
+                  ? _OptionState.open
+                  : i == q.answer
+                  ? _OptionState.right
+                  : i == picked
+                  ? _OptionState.wrong
+                  : _OptionState.dimmed,
+              onTap: () => _pick(i),
+            ),
+          if (picked != null)
+            Padding(
+              padding: const EdgeInsets.only(top: 6),
+              child: Row(
+                children: [
+                  Icon(
+                    right
+                        ? Icons.check_circle_rounded
+                        : Icons.replay_circle_filled_rounded,
+                    color: right ? Colors.greenAccent : Colors.orangeAccent,
+                  ),
+                  const SizedBox(width: 8),
+                  Expanded(
+                    child: Text(
+                      right
+                          ? 'Correct! +$_xp XP. Swipe up for more.'
+                          : 'Not quite. It will come back soon so it '
+                                'sticks. Swipe up for more.',
+                      style: const TextStyle(
+                        color: Colors.white,
+                        fontWeight: FontWeight.w600,
+                      ),
+                    ),
+                  ),
+                ],
+              ),
+            ),
+        ],
+      ),
+    );
+  }
+}
+
+enum _OptionState { open, right, wrong, dimmed }
+
+class _OptionButton extends StatelessWidget {
+  const _OptionButton({
+    required this.text,
+    required this.state,
+    required this.onTap,
+  });
+
+  final String text;
+  final _OptionState state;
+  final VoidCallback onTap;
+
+  @override
+  Widget build(BuildContext context) {
+    final (bg, border) = switch (state) {
+      _OptionState.open => (
+        Colors.white.withValues(alpha: 0.12),
+        Colors.white54,
+      ),
+      _OptionState.right => (
+        Colors.green.withValues(alpha: 0.55),
+        Colors.greenAccent,
+      ),
+      _OptionState.wrong => (
+        Colors.red.withValues(alpha: 0.5),
+        Colors.redAccent,
+      ),
+      _OptionState.dimmed => (
+        Colors.white.withValues(alpha: 0.05),
+        Colors.white24,
+      ),
+    };
+    return Padding(
+      padding: const EdgeInsets.only(bottom: 10),
+      child: AnimatedContainer(
+        width: double.infinity,
+        duration: const Duration(milliseconds: 250),
+        decoration: BoxDecoration(
+          color: bg,
+          border: Border.all(color: border, width: 1.5),
+          borderRadius: BorderRadius.circular(14),
+        ),
+        child: Material(
+          type: MaterialType.transparency,
+          child: InkWell(
+            borderRadius: BorderRadius.circular(14),
+            onTap: state == _OptionState.open ? onTap : null,
+            child: Padding(
+              padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 12),
+              child: Text(
+                text,
+                style: const TextStyle(
+                  color: Colors.white,
+                  fontSize: 15,
+                  fontWeight: FontWeight.w600,
+                  height: 1.3,
+                ),
+              ),
+            ),
+          ),
+        ),
+      ),
+    );
+  }
+}

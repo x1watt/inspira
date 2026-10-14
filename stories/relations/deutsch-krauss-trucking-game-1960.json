@@ -1,0 +1,14 @@
+{
+  "id": "story-deutsch-krauss-trucking-game-1960",
+  "category": "relations",
+  "kind": "study",
+  "title": "The Trucking Game",
+  "text": "In 1960 Morton Deutsch and Robert Krauss of Bell Telephone Laboratories in New Jersey created a simple bargaining game. Pairs of players each ran an imaginary trucking company, called Acme and Bolt. Each had to move trucks from a starting point to a destination, earning money for each trip minus the cost of time spent on the road.\n\nEach company had two routes. The main route was short and direct, but in the middle it narrowed into a single lane that only one truck could use at a time. If both trucks entered it from opposite ends, they were stuck until one backed out. The alternative route was long and winding, and using it meant a loss. The obvious solution was to take turns on the short road.\n\nThe researchers varied whether the players had a weapon: a gate on their own end of the one-lane road that they could close to block the other company. In some pairs neither player had a gate, in some one did, and in some both did. Players with no gates learned to take turns and did best overall. Where one had a gate, results were worse. Where both had gates, players kept using them against each other, and both ended up losing money. The mere ability to threaten led people to use it, to everyone's cost.",
+  "lesson": "Having the power to threaten tempts people to use it, and mutual threats usually leave everyone worse off. In conflict, set aside weapons and look for ways to take turns.",
+  "people": "Morton Deutsch, Robert Krauss",
+  "date": "1960",
+  "year": 1960,
+  "location": "Bell Telephone Laboratories, New Jersey, USA",
+  "source": "Deutsch, M., and Krauss, R. M. (1960). The effect of threat upon interpersonal bargaining. Journal of Abnormal and Social Psychology, 61(2), 181-189.",
+  "basis": "study"
+}

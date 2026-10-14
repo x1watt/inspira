@@ -1,0 +1,14 @@
+{
+  "id": "story-linux-1991",
+  "category": "team",
+  "kind": "history",
+  "title": "Linus Torvalds Posts a Hobby Kernel",
+  "text": "On 25 August 1991 Linus Torvalds, a 21-year-old computer science student at the University of Helsinki, posted a message to an online discussion group for users of Minix, a small teaching operating system. He wrote that he was doing a free operating system, \"just a hobby, won't be big and professional like gnu,\" for personal computers with Intel 386 processors. He asked people what features they would like to see.\n\nHe released the first version of the Linux kernel that September. Other programmers around the world began downloading it, testing it, finding bugs and sending back fixes and new code over the internet. Torvalds read the patches, accepted the good ones and released new versions often, sometimes several in a week. In 1992 he placed Linux under the GNU General Public License, which ensured that anyone could use and change the code, but that changes shared with others had to remain open too. Combined with tools from the GNU project, it became a complete free system.\n\nThe project had no company, no office and no contracts. Contributors came because the problems interested them and because their work was visible and credited. Torvalds acted as the final decision maker, later delegating whole areas to trusted maintainers.\n\nBy the end of the decade Linux ran large parts of the internet's servers. Today it runs most of the world's servers and supercomputers and, through Android, billions of phones.",
+  "lesson": "Open collaboration among strangers can build work of the highest quality when contributions are visible, review is fast and someone keeps the whole coherent.",
+  "people": "Linus Torvalds and Linux contributors",
+  "date": "1991",
+  "year": 1991,
+  "location": "Helsinki, Finland",
+  "source": "Linus Torvalds, Usenet post to comp.os.minix (25 August 1991); Linus Torvalds and David Diamond, Just for Fun (2001)",
+  "basis": "documented"
+}

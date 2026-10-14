@@ -1,0 +1,15 @@
+{
+  "id": "story-pronovost-icu-checklist-keystone-2006",
+  "category": "leadership",
+  "kind": "study",
+  "title": "The Checklist That Saved Michigan Patients",
+  "text": "Thin tubes called central lines are inserted into the large veins of many intensive care patients. They are essential, but they often become infected, and those infections can kill. Peter Pronovost, a critical care doctor at Johns Hopkins, had developed a short checklist of five well-established steps for inserting the lines: wash hands, wear full sterile protection, clean the skin with chlorhexidine, avoid the groin vein if possible, and remove lines that are no longer needed.\n\nIn 2004 Pronovost's team, working with the Michigan Health and Hospital Association, introduced the checklist in more than one hundred ICUs across the state. A key part of the program was a change in authority: nurses were empowered to stop a doctor who skipped a step, and hospital leaders were expected to back them. Each unit also tracked its own infection rates and received regular feedback.\n\nThe results were dramatic. Within three months, the median ICU infection rate fell from 2.7 per 1,000 catheter days to zero, and over the eighteen months of the study the average rate fell by about two thirds. The program was later credited with saving many lives and was copied in hospitals in other states and countries.",
+  "lesson": "Simple, agreed steps save lives only when everyone, including the most junior, is allowed to say stop. Back them when they do.",
+  "people": "Peter Pronovost and colleagues",
+  "date": "2004 to 2005 (published 2006)",
+  "year": 2006,
+  "location": "Intensive care units in Michigan, USA",
+  "source": "Pronovost, P., Needham, D., Berenholtz, S., et al. (2006). An intervention to decrease catheter-related bloodstream infections in the ICU. New England Journal of Medicine, 355(26), 2725-2732.",
+  "basis": "study",
+  "caveat": "The study had no randomized control group, though later analysis also found lower hospital mortality in Michigan compared with neighboring states."
+}

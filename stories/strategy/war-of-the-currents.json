@@ -1,0 +1,14 @@
+{
+  "id": "story-war-of-the-currents",
+  "category": "strategy",
+  "kind": "history",
+  "title": "Edison and the War of the Currents",
+  "text": "In the 1880s Thomas Edison's companies built the first electric lighting systems using direct current, or DC. DC worked well over short distances but lost power quickly along wires, so it needed a power station every mile or so. George Westinghouse backed a rival system, alternating current, or AC, whose voltage could be raised by transformers for long-distance transmission and lowered for use. In 1888 he bought the patents of the inventor Nikola Tesla on AC motors.\n\nEdison, who had huge investments in DC, chose to fight AC as dangerous. His company published warnings about deaths from high-voltage AC lines. An electrical engineer named Harold Brown, assisted in Edison's laboratory, staged public demonstrations in which he killed animals with alternating current. Edison's allies also promoted the use of AC for the new electric chair in New York State, so that AC would be associated with death. In 1890 William Kemmler became the first man executed by electricity, in a botched and horrifying execution, using Westinghouse generators obtained without Westinghouse's consent.\n\nThe campaign won headlines but not the market. AC was cheaper to deliver over distance. In 1892 Edison's company merged into the new General Electric, which soon adopted AC as well. In 1893 Westinghouse lit the World's Columbian Exposition in Chicago with AC, and he won the contract to generate power at Niagara Falls. AC became the standard for the world's power grids.",
+  "lesson": "Fighting a better technology with fear may win a few battles but loses the war. When the economics turn against you, adapt instead of attacking.",
+  "people": "Thomas Edison, George Westinghouse, Nikola Tesla, Harold P. Brown",
+  "date": "1886 to 1893",
+  "year": 1888,
+  "location": "New York and Chicago (USA)",
+  "source": "Jill Jonnes, Empires of Light (2003); Thomas P. Hughes, Networks of Power (1983)",
+  "basis": "documented"
+}

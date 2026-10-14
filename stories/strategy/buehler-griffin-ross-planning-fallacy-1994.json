@@ -1,0 +1,14 @@
+{
+  "id": "story-buehler-griffin-ross-planning-fallacy-1994",
+  "category": "strategy",
+  "kind": "study",
+  "title": "The Planning Fallacy",
+  "text": "Daniel Kahneman and Amos Tversky had coined the term planning fallacy in the late 1970s: the habit of underestimating how long a task will take, even when we know similar tasks have run late before. In 1994 Roger Buehler, Dale Griffin and Michael Ross put it to a careful test with university students in Canada.\n\nIn one study they asked senior students writing an honors thesis to predict when they would finish it. They also asked for a prediction if everything went as well as possible and one if everything went as badly as possible. On average the students expected to finish in about 34 days. Their worst case averaged about 49 days. In reality they took about 56 days on average, longer even than their own worst-case estimates. Fewer than a third finished by the time they had predicted.\n\nOther studies in the paper showed why. When people forecast, they picture the specific steps of the task ahead and how it will go, a kind of best-case story. They rarely think about how long similar tasks took in the past, and when they do remember past delays, they explain them away as special circumstances that will not happen again. Asking people to connect their past experience to the current plan made their forecasts more realistic.\n\nObservers, interestingly, were less optimistic about other people's tasks than the people themselves were.",
+  "lesson": "When you estimate how long something will take, look up how long similar things took you before, and plan from that record rather than from your picture of the task going smoothly.",
+  "people": "Roger Buehler, Dale Griffin, Michael Ross",
+  "date": "1994",
+  "year": 1994,
+  "location": "Simon Fraser University and University of Waterloo, Canada",
+  "source": "Buehler, R., Griffin, D., and Ross, M. (1994). Exploring the 'planning fallacy': Why people underestimate their task completion times. Journal of Personality and Social Psychology, 67(3), 366-381.",
+  "basis": "study"
+}

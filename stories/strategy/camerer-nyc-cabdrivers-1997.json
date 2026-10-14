@@ -1,0 +1,15 @@
+{
+  "id": "story-camerer-nyc-cabdrivers-1997",
+  "category": "strategy",
+  "kind": "study",
+  "title": "New York Cab Drivers and the Daily Target",
+  "text": "New York City cab drivers in the late 1980s and early 1990s typically rented their cabs for a fixed fee per shift and then decided for themselves how long to drive. Some days were busy, with rain, conventions or holidays filling the cab; others were slow. A rational worker, economists reasoned, should drive longer on busy days, when each hour pays well, and go home early on slow ones.\n\nColin Camerer, Linda Babcock, George Loewenstein and Richard Thaler examined thousands of drivers' trip sheets, the logs of every fare, from several data sets. They found the opposite pattern, especially among less experienced drivers. On days when hourly earnings were high, many drivers quit early; on slow days, they drove longer.\n\nThe researchers proposed that drivers were working toward a daily income target, such as earning twice the lease fee, and quitting once they reached it. Taking each day separately, they called it working \"one day at a time.\" Such narrow bracketing made sense as a simple rule of thumb that protected against quitting too early on bad days, but it cost the drivers money: by their estimate, working the same total hours but more of them on good days would have raised drivers' earnings noticeably.\n\nThe study became a classic of behavioral labor economics. It also became controversial. Using different data and methods, Henry Farber found that the decision to stop depended mainly on hours already worked, and that evidence for strong income targeting was weak.",
+  "lesson": "When you set daily or weekly goals, notice whether a fixed target is making you stop exactly when effort pays best. Judge your effort over a longer stretch, not one day at a time.",
+  "people": "Colin Camerer, Linda Babcock, George Loewenstein, Richard Thaler",
+  "date": "1997",
+  "year": 1997,
+  "location": "New York City, USA",
+  "source": "Camerer, C., Babcock, L., Loewenstein, G., and Thaler, R. (1997). Labor supply of New York City cabdrivers: One day at a time. Quarterly Journal of Economics, 112(2), 407-441.",
+  "basis": "study",
+  "caveat": "Later studies, notably by Henry Farber (2005, 2015), found little evidence of strong daily income targeting, so the result is disputed."
+}

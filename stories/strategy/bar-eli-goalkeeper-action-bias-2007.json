@@ -1,0 +1,15 @@
+{
+  "id": "story-bar-eli-goalkeeper-action-bias-2007",
+  "category": "strategy",
+  "kind": "study",
+  "title": "Goalkeepers Who Should Stay in the Middle",
+  "text": "In a soccer penalty kick, the ball reaches the goal so fast that the goalkeeper must decide which way to move before seeing where it is going. In 2007 a team of Israeli researchers led by Michael Bar-Eli of Ben-Gurion University, together with Ofer Azar, Ilana Ritov, Yael Keidar-Levin and Galit Schein, analyzed 286 penalty kicks from top leagues and championships around the world.\n\nThey recorded where each kick went and what the goalkeeper did. Goalkeepers dived to the left or right in about 94 percent of cases and stayed in the center only rarely. Yet nearly a third of the kicks went to the center of the goal. When the researchers calculated how often keepers stopped the ball, staying in the center gave the best chance of a save, about one in three, clearly better than diving either way.\n\nWhy would professionals keep choosing a worse strategy? The researchers surveyed dozens of top goalkeepers and suggested a psychological reason. Since the norm for goalkeepers is to dive, a goal conceded while standing still looks like a failure to act and feels worse, to the keeper and to fans, than a goal conceded after a dramatic dive the wrong way. Keepers dive because doing something feels more defensible than doing nothing, even when nothing would work better.\n\nThe authors called this action bias, the mirror image of the better-known tendency to prefer inaction.",
+  "lesson": "When everyone expects you to act, doing something can feel safer than waiting, even if waiting is better. Ask whether your action improves the odds or only looks better afterwards.",
+  "people": "Michael Bar-Eli, Ofer Azar, Ilana Ritov, Yael Keidar-Levin, Galit Schein",
+  "date": "2007",
+  "year": 2007,
+  "location": "Ben-Gurion University of the Negev, Israel (kicks from leagues worldwide)",
+  "source": "Bar-Eli, M., Azar, O. H., Ritov, I., Keidar-Levin, Y., and Schein, G. (2007). Action bias among elite soccer goalkeepers: The case of penalty kicks. Journal of Economic Psychology, 28(5), 606-621.",
+  "basis": "study",
+  "caveat": "The sample of 286 kicks is modest, and if keepers stayed central more often, kickers would likely adapt."
+}
