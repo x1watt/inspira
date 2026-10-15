@@ -11,5 +11,8 @@
   "location": "Massachusetts Institute of Technology, Cambridge, USA",
   "source": "Leavitt, H. J. (1951). Some effects of certain communication patterns on group performance. Journal of Abnormal and Social Psychology, 46(1), 38-50.",
   "basis": "study",
-  "caveat": "Later work found that centralized networks lose their advantage on complex problems, where the person at the center becomes overloaded."
+  "caveat": "Later work found that centralized networks lose their advantage on complex problems, where the person at the center becomes overloaded.",
+  "place": "Massachusetts Institute of Technology, Cambridge, USA",
+  "lat": 42.3601,
+  "lon": -71.0942
 }

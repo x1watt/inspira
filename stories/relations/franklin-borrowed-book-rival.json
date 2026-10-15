@@ -10,5 +10,8 @@
   "year": 1737,
   "location": "Philadelphia, Pennsylvania, USA",
   "source": "Benjamin Franklin, Autobiography, Part III",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Philadelphia, Pennsylvania, USA",
+  "lat": 39.952,
+  "lon": -75.164
 }

@@ -11,5 +11,8 @@
   "location": "State of Zou (modern Shandong, China)",
   "source": "Liu Xiang, Lienu zhuan (Biographies of Exemplary Women), 1.11",
   "basis": "literature",
-  "caveat": "The story was recorded by Liu Xiang in the 1st century BC, centuries after Mencius, and is best treated as a traditional anecdote."
+  "caveat": "The story was recorded by Liu Xiang in the 1st century BC, centuries after Mencius, and is best treated as a traditional anecdote.",
+  "place": "Zoucheng, Shandong, China",
+  "lat": 35.405,
+  "lon": 116.967
 }

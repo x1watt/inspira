@@ -10,5 +10,8 @@
   "year": 1991,
   "location": "Helsinki, Finland",
   "source": "Linus Torvalds, Usenet post to comp.os.minix (25 August 1991); Linus Torvalds and David Diamond, Just for Fun (2001)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Helsinki, Finland",
+  "lat": 60.17,
+  "lon": 24.938
 }

@@ -10,5 +10,8 @@
   "year": 2005,
   "location": "Princeton University, New Jersey, USA",
   "source": "Todorov, A., Mandisodza, A. N., Goren, A., and Hall, C. C. (2005). Inferences of competence from faces predict election outcomes. Science, 308(5728), 1623-1626.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Princeton University",
+  "lat": 40.343,
+  "lon": -74.6514
 }

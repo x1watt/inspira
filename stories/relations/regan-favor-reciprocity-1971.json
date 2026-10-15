@@ -10,5 +10,8 @@
   "year": 1971,
   "location": "Cornell University, Ithaca, USA",
   "source": "Regan, D. T. (1971). Effects of a favor and liking on compliance. Journal of Experimental Social Psychology, 7(6), 627-639.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Cornell University, Ithaca, New York, USA",
+  "lat": 42.4491,
+  "lon": -76.4835
 }

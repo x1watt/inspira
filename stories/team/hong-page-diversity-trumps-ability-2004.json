@@ -11,5 +11,8 @@
   "location": "University of Michigan, Ann Arbor, USA (computer model)",
   "source": "Hong, L., and Page, S. E. (2004). Groups of diverse problem solvers can outperform groups of high-ability problem solvers. Proceedings of the National Academy of Sciences, 101(46), 16385-16389.",
   "basis": "study",
-  "caveat": "It is a mathematical model, not a study of real teams, and critics such as the mathematician Abigail Thompson have argued that its conclusions depend on narrow assumptions."
+  "caveat": "It is a mathematical model, not a study of real teams, and critics such as the mathematician Abigail Thompson have argued that its conclusions depend on narrow assumptions.",
+  "place": "University of Michigan, Ann Arbor, USA",
+  "lat": 42.278,
+  "lon": -83.7382
 }

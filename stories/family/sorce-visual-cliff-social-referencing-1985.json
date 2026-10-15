@@ -10,5 +10,8 @@
   "year": 1985,
   "location": "University of Denver, Denver, USA",
   "source": "Sorce, J. F., Emde, R. N., Campos, J., and Klinnert, M. D. (1985). Maternal emotional signaling: Its effect on the visual cliff behavior of 1-year-olds. Developmental Psychology, 21(1), 195-200.",
-  "basis": "study"
+  "basis": "study",
+  "place": "University of Denver, Colorado, USA",
+  "lat": 39.6766,
+  "lon": -104.9619
 }

@@ -10,5 +10,8 @@
   "year": 1877,
   "location": "St. Michaels, Maryland, USA",
   "source": "Frederick Douglass, Life and Times of Frederick Douglass (1881), Part 2, chapter on the visit to St. Michaels",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "St. Michaels, Maryland, USA",
+  "lat": 38.785,
+  "lon": -76.224
 }

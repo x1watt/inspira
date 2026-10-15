@@ -11,5 +11,8 @@
   "location": "Damietta, Egypt",
   "source": "Jacques de Vitry, letter of 1220 and Historia Occidentalis; Thomas of Celano, First Life of St. Francis",
   "basis": "documented",
-  "caveat": "Later Franciscan accounts added embellishments, such as an offer to walk through fire, that are not in the earliest sources."
+  "caveat": "Later Franciscan accounts added embellishments, such as an offer to walk through fire, that are not in the earliest sources.",
+  "place": "Damietta, Egypt",
+  "lat": 31.416,
+  "lon": 31.814
 }

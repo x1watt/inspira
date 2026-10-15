@@ -10,5 +10,8 @@
   "year": -750,
   "location": "Troy (modern Turkey)",
   "source": "Homer, Iliad, Book 6",
-  "basis": "literature"
+  "basis": "literature",
+  "place": "Troy, Turkey",
+  "lat": 39.9575,
+  "lon": 26.2389
 }

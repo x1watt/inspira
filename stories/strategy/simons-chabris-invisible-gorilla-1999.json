@@ -10,5 +10,8 @@
   "year": 1999,
   "location": "Harvard University, Cambridge, Massachusetts, USA",
   "source": "Simons, D. J., and Chabris, C. F. (1999). Gorillas in our midst: Sustained inattentional blindness for dynamic events. Perception, 28(9), 1059-1074.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Harvard University, Cambridge, Massachusetts, USA",
+  "lat": 42.3744,
+  "lon": -71.1169
 }

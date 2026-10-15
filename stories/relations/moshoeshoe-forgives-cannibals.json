@@ -11,5 +11,8 @@
   "location": "Thaba Bosiu, Lesotho",
   "source": "Eugene Casalis, The Basutos (1861); later Basotho oral histories",
   "basis": "anecdote",
-  "caveat": "The chief's exact words and some details come from oral tradition recorded years later."
+  "caveat": "The chief's exact words and some details come from oral tradition recorded years later.",
+  "place": "Thaba Bosiu, Lesotho",
+  "lat": -29.4333,
+  "lon": 27.7167
 }

@@ -10,5 +10,8 @@
   "year": 1993,
   "location": "University of California, Berkeley, USA",
   "source": "Kahneman, D., Fredrickson, B. L., Schreiber, C. A., and Redelmeier, D. A. (1993). When more pain is preferred to less: Adding a better end. Psychological Science, 4(6), 401-405.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Sather Tower, UC Berkeley, USA",
+  "lat": 37.8721,
+  "lon": -122.2578
 }

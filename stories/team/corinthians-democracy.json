@@ -10,5 +10,8 @@
   "year": 1982,
   "location": "Sao Paulo, Brazil",
   "source": "Brazilian press reports; Socrates and Ricardo Gozzi, Democracia Corintiana: a utopia em jogo (2002)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Sao Paulo, Brazil",
+  "lat": -23.551,
+  "lon": -46.633
 }

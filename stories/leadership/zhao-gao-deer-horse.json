@@ -10,5 +10,8 @@
   "year": -207,
   "location": "Xianyang (modern Shaanxi, China)",
   "source": "Sima Qian, Shiji (Records of the Grand Historian), chapter 6",
-  "basis": "anecdote"
+  "basis": "anecdote",
+  "place": "Xianyang, Shaanxi, China",
+  "lat": 34.329,
+  "lon": 108.709
 }

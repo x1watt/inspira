@@ -10,5 +10,8 @@
   "year": 1860,
   "location": "Westfield, New York, and Springfield, Illinois, USA",
   "source": "Grace Bedell, letter to Abraham Lincoln, October 15, 1860; Lincoln, letter to Grace Bedell, October 19, 1860, Collected Works of Abraham Lincoln, vol. 4",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Westfield, New York, USA",
+  "lat": 42.322,
+  "lon": -79.578
 }

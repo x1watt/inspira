@@ -10,5 +10,8 @@
   "year": 92,
   "location": "Luoyang, China",
   "source": "Fan Ye, Hou Hanshu (History of the Later Han), biography of the wife of Cao Shishu (Ban Zhao)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Luoyang, China",
+  "lat": 34.619,
+  "lon": 112.454
 }

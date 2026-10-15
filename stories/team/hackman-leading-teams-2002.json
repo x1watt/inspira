@@ -10,5 +10,8 @@
   "year": 2002,
   "location": "Harvard University, Cambridge, USA",
   "source": "Hackman, J. R. (2002). Leading Teams: Setting the Stage for Great Performances. Harvard Business School Press.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Harvard Yard, Cambridge, Massachusetts, USA",
+  "lat": 42.3744,
+  "lon": -71.1169
 }

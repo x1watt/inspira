@@ -11,5 +11,8 @@
   "location": "Syracuse, Sicily (modern Italy)",
   "source": "Aristoxenus, quoted in Iamblichus, Life of Pythagoras 33; Cicero, De Officiis 3.45; Diodorus Siculus, Library 10.4",
   "basis": "anecdote",
-  "caveat": "Ancient versions differ on which Dionysius was involved and on details of the test, and the story may be partly embellished."
+  "caveat": "Ancient versions differ on which Dionysius was involved and on details of the test, and the story may be partly embellished.",
+  "place": "Syracuse, Sicily, Italy",
+  "lat": 37.075,
+  "lon": 15.287
 }

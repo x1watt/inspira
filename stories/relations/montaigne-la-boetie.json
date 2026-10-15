@@ -10,5 +10,8 @@
   "year": 1558,
   "location": "Bordeaux, France",
   "source": "Michel de Montaigne, Essays, Book I, chapter 28, \"Of Friendship\"; Montaigne, letter to his father on La Boetie's death (1563)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Bordeaux, France",
+  "lat": 44.838,
+  "lon": -0.579
 }

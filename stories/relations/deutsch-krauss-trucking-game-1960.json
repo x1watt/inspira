@@ -10,5 +10,8 @@
   "year": 1960,
   "location": "Bell Telephone Laboratories, New Jersey, USA",
   "source": "Deutsch, M., and Krauss, R. M. (1960). The effect of threat upon interpersonal bargaining. Journal of Abnormal and Social Psychology, 61(2), 181-189.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Bell Labs, Murray Hill, New Jersey, USA",
+  "lat": 40.6838,
+  "lon": -74.4005
 }

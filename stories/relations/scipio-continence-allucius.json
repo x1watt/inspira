@@ -11,5 +11,8 @@
   "location": "New Carthage (modern Cartagena, Spain)",
   "source": "Livy, History of Rome 26.50; Polybius, Histories 10.19",
   "basis": "anecdote",
-  "caveat": "The episode may have been polished by Roman writers to glorify Scipio."
+  "caveat": "The episode may have been polished by Roman writers to glorify Scipio.",
+  "place": "Cartagena, Spain",
+  "lat": 37.6,
+  "lon": -0.986
 }

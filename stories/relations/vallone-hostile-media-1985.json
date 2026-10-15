@@ -10,5 +10,8 @@
   "year": 1985,
   "location": "Stanford University, Stanford, USA",
   "source": "Vallone, R. P., Ross, L., and Lepper, M. R. (1985). The hostile media phenomenon: Biased perception and perceptions of media bias in coverage of the Beirut massacre. Journal of Personality and Social Psychology, 49(3), 577-585.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Stanford University, California, USA",
+  "lat": 37.4275,
+  "lon": -122.1697
 }

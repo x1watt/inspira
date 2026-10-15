@@ -10,5 +10,8 @@
   "year": 1865,
   "location": "Appomattox Court House, Virginia, USA",
   "source": "Ulysses S. Grant, Personal Memoirs, chapter 67; Grant's letter of terms to Lee, April 9, 1865",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Appomattox Court House, Virginia, USA",
+  "lat": 37.3794,
+  "lon": -78.7951
 }

@@ -10,5 +10,8 @@
   "year": 1803,
   "location": "Paris (France) and Washington, DC (USA)",
   "source": "Treaty between the United States and the French Republic (1803); diplomatic correspondence of Livingston and Monroe",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Paris, France",
+  "lat": 48.857,
+  "lon": 2.352
 }

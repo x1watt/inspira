@@ -10,5 +10,8 @@
   "year": 1846,
   "location": "London, UK, and Florence, Italy",
   "source": "The Letters of Robert Browning and Elizabeth Barrett Barrett, 1845 to 1846 (1899); Margaret Forster, Elizabeth Barrett Browning (1988)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "London, UK",
+  "lat": 51.507,
+  "lon": -0.128
 }

@@ -10,5 +10,8 @@
   "year": 1968,
   "location": "Mexico City (Mexico)",
   "source": "Official results of the 1968 Olympic Games; contemporary press reports",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Estadio Olimpico Universitario, Mexico City",
+  "lat": 19.332,
+  "lon": -99.192
 }

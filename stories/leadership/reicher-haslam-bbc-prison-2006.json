@@ -11,5 +11,8 @@
   "location": "Elstree, England, UK",
   "source": "Reicher, S., and Haslam, S. A. (2006). Rethinking the psychology of tyranny: The BBC prison study. British Journal of Social Psychology, 45(1), 1-40.",
   "basis": "study",
-  "caveat": "It was a single study made for television, with a small sample, so its conclusions are suggestive rather than definitive."
+  "caveat": "It was a single study made for television, with a small sample, so its conclusions are suggestive rather than definitive.",
+  "place": "Elstree, Hertfordshire, England",
+  "lat": 51.652,
+  "lon": -0.28
 }

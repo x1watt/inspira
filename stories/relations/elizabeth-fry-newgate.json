@@ -10,5 +10,8 @@
   "year": 1813,
   "location": "Newgate Prison, London, England",
   "source": "Memoir of the Life of Elizabeth Fry, edited by her daughters (1847); Report from the Select Committee on the Prisons within the City of London (1818)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Old Bailey (site of Newgate Prison), London",
+  "lat": 51.5156,
+  "lon": -0.1018
 }

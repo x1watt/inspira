@@ -10,5 +10,8 @@
   "year": 1526,
   "location": "Mbanza Kongo, Kingdom of Kongo (modern Angola)",
   "source": "Letters of Afonso I to Joao III, 1526, Portuguese archives (published in Antonio Brasio, Monumenta Missionaria Africana)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Mbanza Kongo, Angola",
+  "lat": -6.267,
+  "lon": 14.25
 }

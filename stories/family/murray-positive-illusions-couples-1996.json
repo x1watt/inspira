@@ -10,5 +10,8 @@
   "year": 1996,
   "location": "University of Waterloo, Waterloo, Canada",
   "source": "Murray, S. L., Holmes, J. G., and Griffin, D. W. (1996). The benefits of positive illusions: Idealization and the construction of satisfaction in close relationships. Journal of Personality and Social Psychology, 70(1), 79-98.",
-  "basis": "study"
+  "basis": "study",
+  "place": "University of Waterloo, Ontario, Canada",
+  "lat": 43.4723,
+  "lon": -80.5449
 }

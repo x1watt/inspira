@@ -11,5 +11,8 @@
   "location": "Rome, Italy, and Carthage (modern Tunisia)",
   "source": "Cicero, De Officiis, Book 3, chapters 99 to 115; Horace, Odes, Book 3, Ode 5",
   "basis": "legend",
-  "caveat": "Polybius does not mention the embassy or the torture, and many historians consider them Roman legend."
+  "caveat": "Polybius does not mention the embassy or the torture, and many historians consider them Roman legend.",
+  "place": "Carthage, Tunisia",
+  "lat": 36.853,
+  "lon": 10.323
 }

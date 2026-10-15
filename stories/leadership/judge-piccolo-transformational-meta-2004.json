@@ -11,5 +11,8 @@
   "location": "University of Florida, Gainesville, USA",
   "source": "Judge, T. A., and Piccolo, R. F. (2004). Transformational and transactional leadership: A meta-analytic test of their relative validity. Journal of Applied Psychology, 89(5), 755-768.",
   "basis": "study",
-  "caveat": "Much of the underlying data came from questionnaires answered by followers, which may blur the line between liking a leader and judging their results."
+  "caveat": "Much of the underlying data came from questionnaires answered by followers, which may blur the line between liking a leader and judging their results.",
+  "place": "University of Florida, Gainesville",
+  "lat": 29.6436,
+  "lon": -82.3549
 }

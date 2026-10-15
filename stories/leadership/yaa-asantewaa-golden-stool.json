@@ -11,5 +11,8 @@
   "location": "Kumasi and Ejisu (modern Ghana)",
   "source": "British colonial records of the Asante war of 1900; Asante oral history",
   "basis": "documented",
-  "caveat": "Her famous speech to the chiefs is known through oral tradition, and its exact words vary between versions."
+  "caveat": "Her famous speech to the chiefs is known through oral tradition, and its exact words vary between versions.",
+  "place": "Kumasi, Ghana",
+  "lat": 6.688,
+  "lon": -1.624
 }

@@ -10,5 +10,8 @@
   "year": 1990,
   "location": "Chicago, Illinois, USA",
   "source": "Tyler, T. R. (1990). Why People Obey the Law. Yale University Press.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Chicago, Illinois",
+  "lat": 41.882,
+  "lon": -87.628
 }

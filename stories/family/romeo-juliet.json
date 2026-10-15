@@ -10,5 +10,8 @@
   "year": 1595,
   "location": "Verona, Italy (play written in London, England)",
   "source": "William Shakespeare, Romeo and Juliet",
-  "basis": "literature"
+  "basis": "literature",
+  "place": "Verona, Italy",
+  "lat": 45.438,
+  "lon": 10.992
 }

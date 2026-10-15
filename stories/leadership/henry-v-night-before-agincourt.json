@@ -10,5 +10,8 @@
   "year": 1599,
   "location": "England (play set at Agincourt, France, 1415)",
   "source": "William Shakespeare, Henry V, Act 4, Scene 1 and Scene 8",
-  "basis": "literature"
+  "basis": "literature",
+  "place": "Azincourt, France",
+  "lat": 50.464,
+  "lon": 2.126
 }

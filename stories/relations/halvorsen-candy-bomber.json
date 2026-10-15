@@ -10,5 +10,8 @@
   "year": 1948,
   "location": "Tempelhof Airport, Berlin, Germany",
   "source": "Gail S. Halvorsen, The Berlin Candy Bomber (1990); US Air Force historical records of the Berlin Airlift",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Tempelhof Airport, Berlin, Germany",
+  "lat": 52.473,
+  "lon": 13.4039
 }

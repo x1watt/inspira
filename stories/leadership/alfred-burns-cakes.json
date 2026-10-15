@@ -11,5 +11,8 @@
   "location": "Athelney, Somerset, England",
   "source": "Life of St Neot (late 10th or 11th century); Anglo-Saxon Chronicle for 878",
   "basis": "legend",
-  "caveat": "The burning of the cakes is a legend recorded long after Alfred's lifetime; the flight to Athelney and the victory at Edington are historical."
+  "caveat": "The burning of the cakes is a legend recorded long after Alfred's lifetime; the flight to Athelney and the victory at Edington are historical.",
+  "place": "Athelney, Somerset, England",
+  "lat": 51.073,
+  "lon": -2.934
 }

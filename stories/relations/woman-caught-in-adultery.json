@@ -11,5 +11,8 @@
   "location": "Temple courts, Jerusalem (modern Israel)",
   "source": "Gospel of John 7:53 to 8:11",
   "basis": "literature",
-  "caveat": "The passage is missing from the earliest surviving manuscripts of John and is widely thought to be a later insertion of an older tradition."
+  "caveat": "The passage is missing from the earliest surviving manuscripts of John and is widely thought to be a later insertion of an older tradition.",
+  "place": "Temple Mount, Jerusalem",
+  "lat": 31.778,
+  "lon": 35.2354
 }

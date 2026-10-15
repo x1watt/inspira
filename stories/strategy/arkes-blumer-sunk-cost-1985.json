@@ -10,5 +10,8 @@
   "year": 1985,
   "location": "Ohio University, Athens, Ohio, USA",
   "source": "Arkes, H. R., and Blumer, C. (1985). The psychology of sunk cost. Organizational Behavior and Human Decision Processes, 35(1), 124-140.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Ohio University, Athens, Ohio, USA",
+  "lat": 39.327,
+  "lon": -82.101
 }

@@ -10,5 +10,8 @@
   "year": 2000,
   "location": "University of Washington, Seattle, USA",
   "source": "Shapiro, A. F., Gottman, J. M., and Carrere, S. (2000). The baby and the marriage: Identifying factors that buffer against decline in marital satisfaction after the first baby arrives. Journal of Family Psychology, 14(1), 59-70.",
-  "basis": "study"
+  "basis": "study",
+  "place": "University of Washington, Seattle, USA",
+  "lat": 47.6553,
+  "lon": -122.3035
 }

@@ -11,5 +11,8 @@
   "location": "New York, USA (Spitz's base; the two institutions were not named)",
   "source": "Spitz, R. A. (1945). Hospitalism: An inquiry into the genesis of psychiatric conditions in early childhood. Psychoanalytic Study of the Child, 1, 53-74.",
   "basis": "study",
-  "caveat": "Spitz's methods were criticized at the time for small samples and unclear comparisons, though later research broadly confirmed the harm of severe institutional neglect."
+  "caveat": "Spitz's methods were criticized at the time for small samples and unclear comparisons, though later research broadly confirmed the harm of severe institutional neglect.",
+  "place": "New York, USA",
+  "lat": 40.713,
+  "lon": -74.006
 }

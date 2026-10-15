@@ -11,5 +11,8 @@
   "location": "Zou (modern Zoucheng, Shandong, China)",
   "source": "Liu Xiang, Lienu Zhuan (Biographies of Exemplary Women), Book 1, The Mother of Meng Ke",
   "basis": "anecdote",
-  "caveat": "The story was written down about three centuries after Mencius lived and is best read as tradition."
+  "caveat": "The story was written down about three centuries after Mencius lived and is best read as tradition.",
+  "place": "Zoucheng, Shandong, China",
+  "lat": 35.405,
+  "lon": 116.967
 }

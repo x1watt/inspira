@@ -11,5 +11,8 @@
   "location": "Naval Medical Research Institute, Bethesda, Maryland, USA",
   "source": "Tuckman, B. W. (1965). Developmental sequence in small groups. Psychological Bulletin, 63(6), 384-399.",
   "basis": "study",
-  "caveat": "Later studies, including Gersick's work on project teams, found that many real teams do not move through these stages in a fixed order."
+  "caveat": "Later studies, including Gersick's work on project teams, found that many real teams do not move through these stages in a fixed order.",
+  "place": "Bethesda, Maryland",
+  "lat": 38.981,
+  "lon": -77.1
 }

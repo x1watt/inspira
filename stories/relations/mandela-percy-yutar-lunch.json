@@ -10,5 +10,8 @@
   "year": 1995,
   "location": "Pretoria, South Africa",
   "source": "Contemporary South African press reports (November 1995); Anthony Sampson, Mandela: The Authorized Biography (1999)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Pretoria, South Africa",
+  "lat": -25.747,
+  "lon": 28.188
 }

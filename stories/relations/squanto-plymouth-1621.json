@@ -10,5 +10,8 @@
   "year": 1621,
   "location": "Plymouth, Massachusetts, USA",
   "source": "William Bradford, Of Plymouth Plantation, Book 2, years 1621 and 1622",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Plymouth, Massachusetts, USA",
+  "lat": 41.958,
+  "lon": -70.667
 }

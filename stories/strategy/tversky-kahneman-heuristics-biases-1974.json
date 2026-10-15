@@ -10,5 +10,8 @@
   "year": 1974,
   "location": "Hebrew University of Jerusalem, Israel, and University of Oregon, Eugene, USA",
   "source": "Tversky, A., and Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. Science, 185(4157), 1124-1131.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Jerusalem, Israel",
+  "lat": 31.778,
+  "lon": 35.235
 }

@@ -10,5 +10,8 @@
   "year": -375,
   "location": "Athens, Greece",
   "source": "Plato, Republic, Book VI, 488a to 489a",
-  "basis": "parable"
+  "basis": "parable",
+  "place": "Athens, Greece",
+  "lat": 37.984,
+  "lon": 23.728
 }

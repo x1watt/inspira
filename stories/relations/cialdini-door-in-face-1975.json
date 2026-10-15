@@ -10,5 +10,8 @@
   "year": 1975,
   "location": "Arizona State University, Tempe, USA",
   "source": "Cialdini, R. B., Vincent, J. E., Lewis, S. K., Catalan, J., Wheeler, D., and Darby, B. L. (1975). Reciprocal concessions procedure for inducing compliance: The door-in-the-face technique. Journal of Personality and Social Psychology, 31(2), 206-215.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Arizona State University, Tempe",
+  "lat": 33.4242,
+  "lon": -111.9281
 }

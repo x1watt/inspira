@@ -10,5 +10,8 @@
   "year": 24,
   "location": "Handan (modern Hebei, China)",
   "source": "Fan Ye, Book of the Later Han (Hou Hanshu), Annals of Emperor Guangwu",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Handan, Hebei, China",
+  "lat": 36.625,
+  "lon": 114.539
 }

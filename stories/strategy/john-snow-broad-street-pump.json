@@ -11,5 +11,8 @@
   "location": "Soho, London (United Kingdom)",
   "source": "John Snow, On the Mode of Communication of Cholera, 2nd ed. (1855)",
   "basis": "documented",
-  "caveat": "The epidemic was already in decline when the handle was removed, so the action itself did not end it."
+  "caveat": "The epidemic was already in decline when the handle was removed, so the action itself did not end it.",
+  "place": "Broad Street pump, Soho, London",
+  "lat": 51.5134,
+  "lon": -0.1367
 }

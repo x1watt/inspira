@@ -10,5 +10,8 @@
   "year": 1429,
   "location": "Orleans, France",
   "source": "Records of Joan's trial (1431) and rehabilitation trial (1450 to 1456)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Orleans, France",
+  "lat": 47.902,
+  "lon": 1.909
 }

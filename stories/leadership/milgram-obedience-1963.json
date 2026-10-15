@@ -11,5 +11,8 @@
   "location": "Yale University, New Haven, USA",
   "source": "Milgram, S. (1963). Behavioral study of obedience. Journal of Abnormal and Social Psychology, 67(4), 371-378.",
   "basis": "study",
-  "caveat": "Later analysis of Milgram's archives suggests many participants doubted the shocks were real and that the prods were not always delivered as scripted, so the exact rate is debated."
+  "caveat": "Later analysis of Milgram's archives suggests many participants doubted the shocks were real and that the prods were not always delivered as scripted, so the exact rate is debated.",
+  "place": "Yale University, New Haven, Connecticut, USA",
+  "lat": 41.3112,
+  "lon": -72.9267
 }

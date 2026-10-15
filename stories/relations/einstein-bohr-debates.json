@@ -10,5 +10,8 @@
   "year": 1927,
   "location": "Brussels, Belgium, and Princeton, USA",
   "source": "Niels Bohr, \"Discussion with Einstein on Epistemological Problems in Atomic Physics,\" in Albert Einstein: Philosopher-Scientist, ed. P. A. Schilpp (1949)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Brussels, Belgium",
+  "lat": 50.85,
+  "lon": 4.352
 }

@@ -11,5 +11,8 @@
   "location": "Farne Islands, Northumberland, England (UK)",
   "source": "Contemporary newspaper reports; William Darling's lighthouse journal; Jessica Mitford, Grace Had an English Heart (1988)",
   "basis": "documented",
-  "caveat": "Accounts differ on how much of the rowing Grace did, and the fame that followed added romantic details."
+  "caveat": "Accounts differ on how much of the rowing Grace did, and the fame that followed added romantic details.",
+  "place": "Longstone Lighthouse, Farne Islands, England",
+  "lat": 55.6451,
+  "lon": -1.6097
 }

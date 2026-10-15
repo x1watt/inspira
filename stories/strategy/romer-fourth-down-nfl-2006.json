@@ -10,5 +10,8 @@
   "year": 2006,
   "location": "University of California, Berkeley, USA (NFL data)",
   "source": "Romer, D. (2006). Do firms maximize? Evidence from professional football. Journal of Political Economy, 114(2), 340-365.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Sather Tower, UC Berkeley, USA",
+  "lat": 37.8721,
+  "lon": -122.2578
 }

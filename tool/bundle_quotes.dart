@@ -74,6 +74,21 @@ void main() {
     if (!'${s['id']}'.startsWith('story-')) {
       errors.add('$path: story ids must start with story-');
     }
+    // Optional map point: where a visitor can go (see
+    // tool/pipeline/places/README.md).
+    final lat = s['lat'], lon = s['lon'];
+    if ((lat == null) != (lon == null)) {
+      errors.add('$path: lat and lon go together');
+    }
+    if (lat != null && (lat is! num || lat.abs() > 90)) {
+      errors.add('$path: bad lat');
+    }
+    if (lon != null && (lon is! num || lon.abs() > 180)) {
+      errors.add('$path: bad lon');
+    }
+    if (lat != null && '${s['place'] ?? ''}'.isEmpty) {
+      errors.add('$path: a map point needs a place name');
+    }
   });
 
   final events = _readEvents(errors);

@@ -11,5 +11,8 @@
   "location": "University of Wisconsin, Madison, USA",
   "source": "Harlow, H. F. (1958). The nature of love. American Psychologist, 13(12), 673-685.",
   "basis": "study",
-  "caveat": "The experiments caused severe distress to the animals and are now widely cited as an example of research that would not be permitted today."
+  "caveat": "The experiments caused severe distress to the animals and are now widely cited as an example of research that would not be permitted today.",
+  "place": "University of Wisconsin-Madison, USA",
+  "lat": 43.0753,
+  "lon": -89.404
 }

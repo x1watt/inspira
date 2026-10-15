@@ -10,5 +10,8 @@
   "year": -480,
   "location": "Salamis, Attica (Greece)",
   "source": "Herodotus, Histories 8.75 to 8.96; Plutarch, Life of Themistocles 12",
-  "basis": "anecdote"
+  "basis": "anecdote",
+  "place": "Salamina, Salamis island, Greece",
+  "lat": 37.965,
+  "lon": 23.498
 }

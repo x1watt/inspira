@@ -10,5 +10,8 @@
   "year": 2008,
   "location": "Wall Street investment firms, New York, USA",
   "source": "Groysberg, B., Lee, L.-E., and Nanda, A. (2008). Can they take it with them? The portability of star knowledge workers' performance. Management Science, 54(7), 1213-1230.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Wall Street, New York, USA",
+  "lat": 40.707,
+  "lon": -74.009
 }

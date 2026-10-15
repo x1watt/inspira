@@ -11,5 +11,8 @@
   "location": "Temple University, Philadelphia, USA",
   "source": "Kipnis, D. (1972). Does power corrupt? Journal of Personality and Social Psychology, 24(1), 33-41.",
   "basis": "study",
-  "caveat": "It was a role-play with students, not real managers, so it shows a tendency rather than how every leader behaves."
+  "caveat": "It was a role-play with students, not real managers, so it shows a tendency rather than how every leader behaves.",
+  "place": "Temple University, Philadelphia, USA",
+  "lat": 39.9812,
+  "lon": -75.155
 }

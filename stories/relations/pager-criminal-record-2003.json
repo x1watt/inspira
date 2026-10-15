@@ -10,5 +10,8 @@
   "year": 2003,
   "location": "Milwaukee, Wisconsin, USA",
   "source": "Pager, D. (2003). The mark of a criminal record. American Journal of Sociology, 108(5), 937-975.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Milwaukee, Wisconsin, USA",
+  "lat": 43.039,
+  "lon": -87.907
 }

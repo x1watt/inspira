@@ -10,5 +10,8 @@
   "year": 1755,
   "location": "London, England",
   "source": "Samuel Johnson, letter to the Earl of Chesterfield, February 7, 1755, in James Boswell, The Life of Samuel Johnson (1791)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "London, England",
+  "lat": 51.507,
+  "lon": -0.128
 }

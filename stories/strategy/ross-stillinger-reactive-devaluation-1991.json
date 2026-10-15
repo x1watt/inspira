@@ -10,5 +10,8 @@
   "year": 1991,
   "location": "Stanford University, California, USA",
   "source": "Ross, L., and Stillinger, C. (1991). Barriers to conflict resolution. Negotiation Journal, 7(4), 389-404.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Stanford University",
+  "lat": 37.4275,
+  "lon": -122.1697
 }

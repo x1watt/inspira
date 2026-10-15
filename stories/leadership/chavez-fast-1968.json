@@ -10,5 +10,8 @@
   "year": 1968,
   "location": "Delano, California, USA",
   "source": "Contemporary press reports; United Farm Workers records; Chavez's statement of March 10, 1968",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Delano, California, USA",
+  "lat": 35.769,
+  "lon": -119.247
 }

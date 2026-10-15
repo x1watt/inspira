@@ -10,5 +10,8 @@
   "year": 1859,
   "location": "Solferino and Castiglione delle Stiviere, Lombardy, Italy",
   "source": "Henry Dunant, A Memory of Solferino (Un souvenir de Solferino, 1862)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Solferino, Lombardy, Italy",
+  "lat": 45.387,
+  "lon": 10.567
 }

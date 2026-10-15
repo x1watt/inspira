@@ -11,5 +11,8 @@
   "location": "Chapel Hill, North Carolina, USA",
   "source": "Campbell, F., Conti, G., Heckman, J. J., Moon, S. H., Pinto, R., Pungello, E., and Pan, Y. (2014). Early childhood investments substantially boost adult health. Science, 343(6178), 1478-1485.",
   "basis": "study",
-  "caveat": "The health follow-up involved a small number of participants, so the precise sizes of the effects are uncertain."
+  "caveat": "The health follow-up involved a small number of participants, so the precise sizes of the effects are uncertain.",
+  "place": "Chapel Hill, North Carolina, USA",
+  "lat": 35.913,
+  "lon": -79.056
 }

@@ -11,5 +11,8 @@
   "location": "Chelsea and the Tower of London, England (UK)",
   "source": "William Roper, The Life of Sir Thomas More (c. 1556); The Correspondence of Sir Thomas More",
   "basis": "documented",
-  "caveat": "The story of the head comes from later tradition."
+  "caveat": "The story of the head comes from later tradition.",
+  "place": "Tower of London, England",
+  "lat": 51.5081,
+  "lon": -0.0759
 }

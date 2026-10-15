@@ -11,5 +11,8 @@
   "location": "Jerusalem, Judea (modern Israel)",
   "source": "Babylonian Talmud, Gittin 55b to 56a",
   "basis": "parable",
-  "caveat": "This is a rabbinic moral narrative, not a historical account of the causes of the Jewish War of 66 to 70 AD."
+  "caveat": "This is a rabbinic moral narrative, not a historical account of the causes of the Jewish War of 66 to 70 AD.",
+  "place": "Jerusalem",
+  "lat": 31.778,
+  "lon": 35.235
 }

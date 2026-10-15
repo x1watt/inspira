@@ -10,5 +10,8 @@
   "year": 1893,
   "location": "Chicago, Illinois, USA",
   "source": "John Henry Barrows, ed., The World's Parliament of Religions (1893); The Complete Works of Swami Vivekananda, vol. 1",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Art Institute of Chicago, Illinois, USA",
+  "lat": 41.8796,
+  "lon": -87.6237
 }

@@ -10,5 +10,8 @@
   "year": 1977,
   "location": "Stanford University, Stanford, USA",
   "source": "Ross, L., Amabile, T. M., and Steinmetz, J. L. (1977). Social roles, social control, and biases in social-perception processes. Journal of Personality and Social Psychology, 35(7), 485-494.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Stanford University",
+  "lat": 37.4275,
+  "lon": -122.1697
 }

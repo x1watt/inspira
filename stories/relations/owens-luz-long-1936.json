@@ -11,5 +11,8 @@
   "location": "Olympic Stadium, Berlin, Germany",
   "source": "Jesse Owens with Paul Neimark, The Jesse Owens Story (1970); Jeremy Schaap, Triumph (2007)",
   "basis": "anecdote",
-  "caveat": "The advice during qualifying comes only from Owens's later accounts and has been questioned; the friendship and the embrace after the final are well attested."
+  "caveat": "The advice during qualifying comes only from Owens's later accounts and has been questioned; the friendship and the embrace after the final are well attested.",
+  "place": "Olympiastadion, Berlin, Germany",
+  "lat": 52.5147,
+  "lon": 13.2395
 }

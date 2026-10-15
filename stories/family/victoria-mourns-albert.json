@@ -11,5 +11,8 @@
   "location": "Windsor Castle, England (UK)",
   "source": "The Letters of Queen Victoria; Stanley Weintraub, Uncrowned King: The Life of Prince Albert (1997)",
   "basis": "documented",
-  "caveat": "Modern historians debate whether Albert died of typhoid or of a chronic illness such as Crohn's disease."
+  "caveat": "Modern historians debate whether Albert died of typhoid or of a chronic illness such as Crohn's disease.",
+  "place": "Windsor Castle, England",
+  "lat": 51.4839,
+  "lon": -0.6044
 }

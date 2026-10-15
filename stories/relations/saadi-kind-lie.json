@@ -10,5 +10,8 @@
   "year": 1258,
   "location": "Shiraz, Persia (modern Iran)",
   "source": "Saadi, Gulistan (The Rose Garden), Chapter 1, Story 1",
-  "basis": "parable"
+  "basis": "parable",
+  "place": "Shiraz, Iran",
+  "lat": 29.592,
+  "lon": 52.584
 }

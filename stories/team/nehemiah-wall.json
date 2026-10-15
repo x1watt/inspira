@@ -10,5 +10,8 @@
   "year": -445,
   "location": "Jerusalem",
   "source": "Book of Nehemiah, chapters 2 to 4 and 6:15",
-  "basis": "literature"
+  "basis": "literature",
+  "place": "Jerusalem, Israel",
+  "lat": 31.778,
+  "lon": 35.235
 }

@@ -10,5 +10,8 @@
   "year": 1981,
   "location": "Stanford University, USA, and University of British Columbia, Canada",
   "source": "Tversky, A., and Kahneman, D. (1981). The framing of decisions and the psychology of choice. Science, 211(4481), 453-458.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Stanford University, California, USA",
+  "lat": 37.4275,
+  "lon": -122.1697
 }

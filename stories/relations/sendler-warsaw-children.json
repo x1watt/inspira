@@ -11,5 +11,8 @@
   "location": "Warsaw, Poland",
   "source": "Yad Vashem, Righteous Among the Nations file on Irena Sendler; Anna Mieszkowska, Irena Sendler: Mother of the Children of the Holocaust (2010)",
   "basis": "documented",
-  "caveat": "The often cited figure of 2,500 children saved by her network is disputed by some historians, who think the real number was lower."
+  "caveat": "The often cited figure of 2,500 children saved by her network is disputed by some historians, who think the real number was lower.",
+  "place": "Warsaw, Poland",
+  "lat": 52.23,
+  "lon": 21.012
 }

@@ -10,5 +10,8 @@
   "year": 1985,
   "location": "Atlanta, Georgia (USA)",
   "source": "Mark Pendergrast, For God, Country and Coca-Cola (1993); Thomas Oliver, The Real Coke, the Real Story (1986)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Atlanta, Georgia",
+  "lat": 33.749,
+  "lon": -84.388
 }

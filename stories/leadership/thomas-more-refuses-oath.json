@@ -10,5 +10,8 @@
   "year": 1535,
   "location": "London, England",
   "source": "Records of More's trial; William Roper, The Life of Sir Thomas More; the Paris News Letter account of his execution",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "London, England",
+  "lat": 51.507,
+  "lon": -0.128
 }

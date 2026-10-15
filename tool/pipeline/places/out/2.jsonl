@@ -1,0 +1,286 @@
+{"id": "story-giza-workers-village", "precision": "site", "place": "Giza pyramid complex, Egypt", "lat": 29.9792, "lon": 31.1342, "query": "Giza pyramid complex, Egypt"}
+{"id": "story-joseph-forgives-brothers", "precision": "region", "place": "Canaan and Egypt", "lat": null, "lon": null, "query": ""}
+{"id": "story-jethro-advises-moses", "precision": "region", "place": "Sinai, Egypt", "lat": null, "lon": null, "query": ""}
+{"id": "story-gilgamesh-and-enkidu", "precision": "site", "place": "Uruk (Warka) ruins, Iraq", "lat": 31.3226, "lon": 45.6361, "query": "Warka, Iraq"}
+{"id": "story-ruth-and-naomi", "precision": "region", "place": "Moab and Bethlehem", "lat": null, "lon": null, "query": ""}
+{"id": "story-david-pours-out-water", "precision": "region", "place": "Adullam and Bethlehem", "lat": null, "lon": null, "query": ""}
+{"id": "story-judgment-of-solomon", "precision": "city", "place": "Jerusalem", "lat": 31.778, "lon": 35.235, "query": "Jerusalem"}
+{"id": "story-hector-andromache", "precision": "site", "place": "Troy, Turkey", "lat": 39.9575, "lon": 26.2389, "query": "Troy, Turkey"}
+{"id": "story-trojan-horse", "precision": "site", "place": "Troy, Turkey", "lat": 39.9575, "lon": 26.2389, "query": "Troy, Turkey"}
+{"id": "story-guan-zhong-bao-shuya", "precision": "region", "place": "State of Qi, Shandong, China", "lat": null, "lon": null, "query": ""}
+{"id": "story-chu-zhuang-tassel-banquet", "precision": "region", "place": "State of Chu, Hubei, China", "lat": null, "lon": null, "query": ""}
+{"id": "story-cleobis-and-biton", "precision": "city", "place": "Argos, Greece", "lat": 37.633, "lon": 22.73, "query": "Argos, Greece"}
+{"id": "story-aesop-ass-carrying-image", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-aesop-bundle-of-sticks", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-aesop-dog-and-reflection", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-aesop-farmer-and-viper", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-aesop-fox-and-crow", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-aesop-fox-without-tail", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-aesop-horse-and-ass", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-aesop-lion-and-boar", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-aesop-north-wind-and-sun", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-aesop-thief-and-mother", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-aesop-two-travelers-and-axe", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-sun-tzu-concubines", "precision": "region", "place": "Kingdom of Wu, China", "lat": null, "lon": null, "query": ""}
+{"id": "story-confucius-tilted-vessel", "precision": "region", "place": "State of Lu, Shandong, China", "lat": null, "lon": null, "query": ""}
+{"id": "story-gou-jian-tastes-gall", "precision": "region", "place": "Yue and Wu, China", "lat": null, "lon": null, "query": ""}
+{"id": "story-aristides-ostracism-shard", "precision": "city", "place": "Athens, Greece", "lat": 37.975, "lon": 23.735, "query": "Athens, Greece"}
+{"id": "story-esther-before-the-king", "precision": "city", "place": "Susa, Iran", "lat": 32.19, "lon": 48.257, "query": "Shush, Iran"}
+{"id": "story-buddha-poisoned-arrow", "precision": "site", "place": "Jetavana, Sravasti, India", "lat": 27.51, "lon": 82.04, "query": "Sahet Mahet, Sravasti"}
+{"id": "story-udana-blind-men-and-elephant", "precision": "site", "place": "Jetavana, Sravasti, India", "lat": 27.51, "lon": 82.04, "query": "Sahet Mahet, Sravasti"}
+{"id": "story-mozi-gongshu-ban", "precision": "region", "place": "Chu, Hubei, China", "lat": null, "lon": null, "query": ""}
+{"id": "story-bian-que-duke-huan", "precision": "region", "place": "State of Cai, China", "lat": null, "lon": null, "query": ""}
+{"id": "story-rama-accepts-exile", "precision": "city", "place": "Ayodhya, India", "lat": 26.799, "lon": 82.204, "query": "Ayodhya, Uttar Pradesh"}
+{"id": "story-camillus-falerii-schoolmaster", "precision": "city", "place": "Civita Castellana, Italy", "lat": 42.294, "lon": 12.409, "query": "Civita Castellana, Italy"}
+{"id": "story-epaminondas-telmarch", "precision": "city", "place": "Thebes, Greece", "lat": 38.322, "lon": 23.318, "query": "Thiva, Greece"}
+{"id": "story-tian-ji-horse-racing", "precision": "region", "place": "Qi, Shandong, China", "lat": null, "lon": null, "query": ""}
+{"id": "story-sun-bin-maling-fires", "precision": "region", "place": "Maling, China", "lat": null, "lon": null, "query": ""}
+{"id": "story-porus-alexander-like-a-king", "precision": "region", "place": "Hydaspes River, Punjab", "lat": null, "lon": null, "query": ""}
+{"id": "story-mencius-fifty-steps", "precision": "region", "place": "State of Wei, China", "lat": null, "lon": null, "query": ""}
+{"id": "story-buying-horse-bones", "precision": "region", "place": "State of Yan, China", "lat": null, "lon": null, "query": ""}
+{"id": "story-zhuangzi-frog-in-well", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-snipe-and-clam", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-mending-pen-after-sheep-lost", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-jataka-banyan-deer", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-jataka-monkey-king-bridge", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-liezi-axe-neighbor", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-fabius-cunctator-delay", "precision": "region", "place": "Southern and central Italy", "lat": null, "lon": null, "query": ""}
+{"id": "story-scipio-continence-allucius", "precision": "city", "place": "Cartagena, Spain", "lat": 37.6, "lon": -0.986, "query": "Cartagena, Spain"}
+{"id": "story-jambavan-reminds-hanuman", "precision": "region", "place": "Ancient India", "lat": null, "lon": null, "query": ""}
+{"id": "story-zhang-qian-western-mission", "precision": "region", "place": "Chang'an to Central Asia", "lat": null, "lon": null, "query": ""}
+{"id": "story-honi-carob-tree", "precision": "region", "place": "Land of Israel", "lat": null, "lon": null, "query": ""}
+{"id": "story-cicero-grief-tullia", "precision": "region", "place": "Tusculum and Astura, Italy", "lat": null, "lon": null, "query": ""}
+{"id": "story-augustus-exiles-julia", "precision": "region", "place": "Italy", "lat": null, "lon": null, "query": ""}
+{"id": "story-ekalavya", "precision": "region", "place": "Ancient India", "lat": null, "lon": null, "query": ""}
+{"id": "story-panchatantra-blue-jackal", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-panchatantra-crows-and-serpent", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-panchatantra-heron-and-crab", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-panchatantra-lion-makers", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-panchatantra-three-fish", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-yudhishthira-and-dog", "precision": "region", "place": "Himalayas, India", "lat": null, "lon": null, "query": ""}
+{"id": "story-daedalus-icarus", "precision": "region", "place": "Crete, Greece", "lat": null, "lon": null, "query": ""}
+{"id": "story-theseus-ariadne-thread", "precision": "site", "place": "Knossos, Crete, Greece", "lat": 35.298, "lon": 25.163, "query": "Knossos, Crete"}
+{"id": "story-jesus-washes-feet", "precision": "city", "place": "Jerusalem", "lat": 31.778, "lon": 35.235, "query": "Jerusalem"}
+{"id": "story-paralytic-through-roof", "precision": "site", "place": "Capernaum, Israel", "lat": 32.8803, "lon": 35.575, "query": "Capernaum, Israel"}
+{"id": "story-unforgiving-servant", "precision": "region", "place": "Galilee and Judea", "lat": null, "lon": null, "query": ""}
+{"id": "story-phaedrus-bees-drones-wasp", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-yochanan-ben-zakkai-coffin", "precision": "region", "place": "Jerusalem and Yavneh, Israel", "lat": null, "lon": null, "query": ""}
+{"id": "story-ban-zhao-book-of-han", "precision": "city", "place": "Luoyang, China", "lat": 34.619, "lon": 112.454, "query": "Luoyang, China"}
+{"id": "story-oven-of-akhnai", "precision": "city", "place": "Yavne, Israel", "lat": 31.868, "lon": 34.739, "query": "Yavne, Israel"}
+{"id": "story-androcles-and-the-lion", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-marcus-aurelius-auction", "precision": "site", "place": "Forum of Trajan, Rome, Italy", "lat": 41.8958, "lon": 12.4846, "query": "Forum of Trajan, Rome"}
+{"id": "story-talmud-blind-and-lame", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-zhuge-liang-empty-fort", "precision": "region", "place": "Yangping, Shaanxi, China", "lat": null, "lon": null, "query": ""}
+{"id": "story-theodosius-ambrose-penance", "precision": "city", "place": "Milan, Italy", "lat": 45.464, "lon": 9.19, "query": "Milan, Italy"}
+{"id": "story-benedictine-rule", "precision": "site", "place": "Monte Cassino Abbey, Italy", "lat": 41.4896, "lon": 13.8143, "query": "Abbazia di Montecassino"}
+{"id": "story-khadija-supports-muhammad", "precision": "city", "place": "Mecca, Saudi Arabia", "lat": 21.389, "lon": 39.858, "query": "Mecca, Saudi Arabia"}
+{"id": "story-bukhari-dog-and-water", "precision": "city", "place": "Medina, Saudi Arabia", "lat": 24.468, "lon": 39.614, "query": "Medina, Saudi Arabia"}
+{"id": "story-umar-jerusalem-church", "precision": "site", "place": "Church of the Holy Sepulchre, Jerusalem", "lat": 31.7784, "lon": 35.2296, "query": "Church of the Holy Sepulchre, Jerusalem"}
+{"id": "story-harun-charlemagne-gifts", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-alfred-burns-cakes", "precision": "city", "place": "Athelney, Somerset, England", "lat": 51.073, "lon": -2.934, "query": "Athelney, Somerset"}
+{"id": "story-seventeen-camels", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-rostam-and-sohrab", "precision": "region", "place": "Persia", "lat": null, "lon": null, "query": ""}
+{"id": "story-canossa-1077", "precision": "site", "place": "Canossa Castle ruins, Italy", "lat": 44.5836, "lon": 10.4528, "query": "Canossa, Emilia-Romagna"}
+{"id": "story-yue-fei-mother-tattoo", "precision": "region", "place": "Henan and Hangzhou, China", "lat": null, "lon": null, "query": ""}
+{"id": "story-hitopadesha-old-tiger-bracelet", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-eleanor-henry-sons-revolt", "precision": "region", "place": "England and France", "lat": null, "lon": null, "query": ""}
+{"id": "story-saladin-jerusalem-1187", "precision": "city", "place": "Jerusalem", "lat": 31.778, "lon": 35.235, "query": "Jerusalem"}
+{"id": "story-sword-in-the-stone", "precision": "region", "place": "Britain", "lat": null, "lon": null, "query": ""}
+{"id": "story-mongol-decimal-units", "precision": "region", "place": "Mongolian steppe, Mongolia", "lat": null, "lon": null, "query": ""}
+{"id": "story-francis-wolf-of-gubbio", "precision": "city", "place": "Gubbio, Italy", "lat": 43.351, "lon": 12.577, "query": "Gubbio, Umbria"}
+{"id": "story-rumi-shams-friendship", "precision": "city", "place": "Konya, Turkey", "lat": 37.872, "lon": 32.493, "query": "Konya, Turkey"}
+{"id": "story-dutch-water-boards", "precision": "region", "place": "Netherlands", "lat": null, "lon": null, "query": ""}
+{"id": "story-pied-piper-hamelin", "precision": "city", "place": "Hamelin, Germany", "lat": 52.104, "lon": 9.357, "query": "Hameln, Germany"}
+{"id": "story-conde-lucanor-don-illan", "precision": "city", "place": "Toledo, Spain", "lat": 39.862, "lon": -4.027, "query": "Toledo, Spain"}
+{"id": "story-ring-parable", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-chaucer-pardoners-tale", "precision": "region", "place": "Flanders, Belgium", "lat": null, "lon": null, "query": ""}
+{"id": "story-joan-orleans-1429", "precision": "city", "place": "Orleans, France", "lat": 47.902, "lon": 1.909, "query": "Orleans, France"}
+{"id": "story-mehmed-ships-overland", "precision": "city", "place": "Istanbul, Turkey", "lat": 41.008, "lon": 28.978, "query": "Istanbul, Turkey"}
+{"id": "story-rama-bridge-squirrel", "precision": "region", "place": "India", "lat": null, "lon": null, "query": ""}
+{"id": "story-afonso-kongo-letters-1526", "precision": "city", "place": "Mbanza Kongo, Angola", "lat": -6.267, "lon": 14.25, "query": "Mbanza Kongo, Angola"}
+{"id": "story-thomas-more-refuses-oath", "precision": "city", "place": "London, England", "lat": 51.507, "lon": -0.128, "query": "London, England"}
+{"id": "story-montaigne-la-boetie", "precision": "city", "place": "Bordeaux, France", "lat": 44.838, "lon": -0.579, "query": "Bordeaux, France"}
+{"id": "story-ieyasu-shikami-portrait", "precision": "city", "place": "Hamamatsu, Japan", "lat": 34.711, "lon": 137.726, "query": "Hamamatsu, Japan"}
+{"id": "story-birbal-khichdi", "precision": "region", "place": "Mughal India", "lat": null, "lon": null, "query": ""}
+{"id": "story-rikyu-hideyoshi-seppuku", "precision": "city", "place": "Kyoto, Japan", "lat": 35.012, "lon": 135.768, "query": "Kyoto, Japan"}
+{"id": "story-merchant-venice-portia", "precision": "city", "place": "Venice, Italy", "lat": 45.438, "lon": 12.327, "query": "Venice, Italy"}
+{"id": "story-julius-caesar-antony-speech", "precision": "site", "place": "Roman Forum, Rome, Italy", "lat": 41.8925, "lon": 12.4853, "query": "Roman Forum, Rome"}
+{"id": "story-quixote-windmills", "precision": "region", "place": "La Mancha, Spain", "lat": null, "lon": null, "query": ""}
+{"id": "story-sancho-panza-barataria", "precision": "region", "place": "Spain", "lat": null, "lon": null, "query": ""}
+{"id": "story-nzinga-negotiation-1622", "precision": "city", "place": "Luanda, Angola", "lat": -8.839, "lon": 13.289, "query": "Luanda, Angola"}
+{"id": "story-galileo-maria-celeste", "precision": "city", "place": "Florence, Italy", "lat": 43.77, "lon": 11.255, "query": "Florence, Italy"}
+{"id": "story-jijabai-raises-shivaji", "precision": "region", "place": "Maharashtra, India", "lat": null, "lon": null, "query": ""}
+{"id": "story-aesop-oak-and-reed", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-la-fontaine-coach-and-fly", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-la-fontaine-monkey-and-cat", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-crane-wife", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-tongue-cut-sparrow", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-newton-leibniz-priority-dispute", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-south-sea-bubble-newton", "precision": "city", "place": "London, England", "lat": 51.507, "lon": -0.128, "query": "London, England"}
+{"id": "story-zen-gates-of-paradise", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-leopold-mozart-tours", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-abigail-adams-remember-ladies", "precision": "city", "place": "Quincy, Massachusetts, USA", "lat": 42.253, "lon": -71.002, "query": "Quincy, Massachusetts"}
+{"id": "story-mozart-mother-death-letter", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-mozart-haydn-friendship", "precision": "city", "place": "Vienna, Austria", "lat": 48.208, "lon": 16.373, "query": "Vienna, Austria"}
+{"id": "story-toussaint-louverture-rise", "precision": "region", "place": "Haiti", "lat": null, "lon": null, "query": ""}
+{"id": "story-jewish-feathers-in-the-wind", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-nelson-blind-eye-copenhagen", "precision": "city", "place": "Copenhagen, Denmark", "lat": 55.676, "lon": 12.568, "query": "Copenhagen, Denmark"}
+{"id": "story-jenner-napoleon-prisoners", "precision": "region", "place": "France", "lat": null, "lon": null, "query": ""}
+{"id": "story-krylov-quartet", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-grimm-fisherman-and-wife", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-grimm-wolf-seven-kids", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-elizabeth-fry-newgate", "precision": "site", "place": "Old Bailey (site of Newgate Prison), London", "lat": 51.5156, "lon": -0.1018, "query": "Old Bailey, London"}
+{"id": "story-napoleon-laffrey-1815", "precision": "city", "place": "Laffrey, France", "lat": 44.98, "lon": 5.775, "query": "Laffrey, Isere"}
+{"id": "story-douglass-mother-night-walks", "precision": "region", "place": "Talbot County, Maryland, USA", "lat": null, "lon": null, "query": ""}
+{"id": "story-san-martin-guayaquil-1822", "precision": "city", "place": "Guayaquil, Ecuador", "lat": -2.17, "lon": -79.922, "query": "Guayaquil, Ecuador"}
+{"id": "story-andersen-emperors-new-clothes", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-gogol-overcoat", "precision": "city", "place": "Saint Petersburg, Russia", "lat": 59.939, "lon": 30.316, "query": "Saint Petersburg, Russia"}
+{"id": "story-dickens-scrooge", "precision": "city", "place": "London, England", "lat": 51.507, "lon": -0.128, "query": "London, England"}
+{"id": "story-three-musketeers", "precision": "region", "place": "France", "lat": null, "lon": null, "query": ""}
+{"id": "story-andersen-story-of-a-mother", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-lemminkainen-mother", "precision": "region", "place": "Finland and Karelia", "lat": null, "lon": null, "query": ""}
+{"id": "story-melville-ahab", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-charge-light-brigade", "precision": "city", "place": "Balaklava, Crimea", "lat": 44.51, "lon": 33.601, "query": "Balaklava, Sevastopol"}
+{"id": "story-tubman-rescues-family", "precision": "region", "place": "Maryland, USA, and Ontario, Canada", "lat": null, "lon": null, "query": ""}
+{"id": "story-darwin-wallace-1858", "precision": "site", "place": "Down House, Kent, England", "lat": 51.3312, "lon": 0.0536, "query": "Down House, Downe, Kent"}
+{"id": "story-morozko", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-victoria-mourns-albert", "precision": "site", "place": "Windsor Castle, England", "lat": 51.4839, "lon": -0.6044, "query": "Windsor Castle, England"}
+{"id": "story-lincoln-willie-death", "precision": "site", "place": "The White House, Washington, D.C.", "lat": 38.8977, "lon": -77.0365, "query": "The White House, Washington"}
+{"id": "story-lincoln-letter-to-hooker", "precision": "city", "place": "Washington, D.C.", "lat": 38.907, "lon": -77.037, "query": "Washington, D.C."}
+{"id": "story-satsuma-choshu-alliance", "precision": "city", "place": "Kyoto, Japan", "lat": 35.012, "lon": 135.768, "query": "Kyoto, Japan"}
+{"id": "story-tolstoy-tushin-battery", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-tolstoy-god-sees-truth", "precision": "region", "place": "Russia and Siberia", "lat": null, "lon": null, "query": ""}
+{"id": "story-twain-tom-sawyer-fence", "precision": "region", "place": "Missouri, USA", "lat": null, "lon": null, "query": ""}
+{"id": "story-turgenev-beggar", "precision": "region", "place": "Russia", "lat": null, "lon": null, "query": ""}
+{"id": "story-brer-rabbit-briar-patch", "precision": "region", "place": "Southern United States", "lat": null, "lon": null, "query": ""}
+{"id": "story-tolstoy-what-men-live-by", "precision": "region", "place": "Russia", "lat": null, "lon": null, "query": ""}
+{"id": "story-pinocchio-geppetto", "precision": "region", "place": "Tuscany, Italy", "lat": null, "lon": null, "query": ""}
+{"id": "story-chekhov-sorrow", "precision": "region", "place": "Russia", "lat": null, "lon": null, "query": ""}
+{"id": "story-chekhov-misery", "precision": "city", "place": "Saint Petersburg, Russia", "lat": 59.939, "lon": 30.316, "query": "Saint Petersburg, Russia"}
+{"id": "story-tolstoy-ivan-ilyich", "precision": "city", "place": "Saint Petersburg, Russia", "lat": 59.939, "lon": 30.316, "query": "Saint Petersburg, Russia"}
+{"id": "story-theo-vincent-van-gogh", "precision": "region", "place": "Netherlands and France", "lat": null, "lon": null, "query": ""}
+{"id": "story-mayo-brothers-clinic", "precision": "site", "place": "Mayo Clinic, Rochester, Minnesota", "lat": 44.0225, "lon": -92.4667, "query": "Mayo Clinic, Rochester, Minnesota"}
+{"id": "story-tagore-kabuliwala", "precision": "city", "place": "Kolkata, India", "lat": 22.573, "lon": 88.364, "query": "Kolkata, India"}
+{"id": "story-tolstoy-master-and-man", "precision": "region", "place": "Russia", "lat": null, "lon": null, "query": ""}
+{"id": "story-hearn-living-god", "precision": "region", "place": "Japan", "lat": null, "lon": null, "query": ""}
+{"id": "story-triplett-pacemaking-competition-1898", "precision": "site", "place": "Indiana University, Bloomington, Indiana", "lat": 39.1682, "lon": -86.523, "query": "Indiana University Bloomington"}
+{"id": "story-cow-tail-switch", "precision": "region", "place": "Liberia", "lat": null, "lon": null, "query": ""}
+{"id": "story-yaa-asantewaa-golden-stool", "precision": "city", "place": "Kumasi, Ghana", "lat": 6.688, "lon": -1.624, "query": "Kumasi, Ghana"}
+{"id": "story-tolstoy-three-questions", "precision": "region", "place": "Russia", "lat": null, "lon": null, "query": ""}
+{"id": "story-kellogg-brothers-feud", "precision": "city", "place": "Battle Creek, Michigan", "lat": 42.321, "lon": -85.18, "query": "Battle Creek, Michigan"}
+{"id": "story-london-to-build-a-fire", "precision": "region", "place": "Yukon, Canada", "lat": null, "lon": null, "query": ""}
+{"id": "story-degania-kibbutz", "precision": "city", "place": "Degania Alef, Israel", "lat": 32.703, "lon": 35.572, "query": "Degania Alef, Israel"}
+{"id": "story-gandhi-son-harilal", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-ramanujan-hardy-letter", "precision": "site", "place": "Trinity College, Cambridge, England", "lat": 52.2069, "lon": 0.1166, "query": "Trinity College, Cambridge"}
+{"id": "story-ford-five-dollar-day", "precision": "city", "place": "Highland Park, Michigan", "lat": 42.405, "lon": -83.097, "query": "Highland Park, Michigan"}
+{"id": "story-kafka-metamorphosis", "precision": "city", "place": "Prague, Czech Republic", "lat": 50.088, "lon": 14.421, "query": "Prague, Czech Republic"}
+{"id": "story-disney-walt-roy", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-gandhi-salt-march", "precision": "region", "place": "Gujarat, India", "lat": null, "lon": null, "query": ""}
+{"id": "story-sherif-autokinetic-norms-1935", "precision": "site", "place": "Columbia University, New York", "lat": 40.8075, "lon": -73.9626, "query": "Columbia University, New York"}
+{"id": "story-toyoda-loom-to-cars", "precision": "city", "place": "Nagoya, Japan", "lat": 35.181, "lon": 136.906, "query": "Nagoya, Japan"}
+{"id": "story-winton-kindertransport", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-sugihara-visas-kaunas", "precision": "city", "place": "Kaunas, Lithuania", "lat": 54.899, "lon": 23.912, "query": "Kaunas, Lithuania"}
+{"id": "story-navajo-code-talkers", "precision": "region", "place": "Pacific theater", "lat": null, "lon": null, "query": ""}
+{"id": "story-lewin-group-decision-food-habits-1947", "precision": "site", "place": "University of Iowa, Iowa City", "lat": 41.6611, "lon": -91.5302, "query": "University of Iowa, Iowa City"}
+{"id": "story-stigler-brown-b17", "precision": "region", "place": "Northern Germany and North Sea coast", "lat": null, "lon": null, "query": ""}
+{"id": "story-eisenhower-in-case-of-failure", "precision": "region", "place": "Southern England", "lat": null, "lon": null, "query": ""}
+{"id": "story-spitz-hospitalism-1945", "precision": "city", "place": "New York, USA", "lat": 40.713, "lon": -74.006, "query": "New York, New York"}
+{"id": "story-marshall-plan-1947", "precision": "city", "place": "Washington, D.C.", "lat": 38.907, "lon": -77.037, "query": "Washington, D.C."}
+{"id": "story-coch-french-resistance-to-change-1948", "precision": "city", "place": "Marion, Virginia", "lat": 36.835, "lon": -81.513, "query": "Marion, Virginia"}
+{"id": "story-shils-janowitz-wehrmacht-cohesion-1948", "precision": "region", "place": "Western Europe", "lat": null, "lon": null, "query": ""}
+{"id": "story-kelley-warm-cold-lecturer-1950", "precision": "site", "place": "MIT, Cambridge, Massachusetts", "lat": 42.3601, "lon": -71.0942, "query": "Massachusetts Institute of Technology"}
+{"id": "story-truman-fires-macarthur", "precision": "city", "place": "Washington, D.C.", "lat": 38.907, "lon": -77.037, "query": "Washington, D.C."}
+{"id": "story-watson-crick-franklin-dna", "precision": "site", "place": "Cavendish Laboratory (old), Cambridge", "lat": 52.2043, "lon": 0.1186, "query": "Cavendish Laboratory, Free School Lane, Cambridge"}
+{"id": "story-hastorf-cantril-they-saw-a-game-1954", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-montgomery-bus-boycott", "precision": "site", "place": "Dexter Avenue Baptist Church, Montgomery, Alabama", "lat": 32.3777, "lon": -86.3003, "query": "Dexter Avenue Baptist Church, Montgomery"}
+{"id": "story-camus-letter-louis-germain", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-hollander-idiosyncrasy-credit-1958", "precision": "region", "place": "USA", "lat": null, "lon": null, "query": ""}
+{"id": "story-festinger-carlsmith-one-dollar-1959", "precision": "site", "place": "Stanford University", "lat": 37.4275, "lon": -122.1697, "query": "Stanford University"}
+{"id": "story-wason-2-4-6-task-1960", "precision": "site", "place": "University College London", "lat": 51.5246, "lon": -0.134, "query": "University College London"}
+{"id": "story-concorde-sunk-cost", "precision": "region", "place": "United Kingdom and France", "lat": null, "lon": null, "query": ""}
+{"id": "story-harambee-kenya", "precision": "region", "place": "Kenya", "lat": null, "lon": null, "query": ""}
+{"id": "story-tuckman-forming-storming-1965", "precision": "city", "place": "Bethesda, Maryland", "lat": 38.981, "lon": -77.1, "query": "Bethesda, Maryland"}
+{"id": "story-freedman-fraser-foot-in-door-1966", "precision": "city", "place": "Palo Alto, California", "lat": 37.442, "lon": -122.143, "query": "Palo Alto, California"}
+{"id": "story-fiedler-contingency-model-1967", "precision": "site", "place": "University of Illinois Urbana-Champaign", "lat": 40.102, "lon": -88.2272, "query": "University of Illinois Urbana-Champaign"}
+{"id": "story-darley-latane-seizure-intercom-1968", "precision": "site", "place": "New York University", "lat": 40.7295, "lon": -73.9965, "query": "New York University"}
+{"id": "story-thomas-chess-new-york-longitudinal-1968", "precision": "city", "place": "New York, USA", "lat": 40.713, "lon": -74.006, "query": "New York, New York"}
+{"id": "story-mandela-letters-to-daughters", "precision": "site", "place": "Robben Island prison, South Africa", "lat": -33.8066, "lon": 18.3681, "query": "Robben Island, South Africa"}
+{"id": "story-parkes-broken-heart-widowers-1969", "precision": "region", "place": "England and Wales", "lat": null, "lon": null, "query": ""}
+{"id": "story-brandt-kniefall-warsaw", "precision": "site", "place": "Warsaw Ghetto Heroes Monument, Poland", "lat": 52.2494, "lon": 20.9936, "query": "Monument to the Ghetto Heroes, Warsaw"}
+{"id": "story-deci-external-rewards-1971", "precision": "site", "place": "Carnegie Mellon University, Pittsburgh", "lat": 40.4433, "lon": -79.9436, "query": "Carnegie Mellon University"}
+{"id": "story-schelling-segregation-model-1971", "precision": "site", "place": "Harvard University, Cambridge, Massachusetts", "lat": 42.377, "lon": -71.1167, "query": "Harvard University"}
+{"id": "story-dion-beautiful-is-good-1972", "precision": "site", "place": "University of Minnesota, Minneapolis", "lat": 44.974, "lon": -93.2277, "query": "University of Minnesota"}
+{"id": "story-lieberson-oconnor-leadership-performance-1972", "precision": "region", "place": "USA", "lat": null, "lon": null, "query": ""}
+{"id": "story-darley-batson-good-samaritan-1973", "precision": "site", "place": "Princeton Theological Seminary", "lat": 40.3447, "lon": -74.66, "query": "Princeton Theological Seminary"}
+{"id": "story-zimbardo-stanford-prison-1973", "precision": "site", "place": "Stanford University", "lat": 37.4275, "lon": -122.1697, "query": "Stanford University"}
+{"id": "story-elder-children-great-depression-1974", "precision": "city", "place": "Oakland, California", "lat": 37.804, "lon": -122.271, "query": "Oakland, California"}
+{"id": "story-cialdini-door-in-face-1975", "precision": "site", "place": "Arizona State University, Tempe", "lat": 33.4242, "lon": -111.9281, "query": "Arizona State University"}
+{"id": "story-latham-baldes-log-truckers-1975", "precision": "region", "place": "USA", "lat": null, "lon": null, "query": ""}
+{"id": "story-hokulea-voyage-1976", "precision": "region", "place": "Pacific Ocean", "lat": null, "lon": null, "query": ""}
+{"id": "story-wood-bruner-ross-scaffolding-1976", "precision": "region", "place": "United Kingdom and United States", "lat": null, "lon": null, "query": ""}
+{"id": "story-ross-amabile-quizmaster-1977", "precision": "site", "place": "Stanford University", "lat": 37.4275, "lon": -122.1697, "query": "Stanford University"}
+{"id": "story-ainsworth-strange-situation-1978", "precision": "site", "place": "Johns Hopkins University, Baltimore", "lat": 39.3299, "lon": -76.6205, "query": "Johns Hopkins University Homewood"}
+{"id": "story-united-173-fuel-exhaustion", "precision": "city", "place": "Portland, Oregon", "lat": 45.523, "lon": -122.676, "query": "Portland, Oregon"}
+{"id": "story-latane-williams-harkins-social-loafing-1979", "precision": "site", "place": "Ohio State University, Columbus", "lat": 40.0067, "lon": -83.0305, "query": "Ohio State University"}
+{"id": "story-ibm-pc-msdos-deal", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-axelrod-tit-for-tat-tournament-1981", "precision": "site", "place": "University of Michigan, Ann Arbor", "lat": 42.278, "lon": -83.7382, "query": "University of Michigan"}
+{"id": "story-thaler-dynamic-inconsistency-1981", "precision": "region", "place": "USA", "lat": null, "lon": null, "query": ""}
+{"id": "story-guth-ultimatum-game-1982", "precision": "site", "place": "University of Cologne, Germany", "lat": 50.9285, "lon": 6.9279, "query": "University of Cologne"}
+{"id": "story-werner-kauai-resilience-1982", "precision": "region", "place": "Kauai, Hawaii", "lat": null, "lon": null, "query": ""}
+{"id": "story-petrov-false-alarm-1983", "precision": "region", "place": "Near Moscow, Russia", "lat": null, "lon": null, "query": ""}
+{"id": "story-nummi-plant-turnaround", "precision": "site", "place": "Tesla Factory (former NUMMI), Fremont", "lat": 37.494, "lon": -121.945, "query": "Tesla Factory, Fremont, California"}
+{"id": "story-new-coke-1985", "precision": "city", "place": "Atlanta, Georgia", "lat": 33.749, "lon": -84.388, "query": "Atlanta, Georgia"}
+{"id": "story-burger-thats-not-all-1986", "precision": "site", "place": "Santa Clara University", "lat": 37.3496, "lon": -121.939, "query": "Santa Clara University"}
+{"id": "story-lord-traits-leadership-perception-1986", "precision": "site", "place": "University of Akron, Ohio", "lat": 41.0762, "lon": -81.511, "query": "University of Akron"}
+{"id": "story-plomin-daniels-nonshared-environment-1987", "precision": "region", "place": "USA", "lat": null, "lon": null, "query": ""}
+{"id": "story-samuelson-zeckhauser-status-quo-bias-1988", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-united-232-sioux-city", "precision": "site", "place": "Sioux Gateway Airport, Sioux City, Iowa", "lat": 42.402, "lon": -96.3844, "query": "Sioux Gateway Airport, Sioux City"}
+{"id": "story-kahneman-knetsch-thaler-endowment-mugs-1990", "precision": "site", "place": "Cornell University, Ithaca", "lat": 42.4534, "lon": -76.4735, "query": "Cornell University"}
+{"id": "story-tyler-why-people-obey-law-1990", "precision": "city", "place": "Chicago, Illinois", "lat": 41.882, "lon": -87.628, "query": "Chicago, Illinois"}
+{"id": "story-ross-stillinger-reactive-devaluation-1991", "precision": "site", "place": "Stanford University", "lat": 37.4275, "lon": -122.1697, "query": "Stanford University"}
+{"id": "story-imran-khan-cornered-tigers", "precision": "region", "place": "Australia and New Zealand", "lat": null, "lon": null, "query": ""}
+{"id": "story-ericsson-deliberate-practice-1993", "precision": "city", "place": "Berlin, Germany", "lat": 52.52, "lon": 13.405, "query": "Berlin, Germany"}
+{"id": "story-weick-mann-gulch-1993", "precision": "region", "place": "Montana, USA", "lat": null, "lon": null, "query": ""}
+{"id": "story-berg-trust-game-1995", "precision": "site", "place": "University of Minnesota, Minneapolis", "lat": 44.974, "lon": -93.2277, "query": "University of Minnesota"}
+{"id": "story-liang-moreland-argote-transactive-memory-1995", "precision": "site", "place": "Carnegie Mellon University, Pittsburgh", "lat": 40.4433, "lon": -79.9436, "query": "Carnegie Mellon University"}
+{"id": "story-medvec-bronze-medalists-1995", "precision": "site", "place": "Cornell University, Ithaca", "lat": 42.4534, "lon": -76.4735, "query": "Cornell University"}
+{"id": "story-gottman-emotion-coaching-1996", "precision": "region", "place": "USA", "lat": null, "lon": null, "query": ""}
+{"id": "story-babcock-loewenstein-self-serving-bias-1997", "precision": "site", "place": "Carnegie Mellon University, Pittsburgh", "lat": 40.4433, "lon": -79.9436, "query": "Carnegie Mellon University"}
+{"id": "story-felitti-adverse-childhood-experiences-1998", "precision": "city", "place": "San Diego, California", "lat": 32.716, "lon": -117.162, "query": "San Diego, California"}
+{"id": "story-laub-sampson-marriage-desistance-1998", "precision": "city", "place": "Boston, Massachusetts", "lat": 42.36, "lon": -71.059, "query": "Boston, Massachusetts"}
+{"id": "story-schkade-kahneman-california-focusing-1998", "precision": "region", "place": "Southern California and Midwest, USA", "lat": null, "lon": null, "query": ""}
+{"id": "story-helmreich-crew-resource-management-1999", "precision": "site", "place": "University of Texas at Austin", "lat": 30.2849, "lon": -97.7341, "query": "University of Texas at Austin"}
+{"id": "story-stroebe-schut-dual-process-grief-1999", "precision": "site", "place": "Utrecht University, Netherlands", "lat": 52.0909, "lon": 5.1236, "query": "Utrecht University"}
+{"id": "story-gneezy-rustichini-daycare-fine-2000", "precision": "city", "place": "Haifa, Israel", "lat": 32.794, "lon": 34.99, "query": "Haifa, Israel"}
+{"id": "story-lazear-safelite-performance-pay-2000", "precision": "region", "place": "USA", "lat": null, "lon": null, "query": ""}
+{"id": "story-tripsas-gavetti-polaroid-2000", "precision": "city", "place": "Cambridge, Massachusetts", "lat": 42.373, "lon": -71.11, "query": "Cambridge, Massachusetts"}
+{"id": "story-ariely-wertenbroch-deadlines-2002", "precision": "site", "place": "MIT, Cambridge, Massachusetts", "lat": 42.3601, "lon": -71.0942, "query": "Massachusetts Institute of Technology"}
+{"id": "story-flyvbjerg-cost-overruns-2002", "precision": "region", "place": "Denmark", "lat": null, "lon": null, "query": ""}
+{"id": "story-oettingen-mayer-fantasies-vs-expectations-2002", "precision": "region", "place": "Germany", "lat": null, "lon": null, "query": ""}
+{"id": "story-bertrand-schoar-managing-with-style-2003", "precision": "region", "place": "USA", "lat": null, "lon": null, "query": ""}
+{"id": "story-keltner-power-approach-inhibition-2003", "precision": "site", "place": "UC Berkeley", "lat": 37.8719, "lon": -122.2585, "query": "University of California, Berkeley"}
+{"id": "story-milliken-employee-silence-2003", "precision": "city", "place": "New York, USA", "lat": 40.713, "lon": -74.006, "query": "New York, New York"}
+{"id": "story-twenge-parenthood-satisfaction-meta-2003", "precision": "site", "place": "San Diego State University", "lat": 32.7757, "lon": -117.0719, "query": "San Diego State University"}
+{"id": "story-gable-capitalization-good-news-2004", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-judge-piccolo-transformational-meta-2004", "precision": "site", "place": "University of Florida, Gainesville", "lat": 29.6436, "lon": -82.3549, "query": "University of Florida"}
+{"id": "story-sapolsky-share-peaceful-baboons-2004", "precision": "region", "place": "Masai Mara, Kenya", "lat": null, "lon": null, "query": ""}
+{"id": "story-gardner-steinberg-peer-risk-2005", "precision": "site", "place": "Temple University, Philadelphia", "lat": 39.9812, "lon": -75.155, "query": "Temple University"}
+{"id": "story-malmendier-tate-ceo-overconfidence-2005", "precision": "region", "place": "USA", "lat": null, "lon": null, "query": ""}
+{"id": "story-todorov-faces-elections-2005", "precision": "site", "place": "Princeton University", "lat": 40.343, "lon": -74.6514, "query": "Princeton University"}
+{"id": "story-galinsky-power-e-forehead-2006", "precision": "site", "place": "Northwestern University, Evanston", "lat": 42.0565, "lon": -87.6753, "query": "Northwestern University"}
+{"id": "story-pronovost-icu-checklist-keystone-2006", "precision": "region", "place": "Michigan, USA", "lat": null, "lon": null, "query": ""}
+{"id": "story-sommers-diverse-juries-2006", "precision": "region", "place": "Michigan, USA", "lat": null, "lon": null, "query": ""}
+{"id": "story-bloom-van-reenen-management-practices-2007", "precision": "region", "place": "USA, UK, France and Germany", "lat": null, "lon": null, "query": ""}
+{"id": "story-hamlin-infant-helper-hinderer-2007", "precision": "site", "place": "Yale University, New Haven", "lat": 41.3163, "lon": -72.9223, "query": "Yale University"}
+{"id": "story-duke-fivush-do-you-know-2008", "precision": "site", "place": "Emory University, Atlanta", "lat": 33.7925, "lon": -84.324, "query": "Emory University"}
+{"id": "story-goldstein-hotel-towels-2008", "precision": "region", "place": "Arizona, USA", "lat": null, "lon": null, "query": ""}
+{"id": "story-ariely-large-stakes-big-mistakes-2009", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-wiltermuth-heath-synchrony-2009", "precision": "site", "place": "Stanford University", "lat": 37.4275, "lon": -122.1697, "query": "Stanford University"}
+{"id": "story-holt-lunstad-relationships-mortality-2010", "precision": "site", "place": "Brigham Young University, Provo", "lat": 40.2518, "lon": -111.6493, "query": "Brigham Young University"}
+{"id": "story-dunedin-self-control-2011", "precision": "city", "place": "Dunedin, New Zealand", "lat": -45.874, "lon": 170.504, "query": "Dunedin, New Zealand"}
+{"id": "story-piff-social-class-unethical-2012", "precision": "region", "place": "San Francisco Bay Area, USA", "lat": null, "lon": null, "query": ""}
+{"id": "story-kidd-rational-snacking-2013", "precision": "site", "place": "University of Rochester", "lat": 43.1288, "lon": -77.629, "query": "University of Rochester"}
+{"id": "story-epley-schroeder-strangers-train-2014", "precision": "city", "place": "Chicago, Illinois", "lat": 41.882, "lon": -87.628, "query": "Chicago, Illinois"}
+{"id": "story-sandstrom-dunn-weak-ties-2014", "precision": "site", "place": "University of British Columbia, Vancouver", "lat": 49.2606, "lon": -123.246, "query": "University of British Columbia"}
+{"id": "story-chetty-moving-to-opportunity-2016", "precision": "none", "place": "", "lat": null, "lon": null, "query": ""}
+{"id": "story-kumar-epley-gratitude-letters-2018", "precision": "site", "place": "University of Chicago", "lat": 41.7886, "lon": -87.5987, "query": "University of Chicago"}

@@ -10,5 +10,8 @@
   "year": 1972,
   "location": "University of Minnesota, Minneapolis, USA",
   "source": "Dion, K., Berscheid, E., and Walster, E. (1972). What is beautiful is good. Journal of Personality and Social Psychology, 24(3), 285-290.",
-  "basis": "study"
+  "basis": "study",
+  "place": "University of Minnesota, Minneapolis",
+  "lat": 44.974,
+  "lon": -93.2277
 }

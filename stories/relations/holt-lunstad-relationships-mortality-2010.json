@@ -11,5 +11,8 @@
   "location": "Brigham Young University, Provo, Utah, USA (meta-analysis of international studies)",
   "source": "Holt-Lunstad, J., Smith, T. B., and Layton, J. B. (2010). Social relationships and mortality risk: A meta-analytic review. PLoS Medicine, 7(7), e1000316.",
   "basis": "study",
-  "caveat": "The studies are observational, so the link shows association and cannot fully rule out that healthier people simply have more ties."
+  "caveat": "The studies are observational, so the link shows association and cannot fully rule out that healthier people simply have more ties.",
+  "place": "Brigham Young University, Provo",
+  "lat": 40.2518,
+  "lon": -111.6493
 }

@@ -10,5 +10,8 @@
   "year": 1718,
   "location": "Constantinople (Istanbul, Turkey) and London, UK",
   "source": "Lady Mary Wortley Montagu, Turkish Embassy Letters, letter to Sarah Chiswell (1 April 1717); Isobel Grundy, Lady Mary Wortley Montagu (1999)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Istanbul, Turkey",
+  "lat": 41.009,
+  "lon": 28.978
 }

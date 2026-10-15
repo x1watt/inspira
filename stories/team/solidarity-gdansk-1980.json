@@ -10,5 +10,8 @@
   "year": 1980,
   "location": "Lenin Shipyard, Gdansk, Poland",
   "source": "Gdansk Agreement (31 August 1980); Timothy Garton Ash, The Polish Revolution: Solidarity (1983)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Gdansk Shipyard, Poland",
+  "lat": 54.3606,
+  "lon": 18.6474
 }

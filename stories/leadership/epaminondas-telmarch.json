@@ -10,5 +10,8 @@
   "year": -370,
   "location": "Thebes, Boeotia (modern Greece)",
   "source": "Plutarch, Moralia, Precepts of Statecraft (Praecepta gerendae reipublicae), 811b",
-  "basis": "anecdote"
+  "basis": "anecdote",
+  "place": "Thebes, Greece",
+  "lat": 38.322,
+  "lon": 23.318
 }

@@ -10,5 +10,8 @@
   "year": 2002,
   "location": "University of Virginia, Charlottesville, USA",
   "source": "Hetherington, E. M., and Kelly, J. (2002). For Better or for Worse: Divorce Reconsidered. New York: W. W. Norton.",
-  "basis": "study"
+  "basis": "study",
+  "place": "The Rotunda, University of Virginia, Charlottesville, USA",
+  "lat": 38.0356,
+  "lon": -78.5034
 }

@@ -10,5 +10,8 @@
   "year": 1995,
   "location": "Carnegie Mellon University and University of Pittsburgh, Pittsburgh, USA",
   "source": "Liang, D. W., Moreland, R., and Argote, L. (1995). Group versus individual training and group performance: The mediating role of transactive memory. Personality and Social Psychology Bulletin, 21(4), 384-393.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Carnegie Mellon University, Pittsburgh",
+  "lat": 40.4433,
+  "lon": -79.9436
 }

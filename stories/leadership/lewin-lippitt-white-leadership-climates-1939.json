@@ -11,5 +11,8 @@
   "location": "University of Iowa, Iowa City, USA",
   "source": "Lewin, K., Lippitt, R., and White, R. K. (1939). Patterns of aggressive behavior in experimentally created 'social climates.' Journal of Social Psychology, 10(2), 271-299.",
   "basis": "study",
-  "caveat": "The groups were few and small, so the results are best read as a vivid early demonstration rather than a precise measurement."
+  "caveat": "The groups were few and small, so the results are best read as a vivid early demonstration rather than a precise measurement.",
+  "place": "University of Iowa, Iowa City, USA",
+  "lat": 41.6612,
+  "lon": -91.5349
 }

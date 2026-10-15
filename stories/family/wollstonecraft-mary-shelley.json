@@ -10,5 +10,8 @@
   "year": 1797,
   "location": "London, UK",
   "source": "William Godwin, Memoirs of the Author of A Vindication of the Rights of Woman (1798); Miranda Seymour, Mary Shelley (2000)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "London, UK",
+  "lat": 51.507,
+  "lon": -0.128
 }

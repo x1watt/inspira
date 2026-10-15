@@ -10,5 +10,8 @@
   "year": 2014,
   "location": "Chicago, USA",
   "source": "Epley, N., and Schroeder, J. (2014). Mistakenly seeking solitude. Journal of Experimental Psychology: General, 143(5), 1980-1999.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Chicago, Illinois",
+  "lat": 41.882,
+  "lon": -87.628
 }

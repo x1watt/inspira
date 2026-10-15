@@ -10,5 +10,8 @@
   "year": 1187,
   "location": "Horns of Hattin, near Tiberias (Israel)",
   "source": "Imad ad-Din al-Isfahani; Ibn al-Athir, The Complete History; the Old French Continuation of William of Tyre",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Horns of Hattin, Israel",
+  "lat": 32.7983,
+  "lon": 35.4417
 }

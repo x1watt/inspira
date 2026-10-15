@@ -11,5 +11,8 @@
   "location": "University of Salzburg, Salzburg, Austria",
   "source": "Wimmer, H., and Perner, J. (1983). Beliefs about beliefs: Representation and constraining function of wrong beliefs in young children's understanding of deception. Cognition, 13(1), 103-128.",
   "basis": "study",
-  "caveat": "Some later studies using nonverbal methods suggest that infants may grasp false beliefs earlier than verbal tests show, though these results have been hard to replicate."
+  "caveat": "Some later studies using nonverbal methods suggest that infants may grasp false beliefs earlier than verbal tests show, though these results have been hard to replicate.",
+  "place": "Salzburg, Austria",
+  "lat": 47.8,
+  "lon": 13.044
 }

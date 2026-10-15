@@ -11,5 +11,8 @@
   "location": "Russia (novel set at Fili near Moscow, 1812)",
   "source": "Leo Tolstoy, War and Peace, Volume III, Part 3, Chapters 3 to 4",
   "basis": "literature",
-  "caveat": "The council at Fili was a real event of September 1812, but Tolstoy's scene, including the child on the stove, is a novelist's dramatization."
+  "caveat": "The council at Fili was a real event of September 1812, but Tolstoy's scene, including the child on the stove, is a novelist's dramatization.",
+  "place": "Moscow, Russia",
+  "lat": 55.756,
+  "lon": 37.617
 }

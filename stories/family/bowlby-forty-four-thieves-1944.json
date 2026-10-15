@@ -11,5 +11,8 @@
   "location": "London Child Guidance Clinic, London, UK",
   "source": "Bowlby, J. (1944). Forty-four juvenile thieves: Their characters and home-life. International Journal of Psycho-Analysis, 25, 19-53 and 107-128.",
   "basis": "study",
-  "caveat": "The study relied on a small clinical sample and retrospective reports, so it showed an association rather than proving that separation caused the behavior."
+  "caveat": "The study relied on a small clinical sample and retrospective reports, so it showed an association rather than proving that separation caused the behavior.",
+  "place": "London, England",
+  "lat": 51.507,
+  "lon": -0.128
 }

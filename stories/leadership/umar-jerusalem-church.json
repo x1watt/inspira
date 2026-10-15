@@ -11,5 +11,8 @@
   "location": "Jerusalem",
   "source": "Eutychius (Said ibn Batriq), Annals",
   "basis": "anecdote",
-  "caveat": "The story is recorded about three centuries after the events and cannot be confirmed from contemporary sources."
+  "caveat": "The story is recorded about three centuries after the events and cannot be confirmed from contemporary sources.",
+  "place": "Church of the Holy Sepulchre, Jerusalem",
+  "lat": 31.7784,
+  "lon": 35.2296
 }

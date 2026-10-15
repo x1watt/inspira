@@ -11,5 +11,8 @@
   "location": "Indiana University, Bloomington, USA",
   "source": "Triplett, N. (1898). The dynamogenic factors in pacemaking and competition. American Journal of Psychology, 9(4), 507-533.",
   "basis": "study",
-  "caveat": "A modern statistical reanalysis of Triplett's data found the effect among the children weaker than textbooks often suggest."
+  "caveat": "A modern statistical reanalysis of Triplett's data found the effect among the children weaker than textbooks often suggest.",
+  "place": "Indiana University, Bloomington, Indiana",
+  "lat": 39.1682,
+  "lon": -86.523
 }

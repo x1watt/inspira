@@ -10,5 +10,8 @@
   "year": 1965,
   "location": "University of Michigan, Ann Arbor, USA",
   "source": "Zajonc, R. B. (1965). Social facilitation. Science, 149(3681), 269-274.",
-  "basis": "study"
+  "basis": "study",
+  "place": "University of Michigan, Ann Arbor, USA",
+  "lat": 42.278,
+  "lon": -83.7382
 }

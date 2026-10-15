@@ -11,5 +11,8 @@
   "location": "NASA Langley Research Center, Hampton, Virginia, USA",
   "source": "NASA oral history interviews with Katherine Johnson; Margot Lee Shetterly, Hidden Figures (2016)",
   "basis": "documented",
-  "caveat": "Glenn's exact words come from later recollections rather than contemporary records."
+  "caveat": "Glenn's exact words come from later recollections rather than contemporary records.",
+  "place": "NASA Langley Research Center, Hampton, Virginia, USA",
+  "lat": 37.0871,
+  "lon": -76.3811
 }

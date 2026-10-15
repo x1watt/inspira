@@ -10,5 +10,8 @@
   "year": 1973,
   "location": "Princeton Theological Seminary, Princeton, USA",
   "source": "Darley, J. M., and Batson, C. D. (1973). 'From Jerusalem to Jericho': A study of situational and dispositional variables in helping behavior. Journal of Personality and Social Psychology, 27(1), 100-108.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Princeton Theological Seminary",
+  "lat": 40.3447,
+  "lon": -74.66
 }

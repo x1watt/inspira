@@ -11,5 +11,8 @@
   "location": "Jerusalem",
   "source": "Imad ad-Din al-Isfahani; Ibn al-Athir, The Complete History; Old French Continuation of William of Tyre (Ernoul)",
   "basis": "documented",
-  "caveat": "The numbers freed without ransom, and enslaved, differ greatly between the Muslim and Christian chroniclers."
+  "caveat": "The numbers freed without ransom, and enslaved, differ greatly between the Muslim and Christian chroniclers.",
+  "place": "Jerusalem",
+  "lat": 31.778,
+  "lon": 35.235
 }

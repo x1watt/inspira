@@ -10,5 +10,8 @@
   "year": 1969,
   "location": "Robben Island, South Africa",
   "source": "The Prison Letters of Nelson Mandela, ed. Sahm Venter (2018)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Robben Island prison, South Africa",
+  "lat": -33.8066,
+  "lon": 18.3681
 }

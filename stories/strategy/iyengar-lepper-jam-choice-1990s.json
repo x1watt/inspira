@@ -11,5 +11,8 @@
   "location": "Draeger's supermarket, Menlo Park, California, USA",
   "source": "Iyengar, S. S., and Lepper, M. R. (2000). When choice is demotivating: Can one desire too much of a good thing? Journal of Personality and Social Psychology, 79(6), 995-1006.",
   "basis": "study",
-  "caveat": "A 2010 meta-analysis (Scheibehenne, Greifeneder and Todd) found the average choice overload effect near zero, so it appears only under specific conditions."
+  "caveat": "A 2010 meta-analysis (Scheibehenne, Greifeneder and Todd) found the average choice overload effect near zero, so it appears only under specific conditions.",
+  "place": "Menlo Park, California, USA",
+  "lat": 37.452,
+  "lon": -122.182
 }

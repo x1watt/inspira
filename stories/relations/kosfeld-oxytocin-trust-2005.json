@@ -11,5 +11,8 @@
   "location": "University of Zurich, Zurich, Switzerland",
   "source": "Kosfeld, M., Heinrichs, M., Zak, P. J., Fischbacher, U., and Fehr, E. (2005). Oxytocin increases trust in humans. Nature, 435, 673-676.",
   "basis": "study",
-  "caveat": "Later replications largely failed to reproduce the effect of oxytocin on trust, so the original result is doubtful."
+  "caveat": "Later replications largely failed to reproduce the effect of oxytocin on trust, so the original result is doubtful.",
+  "place": "University of Zurich, Switzerland",
+  "lat": 47.3744,
+  "lon": 8.5486
 }

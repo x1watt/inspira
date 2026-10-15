@@ -11,5 +11,8 @@
   "location": "Nagoya and Kariya, Aichi, Japan",
   "source": "Toyota Motor Corporation, Toyota: A History of the First 50 Years (1988); Toyota 75 Years history",
   "basis": "documented",
-  "caveat": "Sakichi's exact words to Kiichiro come from company tradition, and the share of patent money used for cars is debated."
+  "caveat": "Sakichi's exact words to Kiichiro come from company tradition, and the share of patent money used for cars is debated.",
+  "place": "Nagoya, Japan",
+  "lat": 35.181,
+  "lon": 136.906
 }

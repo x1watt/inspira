@@ -10,5 +10,8 @@
   "year": 1953,
   "location": "Wembley Stadium, London, United Kingdom",
   "source": "Contemporary match reports; Jonathan Wilson, Inverting the Pyramid (2008)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Wembley Stadium, London, UK",
+  "lat": 51.556,
+  "lon": -0.2795
 }

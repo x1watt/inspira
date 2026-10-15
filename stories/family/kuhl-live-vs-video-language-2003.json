@@ -10,5 +10,8 @@
   "year": 2003,
   "location": "University of Washington, Seattle, USA",
   "source": "Kuhl, P. K., Tsao, F.-M., and Liu, H.-M. (2003). Foreign-language experience in infancy: Effects of short-term exposure and social interaction on phonetic learning. Proceedings of the National Academy of Sciences, 100(15), 9096-9101.",
-  "basis": "study"
+  "basis": "study",
+  "place": "University of Washington, Seattle, USA",
+  "lat": 47.6553,
+  "lon": -122.3035
 }

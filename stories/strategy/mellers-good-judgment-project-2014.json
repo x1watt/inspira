@@ -10,5 +10,8 @@
   "year": 2014,
   "location": "University of Pennsylvania, Philadelphia, USA",
   "source": "Mellers, B., Ungar, L., Baron, J., et al. (2014). Psychological strategies for winning a geopolitical forecasting tournament. Psychological Science, 25(5), 1106-1115.",
-  "basis": "study"
+  "basis": "study",
+  "place": "University of Pennsylvania, Philadelphia, USA",
+  "lat": 39.9512,
+  "lon": -75.1932
 }

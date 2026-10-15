@@ -10,5 +10,8 @@
   "year": -600,
   "location": "Ancient Greece (Eleusis)",
   "source": "Homeric Hymn to Demeter",
-  "basis": "literature"
+  "basis": "literature",
+  "place": "Sanctuary of Demeter, Eleusis, Greece",
+  "lat": 38.0412,
+  "lon": 23.5395
 }

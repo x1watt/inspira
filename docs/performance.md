@@ -40,3 +40,7 @@ method next to each number.
    write, so a swipe never encodes the seen list.
 10. Animations on feed pages run once (slow zoom 25 s, confetti 2.6 s,
     XP and heart bursts under 1.2 s); nothing repeats forever.
+11. Map: markers and the closest list are recomputed by a linear scan of
+    about 2000 places (well under a millisecond), debounced 200 ms after
+    the map moves, never per frame. At most 200 markers are built.
+    `PlaceIndex` is built once, on the first map open.

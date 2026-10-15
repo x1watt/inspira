@@ -11,5 +11,8 @@
   "location": "Vienna, Austria, and Pest (modern Budapest, Hungary)",
   "source": "Ignaz Semmelweis, The Etiology, Concept and Prophylaxis of Childbed Fever (1861); Sherwin B. Nuland, The Doctors' Plague (2003)",
   "basis": "documented",
-  "caveat": "Historians note that his rejection had several causes, including the lack of a theory to explain his results, so his abrasiveness was only part of the story."
+  "caveat": "Historians note that his rejection had several causes, including the lack of a theory to explain his results, so his abrasiveness was only part of the story.",
+  "place": "Vienna, Austria",
+  "lat": 48.208,
+  "lon": 16.373
 }

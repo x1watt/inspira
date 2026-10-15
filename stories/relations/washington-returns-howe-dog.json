@@ -10,5 +10,8 @@
   "year": 1777,
   "location": "Near Germantown, Pennsylvania, USA",
   "source": "George Washington to William Howe, October 6, 1777, The Papers of George Washington, Revolutionary War Series, vol. 11",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Germantown, Philadelphia, Pennsylvania, USA",
+  "lat": 40.036,
+  "lon": -75.173
 }

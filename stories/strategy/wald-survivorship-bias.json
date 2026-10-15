@@ -11,5 +11,8 @@
   "location": "Columbia University, New York (USA)",
   "source": "Abraham Wald, A Method of Estimating Plane Vulnerability Based on Damage of Survivors (Statistical Research Group memoranda, 1943; reprinted by the Center for Naval Analyses, 1980); Marc Mangel and Francisco Samaniego (1984), Journal of the American Statistical Association, 79(386)",
   "basis": "documented",
-  "caveat": "The popular story of officers wanting to armor the holes is a simplification; Wald's work was a statistical method rather than a single dramatic recommendation."
+  "caveat": "The popular story of officers wanting to armor the holes is a simplification; Wald's work was a statistical method rather than a single dramatic recommendation.",
+  "place": "Columbia University, New York, USA",
+  "lat": 40.8075,
+  "lon": -73.9626
 }

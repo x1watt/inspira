@@ -10,5 +10,8 @@
   "year": 1943,
   "location": "Burbank, California, USA",
   "source": "Kelly Johnson with Maggie Smith, Kelly: More Than My Share of It All (1985); Ben Rich and Leo Janos, Skunk Works (1994)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Burbank, California, USA",
+  "lat": 34.181,
+  "lon": -118.309
 }

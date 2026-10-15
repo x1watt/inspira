@@ -11,5 +11,8 @@
   "location": "Mumbai, India",
   "source": "Studies of the dabbawala system, e.g. Stefan Thomke, 'Mumbai's Models of Service Excellence', Harvard Business Review (November 2012)",
   "basis": "documented",
-  "caveat": "The widely repeated claim of 'six sigma' accuracy (one error in millions) comes from a 1998 Forbes report and was never rigorously measured."
+  "caveat": "The widely repeated claim of 'six sigma' accuracy (one error in millions) comes from a 1998 Forbes report and was never rigorously measured.",
+  "place": "Mumbai, India",
+  "lat": 18.975,
+  "lon": 72.826
 }

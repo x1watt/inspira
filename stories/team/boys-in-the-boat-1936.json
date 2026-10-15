@@ -10,5 +10,8 @@
   "year": 1936,
   "location": "Grunau regatta course, Berlin, Germany",
   "source": "Daniel James Brown, The Boys in the Boat (2013); official report of the 1936 Olympic Games",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Berlin, Germany",
+  "lat": 52.52,
+  "lon": 13.405
 }

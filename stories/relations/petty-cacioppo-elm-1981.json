@@ -10,5 +10,8 @@
   "year": 1981,
   "location": "University of Missouri, Columbia, USA",
   "source": "Petty, R. E., Cacioppo, J. T., and Goldman, R. (1981). Personal involvement as a determinant of argument-based persuasion. Journal of Personality and Social Psychology, 41(5), 847-855.",
-  "basis": "study"
+  "basis": "study",
+  "place": "University of Missouri, Columbia, USA",
+  "lat": 38.944,
+  "lon": -92.3265
 }

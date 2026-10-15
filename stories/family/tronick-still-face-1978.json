@@ -10,5 +10,8 @@
   "year": 1978,
   "location": "Children's Hospital Medical Center and Harvard Medical School, Boston, USA",
   "source": "Tronick, E., Als, H., Adamson, L., Wise, S., and Brazelton, T. B. (1978). The infant's response to entrapment between contradictory messages in face-to-face interaction. Journal of the American Academy of Child Psychiatry, 17(1), 1-13.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Harvard Medical School, Boston, USA",
+  "lat": 42.3361,
+  "lon": -71.1036
 }

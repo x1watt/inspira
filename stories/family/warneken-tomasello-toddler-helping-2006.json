@@ -10,5 +10,8 @@
   "year": 2006,
   "location": "Max Planck Institute for Evolutionary Anthropology, Leipzig, Germany",
   "source": "Warneken, F., and Tomasello, M. (2006). Altruistic helping in human infants and young chimpanzees. Science, 311(5765), 1301-1303.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Max Planck Institute for Evolutionary Anthropology, Leipzig, Germany",
+  "lat": 51.32,
+  "lon": 12.397
 }

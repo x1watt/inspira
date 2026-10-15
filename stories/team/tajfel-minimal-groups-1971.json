@@ -10,5 +10,8 @@
   "year": 1971,
   "location": "University of Bristol, Bristol, UK",
   "source": "Tajfel, H., Billig, M. G., Bundy, R. P., and Flament, C. (1971). Social categorization and intergroup behaviour. European Journal of Social Psychology, 1(2), 149-178.",
-  "basis": "study"
+  "basis": "study",
+  "place": "University of Bristol, Wills Memorial Building, UK",
+  "lat": 51.4585,
+  "lon": -2.604
 }

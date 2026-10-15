@@ -11,5 +11,8 @@
   "location": "Thermopylae, Greece",
   "source": "Herodotus, Histories, Book 7, chapters 201 to 228",
   "basis": "documented",
-  "caveat": "Herodotus's figures for the Persian army are impossibly large, and his account of the Thebans' role is disputed."
+  "caveat": "Herodotus's figures for the Persian army are impossibly large, and his account of the Thebans' role is disputed.",
+  "place": "Thermopylae pass, Greece",
+  "lat": 38.7967,
+  "lon": 22.5368
 }

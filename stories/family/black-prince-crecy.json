@@ -11,5 +11,8 @@
   "location": "Crecy-en-Ponthieu, France",
   "source": "Jean Froissart, Chronicles, book 1",
   "basis": "anecdote",
-  "caveat": "Froissart wrote years later and dramatized his battle scenes, so the exact words are uncertain."
+  "caveat": "Froissart wrote years later and dramatized his battle scenes, so the exact words are uncertain.",
+  "place": "Crecy-en-Ponthieu, France",
+  "lat": 50.253,
+  "lon": 1.882
 }

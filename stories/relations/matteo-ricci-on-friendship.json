@@ -10,5 +10,8 @@
   "year": 1595,
   "location": "Nanchang, Jiangxi, China",
   "source": "Matteo Ricci, Jiaoyou lun (Treatise on Friendship, 1595); Timothy Billings, trans., On Friendship: One Hundred Maxims for a Chinese Prince (2009)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Nanchang, China",
+  "lat": 28.682,
+  "lon": 115.858
 }

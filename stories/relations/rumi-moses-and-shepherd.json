@@ -10,5 +10,8 @@
   "year": 1260,
   "location": "Konya, Seljuk Anatolia (modern Turkey)",
   "source": "Jalal al-Din Rumi, Masnavi, Book II",
-  "basis": "parable"
+  "basis": "parable",
+  "place": "Konya, Turkey",
+  "lat": 37.872,
+  "lon": 32.493
 }

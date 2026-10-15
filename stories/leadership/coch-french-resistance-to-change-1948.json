@@ -10,5 +10,8 @@
   "year": 1948,
   "location": "Harwood Manufacturing Corporation, Marion, Virginia, USA",
   "source": "Coch, L., and French, J. R. P. (1948). Overcoming resistance to change. Human Relations, 1(4), 512-532.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Marion, Virginia",
+  "lat": 36.835,
+  "lon": -81.513
 }

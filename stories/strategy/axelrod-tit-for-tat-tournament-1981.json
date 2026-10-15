@@ -11,5 +11,8 @@
   "location": "University of Michigan, Ann Arbor, USA",
   "source": "Axelrod, R., and Hamilton, W. D. (1981). The evolution of cooperation. Science, 211(4489), 1390-1396. Tournaments reported in Axelrod, R. (1980). Effective choice in the prisoner's dilemma. Journal of Conflict Resolution, 24(1), 3-25.",
   "basis": "study",
-  "caveat": "Later simulations with noise and errors found that more forgiving variants (such as Generous Tit for Tat) can do better than strict Tit for Tat."
+  "caveat": "Later simulations with noise and errors found that more forgiving variants (such as Generous Tit for Tat) can do better than strict Tit for Tat.",
+  "place": "University of Michigan, Ann Arbor",
+  "lat": 42.278,
+  "lon": -83.7382
 }

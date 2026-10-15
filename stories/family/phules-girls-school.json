@@ -11,5 +11,8 @@
   "location": "Pune, Maharashtra, India",
   "source": "Rosalind O'Hanlon, Caste, Conflict and Ideology (1985); Jyotirao Phule's writings",
   "basis": "documented",
-  "caveat": "Some details, such as the stones and the second sari, come from later biographies and tradition."
+  "caveat": "Some details, such as the stones and the second sari, come from later biographies and tradition.",
+  "place": "Pune, Maharashtra, India",
+  "lat": 18.52,
+  "lon": 73.857
 }

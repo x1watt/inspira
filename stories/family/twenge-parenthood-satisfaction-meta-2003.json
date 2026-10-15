@@ -10,5 +10,8 @@
   "year": 2003,
   "location": "San Diego State University, San Diego, USA",
   "source": "Twenge, J. M., Campbell, W. K., and Foster, C. A. (2003). Parenthood and marital satisfaction: A meta-analytic review. Journal of Marriage and Family, 65(3), 574-583.",
-  "basis": "study"
+  "basis": "study",
+  "place": "San Diego State University",
+  "lat": 32.7757,
+  "lon": -117.0719
 }

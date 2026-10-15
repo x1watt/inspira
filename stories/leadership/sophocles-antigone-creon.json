@@ -10,5 +10,8 @@
   "year": -441,
   "location": "Athens, Greece (play set in Thebes)",
   "source": "Sophocles, Antigone",
-  "basis": "literature"
+  "basis": "literature",
+  "place": "Thebes, Greece",
+  "lat": 38.322,
+  "lon": 23.318
 }

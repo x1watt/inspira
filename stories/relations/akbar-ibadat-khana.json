@@ -10,5 +10,8 @@
   "year": 1575,
   "location": "Fatehpur Sikri, Uttar Pradesh, India",
   "source": "Abul Fazl, Akbarnama; Abd al-Qadir Badauni, Muntakhab-ut-Tawarikh",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Fatehpur Sikri, Uttar Pradesh, India",
+  "lat": 27.094,
+  "lon": 77.6679
 }

@@ -10,5 +10,8 @@
   "year": 1854,
   "location": "Balaclava, Crimea (Ukraine)",
   "source": "Cecil Woodham-Smith, The Reason Why (1953); contemporary accounts including William Howard Russell's dispatches to The Times",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Balaklava, Crimea",
+  "lat": 44.51,
+  "lon": 33.601
 }

@@ -10,5 +10,8 @@
   "year": 1915,
   "location": "Anzac Cove, Suvla Bay and Cape Helles, Gallipoli peninsula, Turkey",
   "source": "C. E. W. Bean, The Official History of Australia in the War of 1914 to 1918, vol. 2 (1924)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Anzac Cove, Gallipoli, Turkey",
+  "lat": 40.2478,
+  "lon": 26.2833
 }

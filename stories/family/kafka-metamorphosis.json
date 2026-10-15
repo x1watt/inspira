@@ -10,5 +10,8 @@
   "year": 1915,
   "location": "Prague (Austria-Hungary, modern Czech Republic)",
   "source": "Franz Kafka, The Metamorphosis (Die Verwandlung), 1915",
-  "basis": "literature"
+  "basis": "literature",
+  "place": "Prague, Czech Republic",
+  "lat": 50.088,
+  "lon": 14.421
 }

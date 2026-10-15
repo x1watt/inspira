@@ -11,5 +11,8 @@
   "location": "Duke University, Durham, North Carolina, USA",
   "source": "Huber, J., Payne, J. W., and Puto, C. (1982). Adding asymmetrically dominated alternatives: Violations of regularity and the similarity hypothesis. Journal of Consumer Research, 9(1), 90-98.",
   "basis": "study",
-  "caveat": "Later studies (for example Frederick, Lee and Baskin, 2014) found the effect weaker or absent when options are presented perceptually rather than as numeric attributes."
+  "caveat": "Later studies (for example Frederick, Lee and Baskin, 2014) found the effect weaker or absent when options are presented perceptually rather than as numeric attributes.",
+  "place": "Duke University, Durham, North Carolina, USA",
+  "lat": 36.0014,
+  "lon": -78.9382
 }

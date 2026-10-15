@@ -11,5 +11,8 @@
   "location": "University of California, Los Angeles, USA",
   "source": "Eisenberger, N. I., Lieberman, M. D., and Williams, K. D. (2003). Does rejection hurt? An fMRI study of social exclusion. Science, 302(5643), 290-292.",
   "basis": "study",
-  "caveat": "The brain imaging study was small, and the claim that social pain and physical pain share the same brain systems is debated, though the distress caused by exclusion is well replicated."
+  "caveat": "The brain imaging study was small, and the claim that social pain and physical pain share the same brain systems is debated, though the distress caused by exclusion is well replicated.",
+  "place": "UCLA, Los Angeles, USA",
+  "lat": 34.0689,
+  "lon": -118.4452
 }

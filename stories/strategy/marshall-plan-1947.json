@@ -11,5 +11,8 @@
   "location": "Washington, DC (USA) and Western Europe",
   "source": "George C. Marshall, Harvard commencement address (5 June 1947); Benn Steil, The Marshall Plan (2018)",
   "basis": "documented",
-  "caveat": "Economists debate how much of Europe's recovery was due to the aid itself rather than to policy reforms and cooperation it encouraged."
+  "caveat": "Economists debate how much of Europe's recovery was due to the aid itself rather than to policy reforms and cooperation it encouraged.",
+  "place": "Washington, D.C.",
+  "lat": 38.907,
+  "lon": -77.037
 }

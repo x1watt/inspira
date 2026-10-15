@@ -10,5 +10,8 @@
   "year": 1977,
   "location": "Jerusalem (Israel) and Camp David, Maryland (USA)",
   "source": "Sadat's speech to the Knesset (20 November 1977); Jimmy Carter, Keeping Faith (1982); Lawrence Wright, Thirteen Days in September (2014)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Knesset, Jerusalem, Israel",
+  "lat": 31.7766,
+  "lon": 35.2054
 }

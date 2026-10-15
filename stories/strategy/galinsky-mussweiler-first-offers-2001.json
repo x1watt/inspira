@@ -10,5 +10,8 @@
   "year": 2001,
   "location": "Northwestern University, Evanston, USA",
   "source": "Galinsky, A. D., and Mussweiler, T. (2001). First offers as anchors: The role of perspective-taking and negotiator focus. Journal of Personality and Social Psychology, 81(4), 657-669.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Northwestern University, Evanston, Illinois, USA",
+  "lat": 42.0565,
+  "lon": -87.6753
 }

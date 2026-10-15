@@ -11,5 +11,8 @@
   "location": "Western Electric Hawthorne Works, Cicero, Illinois, USA",
   "source": "Roethlisberger, F. J., and Dickson, W. J. (1939). Management and the Worker. Harvard University Press.",
   "basis": "study",
-  "caveat": "Reanalysis of the surviving lighting data by Steven Levitt and John List (2011) found the famous effect much weaker than the legend, and the relay room results had other explanations."
+  "caveat": "Reanalysis of the surviving lighting data by Steven Levitt and John List (2011) found the famous effect much weaker than the legend, and the relay room results had other explanations.",
+  "place": "Cicero, Illinois, USA",
+  "lat": 41.846,
+  "lon": -87.754
 }

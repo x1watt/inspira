@@ -10,5 +10,8 @@
   "year": 1958,
   "location": "Harlem, New York City, USA",
   "source": "Martin Luther King Jr., statement of September 1958, The Papers of Martin Luther King, Jr., vol. 4; King, speech \"I've Been to the Mountaintop\" (April 3, 1968)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Harlem, New York City, USA",
+  "lat": 40.812,
+  "lon": -73.946
 }

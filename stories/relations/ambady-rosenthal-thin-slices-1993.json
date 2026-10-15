@@ -11,5 +11,8 @@
   "location": "Harvard University, Cambridge, USA",
   "source": "Ambady, N., and Rosenthal, R. (1993). Half a minute: Predicting teacher evaluations from thin slices of nonverbal behavior and physical attractiveness. Journal of Personality and Social Psychology, 64(3), 431-441.",
   "basis": "study",
-  "caveat": "The samples of teachers were small, and student evaluations themselves reflect impressions more than how much students learn."
+  "caveat": "The samples of teachers were small, and student evaluations themselves reflect impressions more than how much students learn.",
+  "place": "Harvard Yard, Cambridge, Massachusetts, USA",
+  "lat": 42.3744,
+  "lon": -71.1169
 }

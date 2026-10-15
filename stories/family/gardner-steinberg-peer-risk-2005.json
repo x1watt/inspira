@@ -10,5 +10,8 @@
   "year": 2005,
   "location": "Temple University, Philadelphia, USA",
   "source": "Gardner, M., and Steinberg, L. (2005). Peer influence on risk taking, risk preference, and risky decision making in adolescence and adulthood: An experimental study. Developmental Psychology, 41(4), 625-635.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Temple University, Philadelphia",
+  "lat": 39.9812,
+  "lon": -75.155
 }

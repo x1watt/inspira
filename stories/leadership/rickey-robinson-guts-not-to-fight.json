@@ -10,5 +10,8 @@
   "year": 1945,
   "location": "Brooklyn, New York, USA",
   "source": "Jackie Robinson, I Never Had It Made (1972); Branch Rickey's accounts",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Brooklyn, New York, USA",
+  "lat": 40.693,
+  "lon": -73.99
 }

@@ -10,5 +10,8 @@
   "year": 630,
   "location": "Medina, Arabia (modern Saudi Arabia)",
   "source": "Sahih al-Bukhari, Book of the Prophets (hadith 3467); the parallel story of a man is in the Book of Distribution of Water",
-  "basis": "parable"
+  "basis": "parable",
+  "place": "Medina, Saudi Arabia",
+  "lat": 24.468,
+  "lon": 39.614
 }

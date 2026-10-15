@@ -10,5 +10,8 @@
   "year": 1957,
   "location": "Mountain View, California, USA",
   "source": "Leslie Berlin, The Man Behind the Microchip (2005); Michael Riordan and Lillian Hoddeson, Crystal Fire (1997)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Mountain View, California, USA",
+  "lat": 37.386,
+  "lon": -122.084
 }

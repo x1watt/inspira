@@ -11,5 +11,8 @@
   "location": "Carnegie Mellon University, Pittsburgh, and MIT, Cambridge, USA",
   "source": "Woolley, A. W., Chabris, C. F., Pentland, A., Hashmi, N., and Malone, T. W. (2010). Evidence for a collective intelligence factor in the performance of human groups. Science, 330(6004), 686-688.",
   "basis": "study",
-  "caveat": "Later reanalyses and studies have debated how strong and general the collective intelligence factor is."
+  "caveat": "Later reanalyses and studies have debated how strong and general the collective intelligence factor is.",
+  "place": "Carnegie Mellon University, Pittsburgh, USA",
+  "lat": 40.4433,
+  "lon": -79.9436
 }

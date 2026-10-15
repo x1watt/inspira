@@ -11,5 +11,8 @@
   "location": "Carnegie Mellon University, Pittsburgh, USA",
   "source": "Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation. Journal of Personality and Social Psychology, 18(1), 105-115.",
   "basis": "study",
-  "caveat": "The undermining effect has held up in meta-analyses for expected, task-contingent rewards, but it is weaker or absent for unexpected rewards and for dull tasks."
+  "caveat": "The undermining effect has held up in meta-analyses for expected, task-contingent rewards, but it is weaker or absent for unexpected rewards and for dull tasks.",
+  "place": "Carnegie Mellon University, Pittsburgh",
+  "lat": 40.4433,
+  "lon": -79.9436
 }

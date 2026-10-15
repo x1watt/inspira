@@ -10,5 +10,8 @@
   "year": 2010,
   "location": "Massachusetts Institute of Technology, Cambridge, USA (online experiment)",
   "source": "Centola, D. (2010). The spread of behavior in an online social network experiment. Science, 329(5996), 1194-1197.",
-  "basis": "study"
+  "basis": "study",
+  "place": "MIT, Cambridge, Massachusetts, USA",
+  "lat": 42.3601,
+  "lon": -71.0942
 }

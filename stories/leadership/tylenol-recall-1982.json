@@ -10,5 +10,8 @@
   "year": 1982,
   "location": "Chicago area and nationwide, USA",
   "source": "Contemporary press coverage; Harvard Business School case studies on the Tylenol crisis",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Chicago, Illinois, USA",
+  "lat": 41.878,
+  "lon": -87.629
 }

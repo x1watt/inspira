@@ -10,5 +10,8 @@
   "year": -279,
   "location": "Handan, State of Zhao (modern Hebei, China)",
   "source": "Sima Qian, Records of the Grand Historian (Shiji), chapter 81, Biographies of Lian Po and Lin Xiangru",
-  "basis": "anecdote"
+  "basis": "anecdote",
+  "place": "Handan, Hebei, China",
+  "lat": 36.625,
+  "lon": 114.539
 }

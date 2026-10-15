@@ -11,5 +11,8 @@
   "location": "South San Francisco, California, USA",
   "source": "Rosenthal, R., and Jacobson, L. (1968). Pygmalion in the Classroom: Teacher Expectation and Pupils' Intellectual Development. Holt, Rinehart and Winston.",
   "basis": "study",
-  "caveat": "The study was sharply criticized for its methods, and later research suggests teacher expectation effects on IQ are real but usually small."
+  "caveat": "The study was sharply criticized for its methods, and later research suggests teacher expectation effects on IQ are real but usually small.",
+  "place": "South San Francisco, California, USA",
+  "lat": 37.655,
+  "lon": -122.408
 }

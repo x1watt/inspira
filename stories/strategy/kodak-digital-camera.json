@@ -11,5 +11,8 @@
   "location": "Rochester, New York (USA)",
   "source": "Steve Sasson's interviews and accounts (for example, New York Times, 2015); business histories of Eastman Kodak",
   "basis": "documented",
-  "caveat": "The popular version that Kodak simply buried the invention is oversimplified: the company invested in digital but failed to rebuild its business model around it."
+  "caveat": "The popular version that Kodak simply buried the invention is oversimplified: the company invested in digital but failed to rebuild its business model around it.",
+  "place": "Rochester, New York, USA",
+  "lat": 43.157,
+  "lon": -77.609
 }

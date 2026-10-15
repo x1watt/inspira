@@ -10,5 +10,8 @@
   "year": 2005,
   "location": "Carnegie Mellon University, Pittsburgh, USA",
   "source": "Cain, D. M., Loewenstein, G., and Moore, D. A. (2005). The dirt on coming clean: Perverse effects of disclosing conflicts of interest. Journal of Legal Studies, 34(1), 1-25.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Carnegie Mellon University, Pittsburgh, USA",
+  "lat": 40.4433,
+  "lon": -79.9436
 }

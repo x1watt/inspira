@@ -10,5 +10,8 @@
   "year": 1993,
   "location": "Princeton University, Princeton, USA",
   "source": "Prentice, D. A., and Miller, D. T. (1993). Pluralistic ignorance and alcohol use on campus: Some consequences of misperceiving the social norm. Journal of Personality and Social Psychology, 64(2), 243-256.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Princeton University, New Jersey, USA",
+  "lat": 40.3487,
+  "lon": -74.6593
 }

@@ -10,5 +10,8 @@
   "year": 1853,
   "location": "Dusseldorf, Germany",
   "source": "Robert Schumann, \"Neue Bahnen,\" Neue Zeitschrift fur Musik, October 28, 1853; Robert Schumann's household diaries",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Dusseldorf, Germany",
+  "lat": 51.228,
+  "lon": 6.774
 }

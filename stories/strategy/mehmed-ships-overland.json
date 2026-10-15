@@ -11,5 +11,8 @@
   "location": "Constantinople (modern Istanbul, Turkey)",
   "source": "Kritovoulos, History of Mehmed the Conqueror; Nicolo Barbaro, Diary of the Siege of Constantinople",
   "basis": "documented",
-  "caveat": "The number of ships carried over is given differently in the sources, roughly between seventy and eighty."
+  "caveat": "The number of ships carried over is given differently in the sources, roughly between seventy and eighty.",
+  "place": "Istanbul, Turkey",
+  "lat": 41.008,
+  "lon": 28.978
 }

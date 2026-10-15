@@ -11,5 +11,8 @@
   "location": "Geneva, Switzerland",
   "source": "Piaget, J., and Szeminska, A. (1941). La genese du nombre chez l'enfant. Neuchatel: Delachaux et Niestle. English translation: The Child's Conception of Number (1952).",
   "basis": "study",
-  "caveat": "Later researchers found that young children often succeed when the task is made more natural or the questions less confusing, so Piaget probably underestimated what they can understand."
+  "caveat": "Later researchers found that young children often succeed when the task is made more natural or the questions less confusing, so Piaget probably underestimated what they can understand.",
+  "place": "Geneva, Switzerland",
+  "lat": 46.204,
+  "lon": 6.143
 }

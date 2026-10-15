@@ -10,5 +10,8 @@
   "year": 1950,
   "location": "Massachusetts Institute of Technology, Cambridge, USA",
   "source": "Kelley, H. H. (1950). The warm-cold variable in first impressions of persons. Journal of Personality, 18(4), 431-439.",
-  "basis": "study"
+  "basis": "study",
+  "place": "MIT, Cambridge, Massachusetts",
+  "lat": 42.3601,
+  "lon": -71.0942
 }

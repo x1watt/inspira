@@ -11,5 +11,8 @@
   "location": "Bing Nursery School, Stanford University, Stanford, USA",
   "source": "Mischel, W., Shoda, Y., and Rodriguez, M. L. (1989). Delay of gratification in children. Science, 244(4907), 933-938.",
   "basis": "study",
-  "caveat": "The follow-up samples were small, and a 2018 replication found the link between waiting time and later achievement much weaker after controlling for family background."
+  "caveat": "The follow-up samples were small, and a 2018 replication found the link between waiting time and later achievement much weaker after controlling for family background.",
+  "place": "Stanford University Main Quad, USA",
+  "lat": 37.4275,
+  "lon": -122.1697
 }

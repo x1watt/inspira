@@ -11,5 +11,8 @@
   "location": "Stanford University, Stanford, USA",
   "source": "Wiltermuth, S. S., and Heath, C. (2009). Synchrony and cooperation. Psychological Science, 20(1), 1-5.",
   "basis": "study",
-  "caveat": "Later research suggests the effect of synchrony on cooperation is real but smaller and less consistent than this first study implied."
+  "caveat": "Later research suggests the effect of synchrony on cooperation is real but smaller and less consistent than this first study implied.",
+  "place": "Stanford University",
+  "lat": 37.4275,
+  "lon": -122.1697
 }

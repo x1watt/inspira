@@ -11,5 +11,8 @@
   "location": "Utrecht University, Utrecht, Netherlands",
   "source": "Stroebe, M., and Schut, H. (1999). The dual process model of coping with bereavement: Rationale and description. Death Studies, 23(3), 197-224.",
   "basis": "study",
-  "caveat": "This is a theoretical model built on earlier research rather than a single experiment, and evidence testing it directly is still limited."
+  "caveat": "This is a theoretical model built on earlier research rather than a single experiment, and evidence testing it directly is still limited.",
+  "place": "Utrecht University, Netherlands",
+  "lat": 52.0909,
+  "lon": 5.1236
 }

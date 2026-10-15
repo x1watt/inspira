@@ -10,5 +10,8 @@
   "year": -20,
   "location": "Jerusalem, Judea (modern Israel)",
   "source": "Babylonian Talmud, Shabbat 30b to 31a",
-  "basis": "parable"
+  "basis": "parable",
+  "place": "Jerusalem, Israel",
+  "lat": 31.778,
+  "lon": 35.235
 }

@@ -10,5 +10,8 @@
   "year": 1886,
   "location": "Moscow, Russia",
   "source": "Anton Chekhov, Vanka, 1886",
-  "basis": "literature"
+  "basis": "literature",
+  "place": "Moscow, Russia",
+  "lat": 55.756,
+  "lon": 37.617
 }

@@ -10,5 +10,8 @@
   "year": 1519,
   "location": "Augsburg and Frankfurt (Germany)",
   "source": "Jakob Fugger, letter to Charles V (April 1523); Greg Steinmetz, The Richest Man Who Ever Lived (2015)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Augsburg, Germany",
+  "lat": 48.371,
+  "lon": 10.898
 }

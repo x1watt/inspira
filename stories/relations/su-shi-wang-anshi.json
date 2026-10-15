@@ -11,5 +11,8 @@
   "location": "Jinling (modern Nanjing, Jiangsu, China)",
   "source": "Su Shi, poems written in reply to Wang Anshi at Jinling (1084); Song period anecdotal accounts",
   "basis": "anecdote",
-  "caveat": "Some anecdotes about their meeting, including the warmth of their words, come from later collections and may be embellished."
+  "caveat": "Some anecdotes about their meeting, including the warmth of their words, come from later collections and may be embellished.",
+  "place": "Nanjing, Jiangsu, China",
+  "lat": 32.06,
+  "lon": 118.797
 }

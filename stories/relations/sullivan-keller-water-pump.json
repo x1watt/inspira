@@ -10,5 +10,8 @@
   "year": 1887,
   "location": "Tuscumbia, Alabama, USA",
   "source": "Helen Keller, The Story of My Life (1903), chapter 4, with Anne Sullivan's letters",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Tuscumbia, Alabama, USA",
+  "lat": 34.731,
+  "lon": -87.703
 }

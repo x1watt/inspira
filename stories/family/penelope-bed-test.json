@@ -10,5 +10,8 @@
   "year": -725,
   "location": "Ithaca, Greece",
   "source": "Homer, Odyssey, Book 23",
-  "basis": "literature"
+  "basis": "literature",
+  "place": "Ithaca (Vathy), Greece",
+  "lat": 38.368,
+  "lon": 20.717
 }

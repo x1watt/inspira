@@ -10,5 +10,8 @@
   "year": 1550,
   "location": "Valladolid, Spain",
   "source": "Bartolome de las Casas, Apologia (In Defense of the Indians); Domingo de Soto, summary of the disputation (1552)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Valladolid, Spain",
+  "lat": 41.652,
+  "lon": -4.728
 }

@@ -10,5 +10,8 @@
   "year": -750,
   "location": "Greek camp at Troy (modern Turkey)",
   "source": "Homer, Iliad, Book 24",
-  "basis": "literature"
+  "basis": "literature",
+  "place": "Troy archaeological site, Turkey",
+  "lat": 39.9575,
+  "lon": 26.239
 }

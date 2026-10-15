@@ -10,5 +10,8 @@
   "year": 2008,
   "location": "Cambridge, Massachusetts, USA",
   "source": "Ariely, D., Kamenica, E., and Prelec, D. (2008). Man's search for meaning: The case of Legos. Journal of Economic Behavior and Organization, 67(3-4), 671-677.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Cambridge, Massachusetts, USA",
+  "lat": 42.373,
+  "lon": -71.109
 }

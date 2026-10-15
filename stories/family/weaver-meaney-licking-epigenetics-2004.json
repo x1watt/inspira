@@ -11,5 +11,8 @@
   "location": "McGill University, Montreal, Canada",
   "source": "Weaver, I. C. G., Cervoni, N., Champagne, F. A., D'Alessio, A. C., Sharma, S., Seckl, J. R., Dymov, S., Szyf, M., and Meaney, M. J. (2004). Epigenetic programming by maternal behavior. Nature Neuroscience, 7(8), 847-854.",
   "basis": "study",
-  "caveat": "The findings come from rats, and how far they apply to human parenting is still uncertain."
+  "caveat": "The findings come from rats, and how far they apply to human parenting is still uncertain.",
+  "place": "McGill University, Montreal, Canada",
+  "lat": 45.5048,
+  "lon": -73.5772
 }

@@ -368,72 +368,88 @@ class _Hud extends StatelessWidget {
           padding: const EdgeInsets.fromLTRB(10, 8, 8, 0),
           child: Row(
             children: [
-              _Pill(
-                child: Row(
-                  mainAxisSize: MainAxisSize.min,
-                  children: [
-                    Icon(
-                      Icons.local_fire_department_rounded,
-                      size: 22,
-                      color: done ? Colors.orangeAccent : Colors.white54,
-                    ),
-                    const SizedBox(width: 4),
-                    Text(
-                      '${progress.currentStreak}',
-                      style: TextStyle(
-                        color: done ? Colors.orangeAccent : Colors.white,
-                        fontWeight: FontWeight.w800,
-                        fontSize: 16,
-                      ),
-                    ),
-                  ],
-                ),
-              ),
-              const SizedBox(width: 8),
-              if (progress.combo >= 2)
-                _Pill(
+              // The pills shrink on narrow screens (a combo pill appears
+              // mid-session) instead of overflowing the buttons.
+              Expanded(
+                child: FittedBox(
+                  fit: BoxFit.scaleDown,
+                  alignment: Alignment.centerLeft,
                   child: Row(
-                    mainAxisSize: MainAxisSize.min,
                     children: [
-                      const Icon(
-                        Icons.bolt_rounded,
-                        size: 18,
-                        color: Colors.amberAccent,
+                      _Pill(
+                        child: Row(
+                          mainAxisSize: MainAxisSize.min,
+                          children: [
+                            Icon(
+                              Icons.local_fire_department_rounded,
+                              size: 22,
+                              color: done
+                                  ? Colors.orangeAccent
+                                  : Colors.white54,
+                            ),
+                            const SizedBox(width: 4),
+                            Text(
+                              '${progress.currentStreak}',
+                              style: TextStyle(
+                                color: done
+                                    ? Colors.orangeAccent
+                                    : Colors.white,
+                                fontWeight: FontWeight.w800,
+                                fontSize: 16,
+                              ),
+                            ),
+                          ],
+                        ),
                       ),
-                      Text(
-                        'x${progress.combo}',
-                        style: const TextStyle(
-                          color: Colors.amberAccent,
-                          fontWeight: FontWeight.w800,
+                      const SizedBox(width: 8),
+                      if (progress.combo >= 2)
+                        _Pill(
+                          child: Row(
+                            mainAxisSize: MainAxisSize.min,
+                            children: [
+                              const Icon(
+                                Icons.bolt_rounded,
+                                size: 18,
+                                color: Colors.amberAccent,
+                              ),
+                              Text(
+                                'x${progress.combo}',
+                                style: const TextStyle(
+                                  color: Colors.amberAccent,
+                                  fontWeight: FontWeight.w800,
+                                ),
+                              ),
+                            ],
+                          ),
+                        ),
+                      const SizedBox(width: 8),
+                      _Pill(
+                        child: Row(
+                          mainAxisSize: MainAxisSize.min,
+                          children: [
+                            SizedBox(
+                              width: 22,
+                              height: 22,
+                              child: CircularProgressIndicator(
+                                value: (today / goal).clamp(0.0, 1.0),
+                                strokeWidth: 4,
+                                backgroundColor: Colors.white24,
+                                color: done ? Colors.greenAccent : Colors.amber,
+                              ),
+                            ),
+                            const SizedBox(width: 8),
+                            Text(
+                              '$today / $goal XP',
+                              style: const TextStyle(
+                                color: Colors.white,
+                                fontWeight: FontWeight.w700,
+                              ),
+                            ),
+                          ],
                         ),
                       ),
                     ],
                   ),
-                ),
-              const Spacer(),
-              _Pill(
-                child: Row(
-                  mainAxisSize: MainAxisSize.min,
-                  children: [
-                    SizedBox(
-                      width: 22,
-                      height: 22,
-                      child: CircularProgressIndicator(
-                        value: (today / goal).clamp(0.0, 1.0),
-                        strokeWidth: 4,
-                        backgroundColor: Colors.white24,
-                        color: done ? Colors.greenAccent : Colors.amber,
-                      ),
-                    ),
-                    const SizedBox(width: 8),
-                    Text(
-                      '$today / $goal XP',
-                      style: const TextStyle(
-                        color: Colors.white,
-                        fontWeight: FontWeight.w700,
-                      ),
-                    ),
-                  ],
                 ),
               ),
               const SizedBox(width: 6),

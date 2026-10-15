@@ -11,5 +11,8 @@
   "location": "University of Pennsylvania, Philadelphia, USA (online experiment)",
   "source": "Centola, D., Becker, J., Brackbill, D., and Baronchelli, A. (2018). Experimental evidence for tipping points in social convention. Science, 360(6393), 1116-1119.",
   "basis": "study",
-  "caveat": "The quarter threshold was found in a simple naming game, and real norms with higher stakes or stronger beliefs may behave differently."
+  "caveat": "The quarter threshold was found in a simple naming game, and real norms with higher stakes or stronger beliefs may behave differently.",
+  "place": "University of Pennsylvania, Philadelphia, USA",
+  "lat": 39.9512,
+  "lon": -75.1932
 }

@@ -10,5 +10,8 @@
   "year": 1992,
   "location": "National Institute of Mental Health, Bethesda, USA",
   "source": "Zahn-Waxler, C., Radke-Yarrow, M., Wagner, E., and Chapman, M. (1992). Development of concern for others. Developmental Psychology, 28(1), 126-136.",
-  "basis": "study"
+  "basis": "study",
+  "place": "NIH campus, Bethesda, Maryland, USA",
+  "lat": 39.0003,
+  "lon": -77.103
 }

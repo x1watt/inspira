@@ -10,5 +10,8 @@
   "year": 1633,
   "location": "Arcetri, Florence, Italy",
   "source": "Letters of Suor Maria Celeste to Galileo; Dava Sobel, Galileo's Daughter (1999)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Florence, Italy",
+  "lat": 43.77,
+  "lon": 11.255
 }

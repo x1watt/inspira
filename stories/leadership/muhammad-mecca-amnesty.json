@@ -10,5 +10,8 @@
   "year": 630,
   "location": "Mecca (modern Saudi Arabia)",
   "source": "Ibn Ishaq, Sirat Rasul Allah, as edited by Ibn Hisham",
-  "basis": "anecdote"
+  "basis": "anecdote",
+  "place": "Mecca, Saudi Arabia",
+  "lat": 21.423,
+  "lon": 39.826
 }

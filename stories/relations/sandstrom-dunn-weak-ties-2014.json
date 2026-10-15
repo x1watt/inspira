@@ -10,5 +10,8 @@
   "year": 2014,
   "location": "University of British Columbia, Vancouver, Canada",
   "source": "Sandstrom, G. M., and Dunn, E. W. (2014). Social interactions and well-being: The surprising power of weak ties. Personality and Social Psychology Bulletin, 40(7), 910-922. Also: Sandstrom, G. M., and Dunn, E. W. (2014). Is efficiency overrated? Minimal social interactions lead to belonging and positive affect. Social Psychological and Personality Science, 5(4), 437-442.",
-  "basis": "study"
+  "basis": "study",
+  "place": "University of British Columbia, Vancouver",
+  "lat": 49.2606,
+  "lon": -123.246
 }

@@ -10,5 +10,8 @@
   "year": 1986,
   "location": "University of Akron, Ohio, USA",
   "source": "Lord, R. G., De Vader, C. L., and Alliger, G. M. (1986). A meta-analysis of the relation between personality traits and leadership perceptions: An application of validity generalization procedures. Journal of Applied Psychology, 71(3), 402-410.",
-  "basis": "study"
+  "basis": "study",
+  "place": "University of Akron, Ohio",
+  "lat": 41.0762,
+  "lon": -81.511
 }

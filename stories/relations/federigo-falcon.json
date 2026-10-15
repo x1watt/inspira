@@ -10,5 +10,8 @@
   "year": 1353,
   "location": "Florence and Campi (modern Italy)",
   "source": "Giovanni Boccaccio, Decameron, Day 5, Story 9",
-  "basis": "literature"
+  "basis": "literature",
+  "place": "Florence, Italy",
+  "lat": 43.77,
+  "lon": 11.256
 }

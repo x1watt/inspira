@@ -11,5 +11,8 @@
   "location": "New York, USA",
   "source": "Milliken, F. J., Morrison, E. W., and Hewlin, P. F. (2003). An exploratory study of employee silence: Issues that employees don't communicate upward and why. Journal of Management Studies, 40(6), 1453-1476.",
   "basis": "study",
-  "caveat": "It was a small interview study, so the percentage is illustrative rather than precise."
+  "caveat": "It was a small interview study, so the percentage is illustrative rather than precise.",
+  "place": "New York, USA",
+  "lat": 40.713,
+  "lon": -74.006
 }

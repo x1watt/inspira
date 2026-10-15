@@ -10,5 +10,8 @@
   "year": 1843,
   "location": "Buxtehude, near Hamburg, Germany",
   "source": "Brothers Grimm, Kinder- und Hausmarchen, No. 187, from a Low German tale published by Wilhelm Schroder",
-  "basis": "folktale"
+  "basis": "folktale",
+  "place": "Buxtehude, Germany",
+  "lat": 53.476,
+  "lon": 9.69
 }

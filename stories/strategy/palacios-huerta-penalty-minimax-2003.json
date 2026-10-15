@@ -10,5 +10,8 @@
   "year": 2003,
   "location": "Brown University, Providence, USA (kicks from European leagues)",
   "source": "Palacios-Huerta, I. (2003). Professionals play minimax. Review of Economic Studies, 70(2), 395-415.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Brown University, Providence, USA",
+  "lat": 41.8266,
+  "lon": -71.403
 }

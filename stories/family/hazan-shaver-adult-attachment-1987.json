@@ -11,5 +11,8 @@
   "location": "University of Denver, Denver, USA",
   "source": "Hazan, C., and Shaver, P. (1987). Romantic love conceptualized as an attachment process. Journal of Personality and Social Psychology, 52(3), 511-524.",
   "basis": "study",
-  "caveat": "The original measure was a single self-report question, and later research treats attachment as a matter of degree on two dimensions rather than three fixed types."
+  "caveat": "The original measure was a single self-report question, and later research treats attachment as a matter of degree on two dimensions rather than three fixed types.",
+  "place": "University of Denver, Colorado, USA",
+  "lat": 39.677,
+  "lon": -104.961
 }

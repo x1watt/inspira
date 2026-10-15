@@ -10,5 +10,8 @@
   "year": -980,
   "location": "Jerusalem",
   "source": "Hebrew Bible, 2 Samuel 11 to 12:14",
-  "basis": "parable"
+  "basis": "parable",
+  "place": "Jerusalem, Israel",
+  "lat": 31.778,
+  "lon": 35.235
 }

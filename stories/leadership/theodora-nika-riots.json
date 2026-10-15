@@ -11,5 +11,8 @@
   "location": "Constantinople (modern Istanbul, Turkey)",
   "source": "Procopius, History of the Wars, Book 1, chapter 24",
   "basis": "anecdote",
-  "caveat": "Procopius probably shaped Theodora's speech in a literary way, and his death toll is likely exaggerated."
+  "caveat": "Procopius probably shaped Theodora's speech in a literary way, and his death toll is likely exaggerated.",
+  "place": "Istanbul, Turkey",
+  "lat": 41.009,
+  "lon": 28.978
 }

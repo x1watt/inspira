@@ -10,5 +10,8 @@
   "year": 1959,
   "location": "Stanford University, Stanford, USA",
   "source": "Festinger, L., and Carlsmith, J. M. (1959). Cognitive consequences of forced compliance. Journal of Abnormal and Social Psychology, 58(2), 203-210.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Stanford University",
+  "lat": 37.4275,
+  "lon": -122.1697
 }

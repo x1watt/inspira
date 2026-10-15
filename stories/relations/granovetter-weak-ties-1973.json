@@ -10,5 +10,8 @@
   "year": 1973,
   "location": "Newton, Massachusetts, USA",
   "source": "Granovetter, M. S. (1973). The strength of weak ties. American Journal of Sociology, 78(6), 1360-1380.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Newton, Massachusetts, USA",
+  "lat": 42.337,
+  "lon": -71.209
 }

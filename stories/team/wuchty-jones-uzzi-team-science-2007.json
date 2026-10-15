@@ -10,5 +10,8 @@
   "year": 2007,
   "location": "Northwestern University, Evanston, USA",
   "source": "Wuchty, S., Jones, B. F., and Uzzi, B. (2007). The increasing dominance of teams in production of knowledge. Science, 316(5827), 1036-1039.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Northwestern University, Evanston, USA",
+  "lat": 42.0565,
+  "lon": -87.6753
 }

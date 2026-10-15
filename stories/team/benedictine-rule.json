@@ -10,5 +10,8 @@
   "year": 530,
   "location": "Monte Cassino, Lazio, Italy",
   "source": "The Rule of Saint Benedict, especially chapters 2, 3 and 48; Gregory the Great, Dialogues, book 2",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Monte Cassino Abbey, Italy",
+  "lat": 41.4896,
+  "lon": 13.8143
 }

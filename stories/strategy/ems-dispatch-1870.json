@@ -11,5 +11,8 @@
   "location": "Bad Ems and Berlin (Germany)",
   "source": "Otto von Bismarck, Thoughts and Reminiscences (Gedanken und Erinnerungen), vol. 2",
   "basis": "documented",
-  "caveat": "Bismarck wrote his memoirs decades later and may have dramatized his own role."
+  "caveat": "Bismarck wrote his memoirs decades later and may have dramatized his own role.",
+  "place": "Bad Ems, Germany",
+  "lat": 50.336,
+  "lon": 7.714
 }

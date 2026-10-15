@@ -11,5 +11,8 @@
   "location": "Yale University, New Haven, USA",
   "source": "Hamlin, J. K., Wynn, K., and Bloom, P. (2007). Social evaluation by preverbal infants. Nature, 450, 557-559.",
   "basis": "study",
-  "caveat": "Replications have been mixed, and a large multi-lab replication did not find a clear preference for the helper."
+  "caveat": "Replications have been mixed, and a large multi-lab replication did not find a clear preference for the helper.",
+  "place": "Yale University, New Haven",
+  "lat": 41.3163,
+  "lon": -72.9223
 }

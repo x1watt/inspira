@@ -10,5 +10,8 @@
   "year": 1943,
   "location": "Bennington College, Bennington, Vermont, USA",
   "source": "Newcomb, T. M. (1943). Personality and Social Change: Attitude Formation in a Student Community. Dryden Press.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Bennington, Vermont, USA",
+  "lat": 42.878,
+  "lon": -73.197
 }

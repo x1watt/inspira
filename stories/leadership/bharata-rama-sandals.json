@@ -10,5 +10,8 @@
   "year": -100,
   "location": "Ayodhya, ancient India",
   "source": "Valmiki, Ramayana, Ayodhya Kanda",
-  "basis": "literature"
+  "basis": "literature",
+  "place": "Ayodhya, India",
+  "lat": 26.799,
+  "lon": 82.204
 }

@@ -11,5 +11,8 @@
   "location": "Swarthmore College, Pennsylvania, USA",
   "source": "Asch, S. E. (1956). Studies of independence and conformity: I. A minority of one against a unanimous majority. Psychological Monographs, 70(9).",
   "basis": "study",
-  "caveat": "Later replications in other countries and decades have often found lower conformity than Asch did, though the effect has not disappeared."
+  "caveat": "Later replications in other countries and decades have often found lower conformity than Asch did, though the effect has not disappeared.",
+  "place": "Swarthmore College, Pennsylvania, USA",
+  "lat": 39.9057,
+  "lon": -75.354
 }

@@ -10,5 +10,8 @@
   "year": 1636,
   "location": "Providence, Rhode Island, USA",
   "source": "Roger Williams, A Key into the Language of America (1643); Williams's letters",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Providence, Rhode Island, USA",
+  "lat": 41.824,
+  "lon": -71.413
 }

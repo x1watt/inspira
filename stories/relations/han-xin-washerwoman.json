@@ -10,5 +10,8 @@
   "year": -202,
   "location": "Huaiyin (modern Jiangsu, China)",
   "source": "Sima Qian, Records of the Grand Historian (Shiji), chapter 92, Biography of the Marquis of Huaiyin",
-  "basis": "anecdote"
+  "basis": "anecdote",
+  "place": "Huai'an, Jiangsu, China",
+  "lat": 33.61,
+  "lon": 119.015
 }

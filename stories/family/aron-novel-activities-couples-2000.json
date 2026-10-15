@@ -10,5 +10,8 @@
   "year": 2000,
   "location": "State University of New York at Stony Brook, Stony Brook, USA",
   "source": "Aron, A., Norman, C. C., Aron, E. N., McKenna, C., and Heyman, R. E. (2000). Couples' shared participation in novel and arousing activities and experienced relationship quality. Journal of Personality and Social Psychology, 78(2), 273-284.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Stony Brook University, New York, USA",
+  "lat": 40.9126,
+  "lon": -73.1234
 }

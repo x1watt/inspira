@@ -10,5 +10,8 @@
   "year": 1936,
   "location": "Geneva, Switzerland",
   "source": "League of Nations, Official Journal, Records of the Assembly, 1936; text of Haile Selassie's speech",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Geneva, Switzerland",
+  "lat": 46.204,
+  "lon": 6.143
 }

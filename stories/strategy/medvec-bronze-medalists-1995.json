@@ -11,5 +11,8 @@
   "location": "Cornell University, Ithaca, USA (footage of the 1992 Barcelona Olympics)",
   "source": "Medvec, V. H., Madey, S. F., and Gilovich, T. (1995). When less is more: Counterfactual thinking and satisfaction among Olympic medalists. Journal of Personality and Social Psychology, 69(4), 603-610.",
   "basis": "study",
-  "caveat": "Later work (McGraw, Mellers and Tetlock, 2005) found that athletes' prior expectations also shape their reactions, so the pattern does not always hold."
+  "caveat": "Later work (McGraw, Mellers and Tetlock, 2005) found that athletes' prior expectations also shape their reactions, so the pattern does not always hold.",
+  "place": "Cornell University, Ithaca",
+  "lat": 42.4534,
+  "lon": -76.4735
 }

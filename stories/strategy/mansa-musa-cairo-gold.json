@@ -11,5 +11,8 @@
   "location": "Cairo (Egypt)",
   "source": "Ibn Fadl Allah al-Umari, Masalik al-Absar fi Mamalik al-Amsar; translated in N. Levtzion and J. F. P. Hopkins, Corpus of Early Arabic Sources for West African History (1981)",
   "basis": "documented",
-  "caveat": "The size of Mansa Musa's caravan and the amounts of gold are uncertain and often exaggerated in modern retellings."
+  "caveat": "The size of Mansa Musa's caravan and the amounts of gold are uncertain and often exaggerated in modern retellings.",
+  "place": "Cairo, Egypt",
+  "lat": 30.044,
+  "lon": 31.236
 }

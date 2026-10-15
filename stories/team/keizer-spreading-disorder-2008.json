@@ -10,5 +10,8 @@
   "year": 2008,
   "location": "Groningen, Netherlands",
   "source": "Keizer, K., Lindenberg, S., and Steg, L. (2008). The spreading of disorder. Science, 322(5908), 1681-1685.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Groningen, Netherlands",
+  "lat": 53.219,
+  "lon": 6.567
 }

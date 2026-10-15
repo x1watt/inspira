@@ -10,5 +10,8 @@
   "year": 1948,
   "location": "Berlin, Germany",
   "source": "William H. Tunner, Over the Hump (1964); US Air Force historical studies of the Berlin Airlift",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Tempelhof Airport, Berlin, Germany",
+  "lat": 52.473,
+  "lon": 13.4039
 }

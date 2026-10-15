@@ -11,5 +11,8 @@
   "location": "Outskirts of Rome (modern Italy)",
   "source": "Livy, History of Rome 2.39 to 2.40; Plutarch, Life of Coriolanus 33 to 36",
   "basis": "legend",
-  "caveat": "The story belongs to Rome's early legendary history, and even the names of the women differ between Livy and Plutarch."
+  "caveat": "The story belongs to Rome's early legendary history, and even the names of the women differ between Livy and Plutarch.",
+  "place": "Rome, Italy",
+  "lat": 41.893,
+  "lon": 12.483
 }

@@ -11,5 +11,8 @@
   "location": "Gubbio, Umbria (modern Italy)",
   "source": "The Little Flowers of Saint Francis (Fioretti), Chapter 21",
   "basis": "folktale",
-  "caveat": "The story is a legend first written down about 150 years after Francis's death."
+  "caveat": "The story is a legend first written down about 150 years after Francis's death.",
+  "place": "Gubbio, Italy",
+  "lat": 43.351,
+  "lon": 12.577
 }

@@ -10,5 +10,8 @@
   "year": 1390,
   "location": "Paris, France",
   "source": "Christine de Pizan, Lavision-Christine (1405); The Book of the City of Ladies (1405); The Book of the Mutability of Fortune (1403)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Paris, France",
+  "lat": 48.857,
+  "lon": 2.352
 }

@@ -10,5 +10,8 @@
   "year": 1843,
   "location": "London, England",
   "source": "Charles Dickens, A Christmas Carol, Stave 2",
-  "basis": "literature"
+  "basis": "literature",
+  "place": "London, England",
+  "lat": 51.507,
+  "lon": -0.128
 }

@@ -10,5 +10,8 @@
   "year": 1979,
   "location": "Ohio State University, Columbus, USA",
   "source": "Latane, B., Williams, K., and Harkins, S. (1979). Many hands make light the work: The causes and consequences of social loafing. Journal of Personality and Social Psychology, 37(6), 822-832.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Ohio State University, Columbus",
+  "lat": 40.0067,
+  "lon": -83.0305
 }

@@ -10,5 +10,8 @@
   "year": 2018,
   "location": "University of Chicago, Chicago, USA",
   "source": "Kumar, A., and Epley, N. (2018). Undervaluing gratitude: Expressers misunderstand the consequences of showing appreciation. Psychological Science, 29(9), 1423-1435.",
-  "basis": "study"
+  "basis": "study",
+  "place": "University of Chicago",
+  "lat": 41.7886,
+  "lon": -87.5987
 }

@@ -11,5 +11,8 @@
   "location": "Dunkirk, France, and the English Channel",
   "source": "Walter Lord, The Miracle of Dunkirk (1982); Winston Churchill, speech to the House of Commons, 4 June 1940",
   "basis": "documented",
-  "caveat": "Popular memory overstates the little ships' share: most soldiers were lifted from the harbor mole by destroyers and larger ships."
+  "caveat": "Popular memory overstates the little ships' share: most soldiers were lifted from the harbor mole by destroyers and larger ships.",
+  "place": "Dunkirk, France",
+  "lat": 51.038,
+  "lon": 2.377
 }

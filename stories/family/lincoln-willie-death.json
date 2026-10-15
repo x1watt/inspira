@@ -10,5 +10,8 @@
   "year": 1862,
   "location": "The White House, Washington, D.C., USA",
   "source": "Elizabeth Keckley, Behind the Scenes (1868), chapter 7; Michael Burlingame, Abraham Lincoln: A Life (2008)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "The White House, Washington, D.C.",
+  "lat": 38.8977,
+  "lon": -77.0365
 }

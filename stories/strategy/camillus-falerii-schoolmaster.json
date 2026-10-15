@@ -11,5 +11,8 @@
   "location": "Falerii (modern Civita Castellana, Italy)",
   "source": "Livy, History of Rome 5.27; Plutarch, Life of Camillus 10",
   "basis": "legend",
-  "caveat": "The story belongs to the early Roman tradition and is probably more moral legend than history."
+  "caveat": "The story belongs to the early Roman tradition and is probably more moral legend than history.",
+  "place": "Civita Castellana, Italy",
+  "lat": 42.294,
+  "lon": 12.409
 }

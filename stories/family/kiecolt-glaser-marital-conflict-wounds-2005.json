@@ -10,5 +10,8 @@
   "year": 2005,
   "location": "Ohio State University, Columbus, USA",
   "source": "Kiecolt-Glaser, J. K., Loving, T. J., Stowell, J. R., Malarkey, W. B., Lemeshow, S., Dickinson, S. L., and Glaser, R. (2005). Hostile marital interactions, proinflammatory cytokines, and wound healing. Archives of General Psychiatry, 62(12), 1377-1384.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Ohio State University, Columbus, USA",
+  "lat": 40.0067,
+  "lon": -83.0305
 }

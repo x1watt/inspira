@@ -11,5 +11,8 @@
   "location": "Chang'an (modern Xi'an, China)",
   "source": "Sima Guang, Zizhi Tongjian, chapter 194; Ouyang Xiu, \"On Releasing Prisoners\" (Zong Qiu Lun)",
   "basis": "anecdote",
-  "caveat": "Ouyang Xiu and later critics suspected the episode was staged for political effect."
+  "caveat": "Ouyang Xiu and later critics suspected the episode was staged for political effect.",
+  "place": "Xi'an, Shaanxi, China",
+  "lat": 34.265,
+  "lon": 108.954
 }

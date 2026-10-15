@@ -11,5 +11,8 @@
   "location": "Medina, Saudi Arabia",
   "source": "Ibn Ishaq, Sirat Rasul Allah (Life of the Messenger of God), as edited by Ibn Hisham; translated by A. Guillaume (1955)",
   "basis": "anecdote",
-  "caveat": "The details come from biographical traditions written down more than a century after the events."
+  "caveat": "The details come from biographical traditions written down more than a century after the events.",
+  "place": "Medina, Saudi Arabia",
+  "lat": 24.468,
+  "lon": 39.614
 }

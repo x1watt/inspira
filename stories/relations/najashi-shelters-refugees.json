@@ -11,5 +11,8 @@
   "location": "Aksum (modern Ethiopia)",
   "source": "Ibn Ishaq, Sirat Rasul Allah, as edited by Ibn Hisham",
   "basis": "anecdote",
-  "caveat": "The account is traditional, written down more than a century later, and the king's exact identity is uncertain."
+  "caveat": "The account is traditional, written down more than a century later, and the king's exact identity is uncertain.",
+  "place": "Aksum, Ethiopia",
+  "lat": 14.121,
+  "lon": 38.728
 }

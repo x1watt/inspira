@@ -10,5 +10,8 @@
   "year": 1999,
   "location": "University of Texas at Austin, USA",
   "source": "Helmreich, R. L., Merritt, A. C., and Wilhelm, J. A. (1999). The evolution of crew resource management training in commercial aviation. International Journal of Aviation Psychology, 9(1), 19-32.",
-  "basis": "study"
+  "basis": "study",
+  "place": "University of Texas at Austin",
+  "lat": 30.2849,
+  "lon": -97.7341
 }

@@ -10,5 +10,8 @@
   "year": 1982,
   "location": "University of Cologne, Germany",
   "source": "Guth, W., Schmittberger, R., and Schwarze, B. (1982). An experimental analysis of ultimatum bargaining. Journal of Economic Behavior and Organization, 3(4), 367-388.",
-  "basis": "study"
+  "basis": "study",
+  "place": "University of Cologne, Germany",
+  "lat": 50.9285,
+  "lon": 6.9279
 }

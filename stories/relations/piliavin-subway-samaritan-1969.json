@@ -10,5 +10,8 @@
   "year": 1969,
   "location": "New York City subway, New York, USA",
   "source": "Piliavin, I. M., Rodin, J., and Piliavin, J. A. (1969). Good Samaritanism: An underground phenomenon? Journal of Personality and Social Psychology, 13(4), 289-299.",
-  "basis": "study"
+  "basis": "study",
+  "place": "New York City, USA",
+  "lat": 40.713,
+  "lon": -74.006
 }

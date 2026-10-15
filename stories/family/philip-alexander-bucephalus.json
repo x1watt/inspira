@@ -10,5 +10,8 @@
   "year": -344,
   "location": "Pella, Macedonia (modern Greece)",
   "source": "Plutarch, Life of Alexander 6 to 7",
-  "basis": "anecdote"
+  "basis": "anecdote",
+  "place": "Pella archaeological site, Greece",
+  "lat": 40.7603,
+  "lon": 22.523
 }

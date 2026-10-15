@@ -10,5 +10,8 @@
   "year": 643,
   "location": "Chang'an (modern Xi'an, China)",
   "source": "Old Book of Tang (Jiu Tang Shu), Biography of Wei Zheng; Wu Jing, Zhenguan Zhengyao",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Xi'an, Shaanxi, China",
+  "lat": 34.265,
+  "lon": 108.954
 }

@@ -11,5 +11,8 @@
   "location": "University of British Columbia, Vancouver, Canada, and Boston, USA",
   "source": "Dunn, E. W., Aknin, L. B., and Norton, M. I. (2008). Spending money on others promotes happiness. Science, 319(5870), 1687-1688.",
   "basis": "study",
-  "caveat": "The experiment was small; later studies in many countries support the link, though its size varies."
+  "caveat": "The experiment was small; later studies in many countries support the link, though its size varies.",
+  "place": "University of British Columbia, Vancouver, Canada",
+  "lat": 49.2606,
+  "lon": -123.246
 }

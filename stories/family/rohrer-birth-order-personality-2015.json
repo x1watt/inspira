@@ -10,5 +10,8 @@
   "year": 2015,
   "location": "University of Leipzig, Leipzig, Germany",
   "source": "Rohrer, J. M., Egloff, B., and Schmukle, S. C. (2015). Examining the effects of birth order on personality. Proceedings of the National Academy of Sciences, 112(46), 14224-14229.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Leipzig University, Germany",
+  "lat": 51.3397,
+  "lon": 12.3796
 }

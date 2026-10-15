@@ -10,5 +10,8 @@
   "year": 2011,
   "location": "ETH Zurich, Zurich, Switzerland",
   "source": "Lorenz, J., Rauhut, H., Schweitzer, F., and Helbing, D. (2011). How social influence can undermine the wisdom of crowd effect. Proceedings of the National Academy of Sciences, 108(22), 9020-9025.",
-  "basis": "study"
+  "basis": "study",
+  "place": "ETH Zurich, Switzerland",
+  "lat": 47.3763,
+  "lon": 8.548
 }

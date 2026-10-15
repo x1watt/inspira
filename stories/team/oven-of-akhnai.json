@@ -10,5 +10,8 @@
   "year": 100,
   "location": "Yavne, Roman Judea (modern Israel)",
   "source": "Babylonian Talmud, Bava Metzia 59a to 59b",
-  "basis": "parable"
+  "basis": "parable",
+  "place": "Yavne, Israel",
+  "lat": 31.868,
+  "lon": 34.739
 }

@@ -10,5 +10,8 @@
   "year": 1977,
   "location": "University of Minnesota, Minneapolis, USA",
   "source": "Snyder, M., Tanke, E. D., and Berscheid, E. (1977). Social perception and interpersonal behavior: On the self-fulfilling nature of social stereotypes. Journal of Personality and Social Psychology, 35(9), 656-666.",
-  "basis": "study"
+  "basis": "study",
+  "place": "University of Minnesota, Minneapolis, USA",
+  "lat": 44.9763,
+  "lon": -93.2353
 }

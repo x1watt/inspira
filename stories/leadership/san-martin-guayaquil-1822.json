@@ -11,5 +11,8 @@
   "location": "Guayaquil (modern Ecuador) and Lima, Peru",
   "source": "San Martin's letters and proclamation on leaving Peru; standard histories of South American independence",
   "basis": "documented",
-  "caveat": "What was said at Guayaquil is unknown, and a letter attributed to San Martin explaining his reasons is of disputed authenticity."
+  "caveat": "What was said at Guayaquil is unknown, and a letter attributed to San Martin explaining his reasons is of disputed authenticity.",
+  "place": "Guayaquil, Ecuador",
+  "lat": -2.17,
+  "lon": -79.922
 }

@@ -10,5 +10,8 @@
   "year": 207,
   "location": "Longzhong, near Xiangyang, Hubei (modern China)",
   "source": "Chen Shou, Records of the Three Kingdoms (Sanguozhi), Biography of Zhuge Liang; Zhuge Liang, Chu Shi Biao (227)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Xiangyang, Hubei, China",
+  "lat": 32.009,
+  "lon": 112.122
 }

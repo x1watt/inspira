@@ -11,5 +11,8 @@
   "location": "Forum of Trajan, Rome, Italy",
   "source": "Historia Augusta, Life of Marcus Aurelius, chapters 17 and 21; Eutropius, Breviarium, Book 8, chapter 13",
   "basis": "anecdote",
-  "caveat": "The Historia Augusta is often unreliable, though Eutropius independently reports the auction."
+  "caveat": "The Historia Augusta is often unreliable, though Eutropius independently reports the auction.",
+  "place": "Forum of Trajan, Rome, Italy",
+  "lat": 41.8958,
+  "lon": 12.4846
 }

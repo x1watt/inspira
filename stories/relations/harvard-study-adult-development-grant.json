@@ -11,5 +11,8 @@
   "location": "Harvard University and Boston, USA",
   "source": "Vaillant, G. E. (2012). Triumphs of Experience: The Men of the Harvard Grant Study. Harvard University Press. See also Waldinger, R., and Schulz, M. (2023). The Good Life. Simon and Schuster.",
   "basis": "study",
-  "caveat": "The original samples were all men and almost all white, and the findings are correlational."
+  "caveat": "The original samples were all men and almost all white, and the findings are correlational.",
+  "place": "Harvard Yard, Cambridge, Massachusetts, USA",
+  "lat": 42.3744,
+  "lon": -71.1169
 }

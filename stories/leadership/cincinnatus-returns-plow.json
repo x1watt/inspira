@@ -11,5 +11,8 @@
   "location": "Rome and the Alban Hills (modern Italy)",
   "source": "Livy, Ab Urbe Condita, Book 3, chapters 26 to 29",
   "basis": "legend",
-  "caveat": "Early Roman history in Livy mixes tradition and legend, and the details of this episode cannot be verified."
+  "caveat": "Early Roman history in Livy mixes tradition and legend, and the details of this episode cannot be verified.",
+  "place": "Rome, Italy",
+  "lat": 41.893,
+  "lon": 12.496
 }

@@ -11,7 +11,9 @@ https://x1watt.github.io/inspira/
 Features: a full-screen feed (swipe up) of quotes, stories, history and
 studies over public domain art, with quizzes popping up between cards and a Quiz tab of questions only, XP, levels per
 category, a daily goal and a streak; story of the day, browse and search by
-category, favorites, copy and share.
+category, favorites, copy and share. On this day: 1000 dated events in world
+history, today's in the feed. Map: events and stories around you (about
+1500 places), with the story and directions, for historical tourism.
 
 ## Quotes
 

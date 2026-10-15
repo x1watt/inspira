@@ -10,5 +10,8 @@
   "year": 2011,
   "location": "Dunedin, New Zealand",
   "source": "Moffitt, T. E., Arseneault, L., Belsky, D., et al. (2011). A gradient of childhood self-control predicts health, wealth, and public safety. Proceedings of the National Academy of Sciences, 108(7), 2693-2698.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Dunedin, New Zealand",
+  "lat": -45.874,
+  "lon": 170.504
 }

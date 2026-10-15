@@ -10,5 +10,8 @@
   "year": 1997,
   "location": "State University of New York at Stony Brook, USA",
   "source": "Aron, A., Melinat, E., Aron, E. N., Vallone, R. D., and Bator, R. J. (1997). The experimental generation of interpersonal closeness: A procedure and some preliminary findings. Personality and Social Psychology Bulletin, 23(4), 363-377.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Stony Brook University, New York, USA",
+  "lat": 40.9126,
+  "lon": -73.1234
 }

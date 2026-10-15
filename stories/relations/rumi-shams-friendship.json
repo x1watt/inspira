@@ -11,5 +11,8 @@
   "location": "Konya, Turkey",
   "source": "Sultan Walad, Ibtidanama; Shams al-Din Aflaki, Manaqib al-Arifin",
   "basis": "anecdote",
-  "caveat": "Much of the story comes from hagiographic sources written decades later, and the end of Shams is unknown."
+  "caveat": "Much of the story comes from hagiographic sources written decades later, and the end of Shams is unknown.",
+  "place": "Konya, Turkey",
+  "lat": 37.872,
+  "lon": 32.493
 }

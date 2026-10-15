@@ -11,5 +11,8 @@
   "location": "University of Washington, Seattle, USA",
   "source": "Gottman, J. M., Coan, J., Carrere, S., and Swanson, C. (1998). Predicting marital happiness and stability from newlywed interactions. Journal of Marriage and the Family, 60(1), 5-22.",
   "basis": "study",
-  "caveat": "Some statisticians have criticized Gottman's divorce predictions as fitted after the fact to the same sample rather than tested on new couples."
+  "caveat": "Some statisticians have criticized Gottman's divorce predictions as fitted after the fact to the same sample rather than tested on new couples.",
+  "place": "University of Washington, Seattle, USA",
+  "lat": 47.6553,
+  "lon": -122.3035
 }

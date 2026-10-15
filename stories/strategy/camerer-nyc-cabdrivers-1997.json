@@ -11,5 +11,8 @@
   "location": "New York City, USA",
   "source": "Camerer, C., Babcock, L., Loewenstein, G., and Thaler, R. (1997). Labor supply of New York City cabdrivers: One day at a time. Quarterly Journal of Economics, 112(2), 407-441.",
   "basis": "study",
-  "caveat": "Later studies, notably by Henry Farber (2005, 2015), found little evidence of strong daily income targeting, so the result is disputed."
+  "caveat": "Later studies, notably by Henry Farber (2005, 2015), found little evidence of strong daily income targeting, so the result is disputed.",
+  "place": "New York City, USA",
+  "lat": 40.713,
+  "lon": -74.006
 }

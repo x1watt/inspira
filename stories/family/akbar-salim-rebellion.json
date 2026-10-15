@@ -10,5 +10,8 @@
   "year": 1602,
   "location": "Allahabad and Agra, India",
   "source": "Jahangir, Tuzuk-i-Jahangiri (Memoirs of Jahangir), trans. Rogers and Beveridge; Abul Fazl, Akbarnama",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Prayagraj (Allahabad), India",
+  "lat": 25.435,
+  "lon": 81.846
 }

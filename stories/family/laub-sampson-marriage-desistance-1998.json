@@ -11,5 +11,8 @@
   "location": "Boston, Massachusetts, USA",
   "source": "Laub, J. H., Nagin, D. S., and Sampson, R. J. (1998). Trajectories of change in criminal offending: Good marriages and the desistance process. American Sociological Review, 63(2), 225-238.",
   "basis": "study",
-  "caveat": "The data were observational, so men who were already changing may have been more likely to form good marriages."
+  "caveat": "The data were observational, so men who were already changing may have been more likely to form good marriages.",
+  "place": "Boston, Massachusetts",
+  "lat": 42.36,
+  "lon": -71.059
 }

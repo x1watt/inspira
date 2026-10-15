@@ -10,5 +10,8 @@
   "year": 1800,
   "location": "Hakata, Japan",
   "source": "Nyogen Senzaki and Paul Reps, 101 Zen Stories (1919), Real Prosperity",
-  "basis": "parable"
+  "basis": "parable",
+  "place": "Hakata, Fukuoka, Japan",
+  "lat": 33.59,
+  "lon": 130.411
 }

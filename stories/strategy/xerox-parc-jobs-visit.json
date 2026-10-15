@@ -11,5 +11,8 @@
   "location": "Palo Alto, California (USA)",
   "source": "Michael Hiltzik, Dealers of Lightning (1999); Douglas K. Smith and Robert C. Alexander, Fumbling the Future (1988)",
   "basis": "documented",
-  "caveat": "Accounts differ on how many visits there were and what exactly was shown, and Apple's interface work had begun before the visit."
+  "caveat": "Accounts differ on how many visits there were and what exactly was shown, and Apple's interface work had begun before the visit.",
+  "place": "Xerox PARC, Palo Alto, California, USA",
+  "lat": 37.4028,
+  "lon": -122.1481
 }

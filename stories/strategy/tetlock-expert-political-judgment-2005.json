@@ -10,5 +10,8 @@
   "year": 2005,
   "location": "University of California, Berkeley, USA",
   "source": "Tetlock, P. E. (2005). Expert Political Judgment: How Good Is It? How Can We Know? Princeton, NJ: Princeton University Press.",
-  "basis": "study"
+  "basis": "study",
+  "place": "University of California, Berkeley, USA",
+  "lat": 37.8722,
+  "lon": -122.2578
 }

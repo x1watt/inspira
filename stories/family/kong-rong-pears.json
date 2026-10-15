@@ -11,5 +11,8 @@
   "location": "Lu (modern Qufu, Shandong, China)",
   "source": "Hou Hanshu, biography of Kong Rong, with commentary citing the Rong Biezhuan; Three Character Classic",
   "basis": "folktale",
-  "caveat": "The anecdote comes from a commentary rather than the main historical record and is a traditional story."
+  "caveat": "The anecdote comes from a commentary rather than the main historical record and is a traditional story.",
+  "place": "Qufu, Shandong, China",
+  "lat": 35.581,
+  "lon": 116.986
 }

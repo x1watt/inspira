@@ -11,5 +11,8 @@
   "location": "Syracuse, Sicily (Italy)",
   "source": "Polybius, Histories 8.3 to 8.7; Plutarch, Life of Marcellus 14 to 19",
   "basis": "anecdote",
-  "caveat": "The story that Archimedes burned Roman ships with mirrors appears only in much later writers and is probably legend."
+  "caveat": "The story that Archimedes burned Roman ships with mirrors appears only in much later writers and is probably legend.",
+  "place": "Syracuse, Sicily, Italy",
+  "lat": 37.075,
+  "lon": 15.286
 }

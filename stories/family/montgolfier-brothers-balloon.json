@@ -10,5 +10,8 @@
   "year": 1783,
   "location": "Annonay and Versailles, France",
   "source": "Charles Coulston Gillispie, The Montgolfier Brothers and the Invention of Aviation (1983)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Annonay, France",
+  "lat": 45.24,
+  "lon": 4.67
 }

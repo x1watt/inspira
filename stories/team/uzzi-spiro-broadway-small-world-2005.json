@@ -10,5 +10,8 @@
   "year": 2005,
   "location": "Broadway, New York, USA",
   "source": "Uzzi, B., and Spiro, J. (2005). Collaboration and creativity: The small world problem. American Journal of Sociology, 111(2), 447-504.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Broadway Theater District, New York, USA",
+  "lat": 40.759,
+  "lon": -73.985
 }

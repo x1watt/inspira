@@ -11,5 +11,8 @@
   "location": "Mecca, Arabia (modern Saudi Arabia)",
   "source": "Sahih al-Bukhari, Book of Revelation, hadith 3; Ibn Ishaq, Sirat Rasul Allah, trans. A. Guillaume",
   "basis": "anecdote",
-  "caveat": "The account is traditional, and Khadija's age at marriage is reported differently by some early sources."
+  "caveat": "The account is traditional, and Khadija's age at marriage is reported differently by some early sources.",
+  "place": "Mecca, Saudi Arabia",
+  "lat": 21.389,
+  "lon": 39.858
 }

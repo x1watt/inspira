@@ -10,5 +10,8 @@
   "year": 1863,
   "location": "Gettysburg, Pennsylvania, USA",
   "source": "Arthur J. L. Fremantle, Three Months in the Southern States (1863); Lee's letter to Jefferson Davis, August 8, 1863",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Gettysburg, Pennsylvania, USA",
+  "lat": 39.831,
+  "lon": -77.231
 }

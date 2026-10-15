@@ -10,5 +10,8 @@
   "year": 2000,
   "location": "University of California, Davis, USA (data from a US discount brokerage)",
   "source": "Barber, B. M., and Odean, T. (2000). Trading is hazardous to your wealth: The common stock investment performance of individual investors. Journal of Finance, 55(2), 773-806.",
-  "basis": "study"
+  "basis": "study",
+  "place": "UC Davis Memorial Union, Davis, USA",
+  "lat": 38.5423,
+  "lon": -121.7494
 }

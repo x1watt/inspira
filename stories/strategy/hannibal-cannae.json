@@ -11,5 +11,8 @@
   "location": "Cannae, Apulia (Italy)",
   "source": "Polybius, Histories 3.107 to 3.117; Livy, History of Rome, book 22",
   "basis": "documented",
-  "caveat": "Ancient casualty figures for Cannae are likely inflated; modern estimates vary."
+  "caveat": "Ancient casualty figures for Cannae are likely inflated; modern estimates vary.",
+  "place": "Cannae battlefield, Apulia, Italy",
+  "lat": 41.305,
+  "lon": 16.133
 }

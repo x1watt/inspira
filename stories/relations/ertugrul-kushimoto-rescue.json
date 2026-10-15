@@ -10,5 +10,8 @@
   "year": 1890,
   "location": "Kushimoto, Wakayama, Japan, and Tehran, Iran",
   "source": "Japanese and Turkish official accounts; contemporary press reports of the March 1985 evacuation from Tehran",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Kushimoto, Wakayama, Japan",
+  "lat": 33.472,
+  "lon": 135.779
 }

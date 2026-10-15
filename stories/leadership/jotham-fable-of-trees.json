@@ -10,5 +10,8 @@
   "year": -1100,
   "location": "Shechem, ancient Israel (modern West Bank)",
   "source": "Hebrew Bible, Judges 9:1-57",
-  "basis": "fable"
+  "basis": "fable",
+  "place": "Tell Balata (ancient Shechem), Nablus, West Bank",
+  "lat": 32.2134,
+  "lon": 35.2842
 }

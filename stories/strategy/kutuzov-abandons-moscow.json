@@ -10,5 +10,8 @@
   "year": 1812,
   "location": "Fili and Moscow (Russia)",
   "source": "Dominic Lieven, Russia Against Napoleon (2009); Carl von Clausewitz, The Campaign of 1812 in Russia",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Moscow, Russia",
+  "lat": 55.756,
+  "lon": 37.617
 }

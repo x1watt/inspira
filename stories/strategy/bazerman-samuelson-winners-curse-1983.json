@@ -10,5 +10,8 @@
   "year": 1983,
   "location": "Boston University, USA",
   "source": "Bazerman, M. H., and Samuelson, W. F. (1983). I won the auction but don't want the prize. Journal of Conflict Resolution, 27(4), 618-634.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Boston University, Massachusetts, USA",
+  "lat": 42.3505,
+  "lon": -71.1054
 }

@@ -11,5 +11,8 @@
   "location": "Gordium, Phrygia (modern Turkey)",
   "source": "Arrian, Anabasis of Alexander 2.3; Plutarch, Life of Alexander 18",
   "basis": "legend",
-  "caveat": "The ancient sources disagree on whether Alexander cut the knot or removed the pole pin, and the prophecy itself is legend."
+  "caveat": "The ancient sources disagree on whether Alexander cut the knot or removed the pole pin, and the prophecy itself is legend.",
+  "place": "Gordion archaeological site, Turkey",
+  "lat": 39.6489,
+  "lon": 31.9903
 }

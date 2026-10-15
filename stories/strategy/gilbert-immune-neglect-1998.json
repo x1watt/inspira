@@ -10,5 +10,8 @@
   "year": 1998,
   "location": "University of Texas at Austin and other US universities, USA",
   "source": "Gilbert, D. T., Pinel, E. C., Wilson, T. D., Blumberg, S. J., and Wheatley, T. P. (1998). Immune neglect: A source of durability bias in affective forecasting. Journal of Personality and Social Psychology, 75(3), 617-638.",
-  "basis": "study"
+  "basis": "study",
+  "place": "University of Texas at Austin, USA",
+  "lat": 30.2849,
+  "lon": -97.7341
 }

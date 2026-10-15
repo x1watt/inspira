@@ -10,5 +10,8 @@
   "year": 1985,
   "location": "Miami University, Oxford, Ohio, USA",
   "source": "Stasser, G., and Titus, W. (1985). Pooling of unshared information in group decision making: Biased information sampling during discussion. Journal of Personality and Social Psychology, 48(6), 1467-1478.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Miami University, Oxford, Ohio, USA",
+  "lat": 39.507,
+  "lon": -84.734
 }

@@ -10,5 +10,8 @@
   "year": 1973,
   "location": "Bing Nursery School, Stanford University, Stanford, USA",
   "source": "Lepper, M. R., Greene, D., and Nisbett, R. E. (1973). Undermining children's intrinsic interest with extrinsic reward: A test of the 'overjustification' hypothesis. Journal of Personality and Social Psychology, 28(1), 129-137.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Stanford University Main Quad, USA",
+  "lat": 37.4275,
+  "lon": -122.1697
 }

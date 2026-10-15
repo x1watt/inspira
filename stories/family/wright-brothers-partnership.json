@@ -10,5 +10,8 @@
   "year": 1903,
   "location": "Dayton, Ohio and Kitty Hawk, North Carolina, USA",
   "source": "The Papers of Wilbur and Orville Wright, ed. Marvin W. McFarland (1953); David McCullough, The Wright Brothers (2015)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Wright Brothers National Memorial, Kitty Hawk, North Carolina, USA",
+  "lat": 36.0136,
+  "lon": -75.6684
 }

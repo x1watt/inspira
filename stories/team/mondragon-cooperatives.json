@@ -10,5 +10,8 @@
   "year": 1956,
   "location": "Mondragon (Arrasate), Gipuzkoa, Spain",
   "source": "William Foote Whyte and Kathleen King Whyte, Making Mondragon (1988)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Arrasate (Mondragon), Spain",
+  "lat": 43.065,
+  "lon": -2.49
 }

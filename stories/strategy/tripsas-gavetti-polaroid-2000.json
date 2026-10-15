@@ -10,5 +10,8 @@
   "year": 2000,
   "location": "Polaroid Corporation, Cambridge, Massachusetts, USA",
   "source": "Tripsas, M., and Gavetti, G. (2000). Capabilities, cognition, and inertia: Evidence from digital imaging. Strategic Management Journal, 21(10-11), 1147-1161.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Cambridge, Massachusetts",
+  "lat": 42.373,
+  "lon": -71.11
 }

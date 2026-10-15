@@ -10,5 +10,8 @@
   "year": 1971,
   "location": "Austin, Texas, USA",
   "source": "Aronson, E., Blaney, N., Stephan, C., Sikes, J., and Snapp, M. (1978). The Jigsaw Classroom. Sage Publications.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Austin, Texas, USA",
+  "lat": 30.267,
+  "lon": -97.743
 }

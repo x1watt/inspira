@@ -10,5 +10,8 @@
   "year": 1982,
   "location": "Oregon Social Learning Center, Eugene, USA",
   "source": "Patterson, G. R. (1982). Coercive Family Process. Eugene, OR: Castalia.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Eugene, Oregon, USA",
+  "lat": 44.052,
+  "lon": -123.087
 }

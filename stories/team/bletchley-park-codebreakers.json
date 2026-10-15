@@ -11,5 +11,8 @@
   "location": "Bletchley Park, Buckinghamshire, United Kingdom",
   "source": "F. H. Hinsley et al., British Intelligence in the Second World War (1979 to 1990); F. H. Hinsley and Alan Stripp, eds., Codebreakers (1993)",
   "basis": "documented",
-  "caveat": "Estimates that Ultra shortened the war by about two years come from Hinsley and are debated."
+  "caveat": "Estimates that Ultra shortened the war by about two years come from Hinsley and are debated.",
+  "place": "Bletchley Park, England",
+  "lat": 51.9976,
+  "lon": -0.741
 }

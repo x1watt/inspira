@@ -10,5 +10,8 @@
   "year": 1776,
   "location": "Braintree, Massachusetts, and Philadelphia, USA",
   "source": "Adams Family Correspondence, vol. 1 (Massachusetts Historical Society); Abigail Adams to John Adams, 31 March 1776",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Quincy, Massachusetts, USA",
+  "lat": 42.253,
+  "lon": -71.002
 }

@@ -11,5 +11,8 @@
   "location": "Budapest, Hungary",
   "source": "Swedish Foreign Ministry records; Yad Vashem; reports of the US War Refugee Board",
   "basis": "documented",
-  "caveat": "Estimates of the number of people he saved vary widely, and the circumstances of his death remain unresolved."
+  "caveat": "Estimates of the number of people he saved vary widely, and the circumstances of his death remain unresolved.",
+  "place": "Budapest, Hungary",
+  "lat": 47.498,
+  "lon": 19.04
 }

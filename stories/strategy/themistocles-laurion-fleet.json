@@ -11,5 +11,8 @@
   "location": "Athens and Laurion, Attica (Greece)",
   "source": "Herodotus, Histories 7.144; Plutarch, Life of Themistocles 4",
   "basis": "documented",
-  "caveat": "Plutarch gives one hundred ships instead of the two hundred in Herodotus."
+  "caveat": "Plutarch gives one hundred ships instead of the two hundred in Herodotus.",
+  "place": "Athens, Greece",
+  "lat": 37.984,
+  "lon": 23.728
 }

@@ -11,5 +11,8 @@
   "location": "Framingham, Massachusetts, USA",
   "source": "Fowler, J. H., and Christakis, N. A. (2008). Dynamic spread of happiness in a large social network: Longitudinal analysis over 20 years in the Framingham Heart Study. BMJ, 337, a2338.",
   "basis": "study",
-  "caveat": "Critics argue that such network effects are hard to separate from people choosing similar friends and sharing the same surroundings, so the contagion claim remains debated."
+  "caveat": "Critics argue that such network effects are hard to separate from people choosing similar friends and sharing the same surroundings, so the contagion claim remains debated.",
+  "place": "Framingham, Massachusetts, USA",
+  "lat": 42.279,
+  "lon": -71.417
 }

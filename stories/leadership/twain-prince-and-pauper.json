@@ -10,5 +10,8 @@
   "year": 1881,
   "location": "United States (novel set in London, 1547)",
   "source": "Mark Twain, The Prince and the Pauper, 1881",
-  "basis": "literature"
+  "basis": "literature",
+  "place": "London, England",
+  "lat": 51.507,
+  "lon": -0.128
 }

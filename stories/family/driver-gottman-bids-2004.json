@@ -10,5 +10,8 @@
   "year": 2004,
   "location": "University of Washington, Seattle, USA",
   "source": "Driver, J. L., and Gottman, J. M. (2004). Daily marital interactions and positive affect during marital conflict among newlywed couples. Family Process, 43(3), 301-314.",
-  "basis": "study"
+  "basis": "study",
+  "place": "University of Washington, Seattle, USA",
+  "lat": 47.6556,
+  "lon": -122.3095
 }

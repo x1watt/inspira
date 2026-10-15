@@ -10,5 +10,8 @@
   "year": 1971,
   "location": "Paris, France",
   "source": "MSF official histories; Renee C. Fox, Doctors Without Borders: Humanitarian Quests, Impossible Dreams (2014)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Paris, France",
+  "lat": 48.857,
+  "lon": 2.352
 }

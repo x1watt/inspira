@@ -10,5 +10,8 @@
   "year": 1905,
   "location": "New York City, USA",
   "source": "O. Henry, The Gift of the Magi (first published in the New York Sunday World, 1905)",
-  "basis": "literature"
+  "basis": "literature",
+  "place": "New York City, USA",
+  "lat": 40.713,
+  "lon": -74.006
 }

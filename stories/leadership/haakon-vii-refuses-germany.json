@@ -10,5 +10,8 @@
   "year": 1940,
   "location": "Elverum and Nybergsund, Norway",
   "source": "Norwegian government records; contemporary accounts and later memoirs of ministers present",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Elverum, Norway",
+  "lat": 60.882,
+  "lon": 11.563
 }

@@ -10,5 +10,8 @@
   "year": -47,
   "location": "Rome, Italy",
   "source": "Suetonius, Life of the Deified Julius, chapter 70; Appian, Civil Wars, Book 2, chapters 92 to 94",
-  "basis": "anecdote"
+  "basis": "anecdote",
+  "place": "Rome, Italy",
+  "lat": 41.893,
+  "lon": 12.496
 }

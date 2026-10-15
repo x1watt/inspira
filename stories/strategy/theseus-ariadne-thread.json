@@ -11,5 +11,8 @@
   "location": "Knossos, Crete (modern Greece)",
   "source": "Plutarch, Life of Theseus; Ovid, Metamorphoses, Book 8",
   "basis": "literature",
-  "caveat": "Ancient authors give several versions of the myth; Plutarch himself records conflicting accounts."
+  "caveat": "Ancient authors give several versions of the myth; Plutarch himself records conflicting accounts.",
+  "place": "Knossos, Crete, Greece",
+  "lat": 35.298,
+  "lon": 25.163
 }

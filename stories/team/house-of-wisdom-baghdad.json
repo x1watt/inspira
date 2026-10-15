@@ -11,5 +11,8 @@
   "location": "Baghdad, Iraq",
   "source": "Ibn al-Nadim, Kitab al-Fihrist (987); Dimitri Gutas, Greek Thought, Arabic Culture (1998)",
   "basis": "documented",
-  "caveat": "Historians such as Dimitri Gutas argue the House of Wisdom was mainly a library and that the translation movement was much broader than one institution."
+  "caveat": "Historians such as Dimitri Gutas argue the House of Wisdom was mainly a library and that the translation movement was much broader than one institution.",
+  "place": "Baghdad, Iraq",
+  "lat": 33.315,
+  "lon": 44.366
 }

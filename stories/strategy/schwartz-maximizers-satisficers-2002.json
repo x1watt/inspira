@@ -11,5 +11,8 @@
   "location": "Swarthmore College, Pennsylvania, USA, and Canada",
   "source": "Schwartz, B., Ward, A., Monterosso, J., Lyubomirsky, S., White, K., and Lehman, D. R. (2002). Maximizing versus satisficing: Happiness is a matter of choice. Journal of Personality and Social Psychology, 83(5), 1178-1197.",
   "basis": "study",
-  "caveat": "The findings are correlational, and later work found the maximizing scale mixes high standards (fairly harmless) with exhaustive searching and decision difficulty (more harmful)."
+  "caveat": "The findings are correlational, and later work found the maximizing scale mixes high standards (fairly harmless) with exhaustive searching and decision difficulty (more harmful).",
+  "place": "Swarthmore College, Pennsylvania, USA",
+  "lat": 39.9051,
+  "lon": -75.3547
 }

@@ -3,6 +3,7 @@ import 'package:flutter/widgets.dart';
 import 'data/event_repository.dart';
 import 'data/favorites_store.dart';
 import 'data/image_repository.dart';
+import 'data/place_index.dart';
 import 'data/progress_store.dart';
 import 'data/quote_repository.dart';
 import 'data/story_repository.dart';
@@ -44,7 +45,12 @@ class AppScope extends InheritedWidget {
   ProgressStore get progress => data.progress;
   EventRepository get events => data.events ?? _noEvents;
 
+  /// Events and stories with coordinates, built on first use.
+  PlaceIndex get places =>
+      _places[data] ??= PlaceIndex(stories.stories, events.events);
+
   static final _noEvents = EventRepository(const []);
+  static final _places = Expando<PlaceIndex>();
 
   static AppScope of(BuildContext context) =>
       context.dependOnInheritedWidgetOfExactType<AppScope>()!;

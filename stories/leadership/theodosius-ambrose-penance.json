@@ -11,5 +11,8 @@
   "location": "Thessalonica (modern Greece) and Milan (modern Italy)",
   "source": "Ambrose, Letter 51 to Theodosius; Theodoret, Ecclesiastical History, Book 5, chapters 17 and 18",
   "basis": "documented",
-  "caveat": "Theodoret's scene at the church door and his death toll are probably embellished; Ambrose's own letter is the reliable source."
+  "caveat": "Theodoret's scene at the church door and his death toll are probably embellished; Ambrose's own letter is the reliable source.",
+  "place": "Milan, Italy",
+  "lat": 45.464,
+  "lon": 9.19
 }

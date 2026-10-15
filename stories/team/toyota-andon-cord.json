@@ -10,5 +10,8 @@
   "year": 1955,
   "location": "Toyota City, Aichi Prefecture, Japan",
   "source": "Taiichi Ohno, Toyota Production System: Beyond Large-Scale Production (1978; English edition 1988)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Toyota City, Aichi, Japan",
+  "lat": 35.083,
+  "lon": 137.156
 }

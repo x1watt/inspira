@@ -11,5 +11,8 @@
   "location": "Ancient Greece (story set at Troy, modern Turkey)",
   "source": "Homer, Iliad, Book 10",
   "basis": "literature",
-  "caveat": "Many scholars think Book 10 was added to the Iliad later than the rest of the poem."
+  "caveat": "Many scholars think Book 10 was added to the Iliad later than the rest of the poem.",
+  "place": "Troy, Turkey",
+  "lat": 39.957,
+  "lon": 26.239
 }

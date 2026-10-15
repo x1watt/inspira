@@ -10,5 +10,8 @@
   "year": 1805,
   "location": "Mouth of the Columbia River, Washington and Oregon, USA",
   "source": "The Journals of the Lewis and Clark Expedition, William Clark's entry for 24 November 1805 (ed. Gary Moulton)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Fort Clatsop, Oregon, USA",
+  "lat": 46.1346,
+  "lon": -123.8767
 }

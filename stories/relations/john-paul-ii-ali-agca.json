@@ -10,5 +10,8 @@
   "year": 1983,
   "location": "Rebibbia prison, Rome, Italy",
   "source": "Contemporary press reports and photographs of the prison visit (December 27 to 28, 1983); George Weigel, Witness to Hope (1999)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Rome, Italy",
+  "lat": 41.893,
+  "lon": 12.483
 }

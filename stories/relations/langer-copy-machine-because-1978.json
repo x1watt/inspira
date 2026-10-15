@@ -10,5 +10,8 @@
   "year": 1978,
   "location": "City University of New York, New York, USA",
   "source": "Langer, E., Blank, A., and Chanowitz, B. (1978). The mindlessness of ostensibly thoughtful action: The role of 'placebic' information in interpersonal interaction. Journal of Personality and Social Psychology, 36(6), 635-642.",
-  "basis": "study"
+  "basis": "study",
+  "place": "New York City, USA",
+  "lat": 40.713,
+  "lon": -74.006
 }

@@ -10,5 +10,8 @@
   "year": 2004,
   "location": "Stanford University, Stanford, USA, and Israel",
   "source": "Liberman, V., Samuels, S. M., and Ross, L. (2004). The name of the game: Predictive power of reputations versus situational labels in determining prisoner's dilemma game moves. Personality and Social Psychology Bulletin, 30(9), 1175-1185.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Stanford University Main Quad, USA",
+  "lat": 37.4275,
+  "lon": -122.1697
 }

@@ -10,5 +10,8 @@
   "year": 1858,
   "location": "Down House, Kent, and Linnean Society, London, England",
   "source": "Darwin and Wallace, \"On the Tendency of Species to form Varieties,\" Journal of the Proceedings of the Linnean Society, Zoology 3 (1858); Alfred Russel Wallace, Darwinism (1889)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Down House, Kent, England",
+  "lat": 51.3312,
+  "lon": 0.0536
 }

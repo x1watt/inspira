@@ -11,5 +11,8 @@
   "location": "Yale University, New Haven, USA",
   "source": "Hovland, C. I., and Weiss, W. (1951). The influence of source credibility on communication effectiveness. Public Opinion Quarterly, 15(4), 635-650.",
   "basis": "study",
-  "caveat": "Later research found the sleeper effect is fragile and appears only under specific conditions."
+  "caveat": "Later research found the sleeper effect is fragile and appears only under specific conditions.",
+  "place": "Yale University Old Campus, New Haven, USA",
+  "lat": 41.3105,
+  "lon": -72.9265
 }

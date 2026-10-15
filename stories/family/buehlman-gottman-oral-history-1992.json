@@ -11,5 +11,8 @@
   "location": "University of Washington, Seattle, USA",
   "source": "Buehlman, K. T., Gottman, J. M., and Katz, L. F. (1992). How a couple views their past predicts their future: Predicting divorce from an oral history interview. Journal of Family Psychology, 5(3-4), 295-318.",
   "basis": "study",
-  "caveat": "The sample was small and the high accuracy was not tested on a new group of couples, so the figure likely overstates real predictive power."
+  "caveat": "The sample was small and the high accuracy was not tested on a new group of couples, so the figure likely overstates real predictive power.",
+  "place": "University of Washington, Seattle, USA",
+  "lat": 47.6553,
+  "lon": -122.3035
 }

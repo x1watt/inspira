@@ -10,5 +10,8 @@
   "year": 1883,
   "location": "Saint Petersburg (modern Russia)",
   "source": "Anton Chekhov, Fat and Thin (Tolstyi i tonkii, 1883)",
-  "basis": "literature"
+  "basis": "literature",
+  "place": "Saint Petersburg, Russia",
+  "lat": 59.934,
+  "lon": 30.335
 }

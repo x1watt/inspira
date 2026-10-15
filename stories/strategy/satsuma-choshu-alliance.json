@@ -11,5 +11,8 @@
   "location": "Kyoto (Japan)",
   "source": "Marius Jansen, Sakamoto Ryoma and the Meiji Restoration (1961)",
   "basis": "documented",
-  "caveat": "Some details, including the sandals and Ryoma's confrontation with Saigo, come from later traditional accounts."
+  "caveat": "Some details, including the sandals and Ryoma's confrontation with Saigo, come from later traditional accounts.",
+  "place": "Kyoto, Japan",
+  "lat": 35.012,
+  "lon": 135.768
 }

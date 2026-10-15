@@ -11,5 +11,8 @@
   "location": "University of Wisconsin-Madison, Madison, USA",
   "source": "Coan, J. A., Schaefer, H. S., and Davidson, R. J. (2006). Lending a hand: Social regulation of the neural response to threat. Psychological Science, 17(12), 1032-1039.",
   "basis": "study",
-  "caveat": "The original study included only sixteen couples, so its precise brain findings should be treated with some caution."
+  "caveat": "The original study included only sixteen couples, so its precise brain findings should be treated with some caution.",
+  "place": "University of Wisconsin-Madison, USA",
+  "lat": 43.0753,
+  "lon": -89.404
 }

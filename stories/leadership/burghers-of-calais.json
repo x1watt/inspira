@@ -11,5 +11,8 @@
   "location": "Calais, France",
   "source": "Jean Froissart, Chronicles, Book 1",
   "basis": "anecdote",
-  "caveat": "Some historians think the scene was a planned ritual of submission rather than a real threat of execution."
+  "caveat": "Some historians think the scene was a planned ritual of submission rather than a real threat of execution.",
+  "place": "Calais, France",
+  "lat": 50.951,
+  "lon": 1.856
 }

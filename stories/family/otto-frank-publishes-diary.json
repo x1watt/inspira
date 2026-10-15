@@ -10,5 +10,8 @@
   "year": 1947,
   "location": "Amsterdam, Netherlands",
   "source": "Anne Frank, Het Achterhuis (1947); Miep Gies with Alison Leslie Gold, Anne Frank Remembered (1987); Anne Frank House archives",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Amsterdam, Netherlands",
+  "lat": 52.372,
+  "lon": 4.894
 }

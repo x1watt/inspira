@@ -10,5 +10,8 @@
   "year": 1751,
   "location": "Paris, France",
   "source": "Encyclopedie, ou dictionnaire raisonne des sciences, des arts et des metiers (1751 to 1772); Philipp Blom, Enlightening the World (2004)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Paris, France",
+  "lat": 48.857,
+  "lon": 2.352
 }

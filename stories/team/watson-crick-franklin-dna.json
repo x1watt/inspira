@@ -10,5 +10,8 @@
   "year": 1953,
   "location": "King's College London and Cavendish Laboratory, Cambridge, United Kingdom",
   "source": "James D. Watson, The Double Helix (1968); Brenda Maddox, Rosalind Franklin: The Dark Lady of DNA (2002); Watson and Crick, Nature 171 (1953)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Cavendish Laboratory (old), Cambridge",
+  "lat": 52.2043,
+  "lon": 0.1186
 }

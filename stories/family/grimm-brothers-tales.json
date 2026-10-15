@@ -10,5 +10,8 @@
   "year": 1812,
   "location": "Kassel, Gottingen and Berlin, Germany",
   "source": "Jacob and Wilhelm Grimm, Kinder- und Hausmarchen (1812 to 1857); Jack Zipes, The Brothers Grimm (1988)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Kassel, Germany",
+  "lat": 51.313,
+  "lon": 9.48
 }

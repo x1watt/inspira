@@ -11,5 +11,8 @@
   "location": "Stanford University, Stanford, USA",
   "source": "Newton, E. L. (1990). The rocky road from actions to intentions. Doctoral dissertation, Stanford University.",
   "basis": "study",
-  "caveat": "The study was an unpublished dissertation, and its figures are mostly known through later popular accounts."
+  "caveat": "The study was an unpublished dissertation, and its figures are mostly known through later popular accounts.",
+  "place": "Stanford University, California, USA",
+  "lat": 37.4275,
+  "lon": -122.1697
 }

@@ -10,5 +10,8 @@
   "year": 1947,
   "location": "Bell Telephone Laboratories, Murray Hill, New Jersey, USA",
   "source": "Michael Riordan and Lillian Hoddeson, Crystal Fire: The Birth of the Information Age (1997)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Bell Labs, Murray Hill, New Jersey, USA",
+  "lat": 40.6838,
+  "lon": -74.4009
 }

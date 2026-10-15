@@ -10,5 +10,8 @@
   "year": -404,
   "location": "Athens, Greece",
   "source": "Plato, Apology 32b to 32e; Xenophon, Memorabilia, Book 4, chapter 4",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Athens, Greece",
+  "lat": 37.984,
+  "lon": 23.728
 }

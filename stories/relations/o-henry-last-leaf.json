@@ -10,5 +10,8 @@
   "year": 1907,
   "location": "Greenwich Village, New York City, USA",
   "source": "O. Henry, The Last Leaf, in The Trimmed Lamp (1907)",
-  "basis": "literature"
+  "basis": "literature",
+  "place": "Greenwich Village, New York City, USA",
+  "lat": 40.733,
+  "lon": -74.003
 }

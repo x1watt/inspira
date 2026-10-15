@@ -10,5 +10,8 @@
   "year": 30,
   "location": "Capernaum, Galilee (modern Israel)",
   "source": "Gospel of Mark 2:1-12",
-  "basis": "literature"
+  "basis": "literature",
+  "place": "Capernaum, Israel",
+  "lat": 32.8803,
+  "lon": 35.575
 }

@@ -497,6 +497,7 @@ class StoryFeedPage extends StatelessWidget {
                   ),
                 ),
               ),
+        onMap: story.hasPlace ? () => showOnMap(context, story.id) : null,
         onDetails: () {
           onOpened();
           Navigator.of(
@@ -602,7 +603,7 @@ class EventFeedPage extends StatelessWidget {
         shareText: event.toShareText(),
         onLike: onLike,
         onPerson: null,
-        onMap: event.hasPlace ? () => openPlace(context, event) : null,
+        onMap: event.hasPlace ? () => showOnMap(context, event.id) : null,
         onDetails: () {
           onOpened();
           Navigator.of(context).push(

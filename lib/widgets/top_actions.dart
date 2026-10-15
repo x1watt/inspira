@@ -1,10 +1,11 @@
 import 'package:flutter/material.dart';
 
 import '../screens/favorites_screen.dart';
+import '../screens/map_screen.dart';
 import '../screens/on_this_day_screen.dart';
 import '../screens/profile_screen.dart';
 
-/// On this day, Favorites and Me, at the top of every main tab so the bottom bar keeps
+/// Map, On this day, Favorites and Me, at the top of every main tab so the bottom bar keeps
 /// only the places to read and play.
 class TopActions extends StatelessWidget {
   const TopActions({super.key, this.onImage = false});
@@ -36,6 +37,15 @@ class TopActions extends StatelessWidget {
     return Row(
       mainAxisSize: MainAxisSize.min,
       children: [
+        IconButton(
+          tooltip: 'Map',
+          style: style,
+          icon: const Icon(Icons.map_rounded),
+          onPressed: () =>
+              Navigator.of(context)
+                  .push(MaterialPageRoute(builder: (_) => const MapScreen())),
+        ),
+        if (onImage) const SizedBox(width: 6),
         IconButton(
           tooltip: 'On this day',
           style: style,

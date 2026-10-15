@@ -11,5 +11,8 @@
   "location": "Florence (Italy)",
   "source": "Giorgio Vasari, Lives of the Most Excellent Painters, Sculptors and Architects, Life of Filippo Brunelleschi",
   "basis": "anecdote",
-  "caveat": "The egg story is probably apocryphal; a similar tale was later told about Columbus."
+  "caveat": "The egg story is probably apocryphal; a similar tale was later told about Columbus.",
+  "place": "Florence Cathedral (Duomo), Italy",
+  "lat": 43.7731,
+  "lon": 11.256
 }

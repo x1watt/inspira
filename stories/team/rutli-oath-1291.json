@@ -11,5 +11,8 @@
   "location": "Rutli meadow, Lake Lucerne, Switzerland",
   "source": "Federal Charter of 1291 (Bundesbrief), Schwyz; White Book of Sarnen (c. 1470); Aegidius Tschudi, Chronicon Helveticum",
   "basis": "legend",
-  "caveat": "The charter is authentic, but the Rutli oath scene and its three heroes are later legend."
+  "caveat": "The charter is authentic, but the Rutli oath scene and its three heroes are later legend.",
+  "place": "Rutli meadow, Lake Lucerne, Switzerland",
+  "lat": 46.9769,
+  "lon": 8.597
 }

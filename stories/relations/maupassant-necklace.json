@@ -10,5 +10,8 @@
   "year": 1884,
   "location": "Paris (modern France)",
   "source": "Guy de Maupassant, The Necklace (La Parure, 1884)",
-  "basis": "literature"
+  "basis": "literature",
+  "place": "Paris, France",
+  "lat": 48.857,
+  "lon": 2.352
 }

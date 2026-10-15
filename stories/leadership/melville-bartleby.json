@@ -10,5 +10,8 @@
   "year": 1853,
   "location": "New York City, USA",
   "source": "Herman Melville, Bartleby, the Scrivener: A Story of Wall Street, 1853",
-  "basis": "literature"
+  "basis": "literature",
+  "place": "New York City, USA",
+  "lat": 40.713,
+  "lon": -74.006
 }

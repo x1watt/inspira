@@ -11,5 +11,8 @@
   "location": "Jerusalem",
   "source": "1 Kings 3:16-28",
   "basis": "literature",
-  "caveat": "The story is part of the biblical account of Solomon and is not independently attested."
+  "caveat": "The story is part of the biblical account of Solomon and is not independently attested.",
+  "place": "Jerusalem",
+  "lat": 31.778,
+  "lon": 35.235
 }

@@ -11,5 +11,8 @@
   "location": "Inawashiro, Fukushima, Japan, and New York, USA",
   "source": "Letter of Noguchi Shika (1912), Noguchi Hideyo Memorial Museum; Isabel R. Plesset, Noguchi and His Patrons (1980)",
   "basis": "documented",
-  "caveat": "Some of Noguchi's scientific claims were later shown to be wrong."
+  "caveat": "Some of Noguchi's scientific claims were later shown to be wrong.",
+  "place": "Inawashiro, Fukushima, Japan",
+  "lat": 37.554,
+  "lon": 140.113
 }

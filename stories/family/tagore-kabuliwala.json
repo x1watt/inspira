@@ -10,5 +10,8 @@
   "year": 1892,
   "location": "Calcutta (Kolkata), India",
   "source": "Rabindranath Tagore, Kabuliwala (1892)",
-  "basis": "literature"
+  "basis": "literature",
+  "place": "Kolkata, India",
+  "lat": 22.573,
+  "lon": 88.364
 }

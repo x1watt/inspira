@@ -10,5 +10,8 @@
   "year": 1842,
   "location": "St. Petersburg, Russia",
   "source": "Nikolai Gogol, The Overcoat, 1842",
-  "basis": "literature"
+  "basis": "literature",
+  "place": "Saint Petersburg, Russia",
+  "lat": 59.939,
+  "lon": 30.316
 }

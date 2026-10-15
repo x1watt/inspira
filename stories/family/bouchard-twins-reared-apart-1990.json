@@ -11,5 +11,8 @@
   "location": "University of Minnesota, Minneapolis, USA",
   "source": "Bouchard, T. J., Lykken, D. T., McGue, M., Segal, N. L., and Tellegen, A. (1990). Sources of human psychological differences: The Minnesota Study of Twins Reared Apart. Science, 250(4978), 223-228.",
   "basis": "study",
-  "caveat": "Many twins had some contact before testing and were raised in fairly similar homes, and heritability estimates apply to a population, not to any individual."
+  "caveat": "Many twins had some contact before testing and were raised in fairly similar homes, and heritability estimates apply to a population, not to any individual.",
+  "place": "University of Minnesota, Minneapolis, USA",
+  "lat": 44.974,
+  "lon": -93.2277
 }

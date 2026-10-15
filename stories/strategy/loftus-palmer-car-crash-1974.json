@@ -10,5 +10,8 @@
   "year": 1974,
   "location": "University of Washington, Seattle, USA",
   "source": "Loftus, E. F., and Palmer, J. C. (1974). Reconstruction of automobile destruction: An example of the interaction between language and memory. Journal of Verbal Learning and Verbal Behavior, 13(5), 585-589.",
-  "basis": "study"
+  "basis": "study",
+  "place": "University of Washington, Seattle, USA",
+  "lat": 47.6553,
+  "lon": -122.3035
 }

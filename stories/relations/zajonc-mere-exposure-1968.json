@@ -10,5 +10,8 @@
   "year": 1968,
   "location": "University of Michigan, Ann Arbor, USA",
   "source": "Zajonc, R. B. (1968). Attitudinal effects of mere exposure. Journal of Personality and Social Psychology Monograph Supplement, 9(2, Part 2), 1-27.",
-  "basis": "study"
+  "basis": "study",
+  "place": "University of Michigan, Ann Arbor, USA",
+  "lat": 42.278,
+  "lon": -83.7382
 }

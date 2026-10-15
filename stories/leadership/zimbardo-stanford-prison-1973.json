@@ -11,5 +11,8 @@
   "location": "Stanford University, California, USA",
   "source": "Haney, C., Banks, C., and Zimbardo, P. (1973). Interpersonal dynamics in a simulated prison. International Journal of Criminology and Penology, 1, 69-97.",
   "basis": "study",
-  "caveat": "The study had no real control group, and later critiques (notably by Thibault Le Texier in 2018) show guards were coached, so it is not clean evidence that roles alone cause cruelty."
+  "caveat": "The study had no real control group, and later critiques (notably by Thibault Le Texier in 2018) show guards were coached, so it is not clean evidence that roles alone cause cruelty.",
+  "place": "Stanford University",
+  "lat": 37.4275,
+  "lon": -122.1697
 }

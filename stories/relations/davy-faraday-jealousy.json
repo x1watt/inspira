@@ -11,5 +11,8 @@
   "location": "Royal Institution and Royal Society, London, England",
   "source": "Faraday's correspondence; Henry Bence Jones, The Life and Letters of Faraday (1870)",
   "basis": "documented",
-  "caveat": "Some details, such as the single vote against, rest on later accounts, and Davy's motives are interpreted differently by historians."
+  "caveat": "Some details, such as the single vote against, rest on later accounts, and Davy's motives are interpreted differently by historians.",
+  "place": "Royal Institution, London, England",
+  "lat": 51.509,
+  "lon": -0.1417
 }

@@ -10,5 +10,8 @@
   "year": -279,
   "location": "Asculum, Apulia (modern Ascoli Satriano, Italy)",
   "source": "Plutarch, Life of Pyrrhus 21",
-  "basis": "anecdote"
+  "basis": "anecdote",
+  "place": "Ascoli Satriano, Italy",
+  "lat": 41.205,
+  "lon": 15.559
 }

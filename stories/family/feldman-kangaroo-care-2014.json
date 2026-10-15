@@ -11,5 +11,8 @@
   "location": "Bar-Ilan University, Ramat Gan, Israel",
   "source": "Feldman, R., Rosenthal, Z., and Eidelman, A. I. (2014). Maternal-preterm skin-to-skin contact enhances child physiologic organization and cognitive control across the first 10 years of life. Biological Psychiatry, 75(1), 56-64.",
   "basis": "study",
-  "caveat": "Mothers were not randomly assigned to kangaroo care, so other differences between the groups may have played a role."
+  "caveat": "Mothers were not randomly assigned to kangaroo care, so other differences between the groups may have played a role.",
+  "place": "Bar-Ilan University, Ramat Gan, Israel",
+  "lat": 32.069,
+  "lon": 34.843
 }

@@ -10,5 +10,8 @@
   "year": 2000,
   "location": "Cornell University, Ithaca, USA",
   "source": "Gilovich, T., Medvec, V. H., and Savitsky, K. (2000). The spotlight effect in social judgment: An egocentric bias in estimates of the salience of one's own actions and appearance. Journal of Personality and Social Psychology, 78(2), 211-222.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Cornell University, Ithaca, New York, USA",
+  "lat": 42.4491,
+  "lon": -76.4835
 }

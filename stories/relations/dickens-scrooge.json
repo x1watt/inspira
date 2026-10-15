@@ -10,5 +10,8 @@
   "year": 1843,
   "location": "London (modern UK)",
   "source": "Charles Dickens, A Christmas Carol (1843)",
-  "basis": "literature"
+  "basis": "literature",
+  "place": "London, England",
+  "lat": 51.507,
+  "lon": -0.128
 }

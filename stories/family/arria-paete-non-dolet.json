@@ -10,5 +10,8 @@
   "year": 42,
   "location": "Rome, Italy",
   "source": "Pliny the Younger, Letters 3.16",
-  "basis": "anecdote"
+  "basis": "anecdote",
+  "place": "Rome, Italy",
+  "lat": 41.893,
+  "lon": 12.483
 }

@@ -10,5 +10,8 @@
   "year": 1988,
   "location": "Harvard University, Cambridge, USA",
   "source": "Kagan, J., Reznick, J. S., and Snidman, N. (1988). Biological bases of childhood shyness. Science, 240(4849), 167-171.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Harvard Yard, Cambridge, Massachusetts, USA",
+  "lat": 42.3744,
+  "lon": -71.1169
 }

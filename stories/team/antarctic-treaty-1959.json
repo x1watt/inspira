@@ -10,5 +10,8 @@
   "year": 1959,
   "location": "Washington, D.C., USA, and Antarctica",
   "source": "The Antarctic Treaty (1959); records of the International Geophysical Year",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Washington, D.C., USA",
+  "lat": 38.907,
+  "lon": -77.037
 }

@@ -11,5 +11,8 @@
   "location": "University of Washington, Seattle, USA",
   "source": "Meltzoff, A. N., and Moore, M. K. (1977). Imitation of facial and manual gestures by human neonates. Science, 198(4312), 75-78.",
   "basis": "study",
-  "caveat": "The finding is disputed: a large 2016 longitudinal study by Oostenbroek and colleagues found no reliable newborn imitation, though Meltzoff and others contest its methods."
+  "caveat": "The finding is disputed: a large 2016 longitudinal study by Oostenbroek and colleagues found no reliable newborn imitation, though Meltzoff and others contest its methods.",
+  "place": "University of Washington, Seattle, USA",
+  "lat": 47.6556,
+  "lon": -122.3095
 }

@@ -10,5 +10,8 @@
   "year": -970,
   "location": "Gibeon, ancient Israel (modern West Bank)",
   "source": "Hebrew Bible, 1 Kings 3:3-15",
-  "basis": "literature"
+  "basis": "literature",
+  "place": "Tell el-Jib (ancient Gibeon), West Bank",
+  "lat": 31.8508,
+  "lon": 35.1853
 }

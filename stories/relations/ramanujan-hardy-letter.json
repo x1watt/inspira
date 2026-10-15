@@ -10,5 +10,8 @@
   "year": 1913,
   "location": "Cambridge, England, and Madras (modern Chennai), India",
   "source": "G. H. Hardy, Ramanujan: Twelve Lectures on Subjects Suggested by His Life and Work (1940); Robert Kanigel, The Man Who Knew Infinity (1991)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Trinity College, Cambridge, England",
+  "lat": 52.2069,
+  "lon": 0.1166
 }

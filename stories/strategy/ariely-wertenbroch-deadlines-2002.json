@@ -10,5 +10,8 @@
   "year": 2002,
   "location": "Massachusetts Institute of Technology, Cambridge, USA",
   "source": "Ariely, D., and Wertenbroch, K. (2002). Procrastination, deadlines, and performance: Self-control by precommitment. Psychological Science, 13(3), 219-224.",
-  "basis": "study"
+  "basis": "study",
+  "place": "MIT, Cambridge, Massachusetts",
+  "lat": 42.3601,
+  "lon": -71.0942
 }

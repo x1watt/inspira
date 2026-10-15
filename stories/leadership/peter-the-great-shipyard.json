@@ -10,5 +10,8 @@
   "year": 1697,
   "location": "Zaandam and Amsterdam, Netherlands",
   "source": "Accounts of the Grand Embassy; Dutch records at Zaandam and Amsterdam",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Zaandam, Netherlands",
+  "lat": 52.439,
+  "lon": 4.829
 }

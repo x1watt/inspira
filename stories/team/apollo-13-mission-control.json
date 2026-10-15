@@ -10,5 +10,8 @@
   "year": 1970,
   "location": "Mission Control, Houston, USA, and cislunar space",
   "source": "NASA, Report of the Apollo 13 Review Board (1970); Jim Lovell and Jeffrey Kluger, Lost Moon (1994)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Johnson Space Center, Houston, Texas, USA",
+  "lat": 29.5522,
+  "lon": -95.097
 }

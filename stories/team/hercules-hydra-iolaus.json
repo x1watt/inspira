@@ -10,5 +10,8 @@
   "year": 100,
   "location": "Lerna, Argolis (modern Greece)",
   "source": "Apollodorus, Library (Bibliotheca) 2.5.2",
-  "basis": "literature"
+  "basis": "literature",
+  "place": "Lerna archaeological site, Argolis, Greece",
+  "lat": 37.5555,
+  "lon": 22.7138
 }

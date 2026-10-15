@@ -11,5 +11,8 @@
   "location": "Sierra Nevada, California, USA",
   "source": "Donald K. Grayson (1990). Donner Party deaths: A demographic assessment. Journal of Anthropological Research, 46(3), 223 to 242",
   "basis": "documented",
-  "caveat": "The exact numbers vary slightly between accounts because membership of the party is counted in different ways."
+  "caveat": "The exact numbers vary slightly between accounts because membership of the party is counted in different ways.",
+  "place": "Donner Memorial State Park, California, USA",
+  "lat": 39.3236,
+  "lon": -120.2335
 }

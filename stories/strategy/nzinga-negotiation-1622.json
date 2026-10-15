@@ -11,5 +11,8 @@
   "location": "Luanda (Angola)",
   "source": "Giovanni Antonio Cavazzi da Montecuccolo, Istorica descrizione de' tre regni Congo, Matamba et Angola (1687); Linda Heywood, Njinga of Angola (2017)",
   "basis": "anecdote",
-  "caveat": "The chair episode is known from later accounts and may have been embellished."
+  "caveat": "The chair episode is known from later accounts and may have been embellished.",
+  "place": "Luanda, Angola",
+  "lat": -8.839,
+  "lon": 13.289
 }

@@ -10,5 +10,8 @@
   "year": 1998,
   "location": "Institute of Psychiatry, London, UK",
   "source": "Rutter, M., and the English and Romanian Adoptees (ERA) Study Team (1998). Developmental catch-up, and deficit, following adoption after severe global early privation. Journal of Child Psychology and Psychiatry, 39(4), 465-476.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Institute of Psychiatry, Denmark Hill, London, England",
+  "lat": 51.4687,
+  "lon": -0.0919
 }

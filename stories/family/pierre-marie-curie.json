@@ -10,5 +10,8 @@
   "year": 1898,
   "location": "Paris, France",
   "source": "Marie Curie, Pierre Curie (1923); Eve Curie, Madame Curie (1937)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Paris, France",
+  "lat": 48.857,
+  "lon": 2.352
 }

@@ -11,5 +11,8 @@
   "location": "University of Zurich, Zurich, Switzerland",
   "source": "Fehr, E., and Gachter, S. (2002). Altruistic punishment in humans. Nature, 415(6868), 137-140.",
   "basis": "study",
-  "caveat": "Later studies found that in some societies punishment is also aimed at cooperators, which can undermine cooperation instead of supporting it."
+  "caveat": "Later studies found that in some societies punishment is also aimed at cooperators, which can undermine cooperation instead of supporting it.",
+  "place": "University of Zurich, Switzerland",
+  "lat": 47.3744,
+  "lon": 8.5486
 }

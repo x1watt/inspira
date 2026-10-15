@@ -10,5 +10,8 @@
   "year": 0,
   "location": "Kurukshetra (modern Haryana, India)",
   "source": "Mahabharata, Drona Parva",
-  "basis": "literature"
+  "basis": "literature",
+  "place": "Kurukshetra, Haryana, India",
+  "lat": 29.969,
+  "lon": 76.878
 }

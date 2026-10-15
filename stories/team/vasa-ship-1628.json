@@ -10,5 +10,8 @@
   "year": 1628,
   "location": "Stockholm, Sweden",
   "source": "Records of the 1628 inquiry; Vasa Museum research publications, e.g. Fred Hocker, Vasa (2011)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Vasa Museum, Stockholm, Sweden",
+  "lat": 59.328,
+  "lon": 18.0914
 }

@@ -10,5 +10,8 @@
   "year": 1862,
   "location": "France (set in Digne, 1815)",
   "source": "Victor Hugo, Les Miserables (1862), Part One, Book Two",
-  "basis": "literature"
+  "basis": "literature",
+  "place": "Digne-les-Bains, France",
+  "lat": 44.092,
+  "lon": 6.236
 }

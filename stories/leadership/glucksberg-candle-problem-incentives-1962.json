@@ -10,5 +10,8 @@
   "year": 1962,
   "location": "New York University, USA",
   "source": "Glucksberg, S. (1962). The influence of strength of drive on functional fixedness and perceptual recognition. Journal of Experimental Psychology, 63(1), 36-41.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Washington Square, New York University, USA",
+  "lat": 40.7295,
+  "lon": -73.9965
 }

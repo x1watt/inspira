@@ -10,5 +10,8 @@
   "year": 1863,
   "location": "Washington, D.C., USA",
   "source": "Abraham Lincoln, letter to George G. Meade, July 14, 1863 (unsent), Collected Works of Abraham Lincoln, ed. Roy P. Basler, vol. 6",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Washington, DC, USA",
+  "lat": 38.907,
+  "lon": -77.037
 }

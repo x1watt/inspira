@@ -10,5 +10,8 @@
   "year": 1635,
   "location": "Edo (modern Tokyo, Japan)",
   "source": "Buke Shohatto (Laws for the Military Houses), revision of 1635; Constantine Vaporis, Tour of Duty (2008)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Tokyo (Edo), Japan",
+  "lat": 35.682,
+  "lon": 139.759
 }

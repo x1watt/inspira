@@ -10,5 +10,8 @@
   "year": 1978,
   "location": "Johns Hopkins University, Baltimore, USA",
   "source": "Ainsworth, M. D. S., Blehar, M. C., Waters, E., and Wall, S. (1978). Patterns of Attachment: A Psychological Study of the Strange Situation. Hillsdale, NJ: Erlbaum.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Johns Hopkins University, Baltimore",
+  "lat": 39.3299,
+  "lon": -76.6205
 }

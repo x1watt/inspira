@@ -10,5 +10,8 @@
   "year": -930,
   "location": "Shechem, ancient Israel (modern West Bank)",
   "source": "Hebrew Bible, 1 Kings 12:1-20",
-  "basis": "literature"
+  "basis": "literature",
+  "place": "Nablus, West Bank",
+  "lat": 32.222,
+  "lon": 35.262
 }

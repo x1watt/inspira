@@ -11,5 +11,8 @@
   "location": "Kansas City, USA",
   "source": "Hart, B., and Risley, T. R. (1995). Meaningful Differences in the Everyday Experience of Young American Children. Baltimore: Paul H. Brookes.",
   "basis": "study",
-  "caveat": "The sample was small, and later studies (for example Sperry, Sperry and Miller, 2019) have disputed the size of the class gap, especially when speech by other family members is counted."
+  "caveat": "The sample was small, and later studies (for example Sperry, Sperry and Miller, 2019) have disputed the size of the class gap, especially when speech by other family members is counted.",
+  "place": "Kansas City, USA",
+  "lat": 39.1,
+  "lon": -94.579
 }

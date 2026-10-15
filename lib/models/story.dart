@@ -17,6 +17,9 @@ class Story {
     required this.sourceUrl,
     required this.basis,
     required this.caveat,
+    this.place = '',
+    this.lat,
+    this.lon,
   });
 
   factory Story.fromJson(Map<String, dynamic> j) => Story(
@@ -34,6 +37,9 @@ class Story {
     sourceUrl: j['source_url'] as String? ?? '',
     basis: j['basis'] as String? ?? '',
     caveat: j['caveat'] as String? ?? '',
+    place: j['place'] as String? ?? '',
+    lat: (j['lat'] as num?)?.toDouble(),
+    lon: (j['lon'] as num?)?.toDouble(),
   );
 
   final String id;
@@ -63,6 +69,14 @@ class Story {
 
   /// Known doubts, such as failed replications or disputed details.
   final String caveat;
+
+  /// Where a visitor can go to see the place, with its coordinates; empty
+  /// and null when there is no single real place.
+  final String place;
+  final double? lat;
+  final double? lon;
+
+  bool get hasPlace => lat != null && lon != null;
 
   /// What [basis] means for the reader, or empty when it needs no note.
   String get basisNote => switch (basis) {

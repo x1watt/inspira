@@ -10,5 +10,8 @@
   "year": 1258,
   "location": "Shiraz, Persia (modern Iran)",
   "source": "Saadi, Gulistan, Chapter 1 (On the Manners of Kings)",
-  "basis": "parable"
+  "basis": "parable",
+  "place": "Shiraz, Iran",
+  "lat": 29.592,
+  "lon": 52.584
 }

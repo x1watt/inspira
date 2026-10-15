@@ -11,5 +11,8 @@
   "location": "Tilbury, Essex, England",
   "source": "Leonel Sharp's letter to the Duke of Buckingham, published in Cabala (1654)",
   "basis": "documented",
-  "caveat": "The text survives only through Sharp's later version, so the exact wording is uncertain."
+  "caveat": "The text survives only through Sharp's later version, so the exact wording is uncertain.",
+  "place": "Tilbury Fort, Essex, England",
+  "lat": 51.4561,
+  "lon": 0.3645
 }

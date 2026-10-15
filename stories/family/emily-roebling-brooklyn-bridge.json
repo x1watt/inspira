@@ -10,5 +10,8 @@
   "year": 1883,
   "location": "Brooklyn and New York City, USA",
   "source": "David McCullough, The Great Bridge (1972); Roebling family papers, Rutgers University",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Brooklyn Bridge, New York, USA",
+  "lat": 40.7061,
+  "lon": -73.9969
 }

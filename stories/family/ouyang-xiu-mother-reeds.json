@@ -10,5 +10,8 @@
   "year": 1010,
   "location": "Suizhou, Hubei, China",
   "source": "History of Song (Song Shi), biography of Ouyang Xiu",
-  "basis": "anecdote"
+  "basis": "anecdote",
+  "place": "Suizhou, Hubei, China",
+  "lat": 31.69,
+  "lon": 113.382
 }

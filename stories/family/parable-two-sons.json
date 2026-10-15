@@ -10,5 +10,8 @@
   "year": 30,
   "location": "Jerusalem, Roman Judea",
   "source": "Gospel of Matthew 21:28-32",
-  "basis": "parable"
+  "basis": "parable",
+  "place": "Jerusalem",
+  "lat": 31.778,
+  "lon": 35.235
 }

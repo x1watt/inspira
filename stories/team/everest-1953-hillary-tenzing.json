@@ -10,5 +10,8 @@
   "year": 1953,
   "location": "Mount Everest, Nepal and Tibet (China)",
   "source": "John Hunt, The Ascent of Everest (1953); Tenzing Norgay with James Ramsey Ullman, Tiger of the Snows (1955)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Mount Everest summit, Nepal and Tibet",
+  "lat": 27.9881,
+  "lon": 86.925
 }

@@ -11,5 +11,8 @@
   "location": "University of Rochester, Rochester, USA",
   "source": "Kidd, C., Palmeri, H., and Aslin, R. N. (2013). Rational snacking: Young children's decision-making on the marshmallow task is moderated by beliefs about environmental reliability. Cognition, 126(1), 109-114.",
   "basis": "study",
-  "caveat": "The study was small, with 28 children, though later work has supported the role of trust in children's waiting."
+  "caveat": "The study was small, with 28 children, though later work has supported the role of trust in children's waiting.",
+  "place": "University of Rochester",
+  "lat": 43.1288,
+  "lon": -77.629
 }

@@ -11,5 +11,8 @@
   "location": "University of California, Berkeley, USA",
   "source": "Keltner, D., Gruenfeld, D. H., and Anderson, C. (2003). Power, approach, and inhibition. Psychological Review, 110(2), 265-284.",
   "basis": "study",
-  "caveat": "It is a theory built from a review of studies; some later findings on specific effects of power have replicated weakly."
+  "caveat": "It is a theory built from a review of studies; some later findings on specific effects of power have replicated weakly.",
+  "place": "UC Berkeley",
+  "lat": 37.8719,
+  "lon": -122.2585
 }

@@ -10,5 +10,8 @@
   "year": 1869,
   "location": "Sierra Nevada, California, to Promontory Summit, Utah, USA",
   "source": "Gordon H. Chang, Ghosts of Gold Mountain (2019); Stephen E. Ambrose, Nothing Like It in the World (2000)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Promontory Summit, Utah, USA",
+  "lat": 41.6184,
+  "lon": -112.5489
 }

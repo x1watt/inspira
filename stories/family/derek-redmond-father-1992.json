@@ -11,5 +11,8 @@
   "location": "Estadi Olimpic, Barcelona, Spain",
   "source": "Barcelona 1992 Olympic results; BBC and contemporary press reports; Derek Redmond's interviews",
   "basis": "documented",
-  "caveat": "Accounts differ slightly on Jim Redmond's exact words."
+  "caveat": "Accounts differ slightly on Jim Redmond's exact words.",
+  "place": "Estadi Olimpic Lluis Companys, Barcelona, Spain",
+  "lat": 41.3647,
+  "lon": 2.1556
 }

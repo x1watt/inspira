@@ -11,5 +11,8 @@
   "location": "University of California, Berkeley, USA",
   "source": "Baumrind, D. (1967). Child care practices anteceding three patterns of preschool behavior. Genetic Psychology Monographs, 75(1), 43-88.",
   "basis": "study",
-  "caveat": "The original samples were small, mostly white and middle class, and the findings are correlational, so they show association rather than proof that the parenting style caused the outcome."
+  "caveat": "The original samples were small, mostly white and middle class, and the findings are correlational, so they show association rather than proof that the parenting style caused the outcome.",
+  "place": "University of California, Berkeley, USA",
+  "lat": 37.8722,
+  "lon": -122.2578
 }

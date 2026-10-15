@@ -10,5 +10,8 @@
   "year": 1960,
   "location": "University College London, United Kingdom",
   "source": "Wason, P. C. (1960). On the failure to eliminate hypotheses in a conceptual task. Quarterly Journal of Experimental Psychology, 12(3), 129-140.",
-  "basis": "study"
+  "basis": "study",
+  "place": "University College London",
+  "lat": 51.5246,
+  "lon": -0.134
 }

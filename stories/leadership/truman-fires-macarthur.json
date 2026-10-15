@@ -10,5 +10,8 @@
   "year": 1951,
   "location": "Washington, D.C., USA",
   "source": "Truman's statement of April 11, 1951; Truman, Memoirs, Volume 2; Senate Armed Services and Foreign Relations Committee hearings (1951)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Washington, D.C.",
+  "lat": 38.907,
+  "lon": -77.037
 }

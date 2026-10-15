@@ -10,5 +10,8 @@
   "year": 1896,
   "location": "Adwa, Tigray (Ethiopia)",
   "source": "Raymond Jonas, The Battle of Adwa (2011); Harold Marcus, The Life and Times of Menelik II (1975)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Adwa, Tigray, Ethiopia",
+  "lat": 14.165,
+  "lon": 38.898
 }

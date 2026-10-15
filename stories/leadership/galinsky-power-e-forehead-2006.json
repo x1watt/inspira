@@ -11,5 +11,8 @@
   "location": "Northwestern University, Evanston, USA",
   "source": "Galinsky, A. D., Magee, J. C., Inesi, M. E., and Gruenfeld, D. H. (2006). Power and perspectives not taken. Psychological Science, 17(12), 1068-1074.",
   "basis": "study",
-  "caveat": "Later replication attempts of power priming effects have been mixed, so treat the size of the effect with caution."
+  "caveat": "Later replication attempts of power priming effects have been mixed, so treat the size of the effect with caution.",
+  "place": "Northwestern University, Evanston",
+  "lat": 42.0565,
+  "lon": -87.6753
 }

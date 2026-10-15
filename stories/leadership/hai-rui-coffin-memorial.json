@@ -10,5 +10,8 @@
   "year": 1566,
   "location": "Beijing, China",
   "source": "Ming Shi (History of Ming), Biography of Hai Rui; Hai Rui, Memorial on Public Order (Zhi An Shu)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Beijing, China",
+  "lat": 39.904,
+  "lon": 116.407
 }

@@ -10,5 +10,8 @@
   "year": 1226,
   "location": "Paris and Pontoise, France",
   "source": "Jean de Joinville, Life of Saint Louis",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Paris, France",
+  "lat": 48.857,
+  "lon": 2.352
 }

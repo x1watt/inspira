@@ -10,5 +10,8 @@
   "year": 1504,
   "location": "St. Ann's Bay (Jamaica)",
   "source": "Ferdinand Columbus, The Life of the Admiral Christopher Columbus by His Son Ferdinand",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "St. Ann's Bay, Jamaica",
+  "lat": 18.436,
+  "lon": -77.201
 }

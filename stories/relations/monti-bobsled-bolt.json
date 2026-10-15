@@ -10,5 +10,8 @@
   "year": 1964,
   "location": "Igls, Innsbruck, Austria",
   "source": "Official reports of the IX Olympic Winter Games, Innsbruck (1964); contemporary press reports",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Igls, Innsbruck, Austria",
+  "lat": 47.227,
+  "lon": 11.41
 }

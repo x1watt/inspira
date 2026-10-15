@@ -11,5 +11,8 @@
   "location": "Pittsburgh area, Pennsylvania, USA",
   "source": "Herzberg, F., Mausner, B., and Snyderman, B. B. (1959). The Motivation to Work. Wiley.",
   "basis": "study",
-  "caveat": "Later studies using other methods often failed to find two clean factors; people may credit themselves for good times and blame circumstances for bad ones."
+  "caveat": "Later studies using other methods often failed to find two clean factors; people may credit themselves for good times and blame circumstances for bad ones.",
+  "place": "Pittsburgh, Pennsylvania, USA",
+  "lat": 40.441,
+  "lon": -79.996
 }

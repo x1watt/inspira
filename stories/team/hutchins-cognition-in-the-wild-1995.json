@@ -10,5 +10,8 @@
   "year": 1995,
   "location": "San Diego, California, USA",
   "source": "Hutchins, E. (1995). Cognition in the Wild. MIT Press.",
-  "basis": "study"
+  "basis": "study",
+  "place": "San Diego, California, USA",
+  "lat": 32.716,
+  "lon": -117.162
 }

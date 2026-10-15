@@ -10,5 +10,8 @@
   "year": 1810,
   "location": "Torres Vedras, north of Lisbon (Portugal)",
   "source": "The Dispatches of Field Marshal the Duke of Wellington; Charles Oman, A History of the Peninsular War, vols. 3 and 4",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Torres Vedras, Portugal",
+  "lat": 39.091,
+  "lon": -9.258
 }

@@ -10,5 +10,8 @@
   "year": 1966,
   "location": "Palo Alto, California, USA",
   "source": "Freedman, J. L., and Fraser, S. C. (1966). Compliance without pressure: The foot-in-the-door technique. Journal of Personality and Social Psychology, 4(2), 195-202.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Palo Alto, California",
+  "lat": 37.442,
+  "lon": -122.143
 }

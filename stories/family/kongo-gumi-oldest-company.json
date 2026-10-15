@@ -11,5 +11,8 @@
   "location": "Osaka, Japan",
   "source": "Kongo Gumi company records; reporting on the 2006 takeover (Bloomberg Businessweek, 2007)",
   "basis": "documented",
-  "caveat": "The founding date and early history come from the company's own traditional records."
+  "caveat": "The founding date and early history come from the company's own traditional records.",
+  "place": "Shitenno-ji, Osaka, Japan",
+  "lat": 34.6542,
+  "lon": 135.516
 }

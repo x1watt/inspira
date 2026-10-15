@@ -10,5 +10,8 @@
   "year": 1794,
   "location": "Jena and Weimar, Germany",
   "source": "Goethe-Schiller correspondence (1794 to 1805); Goethe, \"Gluckliches Ereignis\" (A Fortunate Encounter, 1817)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Jena, Germany",
+  "lat": 50.927,
+  "lon": 11.589
 }

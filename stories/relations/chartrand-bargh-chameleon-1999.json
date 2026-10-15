@@ -10,5 +10,8 @@
   "year": 1999,
   "location": "New York University, New York, USA",
   "source": "Chartrand, T. L., and Bargh, J. A. (1999). The chameleon effect: The perception-behavior link and social interaction. Journal of Personality and Social Psychology, 76(6), 893-910.",
-  "basis": "study"
+  "basis": "study",
+  "place": "New York University, New York, USA",
+  "lat": 40.7295,
+  "lon": -73.9965
 }

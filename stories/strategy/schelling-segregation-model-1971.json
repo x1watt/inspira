@@ -10,5 +10,8 @@
   "year": 1971,
   "location": "Harvard University, Cambridge, Massachusetts, USA",
   "source": "Schelling, T. C. (1971). Dynamic models of segregation. Journal of Mathematical Sociology, 1(2), 143-186.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Harvard University, Cambridge, Massachusetts",
+  "lat": 42.377,
+  "lon": -71.1167
 }

@@ -10,5 +10,8 @@
   "year": 1914,
   "location": "Highland Park, Michigan (USA)",
   "source": "Henry Ford with Samuel Crowther, My Life and Work (1922), chapter 10; contemporary press reports",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Highland Park, Michigan",
+  "lat": 42.405,
+  "lon": -83.097
 }

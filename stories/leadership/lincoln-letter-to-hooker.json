@@ -10,5 +10,8 @@
   "year": 1863,
   "location": "Washington, D.C., USA",
   "source": "Lincoln to Joseph Hooker, January 26, 1863, Collected Works of Abraham Lincoln, Volume 6",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Washington, D.C.",
+  "lat": 38.907,
+  "lon": -77.037
 }

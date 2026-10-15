@@ -10,5 +10,8 @@
   "year": 1907,
   "location": "Plymouth, England, UK",
   "source": "Galton, F. (1907). Vox populi. Nature, 75, 450-451.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Plymouth, England",
+  "lat": 50.371,
+  "lon": -4.143
 }

@@ -10,5 +10,8 @@
   "year": 2001,
   "location": "University of California, Berkeley, USA",
   "source": "Nemeth, C., Brown, K., and Rogers, J. (2001). Devil's advocate versus authentic dissent: Stimulating quantity and quality. European Journal of Social Psychology, 31(6), 707-720.",
-  "basis": "study"
+  "basis": "study",
+  "place": "University of California, Berkeley, USA",
+  "lat": 37.8722,
+  "lon": -122.2578
 }

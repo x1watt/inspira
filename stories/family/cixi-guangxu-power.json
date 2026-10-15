@@ -11,5 +11,8 @@
   "location": "Forbidden City and Zhongnanhai, Beijing, China",
   "source": "Jung Chang, Empress Dowager Cixi (2013); Qing court records; Chinese forensic report on the Guangxu emperor's remains (2008)",
   "basis": "documented",
-  "caveat": "Who ordered the poisoning is unknown; suspects include Cixi and court officials."
+  "caveat": "Who ordered the poisoning is unknown; suspects include Cixi and court officials.",
+  "place": "Forbidden City, Beijing, China",
+  "lat": 39.9163,
+  "lon": 116.3972
 }

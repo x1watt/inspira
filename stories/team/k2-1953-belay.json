@@ -11,5 +11,8 @@
   "location": "K2, Karakoram, Pakistan",
   "source": "Charles S. Houston and Robert H. Bates, K2: The Savage Mountain (1954)",
   "basis": "documented",
-  "caveat": "It is not known for certain whether Gilkey was taken by an avalanche or freed himself to spare the others; most accounts favor the avalanche."
+  "caveat": "It is not known for certain whether Gilkey was taken by an avalanche or freed himself to spare the others; most accounts favor the avalanche.",
+  "place": "K2, Karakoram, Pakistan",
+  "lat": 35.8825,
+  "lon": 76.5133
 }

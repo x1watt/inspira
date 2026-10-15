@@ -10,5 +10,8 @@
   "year": 1986,
   "location": "Kennedy Space Center, Florida, and Morton Thiokol, Utah, USA",
   "source": "Report of the Presidential Commission on the Space Shuttle Challenger Accident (Rogers Commission, 1986)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Kennedy Space Center, Florida, USA",
+  "lat": 28.5721,
+  "lon": -80.648
 }

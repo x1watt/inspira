@@ -10,5 +10,8 @@
   "year": 1335,
   "location": "Toledo (modern Spain)",
   "source": "Don Juan Manuel, El Conde Lucanor, Exemplo 11",
-  "basis": "literature"
+  "basis": "literature",
+  "place": "Toledo, Spain",
+  "lat": 39.862,
+  "lon": -4.027
 }

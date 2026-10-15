@@ -11,5 +11,8 @@
   "location": "Carnegie Mellon University, Pittsburgh, USA",
   "source": "Chase, W. G., and Simon, H. A. (1973). Perception in chess. Cognitive Psychology, 4(1), 55-81.",
   "basis": "study",
-  "caveat": "Later studies (Gobet and Simon, 1996) found that masters keep a small advantage even on random boards, though far smaller than on real positions."
+  "caveat": "Later studies (Gobet and Simon, 1996) found that masters keep a small advantage even on random boards, though far smaller than on real positions.",
+  "place": "Carnegie Mellon University, Pittsburgh, USA",
+  "lat": 40.4433,
+  "lon": -79.9436
 }

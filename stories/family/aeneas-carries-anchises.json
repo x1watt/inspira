@@ -10,5 +10,8 @@
   "year": -19,
   "location": "Troy (modern Turkey, myth); written in Rome, Italy",
   "source": "Virgil, Aeneid, Book 2",
-  "basis": "literature"
+  "basis": "literature",
+  "place": "Troy archaeological site, Turkey",
+  "lat": 39.9575,
+  "lon": 26.2386
 }

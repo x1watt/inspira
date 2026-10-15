@@ -11,5 +11,8 @@
   "location": "Athens, Greece",
   "source": "Thucydides, History of the Peloponnesian War, Book 2, chapters 34 to 46",
   "basis": "documented",
-  "caveat": "Thucydides admits his speeches give the general sense of what was said, not the exact words."
+  "caveat": "Thucydides admits his speeches give the general sense of what was said, not the exact words.",
+  "place": "Athens, Greece",
+  "lat": 37.984,
+  "lon": 23.728
 }

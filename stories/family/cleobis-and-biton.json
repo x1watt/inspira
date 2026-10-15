@@ -11,5 +11,8 @@
   "location": "Argos, Greece",
   "source": "Herodotus, Histories 1.31",
   "basis": "legend",
-  "caveat": "Herodotus presents the tale as told by Solon; it is a legend, and the conversation between Solon and Croesus is chronologically doubtful."
+  "caveat": "Herodotus presents the tale as told by Solon; it is a legend, and the conversation between Solon and Croesus is chronologically doubtful.",
+  "place": "Argos, Greece",
+  "lat": 37.633,
+  "lon": 22.73
 }

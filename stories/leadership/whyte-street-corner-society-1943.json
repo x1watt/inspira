@@ -11,5 +11,8 @@
   "location": "North End, Boston, USA",
   "source": "Whyte, W. F. (1943). Street Corner Society: The Social Structure of an Italian Slum. University of Chicago Press.",
   "basis": "study",
-  "caveat": "It is an ethnography of one group described by a single observer, so it is a rich case rather than a measured result."
+  "caveat": "It is an ethnography of one group described by a single observer, so it is a rich case rather than a measured result.",
+  "place": "North End, Boston, USA",
+  "lat": 42.365,
+  "lon": -71.054
 }

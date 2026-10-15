@@ -10,5 +10,8 @@
   "year": 1981,
   "location": "University of Kansas, Lawrence, USA",
   "source": "Batson, C. D., Duncan, B. D., Ackerman, P., Buckley, T., and Birch, K. (1981). Is empathic emotion a source of altruistic motivation? Journal of Personality and Social Psychology, 40(2), 290-302.",
-  "basis": "study"
+  "basis": "study",
+  "place": "University of Kansas, Lawrence, USA",
+  "lat": 38.9543,
+  "lon": -95.2558
 }

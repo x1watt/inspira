@@ -10,5 +10,8 @@
   "year": 2006,
   "location": "Columbia University, New York, USA (online experiment)",
   "source": "Salganik, M. J., Dodds, P. S., and Watts, D. J. (2006). Experimental study of inequality and unpredictability in an artificial cultural market. Science, 311(5762), 854-856.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Columbia University, New York, USA",
+  "lat": 40.8075,
+  "lon": -73.9626
 }

@@ -10,5 +10,8 @@
   "year": 1971,
   "location": "Yale University, New Haven, USA",
   "source": "Shubik, M. (1971). The dollar auction game: A paradox in noncooperative behavior and escalation. Journal of Conflict Resolution, 15(1), 109-111.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Yale University, New Haven, Connecticut, USA",
+  "lat": 41.3112,
+  "lon": -72.9267
 }

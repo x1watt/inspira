@@ -11,5 +11,8 @@
   "location": "Misenum and Stabiae, Bay of Naples, Italy",
   "source": "Pliny the Younger, Letters 6.16 and 6.20",
   "basis": "documented",
-  "caveat": "The traditional date of 24 August has been questioned, and some scholars place the eruption in the autumn."
+  "caveat": "The traditional date of 24 August has been questioned, and some scholars place the eruption in the autumn.",
+  "place": "Castellammare di Stabia, Italy",
+  "lat": 40.703,
+  "lon": 14.48
 }

@@ -1,30 +1,24 @@
-import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 
 import '../models/event.dart';
+import '../screens/map_screen.dart';
 import 'person_sheet.dart';
 
-/// Opens [e]'s place in a map: the maps app on Android (a `geo:` link),
-/// OpenStreetMap elsewhere.
-Future<void> openPlace(BuildContext context, HistoryEvent e) {
-  final label = Uri.encodeComponent(e.place.isEmpty ? e.title : e.place);
-  final url = !kIsWeb && defaultTargetPlatform == TargetPlatform.android
-      ? 'geo:${e.lat},${e.lon}?q=${e.lat},${e.lon}($label)'
-      : 'https://www.openstreetmap.org/?mlat=${e.lat}&mlon=${e.lon}'
-            '#map=11/${e.lat}/${e.lon}';
-  return openLink(context, url);
-}
+/// Opens the in-app map at [id] (an event or story with a place).
+void showOnMap(BuildContext context, String id) =>
+    Navigator.of(context)
+        .push(MaterialPageRoute(builder: (_) => MapScreen(focus: id)));
 
 /// Everything known about an event: date, place, what, why, what it
 /// changed, who; with links to Wikipedia and the map. White on dark, for
-/// the feed panel and the On this day list alike.
+/// the feed panel, On this day and the map alike.
 class EventDetails extends StatelessWidget {
   const EventDetails({
     super.key,
     required this.event,
     required this.nowYear,
     this.header,
-    this.links = true,
+    this.mapLink = true,
   });
 
   static const _body = TextStyle(
@@ -39,7 +33,9 @@ class EventDetails extends StatelessWidget {
 
   /// Chips above the title.
   final Widget? header;
-  final bool links;
+
+  /// False on the map itself.
+  final bool mapLink;
 
   @override
   Widget build(BuildContext context) {
@@ -109,7 +105,7 @@ class EventDetails extends StatelessWidget {
           const SizedBox(height: 12),
           Text('Who: ${e.participants.join(', ')}', style: _muted),
         ],
-        if (links && (e.wikipediaUrl.isNotEmpty || e.hasPlace)) ...[
+        if (e.wikipediaUrl.isNotEmpty || (mapLink && e.hasPlace)) ...[
           const SizedBox(height: 8),
           Wrap(
             spacing: 4,
@@ -120,9 +116,9 @@ class EventDetails extends StatelessWidget {
                   icon: const Icon(Icons.open_in_new, size: 16),
                   label: const Text('Read on Wikipedia'),
                 ),
-              if (e.hasPlace)
+              if (mapLink && e.hasPlace)
                 TextButton.icon(
-                  onPressed: () => openPlace(context, e),
+                  onPressed: () => showOnMap(context, e.id),
                   icon: const Icon(Icons.place_outlined, size: 16),
                   label: const Text('Show on the map'),
                 ),

@@ -10,5 +10,8 @@
   "year": 1879,
   "location": "Mill Hill and Oxford, United Kingdom",
   "source": "K. M. Elisabeth Murray, Caught in the Web of Words (1977); Simon Winchester, The Professor and the Madman (1998)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Oxford, England",
+  "lat": 51.752,
+  "lon": -1.258
 }

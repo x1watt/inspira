@@ -11,5 +11,8 @@
   "location": "London, England (play set at Agincourt, France)",
   "source": "William Shakespeare, Henry V, Act 4, Scene 3",
   "basis": "literature",
-  "caveat": "The speech is Shakespeare's invention, not a record of what Henry said at the real battle."
+  "caveat": "The speech is Shakespeare's invention, not a record of what Henry said at the real battle.",
+  "place": "Azincourt, France",
+  "lat": 50.463,
+  "lon": 2.127
 }

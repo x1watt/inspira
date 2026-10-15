@@ -11,5 +11,8 @@
   "location": "Harvard University, Cambridge, USA",
   "source": "Bales, R. F. (1950). Interaction Process Analysis: A Method for the Study of Small Groups. Addison-Wesley.",
   "basis": "study",
-  "caveat": "The clear split between the two roles was found mostly in groups of strangers; in established teams one person sometimes does both."
+  "caveat": "The clear split between the two roles was found mostly in groups of strangers; in established teams one person sometimes does both.",
+  "place": "Harvard Yard, Cambridge, Massachusetts, USA",
+  "lat": 42.3744,
+  "lon": -71.1169
 }

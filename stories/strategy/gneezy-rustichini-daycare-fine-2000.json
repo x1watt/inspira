@@ -10,5 +10,8 @@
   "year": 2000,
   "location": "Haifa, Israel",
   "source": "Gneezy, U., and Rustichini, A. (2000). A fine is a price. Journal of Legal Studies, 29(1), 1-17.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Haifa, Israel",
+  "lat": 32.794,
+  "lon": 34.99
 }

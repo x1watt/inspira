@@ -10,5 +10,8 @@
   "year": 2006,
   "location": "Princeton University, Princeton, USA",
   "source": "Willis, J., and Todorov, A. (2006). First impressions: Making up your mind after a 100-ms exposure to a face. Psychological Science, 17(7), 592-598.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Nassau Hall, Princeton University, USA",
+  "lat": 40.3487,
+  "lon": -74.6593
 }

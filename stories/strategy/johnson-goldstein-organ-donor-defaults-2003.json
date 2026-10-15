@@ -11,5 +11,8 @@
   "location": "Columbia University, New York, USA (data from European countries)",
   "source": "Johnson, E. J., and Goldstein, D. (2003). Do defaults save lives? Science, 302(5649), 1338-1339.",
   "basis": "study",
-  "caveat": "Actual donation rates differ far less than consent rates, since families and hospital systems also decide outcomes."
+  "caveat": "Actual donation rates differ far less than consent rates, since families and hospital systems also decide outcomes.",
+  "place": "Columbia University, New York, USA",
+  "lat": 40.8075,
+  "lon": -73.9626
 }

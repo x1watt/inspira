@@ -10,5 +10,8 @@
   "year": 1984,
   "location": "Fremont, California, USA",
   "source": "John Shook, 'How to Change a Culture: Lessons from NUMMI', MIT Sloan Management Review 51(2) (2010); Paul S. Adler, 'Time-and-Motion Regained', Harvard Business Review (1993)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Tesla Factory (former NUMMI), Fremont",
+  "lat": 37.494,
+  "lon": -121.945
 }

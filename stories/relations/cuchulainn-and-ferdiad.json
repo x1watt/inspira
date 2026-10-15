@@ -10,5 +10,8 @@
   "year": 1100,
   "location": "Ardee, County Louth (modern Ireland)",
   "source": "Tain Bo Cuailnge (The Cattle Raid of Cooley), Book of Leinster recension",
-  "basis": "literature"
+  "basis": "literature",
+  "place": "Ardee, County Louth, Ireland",
+  "lat": 53.859,
+  "lon": -6.538
 }

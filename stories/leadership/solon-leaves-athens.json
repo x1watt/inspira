@@ -10,5 +10,8 @@
   "year": -594,
   "location": "Athens, Greece",
   "source": "Herodotus, Histories, Book 1, chapter 29; Plutarch, Life of Solon, chapters 15 to 26",
-  "basis": "anecdote"
+  "basis": "anecdote",
+  "place": "Athens, Greece",
+  "lat": 37.984,
+  "lon": 23.728
 }

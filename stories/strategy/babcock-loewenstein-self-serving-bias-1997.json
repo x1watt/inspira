@@ -10,5 +10,8 @@
   "year": 1997,
   "location": "Carnegie Mellon University, Pittsburgh, USA",
   "source": "Babcock, L., and Loewenstein, G. (1997). Explaining bargaining impasse: The role of self-serving biases. Journal of Economic Perspectives, 11(1), 109-126.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Carnegie Mellon University, Pittsburgh",
+  "lat": 40.4433,
+  "lon": -79.9436
 }

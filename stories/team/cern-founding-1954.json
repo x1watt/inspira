@@ -10,5 +10,8 @@
   "year": 1954,
   "location": "Meyrin, near Geneva, Switzerland",
   "source": "Convention for the Establishment of a European Organization for Nuclear Research (1953); Armin Hermann et al., History of CERN, vol. 1 (1987)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "CERN, Meyrin, Switzerland",
+  "lat": 46.233,
+  "lon": 6.0557
 }

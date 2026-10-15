@@ -11,5 +11,8 @@
   "location": "Oakland, California, USA",
   "source": "Elder, G. H. (1974). Children of the Great Depression: Social Change in Life Experience. Chicago: University of Chicago Press.",
   "basis": "study",
-  "caveat": "Elder's later comparison with a younger Berkeley cohort found that children who were very young when hardship struck fared worse, so the effect depended on age."
+  "caveat": "Elder's later comparison with a younger Berkeley cohort found that children who were very young when hardship struck fared worse, so the effect depended on age.",
+  "place": "Oakland, California",
+  "lat": 37.804,
+  "lon": -122.271
 }

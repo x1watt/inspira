@@ -11,5 +11,8 @@
   "location": "Cornell University, Ithaca, USA",
   "source": "Kruger, J., and Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one's own incompetence lead to inflated self-assessments. Journal of Personality and Social Psychology, 77(6), 1121-1134.",
   "basis": "study",
-  "caveat": "Part of the pattern can be produced by regression to the mean and the general better-than-average effect, so its size beyond statistical artifact is debated."
+  "caveat": "Part of the pattern can be produced by regression to the mean and the general better-than-average effect, so its size beyond statistical artifact is debated.",
+  "place": "Cornell University, Ithaca, New York, USA",
+  "lat": 42.4534,
+  "lon": -76.4735
 }

@@ -11,5 +11,8 @@
   "location": "London (United Kingdom)",
   "source": "Andrew Odlyzko (2019). Newton's financial misadventures in the South Sea Bubble. Notes and Records of the Royal Society, 73(1); Joseph Spence, Anecdotes",
   "basis": "anecdote",
-  "caveat": "The famous quote about the madness of people is first recorded long after Newton's death and may be apocryphal."
+  "caveat": "The famous quote about the madness of people is first recorded long after Newton's death and may be apocryphal.",
+  "place": "London, England",
+  "lat": 51.507,
+  "lon": -0.128
 }

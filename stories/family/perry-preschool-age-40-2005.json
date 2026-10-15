@@ -11,5 +11,8 @@
   "location": "Ypsilanti, Michigan, USA",
   "source": "Schweinhart, L. J., Montie, J., Xiang, Z., Barnett, W. S., Belfield, C. R., and Nores, M. (2005). Lifetime Effects: The High/Scope Perry Preschool Study Through Age 40. Ypsilanti, MI: High/Scope Press.",
   "basis": "study",
-  "caveat": "The sample was small and the assignment process was not perfectly random, so the size of the effects is debated even though reanalyses support the main conclusions."
+  "caveat": "The sample was small and the assignment process was not perfectly random, so the size of the effects is debated even though reanalyses support the main conclusions.",
+  "place": "Ypsilanti, Michigan, USA",
+  "lat": 42.241,
+  "lon": -83.613
 }

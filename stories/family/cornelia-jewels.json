@@ -10,5 +10,8 @@
   "year": -150,
   "location": "Rome (modern Italy)",
   "source": "Valerius Maximus, Memorable Deeds and Sayings 4.4 (preface); Plutarch, Life of Tiberius Gracchus 1 and Life of Gaius Gracchus 19",
-  "basis": "anecdote"
+  "basis": "anecdote",
+  "place": "Rome, Italy",
+  "lat": 41.893,
+  "lon": 12.483
 }

@@ -10,5 +10,8 @@
   "year": 1954,
   "location": "University of Minnesota, Minneapolis, USA",
   "source": "Meehl, P. E. (1954). Clinical Versus Statistical Prediction: A Theoretical Analysis and a Review of the Evidence. Minneapolis: University of Minnesota Press.",
-  "basis": "study"
+  "basis": "study",
+  "place": "University of Minnesota, Minneapolis, USA",
+  "lat": 44.974,
+  "lon": -93.2277
 }

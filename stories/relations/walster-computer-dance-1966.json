@@ -10,5 +10,8 @@
   "year": 1966,
   "location": "University of Minnesota, Minneapolis, USA",
   "source": "Walster, E., Aronson, V., Abrahams, D., and Rottman, L. (1966). Importance of physical attractiveness in dating behavior. Journal of Personality and Social Psychology, 4(5), 508-516.",
-  "basis": "study"
+  "basis": "study",
+  "place": "University of Minnesota, Minneapolis, USA",
+  "lat": 44.974,
+  "lon": -93.2277
 }

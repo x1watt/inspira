@@ -11,5 +11,8 @@
   "location": "Battle Creek, Michigan, USA",
   "source": "Howard Markel, The Kelloggs: The Battling Brothers of Battle Creek (2017)",
   "basis": "documented",
-  "caveat": "The story of the undelivered letter comes from family accounts and is not fully documented."
+  "caveat": "The story of the undelivered letter comes from family accounts and is not fully documented.",
+  "place": "Battle Creek, Michigan",
+  "lat": 42.321,
+  "lon": -85.18
 }

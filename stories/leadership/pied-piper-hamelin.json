@@ -11,5 +11,8 @@
   "location": "Hamelin, Lower Saxony, Germany",
   "source": "Brothers Grimm, Deutsche Sagen (1816); Robert Browning, The Pied Piper of Hamelin (1842)",
   "basis": "folktale",
-  "caveat": "Town records suggest some real loss of Hamelin's children in 1284, but the rat catching was added to the legend only in the 16th century."
+  "caveat": "Town records suggest some real loss of Hamelin's children in 1284, but the rat catching was added to the legend only in the 16th century.",
+  "place": "Hamelin, Germany",
+  "lat": 52.104,
+  "lon": 9.357
 }

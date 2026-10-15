@@ -11,5 +11,8 @@
   "location": "Alexandria and Syene (modern Aswan), Egypt",
   "source": "Cleomedes, On the Circular Motions of the Celestial Bodies 1.7",
   "basis": "documented",
-  "caveat": "The length of the stadium Eratosthenes used is uncertain, so claims about how accurate he was vary."
+  "caveat": "The length of the stadium Eratosthenes used is uncertain, so claims about how accurate he was vary.",
+  "place": "Alexandria, Egypt",
+  "lat": 31.2,
+  "lon": 29.919
 }

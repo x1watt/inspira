@@ -11,5 +11,8 @@
   "location": "Sardis, Lydia (modern Turkey)",
   "source": "Herodotus, Histories, Book 1, chapters 29 to 33 and 86 to 88",
   "basis": "legend",
-  "caveat": "Solon's visit is chronologically unlikely, and other ancient sources give different accounts of Croesus's fate."
+  "caveat": "Solon's visit is chronologically unlikely, and other ancient sources give different accounts of Croesus's fate.",
+  "place": "Sardis archaeological site, Turkey",
+  "lat": 38.488,
+  "lon": 28.04
 }

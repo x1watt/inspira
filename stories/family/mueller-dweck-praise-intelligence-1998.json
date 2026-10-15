@@ -11,5 +11,8 @@
   "location": "Columbia University, New York, USA",
   "source": "Mueller, C. M., and Dweck, C. S. (1998). Praise for intelligence can undermine children's motivation and performance. Journal of Personality and Social Psychology, 75(1), 33-52.",
   "basis": "study",
-  "caveat": "Later large-scale studies of growth mindset interventions have found much smaller effects than early laboratory work suggested."
+  "caveat": "Later large-scale studies of growth mindset interventions have found much smaller effects than early laboratory work suggested.",
+  "place": "Columbia University, New York, USA",
+  "lat": 40.8075,
+  "lon": -73.9626
 }

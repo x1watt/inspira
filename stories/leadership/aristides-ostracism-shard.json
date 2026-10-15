@@ -10,5 +10,8 @@
   "year": -482,
   "location": "Athens, Greece",
   "source": "Plutarch, Life of Aristides, chapter 7",
-  "basis": "anecdote"
+  "basis": "anecdote",
+  "place": "Athens, Greece",
+  "lat": 37.975,
+  "lon": 23.735
 }

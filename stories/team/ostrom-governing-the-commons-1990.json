@@ -10,5 +10,8 @@
   "year": 1990,
   "location": "Indiana University, Bloomington, USA (cases from Switzerland, Spain, Japan, the Philippines and elsewhere)",
   "source": "Ostrom, E. (1990). Governing the Commons: The Evolution of Institutions for Collective Action. Cambridge University Press.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Indiana University, Bloomington, USA",
+  "lat": 39.1682,
+  "lon": -86.523
 }

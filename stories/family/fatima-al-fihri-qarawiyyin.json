@@ -11,5 +11,8 @@
   "location": "Fez, Morocco",
   "source": "Ibn Abi Zar, Rawd al-Qirtas (14th century)",
   "basis": "anecdote",
-  "caveat": "The main source was written five centuries later, and the claim that it was the oldest university depends on how a university is defined."
+  "caveat": "The main source was written five centuries later, and the claim that it was the oldest university depends on how a university is defined.",
+  "place": "University of al-Qarawiyyin, Fez, Morocco",
+  "lat": 34.0646,
+  "lon": -4.9732
 }

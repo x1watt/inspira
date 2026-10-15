@@ -10,5 +10,8 @@
   "year": 1988,
   "location": "Busan, South Korea",
   "source": "Official Report of the Games of the XXIVth Olympiad, Seoul 1988; contemporary press reports",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Busan, South Korea",
+  "lat": 35.18,
+  "lon": 129.076
 }

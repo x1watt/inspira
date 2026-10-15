@@ -10,5 +10,8 @@
   "year": 1880,
   "location": "Russia (story set in Seville, Spain)",
   "source": "Fyodor Dostoevsky, The Brothers Karamazov, Book V, Chapter 5",
-  "basis": "literature"
+  "basis": "literature",
+  "place": "Seville, Spain",
+  "lat": 37.389,
+  "lon": -5.984
 }

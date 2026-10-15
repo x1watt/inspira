@@ -10,5 +10,8 @@
   "year": -1250,
   "location": "Mount Sinai (Sinai Peninsula, modern Egypt)",
   "source": "Exodus 35:4 to 36:7",
-  "basis": "literature"
+  "basis": "literature",
+  "place": "Saint Catherine's Monastery, Mount Sinai, Egypt",
+  "lat": 28.5561,
+  "lon": 33.9756
 }

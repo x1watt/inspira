@@ -10,5 +10,8 @@
   "year": 1532,
   "location": "Cajamarca (Peru)",
   "source": "Francisco de Xerez, True Account of the Conquest of Peru (1534); Pedro Pizarro, Relation of the Discovery and Conquest of the Kingdoms of Peru (1571)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Cajamarca, Peru",
+  "lat": -7.164,
+  "lon": -78.5
 }

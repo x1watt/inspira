@@ -10,5 +10,8 @@
   "year": 1991,
   "location": "London, UK",
   "source": "Marmot, M. G., Smith, G. D., Stansfeld, S., Patel, C., North, F., Head, J., White, I., Brunner, E., and Feeney, A. (1991). Health inequalities among British civil servants: The Whitehall II study. Lancet, 337(8754), 1387-1393.",
-  "basis": "study"
+  "basis": "study",
+  "place": "London, England",
+  "lat": 51.507,
+  "lon": -0.128
 }

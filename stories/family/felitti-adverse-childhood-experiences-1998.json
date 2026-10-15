@@ -11,5 +11,8 @@
   "location": "Kaiser Permanente, San Diego, USA",
   "source": "Felitti, V. J., Anda, R. F., Nordenberg, D., Williamson, D. F., Spitz, A. M., Edwards, V., Koss, M. P., and Marks, J. S. (1998). Relationship of childhood abuse and household dysfunction to many of the leading causes of death in adults: The Adverse Childhood Experiences (ACE) Study. American Journal of Preventive Medicine, 14(4), 245-258.",
   "basis": "study",
-  "caveat": "The data are retrospective and correlational, and researchers warn that an individual's ACE score cannot predict that person's future."
+  "caveat": "The data are retrospective and correlational, and researchers warn that an individual's ACE score cannot predict that person's future.",
+  "place": "San Diego, California",
+  "lat": 32.716,
+  "lon": -117.162
 }

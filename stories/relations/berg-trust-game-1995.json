@@ -10,5 +10,8 @@
   "year": 1995,
   "location": "University of Minnesota, Minneapolis, USA",
   "source": "Berg, J., Dickhaut, J., and McCabe, K. (1995). Trust, reciprocity, and social history. Games and Economic Behavior, 10(1), 122-142.",
-  "basis": "study"
+  "basis": "study",
+  "place": "University of Minnesota, Minneapolis",
+  "lat": 44.974,
+  "lon": -93.2277
 }

@@ -10,5 +10,8 @@
   "year": 1935,
   "location": "Columbia University, New York, USA",
   "source": "Sherif, M. (1935). A study of some social factors in perception. Archives of Psychology.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Columbia University, New York",
+  "lat": 40.8075,
+  "lon": -73.9626
 }

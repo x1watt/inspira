@@ -10,5 +10,8 @@
   "year": 1977,
   "location": "Stanford University, Stanford, USA",
   "source": "Ross, L., Greene, D., and House, P. (1977). The 'false consensus effect': An egocentric bias in social perception and attribution processes. Journal of Experimental Social Psychology, 13(3), 279-301.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Stanford University, California, USA",
+  "lat": 37.4275,
+  "lon": -122.1697
 }

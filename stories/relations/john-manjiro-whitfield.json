@@ -10,5 +10,8 @@
   "year": 1841,
   "location": "Torishima, Japan, and Fairhaven, Massachusetts, USA",
   "source": "Manjiro's account to Japanese officials (Hyoson Kiryaku, 1852); Emily V. Warinner, Voyager to Destiny (1956)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Fairhaven, Massachusetts, USA",
+  "lat": 41.637,
+  "lon": -70.903
 }

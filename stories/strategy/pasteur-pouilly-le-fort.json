@@ -11,5 +11,8 @@
   "location": "Pouilly-le-Fort, near Melun (France)",
   "source": "Louis Pasteur, Chamberland and Roux, report to the Academy of Sciences (June 1881); Gerald L. Geison, The Private Science of Louis Pasteur (1995)",
   "basis": "documented",
-  "caveat": "Geison's research showed Pasteur was not candid about the method used to make the vaccine."
+  "caveat": "Geison's research showed Pasteur was not candid about the method used to make the vaccine.",
+  "place": "Pouilly-le-Fort, France",
+  "lat": 48.531,
+  "lon": 2.655
 }

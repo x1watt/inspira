@@ -10,5 +10,8 @@
   "year": 1998,
   "location": "Greenwich, Connecticut, and New York (USA)",
   "source": "Roger Lowenstein, When Genius Failed: The Rise and Fall of Long-Term Capital Management (2000)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Greenwich, Connecticut, USA",
+  "lat": 41.026,
+  "lon": -73.629
 }

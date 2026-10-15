@@ -11,5 +11,8 @@
   "location": "University of Iowa, Iowa City, Iowa, USA",
   "source": "Lewin, K. (1947). Group decision and social change. In T. M. Newcomb and E. L. Hartley (Eds.), Readings in Social Psychology. Henry Holt.",
   "basis": "study",
-  "caveat": "The groups were small and the study was loosely controlled, so public commitment and other factors may have contributed to the effect."
+  "caveat": "The groups were small and the study was loosely controlled, so public commitment and other factors may have contributed to the effect.",
+  "place": "University of Iowa, Iowa City",
+  "lat": 41.6611,
+  "lon": -91.5302
 }

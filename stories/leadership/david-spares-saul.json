@@ -10,5 +10,8 @@
   "year": -1010,
   "location": "En Gedi, near the Dead Sea (modern Israel)",
   "source": "Hebrew Bible, 1 Samuel 24",
-  "basis": "literature"
+  "basis": "literature",
+  "place": "Ein Gedi Nature Reserve, Israel",
+  "lat": 31.462,
+  "lon": 35.389
 }

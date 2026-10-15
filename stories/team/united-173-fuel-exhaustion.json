@@ -10,5 +10,8 @@
   "year": 1978,
   "location": "Portland, Oregon, USA",
   "source": "National Transportation Safety Board, Aircraft Accident Report NTSB-AAR-79-7 (1979)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Portland, Oregon",
+  "lat": 45.523,
+  "lon": -122.676
 }

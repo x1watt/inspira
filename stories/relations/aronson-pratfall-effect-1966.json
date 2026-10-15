@@ -10,5 +10,8 @@
   "year": 1966,
   "location": "University of Minnesota, Minneapolis, USA",
   "source": "Aronson, E., Willerman, B., and Floyd, J. (1966). The effect of a pratfall on increasing interpersonal attractiveness. Psychonomic Science, 4(6), 227-228.",
-  "basis": "study"
+  "basis": "study",
+  "place": "University of Minnesota, Minneapolis, USA",
+  "lat": 44.974,
+  "lon": -93.2277
 }

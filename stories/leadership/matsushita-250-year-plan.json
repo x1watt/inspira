@@ -10,5 +10,8 @@
   "year": 1932,
   "location": "Osaka, Japan",
   "source": "Panasonic corporate history; Konosuke Matsushita, Quest for Prosperity (1988)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Osaka, Japan",
+  "lat": 34.694,
+  "lon": 135.502
 }

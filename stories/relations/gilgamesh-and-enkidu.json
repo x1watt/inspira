@@ -10,5 +10,8 @@
   "year": -1200,
   "location": "Uruk, Mesopotamia (modern Iraq)",
   "source": "Epic of Gilgamesh, Standard Babylonian version, Tablets I to X",
-  "basis": "literature"
+  "basis": "literature",
+  "place": "Uruk (Warka) ruins, Iraq",
+  "lat": 31.3226,
+  "lon": 45.6361
 }

@@ -11,5 +11,8 @@
   "location": "Alesia, near Alise-Sainte-Reine (France)",
   "source": "Julius Caesar, Commentaries on the Gallic War 7.68 to 7.89",
   "basis": "documented",
-  "caveat": "Caesar's figures for the Gallic armies are almost certainly inflated."
+  "caveat": "Caesar's figures for the Gallic armies are almost certainly inflated.",
+  "place": "Alesia, Mont Auxois, Alise-Sainte-Reine, France",
+  "lat": 47.534,
+  "lon": 4.501
 }

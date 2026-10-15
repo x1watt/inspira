@@ -10,5 +10,8 @@
   "year": 250,
   "location": "Tiberias, Roman Palestine (modern Israel)",
   "source": "Babylonian Talmud, Bava Metzia 84a",
-  "basis": "parable"
+  "basis": "parable",
+  "place": "Tiberias, Israel",
+  "lat": 32.795,
+  "lon": 35.531
 }

@@ -10,5 +10,8 @@
   "year": 1783,
   "location": "Maryland State House, Annapolis, USA",
   "source": "Journals of the Continental Congress, December 23, 1783; Washington's address to Congress on resigning his commission",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Maryland State House, Annapolis, USA",
+  "lat": 38.9786,
+  "lon": -76.491
 }

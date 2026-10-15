@@ -10,5 +10,8 @@
   "year": 1968,
   "location": "New York, USA",
   "source": "Thomas, A., Chess, S., and Birch, H. G. (1968). Temperament and Behavior Disorders in Children. New York: New York University Press.",
-  "basis": "study"
+  "basis": "study",
+  "place": "New York, USA",
+  "lat": 40.713,
+  "lon": -74.006
 }

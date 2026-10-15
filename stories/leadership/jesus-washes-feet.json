@@ -10,5 +10,8 @@
   "year": 30,
   "location": "Jerusalem",
   "source": "New Testament, Gospel of John 13:1-17",
-  "basis": "literature"
+  "basis": "literature",
+  "place": "Jerusalem",
+  "lat": 31.778,
+  "lon": 35.235
 }

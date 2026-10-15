@@ -11,5 +11,8 @@
   "location": "Newburgh, New York, USA",
   "source": "Washington's address to the officers, March 15, 1783; accounts of officers present, including Samuel Shaw",
   "basis": "documented",
-  "caveat": "The exact words about growing gray and blind differ slightly among the accounts of those present."
+  "caveat": "The exact words about growing gray and blind differ slightly among the accounts of those present.",
+  "place": "Newburgh, New York, USA",
+  "lat": 41.503,
+  "lon": -74.01
 }

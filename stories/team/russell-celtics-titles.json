@@ -10,5 +10,8 @@
   "year": 1957,
   "location": "Boston, Massachusetts, USA",
   "source": "NBA records; Bill Russell and Taylor Branch, Second Wind: The Memoirs of an Opinionated Man (1979)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Boston, Massachusetts, USA",
+  "lat": 42.36,
+  "lon": -71.058
 }

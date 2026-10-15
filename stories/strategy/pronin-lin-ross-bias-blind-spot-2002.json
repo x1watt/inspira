@@ -10,5 +10,8 @@
   "year": 2002,
   "location": "Stanford University, California, USA",
   "source": "Pronin, E., Lin, D. Y., and Ross, L. (2002). The bias blind spot: Perceptions of bias in self versus others. Personality and Social Psychology Bulletin, 28(3), 369-381.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Stanford University, California, USA",
+  "lat": 37.4275,
+  "lon": -122.1697
 }

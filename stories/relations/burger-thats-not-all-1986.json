@@ -10,5 +10,8 @@
   "year": 1986,
   "location": "Santa Clara University, Santa Clara, USA",
   "source": "Burger, J. M. (1986). Increasing compliance by improving the deal: The that's-not-all technique. Journal of Personality and Social Psychology, 51(2), 277-283.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Santa Clara University",
+  "lat": 37.3496,
+  "lon": -121.939
 }

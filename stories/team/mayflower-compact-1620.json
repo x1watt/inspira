@@ -10,5 +10,8 @@
   "year": 1620,
   "location": "Off Cape Cod, Massachusetts, USA",
   "source": "The Mayflower Compact (1620); William Bradford, Of Plymouth Plantation, book 2",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Provincetown, Massachusetts, USA",
+  "lat": 42.052,
+  "lon": -70.186
 }

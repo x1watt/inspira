@@ -10,5 +10,8 @@
   "year": 1969,
   "location": "Paris, France",
   "source": "Moscovici, S., Lage, E., and Naffrechoux, M. (1969). Influence of a consistent minority on the responses of a majority in a color perception task. Sociometry, 32(4), 365-380.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Paris, France",
+  "lat": 48.857,
+  "lon": 2.352
 }

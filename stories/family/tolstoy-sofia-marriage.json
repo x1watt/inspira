@@ -10,5 +10,8 @@
   "year": 1910,
   "location": "Yasnaya Polyana and Astapovo, Russia",
   "source": "The Diaries of Sofia Tolstoy, trans. Cathy Porter (1985); Tolstoy's diaries; A. N. Wilson, Tolstoy (1988)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Yasnaya Polyana, Russia",
+  "lat": 54.0746,
+  "lon": 37.5231
 }

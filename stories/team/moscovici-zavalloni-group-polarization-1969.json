@@ -10,5 +10,8 @@
   "year": 1969,
   "location": "Paris, France",
   "source": "Moscovici, S., and Zavalloni, M. (1969). The group as a polarizer of attitudes. Journal of Personality and Social Psychology, 12(2), 125-135.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Paris, France",
+  "lat": 48.857,
+  "lon": 2.352
 }

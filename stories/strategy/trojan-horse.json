@@ -11,5 +11,8 @@
   "location": "Troy (modern Turkey)",
   "source": "Homer, Odyssey, Books 4 and 8; Virgil, Aeneid, Book 2",
   "basis": "literature",
-  "caveat": "Homer mentions the horse only briefly; the fuller story of Sinon and Laocoon comes from Virgil and other later poets."
+  "caveat": "Homer mentions the horse only briefly; the fuller story of Sinon and Laocoon comes from Virgil and other later poets.",
+  "place": "Troy, Turkey",
+  "lat": 39.9575,
+  "lon": 26.2389
 }

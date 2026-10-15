@@ -10,5 +10,8 @@
   "year": 1997,
   "location": "University of Munich, Germany",
   "source": "Gollwitzer, P. M., and Brandstatter, V. (1997). Implementation intentions and effective goal pursuit. Journal of Personality and Social Psychology, 73(1), 186-199.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Ludwig Maximilian University of Munich, Germany",
+  "lat": 48.1508,
+  "lon": 11.5805
 }

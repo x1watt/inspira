@@ -11,5 +11,8 @@
   "location": "Arsenal of Venice, Venice, Italy",
   "source": "Frederic C. Lane, Venetian Ships and Shipbuilders of the Renaissance (1934); Pero Tafur, Andancas e viajes (c. 1454)",
   "basis": "anecdote",
-  "caveat": "The galley built during a single banquet is a celebrated story whose exact timing is probably embellished."
+  "caveat": "The galley built during a single banquet is a celebrated story whose exact timing is probably embellished.",
+  "place": "Venetian Arsenal, Venice, Italy",
+  "lat": 45.434,
+  "lon": 12.35
 }

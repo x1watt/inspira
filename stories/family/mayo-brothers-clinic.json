@@ -10,5 +10,8 @@
   "year": 1889,
   "location": "Rochester, Minnesota, USA",
   "source": "Helen Clapesattle, The Doctors Mayo (1941); Mayo Clinic historical records",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Mayo Clinic, Rochester, Minnesota",
+  "lat": 44.0225,
+  "lon": -92.4667
 }

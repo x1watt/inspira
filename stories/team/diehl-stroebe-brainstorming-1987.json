@@ -10,5 +10,8 @@
   "year": 1987,
   "location": "University of Tubingen, Tubingen, Germany",
   "source": "Diehl, M., and Stroebe, W. (1987). Productivity loss in brainstorming groups: Toward the solution of a riddle. Journal of Personality and Social Psychology, 53(3), 497-509.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Tubingen, Germany",
+  "lat": 48.52,
+  "lon": 9.055
 }

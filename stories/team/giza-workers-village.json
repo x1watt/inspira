@@ -11,5 +11,8 @@
   "location": "Giza, Egypt",
   "source": "Mark Lehner, The Complete Pyramids (1997); Zahi Hawass and Mark Lehner, excavation reports of the Giza Plateau Mapping Project and the workers' cemetery",
   "basis": "documented",
-  "caveat": "Labor was probably rotating compulsory service owed to the state, so the line between paid work and obligation remains debated."
+  "caveat": "Labor was probably rotating compulsory service owed to the state, so the line between paid work and obligation remains debated.",
+  "place": "Giza pyramid complex, Egypt",
+  "lat": 29.9792,
+  "lon": 31.1342
 }

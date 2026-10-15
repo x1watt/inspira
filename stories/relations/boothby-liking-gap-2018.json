@@ -10,5 +10,8 @@
   "year": 2018,
   "location": "Yale University, New Haven, USA, and other sites",
   "source": "Boothby, E. J., Cooney, G., Sandstrom, G. M., and Clark, M. S. (2018). The liking gap in conversations: Do people like us more than we think? Psychological Science, 29(11), 1742-1756.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Yale University Old Campus, New Haven, USA",
+  "lat": 41.3105,
+  "lon": -72.9265
 }

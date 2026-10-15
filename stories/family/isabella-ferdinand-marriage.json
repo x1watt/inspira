@@ -10,5 +10,8 @@
   "year": 1469,
   "location": "Valladolid and Segovia, Spain",
   "source": "Fernando del Pulgar, Cronica de los Reyes Catolicos; Concord of Segovia (1475); Peggy K. Liss, Isabel the Queen (1992)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Valladolid, Spain",
+  "lat": 41.652,
+  "lon": -4.724
 }

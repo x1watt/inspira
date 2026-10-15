@@ -10,5 +10,8 @@
   "year": 1979,
   "location": "University of Waterloo, Waterloo, Canada",
   "source": "Ross, M., and Sicoly, F. (1979). Egocentric biases in availability and attribution. Journal of Personality and Social Psychology, 37(3), 322-336.",
-  "basis": "study"
+  "basis": "study",
+  "place": "University of Waterloo, Canada",
+  "lat": 43.4723,
+  "lon": -80.5449
 }

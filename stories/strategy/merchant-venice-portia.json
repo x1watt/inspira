@@ -11,5 +11,8 @@
   "location": "Venice, Italy",
   "source": "William Shakespeare, The Merchant of Venice, Act 4, Scene 1",
   "basis": "literature",
-  "caveat": "The play's treatment of Shylock reflects the antisemitism of its time and is read critically today."
+  "caveat": "The play's treatment of Shylock reflects the antisemitism of its time and is read critically today.",
+  "place": "Venice, Italy",
+  "lat": 45.438,
+  "lon": 12.327
 }

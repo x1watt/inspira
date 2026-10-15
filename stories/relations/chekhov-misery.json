@@ -10,5 +10,8 @@
   "year": 1886,
   "location": "Saint Petersburg (modern Russia)",
   "source": "Anton Chekhov, Misery (Toska, 1886)",
-  "basis": "literature"
+  "basis": "literature",
+  "place": "Saint Petersburg, Russia",
+  "lat": 59.939,
+  "lon": 30.316
 }

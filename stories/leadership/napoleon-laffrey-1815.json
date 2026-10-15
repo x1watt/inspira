@@ -11,5 +11,8 @@
   "location": "Laffrey, near Grenoble, France",
   "source": "Contemporary accounts of the Return from Elba, including memoirs of officers present",
   "basis": "documented",
-  "caveat": "The exact words Napoleon used vary between accounts."
+  "caveat": "The exact words Napoleon used vary between accounts.",
+  "place": "Laffrey, France",
+  "lat": 44.98,
+  "lon": 5.775
 }

@@ -11,5 +11,8 @@
   "location": "Florence and Rome, Italy",
   "source": "Galileo Galilei, Dialogue Concerning the Two Chief World Systems (1632); trial documents in Maurice A. Finocchiaro, The Galileo Affair (1989)",
   "basis": "documented",
-  "caveat": "Historians debate how much the Simplicio passage itself, as opposed to Church politics and the Thirty Years War, drove Urban's decision."
+  "caveat": "Historians debate how much the Simplicio passage itself, as opposed to Church politics and the Thirty Years War, drove Urban's decision.",
+  "place": "Rome, Italy",
+  "lat": 41.893,
+  "lon": 12.496
 }

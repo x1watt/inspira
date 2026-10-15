@@ -10,5 +10,8 @@
   "year": 1989,
   "location": "Sioux City, Iowa, USA",
   "source": "National Transportation Safety Board, Aircraft Accident Report NTSB/AAR-90/06 (1990)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Sioux Gateway Airport, Sioux City, Iowa",
+  "lat": 42.402,
+  "lon": -96.3844
 }

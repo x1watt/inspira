@@ -10,5 +10,8 @@
   "year": 1940,
   "location": "London, United Kingdom",
   "source": "War Cabinet minutes, May 1940; Hugh Dalton's diary, May 28, 1940",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "London, England",
+  "lat": 51.507,
+  "lon": -0.128
 }

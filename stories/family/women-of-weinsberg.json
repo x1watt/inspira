@@ -11,5 +11,8 @@
   "location": "Weinsberg, Baden-Wurttemberg, Germany",
   "source": "Chronica regia Coloniensis (Royal Chronicle of Cologne), year 1140",
   "basis": "legend",
-  "caveat": "The surrender is historical and the women's ruse is reported by a contemporary chronicle, but the dialogue and some details come from later retellings."
+  "caveat": "The surrender is historical and the women's ruse is reported by a contemporary chronicle, but the dialogue and some details come from later retellings.",
+  "place": "Weinsberg, Germany",
+  "lat": 49.152,
+  "lon": 9.285
 }

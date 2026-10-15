@@ -10,5 +10,8 @@
   "year": 1971,
   "location": "Amsterdam, Netherlands",
   "source": "Club records; David Winner, Brilliant Orange (2000)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Amsterdam, Netherlands",
+  "lat": 52.373,
+  "lon": 4.894
 }

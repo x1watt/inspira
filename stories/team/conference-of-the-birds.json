@@ -10,5 +10,8 @@
   "year": 1177,
   "location": "Nishapur, Persia (modern Iran)",
   "source": "Farid ud-Din Attar, The Conference of the Birds (Mantiq al-Tayr)",
-  "basis": "literature"
+  "basis": "literature",
+  "place": "Nishapur, Iran",
+  "lat": 36.213,
+  "lon": 58.796
 }

@@ -11,5 +11,8 @@
   "location": "Sanssouci, Potsdam, Germany",
   "source": "Prussian popular tradition; Francois Andrieux, Le Meunier de Sans-Souci (1797)",
   "basis": "legend",
-  "caveat": "There is no reliable evidence that the conversation took place; it is a legend that grew around a real mill."
+  "caveat": "There is no reliable evidence that the conversation took place; it is a legend that grew around a real mill.",
+  "place": "Sanssouci Palace, Potsdam, Germany",
+  "lat": 52.4038,
+  "lon": 13.0384
 }

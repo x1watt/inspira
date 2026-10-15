@@ -11,5 +11,8 @@
   "location": "Scutari (modern Uskudar, Istanbul, Turkey)",
   "source": "Nightingale's reports and letters; Notes on Matters Affecting the Health of the British Army (1858); Report of the Royal Commission on the Sanitary State of the Army (1858)",
   "basis": "documented",
-  "caveat": "The fall in deaths at Scutari owed more to the Sanitary Commission than to nursing, as Nightingale's own later analysis recognized."
+  "caveat": "The fall in deaths at Scutari owed more to the Sanitary Commission than to nursing, as Nightingale's own later analysis recognized.",
+  "place": "Selimiye Barracks, Uskudar, Istanbul, Turkey",
+  "lat": 41.0004,
+  "lon": 29.0153
 }

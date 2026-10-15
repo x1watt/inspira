@@ -10,5 +10,8 @@
   "year": 1991,
   "location": "University of Nebraska-Lincoln, Lincoln, USA",
   "source": "Amato, P. R., and Keith, B. (1991). Parental divorce and the well-being of children: A meta-analysis. Psychological Bulletin, 110(1), 26-46.",
-  "basis": "study"
+  "basis": "study",
+  "place": "University of Nebraska-Lincoln, USA",
+  "lat": 40.8202,
+  "lon": -96.7005
 }

@@ -10,5 +10,8 @@
   "year": 1968,
   "location": "Columbia University, New York, USA",
   "source": "Latane, B., and Darley, J. M. (1968). Group inhibition of bystander intervention in emergencies. Journal of Personality and Social Psychology, 10(3), 215-221.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Columbia University, New York, USA",
+  "lat": 40.8075,
+  "lon": -73.9626
 }

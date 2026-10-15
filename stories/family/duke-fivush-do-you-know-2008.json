@@ -11,5 +11,8 @@
   "location": "Emory University, Atlanta, USA",
   "source": "Duke, M. P., Lazarus, A., and Fivush, R. (2008). Knowledge of family history as a clinically useful index of psychological well-being and prognosis: A brief report. Psychotherapy: Theory, Research, Practice, Training, 45(2), 268-272.",
   "basis": "study",
-  "caveat": "The study was a brief correlational report, so knowing family history may reflect close family communication rather than cause resilience by itself."
+  "caveat": "The study was a brief correlational report, so knowing family history may reflect close family communication rather than cause resilience by itself.",
+  "place": "Emory University, Atlanta",
+  "lat": 33.7925,
+  "lon": -84.324
 }

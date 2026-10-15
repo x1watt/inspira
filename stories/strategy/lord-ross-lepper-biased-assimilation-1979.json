@@ -11,5 +11,8 @@
   "location": "Stanford University, California, USA",
   "source": "Lord, C. G., Ross, L., and Lepper, M. R. (1979). Biased assimilation and attitude polarization: The effects of prior theories on subsequently considered evidence. Journal of Personality and Social Psychology, 37(11), 2098-2109.",
   "basis": "study",
-  "caveat": "The polarization result relied on self-reported change in attitudes, and later studies measuring it directly found it weaker than the biased evaluation of evidence."
+  "caveat": "The polarization result relied on self-reported change in attitudes, and later studies measuring it directly found it weaker than the biased evaluation of evidence.",
+  "place": "Stanford University, California, USA",
+  "lat": 37.4275,
+  "lon": -122.1697
 }

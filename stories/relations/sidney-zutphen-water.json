@@ -11,5 +11,8 @@
   "location": "Zutphen, Netherlands",
   "source": "Fulke Greville, The Life of the Renowned Sir Philip Sidney (written c. 1610, published 1652)",
   "basis": "anecdote",
-  "caveat": "The story comes only from Greville, writing about twenty five years later, and cannot be confirmed by other witnesses."
+  "caveat": "The story comes only from Greville, writing about twenty five years later, and cannot be confirmed by other witnesses.",
+  "place": "Zutphen, Netherlands",
+  "lat": 52.139,
+  "lon": 6.196
 }

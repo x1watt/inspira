@@ -11,5 +11,8 @@
   "location": "Ctrip, Shanghai, China",
   "source": "Bloom, N., Liang, J., Roberts, J., and Ying, Z. J. (2015). Does working from home work? Evidence from a Chinese experiment. Quarterly Journal of Economics, 130(1), 165-218.",
   "basis": "study",
-  "caveat": "The jobs were simple, easily measured call center work, so the results may not transfer to tasks that need close collaboration."
+  "caveat": "The jobs were simple, easily measured call center work, so the results may not transfer to tasks that need close collaboration.",
+  "place": "Shanghai, China",
+  "lat": 31.23,
+  "lon": 121.474
 }

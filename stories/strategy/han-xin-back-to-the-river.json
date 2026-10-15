@@ -11,5 +11,8 @@
   "location": "Jingxing, Hebei (China)",
   "source": "Sima Qian, Records of the Grand Historian (Shiji), chapter 92",
   "basis": "anecdote",
-  "caveat": "Sima Qian's figures for the size of the Zhao army are probably exaggerated."
+  "caveat": "Sima Qian's figures for the size of the Zhao army are probably exaggerated.",
+  "place": "Jingxing, Hebei, China",
+  "lat": 38.033,
+  "lon": 114.144
 }

@@ -10,5 +10,8 @@
   "year": -475,
   "location": "Susa, Persia (modern Iran)",
   "source": "Hebrew Bible, Book of Esther 3 to 7",
-  "basis": "literature"
+  "basis": "literature",
+  "place": "Susa, Iran",
+  "lat": 32.19,
+  "lon": 48.257
 }

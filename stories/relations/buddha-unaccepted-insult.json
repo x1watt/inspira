@@ -10,5 +10,8 @@
   "year": -450,
   "location": "Rajagaha (modern Rajgir, India)",
   "source": "Samyutta Nikaya 7.2 (Akkosa Sutta)",
-  "basis": "parable"
+  "basis": "parable",
+  "place": "Rajgir, India",
+  "lat": 25.03,
+  "lon": 85.42
 }

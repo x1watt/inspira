@@ -10,5 +10,8 @@
   "year": -333,
   "location": "Tarsus, Cilicia (modern Turkey)",
   "source": "Plutarch, Life of Alexander 19; Arrian, Anabasis of Alexander 2.4",
-  "basis": "anecdote"
+  "basis": "anecdote",
+  "place": "Tarsus, Turkey",
+  "lat": 36.918,
+  "lon": 34.893
 }

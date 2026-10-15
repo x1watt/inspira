@@ -10,5 +10,8 @@
   "year": 1479,
   "location": "Naples and Florence (Italy)",
   "source": "Lorenzo de Medici's letter to the Signoria of Florence (December 1479); Niccolo Machiavelli, Florentine Histories, book 8",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Naples, Italy",
+  "lat": 40.852,
+  "lon": 14.268
 }

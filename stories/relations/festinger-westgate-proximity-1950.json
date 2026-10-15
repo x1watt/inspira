@@ -10,5 +10,8 @@
   "year": 1950,
   "location": "Massachusetts Institute of Technology, Cambridge, USA",
   "source": "Festinger, L., Schachter, S., and Back, K. (1950). Social Pressures in Informal Groups: A Study of Human Factors in Housing. Harper.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Massachusetts Institute of Technology, Cambridge, USA",
+  "lat": 42.3601,
+  "lon": -71.0942
 }

@@ -10,5 +10,8 @@
   "year": 1943,
   "location": "Dearborn and Detroit, Michigan, USA",
   "source": "Douglas Brinkley, Wheels for the World (2003); Allan Nevins and Frank Hill, Ford (1954 to 1963)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Dearborn, Michigan, USA",
+  "lat": 42.322,
+  "lon": -83.176
 }

@@ -10,5 +10,8 @@
   "year": 1785,
   "location": "Vienna, Austria",
   "source": "Leopold Mozart, letter to Nannerl Mozart, February 16, 1785; Mozart, dedication of the six \"Haydn\" quartets (September 1, 1785)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Vienna, Austria",
+  "lat": 48.208,
+  "lon": 16.373
 }

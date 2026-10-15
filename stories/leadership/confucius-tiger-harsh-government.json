@@ -10,5 +10,8 @@
   "year": -500,
   "location": "Mount Tai, Shandong, China",
   "source": "Book of Rites (Liji), Tangong II",
-  "basis": "parable"
+  "basis": "parable",
+  "place": "Mount Tai, Shandong, China",
+  "lat": 36.254,
+  "lon": 117.101
 }

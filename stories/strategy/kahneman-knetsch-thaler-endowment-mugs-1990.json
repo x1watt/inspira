@@ -11,5 +11,8 @@
   "location": "Cornell University, Ithaca, USA",
   "source": "Kahneman, D., Knetsch, J. L., and Thaler, R. H. (1990). Experimental tests of the endowment effect and the Coase theorem. Journal of Political Economy, 98(6), 1325-1348.",
   "basis": "study",
-  "caveat": "Later work (for example Plott and Zeiler, 2005) found that the gap shrinks under some experimental procedures, so its size depends on context."
+  "caveat": "Later work (for example Plott and Zeiler, 2005) found that the gap shrinks under some experimental procedures, so its size depends on context.",
+  "place": "Cornell University, Ithaca",
+  "lat": 42.4534,
+  "lon": -76.4735
 }

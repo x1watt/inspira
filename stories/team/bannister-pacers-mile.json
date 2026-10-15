@@ -10,5 +10,8 @@
   "year": 1954,
   "location": "Iffley Road track, Oxford, United Kingdom",
   "source": "Roger Bannister, The Four-Minute Mile (1955)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Oxford, England",
+  "lat": 51.752,
+  "lon": -1.258
 }

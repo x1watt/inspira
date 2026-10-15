@@ -10,5 +10,8 @@
   "year": -480,
   "location": "Salamis, Attica (modern Greece)",
   "source": "Herodotus, Histories 8.79 to 8.82 and 8.95; Plutarch, Life of Aristides 8 to 9",
-  "basis": "anecdote"
+  "basis": "anecdote",
+  "place": "Salamina, Greece",
+  "lat": 37.965,
+  "lon": 23.5
 }

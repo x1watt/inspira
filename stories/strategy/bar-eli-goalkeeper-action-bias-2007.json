@@ -11,5 +11,8 @@
   "location": "Ben-Gurion University of the Negev, Israel (kicks from leagues worldwide)",
   "source": "Bar-Eli, M., Azar, O. H., Ritov, I., Keidar-Levin, Y., and Schein, G. (2007). Action bias among elite soccer goalkeepers: The case of penalty kicks. Journal of Economic Psychology, 28(5), 606-621.",
   "basis": "study",
-  "caveat": "The sample of 286 kicks is modest, and if keepers stayed central more often, kickers would likely adapt."
+  "caveat": "The sample of 286 kicks is modest, and if keepers stayed central more often, kickers would likely adapt.",
+  "place": "Ben-Gurion University of the Negev, Beer Sheva, Israel",
+  "lat": 31.262,
+  "lon": 34.801
 }

@@ -10,5 +10,8 @@
   "year": 1913,
   "location": "France; University of Massachusetts, Amherst, USA",
   "source": "Ringelmann, M. (1913). Recherches sur les moteurs animes: Travail de l'homme. Annales de l'Institut National Agronomique. Ingham, A. G., Levinger, G., Graves, J., and Peckham, V. (1974). The Ringelmann effect: Studies of group size and group performance. Journal of Experimental Social Psychology, 10.",
-  "basis": "study"
+  "basis": "study",
+  "place": "Amherst, Massachusetts, USA",
+  "lat": 42.373,
+  "lon": -72.519
 }

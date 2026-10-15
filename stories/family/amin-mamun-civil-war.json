@@ -10,5 +10,8 @@
   "year": 811,
   "location": "Baghdad, Iraq, and Khurasan (Iran)",
   "source": "Al-Tabari, History of the Prophets and Kings, vols. 30 to 31 (English trans. SUNY)",
-  "basis": "documented"
+  "basis": "documented",
+  "place": "Baghdad, Iraq",
+  "lat": 33.312,
+  "lon": 44.361
 }
