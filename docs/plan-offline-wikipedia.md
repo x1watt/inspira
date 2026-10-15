@@ -357,3 +357,40 @@ earlyoom kills any process when free memory drops under 10%; with the
 other programs running, about 3 to 5 GB were free. The converter keeps
 link keys in sorted run files on disk (`spill_sort.dart`) and frees its
 lookup arrays as soon as it can, so it stays near 1.3 GB.
+
+## 9. Better locations (first measurements, 2026-10-15)
+
+Goal: coordinates for as many events, buildings and places as possible,
+reusable for every update and every language. Join key: the Wikidata id
+(Q number); every language's articles map to it through that language's
+`page_props` table, so coordinates are gathered once.
+
+Measured on the verified events that have coordinates and a Wikidata id
+(892; their coordinates were checked against Wikidata when they were
+made, so agreement with Wikidata's own coordinates is partly circular):
+
+| Source | Events with a usable point | Within 50 km |
+|---|---|---|
+| Mini ZIM (title coordinates in the HTML) | 26.9% | 95.4% |
+| English `geo_tags` table (0.05 GB), primary or other | 36.8% | 92.1% |
+| Wikidata, own coordinates (P625) | 43.0% | 93% |
+| Wikidata, coordinates of the location (P276) | +18.8% | 70% |
+| Wikidata, coordinates of the area (P131) | +1.3% | 8 of 12 |
+| Wikidata, country only (P17) | 12.2% | not a point |
+| Nothing | 24.6% | |
+
+Whole English Wikipedia: `page_props` links 10.36 million pages to
+Wikidata; `geo_tags` has 1.26 million primary coordinates, only 11,056
+of them typed as events. Events are where Wikipedia's coordinates are
+thinnest and Wikidata's location (P276) helps most.
+
+Tools: `lib/sqldump.dart` (streams any MediaWiki SQL dump),
+`bin/geocheck.dart` (geo_tags and page_props against the verified
+events, 77 s, 46 MB), `scripts/wdcheck.py` (Wikidata tiers through the
+API, for samples only).
+
+Next: a streaming pass over the Wikidata truthy dump (43.5 GB, read once,
+not stored) keeping P625, P276, P131, P17, P19, P20, P119, P31 and the
+dates, into a language independent `geo.zx`; then GeoNames for locations
+given as text, and a review of the most linked items still without a
+point.
