@@ -198,8 +198,11 @@ Rules that must hold:
 
 ## 5. Map
 
-`MapScreen` (flutter_map) shows OpenStreetMap tiles, the only content
-the app loads from the network; everything else stays offline.
+`MapScreen` (flutter_map) shows OpenStreetMap tiles; the satellite
+button in the app bar switches to Esri World Imagery with Esri's place
+names and borders on top, and back. Each open starts on the plain map.
+Map tiles are the only content the app loads from the network;
+everything else stays offline.
 
 - On open it asks for the position once (geolocator; Android asks for
   location permission, the web asks the browser). Without it (Linux has
@@ -212,4 +215,5 @@ the app loads from the network; everything else stays offline.
 - A place opens a sheet with its picture, the whole text, and Directions
   (a Google Maps directions link, which opens the maps app on phones).
 - Tiles follow the OpenStreetMap tile policy: the app's package name as
-  user agent and the attribution on the map.
+  user agent and the attribution on the map (at the top, since the list
+  covers the bottom), naming Esri when the satellite view is on.

@@ -39,12 +39,22 @@ class MapScreen extends StatefulWidget {
 
 class _MapScreenState extends State<MapScreen> {
   static const _world = LatLng(35, 10);
-  static const _tiles = 'https://tile.openstreetmap.org/{z}/{x}/{y}.png';
+  static const _streets = 'https://tile.openstreetmap.org/{z}/{x}/{y}.png';
+
+  /// Esri World Imagery, with Esri's place names and borders on top.
+  static const _satellite =
+      'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}';
+  static const _labels =
+      'https://server.arcgisonline.com/ArcGIS/rest/services/Reference/World_Boundaries_and_Places/MapServer/tile/{z}/{y}/{x}';
 
   final _map = MapController();
   Timer? _debounce;
   LatLng? _me;
   bool _locating = false;
+
+  /// Plain street map first; the button in the app bar switches to
+  /// satellite pictures for detail on the ground.
+  bool _satelliteView = false;
   String? _locationError;
   List<MapPlace> _visible = const [];
   List<(MapPlace, double)> _near = const [];
@@ -168,7 +178,19 @@ class _MapScreenState extends State<MapScreen> {
   Widget build(BuildContext context) {
     final f = _focus;
     return Scaffold(
-      appBar: AppBar(title: const Text('Map')),
+      appBar: AppBar(
+        title: const Text('Map'),
+        actions: [
+          IconButton(
+            tooltip: _satelliteView ? 'Map view' : 'Satellite view',
+            icon: Icon(
+              _satelliteView ? Icons.map_outlined : Icons.satellite_alt_rounded,
+            ),
+            onPressed: () => setState(() => _satelliteView = !_satelliteView),
+          ),
+          const SizedBox(width: 4),
+        ],
+      ),
       body: Stack(
         children: [
           FlutterMap(
@@ -187,7 +209,15 @@ class _MapScreenState extends State<MapScreen> {
             children: [
               if (widget.tiles)
                 TileLayer(
-                  urlTemplate: _tiles,
+                  key: ValueKey(_satelliteView),
+                  urlTemplate: _satelliteView ? _satellite : _streets,
+                  maxNativeZoom: 19,
+                  userAgentPackageName: 'com.x1watt.inspira',
+                ),
+              if (widget.tiles && _satelliteView)
+                TileLayer(
+                  urlTemplate: _labels,
+                  maxNativeZoom: 19,
                   userAgentPackageName: 'com.x1watt.inspira',
                 ),
               MarkerLayer(
@@ -208,17 +238,20 @@ class _MapScreenState extends State<MapScreen> {
                     ),
                 ],
               ),
-              RichAttributionWidget(
-                alignment: AttributionAlignment.bottomLeft,
-                attributions: [
-                  TextSourceAttribution(
-                    'OpenStreetMap contributors',
-                    onTap: () => openLink(
-                      context,
-                      'https://www.openstreetmap.org/copyright',
-                    ),
-                  ),
-                ],
+              // At the top: the list sheet covers the bottom of the map.
+              SimpleAttributionWidget(
+                alignment: Alignment.topLeft,
+                source: Text(
+                  _satelliteView
+                      ? 'Esri, Maxar, Earthstar Geographics'
+                      : 'OpenStreetMap contributors',
+                ),
+                onTap: () => openLink(
+                  context,
+                  _satelliteView
+                      ? 'https://www.esri.com/en-us/legal/terms/full-master-agreement'
+                      : 'https://www.openstreetmap.org/copyright',
+                ),
               ),
             ],
           ),

@@ -79,5 +79,14 @@ void main() {
     expect(find.text('Lisbon earthquake'), findsOneWidget);
     expect(find.text('0 m'), findsOneWidget);
     expect(find.byTooltip('Lisbon earthquake'), findsOneWidget);
+
+    // Plain map first; the app bar button switches to satellite and back.
+    expect(find.text('OpenStreetMap contributors'), findsOneWidget);
+    await tester.tap(find.byTooltip('Satellite view'));
+    await tester.pump();
+    expect(find.text('Esri, Maxar, Earthstar Geographics'), findsOneWidget);
+    await tester.tap(find.byTooltip('Map view'));
+    await tester.pump();
+    expect(find.text('OpenStreetMap contributors'), findsOneWidget);
   });
 }
