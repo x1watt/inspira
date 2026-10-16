@@ -1,0 +1,50 @@
+{"qid":7939168,"place":"Dhaka","lat":23.8103,"lon":90.4125,"precision":"city","confidence":"medium","note":"production in Dhaka"}
+{"qid":98078283,"place":"Hertsmere","lat":51.683,"lon":-0.269,"precision":"region","confidence":"medium","note":"borough council area"}
+{"qid":7101083,"place":"Oregon","lat":43.8041,"lon":-120.5542,"precision":"region","confidence":"high","note":"state ballot measure"}
+{"qid":5655681,"place":"Santo Domingo","lat":18.4861,"lon":-69.9312,"precision":"city","confidence":"medium","note":"academy near Santo Domingo"}
+{"qid":107994900,"place":"Australia","lat":-25.2744,"lon":133.7751,"precision":"country","confidence":"medium","note":"national union"}
+{"qid":2647279,"place":"Huy","lat":50.519,"lon":5.241,"precision":"city","confidence":"high","note":"race finished in Huy"}
+{"qid":105061371,"place":"New Hampshire","lat":43.6805,"lon":-71.5811,"precision":"region","confidence":"high","note":"state election"}
+{"qid":104176880,"place":"Norway","lat":60.472,"lon":8.4689,"precision":"country","confidence":"medium","note":"stage race in Norway"}
+{"qid":3954825,"place":"Lausanne","lat":46.5197,"lon":6.6323,"precision":"city","confidence":"high","note":"IOC vote in Lausanne"}
+{"qid":660033,"place":"Valkenswaard","lat":51.35,"lon":5.46,"precision":"city","confidence":"high","note":"manufactured at Valkenswaard"}
+{"qid":20708964,"place":"Vermont","lat":44.0459,"lon":-72.7107,"precision":"region","confidence":"high","note":"state election"}
+{"qid":4861051,"place":"London Borough of Barking and Dagenham","lat":51.55,"lon":0.15,"precision":"region","confidence":"high","note":"borough election"}
+{"qid":23782072,"place":"Agen","lat":44.2033,"lon":0.6167,"precision":"city","confidence":"medium","note":"prefecture of Lot-et-Garonne"}
+{"qid":7185241,"place":"Philippines","lat":12.8797,"lon":121.774,"precision":"country","confidence":"high","note":"national election"}
+{"qid":7892777,"place":"Illinois","lat":40.0,"lon":-89.0,"precision":"region","confidence":"high","note":"state result"}
+{"qid":21012133,"place":"Madagascar","lat":-18.7669,"lon":46.8691,"precision":"country","confidence":"medium","note":"struck eastern Madagascar"}
+{"qid":104902241,"place":"Burgenland","lat":47.5,"lon":16.5,"precision":"region","confidence":"high","note":"state election"}
+{"qid":4609690,"place":"Harare","lat":-17.8292,"lon":31.0522,"precision":"city","confidence":"medium","note":"crisis centred in Harare"}
+{"qid":27861198,"place":"Marlins Park","lat":25.7781,"lon":-80.2197,"precision":"site","confidence":"high","note":"pool held there"}
+{"qid":124218185,"place":"Flemish Brabant","lat":50.88,"lon":4.6,"precision":"region","confidence":"medium","note":"race in Flemish Brabant"}
+{"qid":8024742,"place":"Royal Borough of Windsor and Maidenhead","lat":51.48,"lon":-0.63,"precision":"region","confidence":"high","note":"borough election"}
+{"qid":28663630,"place":"Neuchâtel","lat":46.99,"lon":6.9293,"precision":"city","confidence":"medium","note":"finish city"}
+{"qid":4589225,"place":"Hiroshima","lat":34.3853,"lon":132.4553,"precision":"city","confidence":"high","note":"games host city"}
+{"qid":42916610,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"national campaign"}
+{"qid":4574426,"place":"Australia","lat":-25.2744,"lon":133.7751,"precision":"country","confidence":"medium","note":"national championship"}
+{"qid":104949773,"place":"Washington (state)","lat":47.7511,"lon":-120.7401,"precision":"region","confidence":"high","note":"state election"}
+{"qid":2996295,"place":"Warsaw","lat":52.2297,"lon":21.0122,"precision":"city","confidence":"high","note":"opened in Warsaw 2005"}
+{"qid":104948867,"place":"Idaho","lat":44.0682,"lon":-114.742,"precision":"region","confidence":"high","note":"state election"}
+{"qid":85723179,"place":"Maine","lat":45.2538,"lon":-69.4455,"precision":"region","confidence":"high","note":"state election"}
+{"qid":121667062,"place":"Al-Shaab Stadium (Baghdad)","lat":33.35,"lon":44.43,"precision":"site","confidence":"medium","note":"final venue"}
+{"qid":125407876,"place":"30 June Stadium","lat":30.072,"lon":31.4,"precision":"site","confidence":"medium","note":"final venue"}
+{"qid":106809151,"place":"Bradford","lat":53.796,"lon":-1.7594,"precision":"city","confidence":"high","note":"metropolitan district election"}
+{"qid":2269704,"place":"San Sebastián","lat":43.3183,"lon":-1.9812,"precision":"city","confidence":"high","note":"race at San Sebastian"}
+{"qid":104946927,"place":"Nebraska","lat":41.4925,"lon":-99.9018,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7999520,"place":"Wigan","lat":53.5448,"lon":-2.6318,"precision":"city","confidence":"high","note":"council election"}
+{"qid":110086170,"place":"Israel","lat":31.0461,"lon":34.8516,"precision":"country","confidence":"high","note":"national municipal elections"}
+{"qid":123858060,"place":"Estadio Ciudad de Lanús - Néstor Díaz Pérez","lat":-34.7,"lon":-58.392,"precision":"site","confidence":"medium","note":"final venue"}
+{"qid":23782138,"place":"Digne-les-Bains","lat":44.092,"lon":6.236,"precision":"city","confidence":"medium","note":"prefecture of department"}
+{"qid":7893023,"place":"Pennsylvania","lat":40.8781,"lon":-77.7996,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7891647,"place":"Michigan","lat":44.3467,"lon":-85.4102,"precision":"region","confidence":"high","note":"state election"}
+{"qid":129631,"place":"Athens","lat":37.9838,"lon":23.7275,"precision":"city","confidence":"high","note":"congress held in Athens"}
+{"qid":5174912,"place":"Costa Rica","lat":9.7489,"lon":-83.7534,"precision":"country","confidence":"high","note":"national election"}
+{"qid":121991832,"place":"Prague","lat":50.0755,"lon":14.4378,"precision":"city","confidence":"high","note":"state funeral in Prague"}
+{"qid":96362493,"place":"Alaska","lat":64.2008,"lon":-149.4937,"precision":"region","confidence":"high","note":"state election"}
+{"qid":136157197,"place":"Wallonia","lat":50.4,"lon":4.7,"precision":"region","confidence":"medium","note":"race in Wallonia"}
+{"qid":1952916,"place":"Andalusia","lat":37.3891,"lon":-5.9845,"precision":"region","confidence":"high","note":"regional race"}
+{"qid":19580171,"place":"De Panne","lat":51.099,"lon":2.599,"precision":"city","confidence":"high","note":"race around De Panne"}
+{"qid":3681728,"place":"San Sebastián","lat":43.3183,"lon":-1.9812,"precision":"city","confidence":"high","note":"race at San Sebastian"}
+{"qid":2143804,"place":"Leeds","lat":53.8008,"lon":-1.5491,"precision":"city","confidence":"low","note":"race in England"}
+{"qid":16998049,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"TV segment"}

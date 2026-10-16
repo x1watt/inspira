@@ -1,0 +1,50 @@
+{"qid":2048107,"place":"Flanders","lat":50.9,"lon":3.9,"precision":"region","confidence":"medium","note":"Belgian race"}
+{"qid":101527605,"place":"Plouay","lat":47.9167,"lon":-3.3,"precision":"city","confidence":"medium","note":"race based in Plouay"}
+{"qid":7891472,"place":"Florida","lat":28.6305,"lon":-82.4497,"precision":"region","confidence":"high","note":"statewide"}
+{"qid":179475,"place":"The Gambia","lat":13.4432,"lon":-15.3101,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":54871384,"place":"Texas","lat":31.0,"lon":-100.0,"precision":"region","confidence":"high","note":"statewide"}
+{"qid":132675522,"place":"Quebec City","lat":46.8139,"lon":-71.208,"precision":"city","confidence":"high","note":"Colisée de Québec"}
+{"qid":20055592,"place":"River Thames","lat":51.46,"lon":-0.23,"precision":"region","confidence":"low","note":"Thames boat race"}
+{"qid":7094711,"place":"Ontario","lat":51.2538,"lon":-85.3232,"precision":"region","confidence":"low","note":"provincial highway"}
+{"qid":3119045,"place":"Recife","lat":-8.0476,"lon":-34.877,"precision":"city","confidence":"high","note":"main events in Recife"}
+{"qid":7826620,"place":"Toronto","lat":43.6532,"lon":-79.3832,"precision":"city","confidence":"high","note":"city election"}
+{"qid":4709560,"place":"Great Plains","lat":41.0,"lon":-100.0,"precision":"region","confidence":"low","note":"Western US swarm"}
+{"qid":5947510,"place":"Hawaii","lat":19.8968,"lon":-155.5828,"precision":"region","confidence":"high","note":"affected Hawaii"}
+{"qid":5807008,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":84030033,"place":"Benin","lat":9.3077,"lon":2.3158,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":7891643,"place":"Michigan","lat":44.3148,"lon":-85.6024,"precision":"region","confidence":"high","note":"statewide"}
+{"qid":17100753,"place":"New Mexico","lat":34.4,"lon":-106.1,"precision":"region","confidence":"high","note":"statewide"}
+{"qid":4606619,"place":"Minsk","lat":53.9045,"lon":27.5615,"precision":"city","confidence":"high","note":"summit in Minsk"}
+{"qid":3508988,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":104948353,"place":"Connecticut","lat":41.6032,"lon":-73.0877,"precision":"region","confidence":"high","note":"statewide"}
+{"qid":4595070,"place":"Salt Lake City","lat":40.7608,"lon":-111.891,"precision":"city","confidence":"high","note":"downtown tornado"}
+{"qid":7558071,"place":"Metropolitan Borough of Solihull","lat":52.412,"lon":-1.778,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":1518813,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"high","note":"Italian government seat"}
+{"qid":17011629,"place":"Luxembourg","lat":49.8153,"lon":6.1296,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":4626847,"place":"Austin, Texas","lat":30.2672,"lon":-97.7431,"precision":"city","confidence":"low","note":"Stratfor HQ"}
+{"qid":6516040,"place":"Leeds","lat":53.8008,"lon":-1.5491,"precision":"city","confidence":"high","note":"city election"}
+{"qid":7892040,"place":"Tennessee","lat":35.8,"lon":-86.4,"precision":"region","confidence":"high","note":"statewide"}
+{"qid":16951653,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":16635204,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":7646333,"place":"Suriname","lat":3.9193,"lon":-56.0278,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":7654106,"place":"Eswatini","lat":-26.5225,"lon":31.4659,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":15930889,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":""}
+{"qid":50954091,"place":"Caroline Islands","lat":7.0,"lon":150.0,"precision":"region","confidence":"medium","note":"affected area"}
+{"qid":2115045,"place":"Warsaw","lat":52.2297,"lon":21.0122,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":616544,"place":"Trentino","lat":46.07,"lon":11.12,"precision":"region","confidence":"high","note":"race in Trentino"}
+{"qid":56506543,"place":"Minsk Arena","lat":53.9372,"lon":27.4814,"precision":"site","confidence":"medium","note":"contest venue"}
+{"qid":112740328,"place":"Frankfurt","lat":50.1109,"lon":8.6821,"precision":"city","confidence":"high","note":"elected at Frankfurt"}
+{"qid":30641305,"place":"Colorado","lat":39.5501,"lon":-105.7821,"precision":"region","confidence":"high","note":"statewide"}
+{"qid":59640009,"place":"Málaga","lat":36.7213,"lon":-4.4214,"precision":"city","confidence":"high","note":"host city"}
+{"qid":1205679,"place":"Hunan","lat":27.6,"lon":111.7,"precision":"region","confidence":"high","note":"culture in Hunan"}
+{"qid":39071939,"place":"Washington (state)","lat":47.4,"lon":-120.7,"precision":"region","confidence":"high","note":"statewide"}
+{"qid":2014872,"place":"Belgium","lat":50.5039,"lon":4.4699,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":2996756,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":109441594,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":116507925,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":""}
+{"qid":5339124,"place":"Edmonton","lat":53.5461,"lon":-113.4938,"precision":"city","confidence":"high","note":"town election"}
+{"qid":262522,"place":"Mikulov","lat":48.8056,"lon":16.6378,"precision":"city","confidence":"high","note":"signed in Nikolsburg"}
+{"qid":111955792,"place":"Argyll and Bute","lat":56.2,"lon":-5.4,"precision":"region","confidence":"high","note":"council election"}
+{"qid":28206648,"place":"New Jersey","lat":40.1,"lon":-74.5,"precision":"region","confidence":"high","note":"statewide"}
+{"qid":60519405,"place":"Nevada","lat":39.3,"lon":-116.6,"precision":"region","confidence":"high","note":"statewide"}
+{"qid":9323564,"place":"Warsaw","lat":52.2297,"lon":21.0122,"precision":"city","confidence":"low","note":"Polish organisation"}

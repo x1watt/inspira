@@ -1,0 +1,50 @@
+{"qid":7094786,"place":"Ontario","lat":51.2538,"lon":-85.3232,"precision":"region","confidence":"low","note":"highway in Ontario"}
+{"qid":46770131,"place":"Lima","lat":-12.0464,"lon":-77.0428,"precision":"city","confidence":"medium","note":"pardon by Peru's president"}
+{"qid":22918891,"place":"Damascus","lat":33.5138,"lon":36.2765,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":5027885,"place":"Zürich","lat":47.3769,"lon":8.5417,"precision":"city","confidence":"low","note":"key battles in Switzerland"}
+{"qid":5657510,"place":"Madrid","lat":40.4168,"lon":-3.7038,"precision":"city","confidence":"high","note":"stock exchange"}
+{"qid":15905660,"place":"Philippines","lat":12.8797,"lon":121.774,"precision":"country","confidence":"high","note":"storm impact"}
+{"qid":85738007,"place":"California","lat":36.7783,"lon":-119.4179,"precision":"region","confidence":"high","note":"state election"}
+{"qid":4689129,"place":"Kabul","lat":34.526,"lon":69.1777,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":17100855,"place":"New York (state)","lat":43.0,"lon":-75.0,"precision":"region","confidence":"high","note":"state election"}
+{"qid":9377266,"place":"Alexandria","lat":31.2001,"lon":29.9187,"precision":"city","confidence":"high","note":"siege of Alexandria"}
+{"qid":2469721,"place":"Madrid","lat":40.4168,"lon":-3.7038,"precision":"city","confidence":"high","note":"1986 worlds host"}
+{"qid":4459996,"place":"Słupsk","lat":54.4641,"lon":17.0285,"precision":"city","confidence":"low","note":"Scania bus plant"}
+{"qid":7185080,"place":"Philippines","lat":12.8797,"lon":121.774,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":137710436,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"sports year"}
+{"qid":7785009,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"low","note":"British magazine"}
+{"qid":14544246,"place":"Philippines","lat":12.8797,"lon":121.774,"precision":"country","confidence":"medium","note":"struck Philippines"}
+{"qid":60400139,"place":"Malay Peninsula","lat":4.0,"lon":102.0,"precision":"region","confidence":"low","note":"struck Malay Peninsula"}
+{"qid":116674330,"place":"Palace of Versailles","lat":48.8049,"lon":2.1204,"precision":"site","confidence":"high","note":"venue"}
+{"qid":24894213,"place":"Hawaii","lat":21.0943,"lon":-157.4981,"precision":"region","confidence":"high","note":"state election"}
+{"qid":3587149,"place":"Port-au-Prince","lat":18.5944,"lon":-72.3074,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":3501075,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"multi-site ties"}
+{"qid":3079177,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"TV serial"}
+{"qid":113480394,"place":"Zambia","lat":-13.1339,"lon":27.8493,"precision":"country","confidence":"high","note":"national census"}
+{"qid":7021082,"place":"Nouakchott","lat":18.0735,"lon":-15.9582,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":7098220,"place":"Valencia","lat":39.4699,"lon":-0.3763,"precision":"city","confidence":"medium","note":"Corts seat"}
+{"qid":5599610,"place":"Natchez, Mississippi","lat":31.5604,"lon":-91.4032,"precision":"city","confidence":"high","note":"tornado hit Natchez"}
+{"qid":5198868,"place":"Tonga","lat":-21.1789,"lon":-175.1982,"precision":"country","confidence":"medium","note":"strongest impact"}
+{"qid":7891513,"place":"Idaho","lat":44.2405,"lon":-114.4788,"precision":"region","confidence":"high","note":"state election"}
+{"qid":24915629,"place":"Chandigarh","lat":30.7333,"lon":76.7794,"precision":"city","confidence":"medium","note":"Punjab capital"}
+{"qid":3565999,"place":"Athens","lat":37.9838,"lon":23.7275,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":1605069,"place":"Beirut","lat":33.8938,"lon":35.5018,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":55137545,"place":"Ottawa","lat":45.4215,"lon":-75.6972,"precision":"city","confidence":"high","note":"House of Commons"}
+{"qid":6142180,"place":"Tokyo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"medium","note":"party election"}
+{"qid":109259025,"place":"Eveleth, Minnesota","lat":47.4627,"lon":-92.541,"precision":"city","confidence":"high","note":"Curl Mesabi"}
+{"qid":116276630,"place":"Greece","lat":39.0742,"lon":21.8243,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":5339206,"place":"Edmonton","lat":53.5461,"lon":-113.4938,"precision":"city","confidence":"high","note":"city election"}
+{"qid":6516038,"place":"Leeds","lat":53.8008,"lon":-1.5491,"precision":"city","confidence":"high","note":"city election"}
+{"qid":19870478,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"campaign"}
+{"qid":2749375,"place":"Phnom Penh","lat":11.5564,"lon":104.9282,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":29098456,"place":"New Hampshire","lat":43.1939,"lon":-71.5724,"precision":"region","confidence":"high","note":"state election"}
+{"qid":84081002,"place":"Damascus","lat":33.5138,"lon":36.2765,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":3136756,"place":"Melbourne","lat":-37.8136,"lon":144.9631,"precision":"city","confidence":"high","note":"city history"}
+{"qid":3112478,"place":"Helsinki","lat":60.1699,"lon":24.9384,"precision":"city","confidence":"medium","note":"Finnish government"}
+{"qid":6826061,"place":"Mexico City","lat":19.4326,"lon":-99.1332,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":116736258,"place":"Delaware","lat":38.9108,"lon":-75.5277,"precision":"region","confidence":"high","note":"state election"}
+{"qid":72101,"place":"Vlorë","lat":40.466,"lon":19.4914,"precision":"city","confidence":"medium","note":"independence proclaimed there"}
+{"qid":10271555,"place":"Rio de Janeiro","lat":-22.9068,"lon":-43.1729,"precision":"city","confidence":"medium","note":"capital in 1950"}
+{"qid":117661656,"place":"Sofia","lat":42.6977,"lon":23.3219,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":36319,"place":"MVP Arena","lat":42.649,"lon":-73.7534,"precision":"site","confidence":"high","note":"Knickerbocker Arena"}
+{"qid":4872874,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"rivalry"}

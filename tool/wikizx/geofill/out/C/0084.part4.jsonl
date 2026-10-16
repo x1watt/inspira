@@ -1,0 +1,50 @@
+{"qid":1982240,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"aircraft"}
+{"qid":2916288,"place":"Evansville, Indiana","lat":37.9716,"lon":-87.5711,"precision":"city","confidence":"low","note":"issuer based in Evansville"}
+{"qid":126900055,"place":"Volgograd Arena","lat":48.7342,"lon":44.5461,"precision":"site","confidence":"high","note":"match venue"}
+{"qid":136751974,"place":"Auvergne-Rhône-Alpes","lat":45.4,"lon":4.5,"precision":"region","confidence":"high","note":"race in region"}
+{"qid":17066430,"place":"Los Angeles Memorial Coliseum","lat":34.0141,"lon":-118.2879,"precision":"site","confidence":"medium","note":"demonstration at LA Olympics"}
+{"qid":15716384,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"journal"}
+{"qid":5600611,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"high","note":"Greater London election"}
+{"qid":7443143,"place":"Melbourne","lat":-37.8136,"lon":144.9631,"precision":"city","confidence":"medium","note":"seat of government then"}
+{"qid":105299331,"place":"Kentucky","lat":37.5,"lon":-85.3,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7140089,"place":"Geneva","lat":46.2044,"lon":6.1432,"precision":"city","confidence":"medium","note":"ILO convention adopted in Geneva"}
+{"qid":977484,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"software"}
+{"qid":3768643,"place":"Italy","lat":41.8719,"lon":12.5674,"precision":"country","confidence":"high","note":"national stage race"}
+{"qid":4569584,"place":"Australia","lat":-25.2744,"lon":133.7751,"precision":"country","confidence":"high","note":"national title"}
+{"qid":6095211,"place":"North Nicosia","lat":35.1856,"lon":33.3823,"precision":"city","confidence":"medium","note":"national election, capital"}
+{"qid":7415945,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"doctrinal dispute"}
+{"qid":23021988,"place":"Jawaharlal Nehru University","lat":28.5402,"lon":77.1662,"precision":"site","confidence":"high","note":"campus protest"}
+{"qid":4598874,"place":"Circuit Zandvoort","lat":52.3888,"lon":4.5409,"precision":"site","confidence":"high","note":"race at Zandvoort"}
+{"qid":64761829,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"theatre movement"}
+{"qid":7891429,"place":"Colorado","lat":39.0,"lon":-105.5,"precision":"region","confidence":"high","note":"state election"}
+{"qid":16846847,"place":"St James's Palace","lat":51.5045,"lon":-0.1388,"precision":"site","confidence":"high","note":"conference venue in London"}
+{"qid":28128406,"place":"Luanda","lat":-8.839,"lon":13.2894,"precision":"city","confidence":"medium","note":"national election, capital"}
+{"qid":7763069,"place":"Theatre Royal, Drury Lane","lat":51.5129,"lon":-0.1203,"precision":"site","confidence":"medium","note":"benefit show in London"}
+{"qid":57164517,"place":"California","lat":37.2,"lon":-119.7,"precision":"region","confidence":"high","note":"race in California"}
+{"qid":19600246,"place":"Oranjestad, Aruba","lat":12.5186,"lon":-70.0358,"precision":"city","confidence":"medium","note":"national election, capital"}
+{"qid":7891675,"place":"Mississippi","lat":32.7,"lon":-89.7,"precision":"region","confidence":"high","note":"state election"}
+{"qid":6865421,"place":"Geneva","lat":46.2044,"lon":6.1432,"precision":"city","confidence":"medium","note":"ILO convention adopted in Geneva"}
+{"qid":3599861,"place":"Padua","lat":45.4064,"lon":11.8768,"precision":"city","confidence":"low","note":"network based near Padua"}
+{"qid":663703,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"galaxy"}
+{"qid":6158104,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"festival participation"}
+{"qid":105061380,"place":"Alabama","lat":32.8,"lon":-86.8,"precision":"region","confidence":"high","note":"state election"}
+{"qid":4348030,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"high","note":"nationwide Senate elections"}
+{"qid":4586914,"place":"Churchill Downs","lat":38.2036,"lon":-85.7706,"precision":"site","confidence":"high","note":"Kentucky Derby venue"}
+{"qid":14176190,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"multi-venue season"}
+{"qid":6793772,"place":"Port Louis","lat":-20.1609,"lon":57.5012,"precision":"city","confidence":"medium","note":"national election, capital"}
+{"qid":7127414,"place":"Ramallah","lat":31.9038,"lon":35.2034,"precision":"city","confidence":"medium","note":"PA government seat"}
+{"qid":7692374,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"army rank"}
+{"qid":6516022,"place":"Leeds","lat":53.8008,"lon":-1.5491,"precision":"city","confidence":"high","note":"city council election"}
+{"qid":1626997,"place":"Finland","lat":61.9241,"lon":25.7482,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":16993294,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"high","note":"Greater London election"}
+{"qid":98551691,"place":"North Korea","lat":40.3399,"lon":127.5101,"precision":"country","confidence":"low","note":"landfall in North Korea"}
+{"qid":3519681,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"comic series"}
+{"qid":19904136,"place":"Iraq","lat":33.2232,"lon":43.6793,"precision":"country","confidence":"high","note":"campaign in Iraq"}
+{"qid":117290115,"place":"Central African Republic","lat":6.6111,"lon":20.9394,"precision":"country","confidence":"high","note":"activities in CAR"}
+{"qid":48743229,"place":"United Nations Headquarters","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"medium","note":"selection at UN"}
+{"qid":4325147,"place":"Novorossiysk","lat":44.7239,"lon":37.7686,"precision":"city","confidence":"high","note":"evacuation from Novorossiysk"}
+{"qid":29271804,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"global circuit"}
+{"qid":109321467,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"online fundraiser"}
+{"qid":97999785,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"season"}
+{"qid":5252589,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"idea"}
+{"qid":688783,"place":"Austria","lat":47.5162,"lon":14.5501,"precision":"country","confidence":"high","note":"nationwide election"}

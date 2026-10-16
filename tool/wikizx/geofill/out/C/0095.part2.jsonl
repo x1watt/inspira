@@ -1,0 +1,50 @@
+{"qid":26231872,"place":"Italy","lat":42.8333,"lon":12.8333,"precision":"country","confidence":"medium","note":"Italian party"}
+{"qid":57245045,"place":"Plouay","lat":48.0236,"lon":-3.2958,"precision":"city","confidence":"high","note":"Bretagne Classic at Plouay"}
+{"qid":16849116,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"medium","note":"ASP session at UN"}
+{"qid":1162056,"place":"Mauritius","lat":-20.3484,"lon":57.5522,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":10573228,"place":"Gothenburg","lat":57.7089,"lon":11.9746,"precision":"city","confidence":"high","note":"Gothenburg trams"}
+{"qid":39047220,"place":"South Carolina","lat":33.8361,"lon":-81.1637,"precision":"region","confidence":"high","note":"state election"}
+{"qid":54866870,"place":"London Borough of Haringey","lat":51.5906,"lon":-0.111,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":131127137,"place":"Circuit Ricardo Tormo","lat":39.485,"lon":-0.631,"precision":"site","confidence":"high","note":"rally at circuit"}
+{"qid":2579615,"place":"Japan","lat":36.2048,"lon":138.2529,"precision":"country","confidence":"low","note":"Japanese anime OVA"}
+{"qid":6392885,"place":"Kenya","lat":-0.0236,"lon":37.9062,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":40960263,"place":"Los Angeles","lat":34.0522,"lon":-118.2437,"precision":"city","confidence":"low","note":"CBS aftershow"}
+{"qid":67448697,"place":"Athens","lat":37.9838,"lon":23.7275,"precision":"city","confidence":"high","note":"Hellenic Parliament"}
+{"qid":131742707,"place":"Tokyo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"medium","note":"Fuji TV Tokyo"}
+{"qid":5403202,"place":"Montana","lat":46.8797,"lon":-110.3626,"precision":"region","confidence":"high","note":"state primary"}
+{"qid":1768441,"place":"France","lat":46.2276,"lon":2.2137,"precision":"country","confidence":"high","note":"host announced France"}
+{"qid":7056782,"place":"North Somerset","lat":51.39,"lon":-2.8,"precision":"region","confidence":"high","note":"unitary council election"}
+{"qid":149959,"place":"Alberta","lat":53.9333,"lon":-116.5765,"precision":"region","confidence":"high","note":"fossils found in Alberta"}
+{"qid":18215844,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"video game series"}
+{"qid":6075561,"place":"United States","lat":37.0902,"lon":-95.7129,"precision":"country","confidence":"low","note":"American TV special"}
+{"qid":14941852,"place":"Japan","lat":36.2048,"lon":138.2529,"precision":"country","confidence":"high","note":"struck Japan"}
+{"qid":4882549,"place":"Belgium","lat":50.5039,"lon":4.4699,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":1759303,"place":"Mercedes-Benz Tourismo","lat":null,"lon":null,"precision":"none","confidence":"high","note":"vehicle model"}
+{"qid":4615205,"place":"Dodger Stadium","lat":34.0739,"lon":-118.24,"precision":"site","confidence":"high","note":"championship round venue"}
+{"qid":124428696,"place":"Manila","lat":14.5995,"lon":120.9842,"precision":"city","confidence":"medium","note":"Philippine government efforts"}
+{"qid":122723940,"place":"Adelaide","lat":-34.9285,"lon":138.6007,"precision":"city","confidence":"high","note":"race in Adelaide area"}
+{"qid":1769884,"place":"Comoros","lat":-11.6455,"lon":43.3333,"precision":"country","confidence":"high","note":"nationwide referendum"}
+{"qid":8732840,"place":"Philippines","lat":12.8797,"lon":121.774,"precision":"country","confidence":"medium","note":"affected Philippines"}
+{"qid":6303851,"place":"Perpignan","lat":42.6887,"lon":2.8948,"precision":"city","confidence":"high","note":"held in Perpignan"}
+{"qid":22569748,"place":"Doha","lat":25.2854,"lon":51.531,"precision":"city","confidence":"medium","note":"Qatar race"}
+{"qid":7362008,"place":"Bucharest","lat":44.4268,"lon":26.1025,"precision":"city","confidence":"high","note":"Romanian government seat"}
+{"qid":104858091,"place":"Dhaka","lat":23.8103,"lon":90.4125,"precision":"city","confidence":"high","note":"held in Dacca"}
+{"qid":131553722,"place":"Roland Garros (stadium)","lat":48.847,"lon":2.253,"precision":"site","confidence":"medium","note":"boxing venue Paris"}
+{"qid":666482,"place":"Asia","lat":34.0479,"lon":100.6197,"precision":"region","confidence":"low","note":"trans-Asian expedition"}
+{"qid":116179011,"place":"Shinjuku Face","lat":35.6972,"lon":139.7016,"precision":"site","confidence":"high","note":"event venue"}
+{"qid":5348206,"place":"Chacarita Cemetery","lat":-34.5855,"lon":-58.456,"precision":"site","confidence":"medium","note":"Perón tomb"}
+{"qid":17988769,"place":"Norway","lat":60.472,"lon":8.4689,"precision":"country","confidence":"high","note":"race in Norway"}
+{"qid":30644191,"place":"Missouri","lat":37.9643,"lon":-91.8318,"precision":"region","confidence":"high","note":"state election"}
+{"qid":4971226,"place":"British Virgin Islands","lat":18.4207,"lon":-64.64,"precision":"country","confidence":"high","note":"territory election"}
+{"qid":7024475,"place":"Nicaragua","lat":12.8654,"lon":-85.2072,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":15046569,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"film series"}
+{"qid":56118341,"place":"South Korea","lat":35.9078,"lon":127.7669,"precision":"country","confidence":"medium","note":"struck Korean Peninsula"}
+{"qid":64995735,"place":"Vancouver","lat":49.2827,"lon":-123.1207,"precision":"city","confidence":"medium","note":"filmed in Vancouver"}
+{"qid":4670727,"place":"Abyei","lat":9.8333,"lon":28.4333,"precision":"region","confidence":"medium","note":"disputed region"}
+{"qid":59291280,"place":"Arena da Baixada","lat":-25.4483,"lon":-49.2769,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":1021454,"place":"Hamburg","lat":53.5511,"lon":9.9937,"precision":"city","confidence":"high","note":"state election"}
+{"qid":17326124,"place":"Switzerland","lat":46.8182,"lon":8.2275,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":54866878,"place":"London Borough of Camden","lat":51.529,"lon":-0.1255,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":1389069,"place":"Madeira","lat":32.6669,"lon":-16.9241,"precision":"region","confidence":"high","note":"regional election"}
+{"qid":114056263,"place":"Adelaide Oval","lat":-34.9156,"lon":138.5961,"precision":"site","confidence":"high","note":"grand final venue"}
+{"qid":326232,"place":"Quebec City","lat":46.8139,"lon":-71.208,"precision":"city","confidence":"high","note":"race in Quebec City"}

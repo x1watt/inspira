@@ -1,0 +1,50 @@
+{"qid":1497020,"place":"Helsinki","lat":60.1699,"lon":24.9384,"precision":"city","confidence":"medium","note":"Finnish election"}
+{"qid":112181191,"place":"Florida","lat":27.6648,"lon":-81.5158,"precision":"region","confidence":"high","note":"host state"}
+{"qid":42916922,"place":"Ohio","lat":40.4173,"lon":-82.9071,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":6516041,"place":"Leeds","lat":53.8008,"lon":-1.5491,"precision":"city","confidence":"high","note":"city council election"}
+{"qid":134071414,"place":"WakeMed Soccer Park","lat":35.8048,"lon":-78.744,"precision":"site","confidence":"high","note":"venue"}
+{"qid":7891570,"place":"Kentucky","lat":37.8393,"lon":-84.27,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":6567876,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"list of characters"}
+{"qid":779863,"place":"China","lat":35.0,"lon":103.0,"precision":"country","confidence":"high","note":"nationwide campaign"}
+{"qid":7504245,"place":"Shropshire","lat":52.6,"lon":-2.75,"precision":"region","confidence":"high","note":"council election"}
+{"qid":2159895,"place":"Bulgaria","lat":42.7339,"lon":25.4858,"precision":"country","confidence":"high","note":"national election"}
+{"qid":7033042,"place":"Nigeria","lat":9.082,"lon":8.6753,"precision":"country","confidence":"high","note":"national election"}
+{"qid":25230756,"place":"Libenge","lat":3.65,"lon":18.6333,"precision":"city","confidence":"high","note":"crash south of Libenge"}
+{"qid":3267617,"place":"Meerbeke","lat":50.88,"lon":4.11,"precision":"city","confidence":"medium","note":"race finish"}
+{"qid":104881675,"place":"Cuba","lat":21.5218,"lon":-77.7812,"precision":"country","confidence":"low","note":"exile talks with Cuba"}
+{"qid":29587155,"place":"Falkirk (council area)","lat":56.0,"lon":-3.8,"precision":"region","confidence":"high","note":"council election"}
+{"qid":1804088,"place":"Hesse","lat":50.6521,"lon":9.1624,"precision":"region","confidence":"high","note":"state election"}
+{"qid":30643808,"place":"Idaho","lat":44.2405,"lon":-114.4788,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":3565880,"place":"Greece","lat":39.0742,"lon":21.8243,"precision":"country","confidence":"high","note":"national election"}
+{"qid":18560158,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"low","note":"awarded by Royal Society of Chemistry"}
+{"qid":48866852,"place":"Lisbon","lat":38.7223,"lon":-9.1393,"precision":"city","confidence":"high","note":"city election"}
+{"qid":27480997,"place":"Siena","lat":43.3188,"lon":11.3308,"precision":"city","confidence":"high","note":"race finish in Siena"}
+{"qid":19035044,"place":"United States Capitol","lat":38.8899,"lon":-77.0091,"precision":"site","confidence":"high","note":"delivered in Congress"}
+{"qid":17015683,"place":"Vermont","lat":44.5588,"lon":-72.5778,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":110941951,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"multiple continental venues"}
+{"qid":4563285,"place":"Wisconsin","lat":44.5,"lon":-89.5,"precision":"region","confidence":"high","note":"strike in Wisconsin"}
+{"qid":130259983,"place":"Marshall Islands","lat":7.1315,"lon":171.1845,"precision":"country","confidence":"medium","note":"affected Marshall Islands"}
+{"qid":62071542,"place":"Amsterdam","lat":52.3676,"lon":4.9041,"precision":"city","confidence":"medium","note":"tour began in Amsterdam"}
+{"qid":4586283,"place":"Charleston, South Carolina","lat":32.7765,"lon":-79.9311,"precision":"city","confidence":"high","note":"held at College Park"}
+{"qid":136359353,"place":"Millbury, Ohio","lat":41.5731,"lon":-83.4377,"precision":"city","confidence":"high","note":"tornado at Millbury"}
+{"qid":7118412,"place":"Guatemala City","lat":14.6349,"lon":-90.5069,"precision":"city","confidence":"medium","note":"operation in Guatemala"}
+{"qid":1518208,"place":"Europe","lat":50.0,"lon":10.0,"precision":"region","confidence":"low","note":"European race series"}
+{"qid":5339143,"place":"Edmonton","lat":53.5461,"lon":-113.4938,"precision":"city","confidence":"high","note":"city election"}
+{"qid":28226246,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"high","note":"federal budget"}
+{"qid":30642715,"place":"Illinois","lat":40.0,"lon":-89.0,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":104849645,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"webcomic"}
+{"qid":5948056,"place":"Puerto Vallarta","lat":20.6534,"lon":-105.2253,"precision":"city","confidence":"high","note":"devastated Puerto Vallarta"}
+{"qid":1054550,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"international observance"}
+{"qid":108603108,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"worldwide circuit"}
+{"qid":16054574,"place":"New Zealand","lat":-40.9006,"lon":174.886,"precision":"country","confidence":"high","note":"host country"}
+{"qid":17015730,"place":"Kentucky","lat":37.8393,"lon":-84.27,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":3119388,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"high","note":"published in Paris"}
+{"qid":107073306,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"video game controversy"}
+{"qid":1595485,"place":"Moldova","lat":47.4116,"lon":28.3699,"precision":"country","confidence":"high","note":"national election"}
+{"qid":104949087,"place":"Kansas","lat":38.5,"lon":-98.0,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":12785350,"place":"Silverstone Circuit","lat":52.0733,"lon":-1.0147,"precision":"site","confidence":"high","note":"race at Silverstone"}
+{"qid":5948176,"place":"California","lat":36.7783,"lon":-119.4179,"precision":"region","confidence":"high","note":"impacted California"}
+{"qid":28452331,"place":"California","lat":36.7783,"lon":-119.4179,"precision":"region","confidence":"high","note":"state ballot"}
+{"qid":1542656,"place":"Poland","lat":51.9194,"lon":19.1451,"precision":"country","confidence":"low","note":"traditional drink"}
+{"qid":7241102,"place":"Caracas","lat":10.4806,"lon":-66.9036,"precision":"city","confidence":"medium","note":"presidency seat"}
+{"qid":24031534,"place":"California","lat":36.7783,"lon":-119.4179,"precision":"region","confidence":"high","note":"race in California"}

@@ -1,0 +1,50 @@
+{"qid":7440333,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":124625700,"place":"Lahti","lat":60.9827,"lon":25.6612,"precision":"city","confidence":"high","note":"host city"}
+{"qid":8042194,"place":"Durban","lat":-29.8587,"lon":31.0218,"precision":"city","confidence":"high","note":"held in Durban"}
+{"qid":105659055,"place":"Curaçao","lat":12.1696,"lon":-68.99,"precision":"country","confidence":"medium","note":"launch site"}
+{"qid":28493908,"place":"Élysée Palace","lat":48.8704,"lon":2.3167,"precision":"site","confidence":"medium","note":"presidential seat"}
+{"qid":136486231,"place":"Mexico","lat":23.6345,"lon":-102.5528,"precision":"country","confidence":"low","note":"many states affected"}
+{"qid":48865401,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":""}
+{"qid":118482754,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":131363851,"place":"Worcestershire","lat":52.19,"lon":-2.22,"precision":"region","confidence":"high","note":"county election"}
+{"qid":5414447,"place":"Canberra","lat":-35.2809,"lon":149.13,"precision":"city","confidence":"high","note":"Parliament of Australia"}
+{"qid":2811254,"place":"Liaoning","lat":41.2,"lon":122.6,"precision":"region","confidence":"medium","note":"fossil found there"}
+{"qid":936387,"place":"Valkenburg aan de Geul","lat":50.865,"lon":5.8321,"precision":"city","confidence":"medium","note":"Amstel Gold area"}
+{"qid":20815957,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":134106003,"place":"Panabo","lat":7.3083,"lon":125.6842,"precision":"city","confidence":"low","note":"planned venue"}
+{"qid":16932709,"place":"Vaduz","lat":47.141,"lon":9.5209,"precision":"city","confidence":"high","note":"Landtag seat"}
+{"qid":7406534,"place":"San Salvador","lat":13.6929,"lon":-89.2182,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":116789848,"place":"Hotel Bayerischer Hof","lat":48.1405,"lon":11.5705,"precision":"site","confidence":"high","note":"venue"}
+{"qid":105880734,"place":"Taiwan","lat":23.6978,"lon":120.9605,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":28933283,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":5247396,"place":"Al Daih","lat":26.2128,"lon":50.5339,"precision":"city","confidence":"medium","note":"shot at Daih"}
+{"qid":14850408,"place":"Harelbeke","lat":50.8585,"lon":3.3125,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":16820869,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":""}
+{"qid":6518528,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":6970589,"place":"United States Supreme Court Building","lat":38.8906,"lon":-77.0044,"precision":"site","confidence":"medium","note":"Supreme Court decision"}
+{"qid":67320741,"place":"Portsmouth","lat":50.8198,"lon":-1.088,"precision":"city","confidence":"low","note":"possible epicentre"}
+{"qid":30646834,"place":"Michigan","lat":44.3148,"lon":-85.6024,"precision":"region","confidence":"high","note":"statewide"}
+{"qid":23889049,"place":"Thonon-les-Bains","lat":46.3711,"lon":6.4794,"precision":"city","confidence":"low","note":"race finish"}
+{"qid":4999063,"place":"Burkina Faso","lat":12.2383,"lon":-1.5616,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":30642967,"place":"Accra","lat":5.6037,"lon":-0.187,"precision":"city","confidence":"medium","note":"Ghana capital"}
+{"qid":3246845,"place":"Luxembourg","lat":49.8153,"lon":6.1296,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":139499994,"place":"Stade du Hainaut","lat":50.3186,"lon":3.5147,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":19818721,"place":"Connecticut","lat":41.6032,"lon":-73.0877,"precision":"region","confidence":"high","note":"statewide"}
+{"qid":123185851,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":122790713,"place":"Sint Maarten","lat":18.0425,"lon":-63.0548,"precision":"country","confidence":"high","note":"territory election"}
+{"qid":11687069,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":4505620,"place":"Western Australia","lat":-25.0,"lon":122.0,"precision":"region","confidence":"medium","note":"affected area"}
+{"qid":114827563,"place":"Stockholm","lat":59.3293,"lon":18.0686,"precision":"city","confidence":"medium","note":"murdered in Sätra"}
+{"qid":4626080,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":""}
+{"qid":2423283,"place":"Franklin, Kentucky","lat":36.7228,"lon":-86.5772,"precision":"city","confidence":"medium","note":"crashed near Franklin"}
+{"qid":22935907,"place":"Mandalgarh","lat":25.196,"lon":75.077,"precision":"city","confidence":"low","note":"battle site"}
+{"qid":54817671,"place":"Metropolitan Borough of Stockport","lat":53.4,"lon":-2.13,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":29096809,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":7932164,"place":"Saint Vincent and the Grenadines","lat":13.2528,"lon":-61.1971,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":4672694,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":124485933,"place":"Santa Fe, New Mexico","lat":35.687,"lon":-105.9378,"precision":"city","confidence":"medium","note":"Spanish colonial capital"}
+{"qid":17100481,"place":"Massachusetts","lat":42.23,"lon":-71.53,"precision":"region","confidence":"high","note":"statewide"}
+{"qid":16823363,"place":"Bamako","lat":12.6392,"lon":-8.0029,"precision":"city","confidence":"high","note":"host city"}
+{"qid":135655642,"place":"Dignity Health Sports Park","lat":33.8644,"lon":-118.2611,"precision":"site","confidence":"high","note":"venue"}
+{"qid":4593734,"place":"Churchill Downs","lat":38.2031,"lon":-85.7708,"precision":"site","confidence":"high","note":"Derby venue"}
+{"qid":1178981,"place":"Three Gorges","lat":30.8,"lon":111.0,"precision":"region","confidence":"medium","note":"culture centered there"}

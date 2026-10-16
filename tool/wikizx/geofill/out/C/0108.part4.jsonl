@@ -1,0 +1,50 @@
+{"qid":1365252,"place":"Banjul","lat":13.4549,"lon":-16.579,"precision":"city","confidence":"medium","note":"Gambian capital"}
+{"qid":659072,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"classification topic"}
+{"qid":7242374,"place":"Cape Town","lat":-33.9249,"lon":18.4241,"precision":"city","confidence":"medium","note":"South African Parliament"}
+{"qid":20708387,"place":"West Virginia","lat":38.5976,"lon":-80.4549,"precision":"region","confidence":"medium","note":"statewide election"}
+{"qid":7383753,"place":"Kigali","lat":-1.9441,"lon":30.0619,"precision":"city","confidence":"medium","note":"Rwandan capital"}
+{"qid":107481684,"place":"Florida","lat":27.6648,"lon":-81.5158,"precision":"region","confidence":"medium","note":"statewide election"}
+{"qid":2550321,"place":"Ghent","lat":51.0543,"lon":3.7174,"precision":"city","confidence":"medium","note":"Tour of Flanders start"}
+{"qid":28449508,"place":"Jacksonville, Florida","lat":30.3322,"lon":-81.6557,"precision":"city","confidence":"high","note":"Gator Bowl Stadium"}
+{"qid":2435415,"place":"Rotterdam","lat":51.9244,"lon":4.4777,"precision":"city","confidence":"low","note":"Dutch entry; contest in Copenhagen"}
+{"qid":934940,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"comics series"}
+{"qid":122850683,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"worldwide circuit"}
+{"qid":108933774,"place":"Great Britain","lat":54.0,"lon":-2.0,"precision":"country","confidence":"medium","note":"British stage race"}
+{"qid":16823694,"place":"Khartoum","lat":15.5007,"lon":32.5599,"precision":"city","confidence":"medium","note":"Sudan league"}
+{"qid":55316289,"place":"Louisiana","lat":30.9843,"lon":-91.9623,"precision":"region","confidence":"medium","note":"statewide election"}
+{"qid":41519115,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"TV drama"}
+{"qid":30644571,"place":"North Carolina","lat":35.7596,"lon":-79.0193,"precision":"region","confidence":"medium","note":"statewide election"}
+{"qid":3112038,"place":"Mexico City","lat":19.4326,"lon":-99.1332,"precision":"city","confidence":"medium","note":"Mexican cabinet"}
+{"qid":5339198,"place":"Edmonton","lat":53.5461,"lon":-113.4938,"precision":"city","confidence":"high","note":"municipal election"}
+{"qid":30642293,"place":"Connecticut","lat":41.6032,"lon":-73.0877,"precision":"region","confidence":"medium","note":"statewide election"}
+{"qid":134600483,"place":"Chang Arena","lat":14.999,"lon":103.119,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":1849814,"place":"Ghent","lat":51.0543,"lon":3.7174,"precision":"city","confidence":"medium","note":"Tour of Flanders start"}
+{"qid":1743215,"place":"Cairo","lat":30.0444,"lon":31.2357,"precision":"city","confidence":"medium","note":"Egyptian capital"}
+{"qid":16158980,"place":"Alaska","lat":64.2008,"lon":-149.4937,"precision":"region","confidence":"medium","note":"statewide election"}
+{"qid":1975250,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"high","note":"games in Rome"}
+{"qid":115518016,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"nationwide playoffs"}
+{"qid":17507591,"place":"New Mexico","lat":34.5199,"lon":-105.8701,"precision":"region","confidence":"medium","note":"New Mexico band"}
+{"qid":30636507,"place":"Arkansas","lat":34.7465,"lon":-92.2896,"precision":"region","confidence":"medium","note":"statewide election"}
+{"qid":6797264,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"low","note":"North American touring festival"}
+{"qid":7891603,"place":"Maryland","lat":39.0458,"lon":-76.6413,"precision":"region","confidence":"medium","note":"statewide election"}
+{"qid":7094782,"place":"Ontario","lat":50.0,"lon":-85.0,"precision":"region","confidence":"medium","note":"Ontario highway"}
+{"qid":28948862,"place":"Dauphiné","lat":45.1885,"lon":5.7245,"precision":"region","confidence":"medium","note":"race in Dauphine"}
+{"qid":6898091,"place":"Malawi","lat":-13.2543,"lon":34.3015,"precision":"country","confidence":"high","note":"Queen of Malawi"}
+{"qid":6481435,"place":"Lambeth","lat":51.4607,"lon":-0.1163,"precision":"city","confidence":"high","note":"council election"}
+{"qid":140129335,"place":"Stade Atlantique","lat":44.8975,"lon":-0.5619,"precision":"site","confidence":"high","note":"tournament venue"}
+{"qid":17016122,"place":"Vermont","lat":44.5588,"lon":-72.5778,"precision":"region","confidence":"medium","note":"statewide election"}
+{"qid":6797816,"place":"Stoke-on-Trent","lat":53.0027,"lon":-2.1794,"precision":"city","confidence":"high","note":"mayoralty"}
+{"qid":1327492,"place":"Stockholm","lat":59.3293,"lon":18.0686,"precision":"city","confidence":"medium","note":"Swedish capital"}
+{"qid":122762059,"place":"Basque Country (autonomous community)","lat":42.9896,"lon":-2.6189,"precision":"region","confidence":"medium","note":"stage race in Basque Country"}
+{"qid":841601,"place":"Tokyo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"medium","note":"Japanese capital"}
+{"qid":25830895,"place":"United States Capitol","lat":38.8899,"lon":-77.0091,"precision":"site","confidence":"high","note":"adopted by Congress"}
+{"qid":3504372,"place":"Santiago","lat":-33.4489,"lon":-70.6693,"precision":"city","confidence":"medium","note":"Chilean derby"}
+{"qid":766935,"place":"Melbourne","lat":-37.8136,"lon":144.9631,"precision":"city","confidence":"medium","note":"Australian government seat in 1913"}
+{"qid":55636660,"place":"Minnesota","lat":46.7296,"lon":-94.6859,"precision":"region","confidence":"medium","note":"statewide election"}
+{"qid":16950359,"place":"Valletta","lat":35.8989,"lon":14.5146,"precision":"city","confidence":"medium","note":"Maltese capital"}
+{"qid":6158210,"place":"Tokyo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"medium","note":"Japanese capital"}
+{"qid":138605838,"place":"Republican Stadium (Yerevan)","lat":40.1722,"lon":44.5222,"precision":"site","confidence":"high","note":"match venue"}
+{"qid":6067445,"place":"Tehran","lat":35.6892,"lon":51.389,"precision":"city","confidence":"medium","note":"Iranian capital"}
+{"qid":16152443,"place":"Marlborough House","lat":51.5057,"lon":-0.1355,"precision":"site","confidence":"high","note":"meeting venue"}
+{"qid":27021009,"place":"Terenure","lat":53.3092,"lon":-6.2858,"precision":"city","confidence":"high","note":"hall in Terenure"}
+{"qid":7558660,"place":"Honiara","lat":-9.4333,"lon":159.95,"precision":"city","confidence":"medium","note":"Solomon Islands capital"}

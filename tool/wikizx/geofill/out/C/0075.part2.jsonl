@@ -1,0 +1,50 @@
+{"qid":4561784,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"season summary"}
+{"qid":22920552,"place":"Catalonia","lat":41.8,"lon":1.5,"precision":"region","confidence":"high","note":"race in Catalonia"}
+{"qid":3768648,"place":"Italy","lat":42.8,"lon":12.6,"precision":"country","confidence":"medium","note":"stage race in Italy"}
+{"qid":4166521,"place":"Guantanamo Bay detention camp","lat":19.9,"lon":-75.1,"precision":"site","confidence":"low","note":"alleged desecration at Guantanamo"}
+{"qid":5290794,"place":"Santo Domingo","lat":18.4861,"lon":-69.9312,"precision":"city","confidence":"medium","note":"national capital"}
+{"qid":125243684,"place":"Canada","lat":56.1,"lon":-96.0,"precision":"country","confidence":"medium","note":"Canadian golf tour"}
+{"qid":837576,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"train class"}
+{"qid":39074972,"place":"Washington (state)","lat":47.4,"lon":-120.5,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":137886417,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"web series"}
+{"qid":21061085,"place":"Zhanjiang","lat":21.2707,"lon":110.3594,"precision":"city","confidence":"medium","note":"landfall in Guangdong"}
+{"qid":77614052,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"multi-venue qualifiers"}
+{"qid":2069117,"place":"Tirana","lat":41.3275,"lon":19.8187,"precision":"city","confidence":"medium","note":"national capital"}
+{"qid":22909475,"place":"Lagos","lat":6.5244,"lon":3.3792,"precision":"city","confidence":"medium","note":"treaty with Lagos"}
+{"qid":125635437,"place":"Gitega","lat":3.4271,"lon":29.9246,"precision":"city","confidence":"medium","note":"political capital"}
+{"qid":85738952,"place":"Kuala Lumpur","lat":3.139,"lon":101.6869,"precision":"city","confidence":"high","note":"host city"}
+{"qid":2587765,"place":"Quebec","lat":52.0,"lon":-72.0,"precision":"region","confidence":"medium","note":"Quebec blackout"}
+{"qid":18374302,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"extinct genus"}
+{"qid":5130272,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"low","note":"committee office in New York"}
+{"qid":124358050,"place":"Hong Kong Stadium","lat":22.2696,"lon":114.1906,"precision":"site","confidence":"medium","note":"Hong Kong Sevens venue"}
+{"qid":6688345,"place":"Nice","lat":43.7102,"lon":7.262,"precision":"city","confidence":"high","note":"regatta held in Nice"}
+{"qid":3112468,"place":"Athens","lat":37.9838,"lon":23.7275,"precision":"city","confidence":"medium","note":"Greek government seat"}
+{"qid":391634,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"motorcycle model"}
+{"qid":123910837,"place":"King Abdullah Sports City","lat":21.6785,"lon":39.1517,"precision":"site","confidence":"high","note":"final venue in Jeddah"}
+{"qid":1626799,"place":"Helsinki","lat":60.1699,"lon":24.9384,"precision":"city","confidence":"medium","note":"national capital"}
+{"qid":136527019,"place":"Kipnuk, Alaska","lat":59.9394,"lon":-164.0453,"precision":"city","confidence":"low","note":"Alaska flooding"}
+{"qid":129177003,"place":"Snapdragon Stadium","lat":32.7838,"lon":-117.122,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":2538687,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"currency"}
+{"qid":116636956,"place":"Switzerland","lat":46.8,"lon":8.2,"precision":"country","confidence":"high","note":"race in Switzerland"}
+{"qid":5432442,"place":"Dublin","lat":53.3498,"lon":-6.2603,"precision":"city","confidence":"medium","note":"budget delivered in Dublin"}
+{"qid":105061409,"place":"Colorado","lat":39.0,"lon":-105.5,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":3435635,"place":"Bosnia and Herzegovina","lat":43.9,"lon":17.7,"precision":"country","confidence":"high","note":"national census"}
+{"qid":7089272,"place":"Tokyo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"high","note":"Olympus based in Tokyo"}
+{"qid":65506262,"place":"Louisiana","lat":31.0,"lon":-92.0,"precision":"region","confidence":"medium","note":"landfall in Louisiana"}
+{"qid":3139346,"place":"Toledo, Spain","lat":39.8628,"lon":-4.0273,"precision":"city","confidence":"high","note":"council held in Toledo"}
+{"qid":26691711,"place":"Madrid","lat":40.4168,"lon":-3.7038,"precision":"city","confidence":"low","note":"alleged government operation"}
+{"qid":17100781,"place":"New Mexico","lat":34.4,"lon":-106.1,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":27976724,"place":"Milan","lat":45.4642,"lon":9.19,"precision":"city","confidence":"high","note":"race started and finished in Milan"}
+{"qid":24204483,"place":"New York (state)","lat":42.9,"lon":-75.5,"precision":"region","confidence":"high","note":"statewide primary"}
+{"qid":4344910,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"low","note":"key location Moscow"}
+{"qid":11262221,"place":"St. Louis","lat":38.627,"lon":-90.1994,"precision":"city","confidence":"high","note":"1904 host city"}
+{"qid":30643861,"place":"Utah","lat":39.3,"lon":-111.7,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":1439807,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"comic"}
+{"qid":7892412,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"high","note":"declared by Congress"}
+{"qid":3985590,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"video game series"}
+{"qid":96363781,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"multi-country tour"}
+{"qid":2790353,"place":"Havana","lat":23.1136,"lon":-82.3666,"precision":"city","confidence":"medium","note":"national capital"}
+{"qid":1140009,"place":"Muroto, Kochi","lat":33.2893,"lon":134.1508,"precision":"city","confidence":"medium","note":"landfall near Muroto"}
+{"qid":96364547,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"multi-country tour"}
+{"qid":276667,"place":"Seoul","lat":37.5665,"lon":126.978,"precision":"city","confidence":"medium","note":"national capital"}
+{"qid":3722486,"place":"City of San Marino","lat":43.9424,"lon":12.4578,"precision":"city","confidence":"medium","note":"national capital"}

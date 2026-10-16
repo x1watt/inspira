@@ -1,0 +1,50 @@
+{"qid":2985663,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"vehicle model"}
+{"qid":125635659,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"tennis zone competition"}
+{"qid":4622023,"place":"Midwestern United States","lat":41.5,"lon":-93.0,"precision":"region","confidence":"low","note":"heat wave across US"}
+{"qid":3885396,"place":"Columbia, South Carolina","lat":34.0007,"lon":-81.0348,"precision":"city","confidence":"medium","note":"convention in Columbia"}
+{"qid":4085730,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"medium","note":"flight began near Moscow"}
+{"qid":55316462,"place":"Louisiana","lat":30.9843,"lon":-91.9623,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7076933,"place":"Pacific Northwest","lat":47.0,"lon":-122.0,"precision":"region","confidence":"low","note":"storm hit Pacific coast"}
+{"qid":2288610,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"technique"}
+{"qid":19371744,"place":"Norway","lat":60.472,"lon":8.4689,"precision":"country","confidence":"high","note":"race in Norway"}
+{"qid":6055143,"place":"Tegucigalpa","lat":14.0723,"lon":-87.1921,"precision":"city","confidence":"medium","note":"coup in Honduras capital"}
+{"qid":104948875,"place":"Idaho","lat":44.2405,"lon":-114.4788,"precision":"region","confidence":"high","note":"state election"}
+{"qid":132746300,"place":"Brunei","lat":4.5353,"lon":114.7277,"precision":"country","confidence":"high","note":"national cup"}
+{"qid":23701776,"place":"Oudenaarde","lat":50.8447,"lon":3.6053,"precision":"city","confidence":"high","note":"race finish"}
+{"qid":953571,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"game series"}
+{"qid":123816544,"place":"Copenhagen","lat":55.6761,"lon":12.5683,"precision":"city","confidence":"high","note":"race in Copenhagen"}
+{"qid":124218335,"place":"Langkawi","lat":6.35,"lon":99.8,"precision":"region","confidence":"medium","note":"race named Langkawi"}
+{"qid":20807174,"place":"China","lat":35.8617,"lon":104.1954,"precision":"country","confidence":"high","note":"bid host country"}
+{"qid":54866847,"place":"London Borough of Richmond upon Thames","lat":51.4479,"lon":-0.326,"precision":"region","confidence":"high","note":"borough election"}
+{"qid":1339526,"place":"Togoland","lat":7.0,"lon":0.8,"precision":"region","confidence":"medium","note":"plebiscite territory"}
+{"qid":105038113,"place":"Arkansas","lat":34.7465,"lon":-92.2896,"precision":"region","confidence":"high","note":"state election"}
+{"qid":27827637,"place":"Siena","lat":43.3188,"lon":11.3308,"precision":"city","confidence":"high","note":"race finish in Siena"}
+{"qid":4562824,"place":"Madrid","lat":40.4168,"lon":-3.7038,"precision":"city","confidence":"high","note":"venue Chamartin"}
+{"qid":131447882,"place":"Larose, Louisiana","lat":29.5727,"lon":-90.3801,"precision":"city","confidence":"high","note":"tornado at Larose"}
+{"qid":121357134,"place":"Studio 8H","lat":40.7587,"lon":-73.9787,"precision":"site","confidence":"medium","note":"SNL studio in 30 Rockefeller"}
+{"qid":54084797,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"medium","note":"government formation in Rome"}
+{"qid":663430,"place":"Majuro","lat":7.0897,"lon":171.3803,"precision":"city","confidence":"medium","note":"capital of Marshall Islands"}
+{"qid":7999518,"place":"Wigan","lat":53.5448,"lon":-2.6318,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":892144,"place":"Toledo, Spain","lat":39.8628,"lon":-4.0273,"precision":"city","confidence":"high","note":"held in Toledo"}
+{"qid":4958883,"place":"Rio de Janeiro","lat":-22.9068,"lon":-43.1729,"precision":"city","confidence":"medium","note":"capital then"}
+{"qid":119438186,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"play"}
+{"qid":20055594,"place":"River Thames","lat":51.47,"lon":-0.23,"precision":"region","confidence":"high","note":"Putney to Mortlake"}
+{"qid":55139253,"place":"Newcastle-under-Lyme","lat":53.012,"lon":-2.228,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":42398578,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"medium","note":"La Course in France"}
+{"qid":7891479,"place":"Florida","lat":27.9944,"lon":-81.7603,"precision":"region","confidence":"high","note":"state election"}
+{"qid":99469819,"place":"Schoten","lat":51.25,"lon":4.498,"precision":"city","confidence":"medium","note":"Scheldeprijs finish at Schoten"}
+{"qid":5316487,"place":"Durham, England","lat":54.7761,"lon":-1.5733,"precision":"city","confidence":"high","note":"county council"}
+{"qid":18483137,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"high","note":"national census"}
+{"qid":18356948,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"high","note":"national elections"}
+{"qid":3587165,"place":"Kiribati","lat":1.87,"lon":-157.36,"precision":"country","confidence":"high","note":"national election"}
+{"qid":7891368,"place":"Alabama","lat":32.3182,"lon":-86.9023,"precision":"region","confidence":"high","note":"state election"}
+{"qid":57163156,"place":"Valkenburg aan de Geul","lat":50.865,"lon":5.83,"precision":"city","confidence":"high","note":"race at Valkenburg"}
+{"qid":17048737,"place":"Redmond, Washington","lat":47.674,"lon":-122.1215,"precision":"city","confidence":"medium","note":"Microsoft awards"}
+{"qid":7419442,"place":"Santa Cruz de la Sierra","lat":-17.7833,"lon":-63.1821,"precision":"city","confidence":"high","note":"department capital"}
+{"qid":111945281,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"medium","note":"camps across Nazi Germany"}
+{"qid":39046711,"place":"New Jersey","lat":40.0583,"lon":-74.4057,"precision":"region","confidence":"high","note":"state election"}
+{"qid":21531827,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"high","note":"state visit to London"}
+{"qid":136297421,"place":"Adirondack Park","lat":44.0,"lon":-74.2,"precision":"region","confidence":"medium","note":"Mount Van Hoevenberg land"}
+{"qid":136285747,"place":"Ullevaal Stadion","lat":59.9486,"lon":10.7339,"precision":"site","confidence":"high","note":"venue named"}
+{"qid":132001362,"place":"Inglewood, California","lat":33.9617,"lon":-118.3531,"precision":"city","confidence":"high","note":"concert in Inglewood"}
+{"qid":1326909,"place":"Helsinki","lat":60.1699,"lon":24.9384,"precision":"city","confidence":"medium","note":"Finnish cabinet seat"}

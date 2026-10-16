@@ -1,0 +1,50 @@
+{"qid":2772298,"place":"Brussels","lat":50.8503,"lon":4.3517,"precision":"city","confidence":"low","note":"1969 conference in Brussels"}
+{"qid":844455,"place":"Stockholm","lat":59.3293,"lon":18.0686,"precision":"city","confidence":"high","note":"Roslagsbanan railway"}
+{"qid":6786646,"place":"Geneva","lat":46.2044,"lon":6.1432,"precision":"city","confidence":"low","note":"ILO conference"}
+{"qid":76285091,"place":"Stoke-on-Trent","lat":53.0027,"lon":-2.1794,"precision":"city","confidence":"high","note":"city council election"}
+{"qid":4668016,"place":"Sukhumi","lat":43.0015,"lon":41.0234,"precision":"city","confidence":"medium","note":"Abkhazia capital"}
+{"qid":5015523,"place":"Reykjavík","lat":64.1466,"lon":-21.9426,"precision":"city","confidence":"high","note":"Icelandic government seat"}
+{"qid":132126503,"place":"Virginia","lat":37.4316,"lon":-78.6569,"precision":"region","confidence":"high","note":"state election"}
+{"qid":135983973,"place":"London","lat":51.5072,"lon":-0.1276,"precision":"city","confidence":"high","note":"10 Downing Street"}
+{"qid":1285390,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"software rivalry"}
+{"qid":4563220,"place":"Chicago","lat":41.8781,"lon":-87.6298,"precision":"city","confidence":"high","note":"part of Chicago fair"}
+{"qid":140068625,"place":"Warwick District","lat":52.28,"lon":-1.58,"precision":"region","confidence":"high","note":"district council election"}
+{"qid":134006204,"place":"Morodok Techo National Stadium","lat":11.54,"lon":104.8,"precision":"site","confidence":"high","note":"final venue Phnom Penh"}
+{"qid":48843614,"place":"Wyoming","lat":43.0759,"lon":-107.2903,"precision":"region","confidence":"high","note":"state election"}
+{"qid":18667206,"place":"Monrovia","lat":6.3156,"lon":-10.8074,"precision":"city","confidence":"medium","note":"Liberia capital"}
+{"qid":17065119,"place":"Philippines","lat":12.8797,"lon":121.774,"precision":"country","confidence":"medium","note":"made landfall Philippines"}
+{"qid":25443201,"place":"Lisbon","lat":38.7223,"lon":-9.1393,"precision":"city","confidence":"high","note":"city election"}
+{"qid":28869068,"place":"Venezuela","lat":6.4238,"lon":-66.5897,"precision":"country","confidence":"high","note":"national program"}
+{"qid":16985926,"place":"California","lat":36.7783,"lon":-119.4179,"precision":"region","confidence":"high","note":"state ballot measure"}
+{"qid":141447125,"place":"Waterloo, Ontario","lat":43.4643,"lon":-80.5204,"precision":"city","confidence":"high","note":"held in Waterloo"}
+{"qid":135274707,"place":"Lumpinee Boxing Stadium","lat":13.75,"lon":100.609,"precision":"site","confidence":"high","note":"event venue Bangkok"}
+{"qid":486990,"place":"Durban","lat":-29.8587,"lon":31.0218,"precision":"city","confidence":"high","note":"2011 IOC session in Durban"}
+{"qid":60770816,"place":"Singapore","lat":1.3521,"lon":103.8198,"precision":"country","confidence":"medium","note":"promotion based in Singapore"}
+{"qid":22676594,"place":"Tallinn","lat":59.437,"lon":24.7536,"precision":"city","confidence":"medium","note":"Riigikogu seat"}
+{"qid":3587245,"place":"Dakar","lat":14.7167,"lon":-17.4677,"precision":"city","confidence":"high","note":"Senegal capital"}
+{"qid":20203024,"place":"United Kingdom","lat":54.0,"lon":-2.0,"precision":"country","confidence":"medium","note":"sports federation in Britain"}
+{"qid":5276543,"place":"London","lat":51.5072,"lon":-0.1276,"precision":"city","confidence":"high","note":"kidnap attempt in London"}
+{"qid":4053302,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"high","note":"festival in Moscow"}
+{"qid":125167199,"place":"Canada","lat":56.1304,"lon":-106.3468,"precision":"country","confidence":"high","note":"golf tour in Canada"}
+{"qid":28222249,"place":"Minnesota","lat":46.7296,"lon":-94.6859,"precision":"region","confidence":"high","note":"state election"}
+{"qid":936405,"place":"Qatar","lat":25.3548,"lon":51.1839,"precision":"country","confidence":"high","note":"stage race in Qatar"}
+{"qid":30638139,"place":"Tees Valley","lat":54.57,"lon":-1.23,"precision":"region","confidence":"high","note":"mayoral election"}
+{"qid":17100833,"place":"New York (state)","lat":43.2994,"lon":-74.2179,"precision":"region","confidence":"high","note":"state election"}
+{"qid":5448192,"place":"Suva","lat":-18.1416,"lon":178.4419,"precision":"city","confidence":"medium","note":"Fiji capital"}
+{"qid":104842583,"place":"Florida","lat":27.6648,"lon":-81.5158,"precision":"region","confidence":"high","note":"state election"}
+{"qid":42916395,"place":"Illinois","lat":40.6331,"lon":-89.3985,"precision":"region","confidence":"high","note":"state election"}
+{"qid":4939632,"place":"La Paz","lat":-16.5,"lon":-68.15,"precision":"city","confidence":"medium","note":"Bolivian seat of government"}
+{"qid":30644813,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"comic series"}
+{"qid":137601499,"place":"Ho Chi Minh City","lat":10.8231,"lon":106.6297,"precision":"city","confidence":"low","note":"Thong Nhat Stadium opening"}
+{"qid":39054878,"place":"Venice","lat":45.4408,"lon":12.3155,"precision":"city","confidence":"high","note":"coup against Venice"}
+{"qid":1372115,"place":"Hulunbuir","lat":49.2122,"lon":119.7658,"precision":"region","confidence":"low","note":"former province region"}
+{"qid":118482753,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"global circuit"}
+{"qid":2600391,"place":"Maidstone","lat":51.272,"lon":0.529,"precision":"city","confidence":"medium","note":"Penenden Heath near Maidstone"}
+{"qid":841922,"place":"Tokyo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"high","note":"Diet in Tokyo"}
+{"qid":7556135,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"solar cycle"}
+{"qid":6696080,"place":"Cuba","lat":21.5218,"lon":-77.7812,"precision":"country","confidence":"high","note":"Cuban award"}
+{"qid":7354184,"place":"Dores, Highland","lat":57.388,"lon":-4.33,"precision":"city","confidence":"high","note":"Clunes Farm, Dores"}
+{"qid":110970945,"place":"Galicia (Spain)","lat":42.575,"lon":-8.1339,"precision":"region","confidence":"high","note":"race in Galicia"}
+{"qid":123584928,"place":"Dumfries","lat":55.0701,"lon":-3.6052,"precision":"city","confidence":"high","note":"event in Dumfries"}
+{"qid":7122510,"place":"Australia","lat":-25.2744,"lon":133.7751,"precision":"country","confidence":"high","note":"federal act"}
+{"qid":5736829,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"TV special"}

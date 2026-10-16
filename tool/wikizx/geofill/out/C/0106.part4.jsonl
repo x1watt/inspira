@@ -1,0 +1,50 @@
+{"qid":3738636,"place":"Venice","lat":45.4408,"lon":12.3155,"precision":"city","confidence":"high","note":"Venetian family"}
+{"qid":1628915,"place":"Helsinki","lat":60.1699,"lon":24.9384,"precision":"city","confidence":"medium","note":"Finnish government seat"}
+{"qid":60519231,"place":"Wisconsin","lat":44.5,"lon":-89.5,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":122760735,"place":"Catalonia","lat":41.8,"lon":1.5,"precision":"region","confidence":"high","note":"race in Catalonia"}
+{"qid":64623494,"place":"Arunachal Pradesh","lat":28.218,"lon":94.7278,"precision":"region","confidence":"high","note":"crash near Pari hills"}
+{"qid":39057773,"place":"Portugal","lat":39.3999,"lon":-8.2245,"precision":"country","confidence":"medium","note":"Portuguese entry"}
+{"qid":19876915,"place":"Ottawa","lat":45.4215,"lon":-75.6972,"precision":"city","confidence":"high","note":"Supreme Court of Canada"}
+{"qid":134936818,"place":"Wellington Region","lat":-41.2,"lon":175.3,"precision":"region","confidence":"high","note":"regional election"}
+{"qid":4951207,"place":"Mar del Plata","lat":-38.0055,"lon":-57.5426,"precision":"city","confidence":"high","note":"host city"}
+{"qid":7195435,"place":"Chicago","lat":41.8781,"lon":-87.6298,"precision":"city","confidence":"high","note":"violence mainly in Chicago"}
+{"qid":55316126,"place":"Alabama","lat":32.3182,"lon":-86.9023,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":30672748,"place":"North Korea","lat":40.3399,"lon":127.5101,"precision":"country","confidence":"high","note":"tests in North Korea"}
+{"qid":5172233,"place":"Westminster Abbey","lat":51.4993,"lon":-0.1273,"precision":"site","confidence":"high","note":"coronation venue"}
+{"qid":48843619,"place":"Wyoming","lat":43.075,"lon":-107.2903,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":38806025,"place":"Hawaii","lat":19.8968,"lon":-155.5828,"precision":"region","confidence":"high","note":"threatened Hawaii"}
+{"qid":5589097,"place":"United Kingdom","lat":54.0,"lon":-2.0,"precision":"country","confidence":"medium","note":"UK government network"}
+{"qid":81656901,"place":"Valencian Community","lat":39.484,"lon":-0.7533,"precision":"region","confidence":"high","note":"race in Valencian Community"}
+{"qid":108762534,"place":"Germany","lat":51.0,"lon":10.0,"precision":"country","confidence":"high","note":"national election polling"}
+{"qid":1033839,"place":"Belgium","lat":50.5039,"lon":4.4699,"precision":"country","confidence":"high","note":"crisis in Belgium"}
+{"qid":6714323,"place":"Ankara","lat":39.9334,"lon":32.8597,"precision":"city","confidence":"low","note":"assembled by MANAS"}
+{"qid":6338449,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"low","note":"Marconi-Osram valve, Britain"}
+{"qid":4606348,"place":"Naqsh-e Jahan Stadium","lat":32.6551,"lon":51.6746,"precision":"site","confidence":"high","note":"venue Esfahan"}
+{"qid":7891758,"place":"New Jersey","lat":40.0583,"lon":-74.4057,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":4598790,"place":"Hanover","lat":52.3759,"lon":9.732,"precision":"city","confidence":"high","note":"final in Hanover"}
+{"qid":4600598,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"high","note":"federal budget"}
+{"qid":114657832,"place":"Minnesota","lat":45.6945,"lon":-93.9002,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":42404082,"place":"Netherlands","lat":52.1326,"lon":5.2913,"precision":"country","confidence":"high","note":"race in Netherlands"}
+{"qid":131345024,"place":"Java","lat":-7.6145,"lon":110.7122,"precision":"region","confidence":"medium","note":"flooding in Java"}
+{"qid":10914112,"place":"Taipei Nangang Exhibition Center","lat":25.0553,"lon":121.6171,"precision":"site","confidence":"high","note":"venue"}
+{"qid":4858569,"place":"Barbados","lat":13.1939,"lon":-59.5432,"precision":"country","confidence":"high","note":"national election"}
+{"qid":20805111,"place":"Adelaide","lat":-34.9285,"lon":138.6007,"precision":"city","confidence":"medium","note":"SAFA final in Adelaide"}
+{"qid":5198899,"place":"Gujarat","lat":22.2587,"lon":71.1924,"precision":"region","confidence":"medium","note":"India landfall"}
+{"qid":24904931,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"medium","note":"Times Square broadcasts"}
+{"qid":7892856,"place":"Minnesota","lat":45.6945,"lon":-93.9002,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":17035113,"place":"Indianapolis","lat":39.7684,"lon":-86.1581,"precision":"city","confidence":"high","note":"Pan American Games host"}
+{"qid":941875,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"medium","note":"Russian art movement"}
+{"qid":4645187,"place":"Buenos Aires","lat":-34.6037,"lon":-58.3816,"precision":"city","confidence":"high","note":"largest protest in Buenos Aires"}
+{"qid":50209578,"place":"Belgium","lat":50.5039,"lon":4.4699,"precision":"country","confidence":"high","note":"national cycling cup"}
+{"qid":125682,"place":"Berlin","lat":52.52,"lon":13.405,"precision":"city","confidence":"medium","note":"KPD Weimar scandal"}
+{"qid":276670,"place":"Seoul","lat":37.5665,"lon":126.978,"precision":"city","confidence":"medium","note":"National Assembly elected president"}
+{"qid":5098369,"place":"New South Wales","lat":-33.0,"lon":147.0,"precision":"region","confidence":"high","note":"state law"}
+{"qid":19045047,"place":"Federal Hall","lat":40.7074,"lon":-74.0102,"precision":"site","confidence":"high","note":"delivered at Federal Hall"}
+{"qid":2121288,"place":"Alkmaar","lat":52.6324,"lon":4.7534,"precision":"city","confidence":"high","note":"convention at Alkmaar"}
+{"qid":7362615,"place":"Romania","lat":45.9432,"lon":24.9668,"precision":"country","confidence":"high","note":"national election"}
+{"qid":106303603,"place":"Hebei","lat":39.33,"lon":116.66,"precision":"region","confidence":"low","note":"Mutoudeng fossils"}
+{"qid":30640187,"place":"Connecticut","lat":41.6032,"lon":-73.0877,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":1392482,"place":"Laos","lat":19.8563,"lon":102.4955,"precision":"country","confidence":"high","note":"national election"}
+{"qid":135571137,"place":"Warwick District","lat":52.28,"lon":-1.58,"precision":"region","confidence":"high","note":"district election"}
+{"qid":5290791,"place":"Dominican Republic","lat":18.7357,"lon":-70.1627,"precision":"country","confidence":"high","note":"national election"}
+{"qid":17101009,"place":"South Dakota","lat":44.4443,"lon":-100.2263,"precision":"region","confidence":"high","note":"statewide election"}

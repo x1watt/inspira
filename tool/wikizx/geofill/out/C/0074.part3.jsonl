@@ -1,0 +1,50 @@
+{"qid":4583154,"place":"Quezon City","lat":14.676,"lon":121.0437,"precision":"city","confidence":"low","note":"likely Araneta Coliseum"}
+{"qid":944847,"place":"California","lat":36.8,"lon":-119.4,"precision":"region","confidence":"high","note":"statewide stage race"}
+{"qid":16996075,"place":"Leeds","lat":53.8008,"lon":-1.5491,"precision":"city","confidence":"high","note":"council election"}
+{"qid":110174139,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"multi-venue test series"}
+{"qid":7125911,"place":"Islamabad","lat":33.6844,"lon":73.0479,"precision":"city","confidence":"medium","note":"Electoral College in capital"}
+{"qid":118105140,"place":"Georgia (U.S. state)","lat":32.9,"lon":-83.4,"precision":"region","confidence":"high","note":"statewide primary"}
+{"qid":7335536,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"wrestler biography"}
+{"qid":7038552,"place":"Jerusalem","lat":31.7683,"lon":35.2137,"precision":"city","confidence":"medium","note":"seat of government"}
+{"qid":421227,"place":"Luzon","lat":16.0,"lon":121.0,"precision":"region","confidence":"low","note":"struck Luzon then China"}
+{"qid":4074088,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"medium","note":"developed in Moscow"}
+{"qid":39047227,"place":"Arizona","lat":34.2,"lon":-111.6,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":124967786,"place":"Karachi","lat":24.8607,"lon":67.0011,"precision":"city","confidence":"high","note":"final at Karachi stadium"}
+{"qid":4587795,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"league-wide strike"}
+{"qid":135219231,"place":"New Zealand","lat":-41.0,"lon":174.0,"precision":"country","confidence":"high","note":"nationwide competition"}
+{"qid":2630543,"place":"Flanders","lat":51.0,"lon":4.5,"precision":"region","confidence":"medium","note":"race in Flanders"}
+{"qid":3116455,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"medium","note":"French national debate"}
+{"qid":17055034,"place":"Wellington","lat":-41.2865,"lon":174.7762,"precision":"city","confidence":"high","note":"presented in Parliament"}
+{"qid":7945104,"place":"Athens","lat":37.9838,"lon":23.7275,"precision":"city","confidence":"high","note":"held in Athens"}
+{"qid":17544147,"place":"Colorado","lat":39.0,"lon":-105.5,"precision":"region","confidence":"high","note":"stage race in Colorado"}
+{"qid":3546220,"place":"Yap","lat":9.5,"lon":138.1,"precision":"region","confidence":"high","note":"struck Yap"}
+{"qid":5947766,"place":"Louisiana","lat":31.0,"lon":-92.0,"precision":"region","confidence":"medium","note":"struck Louisiana"}
+{"qid":202366,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"century"}
+{"qid":17015768,"place":"Massachusetts","lat":42.3,"lon":-71.8,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":119873152,"place":"East Midlands","lat":52.8,"lon":-1.0,"precision":"region","confidence":"high","note":"regional election"}
+{"qid":4445670,"place":"Kyoto","lat":35.0116,"lon":135.7681,"precision":"city","confidence":"medium","note":"founded in Kyoto"}
+{"qid":48837578,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"lunar eclipse"}
+{"qid":3117678,"place":"Coppet","lat":46.3167,"lon":6.1936,"precision":"city","confidence":"high","note":"gathered at Coppet"}
+{"qid":5828160,"place":"Mexico City","lat":19.4326,"lon":-99.1332,"precision":"city","confidence":"medium","note":"national capital"}
+{"qid":5562221,"place":"Kyiv","lat":50.4501,"lon":30.5234,"precision":"city","confidence":"medium","note":"2009 contest in Kyiv"}
+{"qid":131344159,"place":"Vivekananda Yuba Bharati Krirangan","lat":22.5683,"lon":88.4094,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":7891460,"place":"Delaware","lat":39.0,"lon":-75.5,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":135440283,"place":"Tbilisi","lat":41.7151,"lon":44.8271,"precision":"city","confidence":"high","note":"held in Tbilisi"}
+{"qid":124220060,"place":"Skopje","lat":41.9981,"lon":21.4254,"precision":"city","confidence":"medium","note":"national capital"}
+{"qid":17100607,"place":"Nebraska","lat":41.5,"lon":-99.8,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":6971838,"place":"Chukudum","lat":4.35,"lon":33.85,"precision":"city","confidence":"medium","note":"held in Chukudum"}
+{"qid":42916074,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"high","note":"filed in DC court"}
+{"qid":16209682,"place":"Beacon Theatre (New York City)","lat":40.7807,"lon":-73.9814,"precision":"site","confidence":"high","note":"held at Beacon Theatre"}
+{"qid":27795158,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"banknote"}
+{"qid":4904244,"place":"Amsterdam","lat":52.3676,"lon":4.9041,"precision":"city","confidence":"high","note":"IOC session in Amsterdam"}
+{"qid":5198888,"place":"Vanuatu","lat":-16.0,"lon":167.0,"precision":"country","confidence":"low","note":"affected Vanuatu first"}
+{"qid":25022218,"place":"Florida","lat":27.99,"lon":-81.76,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":96363763,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"multi-country tour"}
+{"qid":1581653,"place":"Helsinki","lat":60.1699,"lon":24.9384,"precision":"city","confidence":"medium","note":"national capital"}
+{"qid":124724135,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"high","note":"inquiry in London"}
+{"qid":104842411,"place":"Illinois","lat":40.0,"lon":-89.2,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":2469521,"place":"Hunan","lat":27.6,"lon":111.7,"precision":"region","confidence":"low","note":"among worst affected provinces"}
+{"qid":61091458,"place":"Nagoya","lat":35.1815,"lon":136.9066,"precision":"city","confidence":"high","note":"Aichi-Nagoya games"}
+{"qid":7893098,"place":"Texas","lat":31.0,"lon":-100.0,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":133092828,"place":"Munich","lat":48.1351,"lon":11.582,"precision":"city","confidence":"high","note":"held in Munich"}
+{"qid":104861262,"place":"Upright Citizens Brigade Theatre","lat":40.7467,"lon":-73.9966,"precision":"site","confidence":"medium","note":"performed at UCB Theatre"}

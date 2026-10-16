@@ -1,0 +1,50 @@
+{"qid":16155860,"place":"North Carolina","lat":35.5397,"lon":-79.0193,"precision":"region","confidence":"high","note":"state election"}
+{"qid":779256,"place":"Georgia (U.S. state)","lat":32.6782,"lon":-83.2229,"precision":"region","confidence":"high","note":"race in Georgia"}
+{"qid":104947317,"place":"Alabama","lat":32.8067,"lon":-86.7113,"precision":"region","confidence":"high","note":"state election"}
+{"qid":166435,"place":"Oman","lat":21.4735,"lon":55.9754,"precision":"country","confidence":"high","note":"race in Oman"}
+{"qid":2087670,"place":"Meerbeke","lat":50.899,"lon":4.121,"precision":"city","confidence":"medium","note":"finish in Meerbeke"}
+{"qid":4505622,"place":"Northern Territory","lat":-19.4914,"lon":132.551,"precision":"region","confidence":"medium","note":"affected Northern Territory"}
+{"qid":1979783,"place":"France","lat":46.2276,"lon":2.2137,"precision":"country","confidence":"high","note":"national election"}
+{"qid":7892188,"place":"Texas","lat":31.0545,"lon":-97.5635,"precision":"region","confidence":"high","note":"state special election"}
+{"qid":5339142,"place":"Edmonton","lat":53.5461,"lon":-113.4938,"precision":"city","confidence":"high","note":"city election"}
+{"qid":96363205,"place":"Alaska","lat":64.2008,"lon":-149.4937,"precision":"region","confidence":"high","note":"state election"}
+{"qid":4329183,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"high","note":"Games in London"}
+{"qid":30638895,"place":"Maine","lat":45.2538,"lon":-69.4455,"precision":"region","confidence":"high","note":"state election"}
+{"qid":5599203,"place":"Pierre, South Dakota","lat":44.3683,"lon":-100.351,"precision":"city","confidence":"medium","note":"flood began near Pierre"}
+{"qid":2612446,"place":"Sweden","lat":60.1282,"lon":18.6435,"precision":"country","confidence":"medium","note":"Swedish entry"}
+{"qid":31366060,"place":"Sarajevo","lat":43.8563,"lon":18.4131,"precision":"city","confidence":"high","note":"seat of government"}
+{"qid":4597377,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"multiple venues"}
+{"qid":58741314,"place":"Mountain View, California","lat":37.3861,"lon":-122.0839,"precision":"city","confidence":"medium","note":"Google headquarters"}
+{"qid":105090984,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"low","note":"Fox News location"}
+{"qid":4904249,"place":"Lausanne","lat":46.5197,"lon":6.6323,"precision":"city","confidence":"high","note":"IOC vote in Lausanne"}
+{"qid":104176930,"place":"Netherlands","lat":52.1326,"lon":5.2913,"precision":"country","confidence":"high","note":"race in Netherlands"}
+{"qid":19881537,"place":"New Delhi","lat":28.6139,"lon":77.209,"precision":"city","confidence":"high","note":"presented in Parliament"}
+{"qid":113480688,"place":"6th of October (city)","lat":29.95,"lon":30.92,"precision":"city","confidence":"medium","note":"hall in 6th of October City"}
+{"qid":3943986,"place":"Pont-Saint-Martin, Aosta Valley","lat":45.593,"lon":7.794,"precision":"city","confidence":"high","note":"factory location"}
+{"qid":13554465,"place":"Edgbaston Cricket Ground","lat":52.4559,"lon":-1.9025,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":16973448,"place":"Iowa","lat":42.0115,"lon":-93.2105,"precision":"region","confidence":"high","note":"state highways"}
+{"qid":7892746,"place":"Florida","lat":27.9944,"lon":-81.7603,"precision":"region","confidence":"high","note":"state election"}
+{"qid":65084759,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"comic series"}
+{"qid":122750265,"place":"Harelbeke","lat":50.859,"lon":3.315,"precision":"city","confidence":"high","note":"E3 race at Harelbeke"}
+{"qid":268136,"place":"Yemen","lat":15.5527,"lon":48.5164,"precision":"country","confidence":"high","note":"damage in Yemen"}
+{"qid":18217569,"place":"Virginia","lat":37.4316,"lon":-78.6569,"precision":"region","confidence":"high","note":"state election"}
+{"qid":6304060,"place":"Nouméa","lat":-22.2711,"lon":166.438,"precision":"city","confidence":"high","note":"judo in Noumea"}
+{"qid":141352708,"place":"Moulay El Hassan Stadium","lat":34.022,"lon":-6.835,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":2882036,"place":"Westphalia","lat":51.4332,"lon":7.6616,"precision":"region","confidence":"medium","note":"fossil found Westphalia"}
+{"qid":3066853,"place":"Greece","lat":39.0742,"lon":21.8243,"precision":"country","confidence":"high","note":"national election"}
+{"qid":7891416,"place":"California","lat":36.7783,"lon":-119.4179,"precision":"region","confidence":"high","note":"state election"}
+{"qid":28456360,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"TV show"}
+{"qid":111169404,"place":"Morrisville, North Carolina","lat":35.8235,"lon":-78.8256,"precision":"city","confidence":"high","note":"Church Street Park"}
+{"qid":6053259,"place":"Brussels","lat":50.8503,"lon":4.3517,"precision":"city","confidence":"high","note":"Maison du Peuple Brussels"}
+{"qid":6452994,"place":"Helsinki","lat":60.1699,"lon":24.9384,"precision":"city","confidence":"high","note":"Finnish government"}
+{"qid":2083962,"place":"Haarlem","lat":52.3874,"lon":4.6462,"precision":"city","confidence":"high","note":"Pim Mulier Stadium"}
+{"qid":928325,"place":"Ottawa","lat":45.4215,"lon":-75.6972,"precision":"city","confidence":"high","note":"Parliament of Canada"}
+{"qid":20202883,"place":"Gaza City","lat":31.5017,"lon":34.4668,"precision":"city","confidence":"low","note":"destination of flotilla"}
+{"qid":6706336,"place":"Luxembourg","lat":49.6116,"lon":6.1319,"precision":"city","confidence":"high","note":"national election"}
+{"qid":2201832,"place":"Flanders","lat":50.8503,"lon":4.3517,"precision":"region","confidence":"medium","note":"race in Belgium"}
+{"qid":115769573,"place":"Adelaide","lat":-34.9285,"lon":138.6007,"precision":"city","confidence":"high","note":"race around Adelaide"}
+{"qid":1638688,"place":"Mexico","lat":23.6345,"lon":-102.5528,"precision":"country","confidence":"medium","note":"struck southern Mexico"}
+{"qid":17508780,"place":"United States Capitol","lat":38.8899,"lon":-77.0091,"precision":"site","confidence":"high","note":"delivered in House Chamber"}
+{"qid":56279377,"place":"Iowa","lat":42.0115,"lon":-93.2105,"precision":"region","confidence":"high","note":"state election"}
+{"qid":39060375,"place":"Arizona","lat":34.0489,"lon":-111.0937,"precision":"region","confidence":"high","note":"state election"}
+{"qid":105319850,"place":"Hawaii","lat":19.8968,"lon":-155.5828,"precision":"region","confidence":"high","note":"state election"}

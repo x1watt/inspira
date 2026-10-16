@@ -1,0 +1,50 @@
+{"qid":16960731,"place":"Oregon","lat":43.8041,"lon":-120.5542,"precision":"region","confidence":"medium","note":"statewide ballot measure"}
+{"qid":6531359,"place":"Maseru","lat":-29.3167,"lon":27.4833,"precision":"city","confidence":"medium","note":"Lesotho capital"}
+{"qid":138314283,"place":"King Baudouin Stadium","lat":50.8956,"lon":4.3339,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":11186872,"place":"Tokyo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"medium","note":"LDP election in Tokyo"}
+{"qid":4588024,"place":"Žabljak","lat":43.1544,"lon":19.1222,"precision":"city","confidence":"high","note":"adopted at Zabljak"}
+{"qid":5504323,"place":"British Library","lat":51.5299,"lon":-0.1272,"precision":"site","confidence":"high","note":"96 Euston Road"}
+{"qid":6406452,"place":"Kikuyu, Kenya","lat":-1.25,"lon":36.6667,"precision":"city","confidence":"medium","note":"conference at Kikuyu"}
+{"qid":20972301,"place":"Lombardy","lat":45.4791,"lon":9.8452,"precision":"region","confidence":"medium","note":"race in Lombardy"}
+{"qid":689716,"place":"Bern","lat":46.948,"lon":7.4474,"precision":"city","confidence":"high","note":"Swiss Federal Assembly"}
+{"qid":5453881,"place":"Trent Bridge","lat":52.9366,"lon":-1.1319,"precision":"site","confidence":"high","note":"match at Trent Bridge"}
+{"qid":5985863,"place":"Reykjavik","lat":64.1466,"lon":-21.9426,"precision":"city","confidence":"medium","note":"Icelandic capital"}
+{"qid":3586525,"place":"Bogotá","lat":4.711,"lon":-74.0721,"precision":"city","confidence":"medium","note":"Colombian capital"}
+{"qid":6753312,"place":"Isle of Man","lat":54.2361,"lon":-4.5481,"precision":"region","confidence":"high","note":"Manx election"}
+{"qid":905617,"place":"Baghdad","lat":33.3152,"lon":44.3661,"precision":"city","confidence":"medium","note":"set in Baghdad"}
+{"qid":115988643,"place":"San Juan Province, Argentina","lat":-31.5375,"lon":-68.5364,"precision":"region","confidence":"high","note":"stage race in San Juan"}
+{"qid":2953734,"place":"Khartoum","lat":15.5007,"lon":32.5599,"precision":"city","confidence":"medium","note":"Sudan league"}
+{"qid":7392707,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"TV special"}
+{"qid":136126345,"place":"Ondrej Nepela Arena","lat":48.165,"lon":17.152,"precision":"site","confidence":"high","note":"competition venue"}
+{"qid":16833834,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"software"}
+{"qid":6158653,"place":"Tokyo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"medium","note":"Japanese capital"}
+{"qid":1582285,"place":"Stockholm","lat":59.3293,"lon":18.0686,"precision":"city","confidence":"medium","note":"Swedish capital"}
+{"qid":48835016,"place":"Louisiana","lat":30.9843,"lon":-91.9623,"precision":"region","confidence":"medium","note":"statewide election"}
+{"qid":6094270,"place":"Ankara","lat":39.9334,"lon":32.8597,"precision":"city","confidence":"medium","note":"Turkish capital"}
+{"qid":7550806,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"ILO convention"}
+{"qid":18356830,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"national elections"}
+{"qid":6705065,"place":"Singapore","lat":1.3521,"lon":103.8198,"precision":"city","confidence":"high","note":"Singapore radio station"}
+{"qid":16329706,"place":"Athens","lat":37.9838,"lon":23.7275,"precision":"city","confidence":"high","note":"coup attempt in Athens"}
+{"qid":21595088,"place":"Hamburg","lat":53.5511,"lon":9.9937,"precision":"city","confidence":"high","note":"referendum in Hamburg"}
+{"qid":113485136,"place":"Sydney","lat":-33.8688,"lon":151.2093,"precision":"city","confidence":"medium","note":"Manly NRL club"}
+{"qid":6909299,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"nationwide demonstration"}
+{"qid":131784818,"place":"United Arab Emirates","lat":23.4241,"lon":53.8478,"precision":"country","confidence":"medium","note":"stage race in UAE"}
+{"qid":15731110,"place":"Ghent","lat":51.0543,"lon":3.7174,"precision":"city","confidence":"medium","note":"Omloop start in Ghent"}
+{"qid":7507663,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"ILO convention"}
+{"qid":3586510,"place":"Algiers","lat":36.7538,"lon":3.0588,"precision":"city","confidence":"medium","note":"Algerian capital"}
+{"qid":134570885,"place":"Taipei","lat":25.033,"lon":121.5654,"precision":"city","confidence":"medium","note":"Taiwan capital"}
+{"qid":136476860,"place":"Santiago","lat":-33.4489,"lon":-70.6693,"precision":"city","confidence":"medium","note":"Chilean Congress"}
+{"qid":445279,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"animated series"}
+{"qid":124218322,"place":"Taihu","lat":31.2,"lon":120.2,"precision":"region","confidence":"low","note":"Lake Taihu region"}
+{"qid":4882521,"place":"Brussels","lat":50.8503,"lon":4.3517,"precision":"city","confidence":"medium","note":"Belgian capital"}
+{"qid":7892854,"place":"Minnesota","lat":46.7296,"lon":-94.6859,"precision":"region","confidence":"medium","note":"statewide election"}
+{"qid":1050247,"place":"Bratislava","lat":48.1486,"lon":17.1077,"precision":"city","confidence":"medium","note":"Slovak capital"}
+{"qid":25093339,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"toy theme"}
+{"qid":7891732,"place":"Nevada","lat":38.8026,"lon":-116.4194,"precision":"region","confidence":"medium","note":"statewide election"}
+{"qid":3798936,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"song"}
+{"qid":4926801,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"medium","note":"festival began in NYC"}
+{"qid":47012484,"place":"Mindanao","lat":7.1315,"lon":124.8472,"precision":"region","confidence":"low","note":"affected southern Philippines"}
+{"qid":105820537,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"global cyberattack"}
+{"qid":15554299,"place":"Orleans Arena","lat":36.117,"lon":-115.2,"precision":"site","confidence":"high","note":"contest at Orleans Arena"}
+{"qid":42916305,"place":"Minnesota","lat":46.7296,"lon":-94.6859,"precision":"region","confidence":"medium","note":"statewide election"}
+{"qid":19360361,"place":"Andorra la Vella","lat":42.5063,"lon":1.5218,"precision":"city","confidence":"high","note":"Andorran capital"}

@@ -1,0 +1,50 @@
+{"qid":125389027,"place":"Lilongwe","lat":-13.9626,"lon":33.7741,"precision":"city","confidence":"high","note":"hosted in Lilongwe"}
+{"qid":136171366,"place":"Taiwan","lat":23.6978,"lon":120.9605,"precision":"country","confidence":"high","note":"island-wide local elections"}
+{"qid":123951789,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"multi-site circuit"}
+{"qid":123145631,"place":"Alpensia Biathlon Centre","lat":37.6603,"lon":128.6678,"precision":"site","confidence":"high","note":"biathlon venue in Pyeongchang"}
+{"qid":139760598,"place":"Prince Moulay Abdellah Stadium","lat":33.9606,"lon":-6.8885,"precision":"site","confidence":"medium","note":"final leg in Rabat"}
+{"qid":1083200,"place":"Podgorica","lat":42.4304,"lon":19.2594,"precision":"city","confidence":"medium","note":"national election, capital"}
+{"qid":4639172,"place":"Prescott, Arizona","lat":34.54,"lon":-112.4685,"precision":"city","confidence":"high","note":"session held in Prescott"}
+{"qid":3000649,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"multi-venue series"}
+{"qid":151332,"place":"Basel","lat":47.5596,"lon":7.5886,"precision":"city","confidence":"medium","note":"publisher MDPI in Basel"}
+{"qid":4552020,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"high","note":"published in New York City"}
+{"qid":664337,"place":"Oudenaarde","lat":50.8443,"lon":3.6054,"precision":"city","confidence":"medium","note":"race finishes in Oudenaarde"}
+{"qid":134581634,"place":"Cannes","lat":43.5528,"lon":7.0174,"precision":"city","confidence":"high","note":"festival in Cannes"}
+{"qid":4575455,"place":"Australia","lat":-25.2744,"lon":133.7751,"precision":"country","confidence":"high","note":"national title"}
+{"qid":8056790,"place":"San Francisco","lat":37.7749,"lon":-122.4194,"precision":"city","confidence":"medium","note":"streamed from San Francisco and Tokyo"}
+{"qid":7892151,"place":"Kansas","lat":38.5,"lon":-98.4,"precision":"region","confidence":"high","note":"state election"}
+{"qid":29324810,"place":"Canberra","lat":-35.2809,"lon":149.13,"precision":"city","confidence":"high","note":"presented to House of Representatives"}
+{"qid":16820617,"place":"Wallops Flight Facility","lat":37.9402,"lon":-75.4664,"precision":"site","confidence":"high","note":"launch failure at Wallops"}
+{"qid":17017574,"place":"Dores, Highland","lat":57.3922,"lon":-4.3267,"precision":"city","confidence":"high","note":"festival at Clunes Farm, Dores"}
+{"qid":7442216,"place":"Seattle","lat":47.6062,"lon":-122.3321,"precision":"city","confidence":"high","note":"riot in Seattle"}
+{"qid":1136320,"place":"Luxembourg City","lat":49.6116,"lon":6.1319,"precision":"city","confidence":"medium","note":"decided by ECJ in Luxembourg"}
+{"qid":100269056,"place":"Vietnam","lat":14.0583,"lon":108.2772,"precision":"country","confidence":"low","note":"most destructive in Vietnam"}
+{"qid":112151169,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"comic crossover"}
+{"qid":28222241,"place":"Minnesota","lat":46.3,"lon":-94.3,"precision":"region","confidence":"high","note":"state election"}
+{"qid":10707804,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"medium","note":"German championship"}
+{"qid":47007990,"place":"Ghent","lat":51.0543,"lon":3.7174,"precision":"city","confidence":"medium","note":"race starts in Ghent"}
+{"qid":132731902,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":17513971,"place":"Montana","lat":46.9,"lon":-110.4,"precision":"region","confidence":"high","note":"state election"}
+{"qid":15222844,"place":"Batticaloa","lat":7.7102,"lon":81.6924,"precision":"city","confidence":"medium","note":"landfall Eastern Province"}
+{"qid":4603955,"place":"Stade du 28 Septembre","lat":9.5333,"lon":-13.6833,"precision":"site","confidence":"medium","note":"held in Conakry"}
+{"qid":109534935,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"diffuse competition"}
+{"qid":7131104,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"medium","note":"panic centered in New York"}
+{"qid":320238,"place":"Pillnitz","lat":51.0127,"lon":13.8736,"precision":"city","confidence":"medium","note":"bred at Dresden-Pillnitz"}
+{"qid":39060446,"place":"Wyoming","lat":43.0,"lon":-107.5,"precision":"region","confidence":"high","note":"state election"}
+{"qid":2199296,"place":"Australia","lat":-25.2744,"lon":133.7751,"precision":"country","confidence":"medium","note":"raced in World Solar Challenge"}
+{"qid":785597,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"video format"}
+{"qid":24553429,"place":"Bundoran","lat":54.4789,"lon":-8.2811,"precision":"city","confidence":"high","note":"held in Bundoran"}
+{"qid":55316499,"place":"Tennessee","lat":35.8,"lon":-86.4,"precision":"region","confidence":"high","note":"state election"}
+{"qid":117184138,"place":"Alexandria","lat":31.2001,"lon":29.9187,"precision":"city","confidence":"high","note":"pageant in Alexandria"}
+{"qid":6543997,"place":"Vaduz","lat":47.141,"lon":9.5209,"precision":"city","confidence":"medium","note":"national election, capital"}
+{"qid":17156418,"place":"Santo Domingo","lat":18.4861,"lon":-69.9312,"precision":"city","confidence":"medium","note":"case in Dominican Republic"}
+{"qid":4676674,"place":"Edinburgh","lat":55.9533,"lon":-3.1883,"precision":"city","confidence":"high","note":"Scottish Parliament act"}
+{"qid":910962,"place":"Taipei","lat":25.033,"lon":121.5654,"precision":"city","confidence":"high","note":"issued in Taipei"}
+{"qid":17091145,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"list"}
+{"qid":7133192,"place":"Papua New Guinea","lat":-6.315,"lon":143.9555,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":39060235,"place":"South Dakota","lat":44.4,"lon":-100.2,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7891515,"place":"Idaho","lat":44.4,"lon":-114.6,"precision":"region","confidence":"high","note":"state election"}
+{"qid":139905433,"place":"Alexandria","lat":31.2001,"lon":29.9187,"precision":"city","confidence":"high","note":"pageant in Alexandria"}
+{"qid":135412300,"place":"Wisconsin","lat":44.6,"lon":-89.9,"precision":"region","confidence":"high","note":"state court election"}
+{"qid":10748080,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"bird genus"}
+{"qid":4586083,"place":"Churchill Downs","lat":38.2036,"lon":-85.7706,"precision":"site","confidence":"high","note":"Kentucky Derby venue"}

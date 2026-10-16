@@ -1,0 +1,50 @@
+{"qid":4626473,"place":"Nuland","lat":51.7236,"lon":5.4856,"precision":"city","confidence":"medium","note":"hotel in Nuland"}
+{"qid":53486711,"place":"Illinois","lat":40.6331,"lon":-89.3985,"precision":"region","confidence":"high","note":"statewide"}
+{"qid":667449,"place":"Zürich","lat":47.3769,"lon":8.5417,"precision":"city","confidence":"high","note":"founded in Zurich"}
+{"qid":6651304,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":""}
+{"qid":3722375,"place":"Montenegro","lat":42.7087,"lon":19.3744,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":17091814,"place":"Nigeria","lat":9.082,"lon":8.6753,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":11895111,"place":"Finland","lat":64.0,"lon":26.0,"precision":"country","confidence":"low","note":"Finnish league"}
+{"qid":4128668,"place":"Russia","lat":61.524,"lon":105.3188,"precision":"country","confidence":"medium","note":"multiple regions"}
+{"qid":5318386,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":131544119,"place":"Pale of Settlement","lat":51.0,"lon":28.0,"precision":"region","confidence":"medium","note":"expedition region"}
+{"qid":1292493,"place":"Camagüey","lat":21.3808,"lon":-77.9169,"precision":"city","confidence":"low","note":"Zanjón near Camagüey"}
+{"qid":7973744,"place":"Santo Domingo","lat":18.4861,"lon":-69.9312,"precision":"city","confidence":"high","note":"host city"}
+{"qid":136594785,"place":"Lumpinee Boxing Stadium","lat":13.863,"lon":100.641,"precision":"site","confidence":"medium","note":"venue"}
+{"qid":5339139,"place":"Edmonton","lat":53.5461,"lon":-113.4938,"precision":"city","confidence":"high","note":"city election"}
+{"qid":42916624,"place":"Ohio","lat":40.4173,"lon":-82.9071,"precision":"region","confidence":"high","note":"statewide"}
+{"qid":7443681,"place":"Reykjavík","lat":64.1466,"lon":-21.9426,"precision":"city","confidence":"high","note":"capital government"}
+{"qid":4887500,"place":"Netherlands","lat":52.1326,"lon":5.2913,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":48966458,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":56885026,"place":"Bahrain","lat":26.0667,"lon":50.5577,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":123039362,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":6322540,"place":"Kyocera Dome Osaka","lat":34.6695,"lon":135.4763,"precision":"site","confidence":"medium","note":"Osaka Dome"}
+{"qid":39060384,"place":"Colorado","lat":39.5501,"lon":-105.7821,"precision":"region","confidence":"high","note":"statewide"}
+{"qid":2564422,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":3505353,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":7232749,"place":"Portugal","lat":39.3999,"lon":-8.2245,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":42053105,"place":"Valkenburg aan de Geul","lat":50.865,"lon":5.8321,"precision":"city","confidence":"medium","note":"Amstel Gold finish area"}
+{"qid":4892436,"place":"Navarre","lat":42.6954,"lon":-1.6761,"precision":"region","confidence":"high","note":"regional election"}
+{"qid":2392466,"place":"France","lat":46.6034,"lon":1.8883,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":6669794,"place":"United Kingdom","lat":54.0,"lon":-2.0,"precision":"country","confidence":"low","note":"torch relay across UK"}
+{"qid":7892114,"place":"Wisconsin","lat":44.5,"lon":-89.5,"precision":"region","confidence":"high","note":"statewide"}
+{"qid":15720956,"place":"Buenos Aires","lat":-34.6037,"lon":-58.3816,"precision":"city","confidence":"medium","note":"main protest city"}
+{"qid":30228724,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":172223,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":3062364,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":1543954,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":136816605,"place":"London Borough of Croydon","lat":51.3762,"lon":-0.0982,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":135513440,"place":"Norwood, Massachusetts","lat":42.1945,"lon":-71.1995,"precision":"city","confidence":"high","note":"host city"}
+{"qid":1497635,"place":"Mainz","lat":50.0,"lon":8.2711,"precision":"city","confidence":"medium","note":"Henry elected at Mainz"}
+{"qid":6105272,"place":"Ankara","lat":39.9334,"lon":32.8597,"precision":"city","confidence":"high","note":"parliament seat"}
+{"qid":1285525,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":128033686,"place":"Philippines","lat":12.8797,"lon":121.774,"precision":"country","confidence":"low","note":"Philippine league"}
+{"qid":7884188,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":5499998,"place":"Riyadh","lat":24.7136,"lon":46.6753,"precision":"city","confidence":"medium","note":"Saudi court politics"}
+{"qid":17100630,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":28846136,"place":"Russia","lat":61.524,"lon":105.3188,"precision":"country","confidence":"low","note":"KHL playoffs"}
+{"qid":119774413,"place":"Nigeria","lat":9.082,"lon":8.6753,"precision":"country","confidence":"high","note":"national cup"}
+{"qid":141285170,"place":"Leichhardt Oval","lat":-33.883,"lon":151.1569,"precision":"site","confidence":"high","note":"venue"}
+{"qid":17986016,"place":"Isthmus of Tehuantepec","lat":16.5,"lon":-95.0,"precision":"region","confidence":"medium","note":"affected area"}
+{"qid":116178839,"place":"Bracknell","lat":51.416,"lon":-0.754,"precision":"city","confidence":"high","note":"district election"}
+{"qid":121176849,"place":"Addis Ababa","lat":9.03,"lon":38.74,"precision":"city","confidence":"medium","note":"declared by government"}

@@ -1,0 +1,50 @@
+{"qid":5434215,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"medium","note":"publisher base"}
+{"qid":99015824,"place":"Minsk","lat":53.9006,"lon":27.559,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":609200,"place":"Montevideo","lat":-34.9011,"lon":-56.1645,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":6303819,"place":"Winnipeg","lat":49.8951,"lon":-97.1384,"precision":"city","confidence":"high","note":"host"}
+{"qid":250657,"place":"Helsinki","lat":60.1699,"lon":24.9384,"precision":"city","confidence":"medium","note":"Finnish government"}
+{"qid":6507909,"place":"Bangkok","lat":13.7563,"lon":100.5018,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":55316051,"place":"Georgia (U.S. state)","lat":32.1656,"lon":-82.9001,"precision":"region","confidence":"high","note":"state election"}
+{"qid":108393516,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"anime"}
+{"qid":31786552,"place":"Chandigarh","lat":30.7333,"lon":76.7794,"precision":"city","confidence":"medium","note":"Punjab capital"}
+{"qid":7892839,"place":"Massachusetts","lat":42.4072,"lon":-71.3824,"precision":"region","confidence":"high","note":"state election"}
+{"qid":18148327,"place":"Montana","lat":46.8797,"lon":-110.3626,"precision":"region","confidence":"high","note":"state election"}
+{"qid":4593300,"place":"Kathmandu","lat":27.7172,"lon":85.324,"precision":"city","confidence":"medium","note":"tournament in Nepal"}
+{"qid":2151398,"place":"Brussels","lat":50.8503,"lon":4.3517,"precision":"city","confidence":"medium","note":"EU directive"}
+{"qid":7893143,"place":"Wisconsin","lat":44.5,"lon":-89.5,"precision":"region","confidence":"high","note":"state election"}
+{"qid":5476110,"place":"Melbourne","lat":-37.8136,"lon":144.9631,"precision":"city","confidence":"medium","note":"federal seat then"}
+{"qid":10843835,"place":"Hong Kong","lat":22.3193,"lon":114.1694,"precision":"city","confidence":"high","note":"outbreak location"}
+{"qid":4559861,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"all-star list"}
+{"qid":18344446,"place":"Manila","lat":14.5995,"lon":120.9842,"precision":"city","confidence":"low","note":"PBA finals"}
+{"qid":7891572,"place":"Kentucky","lat":37.8393,"lon":-84.27,"precision":"region","confidence":"high","note":"state election"}
+{"qid":80528,"place":"Wells Fargo Center (Philadelphia)","lat":39.9012,"lon":-75.172,"precision":"site","confidence":"high","note":"Wachovia Center"}
+{"qid":261881,"place":"Nicosia","lat":35.1856,"lon":33.3823,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":15709742,"place":"Erfurt","lat":50.9848,"lon":11.0299,"precision":"city","confidence":"medium","note":"Landtag seat"}
+{"qid":136841435,"place":"Philippines","lat":12.8797,"lon":121.774,"precision":"country","confidence":"medium","note":"national league"}
+{"qid":4348259,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"medium","note":"US Senate"}
+{"qid":4576201,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"ocean season"}
+{"qid":17192132,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"ship class"}
+{"qid":54959586,"place":"Nevada","lat":38.8026,"lon":-116.4194,"precision":"region","confidence":"high","note":"state election"}
+{"qid":20311806,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"all-star team"}
+{"qid":4971231,"place":"Road Town","lat":18.4286,"lon":-64.6185,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":7523314,"place":"Singapore","lat":1.3521,"lon":103.8198,"precision":"country","confidence":"high","note":"national election"}
+{"qid":39046177,"place":"New Jersey","lat":40.0583,"lon":-74.4057,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7784875,"place":"Canberra","lat":-35.2809,"lon":149.13,"precision":"city","confidence":"medium","note":"federal government"}
+{"qid":31786557,"place":"Chandigarh","lat":30.7333,"lon":76.7794,"precision":"city","confidence":"medium","note":"Punjab capital"}
+{"qid":24189745,"place":"Motueka","lat":-41.1167,"lon":173.0167,"precision":"city","confidence":"high","note":"highway terminus"}
+{"qid":6956323,"place":"Victoria, Australia","lat":-37.4713,"lon":144.7852,"precision":"region","confidence":"medium","note":"Victorian railways"}
+{"qid":4753545,"place":"Seville","lat":37.3891,"lon":-5.9845,"precision":"city","confidence":"medium","note":"Andalusian parliament"}
+{"qid":15899719,"place":"Taipei","lat":25.033,"lon":121.5654,"precision":"city","confidence":"high","note":"Kuo Kuang Cinema, Taipei"}
+{"qid":4774831,"place":"St. John's, Antigua and Barbuda","lat":17.121,"lon":-61.8433,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":199090,"place":"Tarpon Springs, Florida","lat":28.1461,"lon":-82.7568,"precision":"city","confidence":"medium","note":"landfall area"}
+{"qid":9022042,"place":"Mexico City","lat":19.4326,"lon":-99.1332,"precision":"city","confidence":"medium","note":"Mexican government"}
+{"qid":7556016,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"eclipse series"}
+{"qid":2893596,"place":"Nazareth","lat":32.7019,"lon":35.2978,"precision":"city","confidence":"low","note":"Arab communities in Galilee"}
+{"qid":4570846,"place":"Maple Leaf Gardens","lat":43.6612,"lon":-79.3805,"precision":"site","confidence":"medium","note":"games at Gardens and Chicago"}
+{"qid":7892770,"place":"Idaho","lat":44.2405,"lon":-114.4788,"precision":"region","confidence":"high","note":"state election"}
+{"qid":3240205,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"comic strip"}
+{"qid":7646336,"place":"Paramaribo","lat":5.852,"lon":-55.2038,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":688651,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"anime"}
+{"qid":5509159,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"journal"}
+{"qid":4828073,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"comic series"}
+{"qid":75980901,"place":"Wiesbaden","lat":50.0782,"lon":8.2398,"precision":"city","confidence":"medium","note":"Landtag seat"}

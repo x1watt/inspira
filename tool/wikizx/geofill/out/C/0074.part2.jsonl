@@ -1,0 +1,50 @@
+{"qid":3586845,"place":"Belgium","lat":50.64,"lon":4.67,"precision":"country","confidence":"high","note":"nationwide local elections"}
+{"qid":7615429,"place":"Stevenage","lat":51.9017,"lon":-0.2026,"precision":"city","confidence":"high","note":"council election"}
+{"qid":21262775,"place":"Sofia","lat":42.6977,"lon":23.3219,"precision":"city","confidence":"medium","note":"contest hosted in Sofia"}
+{"qid":134701970,"place":"San Nicolás de los Garza","lat":25.7458,"lon":-100.2958,"precision":"city","confidence":"medium","note":"stadium in this city"}
+{"qid":131412198,"place":"Australia","lat":-25.27,"lon":133.78,"precision":"country","confidence":"medium","note":"Australian-Fijian competition"}
+{"qid":17015311,"place":"Wigan","lat":53.5448,"lon":-2.6318,"precision":"city","confidence":"high","note":"council election"}
+{"qid":1065466,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"annual online event"}
+{"qid":6098608,"place":"Ankara","lat":39.9334,"lon":32.8597,"precision":"city","confidence":"high","note":"seat of government"}
+{"qid":20312358,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"film series"}
+{"qid":207619,"place":"Guatemala","lat":15.78,"lon":-90.23,"precision":"country","confidence":"low","note":"flooding in Guatemala"}
+{"qid":6964923,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"engine"}
+{"qid":30687247,"place":"Fort Worth, Texas","lat":32.7555,"lon":-97.3308,"precision":"city","confidence":"high","note":"held in Fort Worth"}
+{"qid":780513,"place":"Bratislava","lat":48.1486,"lon":17.1077,"precision":"city","confidence":"medium","note":"national capital"}
+{"qid":5285318,"place":"Djibouti (city)","lat":11.5721,"lon":43.1456,"precision":"city","confidence":"medium","note":"national capital"}
+{"qid":17100296,"place":"New York (state)","lat":42.9,"lon":-75.5,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":23019891,"place":"Adelaide Oval","lat":-34.9156,"lon":138.5958,"precision":"site","confidence":"medium","note":"SANFL grand final venue"}
+{"qid":2558698,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"observance day"}
+{"qid":50416156,"place":"Los Angeles","lat":34.0522,"lon":-118.2437,"precision":"city","confidence":"low","note":"church network based in LA"}
+{"qid":23302650,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"all-star team list"}
+{"qid":18434933,"place":"Marsa, Malta","lat":35.8786,"lon":14.4983,"precision":"city","confidence":"low","note":"contest hosted at Marsa"}
+{"qid":39046270,"place":"New Jersey","lat":40.1,"lon":-74.5,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":739344,"place":"Yekaterinburg","lat":56.8389,"lon":60.6057,"precision":"city","confidence":"high","note":"summit in Yekaterinburg"}
+{"qid":5476175,"place":"Headingley Cricket Ground","lat":53.8178,"lon":-1.5822,"precision":"site","confidence":"high","note":"match at Headingley"}
+{"qid":17149985,"place":"Munich","lat":48.1351,"lon":11.582,"precision":"city","confidence":"high","note":"1972 Olympics host"}
+{"qid":16958900,"place":"North Nicosia","lat":35.1856,"lon":33.3823,"precision":"city","confidence":"medium","note":"capital of Northern Cyprus"}
+{"qid":141302130,"place":"Walcz","lat":53.2754,"lon":16.4731,"precision":"city","confidence":"high","note":"held in Walcz"}
+{"qid":134980209,"place":"Oaxaca","lat":17.0,"lon":-96.7,"precision":"region","confidence":"low","note":"landfall in southern Mexico"}
+{"qid":2106388,"place":"Yerevan","lat":40.1792,"lon":44.4991,"precision":"city","confidence":"medium","note":"2011 contest in Yerevan"}
+{"qid":7406545,"place":"San Salvador","lat":13.6929,"lon":-89.2182,"precision":"city","confidence":"medium","note":"national capital"}
+{"qid":5020792,"place":"California","lat":36.8,"lon":-119.4,"precision":"region","confidence":"high","note":"statewide ballot"}
+{"qid":7892083,"place":"Virginia","lat":37.5,"lon":-78.8,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":7891637,"place":"Massachusetts","lat":42.3,"lon":-71.8,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":21196329,"place":"Pascagoula, Mississippi","lat":30.3658,"lon":-88.5561,"precision":"city","confidence":"high","note":"launched at Pascagoula"}
+{"qid":134883052,"place":"Al Ain","lat":24.2075,"lon":55.7447,"precision":"city","confidence":"high","note":"held in Al Ain"}
+{"qid":7891755,"place":"New Jersey","lat":40.1,"lon":-74.5,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":3246743,"place":"Enewetak Atoll","lat":11.5,"lon":162.35,"precision":"region","confidence":"high","note":"test site"}
+{"qid":104839957,"place":"Warsaw","lat":52.2297,"lon":21.0122,"precision":"city","confidence":"medium","note":"2020 contest in Warsaw"}
+{"qid":17016543,"place":"Vermont","lat":44.0,"lon":-72.7,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":7457736,"place":"Canberra","lat":-35.2809,"lon":149.13,"precision":"city","confidence":"medium","note":"seat of government"}
+{"qid":4866455,"place":"Cooperstown, New York","lat":42.7005,"lon":-74.9244,"precision":"city","confidence":"medium","note":"Hall of Fame location"}
+{"qid":140077670,"place":"Go Media Stadium","lat":-36.9179,"lon":174.813,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":27997449,"place":"Florida","lat":27.99,"lon":-81.76,"precision":"region","confidence":"high","note":"statewide ballot"}
+{"qid":117660528,"place":"Norway","lat":64.5,"lon":11.5,"precision":"country","confidence":"medium","note":"race in northern Norway"}
+{"qid":48439,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"high","note":"congresses held in Paris"}
+{"qid":28700164,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"party, no clear place"}
+{"qid":20710125,"place":"Iowa","lat":42.0,"lon":-93.5,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":7124253,"place":"Canberra","lat":-35.2809,"lon":149.13,"precision":"city","confidence":"medium","note":"seat of government"}
+{"qid":16491432,"place":"The Hague","lat":52.0705,"lon":4.3007,"precision":"city","confidence":"high","note":"ICJ seat"}
+{"qid":4627493,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"list of events"}
+{"qid":3576837,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"novel and series"}

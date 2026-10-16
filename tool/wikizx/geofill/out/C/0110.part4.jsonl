@@ -1,0 +1,50 @@
+{"qid":28128404,"place":"Bristol","lat":51.4545,"lon":-2.5879,"precision":"city","confidence":"medium","note":"West of England metro area"}
+{"qid":18357023,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"high","note":"national elections"}
+{"qid":4999437,"place":"Burma","lat":21.9162,"lon":95.956,"precision":"country","confidence":"medium","note":"colonial election"}
+{"qid":126708649,"place":"Madeira","lat":32.6669,"lon":-16.9241,"precision":"region","confidence":"high","note":"regional election"}
+{"qid":2856148,"place":"United Nations Headquarters","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"high","note":"held at UN HQ"}
+{"qid":7946787,"place":"University of Waterloo","lat":43.4723,"lon":-80.5449,"precision":"city","confidence":"medium","note":"Waterloo teaching tool"}
+{"qid":137161050,"place":"Estadio Defensores del Chaco","lat":-25.287,"lon":-57.633,"precision":"site","confidence":"high","note":"venue"}
+{"qid":1853901,"place":"Helsinki","lat":60.1699,"lon":24.9384,"precision":"city","confidence":"medium","note":"Grand Duchy capital"}
+{"qid":17191,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"orbital mission"}
+{"qid":13634362,"place":"Carandiru Penitentiary","lat":-23.509,"lon":-46.627,"precision":"site","confidence":"medium","note":"prison setting"}
+{"qid":126203544,"place":"Wembley Stadium","lat":51.556,"lon":-0.2796,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":22669623,"place":"Cape Verde","lat":16.5388,"lon":-23.0418,"precision":"country","confidence":"high","note":"national election"}
+{"qid":26221038,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"award"}
+{"qid":30509759,"place":"Liège","lat":50.6326,"lon":5.5797,"precision":"city","confidence":"medium","note":"finish in Liege"}
+{"qid":39060199,"place":"Michigan","lat":44.3148,"lon":-85.6024,"precision":"region","confidence":"high","note":"state election"}
+{"qid":128395485,"place":"R. Premadasa Stadium","lat":6.9147,"lon":79.873,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":4561026,"place":"Buffalo, New York","lat":42.8864,"lon":-78.8784,"precision":"city","confidence":"medium","note":"Buffalo All-Americans"}
+{"qid":742754,"place":"England","lat":52.3555,"lon":-1.1743,"precision":"country","confidence":"medium","note":"proclamation of Henry II"}
+{"qid":65076404,"place":"United Kingdom","lat":55.3781,"lon":-3.436,"precision":"country","confidence":"high","note":"national local elections"}
+{"qid":124304724,"place":"Inverness, Mississippi","lat":33.356,"lon":-90.587,"precision":"city","confidence":"high","note":"tornado hit Inverness"}
+{"qid":4958314,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"TV channel"}
+{"qid":5913463,"place":"Geneva","lat":46.2044,"lon":6.1432,"precision":"city","confidence":"medium","note":"ILO conference"}
+{"qid":3588257,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"medium","note":"riots centered London"}
+{"qid":130199553,"place":"Newlands Cricket Ground","lat":-33.9708,"lon":18.469,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":5349114,"place":"Canberra","lat":-35.2809,"lon":149.13,"precision":"city","confidence":"medium","note":"Australian government"}
+{"qid":28407394,"place":"Brussels","lat":50.8503,"lon":4.3517,"precision":"city","confidence":"medium","note":"assembly in Brussels"}
+{"qid":23782095,"place":"Rodez","lat":44.35,"lon":2.575,"precision":"city","confidence":"high","note":"prefecture of Aveyron"}
+{"qid":833643,"place":"Beijing","lat":39.9042,"lon":116.4074,"precision":"city","confidence":"medium","note":"Ming capital moved"}
+{"qid":16932735,"place":"Liechtenstein","lat":47.166,"lon":9.5554,"precision":"country","confidence":"high","note":"national election"}
+{"qid":5914965,"place":"Samaria","lat":32.2756,"lon":35.192,"precision":"city","confidence":"medium","note":"Northern Kingdom capital"}
+{"qid":139505726,"place":"Newcastle-under-Lyme","lat":53.0126,"lon":-2.2285,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":432453,"place":"Europe","lat":50.0,"lon":10.0,"precision":"region","confidence":"medium","note":"European race series"}
+{"qid":57162840,"place":"Turkey","lat":38.9637,"lon":35.2433,"precision":"country","confidence":"high","note":"race in Turkey"}
+{"qid":17101187,"place":"Minnesota","lat":46.7296,"lon":-94.6859,"precision":"region","confidence":"high","note":"state election"}
+{"qid":2053489,"place":"Nairobi","lat":-1.2921,"lon":36.8219,"precision":"city","confidence":"medium","note":"Kenyan national election"}
+{"qid":136455156,"place":"Adelaide","lat":-34.9285,"lon":138.6007,"precision":"city","confidence":"high","note":"Tour Down Under"}
+{"qid":5198790,"place":"Madagascar","lat":-18.7669,"lon":46.8691,"precision":"country","confidence":"medium","note":"landfall Madagascar"}
+{"qid":61056562,"place":"Vietnam","lat":14.0583,"lon":108.2772,"precision":"country","confidence":"medium","note":"hit Vietnam"}
+{"qid":53475493,"place":"Oregon","lat":43.8041,"lon":-120.5542,"precision":"region","confidence":"high","note":"state election"}
+{"qid":1153147,"place":"Liechtenstein","lat":47.166,"lon":9.5554,"precision":"country","confidence":"high","note":"national election"}
+{"qid":1015298,"place":"Fresno, California","lat":36.7378,"lon":-119.7871,"precision":"city","confidence":"medium","note":"named for Fresno"}
+{"qid":105061414,"place":"Idaho","lat":44.0682,"lon":-114.742,"precision":"region","confidence":"high","note":"state election"}
+{"qid":4627297,"place":"The O2 Arena","lat":51.503,"lon":0.0032,"precision":"site","confidence":"high","note":"venue"}
+{"qid":15881445,"place":"Romandie","lat":46.5,"lon":6.6,"precision":"region","confidence":"medium","note":"Swiss race"}
+{"qid":7737948,"place":"Virginia","lat":37.4316,"lon":-78.6569,"precision":"region","confidence":"medium","note":"Virginia and New England"}
+{"qid":121614166,"place":"Penley","lat":51.8,"lon":-0.5,"precision":"region","confidence":"low","note":"baronetcy of Hertfordshire"}
+{"qid":5349140,"place":"Jerusalem","lat":31.7683,"lon":35.2137,"precision":"city","confidence":"high","note":"Knesset seat"}
+{"qid":109423349,"place":"Madrid","lat":40.4168,"lon":-3.7038,"precision":"city","confidence":"medium","note":"army plot"}
+{"qid":137427344,"place":"Jerusalem","lat":31.7683,"lon":35.2137,"precision":"city","confidence":"medium","note":"Genesis Prize ceremony"}
+{"qid":4268632,"place":"Ukraine","lat":48.3794,"lon":31.1656,"precision":"country","confidence":"medium","note":"Ukrainian culture"}

@@ -1,0 +1,50 @@
+{"qid":20994087,"place":"Estadio El Campín","lat":4.6459,"lon":-74.0768,"precision":"site","confidence":"high","note":"venue"}
+{"qid":1571878,"place":"Helsinki","lat":60.1699,"lon":24.9384,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":112892823,"place":"Accor Arena","lat":48.8386,"lon":2.3786,"precision":"site","confidence":"high","note":"venue"}
+{"qid":17068686,"place":"Tonga","lat":-21.1789,"lon":-175.1982,"precision":"country","confidence":"low","note":"affected area"}
+{"qid":30643307,"place":"Kansas","lat":38.5,"lon":-98.0,"precision":"region","confidence":"high","note":"state"}
+{"qid":6706340,"place":"Luxembourg City","lat":49.6117,"lon":6.1319,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":507706,"place":"Helsinki","lat":60.1699,"lon":24.9384,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":106345827,"place":"Alberta","lat":53.9333,"lon":-116.5765,"precision":"region","confidence":"high","note":"province"}
+{"qid":6929307,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"web series"}
+{"qid":3482167,"place":"Reykjavík","lat":64.1466,"lon":-21.9426,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":5454079,"place":"Canberra","lat":-35.2809,"lon":149.13,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":4564119,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"high","note":"national"}
+{"qid":108795261,"place":"United Kingdom","lat":54.0,"lon":-2.0,"precision":"country","confidence":"low","note":"nationwide"}
+{"qid":124460878,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"multiple venues"}
+{"qid":11873465,"place":"Finland","lat":64.0,"lon":26.0,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":5166951,"place":"Avarua","lat":-21.2078,"lon":-159.775,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":15767680,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"journal"}
+{"qid":30257,"place":"Lake Tai","lat":31.2,"lon":120.2,"precision":"region","confidence":"medium","note":"Lake Tai area"}
+{"qid":65052608,"place":"Selhurst Park","lat":51.3983,"lon":-0.0855,"precision":"site","confidence":"high","note":"venue"}
+{"qid":7390068,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"computers"}
+{"qid":824700,"place":"Tokyo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"medium","note":"Japanese navy"}
+{"qid":113039910,"place":"Yerevan","lat":40.1792,"lon":44.4991,"precision":"city","confidence":"high","note":"host city"}
+{"qid":4573478,"place":"Australia","lat":-25.2744,"lon":133.7751,"precision":"country","confidence":"high","note":"national"}
+{"qid":267012,"place":"Berlin","lat":52.52,"lon":13.405,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":1611703,"place":"Bourges","lat":47.081,"lon":2.398,"precision":"city","confidence":"high","note":"issued there"}
+{"qid":123577542,"place":"Argentina","lat":-38.4161,"lon":-63.6167,"precision":"country","confidence":"medium","note":"national campaign"}
+{"qid":20648047,"place":"United Kingdom","lat":54.0,"lon":-2.0,"precision":"country","confidence":"medium","note":"nationwide race"}
+{"qid":7978054,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"comic story"}
+{"qid":6005304,"place":"Cape Town","lat":-33.9249,"lon":18.4241,"precision":"city","confidence":"medium","note":"Parliament seat"}
+{"qid":4565617,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"high","note":"national"}
+{"qid":7891566,"place":"Kentucky","lat":37.5,"lon":-85.3,"precision":"region","confidence":"high","note":"state"}
+{"qid":3364668,"place":"Copenhagen","lat":55.6761,"lon":12.5683,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":7892068,"place":"Vermont","lat":44.0,"lon":-72.7,"precision":"region","confidence":"high","note":"state"}
+{"qid":6710218,"place":"Decatur, Illinois","lat":39.8403,"lon":-88.9548,"precision":"city","confidence":"low","note":"ADM headquarters"}
+{"qid":11332620,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"ocean season"}
+{"qid":16057019,"place":"Colombo","lat":6.9271,"lon":79.8612,"precision":"city","confidence":"high","note":"capital"}
+{"qid":26253613,"place":"Quebec City","lat":46.8139,"lon":-71.208,"precision":"city","confidence":"high","note":"race city"}
+{"qid":5137923,"place":"Helmand Province","lat":31.0,"lon":64.0,"precision":"region","confidence":"medium","note":"main focus"}
+{"qid":20708606,"place":"Virginia","lat":37.5,"lon":-78.8,"precision":"region","confidence":"high","note":"state"}
+{"qid":878743,"place":"Berlin","lat":52.52,"lon":13.405,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":640715,"place":"Finland","lat":64.0,"lon":26.0,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":42639235,"place":"Nha Trang","lat":12.2388,"lon":109.1967,"precision":"city","confidence":"medium","note":"landfall in Vietnam"}
+{"qid":7891652,"place":"Minnesota","lat":46.0,"lon":-94.0,"precision":"region","confidence":"high","note":"state"}
+{"qid":2375394,"place":"Sofia","lat":42.6977,"lon":23.3219,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":20982643,"place":"Sofia","lat":42.6977,"lon":23.3219,"precision":"city","confidence":"high","note":"host city"}
+{"qid":7932169,"place":"Kingstown","lat":13.1587,"lon":-61.2248,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":5441149,"place":"Geneva","lat":46.2044,"lon":6.1432,"precision":"city","confidence":"medium","note":"ILO seat"}
+{"qid":20647250,"place":"Sofia","lat":42.6977,"lon":23.3219,"precision":"city","confidence":"high","note":"host city"}
+{"qid":5121220,"place":"Bucharest","lat":44.4268,"lon":26.1025,"precision":"city","confidence":"high","note":"capital"}
+{"qid":18386368,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"event list"}

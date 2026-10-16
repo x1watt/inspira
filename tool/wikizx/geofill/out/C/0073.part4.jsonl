@@ -1,0 +1,50 @@
+{"qid":7242659,"place":"Australia","lat":-25.2744,"lon":133.7751,"precision":"country","confidence":"high","note":"national agreements"}
+{"qid":3587555,"place":"France","lat":46.2276,"lon":2.2137,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":4904251,"place":"Tokyo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"medium","note":"IOC session in Tokyo"}
+{"qid":115925349,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"high","note":"nationwide primaries"}
+{"qid":343143,"place":"Poland","lat":51.9194,"lon":19.1451,"precision":"country","confidence":"medium","note":"Polish journal"}
+{"qid":658030,"place":"Romania","lat":45.9432,"lon":24.9668,"precision":"country","confidence":"high","note":"Romanian enterprises"}
+{"qid":26047705,"place":"Chile","lat":-35.6751,"lon":-71.543,"precision":"country","confidence":"high","note":"Chilean party"}
+{"qid":1435118,"place":"Soldier Field","lat":41.8623,"lon":-87.6167,"precision":"site","confidence":"high","note":"game at Soldier Field"}
+{"qid":136683300,"place":"Warsaw","lat":52.2297,"lon":21.0122,"precision":"city","confidence":"high","note":"hosted in Warsaw"}
+{"qid":23043341,"place":"Karachi","lat":24.8607,"lon":67.0011,"precision":"city","confidence":"medium","note":"violence centred in Karachi"}
+{"qid":48849212,"place":"Texas","lat":31.9686,"lon":-99.9018,"precision":"region","confidence":"high","note":"state election"}
+{"qid":16154232,"place":"Shrine Auditorium","lat":34.0221,"lon":-118.282,"precision":"site","confidence":"high","note":"venue"}
+{"qid":213266,"place":"Worms, Germany","lat":49.6341,"lon":8.3507,"precision":"city","confidence":"high","note":"Diet of Worms 1495"}
+{"qid":56435406,"place":"Minsk","lat":53.9006,"lon":27.559,"precision":"city","confidence":"high","note":"contest held in Minsk"}
+{"qid":896934,"place":"East Germany","lat":52.5,"lon":13.4,"precision":"country","confidence":"high","note":"GDR currency"}
+{"qid":140590286,"place":"Marathon, Greece","lat":38.15,"lon":23.9667,"precision":"city","confidence":"high","note":"host town"}
+{"qid":7891578,"place":"Louisiana","lat":30.9843,"lon":-91.9623,"precision":"region","confidence":"high","note":"state election"}
+{"qid":4606796,"place":"Harrisburg, Pennsylvania","lat":40.2732,"lon":-76.8867,"precision":"city","confidence":"high","note":"state capital"}
+{"qid":7891900,"place":"Oklahoma","lat":35.4676,"lon":-97.5164,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7891475,"place":"Florida","lat":27.6648,"lon":-81.5158,"precision":"region","confidence":"high","note":"state election"}
+{"qid":12064441,"place":"Northeastern United States","lat":42.0,"lon":-73.0,"precision":"region","confidence":"high","note":"struck Northeast"}
+{"qid":118943261,"place":"Wyoming","lat":43.0759,"lon":-107.2903,"precision":"region","confidence":"high","note":"state election"}
+{"qid":2446601,"place":"Russia","lat":61.524,"lon":105.3188,"precision":"country","confidence":"low","note":"cultivar from Russia"}
+{"qid":123882889,"place":"Raipur","lat":21.2514,"lon":81.6296,"precision":"city","confidence":"low","note":"politician from Raipur"}
+{"qid":96362657,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"multi-country tour"}
+{"qid":137098526,"place":"London Borough of Havering","lat":51.5812,"lon":0.1837,"precision":"region","confidence":"high","note":"borough election"}
+{"qid":7891568,"place":"Kentucky","lat":37.8393,"lon":-84.27,"precision":"region","confidence":"high","note":"state election"}
+{"qid":125727590,"place":"South Korea","lat":35.9078,"lon":127.7669,"precision":"country","confidence":"high","note":"host country"}
+{"qid":488361,"place":"South Korea","lat":35.9078,"lon":127.7669,"precision":"country","confidence":"high","note":"strongest strike on Korea"}
+{"qid":7891370,"place":"Alabama","lat":32.3182,"lon":-86.9023,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7892844,"place":"Massachusetts","lat":42.4072,"lon":-71.3824,"precision":"region","confidence":"high","note":"state election"}
+{"qid":19876031,"place":"Wellington","lat":-41.2866,"lon":174.7756,"precision":"city","confidence":"high","note":"presented to Parliament"}
+{"qid":7892886,"place":"Montana","lat":46.8797,"lon":-110.3626,"precision":"region","confidence":"high","note":"state election"}
+{"qid":15293664,"place":"Impact Zone","lat":28.4778,"lon":-81.4686,"precision":"site","confidence":"high","note":"venue"}
+{"qid":4603422,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":39060329,"place":"Oregon","lat":43.8041,"lon":-120.5542,"precision":"region","confidence":"high","note":"state election"}
+{"qid":23058678,"place":"Sheffield","lat":53.3811,"lon":-1.4701,"precision":"city","confidence":"high","note":"council election"}
+{"qid":110011031,"place":"France","lat":46.2276,"lon":2.2137,"precision":"country","confidence":"high","note":"French race series"}
+{"qid":7260215,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"comic series"}
+{"qid":1331281,"place":"Lisbon","lat":38.7223,"lon":-9.1393,"precision":"city","confidence":"high","note":"coup in capital"}
+{"qid":4013605,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"lottery games"}
+{"qid":16154328,"place":"Atlanta","lat":33.749,"lon":-84.388,"precision":"city","confidence":"high","note":"contest city"}
+{"qid":1646532,"place":"Lesotho","lat":-29.61,"lon":28.2336,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":24068707,"place":"Philadelphia","lat":39.9526,"lon":-75.1652,"precision":"city","confidence":"high","note":"race in Philadelphia"}
+{"qid":2282516,"place":"Rotterdam","lat":51.9244,"lon":4.4777,"precision":"city","confidence":"high","note":"contest held in Rotterdam"}
+{"qid":66121500,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"web series"}
+{"qid":702298,"place":"Japan","lat":36.2048,"lon":138.2529,"precision":"country","confidence":"high","note":"movement in Japan"}
+{"qid":140517926,"place":"Tolka Park","lat":53.3736,"lon":-6.2519,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":305452,"place":"France","lat":46.2276,"lon":2.2137,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":7782603,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"TV special"}

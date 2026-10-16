@@ -1,0 +1,50 @@
+{"qid":136541432,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"venue unknown"}
+{"qid":131850412,"place":"Pilot Mound, Manitoba","lat":49.1989,"lon":-98.9,"precision":"city","confidence":"high","note":"host city"}
+{"qid":20647826,"place":"Portsmouth","lat":50.8198,"lon":-1.088,"precision":"city","confidence":"high","note":"council"}
+{"qid":6516017,"place":"Leeds","lat":53.8008,"lon":-1.5491,"precision":"city","confidence":"high","note":"council"}
+{"qid":42530183,"place":"Stade Mohammed V","lat":33.5827,"lon":-7.6431,"precision":"site","confidence":"high","note":"venue"}
+{"qid":5290788,"place":"Santo Domingo","lat":18.4861,"lon":-69.9312,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":23018334,"place":"South Dakota","lat":44.4,"lon":-100.2,"precision":"region","confidence":"high","note":"state"}
+{"qid":7401721,"place":"Castries","lat":14.0101,"lon":-60.9875,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":14594705,"place":"Kigali","lat":-1.9441,"lon":30.0619,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":85724433,"place":"JW Marriott Essex House","lat":40.7655,"lon":-73.9763,"precision":"site","confidence":"high","note":"draft venue"}
+{"qid":119641751,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"online dispute"}
+{"qid":17073008,"place":"Tegucigalpa","lat":14.0723,"lon":-87.1921,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":6772932,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"medium","note":"UK Parliament"}
+{"qid":2029935,"place":"Schoten","lat":51.25,"lon":4.5,"precision":"city","confidence":"medium","note":"race finish"}
+{"qid":29094784,"place":"Boston","lat":42.3601,"lon":-71.0589,"precision":"city","confidence":"high","note":"riot in Boston"}
+{"qid":4573578,"place":"Melbourne","lat":-37.8136,"lon":144.9631,"precision":"city","confidence":"high","note":"plan for Melbourne"}
+{"qid":1535413,"place":"Kranjska Gora","lat":46.485,"lon":13.7869,"precision":"city","confidence":"high","note":"competition venue"}
+{"qid":4784964,"place":"St. Marks, Florida","lat":30.1583,"lon":-84.2077,"precision":"city","confidence":"low","note":"trial location"}
+{"qid":17087907,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"high","note":"congress city"}
+{"qid":16153601,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"high","note":"held in UK"}
+{"qid":18620925,"place":"Tallinn","lat":59.437,"lon":24.7536,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":1508175,"place":"Accra","lat":5.6037,"lon":-0.187,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":1344816,"place":"Red Bluff, California","lat":40.1785,"lon":-122.2358,"precision":"city","confidence":"high","note":"held in Red Bluff"}
+{"qid":135036597,"place":"Wallonia","lat":50.4,"lon":4.6,"precision":"region","confidence":"high","note":"race region"}
+{"qid":671956,"place":"Mahabalipuram","lat":12.6269,"lon":80.1927,"precision":"city","confidence":"medium","note":"landfall near"}
+{"qid":104165740,"place":"Huy","lat":50.5187,"lon":5.241,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":136457772,"place":"Bangkok","lat":13.7563,"lon":100.5018,"precision":"city","confidence":"medium","note":"Lumpinee Stadium event"}
+{"qid":141284336,"place":"Burkina Faso","lat":12.2383,"lon":-1.5616,"precision":"country","confidence":"high","note":"host country"}
+{"qid":107137488,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"varying hosts"}
+{"qid":55636695,"place":"Washington (state)","lat":47.4,"lon":-120.5,"precision":"region","confidence":"high","note":"state"}
+{"qid":124040365,"place":"Morden, Manitoba","lat":49.1919,"lon":-98.1011,"precision":"city","confidence":"high","note":"host city"}
+{"qid":700899,"place":"Berlin","lat":52.52,"lon":13.405,"precision":"city","confidence":"high","note":"organization base"}
+{"qid":110769338,"place":"Oman","lat":21.4735,"lon":55.9754,"precision":"country","confidence":"high","note":"national race"}
+{"qid":272450,"place":"North Carolina","lat":35.5,"lon":-79.0,"precision":"region","confidence":"medium","note":"affected coast"}
+{"qid":48791200,"place":"Lajes Field","lat":38.7618,"lon":-27.0908,"precision":"site","confidence":"high","note":"crash site"}
+{"qid":30641392,"place":"Connecticut","lat":41.6,"lon":-72.7,"precision":"region","confidence":"high","note":"state"}
+{"qid":107107935,"place":"Hanoi","lat":21.0285,"lon":105.8542,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":104071036,"place":"Varese","lat":45.8206,"lon":8.8251,"precision":"city","confidence":"medium","note":"race city"}
+{"qid":137638480,"place":"Baja California Sur","lat":25.8,"lon":-111.6,"precision":"region","confidence":"high","note":"affected area"}
+{"qid":108934444,"place":"Somalia","lat":5.1521,"lon":46.1996,"precision":"country","confidence":"high","note":"landfall"}
+{"qid":5690631,"place":"Geneva","lat":46.2044,"lon":6.1432,"precision":"city","confidence":"medium","note":"ILO seat"}
+{"qid":2702435,"place":"Avignon","lat":43.9493,"lon":4.8055,"precision":"city","confidence":"high","note":"race start"}
+{"qid":967135,"place":"Tallinn","lat":59.437,"lon":24.7536,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":1568970,"place":"Sydney","lat":-33.8688,"lon":151.2093,"precision":"city","confidence":"high","note":"began in Sydney"}
+{"qid":6071375,"place":"Dublin","lat":53.3498,"lon":-6.2603,"precision":"city","confidence":"medium","note":"Irish party"}
+{"qid":55316235,"place":"Missouri","lat":38.5,"lon":-92.5,"precision":"region","confidence":"high","note":"state"}
+{"qid":785498,"place":"Chalcis","lat":38.4637,"lon":23.5994,"precision":"city","confidence":"low","note":"style named for Chalcis"}
+{"qid":48802182,"place":"Canberra","lat":-35.2809,"lon":149.13,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":1619406,"place":"Rhenish Hesse","lat":49.8,"lon":8.2,"precision":"region","confidence":"medium","note":"culture area"}
+{"qid":4601514,"place":"Churchill Downs","lat":38.2056,"lon":-85.7704,"precision":"site","confidence":"high","note":"venue"}

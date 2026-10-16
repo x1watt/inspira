@@ -1,0 +1,50 @@
+{"qid":4553465,"place":"Congress Hall (Philadelphia)","lat":39.949,"lon":-75.15,"precision":"site","confidence":"high","note":"delivered at Congress Hall"}
+{"qid":23022606,"place":"Istanbul","lat":41.0082,"lon":28.9784,"precision":"city","confidence":"high","note":"held in Istanbul"}
+{"qid":7646342,"place":"Suriname","lat":3.9193,"lon":-56.0278,"precision":"country","confidence":"high","note":"national election"}
+{"qid":123170884,"place":"Aviva Stadium","lat":53.3351,"lon":-6.2285,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":4436177,"place":"La Paz","lat":-16.4897,"lon":-68.1193,"precision":"city","confidence":"medium","note":"Bolivian government seat"}
+{"qid":29587140,"place":"Moray","lat":57.4,"lon":-3.3,"precision":"region","confidence":"high","note":"council election"}
+{"qid":15107464,"place":"Ottawa","lat":45.4215,"lon":-75.6972,"precision":"city","confidence":"medium","note":"Canadian federal statute"}
+{"qid":106771304,"place":"Metropolitan Borough of Bury","lat":53.5933,"lon":-2.2966,"precision":"region","confidence":"high","note":"council election"}
+{"qid":41918532,"place":"Göttingen","lat":51.5328,"lon":9.9356,"precision":"city","confidence":"high","note":"Lokhalle venue"}
+{"qid":4618418,"place":"Bochum","lat":51.4818,"lon":7.2162,"precision":"city","confidence":"high","note":"race in Bochum"}
+{"qid":6467375,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"ILO convention"}
+{"qid":24036106,"place":"Hamburg","lat":53.5511,"lon":9.9937,"precision":"city","confidence":"high","note":"host city"}
+{"qid":6068176,"place":"Iraq","lat":33.2232,"lon":43.6793,"precision":"country","confidence":"high","note":"national election"}
+{"qid":1883854,"place":"Central Europe","lat":50.0,"lon":10.0,"precision":"region","confidence":"low","note":"central European flood"}
+{"qid":3277309,"place":"Czech Republic","lat":49.8175,"lon":15.473,"precision":"country","confidence":"high","note":"national election"}
+{"qid":7622746,"place":"Singapore","lat":1.3521,"lon":103.8198,"precision":"city","confidence":"high","note":"Singapore newspaper"}
+{"qid":122760810,"place":"Lombardy","lat":45.5845,"lon":9.9301,"precision":"region","confidence":"high","note":"race in Lombardy"}
+{"qid":11600105,"place":"Japan","lat":36.2048,"lon":138.2529,"precision":"country","confidence":"high","note":"national election"}
+{"qid":121775282,"place":"Hong Kong","lat":22.3193,"lon":114.1694,"precision":"city","confidence":"high","note":"tournament in Hong Kong"}
+{"qid":5190090,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"TV block"}
+{"qid":4672695,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"ILO convention"}
+{"qid":20717541,"place":"Kentucky","lat":37.8393,"lon":-84.27,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":10271595,"place":"Portugal","lat":39.3999,"lon":-8.2245,"precision":"country","confidence":"high","note":"national election"}
+{"qid":60569761,"place":"Honolulu","lat":21.3069,"lon":-157.8583,"precision":"city","confidence":"low","note":"candidate from Hawaii"}
+{"qid":7893077,"place":"Rhode Island","lat":41.68,"lon":-71.51,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":105080423,"place":"Los Angeles","lat":34.0522,"lon":-118.2437,"precision":"city","confidence":"high","note":"band formed in LA"}
+{"qid":4942195,"place":"Kansas","lat":38.5,"lon":-98.0,"precision":"region","confidence":"low","note":"fossils from Kansas, uncertain"}
+{"qid":135261900,"place":"Estadio de La Cartuja","lat":37.41,"lon":-6.0036,"precision":"site","confidence":"high","note":"event venue"}
+{"qid":6543991,"place":"Liechtenstein","lat":47.166,"lon":9.5554,"precision":"country","confidence":"high","note":"national election"}
+{"qid":55617432,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"list of characters"}
+{"qid":124253833,"place":"King Saud University Stadium","lat":24.7167,"lon":46.6167,"precision":"site","confidence":"high","note":"final venue, Riyadh"}
+{"qid":986479,"place":"Hong Kong Academy for Performing Arts","lat":22.2792,"lon":114.1717,"precision":"site","confidence":"high","note":"ceremony venue"}
+{"qid":48835002,"place":"Nebraska","lat":41.4925,"lon":-99.9018,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":3777203,"place":"Sweden","lat":62.0,"lon":15.0,"precision":"country","confidence":"high","note":"national election"}
+{"qid":5122765,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"medium","note":"lobbying in US capital"}
+{"qid":28056396,"place":"Turks and Caicos Islands","lat":21.694,"lon":-71.7979,"precision":"country","confidence":"high","note":"territorial election"}
+{"qid":6784099,"place":"Germany","lat":51.0,"lon":10.0,"precision":"country","confidence":"high","note":"suicides across Germany"}
+{"qid":18015672,"place":"Quebec City","lat":46.8139,"lon":-71.208,"precision":"city","confidence":"high","note":"race held there"}
+{"qid":16844206,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"ILO convention"}
+{"qid":111601295,"place":"Midwestern United States","lat":41.5,"lon":-93.0,"precision":"region","confidence":"medium","note":"storm over Midwest"}
+{"qid":5248986,"place":"Canada","lat":56.1304,"lon":-106.3468,"precision":"country","confidence":"low","note":"snowstorms across Canada and US"}
+{"qid":2056173,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"multi-site qualification"}
+{"qid":5361894,"place":"Neal S. Blaisdell Center","lat":21.2989,"lon":-157.8567,"precision":"site","confidence":"high","note":"event venue"}
+{"qid":110769371,"place":"Siena","lat":43.3188,"lon":11.3308,"precision":"city","confidence":"high","note":"race finish in Siena"}
+{"qid":16025266,"place":"Manhattan Center","lat":40.7535,"lon":-73.9929,"precision":"site","confidence":"high","note":"event venue"}
+{"qid":2237412,"place":"Frosinone","lat":41.64,"lon":13.34,"precision":"city","confidence":"medium","note":"fought near Frosinone"}
+{"qid":104948310,"place":"Colorado","lat":39.0598,"lon":-105.3111,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":116205292,"place":"Danville, Virginia","lat":36.586,"lon":-79.395,"precision":"city","confidence":"high","note":"assault in Danville"}
+{"qid":17625681,"place":"Grand Ballroom (Manhattan)","lat":40.7655,"lon":-73.9877,"precision":"site","confidence":"low","note":"venue in Midtown Manhattan"}
+{"qid":60519416,"place":"Iowa","lat":42.0751,"lon":-93.496,"precision":"region","confidence":"high","note":"statewide election"}

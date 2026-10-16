@@ -1,0 +1,50 @@
+{"qid":7826657,"place":"Toronto","lat":43.6532,"lon":-79.3832,"precision":"city","confidence":"high","note":"municipal election"}
+{"qid":4610919,"place":"Taipei","lat":25.033,"lon":121.5654,"precision":"city","confidence":"high","note":"Taiwan Police College"}
+{"qid":5363831,"place":"Elizabeth, South Australia","lat":-34.72,"lon":138.67,"precision":"city","confidence":"medium","note":"by-election seat"}
+{"qid":7893045,"place":"Pennsylvania","lat":40.9,"lon":-77.8,"precision":"region","confidence":"high","note":"state election"}
+{"qid":16828485,"place":"Veliko Tarnovo","lat":43.0757,"lon":25.6172,"precision":"city","confidence":"high","note":"assembly held in Tarnovo"}
+{"qid":7891560,"place":"Kansas","lat":38.5,"lon":-98.0,"precision":"region","confidence":"high","note":"state election"}
+{"qid":134734529,"place":"Idaho","lat":44.2405,"lon":-114.4788,"precision":"region","confidence":"high","note":"wildfires in Idaho"}
+{"qid":17089643,"place":"Maryland","lat":39.0458,"lon":-76.6413,"precision":"region","confidence":"high","note":"state election"}
+{"qid":60156922,"place":"Almería","lat":36.834,"lon":-2.4637,"precision":"city","confidence":"high","note":"race in Almería"}
+{"qid":3062326,"place":"South Pole","lat":-90.0,"lon":0.0,"precision":"region","confidence":"medium","note":"skied to South Pole"}
+{"qid":18327521,"place":"Guildhall, London","lat":51.5155,"lon":-0.0922,"precision":"site","confidence":"medium","note":"trial in London"}
+{"qid":2816584,"place":"Regent Hotel Hong Kong","lat":22.295,"lon":114.174,"precision":"site","confidence":"medium","note":"ceremony at Regent hotel"}
+{"qid":7372064,"place":"Karawang Regency","lat":-6.3,"lon":107.3,"precision":"region","confidence":"medium","note":"Lake Cipule, Karawang"}
+{"qid":11321357,"place":"Hokkaido","lat":43.2203,"lon":142.8635,"precision":"region","confidence":"high","note":"eastern Hokkaido culture"}
+{"qid":140436138,"place":"Lord's","lat":51.5294,"lon":-0.1727,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":4763587,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"medium","note":"loan agreement US-UK"}
+{"qid":85737797,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"list of wildfires"}
+{"qid":7690199,"place":"Paralowie, South Australia","lat":-34.76,"lon":138.62,"precision":"city","confidence":"medium","note":"electorate centre"}
+{"qid":7891640,"place":"Michigan","lat":44.3148,"lon":-85.6024,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7891841,"place":"North Carolina","lat":35.7596,"lon":-79.0193,"precision":"region","confidence":"high","note":"state election"}
+{"qid":17985046,"place":"Virginia","lat":37.5,"lon":-78.8,"precision":"region","confidence":"high","note":"state election"}
+{"qid":16329696,"place":"Athens","lat":37.9838,"lon":23.7275,"precision":"city","confidence":"high","note":"coup in Athens"}
+{"qid":7891618,"place":"Massachusetts","lat":42.4072,"lon":-71.3824,"precision":"region","confidence":"high","note":"state election"}
+{"qid":21995561,"place":"Guernsey","lat":49.4657,"lon":-2.5853,"precision":"region","confidence":"high","note":"island election"}
+{"qid":16153384,"place":"Gibraltar","lat":36.1408,"lon":-5.3536,"precision":"city","confidence":"high","note":"colony election"}
+{"qid":136353480,"place":"Burbank, California","lat":34.1808,"lon":-118.309,"precision":"city","confidence":"medium","note":"Disney studios based there"}
+{"qid":34407,"place":"Montenegro","lat":42.7087,"lon":19.3744,"precision":"country","confidence":"high","note":"national election"}
+{"qid":7918636,"place":"Oslo","lat":59.9139,"lon":10.7522,"precision":"city","confidence":"medium","note":"Vålerenga club city"}
+{"qid":7241859,"place":"Preston, Lancashire","lat":53.7632,"lon":-2.7031,"precision":"city","confidence":"high","note":"city election"}
+{"qid":122418236,"place":"Sweden","lat":60.1282,"lon":18.6435,"precision":"country","confidence":"high","note":"national church election"}
+{"qid":2785411,"place":"Orihuela","lat":38.0847,"lon":-0.944,"precision":"city","confidence":"high","note":"treaty named city"}
+{"qid":15704590,"place":"Dubai","lat":25.2048,"lon":55.2708,"precision":"city","confidence":"high","note":"race in Dubai"}
+{"qid":126525212,"place":"Kazakhstan","lat":48.0196,"lon":66.9237,"precision":"country","confidence":"high","note":"national cup"}
+{"qid":116303708,"place":"Huy","lat":50.519,"lon":5.2406,"precision":"city","confidence":"high","note":"race finish"}
+{"qid":4636637,"place":"Prescott, Arizona","lat":34.54,"lon":-112.4685,"precision":"city","confidence":"high","note":"session in Prescott"}
+{"qid":57980933,"place":"Bucharest","lat":44.4268,"lon":26.1025,"precision":"city","confidence":"medium","note":"Romanian presidency"}
+{"qid":4655382,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"television play"}
+{"qid":21189667,"place":"Oregon","lat":43.8041,"lon":-120.5542,"precision":"region","confidence":"high","note":"state election"}
+{"qid":5571990,"place":"Glostrup Municipality","lat":55.6667,"lon":12.4,"precision":"city","confidence":"high","note":"plot uncovered in Glostrup"}
+{"qid":6981375,"place":"Nauru","lat":-0.5228,"lon":166.9315,"precision":"country","confidence":"high","note":"national election"}
+{"qid":61749000,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"book"}
+{"qid":17100732,"place":"New Mexico","lat":34.5199,"lon":-105.8701,"precision":"region","confidence":"high","note":"state election"}
+{"qid":647487,"place":"Italy","lat":41.8719,"lon":12.5674,"precision":"country","confidence":"high","note":"Italian tour"}
+{"qid":28312046,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"animated series"}
+{"qid":5834736,"place":"Spain","lat":40.4637,"lon":-3.7492,"precision":"country","confidence":"high","note":"epidemics in Spain"}
+{"qid":54873932,"place":"Nebraska","lat":41.4925,"lon":-99.9018,"precision":"region","confidence":"high","note":"state election"}
+{"qid":139915151,"place":"Netherlands","lat":52.1326,"lon":5.2913,"precision":"country","confidence":"low","note":"national final country"}
+{"qid":6059452,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"ILO convention"}
+{"qid":2856400,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"keyboard"}
+{"qid":8466295,"place":"Baja California Sur","lat":25.8,"lon":-111.9,"precision":"region","confidence":"medium","note":"landfall in Mexico"}

@@ -1,0 +1,50 @@
+{"qid":124528263,"place":"Scotland","lat":56.4907,"lon":-4.2026,"precision":"country","confidence":"medium","note":"Scottish tour"}
+{"qid":138006691,"place":"Emirates Stadium","lat":51.5549,"lon":-0.1084,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":11105350,"place":"Makurazaki","lat":31.2667,"lon":130.3,"precision":"city","confidence":"medium","note":"landfall at Makurazaki"}
+{"qid":2596770,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":3066657,"place":"Riga","lat":56.9496,"lon":24.1052,"precision":"city","confidence":"high","note":"Saeima in Riga"}
+{"qid":134560736,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":18395012,"place":"Washington (state)","lat":47.4,"lon":-120.7,"precision":"region","confidence":"high","note":"statewide"}
+{"qid":29654185,"place":"Belgium","lat":50.5039,"lon":4.4699,"precision":"country","confidence":"high","note":"national race"}
+{"qid":15790469,"place":"Edmonton Expo Centre","lat":53.5733,"lon":-113.4977,"precision":"site","confidence":"high","note":"venue"}
+{"qid":113561496,"place":"Samar","lat":12.0,"lon":125.0,"precision":"region","confidence":"high","note":"plebiscite in Samar"}
+{"qid":7354183,"place":"Dores, Highland","lat":57.3911,"lon":-4.3253,"precision":"city","confidence":"medium","note":"festival at Dores"}
+{"qid":4689131,"place":"Kabul","lat":34.5553,"lon":69.2075,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":7373611,"place":"Kandahar","lat":31.6289,"lon":65.7372,"precision":"city","confidence":"high","note":"crashed near Kandahar"}
+{"qid":5454924,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":57277508,"place":"Siena","lat":43.3188,"lon":11.3308,"precision":"city","confidence":"high","note":"finish in Siena"}
+{"qid":108490612,"place":"Karasjok","lat":69.4725,"lon":25.5114,"precision":"city","confidence":"medium","note":"Sámediggi seat"}
+{"qid":2007147,"place":"Argentina","lat":-38.4161,"lon":-63.6167,"precision":"country","confidence":"high","note":"national cup"}
+{"qid":2455573,"place":"Louisiana","lat":30.9843,"lon":-91.9623,"precision":"region","confidence":"high","note":"landfall central Louisiana"}
+{"qid":4866464,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":""}
+{"qid":30640709,"place":"Connecticut","lat":41.6032,"lon":-73.0877,"precision":"region","confidence":"high","note":"statewide"}
+{"qid":17100818,"place":"New York (state)","lat":42.9,"lon":-75.5,"precision":"region","confidence":"high","note":"statewide"}
+{"qid":6518531,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":7891678,"place":"Missouri","lat":38.5,"lon":-92.5,"precision":"region","confidence":"high","note":"statewide"}
+{"qid":131784827,"place":"Valkenburg aan de Geul","lat":50.865,"lon":5.8321,"precision":"city","confidence":"medium","note":"Amstel Gold area"}
+{"qid":7945103,"place":"Graz","lat":47.0707,"lon":15.4395,"precision":"city","confidence":"high","note":"host city"}
+{"qid":17015793,"place":"Metropolitan Borough of Solihull","lat":52.412,"lon":-1.778,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":65063467,"place":"Borg El Arab Stadium","lat":30.882,"lon":29.686,"precision":"site","confidence":"medium","note":"final venue"}
+{"qid":7160867,"place":"Helsinki","lat":60.1699,"lon":24.9384,"precision":"city","confidence":"high","note":"Finnish government seat"}
+{"qid":7892653,"place":"Alabama","lat":32.8,"lon":-86.8,"precision":"region","confidence":"high","note":"statewide"}
+{"qid":23058805,"place":"Bank of Colorado Arena","lat":40.4063,"lon":-104.698,"precision":"site","confidence":"medium","note":"venue in Greeley"}
+{"qid":16320774,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":""}
+{"qid":4574673,"place":"Vatican City","lat":41.9029,"lon":12.4534,"precision":"city","confidence":"high","note":"synod held at Vatican"}
+{"qid":825592,"place":"Schleswig-Holstein","lat":54.2194,"lon":9.6961,"precision":"region","confidence":"high","note":"state election"}
+{"qid":317162,"place":"Berlin","lat":52.52,"lon":13.405,"precision":"city","confidence":"high","note":"German government seat"}
+{"qid":266478,"place":"Hamburg","lat":53.5511,"lon":9.9937,"precision":"city","confidence":"high","note":"race in Hamburg"}
+{"qid":30945475,"place":"Taipei","lat":25.033,"lon":121.5654,"precision":"city","confidence":"high","note":"host city"}
+{"qid":2053601,"place":"Egypt","lat":26.8206,"lon":30.8025,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":134286933,"place":"North Harbour Stadium","lat":-36.73,"lon":174.713,"precision":"site","confidence":"medium","note":"final venue"}
+{"qid":2539665,"place":"United Arab Emirates","lat":23.4241,"lon":53.8478,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":491947,"place":"China","lat":35.8617,"lon":104.1954,"precision":"country","confidence":"low","note":"struck eastern China"}
+{"qid":7861267,"place":"Philippines","lat":12.8797,"lon":121.774,"precision":"country","confidence":"low","note":"affected area"}
+{"qid":18081691,"place":"Mexico","lat":23.6345,"lon":-102.5528,"precision":"country","confidence":"low","note":"western Mexico"}
+{"qid":7061387,"place":"Norway","lat":60.472,"lon":8.4689,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":3777421,"place":"Denmark","lat":56.2639,"lon":9.5018,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":17630417,"place":"Mexico City","lat":19.4326,"lon":-99.1332,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":11635515,"place":"Japan","lat":36.2048,"lon":138.2529,"precision":"country","confidence":"low","note":"Japanese railways"}
+{"qid":105554769,"place":"Staffordshire","lat":52.8,"lon":-2.0,"precision":"region","confidence":"high","note":"county election"}
+{"qid":1506966,"place":"El Salvador","lat":13.7942,"lon":-88.8965,"precision":"country","confidence":"medium","note":"passed close to coast"}
+{"qid":630612,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":125371921,"place":"Puerto Rico","lat":18.2208,"lon":-66.5901,"precision":"country","confidence":"high","note":"national league"}

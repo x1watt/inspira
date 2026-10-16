@@ -1,0 +1,50 @@
+{"qid":124362674,"place":"New Zealand","lat":-40.9006,"lon":174.886,"precision":"country","confidence":"medium","note":"coin for planned visit"}
+{"qid":138719062,"place":"Coral Sea","lat":-16.0,"lon":150.0,"precision":"region","confidence":"medium","note":"abandoned off Great Barrier Reef"}
+{"qid":2342628,"place":"Brest, Belarus","lat":52.0976,"lon":23.7341,"precision":"city","confidence":"high","note":"held in Brest"}
+{"qid":5354279,"place":"Philippines","lat":12.8797,"lon":121.774,"precision":"country","confidence":"medium","note":"typhoon main impact"}
+{"qid":4546230,"place":"Taipei","lat":25.033,"lon":121.5654,"precision":"city","confidence":"medium","note":"celebrations in Taipei"}
+{"qid":98060253,"place":"Lombardy","lat":45.48,"lon":9.9,"precision":"region","confidence":"high","note":"race in Lombardy"}
+{"qid":2779769,"place":"Huy","lat":50.519,"lon":5.2406,"precision":"city","confidence":"high","note":"race finish"}
+{"qid":319914,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"high","note":"German prize"}
+{"qid":822312,"place":"Mainz","lat":50.0,"lon":8.2711,"precision":"city","confidence":"high","note":"Landtag seat"}
+{"qid":5198791,"place":"Samoa","lat":-13.759,"lon":-172.1046,"precision":"country","confidence":"high","note":"hit Samoa"}
+{"qid":16952733,"place":"Brisbane","lat":-27.4698,"lon":153.0251,"precision":"city","confidence":"medium","note":"Queensland Parliament"}
+{"qid":4955408,"place":"Bragg, South Australia","lat":-34.93,"lon":138.65,"precision":"region","confidence":"medium","note":"by-election seat"}
+{"qid":98114588,"place":"Piedmont","lat":45.0,"lon":7.9,"precision":"region","confidence":"high","note":"race in Piedmont"}
+{"qid":30323822,"place":"Bangkok","lat":13.7563,"lon":100.5018,"precision":"city","confidence":"high","note":"killed in Bangkok"}
+{"qid":123334419,"place":"South Australia","lat":-34.9285,"lon":138.6007,"precision":"region","confidence":"high","note":"state local elections"}
+{"qid":4616701,"place":"Brasília","lat":-15.7939,"lon":-47.8828,"precision":"city","confidence":"high","note":"summit in Brasília"}
+{"qid":7945116,"place":"Varna","lat":43.2141,"lon":27.9147,"precision":"city","confidence":"high","note":"venue named city"}
+{"qid":5347024,"place":"Japan","lat":36.2048,"lon":138.2529,"precision":"country","confidence":"high","note":"religious frenzy in Japan"}
+{"qid":65152203,"place":"Bulgaria","lat":42.7339,"lon":25.4858,"precision":"country","confidence":"high","note":"local elections"}
+{"qid":102022578,"place":"Northern Ireland","lat":54.6,"lon":-6.7,"precision":"region","confidence":"high","note":"Troubles investigation"}
+{"qid":261426,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"recurring event"}
+{"qid":93882334,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"song"}
+{"qid":4598798,"place":"Gujarat","lat":22.2587,"lon":71.1924,"precision":"region","confidence":"high","note":"cyclone hit Gujarat"}
+{"qid":124326756,"place":"Sydney","lat":-33.8688,"lon":151.2093,"precision":"city","confidence":"high","note":"race start"}
+{"qid":30643955,"place":"Rivers State","lat":4.8156,"lon":7.0498,"precision":"region","confidence":"high","note":"state budget"}
+{"qid":55316237,"place":"West Virginia","lat":38.5976,"lon":-80.4549,"precision":"region","confidence":"high","note":"state election"}
+{"qid":133235594,"place":"Corn Ranch","lat":31.4222,"lon":-104.7578,"precision":"site","confidence":"high","note":"launch site"}
+{"qid":896205,"place":"Berlin","lat":52.52,"lon":13.405,"precision":"city","confidence":"medium","note":"Federal Convention"}
+{"qid":7892890,"place":"Montana","lat":46.8797,"lon":-110.3626,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7893133,"place":"West Virginia","lat":38.5976,"lon":-80.4549,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7443236,"place":"Canberra","lat":-35.2809,"lon":149.13,"precision":"city","confidence":"medium","note":"federal government seat"}
+{"qid":4562625,"place":"Montjuïc","lat":41.364,"lon":2.159,"precision":"site","confidence":"medium","note":"final at Montjuïc"}
+{"qid":3025769,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"proposed state idea"}
+{"qid":16428190,"place":"Iceland","lat":64.9631,"lon":-19.0208,"precision":"country","confidence":"high","note":"municipal elections"}
+{"qid":5361896,"place":"Stockton Arena","lat":37.9535,"lon":-121.2907,"precision":"site","confidence":"high","note":"venue named"}
+{"qid":83884446,"place":"Belgium","lat":50.5039,"lon":4.4699,"precision":"country","confidence":"medium","note":"originally in Belgium"}
+{"qid":1326899,"place":"Sweden","lat":60.1282,"lon":18.6435,"precision":"country","confidence":"high","note":"national election"}
+{"qid":20313110,"place":"Anguilla","lat":18.2206,"lon":-63.0686,"precision":"country","confidence":"high","note":"national election"}
+{"qid":663541,"place":"Gran Sasso","lat":42.469,"lon":13.57,"precision":"site","confidence":"medium","note":"neutrino beam destination"}
+{"qid":3587181,"place":"Jamaica","lat":18.1096,"lon":-77.2975,"precision":"country","confidence":"high","note":"national election"}
+{"qid":5614253,"place":"Guatemala City","lat":14.6349,"lon":-90.5069,"precision":"city","confidence":"medium","note":"assembly election"}
+{"qid":130218589,"place":"Goa","lat":15.2993,"lon":74.124,"precision":"region","confidence":"high","note":"South Goa venue"}
+{"qid":39046100,"place":"Wyoming","lat":43.0,"lon":-107.55,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7406536,"place":"El Salvador","lat":13.7942,"lon":-88.8965,"precision":"country","confidence":"high","note":"national election"}
+{"qid":26985345,"place":"Cañadón Asfalto Formation","lat":-43.0,"lon":-69.0,"precision":"region","confidence":"medium","note":"fossil formation, Chubut"}
+{"qid":112957992,"place":"Yerevan","lat":40.1792,"lon":44.4991,"precision":"city","confidence":"high","note":"contest held in Yerevan"}
+{"qid":5476249,"place":"Jerusalem","lat":31.7683,"lon":35.2137,"precision":"city","confidence":"high","note":"government seat"}
+{"qid":112221431,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"high","note":"crisis in Rome"}
+{"qid":18043296,"place":"Montreal","lat":45.5017,"lon":-73.5673,"precision":"city","confidence":"high","note":"race in Montreal"}
+{"qid":114352400,"place":"Knowsley Road","lat":53.4528,"lon":-2.7258,"precision":"site","confidence":"high","note":"venue named"}

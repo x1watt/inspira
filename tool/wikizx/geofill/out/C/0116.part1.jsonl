@@ -1,0 +1,50 @@
+{"qid":1156397,"place":"Havana","lat":23.1136,"lon":-82.3666,"precision":"city","confidence":"high","note":"capital"}
+{"qid":56279553,"place":"Illinois","lat":40.0,"lon":-89.0,"precision":"region","confidence":"high","note":"state election"}
+{"qid":110985132,"place":"Laigueglia","lat":43.9753,"lon":8.1581,"precision":"city","confidence":"high","note":"race town"}
+{"qid":28129288,"place":"Vojens","lat":55.25,"lon":9.3,"precision":"city","confidence":"medium","note":"held at Vojens"}
+{"qid":130395343,"place":"South Africa","lat":-30.5595,"lon":22.9375,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":7892780,"place":"Indiana","lat":39.9,"lon":-86.3,"precision":"region","confidence":"high","note":"state election"}
+{"qid":1021426,"place":"Bremen","lat":53.0793,"lon":8.8017,"precision":"city","confidence":"high","note":"state election"}
+{"qid":3925588,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"comic series"}
+{"qid":26847737,"place":"Rio de Janeiro","lat":-22.9068,"lon":-43.1729,"precision":"city","confidence":"high","note":"Olympic host city"}
+{"qid":11513955,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"oceanic typhoon"}
+{"qid":3793338,"place":"Revere, Massachusetts","lat":42.4084,"lon":-71.012,"precision":"city","confidence":"medium","note":"Wonderland Ballroom show"}
+{"qid":30160653,"place":"Verviers","lat":50.5896,"lon":5.8636,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":16920652,"place":"Monrovia","lat":6.3005,"lon":-10.7969,"precision":"city","confidence":"high","note":"capital"}
+{"qid":28220217,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"court case"}
+{"qid":6415124,"place":"South Tarawa","lat":1.3382,"lon":173.0176,"precision":"city","confidence":"medium","note":"capital atoll"}
+{"qid":60524483,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"timeline"}
+{"qid":57245454,"place":"Como","lat":45.8081,"lon":9.0852,"precision":"city","confidence":"medium","note":"finish town"}
+{"qid":8029321,"place":"Woking","lat":51.319,"lon":-0.558,"precision":"city","confidence":"high","note":"borough"}
+{"qid":3587263,"place":"Malabo","lat":3.75,"lon":8.7833,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":20714569,"place":"Munich","lat":48.1351,"lon":11.582,"precision":"city","confidence":"high","note":"1972 Olympics"}
+{"qid":1339280,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"apple cultivar"}
+{"qid":11954978,"place":"Barcelona","lat":41.3874,"lon":2.1686,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":5092661,"place":"Cherwell District","lat":51.9,"lon":-1.3,"precision":"region","confidence":"medium","note":"district election"}
+{"qid":5339177,"place":"Edmonton","lat":53.5461,"lon":-113.4938,"precision":"city","confidence":"high","note":"city election"}
+{"qid":5020834,"place":"California","lat":36.7783,"lon":-119.4179,"precision":"region","confidence":"high","note":"state proposition"}
+{"qid":7189034,"place":"Hong Kong","lat":22.3193,"lon":114.1694,"precision":"region","confidence":"medium","note":"HK programme"}
+{"qid":41755142,"place":"Chaville","lat":48.8087,"lon":2.1887,"precision":"city","confidence":"medium","note":"finish town"}
+{"qid":7129982,"place":"Panama City","lat":8.9824,"lon":-79.5199,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":130416354,"place":"Hungary","lat":47.1625,"lon":19.5033,"precision":"country","confidence":"high","note":"national tour"}
+{"qid":3651340,"place":"Tbilisi","lat":41.7151,"lon":44.8271,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":19898102,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"musical work"}
+{"qid":74108117,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"league draft"}
+{"qid":4615209,"place":"Hard Rock Stadium","lat":25.958,"lon":-80.2389,"precision":"site","confidence":"high","note":"Dolphin Stadium"}
+{"qid":6392454,"place":"Bath County, Kentucky","lat":38.1,"lon":-83.75,"precision":"region","confidence":"high","note":"infobox location"}
+{"qid":4345450,"place":"Delhi","lat":28.6139,"lon":77.209,"precision":"city","confidence":"low","note":"imperial council seat"}
+{"qid":7409979,"place":"Apia","lat":-13.8333,"lon":-171.7667,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":812491,"place":"Bamberg","lat":49.8917,"lon":10.8864,"precision":"city","confidence":"medium","note":"finish town"}
+{"qid":7891532,"place":"Indiana","lat":39.9,"lon":-86.3,"precision":"region","confidence":"high","note":"state election"}
+{"qid":605458,"place":"Olympia, Greece","lat":37.6384,"lon":21.63,"precision":"city","confidence":"medium","note":"held at Olympia"}
+{"qid":85734865,"place":"Barnsley","lat":53.5526,"lon":-1.4797,"precision":"city","confidence":"high","note":"borough"}
+{"qid":7061367,"place":"Norway","lat":60.472,"lon":8.4689,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":6452426,"place":"Bishkek","lat":42.8746,"lon":74.5698,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":20311756,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"team selection"}
+{"qid":1384294,"place":"South Australia","lat":-32.0,"lon":137.0,"precision":"region","confidence":"medium","note":"explored region"}
+{"qid":7861198,"place":"Hong Kong","lat":22.3193,"lon":114.1694,"precision":"city","confidence":"medium","note":"struck Hong Kong"}
+{"qid":105200246,"place":"Ullevi","lat":57.7056,"lon":11.9867,"precision":"site","confidence":"high","note":"held at Ullevi"}
+{"qid":125044009,"place":"Hainan","lat":19.2,"lon":109.7,"precision":"region","confidence":"high","note":"island province"}
+{"qid":14918,"place":"Kapustin Yar","lat":48.5667,"lon":45.8,"precision":"site","confidence":"high","note":"launch site"}
+{"qid":65078025,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"concert tour"}
+{"qid":94140053,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"cycling season"}

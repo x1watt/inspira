@@ -1,0 +1,50 @@
+{"qid":17143893,"place":"Winnipeg","lat":49.8951,"lon":-97.1384,"precision":"city","confidence":"high","note":"Pan Am Games host"}
+{"qid":108473422,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"high","note":"trial in Paris"}
+{"qid":3416029,"place":"Texas","lat":31.9686,"lon":-99.9018,"precision":"region","confidence":"low","note":"struck Texas and Mexico"}
+{"qid":15055145,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"medium","note":"German art movement"}
+{"qid":4558699,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"list"}
+{"qid":3220392,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"toy theme"}
+{"qid":124619147,"place":"Evansville, Indiana","lat":37.9716,"lon":-87.5711,"precision":"city","confidence":"high","note":"finals at Ford Center"}
+{"qid":16000884,"place":"Charleville, Queensland","lat":-26.4,"lon":146.24,"precision":"city","confidence":"medium","note":"flooded Queensland towns"}
+{"qid":4353699,"place":"Japan","lat":36.2048,"lon":138.2529,"precision":"country","confidence":"medium","note":"hit Japan"}
+{"qid":3355555,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"host unknown"}
+{"qid":96363637,"place":"Oklahoma","lat":35.4676,"lon":-97.5164,"precision":"region","confidence":"high","note":"state election"}
+{"qid":18560150,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"medium","note":"Royal Society of Chemistry"}
+{"qid":7892052,"place":"Texas","lat":31.9686,"lon":-99.9018,"precision":"region","confidence":"high","note":"state election"}
+{"qid":85845059,"place":"Ottawa","lat":45.4215,"lon":-75.6972,"precision":"city","confidence":"high","note":"presented to House of Commons"}
+{"qid":116652301,"place":"United States","lat":37.0902,"lon":-95.7129,"precision":"country","confidence":"medium","note":"balloon crossed North America"}
+{"qid":929182,"place":"Malta","lat":35.9375,"lon":14.3754,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":7892739,"place":"Delaware","lat":39.1582,"lon":-75.5244,"precision":"region","confidence":"high","note":"state election"}
+{"qid":13986673,"place":"Mexico","lat":23.6345,"lon":-102.5528,"precision":"country","confidence":"medium","note":"landfall in southern Mexico"}
+{"qid":4622142,"place":"Estadio Omnilife","lat":20.6819,"lon":-103.4627,"precision":"site","confidence":"high","note":"ceremony venue"}
+{"qid":6351978,"place":"Milwaukee","lat":43.0389,"lon":-87.9065,"precision":"city","confidence":"high","note":"published in Milwaukee"}
+{"qid":5476137,"place":"Canberra","lat":-35.2809,"lon":149.13,"precision":"city","confidence":"medium","note":"Australian federal government"}
+{"qid":843218,"place":"Sweden","lat":60.1282,"lon":18.6435,"precision":"country","confidence":"low","note":"Swedish rail units"}
+{"qid":16927544,"place":"Williamstown, Victoria","lat":-37.857,"lon":144.9,"precision":"city","confidence":"high","note":"workshops at Williamstown"}
+{"qid":6721925,"place":"Rockefeller Center","lat":40.7587,"lon":-73.9787,"precision":"site","confidence":"high","note":"SNL sketch at 30 Rock"}
+{"qid":24189219,"place":"Adelaide","lat":-34.9285,"lon":138.6007,"precision":"city","confidence":"medium","note":"SANFL final"}
+{"qid":7826615,"place":"Toronto","lat":43.6532,"lon":-79.3832,"precision":"city","confidence":"high","note":"municipal election"}
+{"qid":20648002,"place":"Wellington","lat":-41.2866,"lon":174.7756,"precision":"city","confidence":"high","note":"presented to Parliament"}
+{"qid":826543,"place":"Europe","lat":54.526,"lon":15.2551,"precision":"region","confidence":"medium","note":"European race series"}
+{"qid":96362722,"place":"Asia","lat":34.0479,"lon":100.6197,"precision":"region","confidence":"low","note":"Asian golf tour"}
+{"qid":4618245,"place":"Thailand","lat":15.87,"lon":100.9925,"precision":"country","confidence":"medium","note":"Thai cup"}
+{"qid":3824410,"place":"Armenia","lat":40.0691,"lon":45.0382,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":4891027,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"alphabet"}
+{"qid":105765023,"place":"Queensland","lat":-20.9176,"lon":142.7028,"precision":"region","confidence":"medium","note":"hit northeast Australia"}
+{"qid":137273814,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"global heat waves"}
+{"qid":56291991,"place":"Berlin","lat":52.52,"lon":13.405,"precision":"city","confidence":"medium","note":"Germany declared war"}
+{"qid":827412,"place":"Japan","lat":36.2048,"lon":138.2529,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":38301818,"place":"Tbilisi","lat":41.7151,"lon":44.8271,"precision":"city","confidence":"high","note":"contest held in Tbilisi"}
+{"qid":105359443,"place":"North Dakota","lat":47.5515,"lon":-101.002,"precision":"region","confidence":"high","note":"state election"}
+{"qid":11695957,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"vacuum tube"}
+{"qid":6449884,"place":"KwaZulu-Natal","lat":-28.5305,"lon":30.8958,"precision":"region","confidence":"high","note":"provincial law"}
+{"qid":3737126,"place":"Tallinn","lat":59.437,"lon":24.7536,"precision":"city","confidence":"medium","note":"trial in Estonia"}
+{"qid":29032576,"place":"Sofia","lat":42.6977,"lon":23.3219,"precision":"city","confidence":"high","note":"contest held in Sofia"}
+{"qid":7891662,"place":"Minnesota","lat":46.7296,"lon":-94.6859,"precision":"region","confidence":"high","note":"state election"}
+{"qid":30642200,"place":"South Carolina","lat":33.8361,"lon":-81.1637,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7888112,"place":"Copenhagen","lat":55.6761,"lon":12.5683,"precision":"city","confidence":"low","note":"contest host Copenhagen"}
+{"qid":7053912,"place":"Eastern United States","lat":40.0,"lon":-76.0,"precision":"region","confidence":"medium","note":"East Coast blizzard"}
+{"qid":108660986,"place":"South Yorkshire","lat":53.48,"lon":-1.47,"precision":"region","confidence":"high","note":"mayoral election"}
+{"qid":16209652,"place":"Place des Arts","lat":45.5083,"lon":-73.567,"precision":"site","confidence":"high","note":"event venue"}
+{"qid":586286,"place":"Kew","lat":51.4787,"lon":-0.2956,"precision":"city","confidence":"high","note":"letters written at Kew"}
+{"qid":5599328,"place":"Hong Kong","lat":22.3193,"lon":114.1694,"precision":"city","confidence":"high","note":"typhoon hit Hong Kong"}

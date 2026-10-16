@@ -1,0 +1,50 @@
+{"qid":7443348,"place":"Canberra","lat":-35.2809,"lon":149.13,"precision":"city","confidence":"medium","note":"Australian government"}
+{"qid":2366416,"place":"Helsinki","lat":60.1699,"lon":24.9384,"precision":"city","confidence":"medium","note":"released at Helsinki exhibition"}
+{"qid":4572375,"place":"Illinois","lat":40.6331,"lon":-89.3985,"precision":"region","confidence":"medium","note":"Midwest flooding"}
+{"qid":27629672,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"campaign"}
+{"qid":3985096,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"multiple venues"}
+{"qid":4575643,"place":"Biratnagar","lat":26.4525,"lon":87.2718,"precision":"city","confidence":"high","note":"hijacking from Biratnagar"}
+{"qid":131363763,"place":"Nottinghamshire","lat":53.1,"lon":-1.0,"precision":"region","confidence":"high","note":"county council election"}
+{"qid":21589782,"place":"Pretoria","lat":-25.7479,"lon":28.2293,"precision":"city","confidence":"high","note":"signed in Pretoria"}
+{"qid":15994229,"place":"Zagreb Airport","lat":45.7429,"lon":16.0688,"precision":"site","confidence":"medium","note":"hijacked flight ended Zagreb"}
+{"qid":65066109,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"book"}
+{"qid":654027,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"video game"}
+{"qid":1778563,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"technology"}
+{"qid":171791,"place":"Maranello","lat":44.529,"lon":10.864,"precision":"city","confidence":"medium","note":"Ferrari base"}
+{"qid":656482,"place":"Basque Country (autonomous community)","lat":43.0,"lon":-2.75,"precision":"region","confidence":"medium","note":"stage race"}
+{"qid":27538382,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"medium","note":"La Course finish in Paris"}
+{"qid":15103208,"place":"Guam","lat":13.4443,"lon":144.7937,"precision":"region","confidence":"medium","note":"typhoon affected Guam"}
+{"qid":8065712,"place":"Lusaka","lat":-15.3875,"lon":28.3228,"precision":"city","confidence":"medium","note":"Zambia capital"}
+{"qid":117061907,"place":"Tallinn","lat":59.437,"lon":24.7536,"precision":"city","confidence":"medium","note":"Riigikogu seat"}
+{"qid":8072088,"place":"Harare","lat":-17.8252,"lon":31.0335,"precision":"city","confidence":"medium","note":"Zimbabwe capital"}
+{"qid":124096746,"place":"Rio de Janeiro","lat":-22.9068,"lon":-43.1729,"precision":"city","confidence":"high","note":"stolen in Rio"}
+{"qid":16824508,"place":"British Virgin Islands","lat":18.4207,"lon":-64.64,"precision":"country","confidence":"high","note":"territory election"}
+{"qid":6895785,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"anime"}
+{"qid":6467431,"place":"Geneva","lat":46.2044,"lon":6.1432,"precision":"city","confidence":"low","note":"ILO convention"}
+{"qid":8035032,"place":"Geneva","lat":46.2044,"lon":6.1432,"precision":"city","confidence":"low","note":"ILO convention"}
+{"qid":22342215,"place":"Yamoussoukro","lat":6.8276,"lon":-5.2893,"precision":"city","confidence":"low","note":"Ivorian national election"}
+{"qid":141305522,"place":"BK Arena","lat":-1.954,"lon":30.106,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":5524486,"place":"Apennine Mountains","lat":44.0,"lon":9.5,"precision":"region","confidence":"low","note":"Ligurian people"}
+{"qid":48842062,"place":"Arizona","lat":34.0489,"lon":-111.0937,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7892814,"place":"Maine","lat":45.2538,"lon":-69.4455,"precision":"region","confidence":"high","note":"state election"}
+{"qid":20798167,"place":"Italy","lat":41.8719,"lon":12.5674,"precision":"country","confidence":"medium","note":"based in northern Italy"}
+{"qid":3687860,"place":"Merioneth","lat":52.75,"lon":-3.85,"precision":"region","confidence":"medium","note":"title"}
+{"qid":15110640,"place":"Estadio Nacional de Fútbol de Nicaragua","lat":12.124,"lon":-86.266,"precision":"site","confidence":"high","note":"event venue Managua"}
+{"qid":7845980,"place":"Philippines","lat":12.8797,"lon":121.774,"precision":"country","confidence":"medium","note":"storm hit Philippines"}
+{"qid":3610868,"place":"Wilczek Land","lat":80.9,"lon":59.0,"precision":"region","confidence":"medium","note":"fossil site"}
+{"qid":4576261,"place":"South China Sea","lat":15.0,"lon":115.0,"precision":"region","confidence":"medium","note":"aircraft lost there"}
+{"qid":5455783,"place":"South Korea","lat":35.9078,"lon":127.7669,"precision":"country","confidence":"medium","note":"national plans"}
+{"qid":74228707,"place":"Hong Kong","lat":22.3193,"lon":114.1694,"precision":"city","confidence":"medium","note":"player from Hong Kong"}
+{"qid":131703557,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"player class"}
+{"qid":20801657,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"low","note":"Soviet black market"}
+{"qid":5198828,"place":"Queensland","lat":-20.9176,"lon":142.7028,"precision":"region","confidence":"medium","note":"major impact in Queensland"}
+{"qid":126737320,"place":"Abu Dhabi","lat":24.4539,"lon":54.3773,"precision":"city","confidence":"medium","note":"UAE stage race"}
+{"qid":117443031,"place":"Stoke-on-Trent","lat":53.0027,"lon":-2.1794,"precision":"city","confidence":"high","note":"city council election"}
+{"qid":130711739,"place":"Canada","lat":56.1304,"lon":-106.3468,"precision":"country","confidence":"high","note":"national census"}
+{"qid":131339883,"place":"Dumfries","lat":55.0701,"lon":-3.6052,"precision":"city","confidence":"high","note":"event in Dumfries"}
+{"qid":7401729,"place":"Saint Lucia","lat":13.9094,"lon":-60.9789,"precision":"country","confidence":"high","note":"national election"}
+{"qid":47669370,"place":"France","lat":46.2276,"lon":2.2137,"precision":"country","confidence":"medium","note":"stage race in France"}
+{"qid":73034761,"place":"San Marino","lat":43.9424,"lon":12.4578,"precision":"country","confidence":"high","note":"national election"}
+{"qid":19413839,"place":"Langkawi","lat":6.35,"lon":99.8,"precision":"region","confidence":"medium","note":"Malaysian stage race"}
+{"qid":23019892,"place":"Adelaide Oval","lat":-34.9156,"lon":138.5961,"precision":"site","confidence":"medium","note":"SANFL grand final venue"}
+{"qid":59550563,"place":"Bern","lat":46.948,"lon":7.4474,"precision":"city","confidence":"high","note":"Federal Assembly in Bern"}

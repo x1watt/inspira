@@ -1,0 +1,50 @@
+{"qid":5827456,"place":"Madrid","lat":40.4168,"lon":-3.7038,"precision":"city","confidence":"high","note":"Community of Madrid election"}
+{"qid":16242190,"place":"Veldhoven","lat":51.418,"lon":5.405,"precision":"city","confidence":"high","note":"NH Hotel Veldhoven"}
+{"qid":97360331,"place":"Arkansas","lat":34.7465,"lon":-92.2896,"precision":"region","confidence":"high","note":"state election"}
+{"qid":28194843,"place":"North Dakota","lat":47.5515,"lon":-101.002,"precision":"region","confidence":"high","note":"state election"}
+{"qid":3587246,"place":"Dakar","lat":14.7167,"lon":-17.4677,"precision":"city","confidence":"high","note":"Senegal capital"}
+{"qid":7232777,"place":"Portugal","lat":39.3999,"lon":-8.2245,"precision":"country","confidence":"high","note":"national local elections"}
+{"qid":112649145,"place":"Democratic Republic of the Congo","lat":-4.0383,"lon":21.7587,"precision":"country","confidence":"high","note":"outbreak in DRC"}
+{"qid":17100735,"place":"New Mexico","lat":34.5199,"lon":-105.8701,"precision":"region","confidence":"high","note":"state election"}
+{"qid":125804284,"place":"Alamodome","lat":29.417,"lon":-98.4781,"precision":"site","confidence":"high","note":"final venue San Antonio"}
+{"qid":15926634,"place":"Canberra","lat":-35.2809,"lon":149.13,"precision":"city","confidence":"medium","note":"Australian government"}
+{"qid":250247,"place":"Portugal","lat":39.3999,"lon":-8.2245,"precision":"country","confidence":"high","note":"national referendum"}
+{"qid":16933542,"place":"Damascus","lat":33.5138,"lon":36.2765,"precision":"city","confidence":"high","note":"Syrian presidency"}
+{"qid":118482745,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"global circuit"}
+{"qid":6518580,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"toy theme"}
+{"qid":118189671,"place":"Middlesbrough","lat":54.5742,"lon":-1.235,"precision":"city","confidence":"high","note":"borough council election"}
+{"qid":129261090,"place":"Abha","lat":18.2164,"lon":42.5053,"precision":"city","confidence":"high","note":"final played in Abha"}
+{"qid":4791369,"place":"Arizona","lat":34.0489,"lon":-111.0937,"precision":"region","confidence":"high","note":"state amendment"}
+{"qid":16931039,"place":"Calderdale","lat":53.7248,"lon":-1.8658,"precision":"city","confidence":"high","note":"borough council election"}
+{"qid":7892030,"place":"South Dakota","lat":44.2998,"lon":-99.4388,"precision":"region","confidence":"high","note":"state election"}
+{"qid":84308938,"place":"Vaduz","lat":47.141,"lon":9.5209,"precision":"city","confidence":"medium","note":"Landtag seat"}
+{"qid":2486046,"place":"Limburg (Netherlands)","lat":50.9,"lon":5.95,"precision":"region","confidence":"medium","note":"race in Limburg"}
+{"qid":1464523,"place":"Pacific Ocean","lat":30.0,"lon":-160.0,"precision":"region","confidence":"medium","note":"toys spilled at sea"}
+{"qid":55316261,"place":"Alabama","lat":32.8067,"lon":-86.7911,"precision":"region","confidence":"high","note":"state election"}
+{"qid":16956480,"place":"Luxembourg","lat":49.8153,"lon":6.1296,"precision":"country","confidence":"high","note":"stage race in Luxembourg"}
+{"qid":2635063,"place":"Saint Petersburg","lat":59.9343,"lon":30.3351,"precision":"city","confidence":"medium","note":"issued in Saint Petersburg"}
+{"qid":39046007,"place":"New York (state)","lat":43.2994,"lon":-74.2179,"precision":"region","confidence":"high","note":"state election"}
+{"qid":3003022,"place":"France","lat":46.2276,"lon":2.2137,"precision":"country","confidence":"medium","note":"stage race in France"}
+{"qid":124714116,"place":"Central America","lat":13.0,"lon":-85.0,"precision":"region","confidence":"low","note":"qualifying across five countries"}
+{"qid":60519441,"place":"Idaho","lat":44.0682,"lon":-114.742,"precision":"region","confidence":"high","note":"state election"}
+{"qid":131545315,"place":"Cannock Chase District","lat":52.69,"lon":-2.02,"precision":"region","confidence":"high","note":"district council election"}
+{"qid":108864397,"place":"Guam","lat":13.4443,"lon":144.7937,"precision":"region","confidence":"high","note":"election in Guam"}
+{"qid":115519824,"place":"Melbourne","lat":-37.8136,"lon":144.9631,"precision":"city","confidence":"high","note":"Victoria Police inquiry"}
+{"qid":16155639,"place":"London","lat":51.5072,"lon":-0.1276,"precision":"city","confidence":"high","note":"held in United Kingdom"}
+{"qid":3326618,"place":"Camagüey","lat":21.3808,"lon":-77.9169,"precision":"city","confidence":"low","note":"flight to Cuba then vanished"}
+{"qid":8023428,"place":"Wiltshire","lat":51.35,"lon":-1.99,"precision":"region","confidence":"high","note":"county council election"}
+{"qid":554356,"place":"Bavaria","lat":48.7904,"lon":11.4979,"precision":"region","confidence":"high","note":"state election"}
+{"qid":6669399,"place":"Venice","lat":45.4408,"lon":12.3155,"precision":"city","confidence":"medium","note":"Lombardy-Venetia currency"}
+{"qid":3930550,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"fictional character"}
+{"qid":623700,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"TV show"}
+{"qid":20961369,"place":"Greece","lat":39.0742,"lon":21.8243,"precision":"country","confidence":"high","note":"Greek police"}
+{"qid":1140597,"place":"France","lat":46.2276,"lon":2.2137,"precision":"country","confidence":"medium","note":"stage race in France"}
+{"qid":17007781,"place":"Stockholm","lat":59.3293,"lon":18.0686,"precision":"city","confidence":"high","note":"ceremony in Stockholm"}
+{"qid":683456,"place":"Bern","lat":46.948,"lon":7.4474,"precision":"city","confidence":"high","note":"Federal Assembly in Bern"}
+{"qid":5274009,"place":"China","lat":35.8617,"lon":104.1954,"precision":"country","confidence":"low","note":"Cretaceous China fossil"}
+{"qid":2994076,"place":"Clermont-Ferrand","lat":45.7772,"lon":3.087,"precision":"city","confidence":"high","note":"council seat"}
+{"qid":7892729,"place":"Connecticut","lat":41.6032,"lon":-73.0877,"precision":"region","confidence":"high","note":"state election"}
+{"qid":123013309,"place":"Venezuela","lat":6.4238,"lon":-66.5897,"precision":"country","confidence":"high","note":"political movement"}
+{"qid":8525601,"place":"Hawaii","lat":19.8968,"lon":-155.5828,"precision":"region","confidence":"medium","note":"passed southwest of Hawaii"}
+{"qid":6541273,"place":"Monrovia","lat":6.3156,"lon":-10.8074,"precision":"city","confidence":"medium","note":"Liberia referendum"}
+{"qid":95995234,"place":"Nepal","lat":28.3949,"lon":84.124,"precision":"country","confidence":"high","note":"tourism campaign"}

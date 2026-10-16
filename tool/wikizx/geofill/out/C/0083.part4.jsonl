@@ -1,0 +1,50 @@
+{"qid":17142736,"place":"Brussels","lat":50.8503,"lon":4.3517,"precision":"city","confidence":"medium","note":"negotiations in Brussels"}
+{"qid":133885283,"place":"Candlestick Park","lat":37.7136,"lon":-122.3862,"precision":"site","confidence":"high","note":"played at 3Com Park, San Francisco"}
+{"qid":17100865,"place":"New York (state)","lat":43.0,"lon":-75.5,"precision":"region","confidence":"high","note":"state election"}
+{"qid":135427715,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"low","note":"matches across US and Canada"}
+{"qid":1259139,"place":"Croatia","lat":45.1,"lon":15.2,"precision":"country","confidence":"high","note":"nationwide referendum"}
+{"qid":1628641,"place":"Sweden","lat":60.1282,"lon":18.6435,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":2248708,"place":"Huy, Belgium","lat":50.5189,"lon":5.2406,"precision":"city","confidence":"high","note":"finish on Mur de Huy"}
+{"qid":23018344,"place":"Washington (state)","lat":47.4,"lon":-120.7,"precision":"region","confidence":"high","note":"state election"}
+{"qid":4842394,"place":"The Bahamas","lat":25.0343,"lon":-77.3963,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":4688495,"place":"Río Negro Province","lat":-40.0,"lon":-67.0,"precision":"region","confidence":"low","note":"fossil from Río Negro"}
+{"qid":120788310,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"campaign"}
+{"qid":112340217,"place":"Australia","lat":-25.2744,"lon":133.7751,"precision":"country","confidence":"high","note":"federal election"}
+{"qid":60519426,"place":"Arkansas","lat":34.8,"lon":-92.2,"precision":"region","confidence":"high","note":"state election"}
+{"qid":288282,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"radio system"}
+{"qid":112980011,"place":"Virginia","lat":37.5,"lon":-78.7,"precision":"region","confidence":"high","note":"state election"}
+{"qid":1140596,"place":"France","lat":46.2276,"lon":2.2137,"precision":"country","confidence":"low","note":"race in French Alps"}
+{"qid":104948871,"place":"Idaho","lat":44.4,"lon":-114.6,"precision":"region","confidence":"high","note":"state election"}
+{"qid":1128904,"place":"Sukhumi","lat":43.0015,"lon":41.0234,"precision":"city","confidence":"medium","note":"capital of Abkhazia"}
+{"qid":7406486,"place":"San Salvador","lat":13.6929,"lon":-89.2182,"precision":"city","confidence":"medium","note":"national election, capital"}
+{"qid":3423764,"place":"Russia","lat":61.524,"lon":105.3188,"precision":"country","confidence":"medium","note":"deportations from Russia"}
+{"qid":4381238,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"coin"}
+{"qid":51725182,"place":"Indianapolis","lat":39.7684,"lon":-86.1581,"precision":"city","confidence":"high","note":"murder in Indianapolis"}
+{"qid":7406543,"place":"San Salvador","lat":13.6929,"lon":-89.2182,"precision":"city","confidence":"medium","note":"national election, capital"}
+{"qid":5198795,"place":"Morondava","lat":-20.2833,"lon":44.2833,"precision":"city","confidence":"low","note":"struck western Madagascar"}
+{"qid":17100257,"place":"Michigan","lat":44.3,"lon":-85.6,"precision":"region","confidence":"high","note":"state election"}
+{"qid":1411382,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"currency"}
+{"qid":6105238,"place":"Ankara","lat":39.9334,"lon":32.8597,"precision":"city","confidence":"high","note":"parliament seat"}
+{"qid":65067357,"place":"Mexico","lat":23.6345,"lon":-102.5528,"precision":"country","confidence":"medium","note":"national league playoffs"}
+{"qid":118500071,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"campaign"}
+{"qid":115802224,"place":"Great Britain","lat":54.0,"lon":-2.0,"precision":"country","confidence":"low","note":"multi-stage national race"}
+{"qid":1131602,"place":"Nanjing","lat":32.0603,"lon":118.7969,"precision":"city","confidence":"medium","note":"Hongwu capital"}
+{"qid":104947931,"place":"Oklahoma","lat":35.5,"lon":-97.5,"precision":"region","confidence":"high","note":"state election"}
+{"qid":16219084,"place":"Kyiv","lat":50.4501,"lon":30.5234,"precision":"city","confidence":"high","note":"signed in Kyiv"}
+{"qid":7891524,"place":"Illinois","lat":40.0,"lon":-89.2,"precision":"region","confidence":"high","note":"state election"}
+{"qid":16154571,"place":"Trentino","lat":46.07,"lon":11.12,"precision":"region","confidence":"high","note":"race in Trentino"}
+{"qid":2094010,"place":"Minsk","lat":53.9006,"lon":27.559,"precision":"city","confidence":"medium","note":"Supreme Soviet in Minsk"}
+{"qid":5198824,"place":"Port Hedland","lat":-20.3106,"lon":118.6011,"precision":"city","confidence":"low","note":"struck Pilbara coast"}
+{"qid":2915468,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"arms smuggling operation"}
+{"qid":9062604,"place":"Indiana","lat":39.9,"lon":-86.3,"precision":"region","confidence":"high","note":"state primary"}
+{"qid":1297581,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"high","note":"plot in Paris"}
+{"qid":15904596,"place":"Philippines","lat":12.8797,"lon":121.774,"precision":"country","confidence":"medium","note":"struck Luzon, Philippines"}
+{"qid":39052737,"place":"Tbilisi","lat":41.7151,"lon":44.8271,"precision":"city","confidence":"high","note":"contest in Tbilisi"}
+{"qid":3922392,"place":"Danbury, Connecticut","lat":41.3948,"lon":-73.454,"precision":"city","confidence":"medium","note":"tried at Danbury Superior Court"}
+{"qid":96400880,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"ransomware group"}
+{"qid":1137371,"place":"Chengdu","lat":30.5728,"lon":104.0668,"precision":"city","confidence":"high","note":"held in Chengdu"}
+{"qid":118114289,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"design style"}
+{"qid":7051054,"place":"Canberra","lat":-35.2809,"lon":149.13,"precision":"city","confidence":"medium","note":"act of Parliament of Australia"}
+{"qid":17100633,"place":"New Jersey","lat":40.1,"lon":-74.5,"precision":"region","confidence":"high","note":"state election"}
+{"qid":27703752,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"season"}
+{"qid":15145265,"place":"Vienna","lat":48.2082,"lon":16.3738,"precision":"city","confidence":"medium","note":"OSCE agreements negotiated in Vienna"}

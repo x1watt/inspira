@@ -1,0 +1,50 @@
+{"qid":16959302,"place":"Colorado","lat":39.0,"lon":-105.5,"precision":"region","confidence":"high","note":"state"}
+{"qid":7846073,"place":"Mexico","lat":23.6345,"lon":-102.5528,"precision":"country","confidence":"medium","note":"affected area"}
+{"qid":1639009,"place":"Copenhagen","lat":55.6761,"lon":12.5683,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":29062197,"place":"Ankara","lat":39.9334,"lon":32.8597,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":1340086,"place":"Magdeburg","lat":52.1205,"lon":11.6276,"precision":"city","confidence":"medium","note":"state capital"}
+{"qid":3703456,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"medium","note":"awards in Rome"}
+{"qid":18642894,"place":"Roseau","lat":15.301,"lon":-61.387,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":4892823,"place":"Zaragoza","lat":41.6488,"lon":-0.8891,"precision":"city","confidence":"medium","note":"regional capital"}
+{"qid":15401700,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"identifier"}
+{"qid":5704685,"place":"Heligoland","lat":54.18,"lon":7.89,"precision":"region","confidence":"high","note":"crash site"}
+{"qid":50824924,"place":"Darwin, Northern Territory","lat":-12.4634,"lon":130.8456,"precision":"city","confidence":"medium","note":"landfall region"}
+{"qid":2497393,"place":"Philadelphia","lat":39.9526,"lon":-75.1652,"precision":"city","confidence":"medium","note":"minted there"}
+{"qid":3548023,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"comic"}
+{"qid":3441174,"place":"Ohio","lat":40.4,"lon":-82.8,"precision":"region","confidence":"low","note":"originated in Ohio"}
+{"qid":124328405,"place":"Addis Ababa","lat":9.03,"lon":38.74,"precision":"city","confidence":"high","note":"capital"}
+{"qid":17192,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"space station mission"}
+{"qid":5468248,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"medium","note":"UK Parliament"}
+{"qid":9164575,"place":"Spain","lat":40.4637,"lon":-3.7492,"precision":"country","confidence":"high","note":"national movement"}
+{"qid":54873904,"place":"Nebraska","lat":41.5,"lon":-99.8,"precision":"region","confidence":"high","note":"state"}
+{"qid":111963103,"place":"Beauregard, Alabama","lat":32.4349,"lon":-85.3996,"precision":"city","confidence":"high","note":"worst damage"}
+{"qid":25424572,"place":"Buenos Aires","lat":-34.6037,"lon":-58.3816,"precision":"city","confidence":"high","note":"shooting venue"}
+{"qid":5452585,"place":"Warsaw","lat":52.2297,"lon":21.0122,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":1338481,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"high","note":"target"}
+{"qid":20639082,"place":"Sofia","lat":42.6977,"lon":23.3219,"precision":"city","confidence":"high","note":"host city"}
+{"qid":58433547,"place":"Nebraska","lat":41.5,"lon":-99.8,"precision":"region","confidence":"high","note":"state"}
+{"qid":3234955,"place":"Hyōgo Prefecture","lat":34.8,"lon":134.85,"precision":"region","confidence":"high","note":"worst affected"}
+{"qid":20055612,"place":"Henley-on-Thames","lat":51.536,"lon":-0.903,"precision":"city","confidence":"high","note":"race venue"}
+{"qid":258560,"place":"Munich","lat":48.1351,"lon":11.582,"precision":"city","confidence":"medium","note":"state capital"}
+{"qid":125146299,"place":"England","lat":52.5,"lon":-1.5,"precision":"country","confidence":"low","note":"English competition"}
+{"qid":28222273,"place":"Arkansas","lat":34.8,"lon":-92.2,"precision":"region","confidence":"high","note":"state"}
+{"qid":4591695,"place":"Bucaramanga","lat":7.1254,"lon":-73.1198,"precision":"city","confidence":"high","note":"host city"}
+{"qid":1938548,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"hypothetical ocean"}
+{"qid":6994497,"place":"Kathmandu","lat":27.7172,"lon":85.324,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":13873996,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"surveillance program"}
+{"qid":108292934,"place":"Oklahoma","lat":35.5,"lon":-97.5,"precision":"region","confidence":"high","note":"state"}
+{"qid":3586958,"place":"Algiers","lat":36.7538,"lon":3.0588,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":6515885,"place":"Leeds","lat":53.8008,"lon":-1.5491,"precision":"city","confidence":"high","note":"council"}
+{"qid":7892888,"place":"Montana","lat":47.0,"lon":-110.0,"precision":"region","confidence":"high","note":"state"}
+{"qid":7892837,"place":"Massachusetts","lat":42.3,"lon":-71.8,"precision":"region","confidence":"high","note":"state"}
+{"qid":2448809,"place":"Asuka, Nara","lat":34.47,"lon":135.82,"precision":"city","confidence":"low","note":"Suiko court"}
+{"qid":5521515,"place":"Toulon","lat":43.1242,"lon":5.928,"precision":"city","confidence":"medium","note":"squadron sailed from Toulon"}
+{"qid":1032370,"place":"Wiesbaden","lat":50.0782,"lon":8.2398,"precision":"city","confidence":"medium","note":"state capital"}
+{"qid":5589360,"place":"Mansion House, Dublin","lat":53.3401,"lon":-6.2552,"precision":"site","confidence":"medium","note":"Dáil met there"}
+{"qid":429767,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"literary genre"}
+{"qid":137460557,"place":"North Bay, Ontario","lat":46.3091,"lon":-79.4608,"precision":"city","confidence":"high","note":"host city"}
+{"qid":60785542,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"astronomical event"}
+{"qid":15298026,"place":"Predazzo","lat":46.3133,"lon":11.6021,"precision":"city","confidence":"high","note":"venue"}
+{"qid":24189396,"place":"Wellington","lat":-41.2866,"lon":174.7756,"precision":"city","confidence":"high","note":"Parliament"}
+{"qid":35191128,"place":"Mannheim","lat":49.4875,"lon":8.466,"precision":"city","confidence":"high","note":"venue"}
+{"qid":3533795,"place":"Ticino","lat":46.3,"lon":8.8,"precision":"region","confidence":"high","note":"canton race"}

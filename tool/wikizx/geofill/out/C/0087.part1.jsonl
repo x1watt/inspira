@@ -1,0 +1,50 @@
+{"qid":7892113,"place":"Wisconsin","lat":44.5,"lon":-89.5,"precision":"region","confidence":"high","note":"state"}
+{"qid":1609682,"place":"Kvitøya","lat":80.1667,"lon":32.6,"precision":"region","confidence":"medium","note":"found Andrée remains"}
+{"qid":2069123,"place":"Valletta","lat":35.8989,"lon":14.5146,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":26609,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"geological age"}
+{"qid":13521888,"place":"Kuwait City","lat":29.3759,"lon":47.9774,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":28224985,"place":"Aberfan","lat":51.6933,"lon":-3.3447,"precision":"city","confidence":"high","note":"disaster inquiry"}
+{"qid":42895686,"place":"Brasília","lat":-15.7939,"lon":-47.8828,"precision":"city","confidence":"medium","note":"signed by Temer"}
+{"qid":136488012,"place":"Lakeside Stadium","lat":-37.8402,"lon":144.9542,"precision":"site","confidence":"high","note":"venue"}
+{"qid":16823122,"place":"Banjul","lat":13.4549,"lon":-16.579,"precision":"city","confidence":"high","note":"host city"}
+{"qid":7452795,"place":"Kyiv","lat":50.4501,"lon":30.5234,"precision":"city","confidence":"high","note":"host city"}
+{"qid":64576731,"place":"Kyiv","lat":50.4501,"lon":30.5234,"precision":"city","confidence":"medium","note":"Ukrainian churches"}
+{"qid":140610398,"place":"Budapest","lat":47.4979,"lon":19.0402,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":2886244,"place":"Santiago","lat":-33.4489,"lon":-70.6693,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":3390907,"place":"Ivanovo","lat":57.0004,"lon":40.9739,"precision":"city","confidence":"high","note":"main area"}
+{"qid":4613547,"place":"Toronto","lat":43.6532,"lon":-79.3832,"precision":"city","confidence":"high","note":"city strike"}
+{"qid":7707625,"place":"Texas","lat":31.0,"lon":-100.0,"precision":"region","confidence":"high","note":"state"}
+{"qid":20926395,"place":"Cambridge, Massachusetts","lat":42.3736,"lon":-71.1097,"precision":"city","confidence":"low","note":"Harvard base"}
+{"qid":4589727,"place":"Santa Fe, Argentina","lat":-31.6333,"lon":-60.7,"precision":"city","confidence":"high","note":"host city"}
+{"qid":6567929,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"list"}
+{"qid":1139375,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"video game"}
+{"qid":5153766,"place":"Vigyan Bhavan","lat":28.6108,"lon":77.218,"precision":"site","confidence":"high","note":"venue"}
+{"qid":28129374,"place":"Valletta","lat":35.8989,"lon":14.5146,"precision":"city","confidence":"medium","note":"host city"}
+{"qid":328162,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"geological age"}
+{"qid":45880605,"place":"Lima","lat":-12.0464,"lon":-77.0428,"precision":"city","confidence":"high","note":"Congress of Peru"}
+{"qid":15727453,"place":"Sochi","lat":43.6028,"lon":39.7342,"precision":"city","confidence":"medium","note":"Olympic host"}
+{"qid":1804173,"place":"Dresden","lat":51.0504,"lon":13.7373,"precision":"city","confidence":"medium","note":"state capital"}
+{"qid":19866671,"place":"Cleveland","lat":41.4993,"lon":-81.6944,"precision":"city","confidence":"high","note":"convention"}
+{"qid":5025189,"place":"Phnom Penh","lat":11.5564,"lon":104.9282,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":57157249,"place":"Oman","lat":21.0,"lon":57.0,"precision":"country","confidence":"medium","note":"affected area"}
+{"qid":115489,"place":"Milan","lat":45.4642,"lon":9.19,"precision":"city","confidence":"medium","note":"race start"}
+{"qid":8003319,"place":"Willamette Valley","lat":44.8,"lon":-123.0,"precision":"region","confidence":"high","note":"flooded valley"}
+{"qid":6087681,"place":"Ankara","lat":39.9334,"lon":32.8597,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":1218477,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"comic story"}
+{"qid":863412,"place":"Tokyo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":28220968,"place":"Nebraska","lat":41.5,"lon":-99.8,"precision":"region","confidence":"high","note":"state"}
+{"qid":65091362,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"concert tour"}
+{"qid":17068287,"place":"Manila","lat":14.5995,"lon":120.9842,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":4866453,"place":"Cooperstown, New York","lat":42.7,"lon":-74.924,"precision":"city","confidence":"medium","note":"Hall location"}
+{"qid":6395465,"place":"Kettering","lat":52.3984,"lon":-0.7264,"precision":"city","confidence":"high","note":"borough"}
+{"qid":3633501,"place":"Champs-Élysées","lat":48.8698,"lon":2.3078,"precision":"site","confidence":"high","note":"venue"}
+{"qid":39056130,"place":"South Carolina","lat":33.8361,"lon":-81.1637,"precision":"region","confidence":"high","note":"state"}
+{"qid":134740106,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"league draft"}
+{"qid":7258626,"place":"San Juan, Puerto Rico","lat":18.4655,"lon":-66.1057,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":12409246,"place":"Jerusalem","lat":31.7683,"lon":35.2137,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":1667500,"place":"Geneva","lat":46.2044,"lon":6.1432,"precision":"city","confidence":"medium","note":"UN convention"}
+{"qid":7893072,"place":"Rhode Island","lat":41.7,"lon":-71.5,"precision":"region","confidence":"high","note":"state"}
+{"qid":3459827,"place":"Mauna Kea","lat":19.8206,"lon":-155.4681,"precision":"region","confidence":"low","note":"telescope site"}
+{"qid":97177929,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"ocean season"}
+{"qid":21190321,"place":"Kuala Lumpur","lat":3.139,"lon":101.6869,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":23782087,"place":"Privas","lat":44.7353,"lon":4.599,"precision":"city","confidence":"high","note":"headquarters"}

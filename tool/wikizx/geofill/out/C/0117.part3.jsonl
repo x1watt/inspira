@@ -1,0 +1,50 @@
+{"qid":174963,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"ship"}
+{"qid":5339167,"place":"Edmonton","lat":53.5461,"lon":-113.4938,"precision":"city","confidence":"high","note":"city election"}
+{"qid":136512787,"place":"Utsunomiya","lat":36.5658,"lon":139.8836,"precision":"city","confidence":"high","note":"Utsunomiya race"}
+{"qid":125984650,"place":"Khabarovsk","lat":48.4802,"lon":135.0719,"precision":"city","confidence":"medium","note":"regional capital"}
+{"qid":20311823,"place":"Azores","lat":38.5,"lon":-28.0,"precision":"region","confidence":"high","note":"regional election"}
+{"qid":140672808,"place":"Czechia","lat":49.8175,"lon":15.473,"precision":"country","confidence":"high","note":"host country"}
+{"qid":118179864,"place":"Thammasat Stadium","lat":14.0675,"lon":100.6061,"precision":"site","confidence":"medium","note":"final venue"}
+{"qid":2298475,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"bus model"}
+{"qid":16197604,"place":"Virginia","lat":37.5,"lon":-78.8,"precision":"region","confidence":"high","note":"state election"}
+{"qid":16238713,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"medium","note":"plots against Parliament"}
+{"qid":5147970,"place":"Bogotá","lat":4.711,"lon":-74.0721,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":138639485,"place":"Mineirão","lat":-19.8659,"lon":-43.971,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":104948855,"place":"Idaho","lat":44.2,"lon":-114.5,"precision":"region","confidence":"high","note":"state election"}
+{"qid":5339174,"place":"Edmonton","lat":53.5461,"lon":-113.4938,"precision":"city","confidence":"high","note":"city election"}
+{"qid":141404584,"place":"Sultan Ibrahim Stadium","lat":1.46,"lon":103.637,"precision":"site","confidence":"medium","note":"match venue"}
+{"qid":126325695,"place":"Accra","lat":5.6037,"lon":-0.187,"precision":"city","confidence":"high","note":"conference centre"}
+{"qid":130749429,"place":"Madrid","lat":40.4168,"lon":-3.7038,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":112670447,"place":"Kaliningrad Oblast","lat":54.7104,"lon":20.4522,"precision":"region","confidence":"medium","note":"transit to exclave"}
+{"qid":16057116,"place":"Kyiv","lat":50.4501,"lon":30.5234,"precision":"city","confidence":"low","note":"Ukrainian SSR cup"}
+{"qid":28402103,"place":"Prague","lat":50.0755,"lon":14.4378,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":80981314,"place":"Geelong","lat":-38.1499,"lon":144.3617,"precision":"city","confidence":"high","note":"race in Geelong"}
+{"qid":105395043,"place":"Brazzaville","lat":-4.2634,"lon":15.2429,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":408799,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"aircraft design"}
+{"qid":100844208,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"motorcycle season"}
+{"qid":3408079,"place":"Vilnius","lat":54.6872,"lon":25.2797,"precision":"city","confidence":"medium","note":"opened for signature"}
+{"qid":47464403,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"high","note":"federal government"}
+{"qid":104183710,"place":"Norway","lat":60.472,"lon":8.4689,"precision":"country","confidence":"medium","note":"race in Troms"}
+{"qid":5198859,"place":"French Polynesia","lat":-17.6797,"lon":-149.4068,"precision":"region","confidence":"high","note":"struck Polynesia"}
+{"qid":101577805,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"list"}
+{"qid":2374208,"place":"Bergamo","lat":45.6983,"lon":9.6773,"precision":"city","confidence":"high","note":"finish city"}
+{"qid":116184845,"place":"Almería","lat":36.8381,"lon":-2.4597,"precision":"city","confidence":"high","note":"race city"}
+{"qid":3176586,"place":"Sèvres","lat":48.8236,"lon":2.21,"precision":"city","confidence":"high","note":"secret meeting"}
+{"qid":105753044,"place":"Algiers","lat":36.7538,"lon":3.0588,"precision":"city","confidence":"medium","note":"capital protests"}
+{"qid":112109720,"place":"Tuvalu","lat":-7.1095,"lon":177.6493,"precision":"country","confidence":"high","note":"national pandemic"}
+{"qid":7999515,"place":"Wigan","lat":53.5448,"lon":-2.6318,"precision":"city","confidence":"high","note":"borough"}
+{"qid":42350370,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"fossil genus"}
+{"qid":17154179,"place":"Morzine","lat":46.18,"lon":6.709,"precision":"city","confidence":"medium","note":"start town"}
+{"qid":104842543,"place":"Indiana","lat":39.9,"lon":-86.3,"precision":"region","confidence":"high","note":"state election"}
+{"qid":19159960,"place":"Gabon","lat":-0.8037,"lon":11.6094,"precision":"country","confidence":"high","note":"race in Gabon"}
+{"qid":51636185,"place":"Arco, Trentino","lat":45.9181,"lon":10.8864,"precision":"city","confidence":"medium","note":"start town"}
+{"qid":7893019,"place":"Pennsylvania","lat":41.2,"lon":-77.2,"precision":"region","confidence":"high","note":"state election"}
+{"qid":908204,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"railcar"}
+{"qid":137537952,"place":"Newtown Park","lat":-41.3114,"lon":174.7761,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":1277523,"place":"Tallinn","lat":59.437,"lon":24.7536,"precision":"city","confidence":"high","note":"published in Tallinn"}
+{"qid":16156197,"place":"New Zealand","lat":-40.9006,"lon":174.886,"precision":"country","confidence":"high","note":"tour of NZ"}
+{"qid":55636600,"place":"Colorado","lat":39.0,"lon":-105.5,"precision":"region","confidence":"high","note":"state election"}
+{"qid":104948084,"place":"Wyoming","lat":43.0,"lon":-107.5,"precision":"region","confidence":"high","note":"state election"}
+{"qid":117328176,"place":"Wirral","lat":53.373,"lon":-3.075,"precision":"region","confidence":"high","note":"borough"}
+{"qid":4600186,"place":"Jalandhar","lat":31.326,"lon":75.5762,"precision":"city","confidence":"high","note":"crash site"}
+{"qid":5828683,"place":"Bogotá","lat":4.711,"lon":-74.0721,"precision":"city","confidence":"medium","note":"capital"}

@@ -1,0 +1,50 @@
+{"qid":17100675,"place":"New Jersey","lat":40.0583,"lon":-74.4057,"precision":"region","confidence":"high","note":"state election"}
+{"qid":11598,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"concept"}
+{"qid":1892690,"place":"Moldova","lat":47.4116,"lon":28.3699,"precision":"country","confidence":"high","note":"national election"}
+{"qid":677417,"place":"Finland","lat":61.9241,"lon":25.7482,"precision":"country","confidence":"high","note":"national election"}
+{"qid":1185360,"place":"Madrid","lat":40.4168,"lon":-3.7038,"precision":"city","confidence":"high","note":"planned coup in Madrid"}
+{"qid":7642571,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"codename"}
+{"qid":134980713,"place":"Tasman District","lat":-41.3,"lon":172.7,"precision":"region","confidence":"high","note":"district election"}
+{"qid":21010089,"place":"Mexico","lat":23.6345,"lon":-102.5528,"precision":"country","confidence":"medium","note":"rains in Mexico"}
+{"qid":728232,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"domain"}
+{"qid":17100874,"place":"New York (state)","lat":42.9538,"lon":-75.5268,"precision":"region","confidence":"high","note":"state election"}
+{"qid":16154189,"place":"Felt Forum","lat":40.7505,"lon":-73.9934,"precision":"site","confidence":"high","note":"venue in Madison Square Garden"}
+{"qid":4639451,"place":"Antarctica","lat":-82.8628,"lon":135.0,"precision":"region","confidence":"low","note":"Antarctic expedition"}
+{"qid":17035527,"place":"Amritsar","lat":31.634,"lon":74.8723,"precision":"city","confidence":"high","note":"signed at Amritsar"}
+{"qid":17100245,"place":"Louisiana","lat":30.9843,"lon":-91.9623,"precision":"region","confidence":"high","note":"state election"}
+{"qid":2053546,"place":"Somalia","lat":5.1521,"lon":46.1996,"precision":"country","confidence":"high","note":"national election"}
+{"qid":3699220,"place":"Guatemala","lat":15.7835,"lon":-90.2308,"precision":"country","confidence":"high","note":"national election"}
+{"qid":745465,"place":"Barbican Centre","lat":51.5201,"lon":-0.0937,"precision":"site","confidence":"medium","note":"first shown there"}
+{"qid":17054341,"place":"Ramsay, South Australia","lat":-34.7,"lon":138.65,"precision":"region","confidence":"medium","note":"by-election seat"}
+{"qid":5219719,"place":"Denmark","lat":56.2639,"lon":9.5018,"precision":"country","confidence":"high","note":"national election"}
+{"qid":16828050,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"low","note":"riots in southern England"}
+{"qid":5213039,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"ad campaign"}
+{"qid":7986612,"place":"West Sussex","lat":50.9,"lon":-0.5,"precision":"region","confidence":"high","note":"county election"}
+{"qid":28129349,"place":"Smart Araneta Coliseum","lat":14.6205,"lon":121.0524,"precision":"site","confidence":"high","note":"venue named"}
+{"qid":2282316,"place":"South America","lat":-15.0,"lon":-60.0,"precision":"region","confidence":"low","note":"regional rugby championship"}
+{"qid":5947103,"place":"Lesser Antilles","lat":14.0,"lon":-61.0,"precision":"region","confidence":"medium","note":"storm in Caribbean"}
+{"qid":228319,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"high","note":"German law"}
+{"qid":3243527,"place":"Mexico","lat":23.6345,"lon":-102.5528,"precision":"country","confidence":"medium","note":"tracked along Mexican coast"}
+{"qid":122761072,"place":"Alaska","lat":64.2008,"lon":-149.4937,"precision":"region","confidence":"high","note":"state election"}
+{"qid":4609559,"place":"Phoenix, Arizona","lat":33.4484,"lon":-112.074,"precision":"city","confidence":"low","note":"champions Phoenix"}
+{"qid":995415,"place":"Guam","lat":13.4443,"lon":144.7937,"precision":"region","confidence":"high","note":"storm affected Guam"}
+{"qid":4059204,"place":"Leningrad","lat":59.9343,"lon":30.3351,"precision":"city","confidence":"medium","note":"trial in Leningrad"}
+{"qid":532335,"place":"Indianapolis","lat":39.7684,"lon":-86.1581,"precision":"city","confidence":"high","note":"Indiana General Assembly"}
+{"qid":112039582,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"online forum"}
+{"qid":2139785,"place":"Berlin","lat":52.52,"lon":13.405,"precision":"city","confidence":"medium","note":"Reichstag of confederation"}
+{"qid":16202383,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"medium","note":"held in UK"}
+{"qid":30901401,"place":"Impact Zone","lat":28.4793,"lon":-81.465,"precision":"site","confidence":"high","note":"venue in Orlando"}
+{"qid":16952027,"place":"Costa Rica","lat":9.7489,"lon":-83.7534,"precision":"country","confidence":"high","note":"national election"}
+{"qid":7313925,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"ILO convention"}
+{"qid":4612171,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"medium","note":"federal budget"}
+{"qid":11706654,"place":"Overijse","lat":50.771,"lon":4.535,"precision":"city","confidence":"high","note":"race finish"}
+{"qid":13451278,"place":"Midwestern United States","lat":41.5,"lon":-93.0,"precision":"region","confidence":"low","note":"storms across region"}
+{"qid":5947605,"place":"Belize","lat":17.1899,"lon":-88.4976,"precision":"country","confidence":"medium","note":"flooding in Belize"}
+{"qid":3282187,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"medium","note":"murder case in France"}
+{"qid":4560608,"place":"Takoma Park, Maryland","lat":38.9779,"lon":-77.0075,"precision":"city","confidence":"medium","note":"Adventist headquarters"}
+{"qid":23616949,"place":"Fiji","lat":-17.7134,"lon":178.065,"precision":"country","confidence":"low","note":"tournament host unsure"}
+{"qid":3587177,"place":"Jamaica","lat":18.1096,"lon":-77.2975,"precision":"country","confidence":"high","note":"national election"}
+{"qid":4921048,"place":"Yangtze","lat":30.0,"lon":112.0,"precision":"region","confidence":"medium","note":"expedition on Yangtze"}
+{"qid":4625941,"place":"Bangalore","lat":12.9716,"lon":77.5946,"precision":"city","confidence":"high","note":"Karnataka Legislative Assembly"}
+{"qid":114326017,"place":"Whitney Museum of American Art","lat":40.7396,"lon":-74.0089,"precision":"site","confidence":"high","note":"hosted at museum"}
+{"qid":4557283,"place":"Fort Smith, Arkansas","lat":35.3859,"lon":-94.3985,"precision":"city","confidence":"high","note":"tornadoes near Fort Smith"}

@@ -1,0 +1,50 @@
+{"qid":61999933,"place":"Mexico City","lat":19.4326,"lon":-99.1332,"precision":"city","confidence":"medium","note":"games finally hosted in Mexico City"}
+{"qid":19324477,"place":"Christchurch","lat":-43.5321,"lon":172.6362,"precision":"city","confidence":"low","note":"NZ ceremony site"}
+{"qid":106043479,"place":"Colorado","lat":39.0,"lon":-105.5,"precision":"region","confidence":"medium","note":"blizzard hit Colorado"}
+{"qid":4555815,"place":"Haiphong","lat":20.8449,"lon":106.6881,"precision":"city","confidence":"high","note":"typhoon struck Haiphong"}
+{"qid":7354073,"place":"Rochford","lat":51.58,"lon":0.7,"precision":"city","confidence":"high","note":"district election"}
+{"qid":96361998,"place":"New Jersey","lat":40.0583,"lon":-74.4057,"precision":"region","confidence":"high","note":"state election"}
+{"qid":14920480,"place":"Hawaii","lat":19.8968,"lon":-155.5828,"precision":"region","confidence":"high","note":"storm affected Hawaii"}
+{"qid":5613473,"place":"Hagåtña","lat":13.4757,"lon":144.7489,"precision":"city","confidence":"medium","note":"Guam capital"}
+{"qid":137113852,"place":"Australia","lat":-25.2744,"lon":133.7751,"precision":"country","confidence":"low","note":"rugby league pre-season"}
+{"qid":137972321,"place":"Halton","lat":53.35,"lon":-2.7,"precision":"region","confidence":"high","note":"borough election"}
+{"qid":822853,"place":"Rio de Janeiro-Galeão International Airport","lat":-22.8099,"lon":-43.2506,"precision":"site","confidence":"high","note":"crash site"}
+{"qid":7892811,"place":"Louisiana","lat":30.9843,"lon":-91.9623,"precision":"region","confidence":"high","note":"state result"}
+{"qid":771943,"place":"Athens","lat":37.9838,"lon":23.7275,"precision":"city","confidence":"medium","note":"Greek law"}
+{"qid":6730162,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"cartoon characters"}
+{"qid":4616825,"place":"Estadio Hidalgo","lat":20.1134,"lon":-98.76,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":18289602,"place":"Stockholm","lat":59.3293,"lon":18.0686,"precision":"city","confidence":"medium","note":"Swedish capital"}
+{"qid":11601087,"place":"Tokyo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"medium","note":"Japanese capital"}
+{"qid":7567775,"place":"South Lakeland","lat":54.3,"lon":-2.8,"precision":"region","confidence":"high","note":"district election"}
+{"qid":314570,"place":"Berlin","lat":52.52,"lon":13.405,"precision":"city","confidence":"high","note":"Federal Convention in Berlin"}
+{"qid":23691294,"place":"Trentino","lat":46.07,"lon":11.12,"precision":"region","confidence":"high","note":"race in Trentino"}
+{"qid":16964188,"place":"Argentina","lat":-38.4161,"lon":-63.6167,"precision":"country","confidence":"high","note":"fossil from Argentina"}
+{"qid":27958032,"place":"Oxfordshire","lat":51.7612,"lon":-1.2465,"precision":"region","confidence":"high","note":"county election"}
+{"qid":5447556,"place":"The Oval","lat":51.4837,"lon":-0.115,"precision":"site","confidence":"high","note":"Test at The Oval"}
+{"qid":127163266,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"medium","note":"Treasury in London"}
+{"qid":5105155,"place":"Chorley","lat":53.653,"lon":-2.632,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":115803789,"place":"Gudauri","lat":42.477,"lon":44.48,"precision":"city","confidence":"high","note":"crash near Gudauri"}
+{"qid":124449438,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"national rankings"}
+{"qid":135976728,"place":"Yakima SunDome","lat":46.589,"lon":-120.489,"precision":"site","confidence":"high","note":"All-Star venue"}
+{"qid":6392508,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"kitchen appliance"}
+{"qid":16999238,"place":"Charlestown, Nevis","lat":17.133,"lon":-62.62,"precision":"city","confidence":"medium","note":"Nevis capital"}
+{"qid":65058057,"place":"Thurrock","lat":51.49,"lon":0.34,"precision":"region","confidence":"high","note":"council election"}
+{"qid":4973680,"place":"London Borough of Bromley","lat":51.406,"lon":0.014,"precision":"region","confidence":"high","note":"borough election"}
+{"qid":1210794,"place":"Reykjavík","lat":64.1466,"lon":-21.9426,"precision":"city","confidence":"medium","note":"Iceland traffic switch"}
+{"qid":7691415,"place":"Leeds","lat":53.8008,"lon":-1.5491,"precision":"city","confidence":"high","note":"radio station based in Leeds"}
+{"qid":4553801,"place":"New England","lat":43.9654,"lon":-70.8227,"precision":"region","confidence":"low","note":"snowfall storm in New England"}
+{"qid":14538006,"place":"Eichstätt","lat":48.892,"lon":11.186,"precision":"city","confidence":"high","note":"trials in Eichstatt"}
+{"qid":7639580,"place":"United Kingdom","lat":54.0,"lon":-2.0,"precision":"country","confidence":"medium","note":"UK wealth list"}
+{"qid":3752571,"place":"Huy","lat":50.519,"lon":5.241,"precision":"city","confidence":"high","note":"race finished in Huy"}
+{"qid":16932126,"place":"Maldon, Essex","lat":51.732,"lon":0.677,"precision":"city","confidence":"high","note":"riots in Maldon"}
+{"qid":117428636,"place":"Arkansas","lat":35.201,"lon":-91.8318,"precision":"region","confidence":"low","note":"candidate from Arkansas"}
+{"qid":7697157,"place":"Campeche","lat":19.845,"lon":-90.523,"precision":"city","confidence":"high","note":"broadcaster in Campeche"}
+{"qid":3577286,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"historical period"}
+{"qid":5339123,"place":"Edmonton","lat":53.5461,"lon":-113.4938,"precision":"city","confidence":"high","note":"municipal election"}
+{"qid":131367439,"place":"Republic of Ireland","lat":53.4129,"lon":-8.2439,"precision":"country","confidence":"high","note":"Irish constituency"}
+{"qid":28599104,"place":"Petco Park","lat":32.7073,"lon":-117.1566,"precision":"site","confidence":"high","note":"pool held there"}
+{"qid":133321557,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"high","note":"US college season"}
+{"qid":85769163,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"television play"}
+{"qid":3768836,"place":"Como","lat":45.8081,"lon":9.0852,"precision":"city","confidence":"high","note":"race finish"}
+{"qid":65589401,"place":"Philippines","lat":12.8797,"lon":121.774,"precision":"country","confidence":"low","note":"storm path"}
+{"qid":39055133,"place":"South Carolina","lat":33.8361,"lon":-81.1637,"precision":"region","confidence":"high","note":"state result"}

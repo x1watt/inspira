@@ -1,0 +1,50 @@
+{"qid":7405685,"place":"Luxembourg City","lat":49.6116,"lon":6.1319,"precision":"city","confidence":"high","note":"held in Luxembourg"}
+{"qid":6310552,"place":"Argentina","lat":-38.4161,"lon":-63.6167,"precision":"country","confidence":"high","note":"central Argentina"}
+{"qid":7891376,"place":"Alaska","lat":64.2,"lon":-149.5,"precision":"region","confidence":"high","note":"state election"}
+{"qid":5247271,"place":"St. Stephen's Cathedral, Vienna","lat":48.2085,"lon":16.3733,"precision":"site","confidence":"medium","note":"funeral in Vienna"}
+{"qid":5683814,"place":"London Borough of Havering","lat":51.5779,"lon":0.212,"precision":"region","confidence":"high","note":"borough"}
+{"qid":137798854,"place":"Barnsley","lat":53.5526,"lon":-1.4797,"precision":"city","confidence":"high","note":"borough"}
+{"qid":16944422,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"fossil eggs"}
+{"qid":133480921,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"rugby competition"}
+{"qid":124010039,"place":"Huy","lat":50.519,"lon":5.24,"precision":"city","confidence":"high","note":"race start and finish"}
+{"qid":30636878,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"circuit season"}
+{"qid":21070545,"place":"Abu Dhabi","lat":24.4539,"lon":54.3773,"precision":"city","confidence":"high","note":"race in Abu Dhabi"}
+{"qid":136175038,"place":"Ryukyu Islands","lat":26.5,"lon":128.0,"precision":"region","confidence":"low","note":"affected Ryukyus"}
+{"qid":11580690,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"banknote"}
+{"qid":53542766,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"song"}
+{"qid":137298228,"place":"Newcastle upon Tyne","lat":54.9783,"lon":-1.6178,"precision":"city","confidence":"high","note":"city council"}
+{"qid":2425952,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"multi-venue ties"}
+{"qid":48854755,"place":"Ghent","lat":51.0543,"lon":3.7174,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":7404371,"place":"Salford","lat":53.4875,"lon":-2.2901,"precision":"city","confidence":"high","note":"city council"}
+{"qid":190820,"place":"Texas","lat":31.0,"lon":-99.0,"precision":"region","confidence":"high","note":"South Texas floods"}
+{"qid":7162432,"place":"Pendle","lat":53.86,"lon":-2.21,"precision":"region","confidence":"high","note":"borough"}
+{"qid":7593345,"place":"St Helens, Merseyside","lat":53.454,"lon":-2.737,"precision":"city","confidence":"high","note":"borough"}
+{"qid":85759311,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"championship series"}
+{"qid":16944323,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"prize"}
+{"qid":54869787,"place":"Inverclyde","lat":55.93,"lon":-4.77,"precision":"region","confidence":"high","note":"council area"}
+{"qid":131198500,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"venue unknown"}
+{"qid":111032432,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"sanctions"}
+{"qid":7752655,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"TV special"}
+{"qid":7892065,"place":"Vermont","lat":44.0,"lon":-72.7,"precision":"region","confidence":"high","note":"state election"}
+{"qid":1077322,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"timeline"}
+{"qid":600750,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"tram model"}
+{"qid":12028851,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"bus model"}
+{"qid":1751959,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"multi-venue ties"}
+{"qid":19365855,"place":"İzmir","lat":38.4237,"lon":27.1428,"precision":"city","confidence":"high","note":"Mediterranean Games"}
+{"qid":667312,"place":"Klagenfurt","lat":46.6247,"lon":14.3053,"precision":"city","confidence":"medium","note":"Landtag seat"}
+{"qid":140332253,"place":"Kolkata","lat":22.5726,"lon":88.3639,"precision":"city","confidence":"high","note":"party base"}
+{"qid":113590079,"place":"Münster","lat":51.9607,"lon":7.6261,"precision":"city","confidence":"high","note":"race city"}
+{"qid":115739532,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"anime series"}
+{"qid":18510748,"place":"Ghent","lat":51.0543,"lon":3.7174,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":1321791,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"UN year"}
+{"qid":126737318,"place":"Geelong","lat":-38.1499,"lon":144.3617,"precision":"city","confidence":"high","note":"race in Geelong"}
+{"qid":7243962,"place":"Prince Edward Island","lat":46.5107,"lon":-63.4168,"precision":"region","confidence":"high","note":"colonial currency"}
+{"qid":48997720,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"medium","note":"series hosted in Germany"}
+{"qid":54866846,"place":"Royal Borough of Greenwich","lat":51.4892,"lon":0.0648,"precision":"region","confidence":"high","note":"borough"}
+{"qid":1980163,"place":"Flanders","lat":51.0,"lon":4.0,"precision":"region","confidence":"medium","note":"Belgian race"}
+{"qid":30687003,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"novel series"}
+{"qid":2487925,"place":"Madrid","lat":40.4168,"lon":-3.7038,"precision":"city","confidence":"medium","note":"proposed in Madrid"}
+{"qid":2068788,"place":"Valletta","lat":35.8989,"lon":14.5146,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":65051899,"place":"Štark Arena","lat":44.8147,"lon":20.4186,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":3366504,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"medium","note":"French party"}
+{"qid":3996490,"place":"Japan","lat":36.2048,"lon":138.2529,"precision":"country","confidence":"low","note":"first match in Japan"}

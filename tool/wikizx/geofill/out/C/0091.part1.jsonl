@@ -1,0 +1,50 @@
+{"qid":6303986,"place":"Beirut","lat":33.8938,"lon":35.5018,"precision":"city","confidence":"high","note":"judo in Beirut"}
+{"qid":7147897,"place":"Cuba","lat":21.5218,"lon":-77.7812,"precision":"country","confidence":"low","note":"made landfall in Cuba"}
+{"qid":19826134,"place":"Trentino","lat":46.07,"lon":11.12,"precision":"region","confidence":"high","note":"race in Trentino"}
+{"qid":7686049,"place":"Tarija","lat":-21.5355,"lon":-64.7296,"precision":"city","confidence":"medium","note":"referendum in Tarija Department"}
+{"qid":30634252,"place":"Funchal","lat":32.6669,"lon":-16.9241,"precision":"city","confidence":"medium","note":"Madeira capital"}
+{"qid":141287429,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"multi-country league"}
+{"qid":3821190,"place":"Buenos Aires","lat":-34.6037,"lon":-58.3816,"precision":"city","confidence":"medium","note":"Argentine magazine"}
+{"qid":16153434,"place":"London","lat":51.5072,"lon":-0.1276,"precision":"city","confidence":"high","note":"held in United Kingdom"}
+{"qid":5020861,"place":"California","lat":36.7783,"lon":-119.4179,"precision":"region","confidence":"high","note":"state amendment"}
+{"qid":7398633,"place":"Geneva","lat":46.2044,"lon":6.1432,"precision":"city","confidence":"low","note":"ILO conference"}
+{"qid":7893109,"place":"Vermont","lat":44.5588,"lon":-72.5778,"precision":"region","confidence":"high","note":"state election"}
+{"qid":17081792,"place":"Brčko District","lat":44.87,"lon":18.81,"precision":"region","confidence":"high","note":"supervisor of Brčko"}
+{"qid":28402501,"place":"South Dakota","lat":44.2998,"lon":-99.4388,"precision":"region","confidence":"high","note":"state election"}
+{"qid":486678,"place":"Guangzhou","lat":23.1291,"lon":113.2644,"precision":"city","confidence":"high","note":"2010 Asian Games"}
+{"qid":7532624,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"low","note":"company based in New York"}
+{"qid":3139324,"place":"Toledo, Spain","lat":39.8628,"lon":-4.0273,"precision":"city","confidence":"high","note":"council in Toledo"}
+{"qid":132175142,"place":"Waco, Texas","lat":31.5493,"lon":-97.1467,"precision":"city","confidence":"high","note":"tornado struck Waco"}
+{"qid":19279680,"place":"Malta","lat":35.9375,"lon":14.3754,"precision":"country","confidence":"medium","note":"sank off Malta"}
+{"qid":1060135,"place":"Kiel","lat":54.3233,"lon":10.1228,"precision":"city","confidence":"high","note":"built in Kiel"}
+{"qid":4593974,"place":"Joseph P. Riley Jr. Park","lat":32.7914,"lon":-79.9617,"precision":"site","confidence":"high","note":"tournament venue Charleston"}
+{"qid":97999616,"place":"Vietnam","lat":14.0583,"lon":108.2772,"precision":"country","confidence":"low","note":"impacted Vietnam"}
+{"qid":4577864,"place":"Damascus","lat":33.5138,"lon":36.2765,"precision":"city","confidence":"high","note":"held in Damascus"}
+{"qid":7987737,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"comic series"}
+{"qid":27827582,"place":"Romandie","lat":46.6,"lon":6.6,"precision":"region","confidence":"high","note":"race in Romandy"}
+{"qid":4666933,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"film series"}
+{"qid":48817047,"place":"Sudan","lat":12.8628,"lon":30.2176,"precision":"country","confidence":"high","note":"national league"}
+{"qid":21193661,"place":"Florida Panhandle","lat":30.5,"lon":-85.5,"precision":"region","confidence":"high","note":"railroad in Panhandle"}
+{"qid":13575189,"place":"Sudan","lat":12.8628,"lon":30.2176,"precision":"country","confidence":"high","note":"national league"}
+{"qid":16826790,"place":"Santo Domingo","lat":18.4861,"lon":-69.9312,"precision":"city","confidence":"high","note":"Pan American Games"}
+{"qid":7362604,"place":"Bucharest","lat":44.4268,"lon":26.1025,"precision":"city","confidence":"medium","note":"Romanian capital"}
+{"qid":113487169,"place":"Ukraine","lat":48.3794,"lon":31.1656,"precision":"country","confidence":"high","note":"resistance in Ukraine"}
+{"qid":7891435,"place":"Connecticut","lat":41.6032,"lon":-73.0877,"precision":"region","confidence":"high","note":"state election"}
+{"qid":135466995,"place":"Warwick District","lat":52.28,"lon":-1.58,"precision":"region","confidence":"high","note":"district council election"}
+{"qid":130711711,"place":"Canada","lat":56.1304,"lon":-106.3468,"precision":"country","confidence":"high","note":"national census"}
+{"qid":4863840,"place":"Barrow-in-Furness","lat":54.1108,"lon":-3.2261,"precision":"city","confidence":"high","note":"borough council election"}
+{"qid":7566482,"place":"South Cambridgeshire","lat":52.15,"lon":0.05,"precision":"region","confidence":"high","note":"district council election"}
+{"qid":13233160,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"video game"}
+{"qid":7891384,"place":"Arizona","lat":34.0489,"lon":-111.0937,"precision":"region","confidence":"high","note":"state election"}
+{"qid":116179019,"place":"Korakuen Hall","lat":35.7058,"lon":139.7519,"precision":"site","confidence":"high","note":"event venue"}
+{"qid":107612866,"place":"Beijing","lat":39.9042,"lon":116.4074,"precision":"city","confidence":"medium","note":"trial in China"}
+{"qid":5155154,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"comic series"}
+{"qid":50161740,"place":"Sweden","lat":60.1282,"lon":18.6435,"precision":"country","confidence":"high","note":"started in Sweden"}
+{"qid":55316365,"place":"Alabama","lat":32.8067,"lon":-86.7911,"precision":"region","confidence":"high","note":"state election"}
+{"qid":3587184,"place":"Kingston, Jamaica","lat":17.9712,"lon":-76.7936,"precision":"city","confidence":"medium","note":"Jamaica capital"}
+{"qid":28222334,"place":"Oregon","lat":43.8041,"lon":-120.5542,"precision":"region","confidence":"high","note":"state election"}
+{"qid":2392712,"place":"United Nations Headquarters","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"high","note":"held at UN Headquarters"}
+{"qid":4604992,"place":"Karl-Liebknecht-Stadion","lat":52.3893,"lon":13.0885,"precision":"site","confidence":"high","note":"final venue Potsdam"}
+{"qid":141301866,"place":"Papua New Guinea","lat":-6.315,"lon":143.9555,"precision":"country","confidence":"high","note":"national league"}
+{"qid":20035564,"place":"Luxembourg","lat":49.8153,"lon":6.1296,"precision":"country","confidence":"high","note":"national stage race"}
+{"qid":29094902,"place":"Massachusetts","lat":42.4072,"lon":-71.3824,"precision":"region","confidence":"high","note":"state election"}
