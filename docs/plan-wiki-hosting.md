@@ -81,6 +81,37 @@ The app reads `https://huggingface.co/datasets/USER/inspira-wikipedia/resolve/ma
 Pinning a revision (`resolve/<commit>/...`) instead of `main` keeps a
 session on one version while a new one is uploaded.
 
+**Published** (2026-10-16): https://huggingface.co/datasets/maxbrito/inspira-wikipedia
+holds `en_mini.zx`, `geo.zx`, their manifests and the dataset card
+(`tool/wikizx/scripts/publish_hf.sh`; 4.2 GB at about 3 MiB/s).
+
+**Measured in a browser** (headless Chromium here in Germany, zx
+`tool/web_check/remote_bench.sh`, the four test questions: 20 facts of a
+day, a title through its index, the count of the links to it, a lead):
+
+| Run | Requests | Bytes | Cold, all four |
+|---|---|---|---|
+| 64 KiB blocks, CDN cold (first ever read) | 33 | 4.1 MiB | 21.9 s |
+| 1 MiB blocks | 25 | 29 MiB | 15.2 s |
+| 256 KiB blocks | 30 | 9.5 MiB | 12.5 s |
+| 64 KiB blocks, CDN warm | 33 | 4.1 MiB | 13.0 s |
+
+Opening takes 2 requests (1.5 to 3 s); warm questions take 1 ms. The
+signed CDN URL answers a 4 KiB range in about 0.7 s and a 4 MiB range in
+about 1.0 s (first byte after 0.17 s, then the CDN of Hugging Face's Xet
+storage assembles the range), 0.35 s when the CDN has the range already.
+So the cost is the number of requests made one after another (about 10
+per cold question, one per level of the trees it walks), not the bytes:
+block size barely matters, a CDN warmed by earlier readers helps (40%).
+
+Next, to bring a cold question near one second: (1) a warm set, the
+byte ranges the app's questions always touch first (roots and upper
+levels of the indexes, the day table), recorded once and listed in the
+manifest, fetched in parallel when the database opens; (2) the web
+database of section 5 with bigger pages (fewer tree levels); (3) parallel
+range requests for the leaves a query will read (needs an asynchronous
+step before the synchronous query in the zx engine).
+
 Sections 3 and 7 describe the GitHub Pages layout, kept as the fallback:
 moving there only changes the manifest's URLs.
 
