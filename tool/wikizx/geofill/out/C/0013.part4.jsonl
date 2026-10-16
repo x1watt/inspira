@@ -1,0 +1,50 @@
+{"qid":20312016,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":1345835,"place":"Washington, D.C.","lat":38.8899,"lon":-77.0091,"precision":"city","confidence":"medium","note":"US Supreme Court"}
+{"qid":60525170,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":2052512,"place":"United Kingdom","lat":54.0,"lon":-2.0,"precision":"country","confidence":"medium","note":"nationwide"}
+{"qid":7094962,"place":"Toronto","lat":43.6532,"lon":-79.3832,"precision":"city","confidence":"medium","note":"provincial capital"}
+{"qid":2297120,"place":"Baghdad","lat":33.3152,"lon":44.3661,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":429958,"place":"Athens","lat":37.9838,"lon":23.7275,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":5164223,"place":"Karachi","lat":24.8607,"lon":67.0011,"precision":"city","confidence":"high","note":"Sindh Assembly Building"}
+{"qid":597494,"place":"Artashat","lat":39.9553,"lon":44.5456,"precision":"city","confidence":"medium","note":"dynasty founding capital"}
+{"qid":3586886,"place":"Canberra","lat":-35.2809,"lon":149.13,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":16948747,"place":"Kyiv","lat":50.4501,"lon":30.5234,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":131277259,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":""}
+{"qid":2815754,"place":"Ottawa","lat":45.4236,"lon":-75.7009,"precision":"city","confidence":"medium","note":"Parliament seat"}
+{"qid":3586388,"place":"Toronto","lat":43.6532,"lon":-79.3832,"precision":"city","confidence":"medium","note":"provincial capital"}
+{"qid":384895,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"medium","note":"race finish"}
+{"qid":96175652,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":""}
+{"qid":31351948,"place":"Manila","lat":14.5995,"lon":120.9842,"precision":"city","confidence":"high","note":"capital"}
+{"qid":954879,"place":"Salamanca","lat":40.9701,"lon":-5.6635,"precision":"city","confidence":"low","note":"Spanish baroque style"}
+{"qid":115632366,"place":"Jerusalem","lat":31.7683,"lon":35.2137,"precision":"city","confidence":"medium","note":"Knesset seat"}
+{"qid":542945,"place":"Czechoslovakia","lat":49.8175,"lon":15.473,"precision":"country","confidence":"medium","note":"Sudetenland expulsions"}
+{"qid":2293292,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":139274,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":""}
+{"qid":3076763,"place":"Sevres","lat":48.8236,"lon":2.21,"precision":"city","confidence":"medium","note":"BIPM based nearby"}
+{"qid":915911,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"medium","note":"race finish"}
+{"qid":1371583,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":""}
+{"qid":363958,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"medium","note":"IMF headquarters"}
+{"qid":830097,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"medium","note":"race finish"}
+{"qid":25296,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":847615,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"medium","note":"race finish"}
+{"qid":19864385,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":102350982,"place":"Tbilisi","lat":41.7151,"lon":44.8271,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":3586318,"place":"Winnipeg","lat":49.8951,"lon":-97.1384,"precision":"city","confidence":"medium","note":"provincial capital"}
+{"qid":2332247,"place":"Naples","lat":40.8518,"lon":14.2681,"precision":"city","confidence":"medium","note":"race start"}
+{"qid":910171,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"medium","note":"race finish"}
+{"qid":5164233,"place":"Columbia, South Carolina","lat":34.0007,"lon":-81.0348,"precision":"city","confidence":"medium","note":"state capital"}
+{"qid":20983901,"place":"Singapore","lat":1.3521,"lon":103.8198,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":1341352,"place":"Los Angeles","lat":34.0522,"lon":-118.2437,"precision":"city","confidence":"low","note":"show production"}
+{"qid":748015,"place":"Santiago","lat":-33.4489,"lon":-70.6693,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":917709,"place":"Beijing","lat":39.9042,"lon":116.4074,"precision":"city","confidence":"medium","note":"imperial court"}
+{"qid":20312076,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":19630557,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":6540678,"place":"Wellington","lat":-41.2866,"lon":174.7756,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":20312071,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":19877260,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":7500826,"place":"Santo Domingo","lat":18.4861,"lon":-69.9312,"precision":"city","confidence":"high","note":"host city"}
+{"qid":7980047,"place":"Rio de Janeiro","lat":-22.9068,"lon":-43.1729,"precision":"city","confidence":"high","note":"host city"}
+{"qid":24000518,"place":"Seoul","lat":37.5665,"lon":126.978,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":19429005,"place":"Evansville, Indiana","lat":37.9716,"lon":-87.5711,"precision":"city","confidence":"high","note":"finals site"}
+{"qid":623873,"place":"Baikonur Cosmodrome","lat":45.965,"lon":63.305,"precision":"site","confidence":"high","note":"launch site"}
+{"qid":731768,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"high","note":"final round"}

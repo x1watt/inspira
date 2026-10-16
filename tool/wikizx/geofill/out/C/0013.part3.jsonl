@@ -1,0 +1,50 @@
+{"qid":1837640,"place":"Mexico City","lat":19.4326,"lon":-99.1332,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":4570375,"place":"Fenway Park","lat":42.3467,"lon":-71.0972,"precision":"site","confidence":"high","note":"venue"}
+{"qid":20714380,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":202051,"place":"Los Angeles","lat":34.0522,"lon":-118.2437,"precision":"city","confidence":"medium","note":"AMPAS ceremony"}
+{"qid":374222,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"medium","note":"race finish"}
+{"qid":1236678,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":""}
+{"qid":8469,"place":"Kabul","lat":34.5553,"lon":69.2075,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":1474763,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"medium","note":"French film movement"}
+{"qid":425755,"place":"Philadelphia","lat":39.9526,"lon":-75.1652,"precision":"city","confidence":"medium","note":"Budd Company base"}
+{"qid":111737759,"place":"Cortina d'Ampezzo","lat":46.5405,"lon":12.1357,"precision":"city","confidence":"high","note":"venue town"}
+{"qid":654890,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"medium","note":"race finish"}
+{"qid":2477700,"place":"The Hague","lat":52.0705,"lon":4.3007,"precision":"city","confidence":"medium","note":"government seat"}
+{"qid":608649,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"medium","note":"race finish"}
+{"qid":109876556,"place":"Almada","lat":38.679,"lon":-9.1569,"precision":"city","confidence":"high","note":"venue city"}
+{"qid":839757,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":""}
+{"qid":203441,"place":"Yerevan","lat":40.1792,"lon":44.5086,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":70213529,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":20311994,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":391398,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":""}
+{"qid":6750184,"place":"Winnipeg","lat":49.8951,"lon":-97.1384,"precision":"city","confidence":"medium","note":"provincial capital"}
+{"qid":19630325,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":20714349,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":16957453,"place":"Wellington","lat":-41.2866,"lon":174.7756,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":1139479,"place":"Skopje","lat":41.9981,"lon":21.4254,"precision":"city","confidence":"low","note":"dispute capital"}
+{"qid":2302218,"place":"Stockholm","lat":59.3293,"lon":18.0686,"precision":"city","confidence":"medium","note":"final in Stockholm"}
+{"qid":16248742,"place":"La Silla Observatory","lat":-29.2567,"lon":-70.738,"precision":"site","confidence":"medium","note":"ESO telescope"}
+{"qid":1129306,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":11186225,"place":"Cali","lat":3.4516,"lon":-76.532,"precision":"city","confidence":"high","note":"host city"}
+{"qid":835582,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"medium","note":"race finish"}
+{"qid":19864451,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":116186012,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":""}
+{"qid":1070623,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":""}
+{"qid":6362591,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":""}
+{"qid":19864425,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":1154781,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":""}
+{"qid":4824505,"place":"Australia","lat":-25.2744,"lon":133.7751,"precision":"country","confidence":"low","note":"national film era"}
+{"qid":3951984,"place":"Mar del Plata","lat":-38.0055,"lon":-57.5426,"precision":"city","confidence":"high","note":"host city"}
+{"qid":1638103,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"medium","note":"ceremony in UK"}
+{"qid":13584039,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"medium","note":"US Marshals program"}
+{"qid":133255808,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":""}
+{"qid":45664,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"medium","note":"race finish"}
+{"qid":3951946,"place":"Havana","lat":23.1136,"lon":-82.3666,"precision":"city","confidence":"high","note":"host city"}
+{"qid":153867,"place":"Vienna","lat":48.2082,"lon":16.3738,"precision":"city","confidence":"high","note":"signed in Vienna"}
+{"qid":698323,"place":"North Korea","lat":40.3399,"lon":127.5101,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":277787,"place":"Jerusalem","lat":31.7683,"lon":35.2137,"precision":"city","confidence":"high","note":"award location"}
+{"qid":6372881,"place":"Bengaluru","lat":12.9716,"lon":77.5946,"precision":"city","confidence":"low","note":"state capital"}
+{"qid":130372792,"place":"Rajgir","lat":25.0278,"lon":85.4208,"precision":"city","confidence":"high","note":"host venue town"}
+{"qid":3304490,"place":"Cardiff","lat":51.4816,"lon":-3.1791,"precision":"city","confidence":"medium","note":"Welsh seat"}
+{"qid":2562399,"place":"Belfast","lat":54.5973,"lon":-5.9301,"precision":"city","confidence":"medium","note":"Stormont"}
+{"qid":4761543,"place":"Prague","lat":50.0755,"lon":14.4378,"precision":"city","confidence":"medium","note":"Czech awards"}

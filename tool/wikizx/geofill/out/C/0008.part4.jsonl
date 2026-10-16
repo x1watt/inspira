@@ -1,0 +1,50 @@
+{"qid":24038800,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"naval rank"}
+{"qid":2337549,"place":"Ireland","lat":53.4129,"lon":-8.2439,"precision":"country","confidence":"medium","note":"state of emergency in Ireland"}
+{"qid":1376149,"place":"France","lat":46.2276,"lon":2.2137,"precision":"country","confidence":"medium","note":"nationwide election"}
+{"qid":7888142,"place":"United Kingdom","lat":55.3781,"lon":-3.436,"precision":"country","confidence":"medium","note":"nationwide elections"}
+{"qid":2305078,"place":"Tirana","lat":41.3275,"lon":19.8187,"precision":"city","confidence":"medium","note":"adopted by Parliament"}
+{"qid":1417957,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"US Army project"}
+{"qid":4573643,"place":"Los Angeles Memorial Coliseum","lat":34.0141,"lon":-118.2879,"precision":"site","confidence":"medium","note":"played there"}
+{"qid":1194036,"place":"Tokyo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"medium","note":"Japanese magazine publisher"}
+{"qid":20312199,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"football honors list"}
+{"qid":106625072,"place":"Netherlands","lat":52.1326,"lon":5.2913,"precision":"country","confidence":"medium","note":"nationwide election"}
+{"qid":630018,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"medium","note":"German media award"}
+{"qid":4571199,"place":"Los Angeles Memorial Coliseum","lat":34.0141,"lon":-118.2879,"precision":"site","confidence":"medium","note":"played there"}
+{"qid":698106,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"nationwide election"}
+{"qid":4582495,"place":"Aloha Stadium","lat":21.3731,"lon":-157.94,"precision":"site","confidence":"high","note":"played there"}
+{"qid":26878348,"place":"Spain","lat":40.4637,"lon":-3.7492,"precision":"country","confidence":"medium","note":"race in Spain"}
+{"qid":17068140,"place":"Myanmar","lat":21.9162,"lon":95.956,"precision":"country","confidence":"medium","note":"nationwide election"}
+{"qid":686507,"place":"Rogers Arena","lat":49.2778,"lon":-123.1089,"precision":"site","confidence":"medium","note":"Game 7 clinched in Vancouver"}
+{"qid":85871094,"place":"Abu Dhabi","lat":24.4539,"lon":54.3773,"precision":"city","confidence":"high","note":"held in Abu Dhabi"}
+{"qid":28405034,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"nationwide election"}
+{"qid":131394556,"place":"Docklands Stadium","lat":-37.8165,"lon":144.9475,"precision":"site","confidence":"medium","note":"Marvel Stadium venue"}
+{"qid":6750187,"place":"Manitoba","lat":55.0,"lon":-97.0,"precision":"region","confidence":"medium","note":"provincial election"}
+{"qid":3298331,"place":"Progressive Field","lat":41.4962,"lon":-81.6852,"precision":"site","confidence":"high","note":"venue Jacobs Field"}
+{"qid":7566207,"place":"South Australia","lat":-30.0002,"lon":136.2092,"precision":"region","confidence":"medium","note":"state election"}
+{"qid":48745918,"place":"Abu Dhabi","lat":24.4539,"lon":54.3773,"precision":"city","confidence":"high","note":"held in Abu Dhabi"}
+{"qid":643108,"place":"France","lat":46.2276,"lon":2.2137,"precision":"country","confidence":"medium","note":"race held in France"}
+{"qid":56322905,"place":"Hohhot","lat":40.8424,"lon":111.749,"precision":"city","confidence":"high","note":"held in Hohhot"}
+{"qid":106817813,"place":"Tashkent","lat":41.2995,"lon":69.2401,"precision":"city","confidence":"high","note":"held in Tashkent"}
+{"qid":3586296,"place":"Alberta","lat":53.9333,"lon":-116.5765,"precision":"region","confidence":"medium","note":"provincial election"}
+{"qid":41246,"place":"Peru","lat":-9.19,"lon":-75.0152,"precision":"country","confidence":"medium","note":"nationwide election"}
+{"qid":42317185,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"worldwide cycling series"}
+{"qid":9062647,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"nationwide primaries"}
+{"qid":4580592,"place":"Aloha Stadium","lat":21.3731,"lon":-157.94,"precision":"site","confidence":"high","note":"played there"}
+{"qid":4591642,"place":"Aloha Stadium","lat":21.3731,"lon":-157.94,"precision":"site","confidence":"high","note":"played there"}
+{"qid":6750186,"place":"Manitoba","lat":55.0,"lon":-97.0,"precision":"region","confidence":"medium","note":"provincial election"}
+{"qid":5098798,"place":"Lima","lat":-12.0464,"lon":-77.0428,"precision":"city","confidence":"medium","note":"occupied capital, defining moment"}
+{"qid":30933260,"place":"Yekaterinburg","lat":56.8389,"lon":60.6057,"precision":"city","confidence":"high","note":"held in Ekaterinburg"}
+{"qid":28685730,"place":"Abu Dhabi","lat":24.4539,"lon":54.3773,"precision":"city","confidence":"high","note":"held in Abu Dhabi"}
+{"qid":56477486,"place":"Abu Dhabi","lat":24.4539,"lon":54.3773,"precision":"city","confidence":"high","note":"held in Abu Dhabi"}
+{"qid":392376,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"type of school"}
+{"qid":20312137,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"football honors list"}
+{"qid":1730452,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"national census"}
+{"qid":4575688,"place":"Irving, Texas","lat":32.814,"lon":-96.9489,"precision":"city","confidence":"medium","note":"played at Texas Stadium"}
+{"qid":3586302,"place":"Alberta","lat":53.9333,"lon":-116.5765,"precision":"region","confidence":"medium","note":"provincial election"}
+{"qid":22095182,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"football honors list"}
+{"qid":188519,"place":"Nile Delta","lat":30.9,"lon":31.0,"precision":"region","confidence":"medium","note":"script from Nile Delta"}
+{"qid":136586,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"dinosaur clade"}
+{"qid":470446,"place":"Sarajevo","lat":43.8563,"lon":18.4131,"precision":"city","confidence":"high","note":"OHR based in Sarajevo"}
+{"qid":29185,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"multi-country qualifying"}
+{"qid":656660,"place":"United States Supreme Court Building","lat":38.8905,"lon":-77.0044,"precision":"site","confidence":"medium","note":"Supreme Court decision"}
+{"qid":633629,"place":"Brussels","lat":50.8503,"lon":4.3517,"precision":"city","confidence":"medium","note":"constitution of Belgium"}

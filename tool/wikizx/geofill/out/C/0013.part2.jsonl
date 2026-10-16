@@ -1,0 +1,50 @@
+{"qid":6510981,"place":"Beirut","lat":33.8938,"lon":35.5018,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":1638557,"place":"Pass Christian, Mississippi","lat":30.3157,"lon":-89.2476,"precision":"city","confidence":"medium","note":"landfall area"}
+{"qid":3968223,"place":"Raleigh, North Carolina","lat":35.7796,"lon":-78.6382,"precision":"city","confidence":"medium","note":"Game 7 host"}
+{"qid":27628424,"place":"Azaz","lat":36.5886,"lon":37.0467,"precision":"city","confidence":"low","note":"occupied northern Syria"}
+{"qid":10843916,"place":"Singapore","lat":1.3521,"lon":103.8198,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":24909108,"place":"Jerusalem","lat":31.7683,"lon":35.2137,"precision":"city","confidence":"medium","note":"Knesset seat"}
+{"qid":1142572,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":3586889,"place":"Canberra","lat":-35.2809,"lon":149.13,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":3879748,"place":"Indianapolis, Indiana","lat":39.7684,"lon":-86.1581,"precision":"city","confidence":"high","note":"host city"}
+{"qid":3433694,"place":"Tripoli, Libya","lat":32.8872,"lon":13.1913,"precision":"city","confidence":"medium","note":"colony capital"}
+{"qid":7549947,"place":"Santo Domingo","lat":18.4861,"lon":-69.9312,"precision":"city","confidence":"medium","note":"Dominican awards"}
+{"qid":29337,"place":"Berlin","lat":52.52,"lon":13.405,"precision":"city","confidence":"medium","note":"Reichstag seat"}
+{"qid":3532241,"place":"New Delhi","lat":28.6139,"lon":77.209,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":3586413,"place":"Quebec City","lat":46.8139,"lon":-71.208,"precision":"city","confidence":"medium","note":"provincial capital"}
+{"qid":28454325,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":28223451,"place":"Tashkent","lat":41.2995,"lon":69.2401,"precision":"city","confidence":"high","note":"venue city"}
+{"qid":134604111,"place":"Apia","lat":-13.8333,"lon":-171.7667,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":48839758,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":3586387,"place":"Toronto","lat":43.6532,"lon":-79.3832,"precision":"city","confidence":"medium","note":"provincial capital"}
+{"qid":5450861,"place":"Helsinki","lat":60.1699,"lon":24.9384,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":4564735,"place":"Los Angeles","lat":34.0522,"lon":-118.2437,"precision":"city","confidence":"medium","note":"game in Los Angeles"}
+{"qid":106624146,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":""}
+{"qid":4577721,"place":"Philadelphia","lat":39.9526,"lon":-75.1652,"precision":"city","confidence":"medium","note":"Game 6 host"}
+{"qid":20311987,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":110589492,"place":"Almaty","lat":43.222,"lon":76.8512,"precision":"city","confidence":"high","note":"venue city"}
+{"qid":20311535,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":3586280,"place":"Edmonton","lat":53.5461,"lon":-113.4938,"precision":"city","confidence":"medium","note":"provincial capital"}
+{"qid":1500702,"place":"Mogollon Mountains","lat":33.3,"lon":-108.5,"precision":"region","confidence":"low","note":"culture region"}
+{"qid":117244790,"place":"Guadalajara","lat":20.6597,"lon":-103.3496,"precision":"city","confidence":"medium","note":"team event host"}
+{"qid":35530,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":202595,"place":"Greece","lat":39.0742,"lon":21.8243,"precision":"country","confidence":"medium","note":"country divisions"}
+{"qid":17016895,"place":"Prague","lat":50.0755,"lon":14.4378,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":112085992,"place":"Konya","lat":37.8746,"lon":32.4932,"precision":"city","confidence":"high","note":"host city"}
+{"qid":216572,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":112872244,"place":"Belgrade","lat":44.7866,"lon":20.4489,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":1510853,"place":"Stoke Mandeville","lat":51.796,"lon":-0.812,"precision":"city","confidence":"medium","note":"main host site"}
+{"qid":1661958,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"medium","note":"planning centre"}
+{"qid":5895324,"place":"Hong Kong","lat":22.3193,"lon":114.1694,"precision":"region","confidence":"medium","note":"territory"}
+{"qid":115964,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":20311527,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":570450,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":916886,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"medium","note":"race finish"}
+{"qid":556715,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":3586320,"place":"Winnipeg","lat":49.8951,"lon":-97.1384,"precision":"city","confidence":"medium","note":"provincial capital"}
+{"qid":639587,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"medium","note":"race finish"}
+{"qid":206392,"place":"Palm Beach County, Florida","lat":26.65,"lon":-80.27,"precision":"region","confidence":"medium","note":"landfall area"}
+{"qid":833232,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"medium","note":"race finish"}
+{"qid":110584099,"place":"Jeju City","lat":33.4996,"lon":126.5312,"precision":"city","confidence":"high","note":"venue city"}
+{"qid":19953535,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":24952085,"place":"Chandigarh","lat":30.7333,"lon":76.7794,"precision":"city","confidence":"medium","note":"capital"}
