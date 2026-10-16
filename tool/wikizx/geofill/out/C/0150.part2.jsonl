@@ -1,0 +1,50 @@
+{"qid":1483415,"place":"Switzerland","lat":46.8182,"lon":8.2275,"precision":"country","confidence":"high","note":"Swiss race"}
+{"qid":137844236,"place":"London Borough of Waltham Forest","lat":51.5908,"lon":-0.0134,"precision":"region","confidence":"high","note":"borough council"}
+{"qid":6519261,"place":"Leicestershire","lat":52.65,"lon":-1.1,"precision":"region","confidence":"high","note":"county council"}
+{"qid":60528009,"place":"Sachsenhausen, Frankfurt","lat":50.1056,"lon":8.6792,"precision":"city","confidence":"medium","note":"election at Sachsenhausen"}
+{"qid":17077536,"place":"Madagascar","lat":-18.7669,"lon":46.8691,"precision":"country","confidence":"high","note":"flooding in Madagascar"}
+{"qid":5198858,"place":"India","lat":20.5937,"lon":78.9629,"precision":"country","confidence":"low","note":"Arabian Sea cyclone"}
+{"qid":3996097,"place":"Zurich","lat":47.3769,"lon":8.5417,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":15851287,"place":"Baden, Switzerland","lat":47.4733,"lon":8.3064,"precision":"city","confidence":"medium","note":"race start"}
+{"qid":16024457,"place":"Aix-les-Bains","lat":45.6885,"lon":5.9154,"precision":"city","confidence":"medium","note":"race start"}
+{"qid":2834148,"place":"Ecuador","lat":-1.8312,"lon":-78.1834,"precision":"country","confidence":"high","note":"national election"}
+{"qid":126178502,"place":"South Africa","lat":-30.5595,"lon":22.9375,"precision":"country","confidence":"high","note":"tests in South Africa"}
+{"qid":4006288,"place":"Hawaii","lat":19.8968,"lon":-155.5828,"precision":"region","confidence":"high","note":"flooding in Hawaii"}
+{"qid":85724437,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"medium","note":"draft location"}
+{"qid":7891470,"place":"Florida","lat":27.6648,"lon":-81.5158,"precision":"region","confidence":"high","note":"state election"}
+{"qid":4549645,"place":"Kaifeng","lat":34.7972,"lon":114.3075,"precision":"city","confidence":"high","note":"flood around Kaifeng"}
+{"qid":4587601,"place":"Stadio Ennio Tardini","lat":44.795,"lon":10.3383,"precision":"site","confidence":"high","note":"second leg venue"}
+{"qid":19861306,"place":"Nagorno-Karabakh","lat":39.9,"lon":46.8,"precision":"region","confidence":"high","note":"republic election"}
+{"qid":135688841,"place":"Spain","lat":40.4637,"lon":-3.7492,"precision":"country","confidence":"low","note":"mostly Spanish stages"}
+{"qid":137190910,"place":"Blue Earth County, Minnesota","lat":44.0292,"lon":-94.0549,"precision":"region","confidence":"medium","note":"reservation in Blue Earth area"}
+{"qid":96363752,"place":"Ohio","lat":40.4173,"lon":-82.9071,"precision":"region","confidence":"high","note":"state election"}
+{"qid":17008867,"place":"Electoral district of Kavel","lat":-35.0,"lon":138.85,"precision":"region","confidence":"low","note":"by-election seat"}
+{"qid":28180580,"place":"Auckland","lat":-36.8485,"lon":174.7633,"precision":"city","confidence":"medium","note":"capital in 1856"}
+{"qid":12876833,"place":"New Mexico","lat":34.5199,"lon":-105.8701,"precision":"region","confidence":"high","note":"state election"}
+{"qid":17640179,"place":"Lannilis","lat":48.5667,"lon":-4.5167,"precision":"city","confidence":"medium","note":"Tro-Bro Leon area"}
+{"qid":2388508,"place":"Hainan","lat":19.2,"lon":109.7,"precision":"region","confidence":"low","note":"landfall in Hainan"}
+{"qid":4629871,"place":"Fluor Field at the West End","lat":34.8425,"lon":-82.4062,"precision":"site","confidence":"high","note":"tournament venue"}
+{"qid":104842392,"place":"Florida","lat":27.6648,"lon":-81.5158,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7569958,"place":"Midwestern United States","lat":41.5,"lon":-93.0,"precision":"region","confidence":"low","note":"derecho across Midwest"}
+{"qid":104949082,"place":"Iowa","lat":41.878,"lon":-93.0977,"precision":"region","confidence":"high","note":"state election"}
+{"qid":135880340,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"high","note":"German race"}
+{"qid":7986549,"place":"West Somerset","lat":51.15,"lon":-3.4,"precision":"region","confidence":"high","note":"district council"}
+{"qid":27897610,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"high","note":"German federal law"}
+{"qid":902698,"place":"North Korea","lat":40.3399,"lon":127.5101,"precision":"country","confidence":"high","note":"floods in North Korea"}
+{"qid":23582196,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"multi-region expedition"}
+{"qid":9162755,"place":"Sanok","lat":49.5586,"lon":22.2055,"precision":"city","confidence":"medium","note":"Autosan maker"}
+{"qid":624016,"place":"South Korea","lat":35.9078,"lon":127.7669,"precision":"country","confidence":"high","note":"national election"}
+{"qid":2179609,"place":"Schoten","lat":51.25,"lon":4.5,"precision":"city","confidence":"low","note":"Scheldeprijs finish town"}
+{"qid":1154936,"place":"Toledo, Spain","lat":39.8628,"lon":-4.0273,"precision":"city","confidence":"high","note":"council at Toledo"}
+{"qid":16968656,"place":"Dores, Highland","lat":57.383,"lon":-4.3333,"precision":"city","confidence":"medium","note":"festival at Loch Ness"}
+{"qid":3354716,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"campaign across Africa"}
+{"qid":4611930,"place":"Joseph P. Riley Jr. Park","lat":32.7906,"lon":-79.9609,"precision":"site","confidence":"high","note":"tournament venue"}
+{"qid":104949085,"place":"Kansas","lat":38.5266,"lon":-96.7265,"precision":"region","confidence":"high","note":"state election"}
+{"qid":48760402,"place":"Pointe-a-Pitre","lat":16.2411,"lon":-61.5331,"precision":"city","confidence":"medium","note":"close finish in Guadeloupe"}
+{"qid":123367405,"place":"Israel","lat":31.0461,"lon":34.8516,"precision":"country","confidence":"low","note":"Israeli kidnapped by Hamas"}
+{"qid":4999438,"place":"Myanmar","lat":21.9162,"lon":95.956,"precision":"country","confidence":"high","note":"Burma election"}
+{"qid":7318821,"place":"Venezuela","lat":6.4238,"lon":-66.5897,"precision":"country","confidence":"high","note":"Venezuelan party"}
+{"qid":111317993,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"UN mandate"}
+{"qid":8035630,"place":"Mohegan Sun","lat":41.4917,"lon":-72.0933,"precision":"site","confidence":"high","note":"held at Mohegan Sun"}
+{"qid":7098240,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"opinion polling"}
+{"qid":1650099,"place":"Iceland","lat":64.9631,"lon":-19.0208,"precision":"country","confidence":"medium","note":"Icelandic battle"}

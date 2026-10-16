@@ -1,0 +1,50 @@
+{"qid":2452289,"place":"Shannon Airport","lat":52.7019,"lon":-8.9248,"precision":"site","confidence":"high","note":"crashed after takeoff"}
+{"qid":7893064,"place":"Pennsylvania","lat":41.2033,"lon":-77.1945,"precision":"region","confidence":"high","note":"state election"}
+{"qid":27826917,"place":"Abu Dhabi","lat":24.4539,"lon":54.3773,"precision":"city","confidence":"high","note":"Abu Dhabi tour"}
+{"qid":124217471,"place":"Leuven","lat":50.8798,"lon":4.7005,"precision":"city","confidence":"high","note":"race start"}
+{"qid":7406503,"place":"San Salvador","lat":13.6929,"lon":-89.2182,"precision":"city","confidence":"medium","note":"Salvadoran capital"}
+{"qid":20312348,"place":"Brazzaville","lat":-4.2634,"lon":15.2429,"precision":"city","confidence":"medium","note":"Moyen-Congo capital"}
+{"qid":20647126,"place":"Istana Budaya","lat":3.17,"lon":101.71,"precision":"site","confidence":"high","note":"concert venue"}
+{"qid":199003,"place":"Texas","lat":27.5,"lon":-98.5,"precision":"region","confidence":"medium","note":"South Texas landfall"}
+{"qid":104066770,"place":"Piedmont","lat":45.0522,"lon":7.5154,"precision":"region","confidence":"high","note":"Piedmont race"}
+{"qid":116977415,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"medium","note":"Euro 2024 hosted in Germany"}
+{"qid":137544333,"place":"King Saud University Stadium","lat":24.72,"lon":46.62,"precision":"site","confidence":"high","note":"venue Riyadh"}
+{"qid":1595794,"place":"Cologne","lat":50.9375,"lon":6.9603,"precision":"city","confidence":"low","note":"prize awarded in Cologne"}
+{"qid":39072839,"place":"Japan","lat":36.2048,"lon":138.2529,"precision":"country","confidence":"high","note":"struck southern Japan"}
+{"qid":2724902,"place":"Belgium","lat":50.5039,"lon":4.4699,"precision":"country","confidence":"high","note":"Tour of Flanders"}
+{"qid":8035325,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"observance day"}
+{"qid":1788823,"place":"Berlin Palace","lat":52.5175,"lon":13.401,"precision":"site","confidence":"high","note":"met at Stadtschloss"}
+{"qid":20055595,"place":"River Thames","lat":51.47,"lon":-0.23,"precision":"region","confidence":"medium","note":"held on Thames"}
+{"qid":19581445,"place":"Manitoba","lat":53.7609,"lon":-98.8139,"precision":"region","confidence":"high","note":"provincial highway"}
+{"qid":4559338,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"college basketball team"}
+{"qid":124199711,"place":"Norway","lat":60.472,"lon":8.4689,"precision":"country","confidence":"high","note":"Arctic Race of Norway"}
+{"qid":55076621,"place":"Lancaster House","lat":51.5047,"lon":-0.1395,"precision":"site","confidence":"high","note":"held at Lancaster House"}
+{"qid":55602674,"place":"Tokyo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"high","note":"Olympic mascots"}
+{"qid":623946,"place":"Seoul","lat":37.5665,"lon":126.978,"precision":"city","confidence":"medium","note":"National Assembly seat"}
+{"qid":66819336,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"web portal"}
+{"qid":47543572,"place":"Wellington","lat":-41.2866,"lon":174.7756,"precision":"city","confidence":"high","note":"arrested in Wellington"}
+{"qid":5412463,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"high","note":"signed in Paris"}
+{"qid":248618,"place":"Zürich","lat":47.3769,"lon":8.5417,"precision":"city","confidence":"high","note":"stamps issued in Zurich"}
+{"qid":7403384,"place":"Bayonne, New Jersey","lat":40.6687,"lon":-74.1143,"precision":"city","confidence":"medium","note":"De Angelis storage tanks"}
+{"qid":28448913,"place":"Asunción","lat":-25.2637,"lon":-57.5759,"precision":"city","confidence":"medium","note":"final venue"}
+{"qid":131008171,"place":"Prague","lat":50.0755,"lon":14.4378,"precision":"city","confidence":"high","note":"Curling Arena Prague"}
+{"qid":5744855,"place":"Hertsmere","lat":51.67,"lon":-0.27,"precision":"region","confidence":"high","note":"borough council"}
+{"qid":7891880,"place":"Ohio","lat":40.4173,"lon":-82.9071,"precision":"region","confidence":"high","note":"state election"}
+{"qid":39056300,"place":"Barnsley","lat":53.5526,"lon":-1.4797,"precision":"city","confidence":"high","note":"metropolitan borough"}
+{"qid":5598659,"place":"Appalachian Mountains","lat":37.5,"lon":-80.0,"precision":"region","confidence":"medium","note":"storm over Appalachians"}
+{"qid":1269731,"place":"Denmark","lat":56.2639,"lon":9.5018,"precision":"country","confidence":"high","note":"national tour"}
+{"qid":133896394,"place":"Alberta","lat":53.9333,"lon":-116.5765,"precision":"region","confidence":"high","note":"provincial league"}
+{"qid":113589395,"place":"Haacht","lat":50.9744,"lon":4.6361,"precision":"city","confidence":"medium","note":"Primus Classic area"}
+{"qid":133015506,"place":"China","lat":35.8617,"lon":104.1954,"precision":"country","confidence":"low","note":"qualifier hosted in China"}
+{"qid":6793767,"place":"Port Louis","lat":-20.1609,"lon":57.5012,"precision":"city","confidence":"high","note":"violence in Port Louis"}
+{"qid":5339135,"place":"Edmonton","lat":53.5461,"lon":-113.4938,"precision":"city","confidence":"high","note":"municipal election"}
+{"qid":59663914,"place":"Minsk","lat":53.9006,"lon":27.559,"precision":"city","confidence":"medium","note":"Belarusian flight"}
+{"qid":8450514,"place":"California","lat":36.7783,"lon":-119.4179,"precision":"region","confidence":"high","note":"worst for California"}
+{"qid":14957121,"place":"Massachusetts","lat":42.4072,"lon":-71.3824,"precision":"region","confidence":"high","note":"state election"}
+{"qid":671844,"place":"Switzerland","lat":46.8182,"lon":8.2275,"precision":"country","confidence":"high","note":"national tour"}
+{"qid":4556283,"place":"Montana","lat":46.8797,"lon":-110.3626,"precision":"region","confidence":"low","note":"northern Rockies Plains"}
+{"qid":54429406,"place":"Ghent","lat":51.0543,"lon":3.7174,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":1582992,"place":"Kagera Region","lat":-2.0,"lon":31.0,"precision":"region","confidence":"medium","note":"Kashasha near Lake Victoria"}
+{"qid":51144710,"place":"Plouay","lat":47.9167,"lon":-3.2833,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":7945110,"place":"Jesolo","lat":45.5333,"lon":12.65,"precision":"city","confidence":"high","note":"championships in Jesolo"}
+{"qid":3751644,"place":"Basque Country (autonomous community)","lat":43.0,"lon":-2.75,"precision":"region","confidence":"high","note":"regional election"}

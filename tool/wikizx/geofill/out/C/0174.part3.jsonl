@@ -1,0 +1,50 @@
+{"qid":6583108,"place":"Sofia","lat":42.6977,"lon":23.3219,"precision":"city","confidence":"medium","note":"protocol opened for signature in Sofia"}
+{"qid":85728031,"place":"North Tyneside","lat":55.02,"lon":-1.5,"precision":"region","confidence":"high","note":"borough election"}
+{"qid":55104399,"place":"Murcia","lat":37.9922,"lon":-1.1307,"precision":"city","confidence":"high","note":"race start and finish"}
+{"qid":54818008,"place":"Hyndburn","lat":53.765,"lon":-2.38,"precision":"region","confidence":"high","note":"borough election"}
+{"qid":96368976,"place":"Vermont","lat":44.5588,"lon":-72.5778,"precision":"region","confidence":"high","note":"state primary"}
+{"qid":5092657,"place":"Cherwell","lat":51.9,"lon":-1.25,"precision":"region","confidence":"high","note":"district election"}
+{"qid":2939715,"place":"Sambadrome Marquês de Sapucaí","lat":-22.9114,"lon":-43.1964,"precision":"site","confidence":"high","note":"Rio Carnival parades"}
+{"qid":21715145,"place":"Tuvalu","lat":-7.1095,"lon":177.6493,"precision":"country","confidence":"medium","note":"impacted Tuvalu and Fiji"}
+{"qid":131545492,"place":"Uttlesford","lat":51.95,"lon":0.3,"precision":"region","confidence":"high","note":"district election"}
+{"qid":66078608,"place":"South Africa","lat":-30.5595,"lon":22.9375,"precision":"country","confidence":"medium","note":"trial held in South Africa"}
+{"qid":10845532,"place":"Taiwan","lat":23.6978,"lon":120.9605,"precision":"country","confidence":"high","note":"party primary"}
+{"qid":19873772,"place":"Guildford","lat":51.2362,"lon":-0.5704,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":138034354,"place":"Rochford District","lat":51.58,"lon":0.7,"precision":"region","confidence":"high","note":"district election"}
+{"qid":39047494,"place":"Connecticut","lat":41.6032,"lon":-73.0877,"precision":"region","confidence":"high","note":"state election"}
+{"qid":133816401,"place":"Philippines","lat":12.8797,"lon":121.774,"precision":"country","confidence":"medium","note":"affected Philippines and Vietnam"}
+{"qid":2109144,"place":"Vatican City","lat":41.9029,"lon":12.4534,"precision":"country","confidence":"medium","note":"Holy See concordat"}
+{"qid":14034362,"place":"Thuringia","lat":50.9,"lon":11.0,"precision":"region","confidence":"high","note":"race in Thuringia"}
+{"qid":4970020,"place":"National Squash Centre","lat":53.4829,"lon":-2.2003,"precision":"site","confidence":"high","note":"Manchester venue"}
+{"qid":119348658,"place":"Southeastern United States","lat":33.0,"lon":-85.0,"precision":"region","confidence":"low","note":"outbreak across Southeast"}
+{"qid":105061386,"place":"Idaho","lat":44.0682,"lon":-114.742,"precision":"region","confidence":"high","note":"state Senate special election"}
+{"qid":23582646,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"medium","note":"US Supreme Court"}
+{"qid":15693864,"place":"Charnwood","lat":52.73,"lon":-1.13,"precision":"region","confidence":"high","note":"borough election"}
+{"qid":19600977,"place":"Italy","lat":41.8719,"lon":12.5674,"precision":"country","confidence":"medium","note":"Italian cycling classic"}
+{"qid":125635228,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"regional zone"}
+{"qid":30326524,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"high","note":"events in Brazil"}
+{"qid":5464079,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"medium","note":"US Supreme Court"}
+{"qid":7381936,"place":"Russia","lat":61.524,"lon":105.3188,"precision":"country","confidence":"medium","note":"Russian reaction"}
+{"qid":127326597,"place":"Pakistan","lat":30.3753,"lon":69.3451,"precision":"country","confidence":"high","note":"Pakistani cup"}
+{"qid":15925514,"place":"Kharkiv","lat":49.9935,"lon":36.2304,"precision":"city","confidence":"medium","note":"Soviet Ukrainian capital then"}
+{"qid":6034654,"place":"Ottoman Empire","lat":39.0,"lon":35.0,"precision":"region","confidence":"medium","note":"Ottoman unit"}
+{"qid":48990024,"place":"Gjilan","lat":42.4635,"lon":21.4694,"precision":"city","confidence":"high","note":"Gjilan rivalry"}
+{"qid":4251987,"place":"French Togoland","lat":8.0,"lon":1.0,"precision":"region","confidence":"medium","note":"territory referendum"}
+{"qid":11954968,"place":"Barcelona","lat":41.3874,"lon":2.1686,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":3114080,"place":"Denain","lat":50.325,"lon":3.393,"precision":"city","confidence":"high","note":"race finish"}
+{"qid":4610874,"place":"Tokyo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"medium","note":"Supreme Court of Japan"}
+{"qid":125339350,"place":"Hastings","lat":50.8543,"lon":0.5735,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":17090338,"place":"Pennsylvania","lat":41.2033,"lon":-77.1945,"precision":"region","confidence":"medium","note":"campaign by governor of Pennsylvania"}
+{"qid":1054281,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"prehistoric millennium"}
+{"qid":30074693,"place":"Northumberland","lat":55.2083,"lon":-2.0784,"precision":"region","confidence":"high","note":"county election"}
+{"qid":3284053,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"anime series"}
+{"qid":20805542,"place":"Wembley Arena","lat":51.556,"lon":-0.283,"precision":"site","confidence":"medium","note":"later stages at Wembley"}
+{"qid":124218625,"place":"Galicia (Spain)","lat":42.5751,"lon":-8.1339,"precision":"region","confidence":"high","note":"race in Galicia"}
+{"qid":19871069,"place":"Bassetlaw District","lat":53.33,"lon":-1.0,"precision":"region","confidence":"high","note":"district election"}
+{"qid":25338350,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"website"}
+{"qid":85724935,"place":"Chichester","lat":50.8365,"lon":-0.7792,"precision":"city","confidence":"high","note":"district election"}
+{"qid":21061575,"place":"Wychavon","lat":52.1,"lon":-2.0,"precision":"region","confidence":"high","note":"district election"}
+{"qid":96369746,"place":"Rutland","lat":52.66,"lon":-0.63,"precision":"region","confidence":"high","note":"county election"}
+{"qid":4920803,"place":"Tura, Meghalaya","lat":25.5139,"lon":90.2022,"precision":"city","confidence":"high","note":"massacre in Tura"}
+{"qid":20857776,"place":"The Bronx","lat":40.8448,"lon":-73.8648,"precision":"region","confidence":"high","note":"outbreaks in Bronx"}
+{"qid":5092662,"place":"Cherwell","lat":51.9,"lon":-1.25,"precision":"region","confidence":"high","note":"district election"}

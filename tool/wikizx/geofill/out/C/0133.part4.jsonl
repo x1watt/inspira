@@ -1,0 +1,50 @@
+{"qid":135315667,"place":"Taiwan","lat":23.6978,"lon":120.9605,"precision":"country","confidence":"high","note":"nationwide recall votes"}
+{"qid":126117626,"place":"Luzhniki Stadium","lat":55.7158,"lon":37.5537,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":7891559,"place":"Kansas","lat":38.5266,"lon":-96.7265,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":2539346,"place":"Berlin","lat":52.52,"lon":13.405,"precision":"city","confidence":"high","note":"state election"}
+{"qid":104947424,"place":"Colorado","lat":39.5501,"lon":-105.7821,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":6372915,"place":"Bengaluru","lat":12.9716,"lon":77.5946,"precision":"city","confidence":"medium","note":"Karnataka government seat"}
+{"qid":19604758,"place":"Athens","lat":37.9838,"lon":23.7275,"precision":"city","confidence":"high","note":"Hellenic Parliament"}
+{"qid":85725299,"place":"Stevenage","lat":51.9038,"lon":-0.1966,"precision":"city","confidence":"high","note":"council area"}
+{"qid":23782139,"place":"Nice","lat":43.7102,"lon":7.262,"precision":"city","confidence":"high","note":"council seat"}
+{"qid":3571450,"place":"Aragon","lat":41.5976,"lon":-0.9057,"precision":"region","confidence":"high","note":"regional election"}
+{"qid":111949501,"place":"Dhangadhi","lat":28.6833,"lon":80.6,"precision":"city","confidence":"high","note":"municipal election"}
+{"qid":22312828,"place":"Canary Wharf","lat":51.5054,"lon":-0.0235,"precision":"city","confidence":"medium","note":"squash venue"}
+{"qid":7834902,"place":"Melbourne","lat":-37.8136,"lon":144.9631,"precision":"city","confidence":"medium","note":"Parliament sat there then"}
+{"qid":7129984,"place":"Panama City","lat":8.9824,"lon":-79.5199,"precision":"city","confidence":"high","note":"capital"}
+{"qid":6433341,"place":"Pristina","lat":42.6629,"lon":21.1655,"precision":"city","confidence":"high","note":"Provincial Assembly"}
+{"qid":131919621,"place":"Little Rock, Arkansas","lat":34.7465,"lon":-92.2896,"precision":"city","confidence":"high","note":"tornado struck Little Rock"}
+{"qid":10478741,"place":"Sweden","lat":60.1282,"lon":18.6435,"precision":"country","confidence":"medium","note":"Swedish locomotives"}
+{"qid":6807401,"place":"Medway","lat":51.4,"lon":0.55,"precision":"city","confidence":"high","note":"council area"}
+{"qid":7837233,"place":"Detroit","lat":42.3314,"lon":-83.0458,"precision":"city","confidence":"medium","note":"treaty near Detroit"}
+{"qid":1335056,"place":"Addis Ababa","lat":9.032,"lon":38.7469,"precision":"city","confidence":"high","note":"capital"}
+{"qid":18510737,"place":"Ghent","lat":51.0543,"lon":3.7174,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":17620892,"place":"Langford, British Columbia","lat":48.45,"lon":-123.5,"precision":"city","confidence":"high","note":"hosted in Langford"}
+{"qid":135185203,"place":"France","lat":46.2276,"lon":2.2137,"precision":"country","confidence":"medium","note":"national tour"}
+{"qid":56321196,"place":"Palikir","lat":6.9248,"lon":158.161,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":523011,"place":"Plouay","lat":47.917,"lon":-3.285,"precision":"city","confidence":"high","note":"race in Plouay"}
+{"qid":56275570,"place":"Manila","lat":14.5995,"lon":120.9842,"precision":"city","confidence":"medium","note":"PBA in Manila"}
+{"qid":23018287,"place":"Maryland","lat":39.0458,"lon":-76.6413,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":2458486,"place":"Siena","lat":43.3188,"lon":11.3308,"precision":"city","confidence":"high","note":"race finish"}
+{"qid":40165753,"place":"The Hague","lat":52.0705,"lon":4.3007,"precision":"city","confidence":"high","note":"Senate seat"}
+{"qid":141447059,"place":"Wavre","lat":50.717,"lon":4.607,"precision":"city","confidence":"medium","note":"final venue in Wavre"}
+{"qid":4871225,"place":"South Korea","lat":35.9078,"lon":127.7669,"precision":"country","confidence":"low","note":"near Songju"}
+{"qid":2201387,"place":"Monaco","lat":43.7384,"lon":7.4246,"precision":"country","confidence":"high","note":"Franco-Monegasque"}
+{"qid":63258995,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"ship"}
+{"qid":27595546,"place":"Zhanjiang","lat":21.2707,"lon":110.3594,"precision":"city","confidence":"medium","note":"Leizhou Peninsula landfall"}
+{"qid":3985099,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"multi-venue tests"}
+{"qid":7185234,"place":"Philippines","lat":12.8797,"lon":121.774,"precision":"country","confidence":"medium","note":"national election"}
+{"qid":16985707,"place":"Burnley","lat":53.7893,"lon":-2.2405,"precision":"city","confidence":"high","note":"council area"}
+{"qid":7260875,"place":"Purbeck District","lat":50.63,"lon":-2.07,"precision":"city","confidence":"high","note":"district council"}
+{"qid":60821142,"place":"Waregem","lat":50.89,"lon":3.425,"precision":"city","confidence":"medium","note":"race finish"}
+{"qid":110215039,"place":"Ravanusa","lat":37.264,"lon":13.966,"precision":"city","confidence":"high","note":"explosion in Ravanusa"}
+{"qid":20811307,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"medium","note":"ensemble based in NYC"}
+{"qid":6429581,"place":"Tokyo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"high","note":"Japanese government statement"}
+{"qid":4761807,"place":"Manila","lat":14.5995,"lon":120.9842,"precision":"city","confidence":"medium","note":"Central Bank of Philippines"}
+{"qid":114119892,"place":"Bedford","lat":52.1356,"lon":-0.4685,"precision":"city","confidence":"high","note":"The Eyrie, Bedford"}
+{"qid":846727,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"computer game"}
+{"qid":3533685,"place":"Denmark","lat":56.2639,"lon":9.5018,"precision":"country","confidence":"high","note":"national stage race"}
+{"qid":15706059,"place":"Barcelona","lat":41.3874,"lon":2.1686,"precision":"city","confidence":"high","note":"race finish"}
+{"qid":7784882,"place":"Islington","lat":51.5362,"lon":-0.103,"precision":"city","confidence":"high","note":"Royal Agricultural Hall"}
+{"qid":5436105,"place":"Tórshavn","lat":62.0107,"lon":-6.7716,"precision":"city","confidence":"high","note":"capital"}
+{"qid":54866874,"place":"London Borough of Bexley","lat":51.4549,"lon":0.1505,"precision":"city","confidence":"high","note":"council area"}

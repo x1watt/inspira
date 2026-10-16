@@ -1,0 +1,50 @@
+{"qid":7097230,"place":"Stockholm","lat":59.3293,"lon":18.0686,"precision":"city","confidence":"medium","note":"plan targeted Swedish minister"}
+{"qid":131759128,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"tour, multiple venues"}
+{"qid":19873928,"place":"Harlow","lat":51.7766,"lon":0.0942,"precision":"city","confidence":"high","note":"council election"}
+{"qid":124260074,"place":"Reykjavik","lat":64.1466,"lon":-21.9426,"precision":"city","confidence":"medium","note":"national election, capital"}
+{"qid":6669839,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"high","note":"London Assembly election"}
+{"qid":48856430,"place":"Prague","lat":50.0755,"lon":14.4378,"precision":"city","confidence":"medium","note":"presidential election by assembly"}
+{"qid":19871560,"place":"Bristol","lat":51.4545,"lon":-2.5879,"precision":"city","confidence":"high","note":"council election"}
+{"qid":24039389,"place":"Royal Tunbridge Wells","lat":51.1324,"lon":0.2637,"precision":"city","confidence":"high","note":"borough council election"}
+{"qid":7891798,"place":"Albany, New York","lat":42.6526,"lon":-73.7562,"precision":"city","confidence":"high","note":"state legislature in Albany"}
+{"qid":30326513,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"medium","note":"year in Brazil"}
+{"qid":23018261,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"nationwide primaries"}
+{"qid":607686,"place":"Gdańsk","lat":54.352,"lon":18.6466,"precision":"city","confidence":"medium","note":"race start city"}
+{"qid":104947635,"place":"Kansas","lat":38.5,"lon":-98.0,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7331063,"place":"London Borough of Richmond upon Thames","lat":51.4479,"lon":-0.326,"precision":"city","confidence":"high","note":"borough council election"}
+{"qid":6478614,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"weather advisory concept"}
+{"qid":7861319,"place":"Taiwan","lat":23.6978,"lon":120.9605,"precision":"country","confidence":"low","note":"deepened east of Taiwan"}
+{"qid":96369744,"place":"Rugby, Warwickshire","lat":52.3709,"lon":-1.265,"precision":"city","confidence":"high","note":"borough council election"}
+{"qid":54888426,"place":"Basque Country (autonomous community)","lat":43.0,"lon":-2.75,"precision":"region","confidence":"medium","note":"human chain across Basque region"}
+{"qid":17092242,"place":"Oregon","lat":43.8041,"lon":-120.5542,"precision":"region","confidence":"high","note":"state ballot measure"}
+{"qid":111939247,"place":"Brijuni","lat":44.9167,"lon":13.7667,"precision":"region","confidence":"high","note":"held on Brijuni Islands"}
+{"qid":16823102,"place":"Bermuda","lat":32.3078,"lon":-64.7505,"precision":"country","confidence":"high","note":"national election"}
+{"qid":104549514,"place":"Occitanie","lat":43.6,"lon":1.44,"precision":"region","confidence":"low","note":"regional cycling race"}
+{"qid":16827269,"place":"Bradford","lat":53.796,"lon":-1.7594,"precision":"city","confidence":"high","note":"council election"}
+{"qid":5339199,"place":"Edmonton","lat":53.5461,"lon":-113.4938,"precision":"city","confidence":"high","note":"municipal election"}
+{"qid":40890176,"place":"Cirta","lat":36.365,"lon":6.6147,"precision":"city","confidence":"high","note":"council at Cirta"}
+{"qid":4609252,"place":"Windsor Park","lat":54.5822,"lon":-5.9569,"precision":"site","confidence":"high","note":"final at Windsor Park"}
+{"qid":41607127,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"several referendums"}
+{"qid":6747364,"place":"Manchester","lat":53.4808,"lon":-2.2426,"precision":"city","confidence":"high","note":"council election"}
+{"qid":137384517,"place":"Prince Abdullah Al-Faisal Sports City","lat":21.6317,"lon":39.1633,"precision":"site","confidence":"high","note":"venue stadium Jeddah"}
+{"qid":118189643,"place":"East Cambridgeshire","lat":52.4,"lon":0.3,"precision":"region","confidence":"medium","note":"district council election"}
+{"qid":5674808,"place":"Hartlepool","lat":54.687,"lon":-1.212,"precision":"city","confidence":"high","note":"borough council election"}
+{"qid":7624854,"place":"Stroud","lat":51.745,"lon":-2.218,"precision":"city","confidence":"high","note":"district council election"}
+{"qid":4605247,"place":"Supreme Court of Canada","lat":45.4236,"lon":-75.705,"precision":"site","confidence":"medium","note":"court in Ottawa"}
+{"qid":3508870,"place":"Czech Republic","lat":49.8175,"lon":15.473,"precision":"country","confidence":"high","note":"national election"}
+{"qid":125536049,"place":"Honiara","lat":-9.4333,"lon":159.95,"precision":"city","confidence":"high","note":"held in Honiara"}
+{"qid":24944760,"place":"Strasbourg","lat":48.5846,"lon":7.7507,"precision":"city","confidence":"medium","note":"European Court of Human Rights"}
+{"qid":130240064,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"rankings"}
+{"qid":6979911,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"nationwide polls"}
+{"qid":125314879,"place":"Oceania","lat":-8.0,"lon":160.0,"precision":"region","confidence":"low","note":"venue not stated"}
+{"qid":124031919,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"polar circumnavigation flight"}
+{"qid":24083559,"place":"Redditch","lat":52.306,"lon":-1.945,"precision":"city","confidence":"high","note":"borough council election"}
+{"qid":48774431,"place":"Australia","lat":-25.2744,"lon":133.7751,"precision":"country","confidence":"high","note":"federal election"}
+{"qid":20107659,"place":"Huy","lat":50.519,"lon":5.241,"precision":"city","confidence":"medium","note":"finish at Mur de Huy"}
+{"qid":7061350,"place":"Norway","lat":60.472,"lon":8.4689,"precision":"country","confidence":"high","note":"local elections nationwide"}
+{"qid":7884219,"place":"United Kingdom","lat":54.0,"lon":-2.0,"precision":"country","confidence":"high","note":"general election"}
+{"qid":130286809,"place":"Suffolk","lat":52.1872,"lon":0.9708,"precision":"region","confidence":"high","note":"county council election"}
+{"qid":16976712,"place":"United States Capitol","lat":38.8899,"lon":-77.0091,"precision":"site","confidence":"medium","note":"bill introduced in House"}
+{"qid":108303622,"place":"Wah Cantt","lat":33.77,"lon":72.75,"precision":"city","confidence":"high","note":"explosion at ordnance factory"}
+{"qid":7891550,"place":"Iowa","lat":42.0046,"lon":-93.214,"precision":"region","confidence":"high","note":"state election"}
+{"qid":51269086,"place":"South Australia","lat":-34.9285,"lon":138.6007,"precision":"region","confidence":"low","note":"Light district colonial by-election"}

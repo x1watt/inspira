@@ -1,0 +1,50 @@
+{"qid":4575219,"place":"Italy","lat":41.8719,"lon":12.5674,"precision":"country","confidence":"medium","note":"attacks on trains across Italy"}
+{"qid":4999445,"place":"Myanmar","lat":21.9162,"lon":95.956,"precision":"country","confidence":"high","note":"Burma election"}
+{"qid":96370959,"place":"Sheffield","lat":53.3811,"lon":-1.4701,"precision":"city","confidence":"high","note":"city council"}
+{"qid":7826592,"place":"Toronto","lat":43.6532,"lon":-79.3832,"precision":"city","confidence":"high","note":"municipal election"}
+{"qid":7057457,"place":"North Yorkshire","lat":54.2,"lon":-1.4,"precision":"region","confidence":"high","note":"county council"}
+{"qid":85384,"place":"Teatr Wielki, Warsaw","lat":52.2434,"lon":21.0066,"precision":"site","confidence":"medium","note":"held in Warsaw theatre"}
+{"qid":5836662,"place":"Araucania Region","lat":-38.9489,"lon":-72.3311,"precision":"region","confidence":"high","note":"Mapuche in Araucania"}
+{"qid":28663648,"place":"Switzerland","lat":46.8182,"lon":8.2275,"precision":"country","confidence":"high","note":"Swiss race"}
+{"qid":3533690,"place":"Denmark","lat":56.2639,"lon":9.5018,"precision":"country","confidence":"high","note":"Danish race"}
+{"qid":815479,"place":"Belgium","lat":50.5039,"lon":4.4699,"precision":"country","confidence":"high","note":"Belgian race"}
+{"qid":56797,"place":"Buenos Aires","lat":-34.6037,"lon":-58.3816,"precision":"city","confidence":"medium","note":"Argentine scandal"}
+{"qid":27999354,"place":"Lillebonne","lat":49.5231,"lon":0.5361,"precision":"city","confidence":"high","note":"council held there"}
+{"qid":117328177,"place":"North Somerset","lat":51.4,"lon":-2.8,"precision":"region","confidence":"high","note":"council area"}
+{"qid":15732457,"place":"Geneva Airport","lat":46.2381,"lon":6.1089,"precision":"site","confidence":"high","note":"forced landing in Geneva"}
+{"qid":104948270,"place":"Arkansas","lat":35.201,"lon":-91.8318,"precision":"region","confidence":"high","note":"state election"}
+{"qid":130553433,"place":"Lohja","lat":60.25,"lon":24.0667,"precision":"city","confidence":"high","note":"held at Kisakallio, Lohja"}
+{"qid":7891724,"place":"Nevada","lat":38.8026,"lon":-116.4194,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7891681,"place":"Missouri","lat":38.5739,"lon":-92.6038,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7562564,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"product"}
+{"qid":2354716,"place":"Ghent","lat":51.0543,"lon":3.7174,"precision":"city","confidence":"low","note":"race start"}
+{"qid":140053142,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"continental tournament"}
+{"qid":7892180,"place":"Pennsylvania","lat":41.2033,"lon":-77.1945,"precision":"region","confidence":"high","note":"state election"}
+{"qid":135210278,"place":"Newcastle-under-Lyme","lat":53.0114,"lon":-2.2279,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":127962467,"place":"Manahan Stadium","lat":-7.5561,"lon":110.8031,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":97356668,"place":"Tanzania","lat":-6.369,"lon":34.8888,"precision":"country","confidence":"high","note":"party primary"}
+{"qid":16146920,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"ocean season"}
+{"qid":22948505,"place":"Algeria","lat":28.0339,"lon":1.6596,"precision":"country","confidence":"high","note":"municipal elections"}
+{"qid":16691726,"place":"Maastricht","lat":50.8514,"lon":5.6909,"precision":"city","confidence":"low","note":"siege of Maastricht 1748"}
+{"qid":17016306,"place":"Vermont","lat":44.5588,"lon":-72.5778,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7892124,"place":"Wyoming","lat":43.0759,"lon":-107.2903,"precision":"region","confidence":"high","note":"state election"}
+{"qid":28456130,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"sports honors list"}
+{"qid":5637352,"place":"London Borough of Hackney","lat":51.545,"lon":-0.0553,"precision":"region","confidence":"high","note":"borough council"}
+{"qid":57277588,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"high","note":"central London circuit"}
+{"qid":10541299,"place":"Denmark","lat":56.2639,"lon":9.5018,"precision":"country","confidence":"medium","note":"storm over Denmark and Sweden"}
+{"qid":64788686,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"anime series"}
+{"qid":131632230,"place":"Rajshahi","lat":24.3745,"lon":88.6042,"precision":"city","confidence":"medium","note":"franchise city"}
+{"qid":7891957,"place":"Pennsylvania","lat":41.2033,"lon":-77.1945,"precision":"region","confidence":"high","note":"state election"}
+{"qid":131363844,"place":"Wiltshire","lat":51.3,"lon":-1.9,"precision":"region","confidence":"high","note":"county council"}
+{"qid":25977,"place":"Sri Lanka","lat":7.8731,"lon":80.7718,"precision":"country","confidence":"high","note":"struck Sri Lanka and India"}
+{"qid":48843383,"place":"Michigan","lat":44.3148,"lon":-85.6024,"precision":"region","confidence":"high","note":"state election"}
+{"qid":139505709,"place":"Warrington","lat":53.39,"lon":-2.597,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":5439773,"place":"Northeastern United States","lat":42.5,"lon":-73.0,"precision":"region","confidence":"medium","note":"storm over Northeast"}
+{"qid":7380082,"place":"Borough of Runnymede","lat":51.383,"lon":-0.533,"precision":"region","confidence":"medium","note":"borough council"}
+{"qid":27958867,"place":"Argentina","lat":-38.4161,"lon":-63.6167,"precision":"country","confidence":"high","note":"tests in Argentina"}
+{"qid":30915623,"place":"Switzerland","lat":46.8182,"lon":8.2275,"precision":"country","confidence":"high","note":"Swiss race"}
+{"qid":124216907,"place":"Almeria","lat":36.834,"lon":-2.4637,"precision":"city","confidence":"high","note":"race in Almeria"}
+{"qid":123010164,"place":"Papua New Guinea","lat":-6.315,"lon":143.9555,"precision":"country","confidence":"high","note":"country wide violence"}
+{"qid":20805129,"place":"Adelaide Oval","lat":-34.9156,"lon":138.5961,"precision":"site","confidence":"high","note":"final at Adelaide Oval"}
+{"qid":7015094,"place":"New York (state)","lat":43.2994,"lon":-74.2179,"precision":"region","confidence":"high","note":"state election"}
+{"qid":60041226,"place":"Mount Barker, South Australia","lat":-35.0667,"lon":138.8667,"precision":"city","confidence":"high","note":"by-election seat"}

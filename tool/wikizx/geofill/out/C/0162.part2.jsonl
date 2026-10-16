@@ -1,0 +1,50 @@
+{"qid":1804064,"place":"Munich","lat":48.1351,"lon":11.582,"precision":"city","confidence":"high","note":"Bavarian capital"}
+{"qid":18109185,"place":"Macau","lat":22.1987,"lon":113.5439,"precision":"city","confidence":"high","note":"Macau election"}
+{"qid":22981529,"place":"Waregem","lat":50.889,"lon":3.426,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":23888872,"place":"Grenoble","lat":45.1885,"lon":5.7245,"precision":"city","confidence":"high","note":"race finish"}
+{"qid":136102963,"place":"Cromer","lat":52.931,"lon":1.301,"precision":"city","confidence":"medium","note":"North Norfolk council area"}
+{"qid":5945154,"place":"Huntingdon","lat":52.331,"lon":-0.183,"precision":"city","confidence":"medium","note":"Huntingdonshire council seat"}
+{"qid":21188497,"place":"Plymouth, Montserrat","lat":16.706,"lon":-62.216,"precision":"city","confidence":"medium","note":"Montserrat capital"}
+{"qid":3587544,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"medium","note":"Senate in Paris"}
+{"qid":60528239,"place":"Muscat","lat":23.588,"lon":58.3829,"precision":"city","confidence":"medium","note":"Oman capital"}
+{"qid":108862979,"place":"Lebanon","lat":33.8547,"lon":35.8623,"precision":"country","confidence":"high","note":"nationwide blackout"}
+{"qid":7185321,"place":"Philippines","lat":12.8797,"lon":121.774,"precision":"country","confidence":"high","note":"national election"}
+{"qid":137926838,"place":"United Nations Headquarters","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"high","note":"held at UN HQ"}
+{"qid":17100829,"place":"New York (state)","lat":42.9538,"lon":-75.5268,"precision":"region","confidence":"high","note":"state election"}
+{"qid":17591881,"place":"Switzerland","lat":46.8182,"lon":8.2275,"precision":"country","confidence":"high","note":"federal election"}
+{"qid":48601184,"place":"West Indies","lat":13.1939,"lon":-59.5432,"precision":"region","confidence":"low","note":"tour of Caribbean"}
+{"qid":127923613,"place":"Jos","lat":9.9285,"lon":8.8921,"precision":"city","confidence":"high","note":"college collapse in Jos"}
+{"qid":6100869,"place":"Ankara","lat":39.9334,"lon":32.8597,"precision":"city","confidence":"high","note":"parliament vote in Ankara"}
+{"qid":12286532,"place":"Bulgaria","lat":42.7339,"lon":25.4858,"precision":"country","confidence":"high","note":"local elections"}
+{"qid":131784836,"place":"Switzerland","lat":46.8182,"lon":8.2275,"precision":"country","confidence":"medium","note":"Romandie stage race"}
+{"qid":8040447,"place":"Poulton-le-Fylde","lat":53.848,"lon":-2.99,"precision":"city","confidence":"medium","note":"Wyre council seat"}
+{"qid":1804077,"place":"Wiesbaden","lat":50.0782,"lon":8.2398,"precision":"city","confidence":"high","note":"Hesse capital"}
+{"qid":85732240,"place":"Didcot","lat":51.608,"lon":-1.242,"precision":"city","confidence":"medium","note":"South Oxfordshire council area"}
+{"qid":4601247,"place":"São Paulo","lat":-23.5558,"lon":-46.6396,"precision":"city","confidence":"high","note":"race in Sao Paulo"}
+{"qid":31899791,"place":"Stockholm","lat":59.3293,"lon":18.0686,"precision":"city","confidence":"medium","note":"Stockholm railway locomotives"}
+{"qid":19848484,"place":"Europe","lat":50.0,"lon":10.0,"precision":"region","confidence":"low","note":"series across Europe"}
+{"qid":105883027,"place":"Ñuble Province","lat":-36.6,"lon":-71.9,"precision":"region","confidence":"medium","note":"Andean storm area"}
+{"qid":116958336,"place":"Belarus","lat":53.7098,"lon":27.9534,"precision":"country","confidence":"low","note":"evacuation from western Russian Empire"}
+{"qid":17100418,"place":"Louisiana","lat":30.9843,"lon":-91.9623,"precision":"region","confidence":"high","note":"state election"}
+{"qid":42916957,"place":"Ohio","lat":40.4173,"lon":-82.9071,"precision":"region","confidence":"high","note":"state election"}
+{"qid":55601367,"place":"Alsemberg","lat":50.74,"lon":4.333,"precision":"city","confidence":"high","note":"race finish"}
+{"qid":5974090,"place":"Taipei","lat":25.033,"lon":121.5654,"precision":"city","confidence":"medium","note":"Taiwan capital"}
+{"qid":5597928,"place":"Gravesend, Kent","lat":51.4412,"lon":0.3704,"precision":"city","confidence":"medium","note":"Gravesham council seat"}
+{"qid":141253208,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"race series"}
+{"qid":96401587,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"global chronology"}
+{"qid":106913115,"place":"Widnes","lat":53.361,"lon":-2.735,"precision":"city","confidence":"medium","note":"Halton council seat"}
+{"qid":4612065,"place":"Kuala Lumpur","lat":3.139,"lon":101.6869,"precision":"city","confidence":"high","note":"2008 Thomas Cup venue"}
+{"qid":18209093,"place":"Cairo","lat":30.0444,"lon":31.2357,"precision":"city","confidence":"high","note":"cancelled match in Cairo"}
+{"qid":16991710,"place":"Esher","lat":51.337,"lon":-0.364,"precision":"city","confidence":"medium","note":"Elmbridge council seat"}
+{"qid":7098232,"place":"Russia","lat":61.524,"lon":105.3188,"precision":"country","confidence":"high","note":"polling for Russian election"}
+{"qid":16951520,"place":"Budva","lat":42.2864,"lon":18.84,"precision":"city","confidence":"high","note":"championships in Budva"}
+{"qid":108418210,"place":"Khabarovsk","lat":48.4802,"lon":135.0719,"precision":"city","confidence":"high","note":"krai capital"}
+{"qid":97205533,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"anime"}
+{"qid":104947960,"place":"Tennessee","lat":35.7478,"lon":-86.6923,"precision":"region","confidence":"high","note":"state election"}
+{"qid":8031086,"place":"Budva","lat":42.2864,"lon":18.84,"precision":"city","confidence":"high","note":"championships in Budva"}
+{"qid":117487118,"place":"Thurrock","lat":51.49,"lon":0.35,"precision":"city","confidence":"medium","note":"council"}
+{"qid":4781895,"place":"Kathmandu","lat":27.7172,"lon":85.324,"precision":"city","confidence":"high","note":"strike centred at Kathmandu"}
+{"qid":58433615,"place":"Iowa","lat":42.0,"lon":-93.5,"precision":"region","confidence":"high","note":"state election"}
+{"qid":19869839,"place":"Sutton, London","lat":51.36,"lon":-0.194,"precision":"city","confidence":"high","note":"council"}
+{"qid":54817658,"place":"Salford","lat":53.4875,"lon":-2.2901,"precision":"city","confidence":"high","note":"council"}
+{"qid":16154834,"place":"Nuenen","lat":51.47,"lon":5.55,"precision":"city","confidence":"high","note":"race start"}

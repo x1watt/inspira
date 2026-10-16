@@ -1,0 +1,50 @@
+{"qid":3752572,"place":"Huy","lat":50.5186,"lon":5.2406,"precision":"city","confidence":"high","note":"race finish"}
+{"qid":7548521,"place":"Kořenov","lat":50.75,"lon":15.3,"precision":"city","confidence":"high","note":"Rejdice Snowpark"}
+{"qid":2446408,"place":"Winterthur","lat":47.5,"lon":8.724,"precision":"city","confidence":"high","note":"race start"}
+{"qid":3488719,"place":"Prague","lat":50.0755,"lon":14.4378,"precision":"city","confidence":"medium","note":"Czech Senate"}
+{"qid":8037207,"place":"Worthing","lat":50.8179,"lon":-0.3729,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":3556429,"place":"Nicosia","lat":35.1856,"lon":33.3823,"precision":"city","confidence":"medium","note":"Cyprus capital"}
+{"qid":3511328,"place":"Prague","lat":50.0755,"lon":14.4378,"precision":"city","confidence":"medium","note":"Czech Senate"}
+{"qid":4805075,"place":"Ashikaga, Tochigi","lat":36.34,"lon":139.45,"precision":"city","confidence":"high","note":"murder in Ashikaga"}
+{"qid":96369401,"place":"Balearic Islands","lat":39.5,"lon":2.9,"precision":"region","confidence":"high","note":"island councils"}
+{"qid":4823764,"place":"Canberra","lat":-35.2809,"lon":149.13,"precision":"city","confidence":"medium","note":"Australian Senate"}
+{"qid":5896883,"place":"Brussels","lat":50.8503,"lon":4.3517,"precision":"city","confidence":"medium","note":"Belgian victim"}
+{"qid":62662558,"place":"Jammu and Kashmir (union territory)","lat":34.0837,"lon":74.7973,"precision":"region","confidence":"medium","note":"Kashmir election"}
+{"qid":815481,"place":"Belgium","lat":50.5039,"lon":4.4699,"precision":"country","confidence":"high","note":"national stage race"}
+{"qid":476623,"place":"Denmark","lat":56.2639,"lon":9.5018,"precision":"country","confidence":"high","note":"national stage race"}
+{"qid":104949862,"place":"North Dakota","lat":47.5515,"lon":-101.002,"precision":"region","confidence":"high","note":"state election"}
+{"qid":96369755,"place":"South Tyneside","lat":54.96,"lon":-1.43,"precision":"region","confidence":"high","note":"borough election"}
+{"qid":12650252,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"commemorative day"}
+{"qid":39081578,"place":"Bogotá","lat":4.711,"lon":-74.0721,"precision":"city","confidence":"medium","note":"Bolivar's proposal"}
+{"qid":7129976,"place":"Panama City","lat":8.9824,"lon":-79.5199,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":810258,"place":"Legazpi, Gipuzkoa","lat":43.0,"lon":-2.28,"precision":"city","confidence":"low","note":"race start"}
+{"qid":7975382,"place":"Waveney","lat":52.45,"lon":1.6,"precision":"region","confidence":"high","note":"district election"}
+{"qid":17041472,"place":"United Kingdom","lat":55.3781,"lon":-3.436,"precision":"country","confidence":"low","note":"UK-based organisation"}
+{"qid":2842677,"place":"Málaga","lat":36.7213,"lon":-4.4214,"precision":"city","confidence":"high","note":"race start"}
+{"qid":54866821,"place":"London Borough of Tower Hamlets","lat":51.5099,"lon":-0.0059,"precision":"region","confidence":"high","note":"borough election"}
+{"qid":20711700,"place":"Wembley Conference Centre","lat":51.556,"lon":-0.2796,"precision":"site","confidence":"medium","note":"later stages at Wembley"}
+{"qid":106357052,"place":"Amman","lat":31.9454,"lon":35.9284,"precision":"city","confidence":"high","note":"arrests in Amman"}
+{"qid":6838571,"place":"Hong Kong Disneyland","lat":22.313,"lon":114.0413,"precision":"site","confidence":"high","note":"parade at the park"}
+{"qid":7061365,"place":"Norway","lat":60.472,"lon":8.4689,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":16924652,"place":"Tiananmen Square","lat":39.9087,"lon":116.3975,"precision":"site","confidence":"high","note":"Beijing protests site"}
+{"qid":657198,"place":"Salou","lat":41.0764,"lon":1.1417,"precision":"city","confidence":"high","note":"race start"}
+{"qid":4599874,"place":"Estádio do Pacaembu","lat":-23.5456,"lon":-46.6642,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":122334558,"place":"Malaysia","lat":4.2105,"lon":101.9758,"precision":"country","confidence":"medium","note":"national futsal cup"}
+{"qid":111941535,"place":"Western United States","lat":40.0,"lon":-115.0,"precision":"region","confidence":"low","note":"presidential tour"}
+{"qid":5942990,"place":"Budapest","lat":47.4979,"lon":19.0402,"precision":"city","confidence":"medium","note":"Hungarian capital"}
+{"qid":199156,"place":"Florida","lat":27.6648,"lon":-81.5158,"precision":"region","confidence":"medium","note":"landfall in Florida"}
+{"qid":96370486,"place":"Puerto Rico","lat":18.2208,"lon":-66.5901,"precision":"region","confidence":"high","note":"party primaries"}
+{"qid":141303582,"place":"Mangilao","lat":13.4472,"lon":144.75,"precision":"city","confidence":"high","note":"host city"}
+{"qid":55636619,"place":"Iowa","lat":41.878,"lon":-93.0977,"precision":"region","confidence":"high","note":"state election"}
+{"qid":455337,"place":"Kiel","lat":54.3233,"lon":10.1228,"precision":"city","confidence":"high","note":"Landtag seat"}
+{"qid":6937876,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"high","note":"murdered in NYC"}
+{"qid":4904250,"place":"Birmingham","lat":52.4862,"lon":-1.8904,"precision":"city","confidence":"high","note":"IOC vote in Birmingham"}
+{"qid":3636833,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"OVA"}
+{"qid":126131678,"place":"King Abdullah Sports City","lat":21.624,"lon":39.142,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":102097886,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"high","note":"US election"}
+{"qid":17509392,"place":"Jérémie","lat":18.65,"lon":-74.1167,"precision":"city","confidence":"high","note":"hurricane named for Jérémie"}
+{"qid":7654967,"place":"Stockholm","lat":59.3293,"lon":18.0686,"precision":"city","confidence":"medium","note":"Swedish capital"}
+{"qid":106413522,"place":"Turkey","lat":38.9637,"lon":35.2433,"precision":"country","confidence":"high","note":"national stage race"}
+{"qid":16969911,"place":"Australia","lat":-25.2744,"lon":133.7751,"precision":"country","confidence":"medium","note":"national championship"}
+{"qid":20086879,"place":"Évian-les-Bains","lat":46.4009,"lon":6.5892,"precision":"city","confidence":"high","note":"race start"}
+{"qid":55099429,"place":"South Oxfordshire","lat":51.6,"lon":-1.1,"precision":"region","confidence":"high","note":"district election"}

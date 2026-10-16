@@ -1,0 +1,50 @@
+{"qid":1632038,"place":"Atlantic Ocean","lat":15.0,"lon":-50.0,"precision":"region","confidence":"low","note":"ship seized at sea"}
+{"qid":104947036,"place":"Tennessee","lat":35.5175,"lon":-86.5804,"precision":"region","confidence":"high","note":"state election"}
+{"qid":4948960,"place":"Botswana","lat":-22.3285,"lon":24.6849,"precision":"country","confidence":"high","note":"national election"}
+{"qid":3682196,"place":"India","lat":20.5937,"lon":78.9629,"precision":"country","confidence":"high","note":"colonial famine policy"}
+{"qid":60742756,"place":"Japan","lat":36.2048,"lon":138.2529,"precision":"country","confidence":"high","note":"Japanese promotion"}
+{"qid":11914339,"place":"San Sebastián","lat":43.3183,"lon":-1.9812,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":29305567,"place":"Cairo","lat":30.0444,"lon":31.2357,"precision":"city","confidence":"high","note":"Arab Bureau Cairo"}
+{"qid":137719371,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"multi-section championships"}
+{"qid":19247732,"place":"Herceg Novi","lat":42.4531,"lon":18.5375,"precision":"city","confidence":"medium","note":"Sutorina near Herceg Novi"}
+{"qid":12041671,"place":"Prague","lat":50.0755,"lon":14.4378,"precision":"city","confidence":"medium","note":"Czechoslovak capital"}
+{"qid":7241857,"place":"Preston, Lancashire","lat":53.7632,"lon":-2.7031,"precision":"city","confidence":"high","note":"city council"}
+{"qid":117802044,"place":"Swindon","lat":51.5558,"lon":-1.7797,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":96370936,"place":"Doncaster","lat":53.5228,"lon":-1.1285,"precision":"city","confidence":"high","note":"metropolitan borough"}
+{"qid":5445830,"place":"Tirana","lat":41.3275,"lon":19.8187,"precision":"city","confidence":"high","note":"festival in Tirana"}
+{"qid":116134678,"place":"Drôme","lat":44.73,"lon":5.1,"precision":"region","confidence":"medium","note":"Drome race"}
+{"qid":41755427,"place":"Blois","lat":47.5861,"lon":1.3359,"precision":"city","confidence":"high","note":"race start"}
+{"qid":5674130,"place":"Hart (district)","lat":51.29,"lon":-0.88,"precision":"region","confidence":"high","note":"district council"}
+{"qid":7061492,"place":"Norwich","lat":52.6309,"lon":1.2974,"precision":"city","confidence":"high","note":"city council"}
+{"qid":88226325,"place":"Rugby, Warwickshire","lat":52.37,"lon":-1.265,"precision":"city","confidence":"high","note":"murdered in Rugby"}
+{"qid":6516012,"place":"Leeds","lat":53.7997,"lon":-1.5492,"precision":"city","confidence":"high","note":"council election"}
+{"qid":17010500,"place":"Drenthe","lat":52.9476,"lon":6.6231,"precision":"region","confidence":"high","note":"Drenthe race"}
+{"qid":869359,"place":"South Korea","lat":35.9078,"lon":127.7669,"precision":"country","confidence":"medium","note":"Korean coach"}
+{"qid":3777493,"place":"Denmark","lat":56.2639,"lon":9.5018,"precision":"country","confidence":"high","note":"national election"}
+{"qid":2115999,"place":"Nicaragua","lat":12.8654,"lon":-85.2072,"precision":"country","confidence":"low","note":"early Caribbean hurricane"}
+{"qid":104211520,"place":"Burgos","lat":42.3439,"lon":-3.697,"precision":"city","confidence":"medium","note":"province of Burgos"}
+{"qid":24965032,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"toy theme"}
+{"qid":16190232,"place":"Palace of Westminster","lat":51.4995,"lon":-0.1248,"precision":"site","confidence":"high","note":"House of Commons motion"}
+{"qid":17049421,"place":"New Zealand","lat":-40.9006,"lon":174.886,"precision":"country","confidence":"high","note":"coin"}
+{"qid":8034244,"place":"Worcestershire","lat":52.19,"lon":-2.22,"precision":"region","confidence":"high","note":"county council"}
+{"qid":16826036,"place":"Romania","lat":45.9432,"lon":24.9668,"precision":"country","confidence":"high","note":"national blizzard"}
+{"qid":14623213,"place":"Kyiv","lat":50.4501,"lon":30.5234,"precision":"city","confidence":"high","note":"contested in Kyiv"}
+{"qid":5174943,"place":"Costa Rica","lat":9.7489,"lon":-83.7534,"precision":"country","confidence":"high","note":"national election"}
+{"qid":6741019,"place":"Madagascar","lat":-18.7669,"lon":46.8691,"precision":"country","confidence":"high","note":"national election"}
+{"qid":968283,"place":"Milan","lat":45.4642,"lon":9.19,"precision":"city","confidence":"medium","note":"Giro began in Milan"}
+{"qid":4804017,"place":"Letchworth","lat":51.9794,"lon":-0.2268,"precision":"city","confidence":"high","note":"made in Letchworth"}
+{"qid":4351905,"place":"Cyprus","lat":35.1264,"lon":33.4299,"precision":"country","confidence":"high","note":"national election"}
+{"qid":7892973,"place":"North Carolina","lat":35.7596,"lon":-79.0193,"precision":"region","confidence":"high","note":"state election"}
+{"qid":17101179,"place":"Minnesota","lat":46.7296,"lon":-94.6859,"precision":"region","confidence":"high","note":"state election"}
+{"qid":122760672,"place":"Utsunomiya","lat":36.5658,"lon":139.8836,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":5947297,"place":"Texas","lat":31.9686,"lon":-99.9018,"precision":"region","confidence":"high","note":"Gulf Coast landfall"}
+{"qid":21189761,"place":"Charlotte, North Carolina","lat":35.2271,"lon":-80.8431,"precision":"city","confidence":"high","note":"killing in Charlotte"}
+{"qid":3953909,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"high","note":"conference in Washington"}
+{"qid":6084749,"place":"Spain","lat":40.4637,"lon":-3.7492,"precision":"country","confidence":"high","note":"national award"}
+{"qid":4736295,"place":"Pretoria","lat":-25.7479,"lon":28.2293,"precision":"city","confidence":"medium","note":"Parliament of South Africa"}
+{"qid":20805362,"place":"Adelaide","lat":-34.9285,"lon":138.6007,"precision":"city","confidence":"medium","note":"SANFL final"}
+{"qid":96375890,"place":"Lahore","lat":31.5204,"lon":74.3587,"precision":"city","confidence":"low","note":"Punjab newspaper"}
+{"qid":60786765,"place":"Luxembourg","lat":49.6116,"lon":6.1319,"precision":"city","confidence":"high","note":"European Court of Justice"}
+{"qid":2504085,"place":"Rosario, Santa Fe","lat":-32.9442,"lon":-60.6505,"precision":"city","confidence":"high","note":"protests in Rosario"}
+{"qid":4870952,"place":"Jerusalem","lat":31.7683,"lon":35.2137,"precision":"city","confidence":"low","note":"Battle of Jerusalem area"}
+{"qid":6895786,"place":"Bârlad","lat":46.2292,"lon":27.6728,"precision":"city","confidence":"high","note":"published in Barlad"}

@@ -1,0 +1,50 @@
+{"qid":4614022,"place":"India","lat":20.5937,"lon":78.9629,"precision":"country","confidence":"high","note":"national campaign"}
+{"qid":2041262,"place":"Valencia","lat":39.4699,"lon":-0.3763,"precision":"city","confidence":"medium","note":"regional race"}
+{"qid":116178797,"place":"Bracknell","lat":51.416,"lon":-0.754,"precision":"city","confidence":"high","note":"council seat"}
+{"qid":117477038,"place":"West Bridgford","lat":52.93,"lon":-1.133,"precision":"city","confidence":"medium","note":"Rushcliffe council seat"}
+{"qid":109412305,"place":"Beigan Airport","lat":26.2242,"lon":120.0022,"precision":"site","confidence":"high","note":"crash site"}
+{"qid":7401722,"place":"Castries","lat":14.0101,"lon":-60.9875,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":47496778,"place":"Lima","lat":-12.0464,"lon":-77.0428,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":7888919,"place":"Headquarters of the United Nations","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"high","note":"held at UN HQ"}
+{"qid":117885171,"place":"Worksop","lat":53.3017,"lon":-1.124,"precision":"city","confidence":"medium","note":"Bassetlaw council seat"}
+{"qid":117477603,"place":"Castle Point","lat":51.55,"lon":0.58,"precision":"region","confidence":"medium","note":"borough"}
+{"qid":16274901,"place":"Fayt-le-Franc","lat":50.3947,"lon":3.7792,"precision":"city","confidence":"medium","note":"race location"}
+{"qid":4774821,"place":"St. John's, Antigua and Barbuda","lat":17.1274,"lon":-61.8468,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":133278330,"place":"National Stadium, Warsaw","lat":52.2394,"lon":21.0458,"precision":"site","confidence":"high","note":"venue"}
+{"qid":16154312,"place":"Zhoushan","lat":30.016,"lon":122.106,"precision":"city","confidence":"medium","note":"stage race island"}
+{"qid":7979089,"place":"St George's Chapel, Windsor Castle","lat":51.4839,"lon":-0.6044,"precision":"site","confidence":"medium","note":"wedding venue"}
+{"qid":5020846,"place":"California","lat":36.7,"lon":-119.7,"precision":"region","confidence":"high","note":"statewide ballot"}
+{"qid":5194631,"place":"Curaçao","lat":12.1696,"lon":-68.99,"precision":"region","confidence":"high","note":"referendum island"}
+{"qid":5319798,"place":"Gdańsk","lat":54.352,"lon":18.6466,"precision":"city","confidence":"high","note":"newspaper base"}
+{"qid":28121701,"place":"Bessèges","lat":44.29,"lon":4.1,"precision":"city","confidence":"medium","note":"race namesake"}
+{"qid":4976883,"place":"Cheshunt","lat":51.705,"lon":-0.037,"precision":"city","confidence":"medium","note":"Broxbourne council seat"}
+{"qid":5330752,"place":"Eastleigh","lat":50.969,"lon":-1.35,"precision":"city","confidence":"high","note":"council seat"}
+{"qid":99772823,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"global timeline"}
+{"qid":5529706,"place":"Arnold, Nottinghamshire","lat":53.005,"lon":-1.133,"precision":"city","confidence":"medium","note":"Gedling council seat"}
+{"qid":3716800,"place":"Waregem","lat":50.8886,"lon":3.4272,"precision":"city","confidence":"high","note":"race finish"}
+{"qid":97356645,"place":"Sunderland","lat":54.9069,"lon":-1.3838,"precision":"city","confidence":"high","note":"council seat"}
+{"qid":3722428,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":134738245,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"boycott campaign"}
+{"qid":3784486,"place":"Eijsden","lat":50.777,"lon":5.682,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":50090322,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"boycott campaign"}
+{"qid":6449005,"place":"Kuwait City","lat":29.3759,"lon":47.9774,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":9087523,"place":"Mexico","lat":23.6345,"lon":-102.5528,"precision":"country","confidence":"medium","note":"annual fair in Mexico"}
+{"qid":28838073,"place":"Larciano","lat":43.82,"lon":10.89,"precision":"city","confidence":"high","note":"race location"}
+{"qid":26742032,"place":"Kenya","lat":0.0236,"lon":37.9062,"precision":"country","confidence":"high","note":"currency in Kenya"}
+{"qid":30326517,"place":"Rio de Janeiro","lat":-22.9068,"lon":-43.1729,"precision":"city","confidence":"low","note":"imperial capital"}
+{"qid":22948663,"place":"Muscat","lat":23.588,"lon":58.3829,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":60787577,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"banknotes"}
+{"qid":91927930,"place":"Stockport","lat":53.4084,"lon":-2.1494,"precision":"city","confidence":"high","note":"council seat"}
+{"qid":127433570,"place":"Stade du 5 Juillet 1962","lat":36.744,"lon":3.087,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":123739218,"place":"Ghazni Province","lat":33.55,"lon":68.42,"precision":"region","confidence":"medium","note":"village in Ghazni"}
+{"qid":5020881,"place":"California","lat":36.7,"lon":-119.7,"precision":"region","confidence":"high","note":"statewide ballot"}
+{"qid":4613597,"place":"Maracanã Stadium","lat":-22.9122,"lon":-43.2302,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":20717379,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"abstract topic"}
+{"qid":20724098,"place":"Charbonnières-les-Bains","lat":45.777,"lon":4.75,"precision":"city","confidence":"medium","note":"race start"}
+{"qid":112039811,"place":"Reading, Berkshire","lat":51.4543,"lon":-0.9781,"precision":"city","confidence":"high","note":"council seat"}
+{"qid":130469648,"place":"Lewes","lat":50.874,"lon":0.008,"precision":"city","confidence":"medium","note":"county council seat"}
+{"qid":3681753,"place":"Almería","lat":36.834,"lon":-2.4637,"precision":"city","confidence":"high","note":"race finish"}
+{"qid":24083558,"place":"Great Yarmouth","lat":52.6083,"lon":1.7297,"precision":"city","confidence":"high","note":"council seat"}
+{"qid":7891799,"place":"Albany, New York","lat":42.6526,"lon":-73.7562,"precision":"city","confidence":"high","note":"legislature seat"}
+{"qid":104878640,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"high","note":"district election"}
+{"qid":12839195,"place":"Baku","lat":40.4093,"lon":49.8671,"precision":"city","confidence":"medium","note":"capital"}

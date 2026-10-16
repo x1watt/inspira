@@ -1,0 +1,50 @@
+{"qid":19604760,"place":"Athens","lat":37.9838,"lon":23.7275,"precision":"city","confidence":"high","note":"Hellenic Parliament election"}
+{"qid":7246074,"place":"Geneva","lat":46.2044,"lon":6.1432,"precision":"city","confidence":"medium","note":"ILO conference city"}
+{"qid":57277860,"place":"Vårgårda","lat":58.0333,"lon":12.8,"precision":"city","confidence":"high","note":"race in Vårgårda"}
+{"qid":2535288,"place":"Zürich","lat":47.3769,"lon":8.5417,"precision":"city","confidence":"high","note":"Zürich one-day race"}
+{"qid":28222265,"place":"Mississippi","lat":32.7364,"lon":-89.6678,"precision":"region","confidence":"high","note":"state election"}
+{"qid":2297968,"place":"Zambia","lat":-13.1339,"lon":27.8493,"precision":"country","confidence":"high","note":"Zambian currency"}
+{"qid":261842,"place":"Austria","lat":47.5162,"lon":14.5501,"precision":"country","confidence":"high","note":"Austrian stage race"}
+{"qid":7982147,"place":"Welwyn Hatfield","lat":51.7633,"lon":-0.2231,"precision":"city","confidence":"high","note":"borough council election"}
+{"qid":141302079,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"worldwide series"}
+{"qid":441357,"place":"Bremen","lat":53.0793,"lon":8.8017,"precision":"city","confidence":"high","note":"Bremen state election"}
+{"qid":139761894,"place":"Lomé","lat":6.1725,"lon":1.2314,"precision":"city","confidence":"high","note":"held in Lomé"}
+{"qid":96362463,"place":"West Virginia","lat":38.468,"lon":-80.9696,"precision":"region","confidence":"high","note":"state election"}
+{"qid":17091382,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"high","note":"nationwide polling"}
+{"qid":11106117,"place":"Beijing","lat":39.9042,"lon":116.4074,"precision":"city","confidence":"high","note":"trial held in Beijing"}
+{"qid":18166028,"place":"Canberra","lat":-35.2809,"lon":149.13,"precision":"city","confidence":"medium","note":"Australian Parliament"}
+{"qid":2115135,"place":"Banjul","lat":13.4549,"lon":-16.579,"precision":"city","confidence":"high","note":"Gambian capital"}
+{"qid":23306133,"place":"Santo Domingo","lat":18.4861,"lon":-69.9312,"precision":"city","confidence":"high","note":"2003 Pan Am Games host"}
+{"qid":86894095,"place":"Belgium","lat":50.5039,"lon":4.4699,"precision":"country","confidence":"high","note":"Belgian cup series"}
+{"qid":57244872,"place":"Hamburg","lat":53.5511,"lon":9.9937,"precision":"city","confidence":"high","note":"race in Hamburg"}
+{"qid":42052959,"place":"Flanders","lat":51.0,"lon":4.0,"precision":"region","confidence":"high","note":"Tour of Flanders"}
+{"qid":104949795,"place":"Wisconsin","lat":44.5,"lon":-89.5,"precision":"region","confidence":"high","note":"state election"}
+{"qid":6322553,"place":"Tokyo Dome","lat":35.7056,"lon":139.7519,"precision":"site","confidence":"high","note":"held at Tokyo Dome"}
+{"qid":7057201,"place":"North Warwickshire","lat":52.6,"lon":-1.6,"precision":"city","confidence":"high","note":"borough council election"}
+{"qid":96417767,"place":"Doha","lat":25.2854,"lon":51.531,"precision":"city","confidence":"high","note":"West Asian Games in Doha"}
+{"qid":17027897,"place":"Port Hedland, Western Australia","lat":-20.3106,"lon":118.6011,"precision":"city","confidence":"high","note":"record gales at Port Hedland"}
+{"qid":4128664,"place":"Russia","lat":61.524,"lon":105.3188,"precision":"country","confidence":"high","note":"Russian regional elections"}
+{"qid":21072326,"place":"Schoten","lat":51.2506,"lon":4.4981,"precision":"city","confidence":"high","note":"Scheldeprijs finishes in Schoten"}
+{"qid":7596692,"place":"Staffordshire","lat":52.88,"lon":-2.05,"precision":"region","confidence":"high","note":"county council election"}
+{"qid":23302645,"place":"Texas","lat":31.9686,"lon":-99.9018,"precision":"region","confidence":"low","note":"Southwest Conference teams"}
+{"qid":221191,"place":"Leamington Spa","lat":52.2923,"lon":-1.5367,"precision":"city","confidence":"high","note":"band from Leamington Spa"}
+{"qid":3304239,"place":"Vietnam","lat":14.0583,"lon":108.2772,"precision":"country","confidence":"high","note":"storm hit Vietnam and Laos"}
+{"qid":5330751,"place":"Eastleigh","lat":50.9694,"lon":-1.3504,"precision":"city","confidence":"high","note":"borough council election"}
+{"qid":7973741,"place":"Mar del Plata","lat":-38.0055,"lon":-57.5426,"precision":"city","confidence":"high","note":"1995 Pan Am Games host"}
+{"qid":5269533,"place":"Malé","lat":4.1755,"lon":73.5093,"precision":"city","confidence":"medium","note":"Maldives TV channel"}
+{"qid":60744232,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"world concert tour"}
+{"qid":19605169,"place":"Charlotte Amalie, U.S. Virgin Islands","lat":18.3419,"lon":-64.9307,"precision":"city","confidence":"medium","note":"USVI capital"}
+{"qid":23889286,"place":"Dauphiné","lat":45.2,"lon":5.7,"precision":"region","confidence":"medium","note":"Dauphiné race"}
+{"qid":899208,"place":"Limburg (Netherlands)","lat":50.95,"lon":5.9,"precision":"region","confidence":"high","note":"race in Limburg"}
+{"qid":30337990,"place":"Slovenia","lat":46.1512,"lon":14.9955,"precision":"country","confidence":"high","note":"Slovenian stage race"}
+{"qid":17332411,"place":"Boké","lat":10.9333,"lon":-14.3,"precision":"city","confidence":"low","note":"incident on Nunez River"}
+{"qid":3587143,"place":"Port Vila","lat":-17.7334,"lon":168.3273,"precision":"city","confidence":"high","note":"Vanuatu capital"}
+{"qid":1151686,"place":"Puyang","lat":35.7628,"lon":115.0293,"precision":"city","confidence":"high","note":"treaty signed at Chanyuan"}
+{"qid":7695709,"place":"Santiago","lat":-33.4489,"lon":-70.6693,"precision":"city","confidence":"high","note":"Chilean TV news"}
+{"qid":2181757,"place":"Brussels","lat":50.8503,"lon":4.3517,"precision":"city","confidence":"high","note":"Belgian election"}
+{"qid":3069353,"place":"Flanders","lat":51.0,"lon":4.0,"precision":"region","confidence":"high","note":"Tour of Flanders"}
+{"qid":3319454,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"journal"}
+{"qid":19598869,"place":"Hamburg","lat":53.5511,"lon":9.9937,"precision":"city","confidence":"high","note":"race in Hamburg"}
+{"qid":4157150,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"high","note":"Russian network takeover"}
+{"qid":136735293,"place":"Waregem","lat":50.8883,"lon":3.4264,"precision":"city","confidence":"high","note":"race finishes in Waregem"}
+{"qid":125206775,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"comic series"}

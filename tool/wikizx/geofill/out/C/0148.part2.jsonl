@@ -1,0 +1,50 @@
+{"qid":5419867,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"medium","note":"US executive order"}
+{"qid":5348495,"place":"Cairo","lat":30.0444,"lon":31.2357,"precision":"city","confidence":"medium","note":"Egyptian capital"}
+{"qid":737429,"place":"San Sebastián","lat":43.3183,"lon":-1.9812,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":13660394,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"high","note":"US Congress scandal"}
+{"qid":470943,"place":"Kingdom of Hungary","lat":47.1625,"lon":19.5033,"precision":"country","confidence":"low","note":"Hungarian Reformation"}
+{"qid":439089,"place":"Netherlands","lat":52.1326,"lon":5.2913,"precision":"country","confidence":"high","note":"Dutch deportation plan"}
+{"qid":4940160,"place":"Bolton","lat":53.5785,"lon":-2.4299,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":104165630,"place":"Valkenburg aan de Geul","lat":50.865,"lon":5.83,"precision":"city","confidence":"high","note":"race in Limburg"}
+{"qid":7891385,"place":"Arizona","lat":34.0489,"lon":-111.0937,"precision":"region","confidence":"high","note":"state election"}
+{"qid":125242651,"place":"Worcester, England","lat":52.1936,"lon":-2.2209,"precision":"city","confidence":"high","note":"city council election"}
+{"qid":16831893,"place":"Hurghada","lat":27.2579,"lon":33.8116,"precision":"city","confidence":"high","note":"tournament in Hurghada"}
+{"qid":131578675,"place":"Manila","lat":14.5995,"lon":120.9842,"precision":"city","confidence":"medium","note":"early NCAA Philippines"}
+{"qid":60627802,"place":"Yorkshire","lat":53.9915,"lon":-1.5412,"precision":"region","confidence":"high","note":"race in Yorkshire"}
+{"qid":24039313,"place":"Three Rivers District","lat":51.65,"lon":-0.47,"precision":"region","confidence":"high","note":"district election"}
+{"qid":16158586,"place":"Alabama","lat":32.8067,"lon":-86.7911,"precision":"region","confidence":"high","note":"state election"}
+{"qid":3722371,"place":"Podgorica","lat":42.4304,"lon":19.2594,"precision":"city","confidence":"medium","note":"Montenegrin capital"}
+{"qid":1972128,"place":"Antwerp","lat":51.2194,"lon":4.4025,"precision":"city","confidence":"medium","note":"ship loaded in Antwerp"}
+{"qid":16959090,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"low","note":"British honours controversy"}
+{"qid":124707135,"place":"General Santos","lat":6.1128,"lon":125.1717,"precision":"city","confidence":"high","note":"Lagao Gymnasium"}
+{"qid":105061424,"place":"Missouri","lat":37.9643,"lon":-91.8318,"precision":"region","confidence":"high","note":"state election"}
+{"qid":3533365,"place":"Sesto San Giovanni","lat":45.5333,"lon":9.2333,"precision":"city","confidence":"high","note":"race finish"}
+{"qid":1982365,"place":"Limburg (Netherlands)","lat":51.2093,"lon":5.93,"precision":"region","confidence":"high","note":"race in Limburg"}
+{"qid":140244689,"place":"Tripoli, Lebanon","lat":34.4367,"lon":35.8497,"precision":"city","confidence":"high","note":"stadium in Tripoli"}
+{"qid":7982138,"place":"Welwyn Hatfield","lat":51.78,"lon":-0.19,"precision":"region","confidence":"high","note":"district election"}
+{"qid":2053377,"place":"Banjul","lat":13.4549,"lon":-16.579,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":4824848,"place":"Canberra","lat":-35.2809,"lon":149.13,"precision":"city","confidence":"high","note":"Parliament of Australia"}
+{"qid":12028826,"place":"Vysoké Mýto","lat":49.9531,"lon":16.1553,"precision":"city","confidence":"medium","note":"Karosa produced there"}
+{"qid":23782112,"place":"Toulouse","lat":43.6047,"lon":1.4442,"precision":"city","confidence":"high","note":"department seat"}
+{"qid":16680590,"place":"Milan","lat":45.4642,"lon":9.19,"precision":"city","confidence":"high","note":"race start"}
+{"qid":6979910,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"polling list"}
+{"qid":7064737,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"low","note":"Northeast US storm"}
+{"qid":1893664,"place":"Wincanton","lat":51.056,"lon":-2.416,"precision":"city","confidence":"low","note":"race named Wincanton"}
+{"qid":131394588,"place":"Plovdiv","lat":42.1354,"lon":24.7453,"precision":"city","confidence":"high","note":"stadium in Plovdiv"}
+{"qid":28129325,"place":"Västervik","lat":57.7584,"lon":16.6364,"precision":"city","confidence":"high","note":"Stena Arena"}
+{"qid":48862889,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"medium","note":"hijacked domestic flight"}
+{"qid":4345583,"place":"Mariehamn","lat":60.0973,"lon":19.9348,"precision":"city","confidence":"high","note":"Åland capital"}
+{"qid":16994410,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"medium","note":"Marvel UK"}
+{"qid":4564571,"place":"St. Louis","lat":38.627,"lon":-90.1994,"precision":"city","confidence":"high","note":"smog in St. Louis"}
+{"qid":50217821,"place":"Pyeongchang County","lat":37.55,"lon":128.45,"precision":"city","confidence":"high","note":"Paralympics host"}
+{"qid":7118992,"place":"Democratic Republic of the Congo","lat":-4.0383,"lon":21.7587,"precision":"country","confidence":"low","note":"program in Congo"}
+{"qid":4563678,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"high","note":"national football season"}
+{"qid":106239260,"place":"Saudi Arabia","lat":23.8859,"lon":45.0792,"precision":"country","confidence":"high","note":"certification mark"}
+{"qid":125018009,"place":"Los Angeles","lat":34.0522,"lon":-118.2437,"precision":"city","confidence":"high","note":"1984 Olympics host"}
+{"qid":16984193,"place":"Hinckley and Bosworth","lat":52.54,"lon":-1.4,"precision":"region","confidence":"high","note":"borough election"}
+{"qid":4855676,"place":"Vatican City","lat":41.9029,"lon":12.4534,"precision":"country","confidence":"high","note":"Holy See reaction"}
+{"qid":85725395,"place":"Stevenage","lat":51.9038,"lon":-0.1966,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":104901595,"place":"Illinois","lat":40.6331,"lon":-89.3985,"precision":"region","confidence":"high","note":"state election"}
+{"qid":23306129,"place":"Renfrewshire","lat":55.83,"lon":-4.54,"precision":"region","confidence":"high","note":"council election"}
+{"qid":104176968,"place":"Plouay","lat":47.9167,"lon":-3.2833,"precision":"city","confidence":"high","note":"race in Plouay"}
+{"qid":117462844,"place":"Mid Suffolk","lat":52.2,"lon":1.0,"precision":"region","confidence":"high","note":"district election"}

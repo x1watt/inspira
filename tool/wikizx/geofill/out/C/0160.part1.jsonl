@@ -1,0 +1,50 @@
+{"qid":1725920,"place":"Spreitenbach","lat":47.42,"lon":8.364,"precision":"city","confidence":"high","note":"race start"}
+{"qid":27629689,"place":"Rio de Janeiro","lat":-22.9068,"lon":-43.1729,"precision":"city","confidence":"high","note":"Olympic host city"}
+{"qid":7171204,"place":"Lima","lat":-12.0464,"lon":-77.0428,"precision":"city","confidence":"medium","note":"national election"}
+{"qid":38215858,"place":"Colorado","lat":39.5501,"lon":-105.7821,"precision":"region","confidence":"high","note":"race in Colorado"}
+{"qid":6423003,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"software"}
+{"qid":25349976,"place":"Colchester","lat":51.8892,"lon":0.9042,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":115802838,"place":"Lowestoft","lat":52.4752,"lon":1.751,"precision":"city","confidence":"medium","note":"Waveney council area"}
+{"qid":20646787,"place":"King's Lynn","lat":52.754,"lon":0.395,"precision":"city","confidence":"high","note":"stadium city"}
+{"qid":16933908,"place":"Bootle","lat":53.445,"lon":-2.99,"precision":"city","confidence":"medium","note":"Sefton council seat"}
+{"qid":21061682,"place":"Bradford","lat":53.796,"lon":-1.7594,"precision":"city","confidence":"high","note":"city council"}
+{"qid":4602764,"place":"Australia","lat":-25.2744,"lon":133.7751,"precision":"country","confidence":"medium","note":"Family Court of Australia"}
+{"qid":16678712,"place":"France","lat":46.2276,"lon":2.2137,"precision":"country","confidence":"medium","note":"French tracker site"}
+{"qid":85611868,"place":"France","lat":46.2276,"lon":2.2137,"precision":"country","confidence":"high","note":"French case"}
+{"qid":107690138,"place":"Canary Islands","lat":28.2916,"lon":-16.6291,"precision":"region","confidence":"high","note":"Canarian protected area"}
+{"qid":6816017,"place":"Belgrade","lat":44.7866,"lon":20.4489,"precision":"city","confidence":"high","note":"championship host"}
+{"qid":4028649,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"published in US"}
+{"qid":20648594,"place":"Denham, Buckinghamshire","lat":51.575,"lon":-0.496,"precision":"city","confidence":"medium","note":"South Bucks council seat"}
+{"qid":2369265,"place":"Tokyo Dome","lat":35.7056,"lon":139.7519,"precision":"site","confidence":"high","note":"stated venue"}
+{"qid":106913128,"place":"Nuneaton","lat":52.523,"lon":-1.468,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":56042810,"place":"Brisbane","lat":-27.4698,"lon":153.0251,"precision":"city","confidence":"high","note":"club based in Brisbane"}
+{"qid":4832854,"place":"Ponta Delgada","lat":37.7412,"lon":-25.6756,"precision":"city","confidence":"medium","note":"Azores legislature seat"}
+{"qid":130223557,"place":"Sydney","lat":-33.8688,"lon":151.2093,"precision":"city","confidence":"low","note":"NRL finals state"}
+{"qid":123999104,"place":"Ghent","lat":51.0543,"lon":3.7174,"precision":"city","confidence":"high","note":"race start"}
+{"qid":137605077,"place":"Budapest","lat":47.4979,"lon":19.0402,"precision":"city","confidence":"high","note":"Szolo Street reformatory"}
+{"qid":123907458,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"comic storyline"}
+{"qid":91932094,"place":"Stockport","lat":53.4083,"lon":-2.1494,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":4882512,"place":"Brussels","lat":50.8503,"lon":4.3517,"precision":"city","confidence":"medium","note":"national election"}
+{"qid":3079810,"place":"Portugal","lat":39.3999,"lon":-8.2245,"precision":"country","confidence":"high","note":"national tour"}
+{"qid":6367364,"place":"New Delhi","lat":28.6139,"lon":77.209,"precision":"city","confidence":"medium","note":"Government of India inquiry"}
+{"qid":7595720,"place":"Russia","lat":61.524,"lon":105.3188,"precision":"country","confidence":"medium","note":"Russian exercise"}
+{"qid":125112442,"place":"Chester","lat":53.193,"lon":-2.8931,"precision":"city","confidence":"high","note":"city council"}
+{"qid":108104163,"place":"Leuven","lat":50.8798,"lon":4.7005,"precision":"city","confidence":"high","note":"race in Leuven"}
+{"qid":3996116,"place":"Basel","lat":47.5596,"lon":7.5886,"precision":"city","confidence":"high","note":"race finish"}
+{"qid":3722434,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"medium","note":"national election"}
+{"qid":2580371,"place":"Antwerp","lat":51.2194,"lon":4.4025,"precision":"city","confidence":"medium","note":"Scheldeprijs race area"}
+{"qid":7061358,"place":"Norway","lat":60.472,"lon":8.4689,"precision":"country","confidence":"high","note":"national local elections"}
+{"qid":51636164,"place":"Trento","lat":46.0748,"lon":11.1217,"precision":"city","confidence":"high","note":"race finish"}
+{"qid":16958841,"place":"Northampton","lat":52.2405,"lon":-0.9027,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":112228076,"place":"Basingstoke","lat":51.2665,"lon":-1.0924,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":85735199,"place":"Colchester","lat":51.8892,"lon":0.9042,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":14652441,"place":"Langford, British Columbia","lat":48.451,"lon":-123.505,"precision":"city","confidence":"high","note":"stated host"}
+{"qid":48845446,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"league draft"}
+{"qid":19605164,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"high","note":"national elections"}
+{"qid":116909432,"place":"Welwyn Garden City","lat":51.801,"lon":-0.207,"precision":"city","confidence":"medium","note":"council area"}
+{"qid":63413112,"place":"Ottawa","lat":45.4215,"lon":-75.6972,"precision":"city","confidence":"low","note":"eastern Ontario floods"}
+{"qid":27831832,"place":"Hong Kong Squash Centre","lat":22.282,"lon":114.159,"precision":"site","confidence":"medium","note":"stated venue"}
+{"qid":110269764,"place":"Cheltenham","lat":51.8994,"lon":-2.0783,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":130389609,"place":"Tabas","lat":33.595,"lon":56.924,"precision":"city","confidence":"high","note":"mine near Tabas"}
+{"qid":79989942,"place":"Victoria (Australia)","lat":-37.4713,"lon":144.7852,"precision":"region","confidence":"high","note":"stage race"}
+{"qid":51069086,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"high","note":"meeting place"}
