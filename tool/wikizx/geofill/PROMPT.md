@@ -59,3 +59,22 @@ Rules:
    file, for example 50 lines each). Parts together must cover every
    line; a batch with missing lines counts as not done.
 7. Answer every line, even with `"place":null,"precision":"none"`.
+
+## Cheaper way to read and write (optional)
+
+From `tool/wikizx`, show 50 items at a time in a short form:
+
+    python3 -I geofill/show.py A 0002 0 50
+
+and write the answers for them as pipe lines through a helper that makes
+the JSON and the part file (`out/A/0002.part1.jsonl`):
+
+    python3 -I geofill/wr.py A 0002 1 <<'X'
+    qid|place|lat|lon|precision|confidence|note
+    X
+
+`precision` is one letter: s site, c city, r region, k country, n none.
+`confidence` is h, m or l. An empty place means null (leave lat, lon
+empty too). Example: `3042723|Bangkok|13.7563|100.5018|c|h|signed there`.
+Repeat with part numbers 2, 3, 4 for the next 50 items. The helper
+refuses to overwrite an existing part file.

@@ -1,0 +1,50 @@
+{"qid":696664,"place":"Kota Bharu","lat":6.1254,"lon":102.2381,"precision":"city","confidence":"medium","note":"first landing"}
+{"qid":1992677,"place":"Mumbai","lat":19.076,"lon":72.8777,"precision":"city","confidence":"high","note":"launched at Bombay session"}
+{"qid":181817,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"holiday"}
+{"qid":502375,"place":"Sydney Cove","lat":-33.8587,"lon":151.2108,"precision":"site","confidence":"medium","note":"First Fleet landing"}
+{"qid":755125,"place":"Catalonia","lat":41.8,"lon":1.5,"precision":"region","confidence":"low","note":"race region"}
+{"qid":29144,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"varying hosts"}
+{"qid":1274389,"place":"Epifanio de los Santos Avenue","lat":14.6,"lon":121.03,"precision":"site","confidence":"medium","note":"EDSA protests"}
+{"qid":956699,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"holiday"}
+{"qid":4818171,"place":"Tehran","lat":35.6892,"lon":51.389,"precision":"city","confidence":"medium","note":"centre of revolution"}
+{"qid":646317,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"varying hosts"}
+{"qid":131080,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"observance"}
+{"qid":1145922,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"festival"}
+{"qid":132001,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"feast"}
+{"qid":4570404,"place":"Philadelphia","lat":39.9489,"lon":-75.1707,"precision":"city","confidence":"medium","note":"Warwick Hotel"}
+{"qid":14505142,"place":"Baltic states","lat":57.0,"lon":24.5,"precision":"region","confidence":"medium","note":"annexed region"}
+{"qid":4571564,"place":"Chicago","lat":41.8885,"lon":-87.6218,"precision":"city","confidence":"medium","note":"Sheraton hotel"}
+{"qid":682258,"place":"Leipzig","lat":51.3397,"lon":12.3731,"precision":"city","confidence":"medium","note":"Monday demonstrations"}
+{"qid":116265655,"place":"Meridian Hall","lat":43.6469,"lon":-79.3739,"precision":"site","confidence":"high","note":"ceremony venue"}
+{"qid":13582318,"place":"Philadelphia","lat":39.9489,"lon":-75.1707,"precision":"city","confidence":"medium","note":"Warwick Hotel"}
+{"qid":7889582,"place":"Philadelphia","lat":39.9526,"lon":-75.1652,"precision":"city","confidence":"low","note":"symbolic city"}
+{"qid":264012,"place":"Yoshino, Nara","lat":34.3667,"lon":135.8528,"precision":"city","confidence":"low","note":"Southern Court seat"}
+{"qid":1932,"place":"Cape Canaveral","lat":28.3922,"lon":-80.6077,"precision":"city","confidence":"low","note":"launch site"}
+{"qid":4571162,"place":"Chicago","lat":41.8885,"lon":-87.6218,"precision":"city","confidence":"medium","note":"Sheraton hotel"}
+{"qid":10259,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"festival"}
+{"qid":541946,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"observance"}
+{"qid":1259237,"place":"Khyber Pass","lat":34.0925,"lon":71.0844,"precision":"site","confidence":"low","note":"main front"}
+{"qid":102422710,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"low","note":"seat of challenged certification"}
+{"qid":697829,"place":"Normandy","lat":49.1829,"lon":-0.3707,"precision":"region","confidence":"medium","note":"D-Day landings"}
+{"qid":846330,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"election day"}
+{"qid":2840859,"place":"Moda Center","lat":45.5316,"lon":-122.6668,"precision":"site","confidence":"high","note":"game venue"}
+{"qid":487973,"place":"Romandie","lat":46.5,"lon":6.6,"precision":"region","confidence":"low","note":"race region"}
+{"qid":4570793,"place":"Chicago","lat":41.8885,"lon":-87.6218,"precision":"city","confidence":"medium","note":"Sheraton hotel"}
+{"qid":900013,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"holiday"}
+{"qid":506079,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"diplomatic split"}
+{"qid":4567494,"place":"Hotel Pennsylvania","lat":40.7498,"lon":-73.9916,"precision":"site","confidence":"medium","note":"Hotel Statler"}
+{"qid":11704,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"national day"}
+{"qid":2615472,"place":"El Paso, Texas","lat":31.7619,"lon":-106.485,"precision":"city","confidence":"low","note":"border conflict"}
+{"qid":1787448,"place":"Palace of Westminster","lat":51.4995,"lon":-0.1248,"precision":"site","confidence":"high","note":"purge of Parliament"}
+{"qid":47359,"place":"Kyoto","lat":35.0116,"lon":135.7681,"precision":"city","confidence":"high","note":"adopted there"}
+{"qid":115867251,"place":"Acre, Israel","lat":32.9281,"lon":35.0818,"precision":"city","confidence":"medium","note":"last crusader stronghold fell"}
+{"qid":4567173,"place":"Chicago","lat":41.8765,"lon":-87.6244,"precision":"city","confidence":"medium","note":"Blackstone Hotel"}
+{"qid":214451,"place":"Gulf of Aden","lat":12.5,"lon":47.0,"precision":"region","confidence":"low","note":"main piracy area"}
+{"qid":35105,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"festival"}
+{"qid":939103,"place":"Zuccotti Park","lat":40.7092,"lon":-74.0113,"precision":"site","confidence":"medium","note":"first occupation"}
+{"qid":739227,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"varying hosts"}
+{"qid":13220089,"place":"Mandatory Palestine","lat":31.5,"lon":35.0,"precision":"region","confidence":"low","note":"expulsion region"}
+{"qid":55138754,"place":"Secaucus, New Jersey","lat":40.7895,"lon":-74.0565,"precision":"city","confidence":"medium","note":"NHL Network studios"}
+{"qid":3077789,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"global pandemic"}
+{"qid":2567468,"place":"Suva","lat":-18.1416,"lon":178.4419,"precision":"city","confidence":"high","note":"coup in capital"}
+{"qid":4566868,"place":"Bellevue-Stratford Hotel","lat":39.9486,"lon":-75.165,"precision":"site","confidence":"high","note":"draft venue"}
