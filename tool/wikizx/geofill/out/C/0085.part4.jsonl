@@ -1,0 +1,50 @@
+{"qid":5146471,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"journal"}
+{"qid":7294465,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"streaming service"}
+{"qid":6725267,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"egg taxon"}
+{"qid":125784056,"place":"Canberra","lat":-35.2809,"lon":149.13,"precision":"city","confidence":"high","note":"presented in Parliament"}
+{"qid":4118951,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"global price shock"}
+{"qid":7700874,"place":"Canberra","lat":-35.2809,"lon":149.13,"precision":"city","confidence":"medium","note":"Australian government seat"}
+{"qid":5589384,"place":"Dublin","lat":53.3498,"lon":-6.2603,"precision":"city","confidence":"high","note":"Irish Free State government"}
+{"qid":7888038,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"debates at several cities"}
+{"qid":111667416,"place":"Tauron Arena Kraków","lat":50.0671,"lon":19.9912,"precision":"site","confidence":"high","note":"held at Tauron Arena"}
+{"qid":17265258,"place":"Marsa, Malta","lat":35.8776,"lon":14.4942,"precision":"city","confidence":"medium","note":"contest held at Marsa"}
+{"qid":23018227,"place":"Alaska","lat":64.2,"lon":-149.5,"precision":"region","confidence":"high","note":"state election"}
+{"qid":3722230,"place":"Denmark","lat":56.2639,"lon":9.5018,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":17015908,"place":"Tennessee","lat":35.8,"lon":-86.4,"precision":"region","confidence":"high","note":"state election"}
+{"qid":11153199,"place":"Providence, Rhode Island","lat":41.824,"lon":-71.4128,"precision":"city","confidence":"high","note":"developed at Brown University"}
+{"qid":5878090,"place":"Hokkaido","lat":43.22,"lon":142.86,"precision":"region","confidence":"medium","note":"operated in Hokkaido"}
+{"qid":12199811,"place":"Arizona","lat":34.2,"lon":-111.6,"precision":"region","confidence":"low","note":"gale winds in Southwest US"}
+{"qid":106631066,"place":"United Nations Headquarters","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"high","note":"election held at UN"}
+{"qid":135227850,"place":"Hayward Field","lat":44.0425,"lon":-123.0679,"precision":"site","confidence":"high","note":"meeting at Hayward Field"}
+{"qid":17507548,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"high","note":"address to Congress"}
+{"qid":131418230,"place":"Tanner, Alabama","lat":34.7048,"lon":-86.9511,"precision":"city","confidence":"high","note":"tornadoes hit Tanner"}
+{"qid":5025744,"place":"London Borough of Camden","lat":51.5517,"lon":-0.1588,"precision":"region","confidence":"high","note":"borough election"}
+{"qid":3595702,"place":"Ayodhya","lat":26.7922,"lon":82.1998,"precision":"city","confidence":"medium","note":"inquiry into Babri demolition"}
+{"qid":127786248,"place":"Salt Lake City","lat":40.7608,"lon":-111.891,"precision":"city","confidence":"high","note":"Utah 2034 host"}
+{"qid":39056480,"place":"Toledo, Spain","lat":39.8628,"lon":-4.0273,"precision":"city","confidence":"medium","note":"regional capital"}
+{"qid":917386,"place":"Poland","lat":51.9194,"lon":19.1451,"precision":"country","confidence":"high","note":"national stage race"}
+{"qid":24935410,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"architectural style"}
+{"qid":2110883,"place":"Kosovo","lat":42.6,"lon":20.9,"precision":"region","confidence":"high","note":"outbreak centered in Kosovo"}
+{"qid":8027896,"place":"Cape Town","lat":-33.9249,"lon":18.4241,"precision":"city","confidence":"medium","note":"South African Parliament act"}
+{"qid":135118035,"place":"Bratislava","lat":48.1486,"lon":17.1077,"precision":"city","confidence":"high","note":"final in Bratislava"}
+{"qid":104850537,"place":"Cuba","lat":21.5218,"lon":-77.7812,"precision":"country","confidence":"high","note":"campaign across Cuba"}
+{"qid":65121103,"place":"Rarotonga","lat":-21.2292,"lon":-159.7769,"precision":"city","confidence":"medium","note":"Cook Islands administration seat"}
+{"qid":1524823,"place":"Köpenick","lat":52.4425,"lon":13.5753,"precision":"city","confidence":"high","note":"violence in Köpenick"}
+{"qid":16996081,"place":"Leeds","lat":53.8008,"lon":-1.5491,"precision":"city","confidence":"high","note":"city council election"}
+{"qid":65079178,"place":"Nottingham","lat":52.9548,"lon":-1.1581,"precision":"city","confidence":"high","note":"city council election"}
+{"qid":56290856,"place":"United Nations Headquarters","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"high","note":"General Assembly session"}
+{"qid":120083073,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"EU presidency"}
+{"qid":109322967,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"global circuit"}
+{"qid":6543994,"place":"Vaduz","lat":47.141,"lon":9.5209,"precision":"city","confidence":"medium","note":"national election, capital"}
+{"qid":112968291,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"market decline"}
+{"qid":1040554,"place":"Smithsonian Institution Building","lat":38.8887,"lon":-77.026,"precision":"site","confidence":"medium","note":"agreement reached at Smithsonian"}
+{"qid":5447537,"place":"Canberra","lat":-35.2809,"lon":149.13,"precision":"city","confidence":"medium","note":"Australian government seat"}
+{"qid":3430576,"place":"Copenhagen","lat":55.6761,"lon":12.5683,"precision":"city","confidence":"medium","note":"Danish government seat"}
+{"qid":7891752,"place":"New Jersey","lat":40.1,"lon":-74.5,"precision":"region","confidence":"high","note":"state election"}
+{"qid":115862434,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"high","note":"delivered in House of Commons"}
+{"qid":675390,"place":"Lombardy","lat":45.6,"lon":9.9,"precision":"region","confidence":"medium","note":"race in Lombardy"}
+{"qid":20714241,"place":"United States Supreme Court Building","lat":38.8906,"lon":-77.0044,"precision":"site","confidence":"high","note":"Supreme Court case"}
+{"qid":134975272,"place":"Estádio Algarve","lat":37.0383,"lon":-8.117,"precision":"site","confidence":"high","note":"match venue"}
+{"qid":134706462,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"online chess circuit"}
+{"qid":28450127,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"multi-site rugby series"}
+{"qid":117421796,"place":"Mexico","lat":23.6345,"lon":-102.5528,"precision":"country","confidence":"medium","note":"national league playoffs"}

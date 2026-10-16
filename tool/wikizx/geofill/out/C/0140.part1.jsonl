@@ -1,0 +1,50 @@
+{"qid":25110351,"place":"Garfagnana","lat":44.15,"lon":10.4,"precision":"region","confidence":"medium","note":"murder in Garfagnana"}
+{"qid":57165824,"place":"San Sebastián","lat":43.3183,"lon":-1.9812,"precision":"city","confidence":"high","note":"race in San Sebastián"}
+{"qid":113589574,"place":"Emilia (region)","lat":44.5,"lon":11.0,"precision":"region","confidence":"low","note":"race in Emilia region"}
+{"qid":27629596,"place":"Ankara","lat":39.9334,"lon":32.8597,"precision":"city","confidence":"medium","note":"Turkey, capital"}
+{"qid":85723176,"place":"Indiana","lat":39.7684,"lon":-86.1581,"precision":"region","confidence":"medium","note":"state election, Indianapolis"}
+{"qid":121298423,"place":"Maryland","lat":39.0458,"lon":-76.6413,"precision":"region","confidence":"medium","note":"race in Maryland"}
+{"qid":54430544,"place":"Sint-Amandsberg","lat":51.06,"lon":3.75,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":7852831,"place":"Royal Tunbridge Wells","lat":51.132,"lon":0.263,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":56364043,"place":"Stadio Comunale di Torino","lat":45.0417,"lon":7.65,"precision":"site","confidence":"medium","note":"second leg venue"}
+{"qid":7401617,"place":"Saint Kitts and Nevis","lat":17.3578,"lon":-62.783,"precision":"country","confidence":"medium","note":"nationwide"}
+{"qid":7892666,"place":"Arizona","lat":33.4484,"lon":-112.074,"precision":"region","confidence":"medium","note":"state election"}
+{"qid":2337169,"place":"Rio de Janeiro","lat":-22.9068,"lon":-43.1729,"precision":"city","confidence":"medium","note":"capital then"}
+{"qid":7985816,"place":"West Lothian","lat":55.88,"lon":-3.52,"precision":"region","confidence":"medium","note":"council area"}
+{"qid":137324700,"place":"AlUla","lat":26.6081,"lon":37.9232,"precision":"city","confidence":"medium","note":"race in AlUla"}
+{"qid":5828679,"place":"Bogotá","lat":4.711,"lon":-74.0721,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":51636204,"place":"Arco, Trentino","lat":45.9189,"lon":10.8869,"precision":"city","confidence":"medium","note":"finished in Arco"}
+{"qid":1060317,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"locomotive type"}
+{"qid":105274790,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"cricket season"}
+{"qid":7751322,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"TV film series"}
+{"qid":2819842,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"concert tour"}
+{"qid":2562444,"place":"Ghent","lat":51.0543,"lon":3.7174,"precision":"city","confidence":"medium","note":"start of Tour of Flanders"}
+{"qid":126908788,"place":"United Kingdom","lat":54.0,"lon":-2.0,"precision":"country","confidence":"medium","note":"national scandal"}
+{"qid":113641650,"place":"Phil Welch Stadium","lat":39.755,"lon":-94.829,"precision":"site","confidence":"medium","note":"finals site"}
+{"qid":85763263,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"series of expeditions"}
+{"qid":4646671,"place":"Antarctica","lat":-82.8628,"lon":135.0,"precision":"region","confidence":"low","note":"Antarctic expedition"}
+{"qid":18926867,"place":"Bessèges","lat":44.29,"lon":4.12,"precision":"city","confidence":"high","note":"race in Bessèges"}
+{"qid":28232721,"place":"Nova Scotia","lat":44.682,"lon":-63.7443,"precision":"region","confidence":"medium","note":"hurricane landfall"}
+{"qid":97360328,"place":"Delaware","lat":39.1582,"lon":-75.5244,"precision":"region","confidence":"medium","note":"state election"}
+{"qid":20713552,"place":"Strathallan Castle","lat":56.32,"lon":-3.7,"precision":"site","confidence":"high","note":"festival site"}
+{"qid":1458765,"place":"Cape Verde","lat":14.933,"lon":-23.5133,"precision":"country","confidence":"medium","note":"nationwide"}
+{"qid":3533368,"place":"Milan","lat":45.4642,"lon":9.19,"precision":"city","confidence":"high","note":"race start"}
+{"qid":117253784,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"national cup"}
+{"qid":7100619,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"outline of army"}
+{"qid":140882403,"place":"Czech Republic","lat":49.8175,"lon":15.473,"precision":"country","confidence":"medium","note":"nationwide scandal"}
+{"qid":136803493,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"season circuit"}
+{"qid":55600949,"place":"Schoten","lat":51.25,"lon":4.5,"precision":"city","confidence":"medium","note":"Scheldeprijs finish"}
+{"qid":23889291,"place":"Villeurbanne","lat":45.7667,"lon":4.88,"precision":"city","confidence":"high","note":"race start"}
+{"qid":217788,"place":"Hungary","lat":47.1625,"lon":19.5033,"precision":"country","confidence":"medium","note":"Hungarian formed division"}
+{"qid":4618093,"place":"Oklahoma","lat":35.4676,"lon":-97.5164,"precision":"region","confidence":"medium","note":"state budget"}
+{"qid":109283700,"place":"Boise, Idaho","lat":43.615,"lon":-116.2023,"precision":"city","confidence":"medium","note":"state capital"}
+{"qid":2610988,"place":"Luxembourg","lat":49.6116,"lon":6.1319,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":1164389,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"radio show"}
+{"qid":111913691,"place":"Seattle","lat":47.6062,"lon":-122.3321,"precision":"city","confidence":"high","note":"nurses strike"}
+{"qid":653712,"place":"Plouay","lat":47.9136,"lon":-3.2872,"precision":"city","confidence":"high","note":"race in Plouay"}
+{"qid":38806367,"place":"Brigham Young University","lat":40.2518,"lon":-111.6493,"precision":"site","confidence":"medium","note":"team of BYU"}
+{"qid":133837237,"place":"France","lat":46.2276,"lon":2.2137,"precision":"country","confidence":"high","note":"year in France"}
+{"qid":17050235,"place":"New Caledonia","lat":-21.25,"lon":165.5,"precision":"region","confidence":"medium","note":"strongest impact"}
+{"qid":15073633,"place":"Vietnam","lat":16.0,"lon":107.0,"precision":"country","confidence":"low","note":"landfall in Vietnam"}
+{"qid":4802082,"place":"Arun District","lat":50.82,"lon":-0.54,"precision":"region","confidence":"medium","note":"district council"}
+{"qid":703454,"place":"Busan","lat":35.1796,"lon":129.0756,"precision":"city","confidence":"medium","note":"Japanese trade at Busan"}

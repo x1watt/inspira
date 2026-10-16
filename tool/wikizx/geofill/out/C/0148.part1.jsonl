@@ -1,0 +1,50 @@
+{"qid":7101071,"place":"Oregon","lat":43.8041,"lon":-120.5542,"precision":"region","confidence":"high","note":"state ballot measure"}
+{"qid":4608771,"place":"Vientiane","lat":17.9757,"lon":102.6331,"precision":"city","confidence":"medium","note":"alleged coup in Laos"}
+{"qid":105474700,"place":"California","lat":36.7783,"lon":-119.4179,"precision":"region","confidence":"medium","note":"floods in California"}
+{"qid":1050442,"place":"Ikebukuro","lat":35.7295,"lon":139.7109,"precision":"city","confidence":"high","note":"setting in Ikebukuro"}
+{"qid":20711953,"place":"East Riding of Yorkshire","lat":53.84,"lon":-0.43,"precision":"region","confidence":"high","note":"council election"}
+{"qid":130441351,"place":"Manchester","lat":53.4808,"lon":-2.2426,"precision":"city","confidence":"high","note":"city council election"}
+{"qid":21061825,"place":"Richmondshire","lat":54.4,"lon":-1.73,"precision":"region","confidence":"high","note":"district election"}
+{"qid":132190009,"place":"Sher-e-Bangla National Cricket Stadium","lat":23.807,"lon":90.365,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":4868875,"place":"Bath, Maine","lat":43.9107,"lon":-69.8214,"precision":"city","confidence":"high","note":"riot in Bath"}
+{"qid":2053398,"place":"Banjul","lat":13.4549,"lon":-16.579,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":6909452,"place":"Moray","lat":57.5,"lon":-3.3,"precision":"region","confidence":"high","note":"constituency by-election"}
+{"qid":822432,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"high","note":"race in Germany"}
+{"qid":104849679,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"low","note":"league playoffs"}
+{"qid":28663652,"place":"Geneva","lat":46.2044,"lon":6.1432,"precision":"city","confidence":"high","note":"race start"}
+{"qid":64025724,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"documentary series"}
+{"qid":140570938,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"connector product"}
+{"qid":4570312,"place":"Estádio do Pacaembu","lat":-23.5456,"lon":-46.6642,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":123376497,"place":"Geneva","lat":46.2044,"lon":6.1432,"precision":"city","confidence":"medium","note":"Pictet worked in Geneva"}
+{"qid":112194902,"place":"Thammasat Stadium","lat":14.0714,"lon":100.607,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":117290083,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"TV series"}
+{"qid":5098811,"place":"Santiago","lat":-33.4489,"lon":-70.6693,"precision":"city","confidence":"medium","note":"Chilean capital"}
+{"qid":118904604,"place":"Victoria, British Columbia","lat":48.4284,"lon":-123.3656,"precision":"city","confidence":"medium","note":"provincial capital"}
+{"qid":5643634,"place":"Halton, Cheshire","lat":53.34,"lon":-2.7,"precision":"region","confidence":"high","note":"borough election"}
+{"qid":116304081,"place":"Burgos","lat":42.3439,"lon":-3.6969,"precision":"city","confidence":"high","note":"race in Burgos"}
+{"qid":18701750,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"list of characters"}
+{"qid":42377666,"place":"Mediterranean Sea","lat":35.0,"lon":18.0,"precision":"region","confidence":"medium","note":"naval cruise"}
+{"qid":7891562,"place":"Kansas","lat":38.5266,"lon":-96.7265,"precision":"region","confidence":"high","note":"state election"}
+{"qid":4569742,"place":"Uruguay","lat":-32.5228,"lon":-55.7658,"precision":"country","confidence":"high","note":"nationwide floods"}
+{"qid":40165743,"place":"The Hague","lat":52.0705,"lon":4.3007,"precision":"city","confidence":"medium","note":"Dutch Senate seat"}
+{"qid":4621312,"place":"Neerijnen","lat":51.8,"lon":5.2,"precision":"city","confidence":"medium","note":"race start"}
+{"qid":7678809,"place":"Papua New Guinea","lat":-6.315,"lon":143.9555,"precision":"country","confidence":"high","note":"airline"}
+{"qid":655708,"place":"Amsterdam","lat":52.3676,"lon":4.9041,"precision":"city","confidence":"high","note":"game played in Amsterdam"}
+{"qid":7891696,"place":"Montana","lat":46.8797,"lon":-110.3626,"precision":"region","confidence":"high","note":"state election"}
+{"qid":5419905,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"high","note":"signed in Washington"}
+{"qid":60776466,"place":"Alabama","lat":32.8067,"lon":-86.7911,"precision":"region","confidence":"high","note":"state primary"}
+{"qid":11932775,"place":"Prague","lat":50.0755,"lon":14.4378,"precision":"city","confidence":"medium","note":"Czech capital"}
+{"qid":51636208,"place":"Arco, Trentino","lat":45.919,"lon":10.886,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":4331543,"place":"Hong Kong","lat":22.3193,"lon":114.1694,"precision":"region","confidence":"high","note":"Hong Kong coin"}
+{"qid":18160676,"place":"Huntingdonshire","lat":52.33,"lon":-0.18,"precision":"region","confidence":"high","note":"district election"}
+{"qid":651277,"place":"Breisgau","lat":48.0,"lon":7.8,"precision":"region","confidence":"high","note":"conflict in Breisgau"}
+{"qid":6741492,"place":"Malawi","lat":-13.2543,"lon":34.3015,"precision":"country","confidence":"high","note":"national topic"}
+{"qid":5516582,"place":"Ireland","lat":53.4129,"lon":-8.2439,"precision":"country","confidence":"low","note":"camogie competition"}
+{"qid":138356686,"place":"Lincoln, England","lat":53.2307,"lon":-0.5406,"precision":"city","confidence":"high","note":"city council election"}
+{"qid":105394072,"place":"England","lat":52.3555,"lon":-1.1743,"precision":"country","confidence":"low","note":"cricket season"}
+{"qid":133281252,"place":"King Abdullah Sports City","lat":21.624,"lon":39.142,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":112083650,"place":"West Dunbartonshire","lat":55.95,"lon":-4.57,"precision":"region","confidence":"high","note":"council election"}
+{"qid":1804082,"place":"Wiesbaden","lat":50.0782,"lon":8.2398,"precision":"city","confidence":"high","note":"Hesse Landtag seat"}
+{"qid":2193647,"place":"Vysoké Mýto","lat":49.9531,"lon":16.1553,"precision":"city","confidence":"high","note":"produced in Vysoké Mýto"}
+{"qid":7314548,"place":"Brazzaville","lat":-4.2634,"lon":15.2429,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":96370270,"place":"Circuit de Barcelona-Catalunya","lat":41.57,"lon":2.2611,"precision":"site","confidence":"high","note":"testing venue"}

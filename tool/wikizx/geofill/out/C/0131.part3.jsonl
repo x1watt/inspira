@@ -1,0 +1,50 @@
+{"qid":17015375,"place":"Kentucky","lat":37.8393,"lon":-84.27,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":942857,"place":"Soviet Union","lat":55.7558,"lon":37.6173,"precision":"country","confidence":"low","note":"produced in USSR"}
+{"qid":55630185,"place":"Beijing","lat":39.9042,"lon":116.4074,"precision":"city","confidence":"high","note":"purges after Tiananmen protests"}
+{"qid":4819341,"place":"Soviet Union","lat":55.7558,"lon":37.6173,"precision":"country","confidence":"medium","note":"Soviet mine"}
+{"qid":25056875,"place":"Estadio Nacional Julio Martínez Prádanos","lat":-33.465,"lon":-70.61,"precision":"site","confidence":"medium","note":"final venue in Santiago"}
+{"qid":17100815,"place":"New York (state)","lat":42.6526,"lon":-73.7562,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":116303948,"place":"Basque Country (autonomous community)","lat":43.0,"lon":-2.75,"precision":"region","confidence":"high","note":"race in Basque Country"}
+{"qid":1314494,"place":"Edo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"low","note":"Edo period domains"}
+{"qid":113018498,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"low","note":"Aquinas taught in Paris"}
+{"qid":16912847,"place":"Czech Republic","lat":49.8175,"lon":15.473,"precision":"country","confidence":"high","note":"host country"}
+{"qid":772220,"place":"Würzburg","lat":49.7913,"lon":9.9534,"precision":"city","confidence":"high","note":"hoax in Würzburg"}
+{"qid":27962095,"place":"Kuala Lumpur","lat":3.139,"lon":101.6869,"precision":"city","confidence":"medium","note":"Malaysian Parliament"}
+{"qid":7837334,"place":"Dayton, Oregon","lat":45.2218,"lon":-123.0759,"precision":"city","confidence":"medium","note":"Treaty of Dayton"}
+{"qid":7891537,"place":"Indiana","lat":39.7684,"lon":-86.1581,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":3533787,"place":"Doha","lat":25.2854,"lon":51.531,"precision":"city","confidence":"medium","note":"Qatar race"}
+{"qid":4582496,"place":"Ponce, Puerto Rico","lat":18.0111,"lon":-66.6141,"precision":"city","confidence":"high","note":"Mameyes landslide in Ponce"}
+{"qid":28222302,"place":"Delaware","lat":39.1582,"lon":-75.5244,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":136437154,"place":"Ireland","lat":53.4129,"lon":-8.2439,"precision":"country","confidence":"medium","note":"strongest impact Ireland"}
+{"qid":7573425,"place":"Trinidad","lat":10.6918,"lon":-61.2225,"precision":"region","confidence":"medium","note":"Spanish missions"}
+{"qid":104842587,"place":"Illinois","lat":40.6331,"lon":-89.3985,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":3866280,"place":"Mandello del Lario","lat":45.917,"lon":9.326,"precision":"city","confidence":"high","note":"Moto Guzzi factory"}
+{"qid":20100211,"place":"Platja d'Aro","lat":41.817,"lon":3.068,"precision":"city","confidence":"high","note":"race start"}
+{"qid":28221863,"place":"Wisconsin","lat":43.0731,"lon":-89.4012,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":3586515,"place":"Yaoundé","lat":3.848,"lon":11.5021,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":6386922,"place":"Ķemeri","lat":56.95,"lon":23.5,"precision":"city","confidence":"high","note":"held in Ķemeri"}
+{"qid":1812939,"place":"Warsaw","lat":52.2297,"lon":21.0122,"precision":"city","confidence":"medium","note":"race began in Warsaw"}
+{"qid":139943063,"place":"Second Polish Republic","lat":52.2297,"lon":21.0122,"precision":"city","confidence":"low","note":"Polish parliamentary club"}
+{"qid":5019046,"place":"Calderdale","lat":53.72,"lon":-1.86,"precision":"city","confidence":"high","note":"council area"}
+{"qid":4886923,"place":"Copenhagen","lat":55.6761,"lon":12.5683,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":23022029,"place":"Flinders, South Australia","lat":-34.5,"lon":135.0,"precision":"region","confidence":"low","note":"electorate"}
+{"qid":5340853,"place":"United Kingdom","lat":51.5074,"lon":-0.1278,"precision":"country","confidence":"medium","note":"UK Parliament act"}
+{"qid":7607957,"place":"Newcastle upon Tyne","lat":54.9784,"lon":-1.6174,"precision":"city","confidence":"high","note":"journal based there"}
+{"qid":123553911,"place":"Leinster","lat":53.0,"lon":-7.0,"precision":"region","confidence":"medium","note":"Leinster competition"}
+{"qid":137168379,"place":"Glens Falls Civic Center","lat":43.3095,"lon":-73.644,"precision":"site","confidence":"high","note":"game venue"}
+{"qid":7017331,"place":"Newcastle-under-Lyme","lat":53.012,"lon":-2.226,"precision":"city","confidence":"high","note":"council area"}
+{"qid":3533450,"place":"Zürich","lat":47.3769,"lon":8.5417,"precision":"city","confidence":"high","note":"race start"}
+{"qid":39046853,"place":"Sudan","lat":12.8628,"lon":30.2176,"precision":"country","confidence":"high","note":"famine in Sudan"}
+{"qid":16833667,"place":"Connecticut","lat":41.7658,"lon":-72.6734,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":19870290,"place":"Estadio Libertadores de América","lat":-34.6704,"lon":-58.3711,"precision":"site","confidence":"medium","note":"La Doble Visera, Avellaneda"}
+{"qid":122762089,"place":"Limburg (Netherlands)","lat":50.9,"lon":5.95,"precision":"region","confidence":"medium","note":"race in Limburg"}
+{"qid":5198897,"place":"Vanuatu","lat":-15.3767,"lon":166.9592,"precision":"country","confidence":"medium","note":"affected Vanuatu"}
+{"qid":139505698,"place":"Newcastle-under-Lyme","lat":53.012,"lon":-2.226,"precision":"city","confidence":"high","note":"council area"}
+{"qid":21480312,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"album"}
+{"qid":7891952,"place":"Pennsylvania","lat":40.2732,"lon":-76.8867,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":7568728,"place":"Oregon","lat":44.0,"lon":-120.5,"precision":"region","confidence":"medium","note":"windstorm region"}
+{"qid":5827478,"place":"Castilla-La Mancha","lat":39.5,"lon":-3.0,"precision":"region","confidence":"high","note":"regional election"}
+{"qid":6467392,"place":"Geneva","lat":46.2044,"lon":6.1432,"precision":"city","confidence":"high","note":"adopted in Geneva"}
+{"qid":123614868,"place":"Slovenia","lat":46.1512,"lon":14.9955,"precision":"country","confidence":"medium","note":"nationwide stage race"}
+{"qid":20100217,"place":"Manresa","lat":41.725,"lon":1.826,"precision":"city","confidence":"high","note":"race start"}
+{"qid":3478508,"place":"Flanders","lat":51.0,"lon":4.0,"precision":"region","confidence":"medium","note":"Flemish classic"}

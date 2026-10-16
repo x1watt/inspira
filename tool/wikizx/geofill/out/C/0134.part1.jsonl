@@ -1,0 +1,50 @@
+{"qid":2139707,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"medium","note":"Nazi Germany road system"}
+{"qid":4751078,"place":"United Kingdom","lat":54.0,"lon":-2.0,"precision":"country","confidence":"high","note":"UK-wide"}
+{"qid":5198842,"place":"Western Australia","lat":-25.0,"lon":122.0,"precision":"region","confidence":"medium","note":"affected region"}
+{"qid":7249012,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"study"}
+{"qid":96369639,"place":"Balearic Islands","lat":39.5,"lon":2.9,"precision":"region","confidence":"high","note":"island councils"}
+{"qid":104947017,"place":"Nevada","lat":39.3,"lon":-116.6,"precision":"region","confidence":"high","note":"state election"}
+{"qid":65118069,"place":"North Carolina","lat":35.5,"lon":-79.4,"precision":"region","confidence":"high","note":"state election"}
+{"qid":110773591,"place":"Huy","lat":50.5167,"lon":5.2333,"precision":"city","confidence":"medium","note":"finish at Mur de Huy"}
+{"qid":3533312,"place":"Colombia","lat":4.5709,"lon":-74.2973,"precision":"country","confidence":"medium","note":"nationwide race"}
+{"qid":28222208,"place":"Minnesota","lat":46.0,"lon":-94.3,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7891639,"place":"Michigan","lat":44.3,"lon":-85.6,"precision":"region","confidence":"high","note":"state election"}
+{"qid":387125,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"observance"}
+{"qid":16923837,"place":"Geneva","lat":46.2044,"lon":6.1432,"precision":"city","confidence":"medium","note":"ILO conference city"}
+{"qid":109116587,"place":"Oakland, California","lat":37.8044,"lon":-122.2712,"precision":"city","confidence":"medium","note":"hosted by AFC East champion"}
+{"qid":26838232,"place":"Rio de Janeiro","lat":-22.9068,"lon":-43.1729,"precision":"city","confidence":"high","note":"2016 Olympics incident"}
+{"qid":105565104,"place":"Flemish Brabant","lat":50.9,"lon":4.6,"precision":"region","confidence":"medium","note":"Belgian province race"}
+{"qid":7892073,"place":"Virginia","lat":37.5,"lon":-78.8,"precision":"region","confidence":"high","note":"state election"}
+{"qid":2462495,"place":"San Sebastián","lat":43.3183,"lon":-1.9812,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":20109138,"place":"Milan","lat":45.4642,"lon":9.19,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":101550854,"place":"Lublin","lat":51.2465,"lon":22.5684,"precision":"city","confidence":"high","note":"race start"}
+{"qid":109399015,"place":"John F. Kennedy International Airport","lat":40.6413,"lon":-73.7781,"precision":"site","confidence":"medium","note":"crash near Idlewild"}
+{"qid":7892026,"place":"South Dakota","lat":44.4,"lon":-100.2,"precision":"region","confidence":"high","note":"state election"}
+{"qid":137753507,"place":"Sefton","lat":53.5,"lon":-3.0,"precision":"region","confidence":"medium","note":"council area"}
+{"qid":645196,"place":"Mogadishu","lat":2.0469,"lon":45.3182,"precision":"city","confidence":"high","note":"conference held there"}
+{"qid":16931559,"place":"Oslo","lat":59.9139,"lon":10.7522,"precision":"city","confidence":"high","note":"protocol signed in Oslo"}
+{"qid":8037203,"place":"Worthing","lat":50.8147,"lon":-0.3714,"precision":"city","confidence":"high","note":"council election"}
+{"qid":125167074,"place":"England","lat":52.5,"lon":-1.5,"precision":"country","confidence":"low","note":"wheelchair league"}
+{"qid":4345473,"place":"Laos","lat":19.8563,"lon":102.4955,"precision":"country","confidence":"high","note":"national election"}
+{"qid":126367301,"place":"Beşiktaş Stadium","lat":41.0392,"lon":28.9944,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":14192832,"place":"Buenos Aires","lat":-34.6037,"lon":-58.3816,"precision":"city","confidence":"high","note":"elected host city"}
+{"qid":3537351,"place":"Antarctica","lat":-82.0,"lon":0.0,"precision":"region","confidence":"medium","note":"crossing of Antarctica"}
+{"qid":3681733,"place":"San Sebastián","lat":43.3183,"lon":-1.9812,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":4611511,"place":"Poland","lat":52.0,"lon":19.0,"precision":"country","confidence":"medium","note":"Polish speedway"}
+{"qid":2741724,"place":"Breda","lat":51.5719,"lon":4.7683,"precision":"city","confidence":"high","note":"race start"}
+{"qid":532759,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"solar phenomenon"}
+{"qid":15945752,"place":"Wolverhampton","lat":52.5867,"lon":-2.1288,"precision":"city","confidence":"high","note":"police service"}
+{"qid":28663614,"place":"Geneva","lat":46.2044,"lon":6.1432,"precision":"city","confidence":"high","note":"race start"}
+{"qid":7893003,"place":"Oregon","lat":44.0,"lon":-120.5,"precision":"region","confidence":"high","note":"state election"}
+{"qid":4562286,"place":"Tiruchirappalli","lat":10.7905,"lon":78.7047,"precision":"city","confidence":"medium","note":"SIR workshops, Golden Rock"}
+{"qid":109466464,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"multiple venues"}
+{"qid":22506035,"place":"Bessèges","lat":44.2931,"lon":4.0794,"precision":"city","confidence":"medium","note":"race base"}
+{"qid":5365255,"place":"Ellesmere Port","lat":53.2786,"lon":-2.8979,"precision":"city","confidence":"high","note":"council election"}
+{"qid":137802515,"place":"Oceania","lat":-17.0,"lon":170.0,"precision":"region","confidence":"low","note":"OFC qualifying"}
+{"qid":7893053,"place":"Pennsylvania","lat":40.9,"lon":-77.8,"precision":"region","confidence":"high","note":"state election"}
+{"qid":21190466,"place":"Great Hall of the People","lat":39.9031,"lon":116.3911,"precision":"site","confidence":"high","note":"held there"}
+{"qid":118875697,"place":"El Salvador","lat":13.7942,"lon":-88.8965,"precision":"country","confidence":"high","note":"national election"}
+{"qid":65067807,"place":"Mannheim","lat":49.4875,"lon":8.466,"precision":"city","confidence":"medium","note":"tour started there"}
+{"qid":18890259,"place":"San Sebastián","lat":43.3183,"lon":-1.9812,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":5828643,"place":"Granadine Confederation","lat":4.5709,"lon":-74.2973,"precision":"country","confidence":"low","note":"Colombia"}
+{"qid":4611492,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"three host nations unknown"}

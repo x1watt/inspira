@@ -1,0 +1,50 @@
+{"qid":139856336,"place":"Trump Tower","lat":40.7624,"lon":-73.9738,"precision":"site","confidence":"high","note":"launched at Trump Tower"}
+{"qid":105337078,"place":"Cairo","lat":30.0444,"lon":31.2357,"precision":"city","confidence":"medium","note":"protests centered in Cairo"}
+{"qid":5247492,"place":"Brighton","lat":50.8225,"lon":-0.1372,"precision":"city","confidence":"medium","note":"Brighton, East Sussex case"}
+{"qid":30143308,"place":"Verviers","lat":50.5894,"lon":5.8647,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":16156602,"place":"Daytona International Speedway","lat":29.1861,"lon":-81.07,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":111973502,"place":"Aberdeenshire","lat":57.28,"lon":-2.5,"precision":"region","confidence":"medium","note":"council area"}
+{"qid":6481437,"place":"Lambeth","lat":51.4607,"lon":-0.1163,"precision":"city","confidence":"medium","note":"London borough"}
+{"qid":7891447,"place":"Connecticut","lat":41.6032,"lon":-73.0877,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":3532326,"place":"Goderich, Ontario","lat":43.742,"lon":-81.714,"precision":"city","confidence":"high","note":"town hit"}
+{"qid":17307031,"place":"Rustenburg","lat":-25.6676,"lon":27.2421,"precision":"city","confidence":"medium","note":"platinum belt strike"}
+{"qid":108857467,"place":"South Staffordshire","lat":52.6,"lon":-2.2,"precision":"region","confidence":"medium","note":"district"}
+{"qid":16245642,"place":"Alraigo","lat":null,"lon":null,"precision":"none","confidence":"low","note":"ship at sea"}
+{"qid":6507929,"place":"Thailand","lat":15.87,"lon":100.9925,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":7531072,"place":"Kottayam","lat":9.5916,"lon":76.5222,"precision":"city","confidence":"high","note":"convent well in Kottayam"}
+{"qid":7061246,"place":"Karasjok","lat":69.472,"lon":25.511,"precision":"city","confidence":"medium","note":"Sami parliament seat"}
+{"qid":5025190,"place":"Cambodia","lat":12.5657,"lon":104.991,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":18148336,"place":"Montana","lat":46.8797,"lon":-110.3626,"precision":"region","confidence":"high","note":"statewide"}
+{"qid":12028840,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"bus model"}
+{"qid":60519393,"place":"West Virginia","lat":38.5976,"lon":-80.4549,"precision":"region","confidence":"high","note":"statewide"}
+{"qid":3736935,"place":"Tegucigalpa","lat":14.0723,"lon":-87.1921,"precision":"city","confidence":"medium","note":"held in Tegucigalpa"}
+{"qid":5198821,"place":"Madagascar","lat":-18.7669,"lon":46.8691,"precision":"country","confidence":"high","note":"struck Madagascar"}
+{"qid":4600160,"place":"India","lat":20.5937,"lon":78.9629,"precision":"country","confidence":"high","note":"South India heat wave"}
+{"qid":110413921,"place":"San Cesario sul Panaro","lat":44.56,"lon":11.0,"precision":"city","confidence":"medium","note":"battle near Modena"}
+{"qid":7985765,"place":"West Lindsey","lat":53.35,"lon":-0.6,"precision":"region","confidence":"medium","note":"district"}
+{"qid":104947818,"place":"Nebraska","lat":41.4925,"lon":-99.9018,"precision":"region","confidence":"high","note":"statewide"}
+{"qid":108907416,"place":"Valenzuela, Metro Manila","lat":14.7011,"lon":120.983,"precision":"city","confidence":"high","note":"city elections"}
+{"qid":140242839,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"high","note":"host city"}
+{"qid":6515905,"place":"Leeds","lat":53.8008,"lon":-1.5491,"precision":"city","confidence":"high","note":"city council"}
+{"qid":141440472,"place":"Östersund","lat":63.1792,"lon":14.6357,"precision":"city","confidence":"high","note":"host city"}
+{"qid":137424850,"place":"Drôme","lat":44.7,"lon":5.1,"precision":"region","confidence":"low","note":"race in Drôme"}
+{"qid":3728198,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"comic"}
+{"qid":56293251,"place":"Dili","lat":-8.5586,"lon":125.5736,"precision":"city","confidence":"high","note":"published in Dili"}
+{"qid":42916978,"place":"Ohio","lat":40.4173,"lon":-82.9071,"precision":"region","confidence":"high","note":"statewide"}
+{"qid":4622205,"place":"Estadio Olímpico Universitario","lat":19.332,"lon":-99.192,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":7891728,"place":"Nevada","lat":38.8026,"lon":-116.4194,"precision":"region","confidence":"high","note":"statewide"}
+{"qid":218484,"place":"Denmark","lat":56.2639,"lon":9.5018,"precision":"country","confidence":"medium","note":"Danish coin"}
+{"qid":7826643,"place":"Toronto","lat":43.6532,"lon":-79.3832,"precision":"city","confidence":"high","note":"municipal election"}
+{"qid":7492652,"place":"Sheffield","lat":53.3811,"lon":-1.4701,"precision":"city","confidence":"high","note":"city council"}
+{"qid":2044056,"place":"Leuven","lat":50.8798,"lon":4.7005,"precision":"city","confidence":"high","note":"start town"}
+{"qid":17056027,"place":"Queensland","lat":-20.9176,"lon":142.7028,"precision":"region","confidence":"high","note":"state act"}
+{"qid":25022174,"place":"Guam","lat":13.4443,"lon":144.7937,"precision":"region","confidence":"high","note":"territory election"}
+{"qid":16957598,"place":"Newham","lat":51.5077,"lon":0.0469,"precision":"city","confidence":"medium","note":"London borough"}
+{"qid":138322047,"place":"Norfolk","lat":52.6,"lon":1.0,"precision":"region","confidence":"medium","note":"county council"}
+{"qid":116394613,"place":"Leicester","lat":52.6369,"lon":-1.1398,"precision":"city","confidence":"high","note":"city council"}
+{"qid":136798830,"place":"Greenwich","lat":51.4892,"lon":0.0648,"precision":"city","confidence":"medium","note":"London borough"}
+{"qid":5261441,"place":"Derby","lat":52.9225,"lon":-1.4746,"precision":"city","confidence":"high","note":"city council"}
+{"qid":16929855,"place":"Milan","lat":45.4642,"lon":9.19,"precision":"city","confidence":"medium","note":"Cisalpine capital"}
+{"qid":136736049,"place":"Basque Country (autonomous community)","lat":43.0,"lon":-2.75,"precision":"region","confidence":"medium","note":"race in Basque Country"}
+{"qid":7892875,"place":"Missouri","lat":37.9643,"lon":-91.8318,"precision":"region","confidence":"high","note":"statewide"}
+{"qid":118958521,"place":"Castello Sforzesco","lat":45.4705,"lon":9.1794,"precision":"site","confidence":"high","note":"died at Castello Sforzesco"}

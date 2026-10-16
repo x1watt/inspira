@@ -1,0 +1,50 @@
+{"qid":7503209,"place":"Shea Stadium","lat":40.7571,"lon":-73.8458,"precision":"site","confidence":"high","note":"events at Shea"}
+{"qid":58433609,"place":"Illinois","lat":40.0,"lon":-89.0,"precision":"region","confidence":"high","note":"state election"}
+{"qid":17100561,"place":"Mississippi","lat":32.7,"lon":-89.7,"precision":"region","confidence":"high","note":"state election"}
+{"qid":17145957,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"observance"}
+{"qid":117705983,"place":"Nouakchott","lat":18.0735,"lon":-15.9582,"precision":"city","confidence":"high","note":"regional council"}
+{"qid":125946461,"place":"Parken Stadium","lat":55.7025,"lon":12.5719,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":30640997,"place":"Connecticut","lat":41.6,"lon":-72.7,"precision":"region","confidence":"high","note":"state election"}
+{"qid":62129206,"place":"Langkawi","lat":6.35,"lon":99.8,"precision":"city","confidence":"medium","note":"start town"}
+{"qid":95792314,"place":"Paramaribo","lat":5.852,"lon":-55.2038,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":16202359,"place":"Toronto","lat":43.6532,"lon":-79.3832,"precision":"city","confidence":"high","note":"municipal election"}
+{"qid":616026,"place":"Kraków","lat":50.0647,"lon":19.945,"precision":"city","confidence":"high","note":"trial in Kraków"}
+{"qid":4614613,"place":"Plymouth","lat":50.3755,"lon":-4.1427,"precision":"city","confidence":"high","note":"case centred on Plymouth"}
+{"qid":29378862,"place":"City of London","lat":51.5155,"lon":-0.0922,"precision":"city","confidence":"high","note":"corporation election"}
+{"qid":20648025,"place":"Sydney","lat":-33.8688,"lon":151.2093,"precision":"city","confidence":"medium","note":"club home"}
+{"qid":7891896,"place":"Oklahoma","lat":35.5,"lon":-97.5,"precision":"region","confidence":"high","note":"state election"}
+{"qid":762765,"place":"Helsinki","lat":60.1699,"lon":24.9384,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":39060974,"place":"Utah","lat":39.3,"lon":-111.7,"precision":"region","confidence":"high","note":"state election"}
+{"qid":24908733,"place":"Quezon City","lat":14.676,"lon":121.0437,"precision":"city","confidence":"medium","note":"Batasang Pambansa"}
+{"qid":104851550,"place":"Blackpool","lat":53.8175,"lon":-3.0357,"precision":"city","confidence":"medium","note":"Fylde Coast rivalry"}
+{"qid":3533434,"place":"Geneva","lat":46.2044,"lon":6.1432,"precision":"city","confidence":"medium","note":"start city"}
+{"qid":139505728,"place":"Reigate and Banstead","lat":51.25,"lon":-0.19,"precision":"region","confidence":"high","note":"borough"}
+{"qid":104396902,"place":"Marseille","lat":43.2965,"lon":5.3698,"precision":"city","confidence":"high","note":"race city"}
+{"qid":7891594,"place":"Maryland","lat":39.0,"lon":-76.7,"precision":"region","confidence":"high","note":"state election"}
+{"qid":255566,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"multi-venue season"}
+{"qid":5947339,"place":"Hawaii","lat":19.8968,"lon":-155.5828,"precision":"region","confidence":"high","note":"affected Hawaii"}
+{"qid":4592617,"place":"Miami","lat":25.7617,"lon":-80.1918,"precision":"city","confidence":"high","note":"tornado in Miami"}
+{"qid":1938169,"place":"Edinburgh","lat":55.9533,"lon":-3.1883,"precision":"city","confidence":"low","note":"start city"}
+{"qid":106070423,"place":"Belgium","lat":50.5039,"lon":4.4699,"precision":"country","confidence":"low","note":"cross-border race"}
+{"qid":124540362,"place":"Macquarie University","lat":-33.7738,"lon":151.1126,"precision":"site","confidence":"high","note":"strike at university"}
+{"qid":21127348,"place":"Vega Island","lat":-63.8,"lon":-57.4,"precision":"region","confidence":"high","note":"fossil site"}
+{"qid":111155927,"place":"Overijse","lat":50.7746,"lon":4.5337,"precision":"city","confidence":"medium","note":"finish town"}
+{"qid":3437283,"place":"Denmark","lat":56.2639,"lon":9.5018,"precision":"country","confidence":"high","note":"national tour"}
+{"qid":28663625,"place":"Geneva","lat":46.2044,"lon":6.1432,"precision":"city","confidence":"medium","note":"start city"}
+{"qid":708154,"place":"Fujian","lat":26.0,"lon":118.0,"precision":"region","confidence":"low","note":"landfall in China"}
+{"qid":3752585,"place":"Alsemberg","lat":50.734,"lon":4.33,"precision":"city","confidence":"medium","note":"finish town"}
+{"qid":7891946,"place":"Pennsylvania","lat":41.2,"lon":-77.2,"precision":"region","confidence":"high","note":"state election"}
+{"qid":3722312,"place":"Tirana","lat":41.3275,"lon":19.8187,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":134441915,"place":"Macon County, Alabama","lat":32.39,"lon":-85.69,"precision":"region","confidence":"medium","note":"case origin"}
+{"qid":130749409,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"multi-venue play-offs"}
+{"qid":1272794,"place":"Zürich","lat":47.3769,"lon":8.5417,"precision":"city","confidence":"medium","note":"finish city"}
+{"qid":2497112,"place":"Luxembourg City","lat":49.6116,"lon":6.1319,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":5192613,"place":"Caracas","lat":10.4806,"lon":-66.9036,"precision":"city","confidence":"medium","note":"police HQ"}
+{"qid":3290934,"place":"Niamey","lat":13.5116,"lon":2.1254,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":16560312,"place":"Como","lat":45.8081,"lon":9.0852,"precision":"city","confidence":"medium","note":"finish town"}
+{"qid":130371624,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"proposed era"}
+{"qid":133878130,"place":"Wembley Stadium","lat":51.556,"lon":-0.2796,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":124504656,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"high","note":"1900 Exposition"}
+{"qid":16171947,"place":"Panmunjom","lat":37.9559,"lon":126.6776,"precision":"city","confidence":"low","note":"signed on border"}
+{"qid":5149976,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"vow at sea"}
+{"qid":5219722,"place":"Copenhagen","lat":55.6761,"lon":12.5683,"precision":"city","confidence":"medium","note":"capital"}

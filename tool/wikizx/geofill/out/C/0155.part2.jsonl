@@ -1,0 +1,50 @@
+{"qid":27725191,"place":"Basel","lat":47.5596,"lon":7.5886,"precision":"city","confidence":"low","note":"MDPI publisher"}
+{"qid":3722417,"place":"Hungary","lat":47.1625,"lon":19.5033,"precision":"country","confidence":"high","note":"national election"}
+{"qid":109974812,"place":"Cambridge","lat":52.2053,"lon":0.1218,"precision":"city","confidence":"high","note":"city election"}
+{"qid":140984036,"place":"Salford","lat":53.4875,"lon":-2.2901,"precision":"city","confidence":"high","note":"city election"}
+{"qid":96249229,"place":"Italy","lat":41.8719,"lon":12.5674,"precision":"country","confidence":"high","note":"nationwide local elections"}
+{"qid":23020648,"place":"Netherlands","lat":52.3676,"lon":4.9041,"precision":"country","confidence":"high","note":"national election"}
+{"qid":130754360,"place":"Emilia-Romagna","lat":44.5,"lon":11.0,"precision":"region","confidence":"high","note":"stage race in Emilia-Romagna"}
+{"qid":125352597,"place":"Wigan","lat":53.5448,"lon":-2.6318,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":5439770,"place":"Mid-Atlantic states","lat":38.5,"lon":-77.0,"precision":"region","confidence":"low","note":"storm in Mid-Atlantic"}
+{"qid":58433600,"place":"Alabama","lat":32.3182,"lon":-86.9023,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":124308001,"place":"New Zealand","lat":-41.2866,"lon":174.7756,"precision":"country","confidence":"high","note":"national census"}
+{"qid":18038232,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"international reactions"}
+{"qid":4617817,"place":"Germain Comarmond Stadium","lat":-20.2833,"lon":57.4833,"precision":"site","confidence":"medium","note":"Bambous stadium Mauritius"}
+{"qid":5365259,"place":"Ellesmere Port","lat":53.2788,"lon":-2.8963,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":6722508,"place":"Macau","lat":22.1987,"lon":113.5439,"precision":"city","confidence":"high","note":"Macau election"}
+{"qid":141353352,"place":"Melbourne","lat":-37.8136,"lon":144.9631,"precision":"city","confidence":"medium","note":"AFL club season"}
+{"qid":25385207,"place":"Santa Catarina Pinula","lat":14.5667,"lon":-90.4833,"precision":"city","confidence":"high","note":"tournament location"}
+{"qid":125149049,"place":"Monrovia","lat":6.3156,"lon":-10.8074,"precision":"city","confidence":"medium","note":"Liberia marathon"}
+{"qid":20647775,"place":"Melton Mowbray","lat":52.7653,"lon":-0.8878,"precision":"city","confidence":"medium","note":"borough election"}
+{"qid":3454888,"place":"Poland","lat":52.2297,"lon":21.0122,"precision":"country","confidence":"high","note":"national referendum"}
+{"qid":16656898,"place":"Innsbruck","lat":47.2692,"lon":11.4041,"precision":"city","confidence":"high","note":"1976 Winter Olympics host"}
+{"qid":20711506,"place":"Royal Automobile Club","lat":51.5072,"lon":-0.1331,"precision":"site","confidence":"high","note":"venue Pall Mall"}
+{"qid":4611168,"place":"Azadi Stadium","lat":35.7253,"lon":51.2753,"precision":"site","confidence":"high","note":"venue"}
+{"qid":136463695,"place":"Castle Point","lat":51.5486,"lon":0.5702,"precision":"city","confidence":"medium","note":"district election"}
+{"qid":6094128,"place":"Iquique","lat":-20.2133,"lon":-70.1525,"precision":"city","confidence":"medium","note":"Itata incident Chile"}
+{"qid":124619346,"place":"Port Vila","lat":-17.7333,"lon":168.3167,"precision":"city","confidence":"medium","note":"OFC Nations Cup 2024 host"}
+{"qid":134455291,"place":"Doncaster","lat":53.5228,"lon":-1.1285,"precision":"city","confidence":"high","note":"mayoral election"}
+{"qid":140001272,"place":"Italy","lat":41.8719,"lon":12.5674,"precision":"country","confidence":"medium","note":"Giro d'Italia stages"}
+{"qid":6523293,"place":"Cambridge","lat":52.2053,"lon":0.1218,"precision":"city","confidence":"high","note":"Cambridge rowing"}
+{"qid":97360178,"place":"Illinois","lat":40.6331,"lon":-89.3985,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":30324522,"place":"Bedford Hills Correctional Facility for Women","lat":41.2362,"lon":-73.6975,"precision":"site","confidence":"high","note":"prison uprising"}
+{"qid":118478641,"place":"Bolton","lat":53.5785,"lon":-2.4299,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":104033937,"place":"Kyiv","lat":50.4501,"lon":30.5234,"precision":"city","confidence":"high","note":"Constitutional Court crisis"}
+{"qid":6541224,"place":"Monrovia","lat":6.3156,"lon":-10.8074,"precision":"city","confidence":"medium","note":"Liberian election"}
+{"qid":5587444,"place":"Gosport","lat":50.7955,"lon":-1.1236,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":286166,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"global calendar"}
+{"qid":460082,"place":"Austria","lat":47.5162,"lon":14.5501,"precision":"country","confidence":"high","note":"national election"}
+{"qid":105063037,"place":"Quilmes, Buenos Aires","lat":-34.7206,"lon":-58.2546,"precision":"city","confidence":"medium","note":"Quilmes Stadium"}
+{"qid":16412101,"place":"Narva","lat":59.3797,"lon":28.1791,"precision":"city","confidence":"high","note":"referendum in Narva"}
+{"qid":7569127,"place":"Southampton","lat":50.9097,"lon":-1.4044,"precision":"city","confidence":"high","note":"dock strike"}
+{"qid":91925841,"place":"Stockport","lat":53.4083,"lon":-2.1494,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":28220742,"place":"Virginia","lat":37.4316,"lon":-78.6569,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":5399556,"place":"New Delhi","lat":28.6139,"lon":77.209,"precision":"city","confidence":"medium","note":"Indian Parliament act"}
+{"qid":3996106,"place":"Zürich","lat":47.3769,"lon":8.5417,"precision":"city","confidence":"high","note":"race start and finish"}
+{"qid":129950574,"place":"Zanzibar City","lat":-6.1659,"lon":39.2026,"precision":"city","confidence":"medium","note":"treaty with Zanzibar sultan"}
+{"qid":30223966,"place":"Tehran","lat":35.6892,"lon":51.389,"precision":"city","confidence":"medium","note":"reactions to Tehran attacks"}
+{"qid":4627604,"place":"Uruguay","lat":-34.9,"lon":-56.2,"precision":"region","confidence":"medium","note":"southern Uruguay storm"}
+{"qid":116893818,"place":"Welwyn Hatfield","lat":51.7667,"lon":-0.2,"precision":"city","confidence":"medium","note":"district election"}
+{"qid":138755409,"place":"Firhill Stadium","lat":55.8808,"lon":-4.2742,"precision":"site","confidence":"high","note":"venue"}
+{"qid":124528122,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"US college football"}

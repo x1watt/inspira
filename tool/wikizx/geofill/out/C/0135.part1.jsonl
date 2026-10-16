@@ -1,0 +1,50 @@
+{"qid":65064480,"place":"Southend-on-Sea","lat":51.5459,"lon":0.7077,"precision":"city","confidence":"high","note":"council election"}
+{"qid":106748984,"place":"Spain","lat":40.4637,"lon":-3.7492,"precision":"country","confidence":"medium","note":"Spanish TV show"}
+{"qid":113115071,"place":"South Africa","lat":-30.5595,"lon":22.9375,"precision":"country","confidence":"medium","note":"three tests in South Africa"}
+{"qid":17070395,"place":"Walt Disney World","lat":28.3852,"lon":-81.5639,"precision":"site","confidence":"high","note":"resort technology"}
+{"qid":2670280,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"coin"}
+{"qid":4858568,"place":"Barbados","lat":13.1939,"lon":-59.5432,"precision":"country","confidence":"high","note":"national election"}
+{"qid":55012879,"place":"Kentucky","lat":37.8,"lon":-85.7,"precision":"region","confidence":"high","note":"state election"}
+{"qid":30638442,"place":"Kansas","lat":38.5,"lon":-98.0,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7057053,"place":"North Tyneside","lat":55.0182,"lon":-1.4858,"precision":"city","confidence":"high","note":"council election"}
+{"qid":20107649,"place":"Milan","lat":45.4642,"lon":9.19,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":523370,"place":"Zürich","lat":47.3769,"lon":8.5417,"precision":"city","confidence":"high","note":"race in Zurich"}
+{"qid":65084766,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"comic series"}
+{"qid":139761246,"place":"Kent","lat":51.2,"lon":0.7,"precision":"region","confidence":"high","note":"county election"}
+{"qid":25831350,"place":"California","lat":36.7783,"lon":-119.4179,"precision":"region","confidence":"high","note":"ballot initiative"}
+{"qid":48842052,"place":"Arizona","lat":34.3,"lon":-111.7,"precision":"region","confidence":"high","note":"state election"}
+{"qid":42916382,"place":"Minnesota","lat":46.0,"lon":-94.3,"precision":"region","confidence":"high","note":"state election"}
+{"qid":48447,"place":"Trinity Lavra of St. Sergius","lat":56.3101,"lon":38.1306,"precision":"site","confidence":"medium","note":"chronicle written there"}
+{"qid":124169464,"place":"Münster","lat":51.9607,"lon":7.6261,"precision":"city","confidence":"high","note":"race in Munsterland"}
+{"qid":2674048,"place":"Ninove","lat":50.8333,"lon":4.0167,"precision":"city","confidence":"low","note":"finish Meerbeke"}
+{"qid":110660366,"place":"Tegucigalpa","lat":14.0723,"lon":-87.1921,"precision":"city","confidence":"high","note":"National Congress seat"}
+{"qid":729872,"place":"Doha","lat":25.2854,"lon":51.531,"precision":"city","confidence":"high","note":"games in Doha"}
+{"qid":24185458,"place":"Adelaide","lat":-34.9285,"lon":138.6007,"precision":"city","confidence":"medium","note":"SANFL final"}
+{"qid":131578632,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"venue unknown"}
+{"qid":55601436,"place":"Schoten","lat":51.2517,"lon":4.4986,"precision":"city","confidence":"medium","note":"race at Schoten"}
+{"qid":5339147,"place":"Edmonton","lat":53.5461,"lon":-113.4938,"precision":"city","confidence":"high","note":"municipal election"}
+{"qid":28401519,"place":"Churchill Downs","lat":38.2056,"lon":-85.7706,"precision":"site","confidence":"high","note":"Kentucky Derby venue"}
+{"qid":4604117,"place":"Chennai","lat":13.0827,"lon":80.2707,"precision":"city","confidence":"high","note":"floods in Chennai"}
+{"qid":65047675,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"organization"}
+{"qid":23058208,"place":"Stade Olympique de Sousse","lat":35.8297,"lon":10.6317,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":7893034,"place":"Pennsylvania","lat":40.9,"lon":-77.8,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7842127,"place":"Singapore","lat":1.3521,"lon":103.8198,"precision":"country","confidence":"high","note":"school programme"}
+{"qid":5527150,"place":"Gateshead","lat":54.9526,"lon":-1.6014,"precision":"city","confidence":"high","note":"council election"}
+{"qid":11699827,"place":"Dorset","lat":50.75,"lon":-2.35,"precision":"region","confidence":"high","note":"fossils from Dorset"}
+{"qid":116312837,"place":"Valencian Community","lat":39.4699,"lon":-0.3763,"precision":"region","confidence":"high","note":"regional race"}
+{"qid":4563396,"place":"Detroit","lat":42.3314,"lon":-83.0458,"precision":"city","confidence":"high","note":"convention in Detroit"}
+{"qid":1584602,"place":"Finland","lat":61.9241,"lon":25.7482,"precision":"country","confidence":"high","note":"national election"}
+{"qid":130294564,"place":"Saxony","lat":51.0,"lon":13.4,"precision":"region","confidence":"high","note":"state election"}
+{"qid":48841701,"place":"Frankfurt","lat":50.1109,"lon":8.6821,"precision":"city","confidence":"high","note":"held in Frankfurt"}
+{"qid":139761249,"place":"Kent","lat":51.2,"lon":0.7,"precision":"region","confidence":"high","note":"county election"}
+{"qid":4999436,"place":"Myanmar","lat":21.9162,"lon":95.956,"precision":"country","confidence":"high","note":"Burmese election"}
+{"qid":55090041,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"high","note":"kidnapped in London"}
+{"qid":124803370,"place":"New Zealand","lat":-40.9006,"lon":174.886,"precision":"country","confidence":"high","note":"national golf circuit"}
+{"qid":104947425,"place":"Colorado","lat":39.0,"lon":-105.5,"precision":"region","confidence":"high","note":"state election"}
+{"qid":121775667,"place":"Louisiana","lat":31.0,"lon":-92.0,"precision":"region","confidence":"high","note":"hurricane landfall"}
+{"qid":581535,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"book"}
+{"qid":3124841,"place":"Hamburg","lat":53.5511,"lon":9.9937,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":23782099,"place":"Auxerre","lat":47.7982,"lon":3.5671,"precision":"city","confidence":"medium","note":"department seat"}
+{"qid":4882531,"place":"Belgium","lat":50.5039,"lon":4.4699,"precision":"country","confidence":"high","note":"national election"}
+{"qid":1202004,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"medium","note":"toured Germany"}
+{"qid":138034350,"place":"Portsmouth","lat":50.8198,"lon":-1.088,"precision":"city","confidence":"high","note":"council election"}

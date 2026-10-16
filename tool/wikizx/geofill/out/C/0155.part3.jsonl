@@ -1,0 +1,50 @@
+{"qid":20807091,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"worldwide circuit"}
+{"qid":48843393,"place":"Tennessee","lat":35.8601,"lon":-86.6602,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":5511213,"place":"Fylde","lat":53.78,"lon":-2.95,"precision":"city","confidence":"medium","note":"borough election"}
+{"qid":4592893,"place":"Chile","lat":-33.4489,"lon":-70.6693,"precision":"country","confidence":"medium","note":"national race"}
+{"qid":96417282,"place":"Hawaii","lat":21.3099,"lon":-157.8581,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":5918812,"place":"Sierras Grandes","lat":-31.7,"lon":-64.8,"precision":"region","confidence":"medium","note":"over Sierras Grandes"}
+{"qid":126481797,"place":"Panama City","lat":8.9824,"lon":-79.5199,"precision":"city","confidence":"medium","note":"coup in capital"}
+{"qid":7332265,"place":"Rio Branco, Acre","lat":-9.9747,"lon":-67.8243,"precision":"city","confidence":"high","note":"crash near Rio Branco"}
+{"qid":20648275,"place":"North Hertfordshire","lat":51.95,"lon":-0.28,"precision":"city","confidence":"medium","note":"district election"}
+{"qid":691082,"place":"Asturias","lat":43.3614,"lon":-5.8593,"precision":"region","confidence":"high","note":"regional race"}
+{"qid":116878797,"place":"South Korea","lat":37.5665,"lon":126.978,"precision":"country","confidence":"medium","note":"TV show"}
+{"qid":107490824,"place":"North East Lincolnshire","lat":53.56,"lon":-0.08,"precision":"city","confidence":"medium","note":"council election"}
+{"qid":17017722,"place":"Rossendale","lat":53.6,"lon":-2.3,"precision":"city","confidence":"medium","note":"borough election"}
+{"qid":116443432,"place":"St Albans","lat":51.755,"lon":-0.336,"precision":"city","confidence":"high","note":"district election"}
+{"qid":85783217,"place":"Mehboob Studios","lat":19.0565,"lon":72.8351,"precision":"site","confidence":"high","note":"festival venue"}
+{"qid":7494109,"place":"Beijing","lat":39.9042,"lon":116.4074,"precision":"city","confidence":"high","note":"case in Peiping"}
+{"qid":7980151,"place":"Ottawa","lat":45.4215,"lon":-75.6972,"precision":"city","confidence":"medium","note":"federal law"}
+{"qid":123081055,"place":"Exeter","lat":50.7184,"lon":-3.5339,"precision":"city","confidence":"high","note":"city election"}
+{"qid":30911246,"place":"Nyon","lat":46.3833,"lon":6.2395,"precision":"city","confidence":"high","note":"race start and finish"}
+{"qid":113024358,"place":"Hillingdon","lat":51.5352,"lon":-0.4481,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":110269770,"place":"Cheltenham","lat":51.8994,"lon":-2.0783,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":17076830,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"climate topic"}
+{"qid":137971710,"place":"Tajikistan","lat":38.861,"lon":71.2761,"precision":"country","confidence":"low","note":"country participation"}
+{"qid":16979588,"place":"Ecuador","lat":-0.1807,"lon":-78.4678,"precision":"country","confidence":"high","note":"national election"}
+{"qid":135431369,"place":"Hastings, New Zealand","lat":-39.6381,"lon":176.8492,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":9094930,"place":"Andalusia","lat":37.3891,"lon":-5.9845,"precision":"region","confidence":"high","note":"regional race"}
+{"qid":28401522,"place":"Colchester","lat":51.8892,"lon":0.9042,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":28128223,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"global calendar"}
+{"qid":139408240,"place":"Richmond Athletic Ground","lat":51.4633,"lon":-0.305,"precision":"site","confidence":"high","note":"venue"}
+{"qid":579163,"place":"Belém Cultural Center","lat":38.6958,"lon":-9.2063,"precision":"site","confidence":"high","note":"venue"}
+{"qid":25007031,"place":"Churchill Downs","lat":38.2036,"lon":-85.7706,"precision":"site","confidence":"high","note":"Derby venue"}
+{"qid":7650244,"place":"London Borough of Sutton","lat":51.3618,"lon":-0.1945,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":55099425,"place":"Trafalgar Square","lat":51.508,"lon":-0.1281,"precision":"site","confidence":"high","note":"riots at square"}
+{"qid":8847047,"place":"Tenerife","lat":28.2916,"lon":-16.6291,"precision":"region","confidence":"medium","note":"departure port"}
+{"qid":16823163,"place":"Chile","lat":-33.4489,"lon":-70.6693,"precision":"country","confidence":"high","note":"national crisis"}
+{"qid":6897832,"place":"Monaco","lat":43.7384,"lon":7.4246,"precision":"country","confidence":"high","note":"principality crisis"}
+{"qid":126489215,"place":"Japan","lat":36.2048,"lon":138.2529,"precision":"country","confidence":"high","note":"prefectural qualifiers"}
+{"qid":3564652,"place":"Warsaw","lat":52.2297,"lon":21.0122,"precision":"city","confidence":"low","note":"invented in occupied Poland"}
+{"qid":1574338,"place":"Bern","lat":46.948,"lon":7.4474,"precision":"city","confidence":"medium","note":"federal political scandal"}
+{"qid":133539822,"place":"China","lat":35.8617,"lon":104.1954,"precision":"country","confidence":"medium","note":"promotion in China"}
+{"qid":16936640,"place":"Malé","lat":4.1755,"lon":73.5093,"precision":"city","confidence":"high","note":"Maldives capital"}
+{"qid":6481432,"place":"London Borough of Lambeth","lat":51.4571,"lon":-0.1231,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":20639024,"place":"Harold's Cross","lat":53.3235,"lon":-6.2808,"precision":"city","confidence":"medium","note":"died in hospice"}
+{"qid":18217622,"place":"Virginia","lat":37.4316,"lon":-78.6569,"precision":"region","confidence":"high","note":"statewide ballot"}
+{"qid":5490461,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"test pattern"}
+{"qid":85723670,"place":"Budapest","lat":47.4979,"lon":19.0402,"precision":"city","confidence":"medium","note":"race start"}
+{"qid":30642827,"place":"Rhode Island","lat":41.5801,"lon":-71.4774,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":4625321,"place":"Down (county)","lat":54.35,"lon":-5.95,"precision":"region","confidence":"medium","note":"county team"}
+{"qid":113570668,"place":"Tây Ninh","lat":11.3,"lon":106.1,"precision":"city","confidence":"high","note":"held in Tây Ninh"}
+{"qid":6586231,"place":"Bat Yam","lat":32.0231,"lon":34.7503,"precision":"city","confidence":"high","note":"murder in Bat Yam"}

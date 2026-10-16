@@ -1,0 +1,50 @@
+{"qid":16083028,"place":"Belgrade","lat":44.7866,"lon":20.4489,"precision":"city","confidence":"low","note":"Serbian broadcaster contest"}
+{"qid":16845433,"place":"Canberra","lat":-35.2809,"lon":149.13,"precision":"city","confidence":"high","note":"ACT Legislative Assembly"}
+{"qid":15870961,"place":"Piazza del Campo","lat":43.3186,"lon":11.3318,"precision":"site","confidence":"high","note":"finish in Siena"}
+{"qid":2680614,"place":"Slovenia","lat":46.1512,"lon":14.9955,"precision":"country","confidence":"high","note":"national race"}
+{"qid":25006924,"place":"Churchill Downs","lat":38.2036,"lon":-85.7706,"precision":"site","confidence":"high","note":"Kentucky Derby venue"}
+{"qid":65082729,"place":"Louisiana","lat":30.9843,"lon":-91.9623,"precision":"region","confidence":"high","note":"state election"}
+{"qid":48865365,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"multi-venue series"}
+{"qid":7057060,"place":"North Tyneside","lat":55.017,"lon":-1.485,"precision":"region","confidence":"high","note":"borough council"}
+{"qid":22021935,"place":"California","lat":36.7783,"lon":-119.4179,"precision":"region","confidence":"high","note":"state ballot measure"}
+{"qid":85845010,"place":"Maryland","lat":39.0458,"lon":-76.6413,"precision":"region","confidence":"high","note":"state election"}
+{"qid":871964,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"high","note":"Weimar party"}
+{"qid":56368817,"place":"Stadio Olimpico Grande Torino","lat":45.0417,"lon":7.65,"precision":"site","confidence":"medium","note":"second leg in Turin"}
+{"qid":1747413,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"award team"}
+{"qid":945815,"place":"Bergen op Zoom","lat":51.495,"lon":4.29,"precision":"city","confidence":"medium","note":"race start"}
+{"qid":7446106,"place":"Metropolitan Borough of Sefton","lat":53.5,"lon":-2.98,"precision":"region","confidence":"high","note":"borough council"}
+{"qid":2372484,"place":"Luxembourg","lat":49.8153,"lon":6.1296,"precision":"country","confidence":"high","note":"national election"}
+{"qid":4702325,"place":"Gaza City","lat":31.5017,"lon":34.4668,"precision":"city","confidence":"medium","note":"airstrike in Gaza"}
+{"qid":28129512,"place":"Giza Plateau","lat":29.9753,"lon":31.1376,"precision":"site","confidence":"high","note":"squash at Giza Plateau"}
+{"qid":11343397,"place":"Sweden","lat":60.1282,"lon":18.6435,"precision":"country","confidence":"high","note":"Swedish debate"}
+{"qid":106809103,"place":"St Helens, Merseyside","lat":53.4535,"lon":-2.737,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":141317459,"place":"Niihau","lat":21.8975,"lon":-160.16,"precision":"region","confidence":"high","note":"direct hit on Niihau"}
+{"qid":466314,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"high","note":"Reichstag election"}
+{"qid":25056598,"place":"Lia Manoliu Stadium","lat":44.4759,"lon":26.1531,"precision":"site","confidence":"medium","note":"23 August stadium, Bucharest"}
+{"qid":136756647,"place":"San Sebastian","lat":43.3183,"lon":-1.9812,"precision":"city","confidence":"high","note":"race in San Sebastian"}
+{"qid":7616093,"place":"Whitby","lat":54.4858,"lon":-0.6206,"precision":"city","confidence":"low","note":"Alum Shale near Whitby"}
+{"qid":5339187,"place":"Edmonton","lat":53.5461,"lon":-113.4938,"precision":"city","confidence":"high","note":"city election"}
+{"qid":48843716,"place":"Mississippi","lat":32.7416,"lon":-89.6787,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7891706,"place":"Nebraska","lat":41.4925,"lon":-99.9018,"precision":"region","confidence":"high","note":"state election"}
+{"qid":55715720,"place":"Luzon","lat":16.0,"lon":121.0,"precision":"region","confidence":"medium","note":"flooding in Luzon"}
+{"qid":4605050,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"TV event"}
+{"qid":124211497,"place":"Legnano","lat":45.5967,"lon":8.9179,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":124201473,"place":"Luxembourg","lat":49.8153,"lon":6.1296,"precision":"country","confidence":"high","note":"national race"}
+{"qid":131784841,"place":"Chongming Island","lat":31.6228,"lon":121.3972,"precision":"region","confidence":"high","note":"race on island"}
+{"qid":7892865,"place":"Missouri","lat":38.5739,"lon":-92.6038,"precision":"region","confidence":"high","note":"state election"}
+{"qid":54866842,"place":"London Borough of Brent","lat":51.5588,"lon":-0.2817,"precision":"region","confidence":"high","note":"borough council"}
+{"qid":82031124,"place":"France","lat":46.2276,"lon":2.2137,"precision":"country","confidence":"medium","note":"French stage race"}
+{"qid":689187,"place":"Switzerland","lat":46.8182,"lon":8.2275,"precision":"country","confidence":"medium","note":"Swiss stage race"}
+{"qid":106797890,"place":"Metropolitan Borough of Knowsley","lat":53.45,"lon":-2.85,"precision":"region","confidence":"high","note":"borough council"}
+{"qid":4345464,"place":"Laos","lat":19.8563,"lon":102.4955,"precision":"country","confidence":"high","note":"national election"}
+{"qid":108558290,"place":"Slovakia","lat":48.669,"lon":19.699,"precision":"country","confidence":"high","note":"Slovak race"}
+{"qid":85725676,"place":"Lincoln, England","lat":53.2307,"lon":-0.5406,"precision":"city","confidence":"high","note":"city council"}
+{"qid":7999522,"place":"Wigan","lat":53.545,"lon":-2.6325,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":15874707,"place":"Harelbeke","lat":50.8603,"lon":3.3125,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":2667937,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"ship"}
+{"qid":54430879,"place":"Lokeren","lat":51.1042,"lon":3.9921,"precision":"city","confidence":"low","note":"race finish"}
+{"qid":4883011,"place":"Belize","lat":17.1899,"lon":-88.4976,"precision":"country","confidence":"high","note":"national election"}
+{"qid":85750724,"place":"Western Australia","lat":-27.6728,"lon":121.6283,"precision":"region","confidence":"high","note":"central Western Australia"}
+{"qid":60764417,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"polling topic"}
+{"qid":130441733,"place":"Wigan","lat":53.545,"lon":-2.6325,"precision":"city","confidence":"high","note":"council election"}
+{"qid":4823551,"place":"Parliament House, Canberra","lat":-35.3081,"lon":149.1245,"precision":"site","confidence":"medium","note":"summit held in Canberra"}

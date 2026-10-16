@@ -1,0 +1,50 @@
+{"qid":4591855,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"list of events"}
+{"qid":3576469,"place":"Ciron, Indre","lat":46.7,"lon":1.26,"precision":"city","confidence":"medium","note":"landed near Ciron"}
+{"qid":4630397,"place":"Turkey","lat":38.9637,"lon":35.2433,"precision":"country","confidence":"high","note":"Turkish goals"}
+{"qid":3616151,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"anime"}
+{"qid":122978075,"place":"Bavaria","lat":48.7904,"lon":11.4979,"precision":"region","confidence":"high","note":"state election"}
+{"qid":5174911,"place":"Costa Rica","lat":9.7489,"lon":-83.7534,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":20312516,"place":"European Union","lat":50.8503,"lon":4.3517,"precision":"region","confidence":"low","note":"EU wide test"}
+{"qid":86752595,"place":"Balearic Islands","lat":39.6953,"lon":3.0176,"precision":"region","confidence":"high","note":"island councils"}
+{"qid":3717120,"place":"Harelbeke","lat":50.857,"lon":3.313,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":1942634,"place":"Limburg (Netherlands)","lat":51.2093,"lon":5.93,"precision":"region","confidence":"high","note":"Dutch Limburg race"}
+{"qid":7806214,"place":"Atlantic Ocean","lat":null,"lon":null,"precision":"none","confidence":"medium","note":"ocean season"}
+{"qid":6541192,"place":"Monrovia","lat":6.3156,"lon":-10.8074,"precision":"city","confidence":"medium","note":"Liberian capital"}
+{"qid":1412398,"place":"Saltsjöbaden","lat":59.2833,"lon":18.3,"precision":"city","confidence":"high","note":"tournament in Saltsjöbaden"}
+{"qid":117745806,"place":"Malaysia","lat":4.2105,"lon":101.9758,"precision":"country","confidence":"high","note":"host country"}
+{"qid":2129088,"place":"Brussels","lat":50.8503,"lon":4.3517,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":7891875,"place":"Ohio","lat":40.4173,"lon":-82.9071,"precision":"region","confidence":"high","note":"statewide"}
+{"qid":6158217,"place":"Japan","lat":36.2048,"lon":138.2529,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":110985145,"place":"Nokere","lat":50.9,"lon":3.76,"precision":"city","confidence":"high","note":"race at Nokere"}
+{"qid":136488335,"place":"Damascus","lat":33.5138,"lon":36.2765,"precision":"city","confidence":"medium","note":"Syrian government plan"}
+{"qid":2498317,"place":"Baltic Sea","lat":58.0,"lon":20.0,"precision":"region","confidence":"low","note":"planned operation in Baltic"}
+{"qid":60771749,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"low","note":"MLS draft"}
+{"qid":5198885,"place":"Rarotonga","lat":-21.2367,"lon":-159.7777,"precision":"city","confidence":"medium","note":"struck Rarotonga"}
+{"qid":4897092,"place":"Robin Hill Country Park","lat":50.65,"lon":-1.25,"precision":"site","confidence":"medium","note":"festival at Robin Hill"}
+{"qid":7861155,"place":"Hong Kong","lat":22.3193,"lon":114.1694,"precision":"city","confidence":"low","note":"affected southern China"}
+{"qid":2224084,"place":"Ghent","lat":51.0543,"lon":3.7174,"precision":"city","confidence":"low","note":"Flanders race"}
+{"qid":99149136,"place":"NHK Hall","lat":35.6694,"lon":139.6988,"precision":"site","confidence":"high","note":"held at NHK Hall"}
+{"qid":86835240,"place":"Drôme","lat":44.7,"lon":5.1,"precision":"region","confidence":"low","note":"race in Drôme"}
+{"qid":125366765,"place":"Basingstoke","lat":51.2665,"lon":-1.0924,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":113038883,"place":"Bournemouth","lat":50.7192,"lon":-1.8808,"precision":"city","confidence":"medium","note":"unitary council"}
+{"qid":55611320,"place":"Fairfax, Virginia","lat":38.8462,"lon":-77.3064,"precision":"city","confidence":"medium","note":"tour began in Fairfax"}
+{"qid":6357499,"place":"Siena","lat":43.3188,"lon":11.3308,"precision":"city","confidence":"high","note":"race finish Siena"}
+{"qid":138031414,"place":"Huntingdonshire","lat":52.33,"lon":-0.18,"precision":"region","confidence":"medium","note":"district council"}
+{"qid":16951345,"place":"Rarotonga","lat":-21.2367,"lon":-159.7777,"precision":"city","confidence":"high","note":"Cook Islands capital"}
+{"qid":10876023,"place":"Kolkata","lat":22.5726,"lon":88.3639,"precision":"city","confidence":"high","note":"signed in Calcutta"}
+{"qid":7538630,"place":"Westminster","lat":51.4995,"lon":-0.1248,"precision":"city","confidence":"medium","note":"UK Parliament act"}
+{"qid":95060737,"place":"Paramaribo","lat":5.852,"lon":-55.2038,"precision":"city","confidence":"high","note":"colony capital"}
+{"qid":7878360,"place":"Kyiv","lat":50.4501,"lon":30.5234,"precision":"city","confidence":"medium","note":"Ukrainian reaction"}
+{"qid":6567906,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"list"}
+{"qid":1364320,"place":"Sweden","lat":60.1282,"lon":18.6435,"precision":"country","confidence":"medium","note":"Swedish locomotive"}
+{"qid":7891704,"place":"Nebraska","lat":41.4925,"lon":-99.9018,"precision":"region","confidence":"high","note":"statewide"}
+{"qid":7982143,"place":"Welwyn Hatfield","lat":51.76,"lon":-0.2,"precision":"region","confidence":"medium","note":"district council"}
+{"qid":2299762,"place":"Tokyo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"high","note":"held in Tokyo"}
+{"qid":941780,"place":"Flanders","lat":50.8503,"lon":4.3517,"precision":"region","confidence":"high","note":"Belgian race"}
+{"qid":22283777,"place":"Nigeria","lat":9.082,"lon":8.6753,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":7383751,"place":"Rwanda","lat":-1.9403,"lon":29.8739,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":48816031,"place":"Barossa Valley","lat":-34.56,"lon":138.95,"precision":"region","confidence":"medium","note":"district in South Australia"}
+{"qid":5020832,"place":"California","lat":36.7783,"lon":-119.4179,"precision":"region","confidence":"high","note":"statewide"}
+{"qid":20107654,"place":"Milan","lat":45.4642,"lon":9.19,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":7901500,"place":"Uruguay","lat":-32.5228,"lon":-55.7658,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":5947611,"place":"Mexico","lat":23.6345,"lon":-102.5528,"precision":"country","confidence":"high","note":"damage in Mexico"}

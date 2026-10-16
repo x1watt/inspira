@@ -1,0 +1,50 @@
+{"qid":6423146,"place":"Baltimore","lat":39.2904,"lon":-76.6122,"precision":"city","confidence":"high","note":"riots in Baltimore"}
+{"qid":55605122,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"video game"}
+{"qid":17130671,"place":"Mexico City","lat":19.4326,"lon":-99.1332,"precision":"city","confidence":"high","note":"1975 Pan Am host"}
+{"qid":131338606,"place":"Montevideo","lat":-34.9011,"lon":-56.1645,"precision":"city","confidence":"high","note":"capital"}
+{"qid":6510959,"place":"Beirut","lat":33.8938,"lon":35.5018,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":4561199,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"honors list"}
+{"qid":17148500,"place":"Wolfsburg","lat":52.4227,"lon":10.7865,"precision":"city","confidence":"high","note":"host city"}
+{"qid":2053347,"place":"Beirut","lat":33.8938,"lon":35.5018,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":111181343,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"multiple venues"}
+{"qid":5947277,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"ocean storm"}
+{"qid":4610543,"place":"Australia","lat":-25.2744,"lon":133.7751,"precision":"country","confidence":"high","note":"national"}
+{"qid":131394717,"place":"New South Wales","lat":-32.0,"lon":147.0,"precision":"region","confidence":"high","note":"state competitions"}
+{"qid":6743361,"place":"Bamako","lat":12.6392,"lon":-8.0029,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":6050017,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"low","note":"UN session"}
+{"qid":13424691,"place":"Kaunas","lat":54.8985,"lon":23.9036,"precision":"city","confidence":"medium","note":"interwar capital"}
+{"qid":2906685,"place":"Chicago","lat":41.8781,"lon":-87.6298,"precision":"city","confidence":"high","note":"record snowfall"}
+{"qid":3112233,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":96317035,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"online tour"}
+{"qid":4562714,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"high","note":"national"}
+{"qid":695790,"place":"Regensburg","lat":49.0134,"lon":12.1016,"precision":"city","confidence":"medium","note":"Imperial Diet 1532"}
+{"qid":105122925,"place":"Louisiana","lat":31.0,"lon":-92.0,"precision":"region","confidence":"high","note":"state"}
+{"qid":7232752,"place":"Lisbon","lat":38.7223,"lon":-9.1393,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":1067842,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"confection"}
+{"qid":65083078,"place":"Tennessee","lat":35.8,"lon":-86.4,"precision":"region","confidence":"high","note":"state"}
+{"qid":16847165,"place":"Prague","lat":50.0755,"lon":14.4378,"precision":"city","confidence":"high","note":"final city"}
+{"qid":20055600,"place":"Oxford","lat":51.752,"lon":-1.2577,"precision":"city","confidence":"medium","note":"race on the Isis"}
+{"qid":20646989,"place":"Provo, Utah","lat":40.2338,"lon":-111.6585,"precision":"city","confidence":"high","note":"BYU"}
+{"qid":3008527,"place":"French Polynesia","lat":-17.6797,"lon":-149.4068,"precision":"country","confidence":"medium","note":"main impact"}
+{"qid":131283653,"place":"Kingston upon Hull","lat":53.7457,"lon":-0.3367,"precision":"city","confidence":"high","note":"mayoral area"}
+{"qid":136462809,"place":"Hungary","lat":47.1625,"lon":19.5033,"precision":"country","confidence":"high","note":"national race"}
+{"qid":131939949,"place":"Yerevan","lat":40.1792,"lon":44.4991,"precision":"city","confidence":"high","note":"venue city"}
+{"qid":4622904,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"venues vary"}
+{"qid":16959384,"place":"Hawaii","lat":21.1,"lon":-157.5,"precision":"region","confidence":"high","note":"state"}
+{"qid":30640618,"place":"Connecticut","lat":41.6,"lon":-72.7,"precision":"region","confidence":"high","note":"state"}
+{"qid":3737232,"place":"CERN","lat":46.233,"lon":6.0557,"precision":"site","confidence":"medium","note":"developed at CERN"}
+{"qid":3284189,"place":"Texas","lat":31.0,"lon":-100.0,"precision":"region","confidence":"low","note":"fossil site"}
+{"qid":17513450,"place":"Renfrew County","lat":45.4,"lon":-77.0,"precision":"region","confidence":"high","note":"highway in county"}
+{"qid":103963527,"place":"Ardèche","lat":44.75,"lon":4.4,"precision":"region","confidence":"medium","note":"race region"}
+{"qid":125100299,"place":"Nowy Sącz","lat":49.6218,"lon":20.697,"precision":"city","confidence":"high","note":"venue city"}
+{"qid":20826599,"place":"Alberta","lat":53.9333,"lon":-116.5765,"precision":"region","confidence":"high","note":"race province"}
+{"qid":7185228,"place":"Manila","lat":14.5995,"lon":120.9842,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":1376134,"place":"Helsinki","lat":60.1699,"lon":24.9384,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":8035030,"place":"Geneva","lat":46.2044,"lon":6.1432,"precision":"city","confidence":"medium","note":"ILO seat"}
+{"qid":6507900,"place":"Bangkok","lat":13.7563,"lon":100.5018,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":6806279,"place":"Geneva","lat":46.2044,"lon":6.1432,"precision":"city","confidence":"medium","note":"ILO seat"}
+{"qid":897608,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"bus model"}
+{"qid":199170,"place":"Nassau, Bahamas","lat":25.0343,"lon":-77.3963,"precision":"city","confidence":"medium","note":"Bahamas devastation"}
+{"qid":24009997,"place":"Yorkshire","lat":53.9915,"lon":-1.5412,"precision":"region","confidence":"high","note":"race region"}
+{"qid":111946544,"place":"Dharan","lat":26.8065,"lon":87.2846,"precision":"city","confidence":"high","note":"municipality"}
+{"qid":4591703,"place":"Southern Ontario","lat":43.7,"lon":-80.5,"precision":"region","confidence":"high","note":"affected region"}

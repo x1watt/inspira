@@ -1,0 +1,50 @@
+{"qid":5587438,"place":"Gosport","lat":50.795,"lon":-1.124,"precision":"city","confidence":"high","note":"council election"}
+{"qid":137844203,"place":"Islington","lat":51.5362,"lon":-0.103,"precision":"city","confidence":"high","note":"London borough"}
+{"qid":51045857,"place":"Schoten","lat":51.25,"lon":4.5,"precision":"city","confidence":"medium","note":"Scheldeprijs starts in Schoten"}
+{"qid":16960302,"place":"Adelaide","lat":-34.9285,"lon":138.6007,"precision":"city","confidence":"high","note":"seat of Adelaide"}
+{"qid":64618939,"place":"Solomon Islands","lat":-9.6457,"lon":160.1562,"precision":"country","confidence":"low","note":"first affected area"}
+{"qid":7892944,"place":"New Jersey","lat":40.0583,"lon":-74.4057,"precision":"region","confidence":"high","note":"state result"}
+{"qid":25062263,"place":"State Kremlin Palace","lat":55.7512,"lon":37.6156,"precision":"site","confidence":"high","note":"ceremony held there"}
+{"qid":3996121,"place":"Murten","lat":46.9269,"lon":7.1136,"precision":"city","confidence":"medium","note":"race start"}
+{"qid":28405535,"place":"San Antonio, Texas","lat":29.4252,"lon":-98.4946,"precision":"city","confidence":"high","note":"shooting location"}
+{"qid":3652507,"place":"Žalgiris Arena","lat":54.6872,"lon":25.2797,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":12311840,"place":"Denmark","lat":56.0,"lon":10.0,"precision":"country","confidence":"medium","note":"nationwide election"}
+{"qid":123561181,"place":"Algarve International Circuit","lat":37.2272,"lon":-8.6267,"precision":"site","confidence":"medium","note":"planned venue"}
+{"qid":22022105,"place":"Muscatine, Iowa","lat":41.4245,"lon":-91.0432,"precision":"city","confidence":"low","note":"Clark case origin"}
+{"qid":30148403,"place":"Verviers","lat":50.5894,"lon":5.8628,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":7123137,"place":"Santiago","lat":-33.4489,"lon":-70.6693,"precision":"city","confidence":"high","note":"signed in Santiago"}
+{"qid":1958948,"place":"Munich","lat":48.1374,"lon":11.5755,"precision":"city","confidence":"medium","note":"main riots in Munich"}
+{"qid":109252804,"place":"New England (New South Wales)","lat":-30.5,"lon":151.65,"precision":"region","confidence":"medium","note":"north-eastern NSW"}
+{"qid":17147133,"place":"Marshall Islands","lat":7.1315,"lon":171.1845,"precision":"country","confidence":"high","note":"struck Marshall Islands"}
+{"qid":2053343,"place":"Beirut","lat":33.8938,"lon":35.5018,"precision":"city","confidence":"medium","note":"Lebanese parliament seat"}
+{"qid":3738975,"place":"Japan","lat":36.2048,"lon":138.2529,"precision":"country","confidence":"medium","note":"novel set in Japan"}
+{"qid":12876820,"place":"North Dakota","lat":47.5515,"lon":-101.002,"precision":"region","confidence":"high","note":"state election"}
+{"qid":30638893,"place":"Rhode Island","lat":41.5801,"lon":-71.4774,"precision":"region","confidence":"high","note":"state result"}
+{"qid":138542929,"place":"Thailand","lat":15.87,"lon":100.9925,"precision":"country","confidence":"low","note":"host unsure"}
+{"qid":16998830,"place":"Newcastle upon Tyne","lat":54.9783,"lon":-1.6178,"precision":"city","confidence":"high","note":"city council"}
+{"qid":104882727,"place":"Devon","lat":50.7156,"lon":-3.5309,"precision":"region","confidence":"high","note":"county council"}
+{"qid":7892116,"place":"Wisconsin","lat":44.2685,"lon":-89.6165,"precision":"region","confidence":"high","note":"state election"}
+{"qid":14955229,"place":"Milan","lat":45.4642,"lon":9.19,"precision":"city","confidence":"medium","note":"Giro di Lombardia finish area"}
+{"qid":4220880,"place":"Poland","lat":51.9194,"lon":19.1451,"precision":"country","confidence":"high","note":"Polish cinema movement"}
+{"qid":111539787,"place":"Grand-Champ","lat":47.75,"lon":-2.8333,"precision":"city","confidence":"high","note":"race in Grand-Champ"}
+{"qid":23782111,"place":"Valence, Drôme","lat":44.9334,"lon":4.8924,"precision":"city","confidence":"high","note":"headquartered in Valence"}
+{"qid":110654999,"place":"Hamburg","lat":53.5511,"lon":9.9937,"precision":"city","confidence":"high","note":"Cyclassics in Hamburg"}
+{"qid":111955929,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"high","note":"La Guardia mayor"}
+{"qid":48854784,"place":"Chiba","lat":35.6073,"lon":140.1063,"precision":"city","confidence":"high","note":"held in Chiba"}
+{"qid":136341613,"place":"King Abdullah Sports City","lat":21.7607,"lon":39.1331,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":6937882,"place":"Singapore","lat":1.3521,"lon":103.8198,"precision":"country","confidence":"medium","note":"disappeared in Singapore"}
+{"qid":7892864,"place":"Mississippi","lat":32.3547,"lon":-89.3985,"precision":"region","confidence":"high","note":"state result"}
+{"qid":16823099,"place":"Bermuda","lat":32.3078,"lon":-64.7505,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":55601026,"place":"Schoten","lat":51.25,"lon":4.5,"precision":"city","confidence":"medium","note":"Scheldeprijs starts in Schoten"}
+{"qid":4561538,"place":"Kohat","lat":33.5869,"lon":71.4414,"precision":"city","confidence":"high","note":"riots in Kohat"}
+{"qid":3587392,"place":"Madrid","lat":40.4168,"lon":-3.7038,"precision":"city","confidence":"high","note":"regional election"}
+{"qid":19368466,"place":"Lugano","lat":46.0037,"lon":8.9511,"precision":"city","confidence":"high","note":"race around Lugano"}
+{"qid":17000853,"place":"Philadelphia","lat":39.9526,"lon":-75.1652,"precision":"city","confidence":"medium","note":"Pennsylvania legislature then"}
+{"qid":55605631,"place":"Bloudan","lat":33.7167,"lon":36.1167,"precision":"city","confidence":"high","note":"conference held there"}
+{"qid":908747,"place":"Sunnyvale, California","lat":37.3688,"lon":-122.0363,"precision":"city","confidence":"medium","note":"Yahoo HQ"}
+{"qid":6567894,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"fictional"}
+{"qid":131544960,"place":"Worcester, England","lat":52.1936,"lon":-2.2216,"precision":"city","confidence":"high","note":"city council"}
+{"qid":85727093,"place":"Stevenage","lat":51.9038,"lon":-0.202,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":2069139,"place":"Malta","lat":35.9375,"lon":14.3754,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":4590844,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"abstract list"}
+{"qid":39046285,"place":"Iowa","lat":41.878,"lon":-93.0977,"precision":"region","confidence":"high","note":"state result"}

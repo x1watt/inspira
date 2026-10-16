@@ -1,0 +1,50 @@
+{"qid":7720736,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"medium","note":"UK magazine"}
+{"qid":4914225,"place":"Philadelphia","lat":39.9526,"lon":-75.1652,"precision":"city","confidence":"medium","note":"Supreme Court sat there"}
+{"qid":1804193,"place":"Kiel","lat":54.3233,"lon":10.1228,"precision":"city","confidence":"high","note":"Landtag seat"}
+{"qid":7305541,"place":"Redcar and Cleveland","lat":54.58,"lon":-1.06,"precision":"region","confidence":"high","note":"unitary authority"}
+{"qid":3149883,"place":"RAF Lakenheath","lat":52.4093,"lon":0.561,"precision":"site","confidence":"high","note":"airbase incident"}
+{"qid":16852608,"place":"Kent","lat":51.2787,"lon":0.5217,"precision":"region","confidence":"high","note":"county council"}
+{"qid":7073037,"place":"Cape Canaveral Launch Complex 17","lat":28.4474,"lon":-80.5656,"precision":"site","confidence":"high","note":"launch site"}
+{"qid":934082,"place":"Palermo","lat":38.1157,"lon":13.3615,"precision":"city","confidence":"medium","note":"Mafia arrests Italy and US"}
+{"qid":22063689,"place":"Djibouti (city)","lat":11.5721,"lon":43.1456,"precision":"city","confidence":"medium","note":"capital of Djibouti"}
+{"qid":134739012,"place":"Chongqing Huaxi Culture and Sports Center","lat":29.4316,"lon":106.49,"precision":"site","confidence":"medium","note":"venue named"}
+{"qid":7694438,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"animated series"}
+{"qid":54817884,"place":"Watford","lat":51.6565,"lon":-0.3903,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":1973554,"place":"Irkutsk","lat":52.2864,"lon":104.2807,"precision":"city","confidence":"medium","note":"type site Glazkov"}
+{"qid":3454902,"place":"Martinique","lat":14.6415,"lon":-61.0242,"precision":"region","confidence":"high","note":"island referendum"}
+{"qid":106913135,"place":"Shropshire","lat":52.6,"lon":-2.75,"precision":"region","confidence":"high","note":"council area"}
+{"qid":115918028,"place":"Blackball, New Zealand","lat":-42.3833,"lon":171.4167,"precision":"city","confidence":"high","note":"strike at Blackball"}
+{"qid":644393,"place":"Schoten","lat":51.25,"lon":4.5,"precision":"city","confidence":"medium","note":"Scheldeprijs starts in Schoten"}
+{"qid":2022662,"place":"Flanders","lat":51.0,"lon":4.0,"precision":"region","confidence":"medium","note":"Tour of Flanders"}
+{"qid":4020702,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"comic series"}
+{"qid":4345824,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"comic strip"}
+{"qid":111956087,"place":"Dublin","lat":53.3498,"lon":-6.2603,"precision":"city","confidence":"medium","note":"Irish blood service"}
+{"qid":1448234,"place":"Sweden","lat":60.1282,"lon":18.6435,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":5454877,"place":"Malaysia","lat":4.2105,"lon":101.9758,"precision":"country","confidence":"high","note":"federal act"}
+{"qid":3232051,"place":"Japan","lat":36.2048,"lon":138.2529,"precision":"country","confidence":"high","note":"Japanese road sign"}
+{"qid":3777486,"place":"Denmark","lat":56.0,"lon":10.0,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":101478196,"place":"San Sebastián","lat":43.3183,"lon":-1.9812,"precision":"city","confidence":"high","note":"race in San Sebastian"}
+{"qid":7058724,"place":"Northern Mariana Islands","lat":15.0979,"lon":145.6739,"precision":"region","confidence":"high","note":"territory election"}
+{"qid":110158558,"place":"Turkey","lat":38.9637,"lon":35.2433,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":4620505,"place":"Bering Sea","lat":58.0,"lon":-175.0,"precision":"region","confidence":"high","note":"cyclone over Bering Sea"}
+{"qid":22906629,"place":"Bangkok","lat":13.7563,"lon":100.5018,"precision":"city","confidence":"medium","note":"rules named for Bangkok"}
+{"qid":133311081,"place":"Dunkirk","lat":51.0343,"lon":2.3768,"precision":"city","confidence":"high","note":"Dunkirk stage race"}
+{"qid":137844243,"place":"Wandsworth","lat":51.4571,"lon":-0.192,"precision":"city","confidence":"high","note":"London borough"}
+{"qid":18286580,"place":"Madrid","lat":40.4168,"lon":-3.7038,"precision":"city","confidence":"medium","note":"Spanish party"}
+{"qid":5398780,"place":"Provo, Utah","lat":40.2338,"lon":-111.6585,"precision":"city","confidence":"medium","note":"EFY at BYU"}
+{"qid":5166307,"place":"Strasbourg","lat":48.5734,"lon":7.7521,"precision":"city","confidence":"medium","note":"Council of Europe treaty"}
+{"qid":85732032,"place":"North East Derbyshire","lat":53.18,"lon":-1.43,"precision":"region","confidence":"high","note":"district council"}
+{"qid":10551531,"place":"Sweden","lat":60.1282,"lon":18.6435,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":7892127,"place":"Wyoming","lat":43.0759,"lon":-107.2903,"precision":"region","confidence":"high","note":"state election"}
+{"qid":603852,"place":"Sweden","lat":60.1282,"lon":18.6435,"precision":"country","confidence":"high","note":"Swedish locomotive"}
+{"qid":847316,"place":"Genoa","lat":44.4056,"lon":8.9463,"precision":"city","confidence":"low","note":"liner Genoa route"}
+{"qid":60792860,"place":"Edinburgh","lat":55.9533,"lon":-3.1883,"precision":"city","confidence":"high","note":"riots in Edinburgh"}
+{"qid":116313212,"place":"Romandy","lat":46.6,"lon":6.6,"precision":"region","confidence":"medium","note":"Tour de Romandie region"}
+{"qid":25007067,"place":"Churchill Downs","lat":38.2036,"lon":-85.77,"precision":"site","confidence":"high","note":"Kentucky Derby venue"}
+{"qid":6974586,"place":"Canada","lat":56.1304,"lon":-106.3468,"precision":"country","confidence":"high","note":"Canadian event"}
+{"qid":138719433,"place":"Canberra","lat":-35.2809,"lon":149.13,"precision":"city","confidence":"high","note":"Parliament House"}
+{"qid":2994063,"place":"Aurillac","lat":44.926,"lon":2.4392,"precision":"city","confidence":"high","note":"Cantal prefecture"}
+{"qid":95791740,"place":"Paramaribo","lat":5.852,"lon":-55.2038,"precision":"city","confidence":"high","note":"Colonial States seat"}
+{"qid":65056851,"place":"Kingdom of Israel (Samaria)","lat":32.275,"lon":35.195,"precision":"region","confidence":"medium","note":"northern kingdom"}
+{"qid":54430932,"place":"Ghent","lat":51.0543,"lon":3.7174,"precision":"city","confidence":"high","note":"race start"}
+{"qid":48814993,"place":"Fukuoka","lat":33.5904,"lon":130.4017,"precision":"city","confidence":"high","note":"held in Fukuoka"}

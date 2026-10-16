@@ -1,0 +1,50 @@
+{"qid":1526850,"place":"Torbole","lat":45.875,"lon":10.875,"precision":"city","confidence":"medium","note":"race start"}
+{"qid":4617781,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"low","note":"draft location uncertain"}
+{"qid":30141656,"place":"Harelbeke","lat":50.8587,"lon":3.3114,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":28196176,"place":"Dublin","lat":53.3498,"lon":-6.2603,"precision":"city","confidence":"high","note":"Oireachtas in Dublin"}
+{"qid":28122293,"place":"United States Capitol","lat":38.8899,"lon":-77.0091,"precision":"site","confidence":"high","note":"House vote at Capitol"}
+{"qid":20738971,"place":"San Sebastián","lat":43.3183,"lon":-1.9812,"precision":"city","confidence":"high","note":"race in San Sebastián"}
+{"qid":7094692,"place":"Ontario","lat":51.2538,"lon":-85.3232,"precision":"region","confidence":"medium","note":"Ontario highway"}
+{"qid":5985220,"place":"South Pole","lat":-90.0,"lon":0.0,"precision":"region","confidence":"medium","note":"expedition target"}
+{"qid":82434111,"place":"Moscow Manege","lat":55.75,"lon":37.6125,"precision":"site","confidence":"high","note":"venue"}
+{"qid":1063012,"place":"Dushanbe","lat":38.5598,"lon":68.787,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":5098819,"place":"Santiago","lat":-33.4489,"lon":-70.6693,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":124208015,"place":"United Kingdom","lat":54.0,"lon":-2.0,"precision":"country","confidence":"medium","note":"race in Britain"}
+{"qid":38281415,"place":"Morocco","lat":31.7917,"lon":-7.0926,"precision":"country","confidence":"high","note":"bid host country"}
+{"qid":29207306,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"bids list"}
+{"qid":7716725,"place":"Hamilton Island","lat":-20.35,"lon":148.95,"precision":"region","confidence":"medium","note":"island job in Queensland"}
+{"qid":48426827,"place":"Oman","lat":21.4735,"lon":55.9754,"precision":"country","confidence":"medium","note":"race in Oman"}
+{"qid":55334006,"place":"Slovenia","lat":46.1512,"lon":14.9955,"precision":"country","confidence":"medium","note":"race in Slovenia"}
+{"qid":7305649,"place":"Redditch","lat":52.306,"lon":-1.945,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":126737345,"place":"Romandy","lat":46.6,"lon":6.6,"precision":"region","confidence":"medium","note":"race in Romandy"}
+{"qid":2613396,"place":"Cirque Royal","lat":50.85,"lon":4.364,"precision":"site","confidence":"high","note":"venue"}
+{"qid":20100222,"place":"Platja d'Aro","lat":41.8167,"lon":3.0667,"precision":"city","confidence":"high","note":"race start"}
+{"qid":30728973,"place":"France","lat":46.2276,"lon":2.2137,"precision":"country","confidence":"low","note":"Free French colonial troops"}
+{"qid":24039311,"place":"South Cambridgeshire","lat":52.15,"lon":0.05,"precision":"region","confidence":"high","note":"district council"}
+{"qid":5198771,"place":"Vanuatu","lat":-15.3767,"lon":166.9592,"precision":"country","confidence":"medium","note":"affected Vanuatu first"}
+{"qid":18159781,"place":"Liverpool","lat":53.4084,"lon":-2.9916,"precision":"city","confidence":"high","note":"city council"}
+{"qid":13434359,"place":"Italy","lat":41.8719,"lon":12.5674,"precision":"country","confidence":"low","note":"race in Italy"}
+{"qid":17988750,"place":"Erpe-Mere","lat":50.9333,"lon":3.9833,"precision":"city","confidence":"high","note":"race in Erpe-Mere"}
+{"qid":107354894,"place":"Russia","lat":61.524,"lon":105.3188,"precision":"country","confidence":"low","note":"Russian plan"}
+{"qid":6105324,"place":"Ankara","lat":39.9334,"lon":32.8597,"precision":"city","confidence":"high","note":"Assembly seat"}
+{"qid":109289384,"place":"Iran","lat":32.4279,"lon":53.688,"precision":"country","confidence":"high","note":"nationwide attack"}
+{"qid":7492644,"place":"Sheffield","lat":53.3811,"lon":-1.4701,"precision":"city","confidence":"high","note":"city council"}
+{"qid":1786256,"place":"Turkey","lat":38.9637,"lon":35.2433,"precision":"country","confidence":"medium","note":"nationwide"}
+{"qid":1298575,"place":"Andalusia","lat":37.3891,"lon":-5.9845,"precision":"region","confidence":"medium","note":"race in Andalusia"}
+{"qid":50820502,"place":"Waregem","lat":50.8883,"lon":3.4261,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":39088670,"place":"Kuwait City","lat":29.3759,"lon":47.9774,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":16240016,"place":"Hubei","lat":30.5928,"lon":114.3055,"precision":"region","confidence":"high","note":"mostly in Hubei"}
+{"qid":133838780,"place":"Hainan","lat":19.2,"lon":109.7,"precision":"region","confidence":"medium","note":"race in Hainan"}
+{"qid":5020806,"place":"California","lat":36.7783,"lon":-119.4179,"precision":"region","confidence":"medium","note":"state ballot measure"}
+{"qid":19870183,"place":"London Borough of Sutton","lat":51.3618,"lon":-0.1945,"precision":"region","confidence":"high","note":"borough council"}
+{"qid":7185062,"place":"Manila","lat":14.5995,"lon":120.9842,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":58925201,"place":"Asturias","lat":43.3614,"lon":-5.8494,"precision":"region","confidence":"medium","note":"race in Asturias"}
+{"qid":4999067,"place":"Ouagadougou","lat":12.3714,"lon":-1.5197,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":65064879,"place":"Medway","lat":51.39,"lon":0.54,"precision":"region","confidence":"high","note":"unitary authority"}
+{"qid":5484459,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"medium","note":"signed in Paris"}
+{"qid":994820,"place":"Affoltern am Albis","lat":47.28,"lon":8.45,"precision":"city","confidence":"high","note":"race start"}
+{"qid":7891951,"place":"Pennsylvania","lat":40.2732,"lon":-76.8867,"precision":"region","confidence":"medium","note":"state election"}
+{"qid":110431812,"place":"Bregenz","lat":47.5031,"lon":9.7471,"precision":"city","confidence":"high","note":"state capital"}
+{"qid":3882247,"place":"Ghent","lat":51.0543,"lon":3.7174,"precision":"city","confidence":"medium","note":"race start"}
+{"qid":29467475,"place":"Bermuda","lat":32.3078,"lon":-64.7505,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":7009567,"place":"New Jersey","lat":40.0583,"lon":-74.4057,"precision":"region","confidence":"high","note":"currency of New Jersey"}

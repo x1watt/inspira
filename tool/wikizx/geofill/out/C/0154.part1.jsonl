@@ -1,0 +1,50 @@
+{"qid":23020035,"place":"New Zealand","lat":-40.9006,"lon":174.886,"precision":"country","confidence":"high","note":"cyclone struck NZ"}
+{"qid":66202842,"place":"Caracal, Romania","lat":44.1167,"lon":24.35,"precision":"city","confidence":"high","note":"kidnapping in Caracal"}
+{"qid":131925619,"place":"Plumelec","lat":47.8,"lon":-2.4,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":30634470,"place":"Wyoming","lat":43.0759,"lon":-107.2903,"precision":"region","confidence":"high","note":"statewide"}
+{"qid":5020923,"place":"California","lat":36.7783,"lon":-119.4179,"precision":"region","confidence":"high","note":"statewide"}
+{"qid":135966871,"place":"Vietnam","lat":14.0583,"lon":108.2772,"precision":"country","confidence":"medium","note":"impacted Northern Vietnam"}
+{"qid":27976712,"place":"Milan","lat":45.4642,"lon":9.19,"precision":"city","confidence":"medium","note":"Lombardy race"}
+{"qid":86662002,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"medium","note":"Soviet decree"}
+{"qid":12311838,"place":"Copenhagen","lat":55.6761,"lon":12.5683,"precision":"city","confidence":"medium","note":"Danish capital"}
+{"qid":126597887,"place":"France","lat":46.2276,"lon":2.2137,"precision":"country","confidence":"high","note":"European election list"}
+{"qid":7893195,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"high","note":"national election"}
+{"qid":96362755,"place":"Hawaii","lat":19.8968,"lon":-155.5828,"precision":"region","confidence":"high","note":"statewide"}
+{"qid":5935437,"place":"Hukou, Hsinchu","lat":24.9,"lon":121.05,"precision":"city","confidence":"high","note":"mutiny at Hukou"}
+{"qid":33407780,"place":"Great Ormond Street Hospital","lat":51.5222,"lon":-0.1203,"precision":"site","confidence":"high","note":"hospital in London"}
+{"qid":121335860,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"high","note":"French government"}
+{"qid":42916365,"place":"Minnesota","lat":46.7296,"lon":-94.6859,"precision":"region","confidence":"high","note":"statewide"}
+{"qid":5198810,"place":"United Kingdom","lat":55.3781,"lon":-3.436,"precision":"country","confidence":"medium","note":"storm across northern Europe"}
+{"qid":7982141,"place":"Welwyn Hatfield","lat":51.76,"lon":-0.2,"precision":"region","confidence":"medium","note":"district council"}
+{"qid":7433539,"place":"United Kingdom","lat":55.3781,"lon":-3.436,"precision":"country","confidence":"high","note":"British magazine"}
+{"qid":11706765,"place":"Schoten","lat":51.25,"lon":4.5,"precision":"city","confidence":"medium","note":"Scheldeprijs in Schoten"}
+{"qid":3729947,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"comic"}
+{"qid":5858625,"place":"Ciudad Juárez","lat":31.6904,"lon":-106.4245,"precision":"city","confidence":"high","note":"murders in Juárez"}
+{"qid":22022606,"place":"Georgia (U.S. state)","lat":32.1656,"lon":-82.9001,"precision":"region","confidence":"high","note":"statewide"}
+{"qid":104842659,"place":"Michigan","lat":44.3148,"lon":-85.6024,"precision":"region","confidence":"high","note":"statewide"}
+{"qid":132018321,"place":"Valencian Community","lat":39.484,"lon":-0.7533,"precision":"region","confidence":"high","note":"race in Valencia"}
+{"qid":16828287,"place":"Cowdenbeath","lat":56.111,"lon":-3.344,"precision":"city","confidence":"high","note":"by-election"}
+{"qid":29643729,"place":"Norway","lat":60.472,"lon":8.4689,"precision":"country","confidence":"high","note":"race in Norway"}
+{"qid":5544194,"place":"Sicily","lat":37.5999,"lon":14.0154,"precision":"region","confidence":"high","note":"incidents in Sicily"}
+{"qid":17020696,"place":"Hawaii","lat":19.8968,"lon":-155.5828,"precision":"region","confidence":"high","note":"affected Hawaii"}
+{"qid":6551238,"place":"Lincolnshire","lat":53.1,"lon":-0.2,"precision":"region","confidence":"medium","note":"county council"}
+{"qid":3469989,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"comic strip"}
+{"qid":2055395,"place":"Ghent","lat":51.0543,"lon":3.7174,"precision":"city","confidence":"high","note":"race start"}
+{"qid":19863526,"place":"Midwestern United States","lat":41.5,"lon":-90.0,"precision":"region","confidence":"low","note":"Western Conference region"}
+{"qid":24965497,"place":"Tennessee","lat":35.5175,"lon":-86.5804,"precision":"region","confidence":"high","note":"statewide"}
+{"qid":3562626,"place":"Algiers","lat":36.7538,"lon":3.0588,"precision":"city","confidence":"medium","note":"hijack ended in Algeria"}
+{"qid":4052320,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"anime"}
+{"qid":55601217,"place":"Alsemberg","lat":50.75,"lon":4.35,"precision":"city","confidence":"high","note":"race finish"}
+{"qid":30321748,"place":"Liège","lat":50.6326,"lon":5.5797,"precision":"city","confidence":"high","note":"race start"}
+{"qid":110517116,"place":"Havana","lat":23.1136,"lon":-82.3666,"precision":"city","confidence":"high","note":"tornado hit Havana"}
+{"qid":9548942,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"high","note":"national events"}
+{"qid":7893277,"place":"San Jose, California","lat":37.3382,"lon":-121.8863,"precision":"city","confidence":"medium","note":"case in N.D. California"}
+{"qid":3354313,"place":"Reykjavík","lat":64.1466,"lon":-21.9426,"precision":"city","confidence":"medium","note":"Althing seat"}
+{"qid":17635055,"place":"St. Louis","lat":38.627,"lon":-90.1994,"precision":"city","confidence":"medium","note":"murder in St. Louis area"}
+{"qid":47008000,"place":"Siena","lat":43.3188,"lon":11.3308,"precision":"city","confidence":"high","note":"race finish Siena"}
+{"qid":138132221,"place":"South Tyneside","lat":54.96,"lon":-1.44,"precision":"region","confidence":"medium","note":"council area"}
+{"qid":689207,"place":"Lugano","lat":46.0037,"lon":8.9511,"precision":"city","confidence":"high","note":"race start"}
+{"qid":7541470,"place":"Slough","lat":51.5105,"lon":-0.595,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":633486,"place":"Pretoria","lat":-25.7479,"lon":28.2293,"precision":"city","confidence":"high","note":"contest in Pretoria"}
+{"qid":126415711,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"touring show"}
+{"qid":65117395,"place":"Hard Rock Hotel and Casino (Las Vegas)","lat":36.11,"lon":-115.16,"precision":"site","confidence":"medium","note":"awards at Hard Rock Las Vegas"}

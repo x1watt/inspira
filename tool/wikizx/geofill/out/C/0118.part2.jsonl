@@ -1,0 +1,50 @@
+{"qid":27958010,"place":"Devon","lat":50.7156,"lon":-3.5309,"precision":"region","confidence":"high","note":"county election"}
+{"qid":16662351,"place":"Navoi International Airport","lat":40.1172,"lon":65.1708,"precision":"site","confidence":"high","note":"crash site"}
+{"qid":112980618,"place":"Australia","lat":-25.2744,"lon":133.7751,"precision":"country","confidence":"high","note":"tour of Australia"}
+{"qid":2607932,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"league draft"}
+{"qid":124008023,"place":"Cittiglio","lat":45.915,"lon":8.665,"precision":"city","confidence":"high","note":"race town"}
+{"qid":110773413,"place":"Flanders","lat":51.0,"lon":4.0,"precision":"region","confidence":"medium","note":"Belgian race"}
+{"qid":1065093,"place":"Vienna","lat":48.2082,"lon":16.3738,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":4586228,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"medium","note":"published in London Gazette"}
+{"qid":4870759,"place":"Claremore, Oklahoma","lat":36.3126,"lon":-95.6161,"precision":"city","confidence":"high","note":"battle at Claremore Mound"}
+{"qid":4658309,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"sermon"}
+{"qid":3002768,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"medium","note":"Société Générale HQ"}
+{"qid":137424870,"place":"Bredene","lat":51.238,"lon":2.973,"precision":"city","confidence":"medium","note":"start and finish"}
+{"qid":6743360,"place":"Bamako","lat":12.6392,"lon":-8.0029,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":122699536,"place":"Whitney Museum of American Art","lat":40.7396,"lon":-74.0089,"precision":"site","confidence":"high","note":"held at Whitney"}
+{"qid":4560842,"place":"Haifa","lat":32.794,"lon":34.9896,"precision":"city","confidence":"medium","note":"congress held in Haifa"}
+{"qid":110127909,"place":"Dubai","lat":25.2048,"lon":55.2708,"precision":"city","confidence":"high","note":"2021 match in Dubai"}
+{"qid":124866716,"place":"Leeds","lat":53.8008,"lon":-1.5491,"precision":"city","confidence":"high","note":"city council"}
+{"qid":7999511,"place":"Wigan","lat":53.5448,"lon":-2.6318,"precision":"city","confidence":"high","note":"borough"}
+{"qid":5607410,"place":"St. George's, Grenada","lat":12.0561,"lon":-61.7486,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":61741779,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"concert tour"}
+{"qid":10384340,"place":"Elvas","lat":38.8814,"lon":-7.163,"precision":"city","confidence":"high","note":"treaty town"}
+{"qid":110551325,"place":"Belgrade","lat":44.7866,"lon":20.4489,"precision":"city","confidence":"medium","note":"Serbian festival"}
+{"qid":15614087,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"cryptocurrency"}
+{"qid":5419714,"place":"Phoenix, Arizona","lat":33.4484,"lon":-112.074,"precision":"city","confidence":"medium","note":"Catholic hospital in Phoenix"}
+{"qid":7185250,"place":"Philippines","lat":12.8797,"lon":121.774,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":602971,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"locomotive"}
+{"qid":138132339,"place":"Sunderland","lat":54.9069,"lon":-1.3838,"precision":"city","confidence":"high","note":"city council"}
+{"qid":2190198,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"medium","note":"French parliament group"}
+{"qid":7676840,"place":"Dushanbe","lat":38.5598,"lon":68.787,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":137786694,"place":"London Borough of Hammersmith and Fulham","lat":51.4927,"lon":-0.2339,"precision":"region","confidence":"high","note":"borough"}
+{"qid":125536039,"place":"Bourg-en-Bresse","lat":46.2056,"lon":5.2256,"precision":"city","confidence":"high","note":"Ekinox venue"}
+{"qid":4858576,"place":"Bridgetown","lat":13.0969,"lon":-59.6145,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":117190432,"place":"Schoten","lat":51.25,"lon":4.5,"precision":"city","confidence":"low","note":"race near Antwerp"}
+{"qid":3521991,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"observance"}
+{"qid":5201814,"place":"Prague","lat":50.0755,"lon":14.4378,"precision":"city","confidence":"medium","note":"Czech TV centre"}
+{"qid":110608435,"place":"Philippines","lat":12.8797,"lon":121.774,"precision":"country","confidence":"medium","note":"affected Philippines first"}
+{"qid":262233,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"train service"}
+{"qid":7094769,"place":"Ontario","lat":51.2538,"lon":-85.3232,"precision":"region","confidence":"low","note":"provincial highway"}
+{"qid":16829329,"place":"Hastings","lat":50.8543,"lon":0.5735,"precision":"city","confidence":"high","note":"borough"}
+{"qid":12322521,"place":"Nuuk","lat":64.1835,"lon":-51.7216,"precision":"city","confidence":"low","note":"Greenland"}
+{"qid":21791391,"place":"Como","lat":45.8081,"lon":9.0852,"precision":"city","confidence":"medium","note":"finish town"}
+{"qid":110625293,"place":"Denain","lat":50.3283,"lon":3.3953,"precision":"city","confidence":"high","note":"race town"}
+{"qid":3008513,"place":"Mozambique","lat":-18.6657,"lon":35.5296,"precision":"country","confidence":"high","note":"struck Mozambique"}
+{"qid":8065710,"place":"Lusaka","lat":-15.3875,"lon":28.3228,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":60820361,"place":"Ghent","lat":51.0543,"lon":3.7174,"precision":"city","confidence":"medium","note":"race start city"}
+{"qid":6722518,"place":"Macau","lat":22.1987,"lon":113.5439,"precision":"region","confidence":"high","note":"territory election"}
+{"qid":134477822,"place":"Delaware","lat":39.0,"lon":-75.5,"precision":"region","confidence":"high","note":"state election"}
+{"qid":136908579,"place":"City of Westminster","lat":51.4975,"lon":-0.1357,"precision":"region","confidence":"high","note":"city council"}
+{"qid":116312787,"place":"Switzerland","lat":46.8182,"lon":8.2275,"precision":"country","confidence":"high","note":"national tour"}
+{"qid":3586523,"place":"Bogotá","lat":4.711,"lon":-74.0721,"precision":"city","confidence":"medium","note":"capital"}

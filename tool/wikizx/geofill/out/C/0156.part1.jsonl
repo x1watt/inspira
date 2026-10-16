@@ -1,0 +1,50 @@
+{"qid":128693375,"place":"England","lat":52.3555,"lon":-1.1743,"precision":"country","confidence":"low","note":"country only given"}
+{"qid":7380078,"place":"Runnymede","lat":51.4,"lon":-0.55,"precision":"city","confidence":"medium","note":"borough election"}
+{"qid":125398561,"place":"Massachusetts","lat":42.4072,"lon":-71.3824,"precision":"region","confidence":"high","note":"state primary"}
+{"qid":136128934,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"medium","note":"tour start"}
+{"qid":18159724,"place":"Hyndburn","lat":53.7667,"lon":-2.4,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":6277285,"place":"Jordan","lat":31.9454,"lon":35.9284,"precision":"country","confidence":"high","note":"national election"}
+{"qid":127923551,"place":"Nantes","lat":47.2184,"lon":-1.5536,"precision":"city","confidence":"medium","note":"electrical failure near Nantes"}
+{"qid":7304617,"place":"Malaysia","lat":3.139,"lon":101.6869,"precision":"country","confidence":"high","note":"Malaysian law"}
+{"qid":21188428,"place":"Maine","lat":45.2538,"lon":-69.4455,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":107710182,"place":"Norwich","lat":52.6309,"lon":1.2974,"precision":"city","confidence":"high","note":"city election"}
+{"qid":97360322,"place":"Illinois","lat":40.6331,"lon":-89.3985,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":65063317,"place":"Breckland","lat":52.5,"lon":0.8,"precision":"city","confidence":"medium","note":"district election"}
+{"qid":39060727,"place":"Delaware","lat":39.1582,"lon":-75.5244,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":7893068,"place":"Rhode Island","lat":41.5801,"lon":-71.4774,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":112425719,"place":"Alto Hospicio","lat":-20.2667,"lon":-70.1,"precision":"city","confidence":"high","note":"Cardoen factory explosion"}
+{"qid":55099658,"place":"Norwich","lat":52.6309,"lon":1.2974,"precision":"city","confidence":"high","note":"city election"}
+{"qid":17015444,"place":"Sunderland","lat":54.9069,"lon":-1.3838,"precision":"city","confidence":"high","note":"city election"}
+{"qid":4947431,"place":"Prince Edward Island","lat":46.5107,"lon":-63.4168,"precision":"region","confidence":"medium","note":"Anne of Green Gables setting"}
+{"qid":6938107,"place":"Wishaw","lat":55.7742,"lon":-3.9189,"precision":"city","confidence":"high","note":"Cambusnethan, Wishaw"}
+{"qid":25351875,"place":"Luxembourg","lat":49.6116,"lon":6.1319,"precision":"city","confidence":"medium","note":"ECJ seat"}
+{"qid":19870005,"place":"London Borough of Barnet","lat":51.6252,"lon":-0.1517,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":5290758,"place":"Ciudad Trujillo","lat":18.4861,"lon":-69.9312,"precision":"city","confidence":"medium","note":"capital Santo Domingo"}
+{"qid":55601547,"place":"Tokyo National Stadium","lat":35.6779,"lon":139.7145,"precision":"site","confidence":"high","note":"venue"}
+{"qid":24908970,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"national polling"}
+{"qid":108755513,"place":"Arlen Specter US Squash Center","lat":39.9926,"lon":-75.1964,"precision":"site","confidence":"high","note":"venue"}
+{"qid":1435851,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"headdress"}
+{"qid":20055567,"place":"Swale","lat":51.35,"lon":0.75,"precision":"city","confidence":"medium","note":"borough election"}
+{"qid":7061390,"place":"Norway","lat":59.9139,"lon":10.7522,"precision":"country","confidence":"high","note":"national election"}
+{"qid":16849256,"place":"Harare","lat":-17.8252,"lon":31.0335,"precision":"city","confidence":"medium","note":"Zimbabwe election"}
+{"qid":130372712,"place":"Caesars Palace","lat":36.1162,"lon":-115.1745,"precision":"site","confidence":"high","note":"venue"}
+{"qid":8055415,"place":"York","lat":53.959,"lon":-1.0815,"precision":"city","confidence":"high","note":"city election"}
+{"qid":113368405,"place":"Czech Republic","lat":49.8175,"lon":15.473,"precision":"country","confidence":"high","note":"national stage race"}
+{"qid":15427511,"place":"Ulaanbaatar","lat":47.8864,"lon":106.9057,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":97066501,"place":"Charleston, South Carolina","lat":32.7765,"lon":-79.9311,"precision":"city","confidence":"high","note":"murder in Charleston"}
+{"qid":60769677,"place":"Tokyo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"medium","note":"Games host city"}
+{"qid":12311832,"place":"Copenhagen","lat":55.6761,"lon":12.5683,"precision":"city","confidence":"medium","note":"national election"}
+{"qid":85726983,"place":"Basildon","lat":51.5761,"lon":0.4887,"precision":"city","confidence":"high","note":"district election"}
+{"qid":16155873,"place":"Mississippi","lat":32.3547,"lon":-89.3985,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":24898402,"place":"Sydney Football Stadium (1988)","lat":-33.8891,"lon":151.2248,"precision":"site","confidence":"medium","note":"venue"}
+{"qid":15912454,"place":"Taiwan","lat":23.6978,"lon":120.9605,"precision":"country","confidence":"medium","note":"deadliest in Taiwan"}
+{"qid":7404366,"place":"Salford","lat":53.4875,"lon":-2.2901,"precision":"city","confidence":"high","note":"city election"}
+{"qid":125293167,"place":"UJ Soweto Stadium","lat":-26.2485,"lon":27.854,"precision":"site","confidence":"medium","note":"venue"}
+{"qid":96362670,"place":"Alaska","lat":64.2008,"lon":-149.4937,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":3587159,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"medium","note":"French legislature"}
+{"qid":130450422,"place":"Hertfordshire","lat":51.8,"lon":-0.2,"precision":"region","confidence":"high","note":"county election"}
+{"qid":136095052,"place":"Breckland","lat":52.5,"lon":0.8,"precision":"city","confidence":"medium","note":"district election"}
+{"qid":17989628,"place":"Netherlands","lat":52.1326,"lon":5.2913,"precision":"country","confidence":"high","note":"national stage race"}
+{"qid":55316297,"place":"Arkansas","lat":34.7465,"lon":-92.2896,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":96368972,"place":"Texas","lat":31.9686,"lon":-99.9018,"precision":"region","confidence":"high","note":"statewide primary"}
+{"qid":85853935,"place":"Tokyo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"high","note":"Olympic host"}

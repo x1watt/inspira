@@ -1,0 +1,50 @@
+{"qid":16161100,"place":"Arizona","lat":34.0489,"lon":-111.0937,"precision":"region","confidence":"high","note":"state election"}
+{"qid":6837517,"place":"Michigan","lat":44.3467,"lon":-85.4102,"precision":"region","confidence":"high","note":"state primary"}
+{"qid":6077922,"place":"Ankara","lat":39.9334,"lon":32.8597,"precision":"city","confidence":"high","note":"Turkish government seat"}
+{"qid":130332891,"place":"Shropshire","lat":52.7,"lon":-2.75,"precision":"region","confidence":"high","note":"council election"}
+{"qid":28163028,"place":"Mineirão","lat":-19.8659,"lon":-43.9711,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":27958006,"place":"Cumbria","lat":54.58,"lon":-2.8,"precision":"region","confidence":"high","note":"county council election"}
+{"qid":4810573,"place":"Constantinople","lat":41.0082,"lon":28.9784,"precision":"city","confidence":"low","note":"Byzantine empire sect"}
+{"qid":42417585,"place":"United States Mint","lat":38.8945,"lon":-77.0231,"precision":"city","confidence":"low","note":"US coin"}
+{"qid":4562490,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"high","note":"Brazilian football season"}
+{"qid":104949821,"place":"North Dakota","lat":47.5515,"lon":-101.002,"precision":"region","confidence":"high","note":"state election"}
+{"qid":131783140,"place":"Ireland","lat":53.4129,"lon":-8.2439,"precision":"country","confidence":"medium","note":"GAA centenary in Ireland"}
+{"qid":110937772,"place":"Malta","lat":35.9375,"lon":14.3754,"precision":"country","confidence":"high","note":"host country Malta"}
+{"qid":6981374,"place":"Yaren","lat":-0.5477,"lon":166.9209,"precision":"city","confidence":"medium","note":"Nauru seat of government"}
+{"qid":25041143,"place":"United Kingdom","lat":54.0,"lon":-2.0,"precision":"country","confidence":"high","note":"UK polling"}
+{"qid":139677923,"place":"Antalya Stadium","lat":36.8969,"lon":30.7133,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":7101045,"place":"Oregon","lat":43.8041,"lon":-120.5542,"precision":"region","confidence":"high","note":"state ballot measure"}
+{"qid":4353766,"place":"Philippines","lat":12.8797,"lon":121.774,"precision":"country","confidence":"medium","note":"typhoon struck Philippines"}
+{"qid":4590283,"place":"Estadio Atanasio Girardot","lat":6.2564,"lon":-75.5905,"precision":"site","confidence":"high","note":"second leg venue"}
+{"qid":7888944,"place":"United Nations Headquarters","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"high","note":"held at UN HQ"}
+{"qid":4625016,"place":"CONCACAF","lat":25.0,"lon":-80.0,"precision":"country","confidence":"low","note":"regional qualifying"}
+{"qid":17514016,"place":"Virginia","lat":37.4316,"lon":-78.6569,"precision":"region","confidence":"high","note":"state election"}
+{"qid":16985284,"place":"Budapest","lat":47.4979,"lon":19.0402,"precision":"city","confidence":"high","note":"Hungarian parliament"}
+{"qid":33101593,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"online fiction"}
+{"qid":16684556,"place":"Cape Town","lat":-33.9249,"lon":18.4241,"precision":"city","confidence":"medium","note":"Parliament elected president"}
+{"qid":4640842,"place":"NHK Hall","lat":35.6648,"lon":139.6968,"precision":"site","confidence":"high","note":"aired from NHK Hall"}
+{"qid":7893067,"place":"Pennsylvania","lat":40.8781,"lon":-77.7996,"precision":"region","confidence":"high","note":"state primary"}
+{"qid":20724116,"place":"France","lat":46.2276,"lon":2.2137,"precision":"country","confidence":"high","note":"race in France"}
+{"qid":125565239,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"low","note":"junior college football"}
+{"qid":110774736,"place":"Vårgårda","lat":58.0333,"lon":12.8,"precision":"city","confidence":"high","note":"race in Vårgårda"}
+{"qid":703311,"place":"Red Square","lat":55.7539,"lon":37.6208,"precision":"site","confidence":"high","note":"Moscow parade"}
+{"qid":28473607,"place":"Victoria (Australia)","lat":-37.0,"lon":144.0,"precision":"region","confidence":"high","note":"race in Victoria"}
+{"qid":19870157,"place":"London Borough of Waltham Forest","lat":51.59,"lon":-0.0134,"precision":"city","confidence":"high","note":"council election"}
+{"qid":7892031,"place":"South Dakota","lat":44.2998,"lon":-99.4388,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7891721,"place":"Nevada","lat":38.8026,"lon":-116.4194,"precision":"region","confidence":"high","note":"state election"}
+{"qid":130361246,"place":"Mohammed bin Zayed Stadium","lat":24.3916,"lon":54.5444,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":4540482,"place":"Hong Kong Disneyland","lat":22.313,"lon":114.0413,"precision":"site","confidence":"high","note":"parade at park"}
+{"qid":16989288,"place":"East Sussex","lat":50.92,"lon":0.25,"precision":"region","confidence":"high","note":"county council election"}
+{"qid":4612084,"place":"Ireland","lat":53.4129,"lon":-8.2439,"precision":"country","confidence":"high","note":"Tour of Ireland"}
+{"qid":20735326,"place":"Wallonia","lat":50.4,"lon":4.8,"precision":"region","confidence":"high","note":"Walloon stage race"}
+{"qid":7852841,"place":"Royal Tunbridge Wells","lat":51.1324,"lon":0.2637,"precision":"city","confidence":"high","note":"borough council election"}
+{"qid":2613342,"place":"Victoria Hall, Geneva","lat":46.2008,"lon":6.1494,"precision":"site","confidence":"high","note":"held at Victoria Hall"}
+{"qid":4625244,"place":"Estádio do Morumbi","lat":-23.6001,"lon":-46.7222,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":98526009,"place":"Brussels","lat":50.8503,"lon":4.3517,"precision":"city","confidence":"high","note":"Brussels Cycling Classic"}
+{"qid":28037272,"place":"San Juan Province, Argentina","lat":-30.8654,"lon":-68.8895,"precision":"region","confidence":"high","note":"race in San Juan"}
+{"qid":136816868,"place":"London Borough of Richmond upon Thames","lat":51.4479,"lon":-0.326,"precision":"city","confidence":"high","note":"council election"}
+{"qid":16996079,"place":"Leeds","lat":53.8008,"lon":-1.5491,"precision":"city","confidence":"high","note":"city council election"}
+{"qid":17099882,"place":"Lake Success, New York","lat":40.7706,"lon":-73.7176,"precision":"city","confidence":"medium","note":"UNGA session site"}
+{"qid":115649519,"place":"Europe","lat":50.0,"lon":10.0,"precision":"region","confidence":"low","note":"European cycling tour"}
+{"qid":1751946,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"comics character"}
+{"qid":5604842,"place":"Royal Borough of Greenwich","lat":51.4934,"lon":0.0098,"precision":"city","confidence":"high","note":"council election"}

@@ -1,0 +1,50 @@
+{"qid":18124690,"place":"Kyiv","lat":50.4501,"lon":30.5234,"precision":"city","confidence":"high","note":"contest in Kyiv"}
+{"qid":18220918,"place":"Beijing","lat":39.9042,"lon":116.4074,"precision":"city","confidence":"medium","note":"race ended in Beijing"}
+{"qid":6543995,"place":"Vaduz","lat":47.141,"lon":9.5209,"precision":"city","confidence":"medium","note":"national election, capital"}
+{"qid":2154160,"place":"Okinoerabu Island","lat":27.3833,"lon":128.6,"precision":"region","confidence":"high","note":"typhoon named for Okinoerabu"}
+{"qid":4793287,"place":"Yerevan","lat":40.1792,"lon":44.4991,"precision":"city","confidence":"medium","note":"national election, capital"}
+{"qid":73886982,"place":"United Nations Office at Geneva","lat":46.2267,"lon":6.14,"precision":"site","confidence":"high","note":"committee met in Geneva"}
+{"qid":6061810,"place":"Negrete, Chile","lat":-37.5958,"lon":-72.5342,"precision":"city","confidence":"high","note":"parliament held in Negrete"}
+{"qid":106652210,"place":"Wyoming","lat":43.0,"lon":-107.5,"precision":"region","confidence":"high","note":"state elections"}
+{"qid":108822150,"place":"La Seine Musicale","lat":48.8238,"lon":2.2282,"precision":"site","confidence":"medium","note":"held in Paris"}
+{"qid":20182785,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"vehicle"}
+{"qid":96377587,"place":"Cockburn Town","lat":21.4612,"lon":-71.1419,"precision":"city","confidence":"medium","note":"national election, capital"}
+{"qid":896505,"place":"Vienna","lat":48.2082,"lon":16.3738,"precision":"city","confidence":"medium","note":"Congress of Vienna act"}
+{"qid":30641580,"place":"Rhode Island","lat":41.7,"lon":-71.5,"precision":"region","confidence":"high","note":"state election"}
+{"qid":27628166,"place":"Histria (ancient city)","lat":44.5496,"lon":28.7803,"precision":"site","confidence":"medium","note":"battle near Histria"}
+{"qid":2620022,"place":"Ardabil","lat":38.2498,"lon":48.2933,"precision":"city","confidence":"low","note":"signed near Serav, Ardabil"}
+{"qid":28868541,"place":"Bloemfontein","lat":-29.0852,"lon":26.1596,"precision":"city","confidence":"high","note":"conference in Bloemfontein"}
+{"qid":30642961,"place":"Louisiana","lat":31.1,"lon":-92.0,"precision":"region","confidence":"high","note":"state election"}
+{"qid":681685,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"encyclopedia"}
+{"qid":56064221,"place":"Bradford","lat":53.7938,"lon":-1.7564,"precision":"city","confidence":"high","note":"festival in Bradford"}
+{"qid":495714,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"manhwa"}
+{"qid":7057272,"place":"Coalville","lat":52.7236,"lon":-1.3702,"precision":"city","confidence":"medium","note":"council seat in Coalville"}
+{"qid":128800321,"place":"Garland, Texas","lat":32.9126,"lon":-96.6389,"precision":"city","confidence":"high","note":"tornado struck Garland"}
+{"qid":12028825,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"bus model"}
+{"qid":11172188,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"fish family"}
+{"qid":7892092,"place":"Washington (state)","lat":47.4,"lon":-120.7,"precision":"region","confidence":"high","note":"state election"}
+{"qid":39059980,"place":"Utah","lat":39.3,"lon":-111.7,"precision":"region","confidence":"high","note":"state election"}
+{"qid":17100391,"place":"Illinois","lat":40.0,"lon":-89.2,"precision":"region","confidence":"high","note":"state election"}
+{"qid":3937049,"place":"Qatar","lat":25.3548,"lon":51.1839,"precision":"country","confidence":"high","note":"national stage race"}
+{"qid":1484441,"place":"San Giorgio Maggiore","lat":45.4293,"lon":12.3454,"precision":"site","confidence":"high","note":"summit on island"}
+{"qid":28801956,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"song"}
+{"qid":115801641,"place":"United Nations Headquarters","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"high","note":"election held at UN"}
+{"qid":20646788,"place":"Vojens Speedway Center","lat":55.2494,"lon":9.3001,"precision":"site","confidence":"high","note":"final at Vojens"}
+{"qid":104054461,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"economic plan"}
+{"qid":26898664,"place":"Mediterranean Conference Centre","lat":35.8975,"lon":14.5128,"precision":"site","confidence":"medium","note":"contest held in Valletta"}
+{"qid":6273740,"place":"Islaz, Teleorman","lat":43.7167,"lon":24.7833,"precision":"city","confidence":"medium","note":"adopted at Islaz"}
+{"qid":4609535,"place":"Caracas","lat":10.4806,"lon":-66.9036,"precision":"city","confidence":"medium","note":"protests centered in Caracas"}
+{"qid":7891523,"place":"Illinois","lat":40.0,"lon":-89.2,"precision":"region","confidence":"high","note":"state election"}
+{"qid":110486874,"place":"South Africa","lat":-30.5595,"lon":22.9375,"precision":"country","confidence":"medium","note":"national tournament"}
+{"qid":4548778,"place":"Prescott, Arizona","lat":34.54,"lon":-112.4685,"precision":"city","confidence":"high","note":"convened in Prescott"}
+{"qid":164701,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"high","note":"Games held in London"}
+{"qid":108419447,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"celebrity couple"}
+{"qid":5334395,"place":"Quito","lat":-0.1807,"lon":-78.4678,"precision":"city","confidence":"medium","note":"national election, capital"}
+{"qid":5421758,"place":"Poland","lat":51.9194,"lon":19.1451,"precision":"country","confidence":"low","note":"expulsions of Poles"}
+{"qid":96362641,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"multi-country tour"}
+{"qid":4572843,"place":"Oswestry","lat":52.86,"lon":-3.0546,"precision":"city","confidence":"medium","note":"outbreak centred near Oswestry"}
+{"qid":7406488,"place":"San Salvador","lat":13.6929,"lon":-89.2182,"precision":"city","confidence":"medium","note":"national election, capital"}
+{"qid":1760435,"place":"Tallinn","lat":59.437,"lon":24.7536,"precision":"city","confidence":"high","note":"coup in Tallinn"}
+{"qid":18811418,"place":"Victoria (Australia)","lat":-36.9848,"lon":143.3906,"precision":"region","confidence":"high","note":"race in Victoria"}
+{"qid":119303088,"place":"Berlin","lat":52.52,"lon":13.405,"precision":"city","confidence":"high","note":"German federal law"}
+{"qid":7251939,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"high","note":"signed in Paris"}

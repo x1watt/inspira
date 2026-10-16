@@ -1,0 +1,50 @@
+{"qid":2287951,"place":"Flanders","lat":51.0,"lon":4.0,"precision":"region","confidence":"medium","note":"Tour of Flanders"}
+{"qid":15710381,"place":"Almería","lat":36.834,"lon":-2.4637,"precision":"city","confidence":"high","note":"race start"}
+{"qid":5020840,"place":"California","lat":36.7783,"lon":-119.4179,"precision":"region","confidence":"high","note":"state ballot"}
+{"qid":123176904,"place":"Dorset","lat":50.75,"lon":-2.3,"precision":"region","confidence":"high","note":"council area"}
+{"qid":9363732,"place":"Poland","lat":51.9194,"lon":19.1451,"precision":"country","confidence":"high","note":"national celebration"}
+{"qid":104874591,"place":"Mississippi","lat":32.3547,"lon":-89.3985,"precision":"region","confidence":"high","note":"state result"}
+{"qid":97356550,"place":"Oklahoma","lat":35.0078,"lon":-97.0929,"precision":"region","confidence":"high","note":"state primary"}
+{"qid":2903772,"place":"Israel","lat":31.0461,"lon":34.8516,"precision":"country","confidence":"medium","note":"emigration to Israel"}
+{"qid":87746173,"place":"Toruń","lat":53.0138,"lon":18.5984,"precision":"city","confidence":"high","note":"compromise at Thorn"}
+{"qid":100873553,"place":"South America","lat":-15.0,"lon":-60.0,"precision":"region","confidence":"low","note":"continental competition"}
+{"qid":4693896,"place":"United Kingdom","lat":55.3781,"lon":-3.436,"precision":"country","confidence":"high","note":"UK act"}
+{"qid":5073449,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"medium","note":"concluded in London"}
+{"qid":5339175,"place":"Edmonton","lat":53.5461,"lon":-113.4938,"precision":"city","confidence":"high","note":"municipal election"}
+{"qid":6516010,"place":"Leeds","lat":53.8008,"lon":-1.5491,"precision":"city","confidence":"high","note":"city council"}
+{"qid":7989155,"place":"City of Westminster","lat":51.4975,"lon":-0.1357,"precision":"city","confidence":"high","note":"London borough"}
+{"qid":5174909,"place":"San José, Costa Rica","lat":9.9281,"lon":-84.0907,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":7654977,"place":"Stockholm","lat":59.3293,"lon":18.0686,"precision":"city","confidence":"medium","note":"Riksdag seat"}
+{"qid":6415125,"place":"Kiribati","lat":1.8709,"lon":-157.363,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":5722690,"place":"Maracapana","lat":10.15,"lon":-64.7,"precision":"region","confidence":"low","note":"coastal Venezuela"}
+{"qid":5985840,"place":"Reykjavík","lat":64.1466,"lon":-21.9426,"precision":"city","confidence":"high","note":"Althing seat"}
+{"qid":140611248,"place":"France","lat":46.2276,"lon":2.2137,"precision":"country","confidence":"medium","note":"Tour de France"}
+{"qid":136724376,"place":"Bruges","lat":51.2093,"lon":3.2247,"precision":"city","confidence":"high","note":"Tour of Bruges"}
+{"qid":16992019,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"NFL draft list"}
+{"qid":6099591,"place":"Abidjan","lat":5.36,"lon":-4.0083,"precision":"city","confidence":"medium","note":"Ivorian capital"}
+{"qid":114289457,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"variety special"}
+{"qid":5000013,"place":"Burnley","lat":53.7893,"lon":-2.2405,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":3008137,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"medium","note":"Department of Defense"}
+{"qid":96417272,"place":"Delaware","lat":39.3185,"lon":-75.5071,"precision":"region","confidence":"high","note":"state election"}
+{"qid":6841504,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"climate period"}
+{"qid":29469343,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"medium","note":"UN selection"}
+{"qid":868613,"place":"Montevideo","lat":-34.9011,"lon":-56.1645,"precision":"city","confidence":"high","note":"Uruguayan capital"}
+{"qid":19869860,"place":"Camden","lat":51.539,"lon":-0.1426,"precision":"city","confidence":"high","note":"London borough"}
+{"qid":4041044,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"high","note":"held in Moscow"}
+{"qid":115819248,"place":"Nepal","lat":28.3949,"lon":84.124,"precision":"country","confidence":"high","note":"national tournament"}
+{"qid":23044678,"place":"Vårgårda","lat":58.0333,"lon":12.8,"precision":"city","confidence":"high","note":"race in Vårgårda"}
+{"qid":5204293,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"low","note":"DARPA contest"}
+{"qid":16821324,"place":"Stade Ahmadou Ahidjo","lat":3.8978,"lon":11.5114,"precision":"site","confidence":"high","note":"venue named"}
+{"qid":109606615,"place":"Denmark","lat":56.0,"lon":10.0,"precision":"country","confidence":"high","note":"Danmark Rundt"}
+{"qid":30644234,"place":"West Virginia","lat":38.5976,"lon":-80.4549,"precision":"region","confidence":"high","note":"state result"}
+{"qid":15290429,"place":"Mandalay Bay Events Center","lat":36.0905,"lon":-115.176,"precision":"site","confidence":"medium","note":"Mandalay Bay Arena"}
+{"qid":125727651,"place":"Alberta","lat":53.9333,"lon":-116.5765,"precision":"region","confidence":"high","note":"provincial league"}
+{"qid":132573822,"place":"King Baudouin Stadium","lat":50.8956,"lon":4.3339,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":136674025,"place":"Surrey","lat":51.3148,"lon":-0.56,"precision":"region","confidence":"high","note":"council area"}
+{"qid":5000644,"place":"Travis Air Force Base","lat":38.2627,"lon":-121.9275,"precision":"site","confidence":"medium","note":"reunion at Travis AFB"}
+{"qid":105840784,"place":"China","lat":35.8617,"lon":104.1954,"precision":"country","confidence":"medium","note":"Chinese carmaker"}
+{"qid":2446435,"place":"Biel/Bienne","lat":47.1368,"lon":7.2467,"precision":"city","confidence":"high","note":"race start"}
+{"qid":4574525,"place":"Padang","lat":-0.9471,"lon":100.4172,"precision":"city","confidence":"high","note":"crash off Padang"}
+{"qid":3533387,"place":"Bergamo","lat":45.6983,"lon":9.6773,"precision":"city","confidence":"high","note":"race finish"}
+{"qid":137653115,"place":"Cortina d'Ampezzo","lat":46.5369,"lon":12.1357,"precision":"city","confidence":"low","note":"opening ceremony location"}
+{"qid":101454800,"place":"Flanders","lat":51.0,"lon":4.0,"precision":"region","confidence":"medium","note":"Dwars door Vlaanderen"}

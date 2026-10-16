@@ -1,0 +1,50 @@
+{"qid":6509039,"place":"Berlin","lat":52.52,"lon":13.405,"precision":"city","confidence":"low","note":"German proposal"}
+{"qid":16680592,"place":"Milan","lat":45.4642,"lon":9.19,"precision":"city","confidence":"medium","note":"Giro di Lombardia"}
+{"qid":138132243,"place":"Southampton","lat":50.9097,"lon":-1.4044,"precision":"city","confidence":"high","note":"city council"}
+{"qid":19869957,"place":"Kyzyl","lat":51.7191,"lon":94.4378,"precision":"city","confidence":"medium","note":"capital of Tuva"}
+{"qid":18343494,"place":"English's Opera House","lat":39.7684,"lon":-86.1581,"precision":"site","confidence":"medium","note":"convention venue"}
+{"qid":125635599,"place":"Hong Kong","lat":22.3193,"lon":114.1694,"precision":"city","confidence":"high","note":"tournament in Hong Kong"}
+{"qid":7892896,"place":"Montana","lat":46.5891,"lon":-112.0391,"precision":"region","confidence":"medium","note":"state election"}
+{"qid":7061394,"place":"Christiania","lat":59.9139,"lon":10.7522,"precision":"city","confidence":"medium","note":"Norwegian capital"}
+{"qid":6077498,"place":"Veracruz","lat":19.1738,"lon":-96.1342,"precision":"city","confidence":"high","note":"proclaimed at port of Veracruz"}
+{"qid":7891471,"place":"Florida","lat":30.4383,"lon":-84.2807,"precision":"region","confidence":"medium","note":"state election"}
+{"qid":1275346,"place":"Netherlands","lat":52.1326,"lon":5.2913,"precision":"country","confidence":"low","note":"race in Netherlands and Belgium"}
+{"qid":2052954,"place":"Ghent","lat":51.0543,"lon":3.7174,"precision":"city","confidence":"medium","note":"race start"}
+{"qid":3080510,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"currency unit"}
+{"qid":980213,"place":"Valkenburg aan de Geul","lat":50.8644,"lon":5.8317,"precision":"city","confidence":"medium","note":"race finish"}
+{"qid":29098405,"place":"Delaware","lat":39.1582,"lon":-75.5244,"precision":"region","confidence":"medium","note":"state election"}
+{"qid":104864071,"place":"Kentucky","lat":37.8393,"lon":-84.27,"precision":"region","confidence":"medium","note":"state election"}
+{"qid":9583902,"place":"Taichung","lat":24.1477,"lon":120.6736,"precision":"city","confidence":"medium","note":"founded in Taichung"}
+{"qid":4130830,"place":"The Hague","lat":52.0705,"lon":4.3007,"precision":"city","confidence":"high","note":"signed at The Hague"}
+{"qid":4882510,"place":"Brussels","lat":50.8503,"lon":4.3517,"precision":"city","confidence":"medium","note":"National Congress seat"}
+{"qid":16142017,"place":"Oviedo","lat":43.3614,"lon":-5.8494,"precision":"city","confidence":"high","note":"race start"}
+{"qid":1485759,"place":"Doha","lat":25.2854,"lon":51.531,"precision":"city","confidence":"medium","note":"race start and finish"}
+{"qid":125868023,"place":"Helsinki Ice Hall","lat":60.1887,"lon":24.9262,"precision":"site","confidence":"high","note":"venue"}
+{"qid":7134703,"place":"Asunción","lat":-25.2637,"lon":-57.5759,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":2353004,"place":"Japan","lat":36.2048,"lon":138.2529,"precision":"country","confidence":"medium","note":"Japanese calendar"}
+{"qid":125784363,"place":"Pauley Pavilion","lat":34.0702,"lon":-118.4467,"precision":"site","confidence":"high","note":"venue"}
+{"qid":16986768,"place":"London Borough of Lewisham","lat":51.4452,"lon":-0.0209,"precision":"region","confidence":"high","note":"borough council"}
+{"qid":4831371,"place":"Aylesbury Vale","lat":51.83,"lon":-0.81,"precision":"region","confidence":"high","note":"district council"}
+{"qid":24260780,"place":"Texas","lat":30.2672,"lon":-97.7431,"precision":"region","confidence":"medium","note":"state election"}
+{"qid":98929935,"place":"Sudan","lat":12.8628,"lon":30.2176,"precision":"country","confidence":"high","note":"nationwide floods"}
+{"qid":16996341,"place":"Lincoln, England","lat":53.2307,"lon":-0.5406,"precision":"city","confidence":"high","note":"city council"}
+{"qid":27827518,"place":"Basque Country (autonomous community)","lat":43.0,"lon":-2.6,"precision":"region","confidence":"medium","note":"race in Basque Country"}
+{"qid":125536138,"place":"Mexico","lat":23.6345,"lon":-102.5528,"precision":"country","confidence":"medium","note":"league final phase"}
+{"qid":3458321,"place":"Champagne (province)","lat":49.0,"lon":4.0,"precision":"region","confidence":"medium","note":"Champagne region unrest"}
+{"qid":4584725,"place":"Mineirão","lat":-19.8659,"lon":-43.9711,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":7098235,"place":"Spain","lat":40.4637,"lon":-3.7492,"precision":"country","confidence":"high","note":"national polling"}
+{"qid":451110,"place":"Berlin","lat":52.52,"lon":13.405,"precision":"city","confidence":"medium","note":"Federal Convention in Berlin"}
+{"qid":17513444,"place":"Ontario","lat":51.2538,"lon":-85.3232,"precision":"region","confidence":"medium","note":"Ontario highway"}
+{"qid":134572735,"place":"West Yorkshire","lat":53.75,"lon":-1.66,"precision":"region","confidence":"high","note":"area served"}
+{"qid":1400069,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"excavation system"}
+{"qid":17021757,"place":"California","lat":36.7783,"lon":-119.4179,"precision":"region","confidence":"low","note":"flooding in Southwest US"}
+{"qid":20711477,"place":"Lansdowne Club","lat":51.5082,"lon":-0.145,"precision":"site","confidence":"high","note":"held at the club"}
+{"qid":623910,"place":"Cairo","lat":30.0444,"lon":31.2357,"precision":"city","confidence":"medium","note":"Arab League seat"}
+{"qid":7524420,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"high","note":"presented at Rome conference"}
+{"qid":4548926,"place":"Mons","lat":50.4542,"lon":3.9523,"precision":"city","confidence":"high","note":"race finish"}
+{"qid":30608355,"place":"Okinawa Island","lat":26.5,"lon":127.95,"precision":"region","confidence":"low","note":"affected Okinawa"}
+{"qid":132645601,"place":"Northlands Coliseum","lat":53.57,"lon":-113.455,"precision":"site","confidence":"medium","note":"Edmonton Coliseum"}
+{"qid":2106578,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"TV special"}
+{"qid":17017031,"place":"Wyoming","lat":41.14,"lon":-104.8202,"precision":"region","confidence":"medium","note":"state election"}
+{"qid":139571920,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"national season"}
+{"qid":7892810,"place":"Louisiana","lat":30.4515,"lon":-91.1871,"precision":"region","confidence":"medium","note":"state election"}

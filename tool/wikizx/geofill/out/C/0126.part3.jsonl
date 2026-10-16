@@ -1,0 +1,50 @@
+{"qid":3658371,"place":"Sofia","lat":42.6977,"lon":23.3219,"precision":"city","confidence":"medium","note":"Bulgarian capital"}
+{"qid":3882242,"place":"Lokeren","lat":51.1039,"lon":3.9886,"precision":"city","confidence":"medium","note":"race finished in Lokeren"}
+{"qid":20100216,"place":"Barcelona","lat":41.3874,"lon":2.1686,"precision":"city","confidence":"medium","note":"race started in Barcelona"}
+{"qid":7892852,"place":"Minnesota","lat":45.6945,"lon":-93.9002,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":11952933,"place":"Muscat","lat":23.588,"lon":58.3829,"precision":"city","confidence":"medium","note":"treaty with Sultan of Muscat"}
+{"qid":422483,"place":"East Berlin","lat":52.52,"lon":13.405,"precision":"city","confidence":"low","note":"Stasi operation, East Germany"}
+{"qid":126811386,"place":"Cairns","lat":-16.9186,"lon":145.7781,"precision":"city","confidence":"medium","note":"match at Bundaberg Rum Stadium"}
+{"qid":16545398,"place":"Madagascar","lat":-18.7669,"lon":46.8691,"precision":"country","confidence":"medium","note":"affected Seychelles, Madagascar, Réunion"}
+{"qid":6541258,"place":"Monrovia","lat":6.3156,"lon":-10.8074,"precision":"city","confidence":"medium","note":"Liberian capital"}
+{"qid":133850237,"place":"Hong Kong","lat":22.3193,"lon":114.1694,"precision":"city","confidence":"high","note":"tournament in Hong Kong"}
+{"qid":1397871,"place":"Vatican City","lat":41.9029,"lon":12.4534,"precision":"city","confidence":"high","note":"Vatican military unit"}
+{"qid":5032624,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"TV programme"}
+{"qid":5527153,"place":"Gateshead","lat":54.9526,"lon":-1.6014,"precision":"city","confidence":"high","note":"borough council election"}
+{"qid":104639846,"place":"Waregem","lat":50.8883,"lon":3.4258,"precision":"city","confidence":"medium","note":"Dwars door Vlaanderen finishes in Waregem"}
+{"qid":7129981,"place":"Panama City","lat":8.9824,"lon":-79.5199,"precision":"city","confidence":"medium","note":"Panamanian capital"}
+{"qid":17034384,"place":"Palms Casino Resort","lat":36.1139,"lon":-115.1953,"precision":"site","confidence":"high","note":"Pearl Concert Theater in Las Vegas"}
+{"qid":182067,"place":"Beijing","lat":39.9042,"lon":116.4074,"precision":"city","confidence":"high","note":"2008 Olympics host"}
+{"qid":20100225,"place":"Catalonia","lat":41.8204,"lon":1.8676,"precision":"region","confidence":"medium","note":"race in Catalonia"}
+{"qid":63967356,"place":"Pilbara","lat":-22.0,"lon":118.0,"precision":"region","confidence":"high","note":"impacts in Pilbara"}
+{"qid":1752071,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"ocean liner"}
+{"qid":118274021,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"multi-venue circuit"}
+{"qid":131939297,"place":"Oregon","lat":43.8041,"lon":-120.5542,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":24969368,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"children's books"}
+{"qid":133504058,"place":"South Africa","lat":-30.5595,"lon":22.9375,"precision":"country","confidence":"high","note":"national cup"}
+{"qid":30674969,"place":"Al Hoceima","lat":35.2517,"lon":-3.9372,"precision":"city","confidence":"high","note":"death in Al Hoceima"}
+{"qid":7892410,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"high","note":"Congress passed declaration"}
+{"qid":124344994,"place":"Cortina d'Ampezzo","lat":46.5369,"lon":12.1357,"precision":"city","confidence":"high","note":"event at Cortina"}
+{"qid":2900363,"place":"Jerusalem","lat":31.7683,"lon":35.2137,"precision":"city","confidence":"high","note":"Knesset election"}
+{"qid":140590477,"place":"Rio de Janeiro","lat":-22.9068,"lon":-43.1729,"precision":"city","confidence":"high","note":"championships host"}
+{"qid":28061376,"place":"Switzerland","lat":46.8182,"lon":8.2275,"precision":"country","confidence":"high","note":"Swiss stage race"}
+{"qid":116178903,"place":"Haifa","lat":32.794,"lon":34.9896,"precision":"city","confidence":"high","note":"municipal election"}
+{"qid":4655207,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"TV channel"}
+{"qid":16991863,"place":"Essex","lat":51.7343,"lon":0.4691,"precision":"region","confidence":"high","note":"county council election"}
+{"qid":6541229,"place":"Monrovia","lat":6.3156,"lon":-10.8074,"precision":"city","confidence":"medium","note":"Liberian capital"}
+{"qid":7277344,"place":"Taiwan","lat":23.6978,"lon":120.9605,"precision":"country","confidence":"medium","note":"Republic of China vouchers"}
+{"qid":53502916,"place":"Belgium","lat":50.5039,"lon":4.4699,"precision":"country","confidence":"high","note":"Belgian stage race"}
+{"qid":16988955,"place":"West Hollywood, California","lat":34.09,"lon":-118.3617,"precision":"city","confidence":"high","note":"company based there"}
+{"qid":7483927,"place":"Warsaw","lat":52.2297,"lon":21.0122,"precision":"city","confidence":"medium","note":"Polish Radio Three"}
+{"qid":3996609,"place":"United Kingdom","lat":54.0,"lon":-2.0,"precision":"country","confidence":"low","note":"tour mainly UK and Ireland"}
+{"qid":198828,"place":"Jamaica","lat":18.1096,"lon":-77.2975,"precision":"country","confidence":"medium","note":"damage in Jamaica and Haiti"}
+{"qid":139855931,"place":"Gascony","lat":43.7,"lon":0.3,"precision":"region","confidence":"high","note":"invasion of Gascony"}
+{"qid":111952718,"place":"Muncie, Indiana","lat":40.1934,"lon":-85.3864,"precision":"city","confidence":"high","note":"Ball State home"}
+{"qid":17091819,"place":"Abuja","lat":9.0765,"lon":7.3986,"precision":"city","confidence":"medium","note":"Nigerian capital"}
+{"qid":111181408,"place":"Los Angeles","lat":34.0522,"lon":-118.2437,"precision":"city","confidence":"high","note":"UCLA home"}
+{"qid":10412395,"place":"Sweden","lat":60.1282,"lon":18.6435,"precision":"country","confidence":"high","note":"Swedish bandy event"}
+{"qid":55601783,"place":"Taplejung District","lat":27.35,"lon":87.67,"precision":"region","confidence":"medium","note":"crash en route to Ghunsa"}
+{"qid":55316199,"place":"Missouri","lat":38.5739,"lon":-92.6038,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":609693,"place":"Ninove","lat":50.8333,"lon":4.0167,"precision":"city","confidence":"medium","note":"finish near Ninove"}
+{"qid":96376222,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"low","note":"UK health secretary"}
+{"qid":5014542,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"medium","note":"English High Court case"}

@@ -1,0 +1,50 @@
+{"qid":7932158,"place":"Saint Vincent and the Grenadines","lat":13.2528,"lon":-61.1971,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":4588596,"place":"Churchill Downs","lat":38.2036,"lon":-85.7706,"precision":"site","confidence":"high","note":"Kentucky Derby venue"}
+{"qid":778369,"place":"Morocco","lat":31.7917,"lon":-7.0926,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":1262263,"place":"Angola","lat":-11.2027,"lon":17.8739,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":19873826,"place":"Hambleton District","lat":54.3,"lon":-1.4,"precision":"region","confidence":"medium","note":"district council"}
+{"qid":1128248,"place":"Kassel","lat":51.3127,"lon":9.4797,"precision":"city","confidence":"medium","note":"Westphalian capital"}
+{"qid":2539393,"place":"Ankara","lat":39.9334,"lon":32.8597,"precision":"city","confidence":"medium","note":"Turkish Senate seat"}
+{"qid":50616833,"place":"Handzame","lat":51.08,"lon":3.0,"precision":"city","confidence":"low","note":"race at Handzame"}
+{"qid":7892654,"place":"Alabama","lat":32.3182,"lon":-86.9023,"precision":"region","confidence":"high","note":"statewide"}
+{"qid":7891737,"place":"New Hampshire","lat":43.1939,"lon":-71.5724,"precision":"region","confidence":"high","note":"statewide"}
+{"qid":1195349,"place":"NHK Hall","lat":35.6694,"lon":139.6988,"precision":"site","confidence":"high","note":"aired from NHK Hall"}
+{"qid":8161717,"place":"Corsica","lat":42.0396,"lon":9.0129,"precision":"region","confidence":"high","note":"race on Corsica"}
+{"qid":7846096,"place":"Baja California Sur","lat":25.8,"lon":-111.8,"precision":"region","confidence":"medium","note":"landfall region"}
+{"qid":55389133,"place":"Atlantic Ocean","lat":null,"lon":null,"precision":"none","confidence":"medium","note":"ocean season"}
+{"qid":123367787,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"high","note":"mayoralty"}
+{"qid":5029907,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"medium","note":"coronation contingent in London"}
+{"qid":16685945,"place":"Casablanca","lat":33.5731,"lon":-7.5898,"precision":"city","confidence":"high","note":"riots began in Casablanca"}
+{"qid":5339212,"place":"Edmonton","lat":53.5461,"lon":-113.4938,"precision":"city","confidence":"high","note":"town council election"}
+{"qid":15526863,"place":"Louisiana","lat":30.9843,"lon":-91.9623,"precision":"region","confidence":"high","note":"statewide"}
+{"qid":23057770,"place":"Beijing","lat":39.9042,"lon":116.4074,"precision":"city","confidence":"medium","note":"first leg in Beijing"}
+{"qid":126737334,"place":"Waregem","lat":50.889,"lon":3.426,"precision":"city","confidence":"high","note":"race finish"}
+{"qid":106901206,"place":"Newcastle upon Tyne","lat":54.9783,"lon":-1.6178,"precision":"city","confidence":"high","note":"city council"}
+{"qid":16821181,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"medium","note":"ASP session at UN"}
+{"qid":96368342,"place":"Bath, Somerset","lat":51.3811,"lon":-2.359,"precision":"city","confidence":"high","note":"city council"}
+{"qid":18574992,"place":"Los Angeles","lat":34.0522,"lon":-118.2437,"precision":"city","confidence":"high","note":"band from Los Angeles"}
+{"qid":3700398,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"medium","note":"Italian Senate bill"}
+{"qid":130857696,"place":"Bern","lat":46.948,"lon":7.4474,"precision":"city","confidence":"high","note":"Curling Bern"}
+{"qid":3932067,"place":"Finland","lat":61.9241,"lon":25.7482,"precision":"country","confidence":"medium","note":"manifesto to Finland"}
+{"qid":570621,"place":"Bonn","lat":50.7374,"lon":7.0982,"precision":"city","confidence":"medium","note":"West German capital"}
+{"qid":2660683,"place":"Brussels","lat":50.8503,"lon":4.3517,"precision":"city","confidence":"medium","note":"Belgian capital"}
+{"qid":3272792,"place":"Galicia (Spain)","lat":42.575,"lon":-8.1339,"precision":"region","confidence":"high","note":"regional election"}
+{"qid":7615437,"place":"Stevenage","lat":51.9038,"lon":-0.1966,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":1909122,"place":"Thuin","lat":50.34,"lon":4.287,"precision":"city","confidence":"high","note":"race finish"}
+{"qid":7164445,"place":"United Kingdom","lat":55.3781,"lon":-3.436,"precision":"country","confidence":"medium","note":"British stamp"}
+{"qid":3744416,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"engine"}
+{"qid":4617520,"place":"South Korea","lat":35.9078,"lon":127.7669,"precision":"country","confidence":"medium","note":"host country"}
+{"qid":55636657,"place":"Minnesota","lat":46.7296,"lon":-94.6859,"precision":"region","confidence":"high","note":"statewide"}
+{"qid":137662118,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"national team"}
+{"qid":5163814,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"low","note":"Constantine policies"}
+{"qid":5329460,"place":"East Sussex","lat":50.9,"lon":0.3,"precision":"region","confidence":"medium","note":"county council"}
+{"qid":30600597,"place":"Australia","lat":-25.2744,"lon":133.7751,"precision":"country","confidence":"high","note":"federal election"}
+{"qid":104901758,"place":"Pacific Northwest","lat":47.0,"lon":-122.0,"precision":"region","confidence":"low","note":"salmon dispute region"}
+{"qid":3768841,"place":"Como","lat":45.8081,"lon":9.0852,"precision":"city","confidence":"high","note":"race start town"}
+{"qid":55636615,"place":"Indiana","lat":39.7684,"lon":-86.1581,"precision":"region","confidence":"high","note":"statewide"}
+{"qid":6937858,"place":"Newry","lat":54.1751,"lon":-6.3402,"precision":"city","confidence":"low","note":"Real IRA murder, Newry area"}
+{"qid":27163717,"place":"Madrid","lat":40.4168,"lon":-3.7038,"precision":"city","confidence":"high","note":"Cortes seat"}
+{"qid":1116692,"place":"Melbourne","lat":-37.8136,"lon":144.9631,"precision":"city","confidence":"high","note":"Games in Melbourne"}
+{"qid":5339161,"place":"Edmonton","lat":53.5461,"lon":-113.4938,"precision":"city","confidence":"high","note":"city council"}
+{"qid":61000371,"place":"Lisbon","lat":38.7223,"lon":-9.1393,"precision":"city","confidence":"high","note":"local by-election"}
+{"qid":96369735,"place":"Newcastle upon Tyne","lat":54.9783,"lon":-1.6178,"precision":"city","confidence":"high","note":"city council"}

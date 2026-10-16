@@ -1,0 +1,50 @@
+{"qid":55601557,"place":"Pamplona","lat":42.8125,"lon":-1.6458,"precision":"city","confidence":"medium","note":"Navarre race"}
+{"qid":96369758,"place":"Stockton-on-Tees","lat":54.5704,"lon":-1.3187,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":136262496,"place":"North Harbour Stadium","lat":-36.7283,"lon":174.7117,"precision":"site","confidence":"high","note":"venue"}
+{"qid":76285147,"place":"Vale of White Horse","lat":51.65,"lon":-1.4,"precision":"city","confidence":"medium","note":"district election"}
+{"qid":28966530,"place":"Stornoway","lat":58.2093,"lon":-6.3865,"precision":"city","confidence":"high","note":"council seat"}
+{"qid":96368376,"place":"Berwick-upon-Tweed","lat":55.7708,"lon":-2.0073,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":134376252,"place":"Maracanãzinho","lat":-22.9122,"lon":-43.2306,"precision":"site","confidence":"high","note":"venue"}
+{"qid":7864415,"place":"Linköping","lat":58.4109,"lon":15.6216,"precision":"city","confidence":"medium","note":"group host"}
+{"qid":39047503,"place":"Connecticut","lat":41.6032,"lon":-73.0877,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":5329231,"place":"East Renfrewshire","lat":55.77,"lon":-4.33,"precision":"region","confidence":"high","note":"council election"}
+{"qid":106624266,"place":"Maidstone","lat":51.272,"lon":0.5291,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":54871502,"place":"Texas","lat":31.9686,"lon":-99.9018,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":30324867,"place":"United Kingdom","lat":55.3781,"lon":-3.436,"precision":"country","confidence":"medium","note":"national investigation"}
+{"qid":275696,"place":"South America","lat":-15.0,"lon":-60.0,"precision":"region","confidence":"low","note":"continental tournament"}
+{"qid":4867310,"place":"Basildon","lat":51.5761,"lon":0.4887,"precision":"city","confidence":"high","note":"district election"}
+{"qid":16987018,"place":"Colchester","lat":51.8892,"lon":0.9042,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":5413226,"place":"Amsterdam","lat":52.3676,"lon":4.9041,"precision":"city","confidence":"high","note":"held in Amsterdam"}
+{"qid":101113024,"place":"Düsseldorf","lat":51.2277,"lon":6.7735,"precision":"city","confidence":"medium","note":"shot down over Grafenberger Wald"}
+{"qid":118876000,"place":"Boston","lat":42.3601,"lon":-71.0589,"precision":"city","confidence":"high","note":"mayoral election"}
+{"qid":5109711,"place":"Canada","lat":56.1304,"lon":-106.3468,"precision":"country","confidence":"high","note":"federal election"}
+{"qid":111963095,"place":"Reading, Berkshire","lat":51.4543,"lon":-0.9781,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":7448757,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"instrument model"}
+{"qid":136121726,"place":"Epping Forest District","lat":51.7,"lon":0.1,"precision":"city","confidence":"medium","note":"district election"}
+{"qid":5165982,"place":"Canada","lat":56.1304,"lon":-106.3468,"precision":"country","confidence":"high","note":"federal election"}
+{"qid":116909452,"place":"Welwyn Hatfield","lat":51.7667,"lon":-0.2,"precision":"city","confidence":"medium","note":"district election"}
+{"qid":5601582,"place":"Athens","lat":37.9838,"lon":23.7275,"precision":"city","confidence":"medium","note":"Greek government reaction"}
+{"qid":85725277,"place":"Harlow","lat":51.7667,"lon":0.1,"precision":"city","confidence":"high","note":"district election"}
+{"qid":115802491,"place":"King's Lynn","lat":52.7544,"lon":0.3945,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":16852583,"place":"Devizes","lat":51.3518,"lon":-1.9937,"precision":"city","confidence":"medium","note":"Kennet district seat"}
+{"qid":8030484,"place":"Wolverhampton","lat":52.5862,"lon":-2.1286,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":116371388,"place":"Louisiana","lat":30.9843,"lon":-91.9623,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":3722146,"place":"Italy","lat":41.8719,"lon":12.5674,"precision":"country","confidence":"high","note":"nationwide local elections"}
+{"qid":4837783,"place":"Babergh","lat":52.0,"lon":0.9,"precision":"city","confidence":"medium","note":"district election"}
+{"qid":17015902,"place":"Sunderland","lat":54.9069,"lon":-1.3838,"precision":"city","confidence":"high","note":"city election"}
+{"qid":22336805,"place":"Dudley","lat":52.5123,"lon":-2.0811,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":23022755,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"calendar"}
+{"qid":137043454,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"anime series"}
+{"qid":138836932,"place":"Nanjing","lat":32.0603,"lon":118.7969,"precision":"city","confidence":"medium","note":"visit began in Nanjing"}
+{"qid":48179800,"place":"Pyeongchang County","lat":37.37,"lon":128.39,"precision":"city","confidence":"high","note":"Games host"}
+{"qid":25006807,"place":"Churchill Downs","lat":38.2036,"lon":-85.7706,"precision":"site","confidence":"high","note":"Derby venue"}
+{"qid":7577568,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"toy game"}
+{"qid":56292788,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"video game"}
+{"qid":56279556,"place":"Kentucky","lat":37.8393,"lon":-84.27,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":18159762,"place":"Liverpool","lat":53.4084,"lon":-2.9916,"precision":"city","confidence":"high","note":"city election"}
+{"qid":136412828,"place":"Qatar","lat":25.3548,"lon":51.1839,"precision":"country","confidence":"medium","note":"Arab Cup host"}
+{"qid":116921928,"place":"Welwyn Hatfield","lat":51.7667,"lon":-0.2,"precision":"city","confidence":"medium","note":"district election"}
+{"qid":3062376,"place":"Dhu al-Kaffayn","lat":20.0,"lon":41.0,"precision":"region","confidence":"low","note":"expedition destination"}
+{"qid":60968564,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"tour"}
+{"qid":130297885,"place":"Suffolk","lat":52.19,"lon":1.0,"precision":"region","confidence":"high","note":"county election"}
+{"qid":56063589,"place":"Panama City","lat":8.9824,"lon":-79.5199,"precision":"city","confidence":"high","note":"riots in Canal Zone area"}

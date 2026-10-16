@@ -1,0 +1,50 @@
+{"qid":141403695,"place":"New Zealand","lat":-40.9006,"lon":174.886,"precision":"country","confidence":"medium","note":"nationwide competition"}
+{"qid":112701630,"place":"Turkey","lat":38.9637,"lon":35.2433,"precision":"country","confidence":"medium","note":"national campaign"}
+{"qid":85795318,"place":"Chennai","lat":13.0827,"lon":80.2707,"precision":"city","confidence":"high","note":"festival in Chennai"}
+{"qid":7891839,"place":"North Carolina","lat":35.7796,"lon":-78.6382,"precision":"region","confidence":"medium","note":"state election"}
+{"qid":30607602,"place":"Belogradchik","lat":43.6264,"lon":22.6828,"precision":"city","confidence":"high","note":"rebellion in Belogradchik"}
+{"qid":136788579,"place":"Dudley","lat":52.5087,"lon":-2.0887,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":96362624,"place":"Delaware","lat":39.1582,"lon":-75.5244,"precision":"region","confidence":"medium","note":"state election"}
+{"qid":317718,"place":"Ilbesheim bei Landau in der Pfalz","lat":49.2042,"lon":8.0003,"precision":"city","confidence":"medium","note":"signed at Ilbesheim"}
+{"qid":6518624,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"toy theme"}
+{"qid":65067524,"place":"Canterbury","lat":51.2802,"lon":1.0789,"precision":"city","confidence":"high","note":"city council"}
+{"qid":110174303,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"league-wide topic"}
+{"qid":6158649,"place":"Tokyo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"medium","note":"national election"}
+{"qid":7624860,"place":"Stroud District","lat":51.745,"lon":-2.217,"precision":"region","confidence":"medium","note":"district council"}
+{"qid":2891554,"place":"Jerusalem","lat":31.7683,"lon":35.2137,"precision":"city","confidence":"low","note":"language debate in Palestine"}
+{"qid":111540603,"place":"Wallonia","lat":50.4,"lon":4.5,"precision":"region","confidence":"medium","note":"race in Wallonia"}
+{"qid":17148650,"place":"Suzuka Circuit","lat":34.8431,"lon":136.541,"precision":"site","confidence":"high","note":"held at Suzuka"}
+{"qid":5169805,"place":"Corby","lat":52.4879,"lon":-0.6969,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":17100960,"place":"Pennsylvania","lat":40.2732,"lon":-76.8867,"precision":"region","confidence":"medium","note":"state election"}
+{"qid":106155905,"place":"Leeward Islands","lat":17.0,"lon":-62.0,"precision":"region","confidence":"low","note":"damaging storm area"}
+{"qid":28663638,"place":"Chaux-de-Fonds","lat":47.1035,"lon":6.8328,"precision":"city","confidence":"medium","note":"race finish"}
+{"qid":17591505,"place":"Hamburg","lat":53.5511,"lon":9.9937,"precision":"city","confidence":"high","note":"race in Hamburg"}
+{"qid":22977069,"place":"Geelong","lat":-38.1499,"lon":144.3617,"precision":"city","confidence":"high","note":"race in Geelong"}
+{"qid":131320660,"place":"Charleston, South Carolina","lat":32.7765,"lon":-79.9311,"precision":"city","confidence":"medium","note":"hurricane landfall"}
+{"qid":7893081,"place":"South Carolina","lat":34.0007,"lon":-81.0348,"precision":"region","confidence":"medium","note":"state election"}
+{"qid":136455158,"place":"United Arab Emirates","lat":24.4539,"lon":54.3773,"precision":"country","confidence":"medium","note":"race in UAE"}
+{"qid":633532,"place":"Valkenburg aan de Geul","lat":50.8644,"lon":5.8317,"precision":"city","confidence":"medium","note":"race finish"}
+{"qid":17100322,"place":"Pennsylvania","lat":40.2732,"lon":-76.8867,"precision":"region","confidence":"medium","note":"state election"}
+{"qid":3408788,"place":"Skopje","lat":41.9981,"lon":21.4254,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":3087540,"place":"Amman","lat":31.9454,"lon":35.9284,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":945266,"place":"Damascus","lat":33.5138,"lon":36.2765,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":7634698,"place":"Toshima","lat":35.73,"lon":139.7167,"precision":"city","confidence":"medium","note":"case in Toshima ward"}
+{"qid":123357927,"place":"England","lat":52.3555,"lon":-1.1743,"precision":"country","confidence":"medium","note":"England and Wales outbreak"}
+{"qid":60771530,"place":"Wirral","lat":53.38,"lon":-3.08,"precision":"region","confidence":"medium","note":"borough"}
+{"qid":16950123,"place":"Maidstone","lat":51.2704,"lon":0.5227,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":5339168,"place":"Edmonton","lat":53.5461,"lon":-113.4938,"precision":"city","confidence":"high","note":"municipal election"}
+{"qid":13098914,"place":"Riga","lat":56.9496,"lon":24.1052,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":5198882,"place":"Northern Territory","lat":-19.4914,"lon":132.551,"precision":"region","confidence":"medium","note":"affected northern Australia"}
+{"qid":1250476,"place":"Addis Ababa","lat":9.032,"lon":38.7469,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":2246770,"place":"Valkenburg aan de Geul","lat":50.8644,"lon":5.8317,"precision":"city","confidence":"medium","note":"race finish"}
+{"qid":48860816,"place":"Prague Castle","lat":50.0905,"lon":14.4,"precision":"site","confidence":"medium","note":"president elected in Prague"}
+{"qid":4581872,"place":"Hennon Stadium","lat":35.313,"lon":-83.185,"precision":"site","confidence":"high","note":"finals site"}
+{"qid":16822482,"place":"Dublin","lat":53.3498,"lon":-6.2603,"precision":"city","confidence":"low","note":"FAI Cup final"}
+{"qid":5985843,"place":"Reykjavík","lat":64.1466,"lon":-21.9426,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":7891466,"place":"Florida","lat":30.4383,"lon":-84.2807,"precision":"region","confidence":"medium","note":"state election"}
+{"qid":99674650,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"documentary series"}
+{"qid":25246156,"place":"Washington (state)","lat":47.0379,"lon":-122.9007,"precision":"region","confidence":"medium","note":"state election"}
+{"qid":7985756,"place":"West Lindsey","lat":53.38,"lon":-0.65,"precision":"region","confidence":"medium","note":"district council"}
+{"qid":5613488,"place":"Guam","lat":13.4443,"lon":144.7937,"precision":"region","confidence":"medium","note":"territory referendum"}
+{"qid":108809652,"place":"London Borough of Brent","lat":51.5588,"lon":-0.2817,"precision":"region","confidence":"high","note":"borough council"}
+{"qid":7931186,"place":"Vilnius","lat":54.6872,"lon":25.2797,"precision":"city","confidence":"high","note":"conference in Vilnius"}

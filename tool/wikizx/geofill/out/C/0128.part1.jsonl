@@ -1,0 +1,50 @@
+{"qid":7098238,"place":"Spain","lat":40.4637,"lon":-3.7492,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":5892118,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"motorcycle model"}
+{"qid":7566219,"place":"Ayr","lat":55.4586,"lon":-4.6292,"precision":"city","confidence":"medium","note":"council seat Ayr"}
+{"qid":139505714,"place":"Huddersfield","lat":53.6458,"lon":-1.785,"precision":"city","confidence":"medium","note":"Kirklees council seat"}
+{"qid":21061747,"place":"Bradford","lat":53.796,"lon":-1.7594,"precision":"city","confidence":"high","note":"council city"}
+{"qid":24993925,"place":"Birmingham","lat":52.4862,"lon":-1.8904,"precision":"city","confidence":"medium","note":"county council seat"}
+{"qid":6658368,"place":"Liverpool","lat":53.4084,"lon":-2.9916,"precision":"city","confidence":"high","note":"council city"}
+{"qid":16970127,"place":"Huy","lat":50.5186,"lon":5.2403,"precision":"city","confidence":"high","note":"race finishes at Huy"}
+{"qid":27963665,"place":"Sofia","lat":42.6977,"lon":23.3219,"precision":"city","confidence":"high","note":"National Assembly vote"}
+{"qid":2404244,"place":"Schoten","lat":51.25,"lon":4.5,"precision":"city","confidence":"medium","note":"Scheldeprijs finish at Schoten"}
+{"qid":23018277,"place":"Kansas","lat":38.5,"lon":-98.0,"precision":"region","confidence":"high","note":"state election"}
+{"qid":29094403,"place":"Vermont","lat":44.0,"lon":-72.7,"precision":"region","confidence":"high","note":"state election"}
+{"qid":16197600,"place":"Tennessee","lat":35.86,"lon":-86.66,"precision":"region","confidence":"high","note":"state election"}
+{"qid":4743639,"place":"Denver","lat":39.7392,"lon":-104.9903,"precision":"city","confidence":"high","note":"based in Denver"}
+{"qid":5339165,"place":"Edmonton","lat":53.5461,"lon":-113.4938,"precision":"city","confidence":"high","note":"municipal election"}
+{"qid":982786,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"TV pilot"}
+{"qid":7567774,"place":"Kendal","lat":54.3269,"lon":-2.7447,"precision":"city","confidence":"medium","note":"council seat Kendal"}
+{"qid":7909560,"place":"Abingdon-on-Thames","lat":51.6711,"lon":-1.287,"precision":"city","confidence":"medium","note":"council seat Abingdon"}
+{"qid":24965425,"place":"Afghanistan","lat":33.9391,"lon":67.71,"precision":"country","confidence":"medium","note":"resettlement policy in north"}
+{"qid":67129026,"place":"Brussels","lat":50.8503,"lon":4.3517,"precision":"city","confidence":"high","note":"race in Brussels"}
+{"qid":118175911,"place":"Loughborough","lat":52.7721,"lon":-1.2062,"precision":"city","confidence":"medium","note":"council seat Loughborough"}
+{"qid":3533360,"place":"Milan","lat":45.4642,"lon":9.19,"precision":"city","confidence":"medium","note":"race started in Milan"}
+{"qid":117075394,"place":"Chuuk","lat":7.4167,"lon":151.7833,"precision":"region","confidence":"medium","note":"affected Chuuk and Philippines"}
+{"qid":5613474,"place":"Guam","lat":13.4443,"lon":144.7937,"precision":"region","confidence":"high","note":"territory election"}
+{"qid":39060547,"place":"Mississippi","lat":32.75,"lon":-89.66,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7490920,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"TV special"}
+{"qid":55603154,"place":"Villa de Leyva","lat":5.6347,"lon":-73.5269,"precision":"city","confidence":"low","note":"Paja Formation Colombia"}
+{"qid":4128677,"place":"Russia","lat":61.524,"lon":105.3188,"precision":"country","confidence":"medium","note":"several oblasts"}
+{"qid":24009631,"place":"San Luis Province","lat":-33.3,"lon":-66.35,"precision":"region","confidence":"high","note":"stage race in San Luis"}
+{"qid":4592782,"place":"Oslo","lat":59.9139,"lon":10.7522,"precision":"city","confidence":"high","note":"People's House Oslo"}
+{"qid":4845585,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"Eurovision entry"}
+{"qid":138521780,"place":"Tehran","lat":35.6892,"lon":51.389,"precision":"city","confidence":"low","note":"war capital, defining events"}
+{"qid":140133617,"place":"Gaylord, Michigan","lat":45.0275,"lon":-84.6748,"precision":"city","confidence":"high","note":"tornado hit Gaylord"}
+{"qid":3722842,"place":"Piedmont","lat":45.0522,"lon":7.5154,"precision":"region","confidence":"high","note":"regional election"}
+{"qid":104185009,"place":"Trentino","lat":46.07,"lon":11.12,"precision":"region","confidence":"medium","note":"stage race in Alps"}
+{"qid":8774389,"place":"Catalonia","lat":41.5912,"lon":1.5209,"precision":"region","confidence":"high","note":"regional election"}
+{"qid":4579799,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"policy document"}
+{"qid":23306987,"place":"Cittiglio","lat":45.925,"lon":8.65,"precision":"city","confidence":"high","note":"race at Cittiglio"}
+{"qid":110657759,"place":"Trafford","lat":53.4167,"lon":-2.35,"precision":"region","confidence":"medium","note":"borough election"}
+{"qid":26919665,"place":"Sint Maarten","lat":18.0425,"lon":-63.0548,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":17068505,"place":"Huy","lat":50.5186,"lon":5.2403,"precision":"city","confidence":"high","note":"race finishes at Huy"}
+{"qid":4834669,"place":"New South Wales","lat":-33.0,"lon":147.0,"precision":"region","confidence":"high","note":"state scheme"}
+{"qid":12311826,"place":"Denmark","lat":56.0,"lon":10.0,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":21885938,"place":"Estella-Lizarra","lat":42.67,"lon":-2.03,"precision":"city","confidence":"high","note":"start and finish Estella"}
+{"qid":1584338,"place":"Massif Central","lat":45.5,"lon":2.9,"precision":"region","confidence":"medium","note":"Laschamp volcanic field"}
+{"qid":17443442,"place":"Gaza Strip","lat":31.4167,"lon":34.3333,"precision":"region","confidence":"high","note":"war in Gaza"}
+{"qid":15963807,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"high","note":"speech in Kremlin"}
+{"qid":1735483,"place":"Cyclades","lat":37.0,"lon":25.0,"precision":"region","confidence":"high","note":"Cycladic culture"}
+{"qid":64578128,"place":"Belgium","lat":50.5039,"lon":4.4699,"precision":"country","confidence":"high","note":"national stage race"}
+{"qid":2237436,"place":"Limburg (Netherlands)","lat":51.2,"lon":5.93,"precision":"region","confidence":"high","note":"race in Limburg"}
