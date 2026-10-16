@@ -1,0 +1,21 @@
+/prop/direct/P625>
+/prop/direct/P276>
+/prop/direct/P131>
+/prop/direct/P17>
+/prop/direct/P19>
+/prop/direct/P20>
+/prop/direct/P119>
+/prop/direct/P159>
+/prop/direct/P706>
+/prop/direct/P31>
+/prop/direct/P279>
+/prop/direct/P585>
+/prop/direct/P580>
+/prop/direct/P582>
+/prop/direct/P571>
+/prop/direct/P576>
+/prop/direct/P569>
+/prop/direct/P570>
+/prop/direct/P1619>
+wikipedia.org/wiki/
+"@en .

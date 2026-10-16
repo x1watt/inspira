@@ -389,8 +389,55 @@ Tools: `lib/sqldump.dart` (streams any MediaWiki SQL dump),
 events, 77 s, 46 MB), `scripts/wdcheck.py` (Wikidata tiers through the
 API, for samples only).
 
-Next: a streaming pass over the Wikidata truthy dump (43.5 GB, read once,
-not stored) keeping P625, P276, P131, P17, P19, P20, P119, P31 and the
-dates, into a language independent `geo.zx`; then GeoNames for locations
-given as text, and a review of the most linked items still without a
-point.
+### 9.1 Full Wikidata pass (2026-10-16)
+
+Pipeline, rerunnable for every new dump and every language:
+
+1. `lbzip2 -dc latest-truthy.nt.bz2 | grep -F -f scripts/wd_patterns.txt
+   | bin/wdfilter | zstd > wd_facts.tsv.zst`: 657.8 million candidate
+   lines, 304.4 million facts kept, 3.5 GB, 40 min on 16 threads
+   (single threaded `bzip2` would take about 4.2 h). The 43.5 GB dump is
+   read once and not needed afterwards.
+2. `bin/geobuild.dart wd_facts.tsv.zst
+   wikidatawiki-latest-wb_items_per_site.sql.gz geo.zx [--langs ...]`:
+   34 min, peak 1.9 GB RSS, `geo.zx` 860 MiB for en, pt, de, es, fr, it.
+   The truthy dump has no sitelinks, so the 1.9 GB sitelinks table gives
+   the article titles (24.6 million articles, 15.2 million items).
+
+`geo.zx` contents: `sitelink` (lang, title NOCASE, qid), `point` (one per
+item, with the tier it came from), `person_place` (birth, death,
+burial), `item_type` (P31), `item_date` (point, start, end, inception,
+dissolved, birth, death, opening). 12.4 million Wikidata items have
+their own coordinates; 2.66 million of the linked items got a point
+(own 2.07 M, location 190 k, headquarters 218 k, area 183 k, terrain
+2.4 k) and 3.37 million person places were resolved.
+
+Against the 892 verified events (`bin/geovalidate.dart`):
+
+| Tier | Events | Within 50 km | Within 5 km |
+|---|---|---|---|
+| Own (P625) | 43.0% | 92.7% | 76.3% |
+| Location (P276) | 18.9% | 69.2% | 60.4% |
+| Headquarters (P159) | 1.3% | 7 of 12 | 6 of 12 |
+| Area (P131, up to 4 hops) | 1.1% | 7 of 10 | 5 of 10 |
+| None | 35.5% | | |
+| **With a point** | **64.5%** | | |
+
+Same result as the API sample (63%), so the offline pass is right.
+Dates: 594 events dated by Wikidata, year right 93.9%, day right 67.2%.
+English `geo_tags` on top adds only 1.3% (3 of 12 within 50 km) and
+agrees with Wikidata on 96.8% of the shared ones, so it is dropped.
+
+Queries (warm): title to point in any of the 6 languages 1 to 8 ms
+(26 ms cold), a person's birth, death and burial 0.5 ms.
+
+Typical misses: events whose own coordinates are a country centroid
+(India becomes independent, 868 km; Union of South Africa, 549 km) and
+treaties located at the capital that signed rather than where it was
+signed. A check could prefer P276 when the own point is within a few km
+of the P17 country's own point.
+
+Next: GeoNames (allCountries, about 0.4 GB) for locations given as text
+in the article lead or infobox; a review of the most linked event items
+still without a point; the centroid check above; joining `geo.zx` into
+each language archive by Q number.

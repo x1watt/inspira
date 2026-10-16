@@ -2,12 +2,17 @@
 // over the ZIM? Checked against Inspira's verified events (Wikidata id,
 // coordinates).
 //   dart run bin/geocheck.dart ../../events enwiki-latest-page_props.sql.gz \
-//       enwiki-latest-geo_tags.sql.gz
+//       enwiki-latest-geo_tags.sql.gz [geo.zx]
+//
+// With geo.zx (bin/geobuild.dart) it also counts what geo_tags adds to the
+// Wikidata points.
 import 'dart:convert';
 import 'dart:io';
 import 'dart:math';
 
 import 'package:wikizx/sqldump.dart';
+// ignore: implementation_imports
+import 'package:zx/src/db/zxdb.dart' show ZxDatabase;
 
 double km(double a, double b, double c, double d) {
   double r(double x) => x * pi / 180;
@@ -84,4 +89,35 @@ Future<void> main(List<String> args) async {
   print('  within 50 km of verified:   ${pc(near, has)}  (ZIM: 95.4%)');
   print('  within 5 km of verified:    ${pc(near5, has)}');
   print('  far, e.g.: ${far.join('; ')}');
+  if (args.length < 4) return;
+
+  // Union with the Wikidata points: geo_tags fills items Wikidata leaves
+  // without a point.
+  final db = ZxDatabase.open(args[3], readOnly: true);
+  final point = db.sql.prepare('SELECT lat, lon FROM point WHERE qid = ?');
+  var wd = 0, added = 0, addedNear = 0, both = 0, agree = 0;
+  for (final e in events.entries) {
+    if (e.value['lat'] == null) continue;
+    final rows = point.select([int.parse(e.key.substring(1))]);
+    final b = best[e.key];
+    if (rows.isNotEmpty) {
+      wd++;
+      if (b != null) {
+        both++;
+        final d = km((rows.first[0] as num).toDouble(),
+            (rows.first[1] as num).toDouble(), b.$1, b.$2);
+        if (d < 50) agree++;
+      }
+    } else if (b != null) {
+      added++;
+      if (km(e.value['lat'], e.value['lon'], b.$1, b.$2) < 50) addedNear++;
+    }
+  }
+  db.close();
+  print('Union with ${args[3]}:');
+  print('  Wikidata point:             ${pc(wd, withVerified)}');
+  print('  geo_tags adds:              ${pc(added, withVerified)}, '
+      'within 50 km ${pc(addedNear, added)}');
+  print('  together:                   ${pc(wd + added, withVerified)}');
+  print('  both, within 50 km of each other: ${pc(agree, both)}');
 }
