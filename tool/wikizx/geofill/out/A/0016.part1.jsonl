@@ -1,0 +1,50 @@
+{"qid":65121271,"place":"Kilkenny","lat":52.6541,"lon":-7.2448,"precision":"city","confidence":"medium","note":"race based in Kilkenny"}
+{"qid":102046883,"place":"Government Palace, Lima","lat":-12.0453,"lon":-77.03,"precision":"site","confidence":"high","note":"Palacio de Gobierno"}
+{"qid":3333124,"place":"Chorzów","lat":50.2975,"lon":18.9545,"precision":"city","confidence":"medium","note":"recent venue"}
+{"qid":27135026,"place":"Jordan","lat":31.0,"lon":36.0,"precision":"country","confidence":"low","note":"training and operations base"}
+{"qid":98906993,"place":"White House","lat":38.8977,"lon":-77.0365,"precision":"site","confidence":"high","note":"signed at White House"}
+{"qid":7022318,"place":"Nghệ An Province","lat":19.2342,"lon":104.92,"precision":"region","confidence":"medium","note":"uprising centre"}
+{"qid":65117362,"place":"Erda, Utah","lat":40.6419,"lon":-112.3302,"precision":"city","confidence":"medium","note":"primary venue"}
+{"qid":4917202,"place":"Bisbee, Arizona","lat":31.4482,"lon":-109.9284,"precision":"city","confidence":"high","note":"deportation began in Bisbee"}
+{"qid":2655228,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"resolution"}
+{"qid":141456207,"place":"Oakland, California","lat":37.8044,"lon":-122.2712,"precision":"city","confidence":"medium","note":"Oakland Stadium"}
+{"qid":89505061,"place":"Berlin","lat":52.52,"lon":13.405,"precision":"city","confidence":"medium","note":"main protests"}
+{"qid":3114528,"place":"Suzuka Circuit","lat":34.8431,"lon":136.5407,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":3545509,"place":"Manila","lat":14.5995,"lon":120.9842,"precision":"city","confidence":"medium","note":"1946 inauguration of Republic"}
+{"qid":30749962,"place":"San Daniele del Friuli","lat":46.1608,"lon":13.0089,"precision":"city","confidence":"high","note":"race town"}
+{"qid":78800501,"place":"Wellington","lat":-41.2865,"lon":174.7762,"precision":"city","confidence":"medium","note":"march ended at Parliament"}
+{"qid":2758095,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"resolution"}
+{"qid":4121346,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"resolution"}
+{"qid":4584670,"place":"Rose Bowl (stadium)","lat":34.1613,"lon":-118.1676,"precision":"site","confidence":"high","note":"played at Rose Bowl"}
+{"qid":7845067,"place":"Brazzaville","lat":-4.2634,"lon":15.2429,"precision":"city","confidence":"high","note":"uprising in capital"}
+{"qid":3592935,"place":"Algiers","lat":36.7538,"lon":3.0588,"precision":"city","confidence":"medium","note":"riots centred in capital"}
+{"qid":2613537,"place":"Hamilton Township, Mercer County, New Jersey","lat":40.2339,"lon":-74.6535,"precision":"city","confidence":"high","note":"murder location"}
+{"qid":122665248,"place":"Montreal","lat":45.5017,"lon":-73.5673,"precision":"city","confidence":"medium","note":"men's event host"}
+{"qid":19359012,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"low","note":"nationwide operation"}
+{"qid":3884610,"place":"São Miguel Island","lat":37.7833,"lon":-25.4953,"precision":"region","confidence":"high","note":"rally island"}
+{"qid":65069611,"place":"Orlando, Florida","lat":28.5384,"lon":-81.3789,"precision":"city","confidence":"high","note":"game location"}
+{"qid":2376030,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"resolution"}
+{"qid":65068419,"place":"Charleston, South Carolina","lat":32.7765,"lon":-79.9311,"precision":"city","confidence":"high","note":"game location"}
+{"qid":2148642,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"resolution"}
+{"qid":65068001,"place":"Muscat","lat":23.588,"lon":58.3829,"precision":"city","confidence":"low","note":"Oman host city"}
+{"qid":117599528,"place":"University Club of Chicago","lat":41.8814,"lon":-87.6247,"precision":"site","confidence":"medium","note":"listed venue"}
+{"qid":3365469,"place":"Limburg (Netherlands)","lat":51.2,"lon":5.93,"precision":"region","confidence":"high","note":"race region"}
+{"qid":28130283,"place":"Gaborone","lat":-24.6282,"lon":25.9231,"precision":"city","confidence":"medium","note":"national capital celebrations"}
+{"qid":4626448,"place":"Hard Rock Stadium","lat":25.958,"lon":-80.2389,"precision":"site","confidence":"high","note":"game venue"}
+{"qid":2888074,"place":"Hejaz","lat":24.0,"lon":39.0,"precision":"region","confidence":"low","note":"Autas in Hejaz"}
+{"qid":1150374,"place":"Chengdu","lat":30.5728,"lon":104.0668,"precision":"city","confidence":"medium","note":"siege of Chengdu decisive"}
+{"qid":65067998,"place":"Central Broward Regional Park","lat":26.15,"lon":-80.24,"precision":"site","confidence":"medium","note":"Florida cricket venue"}
+{"qid":18377727,"place":"Kathmandu","lat":27.7172,"lon":85.324,"precision":"city","confidence":"high","note":"summit host"}
+{"qid":65067424,"place":"Brisbane","lat":-27.4698,"lon":153.0251,"precision":"city","confidence":"low","note":"South East Queensland conflict"}
+{"qid":183563,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"national day"}
+{"qid":64815862,"place":"Naples","lat":40.8518,"lon":14.2681,"precision":"city","confidence":"high","note":"tennis venue"}
+{"qid":18393989,"place":"Nigeria","lat":9.082,"lon":8.6753,"precision":"country","confidence":"medium","note":"nationwide violence"}
+{"qid":959031,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"low","note":"Roman festival"}
+{"qid":65044559,"place":"Hard Rock Stadium","lat":25.958,"lon":-80.2389,"precision":"site","confidence":"high","note":"game venue"}
+{"qid":2357104,"place":"Japan","lat":36.2048,"lon":138.2529,"precision":"country","confidence":"medium","note":"Japanese celebration"}
+{"qid":2668289,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"resolution"}
+{"qid":16156251,"place":"Georgia Dome","lat":33.7576,"lon":-84.4008,"precision":"site","confidence":"high","note":"game venue"}
+{"qid":4611308,"place":"Douglas, Isle of Man","lat":54.15,"lon":-4.4818,"precision":"city","confidence":"medium","note":"festival base"}
+{"qid":21070683,"place":"Cape Sable Island","lat":43.4333,"lon":-65.6167,"precision":"region","confidence":"low","note":"Cape Sable region"}
+{"qid":109561686,"place":"Istanbul","lat":41.0082,"lon":28.9784,"precision":"city","confidence":"high","note":"coup in capital"}
+{"qid":4582322,"place":"San Diego","lat":32.7157,"lon":-117.1611,"precision":"city","confidence":"high","note":"game location"}

@@ -46,6 +46,18 @@ void main(List<String> args) {
       ? (out.listSync(recursive: true).whereType<File>().where((f) => f.path.endsWith('.jsonl')).toList()
         ..sort((a, b) => a.path.compareTo(b.path)))
       : <File>[];
+  // Only items that were asked: a stray qid in an answer file is ignored.
+  final asked = <int>{};
+  final qidRe = RegExp(r'^\{"qid":(\d+)');
+  final inDir = Directory('$dir/in');
+  if (inDir.existsSync()) {
+    for (final f in inDir.listSync(recursive: true).whereType<File>()) {
+      for (final l in f.readAsLinesSync()) {
+        final m = qidRe.firstMatch(l);
+        if (m != null) asked.add(int.parse(m[1]!));
+      }
+    }
+  }
   var answers = 0, skipped = 0;
   for (final f in files) {
     for (final l in f.readAsLinesSync()) {
@@ -54,6 +66,10 @@ void main(List<String> args) {
       try {
         o = jsonDecode(l) as Map;
       } catch (_) {
+        skipped++;
+        continue;
+      }
+      if (!asked.contains(o['qid'])) {
         skipped++;
         continue;
       }

@@ -1,0 +1,50 @@
+{"qid":2278021,"place":"Indianapolis","lat":39.7684,"lon":-86.1581,"precision":"city","confidence":"high","note":"draft held there"}
+{"qid":6751680,"place":"Mansfield, Texas","lat":32.5632,"lon":-97.1417,"precision":"city","confidence":"high","note":"event in Mansfield"}
+{"qid":4571089,"place":"Porto-Novo","lat":6.4969,"lon":2.6289,"precision":"city","confidence":"medium","note":"capital seized in coup"}
+{"qid":4570735,"place":"Goodwood Circuit","lat":50.859,"lon":-0.754,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":66808303,"place":"United States","lat":37.0902,"lon":-95.7129,"precision":"country","confidence":"low","note":"hosted in US"}
+{"qid":66809401,"place":"United States","lat":37.0902,"lon":-95.7129,"precision":"country","confidence":"low","note":"hosted in US"}
+{"qid":86753827,"place":"Araucanía Region","lat":-38.9,"lon":-72.3,"precision":"region","confidence":"medium","note":"uprising in Araucanía"}
+{"qid":139915892,"place":"Stillwater, Oklahoma","lat":36.1156,"lon":-97.0584,"precision":"city","confidence":"medium","note":"finals hosted at Stillwater"}
+{"qid":139915967,"place":"Foggia","lat":41.4622,"lon":15.5446,"precision":"city","confidence":"high","note":"host city"}
+{"qid":1749180,"place":"Rosmalen","lat":51.7167,"lon":5.3667,"precision":"city","confidence":"high","note":"host town"}
+{"qid":4570071,"place":"Camping World Stadium","lat":28.5393,"lon":-81.4026,"precision":"site","confidence":"medium","note":"Tangerine Bowl stadium"}
+{"qid":4569903,"place":"Lowood, Queensland","lat":-27.467,"lon":152.583,"precision":"city","confidence":"medium","note":"raced at Lowood"}
+{"qid":4569274,"place":"Cotton Bowl (stadium)","lat":32.7794,"lon":-96.7627,"precision":"site","confidence":"high","note":"game venue"}
+{"qid":55992660,"place":"The Beverly Hilton","lat":34.0667,"lon":-118.4143,"precision":"site","confidence":"high","note":"ceremony venue"}
+{"qid":4568773,"place":"Rose Bowl (stadium)","lat":34.1613,"lon":-118.1676,"precision":"site","confidence":"high","note":"game venue"}
+{"qid":4568469,"place":"Tulane Stadium","lat":29.939,"lon":-90.121,"precision":"site","confidence":"high","note":"game venue"}
+{"qid":138332771,"place":"Lima","lat":-12.0464,"lon":-77.0428,"precision":"city","confidence":"medium","note":"Peruvian Congress seat"}
+{"qid":3774691,"place":"TT Circuit Assen","lat":52.9617,"lon":6.5225,"precision":"site","confidence":"high","note":"Circuit van Drenthe"}
+{"qid":140188538,"place":"Royan","lat":45.6283,"lon":-1.0278,"precision":"city","confidence":"high","note":"host town"}
+{"qid":4567844,"place":"Tulane Stadium","lat":29.939,"lon":-90.121,"precision":"site","confidence":"high","note":"game venue"}
+{"qid":3996841,"place":"Snaefell Mountain Course","lat":54.25,"lon":-4.45,"precision":"site","confidence":"high","note":"race course"}
+{"qid":4567632,"place":"Pittsburgh","lat":40.4406,"lon":-79.9959,"precision":"city","confidence":"low","note":"steel centre, nationwide strike"}
+{"qid":4567238,"place":"Tulane Stadium","lat":29.939,"lon":-90.121,"precision":"site","confidence":"medium","note":"New Orleans game venue"}
+{"qid":3774700,"place":"Circuit de Spa-Francorchamps","lat":50.4372,"lon":5.9714,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":4345918,"place":"Moldova","lat":47.0,"lon":28.0,"precision":"country","confidence":"low","note":"resistance in Moldavia region"}
+{"qid":113127576,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"multi-country wildfires"}
+{"qid":4565791,"place":"Rose Bowl (stadium)","lat":34.1613,"lon":-118.1676,"precision":"site","confidence":"high","note":"game venue"}
+{"qid":4565596,"place":"Kidd Field","lat":31.7708,"lon":-106.504,"precision":"site","confidence":"medium","note":"game venue"}
+{"qid":132861315,"place":"Victoria Island, Lagos","lat":6.4281,"lon":3.4219,"precision":"city","confidence":"medium","note":"Landmark Event Centre location"}
+{"qid":63255674,"place":"Mumbai","lat":19.076,"lon":72.8777,"precision":"city","confidence":"medium","note":"ceremony at NSCI Dome"}
+{"qid":3535027,"place":"Foro Italico","lat":41.9285,"lon":12.4543,"precision":"site","confidence":"high","note":"tournament venue"}
+{"qid":4565376,"place":"Cotton Bowl (stadium)","lat":32.7794,"lon":-96.7627,"precision":"site","confidence":"medium","note":"Dallas game venue"}
+{"qid":113217546,"place":"Cordenons","lat":45.981,"lon":12.704,"precision":"city","confidence":"high","note":"host town"}
+{"qid":20805344,"place":"El Paso, Texas","lat":31.7619,"lon":-106.485,"precision":"city","confidence":"high","note":"Sun Bowl host city"}
+{"qid":113288836,"place":"Evansville, Indiana","lat":37.9716,"lon":-87.5711,"precision":"city","confidence":"high","note":"host city"}
+{"qid":140354634,"place":"Palacio de Deportes José María Martín Carpena","lat":36.6785,"lon":-4.488,"precision":"site","confidence":"high","note":"tournament venue"}
+{"qid":113297930,"place":"Stockholm","lat":59.3293,"lon":18.0686,"precision":"city","confidence":"medium","note":"Nobel announced in Stockholm"}
+{"qid":1767890,"place":"South China","lat":23.0,"lon":113.0,"precision":"region","confidence":"low","note":"campaign in southern China"}
+{"qid":113221864,"place":"Lexington, Kentucky","lat":38.0406,"lon":-84.5037,"precision":"city","confidence":"high","note":"host city"}
+{"qid":140390635,"place":"International Tennis Hall of Fame","lat":41.4786,"lon":-71.3098,"precision":"site","confidence":"high","note":"tournament venue"}
+{"qid":20805331,"place":"Orange Bowl (stadium)","lat":25.7781,"lon":-80.2197,"precision":"site","confidence":"medium","note":"Miami game venue"}
+{"qid":20805323,"place":"El Paso, Texas","lat":31.7619,"lon":-106.485,"precision":"city","confidence":"high","note":"Sun Bowl host city"}
+{"qid":20805313,"place":"El Paso, Texas","lat":31.7619,"lon":-106.485,"precision":"city","confidence":"high","note":"Sun Bowl host city"}
+{"qid":140438202,"place":"Liège","lat":50.6326,"lon":5.5797,"precision":"city","confidence":"high","note":"host city"}
+{"qid":4561758,"place":"Rose Bowl (stadium)","lat":34.1613,"lon":-118.1676,"precision":"site","confidence":"high","note":"game venue"}
+{"qid":125912920,"place":"Balochistan, Pakistan","lat":28.5,"lon":65.0,"precision":"region","confidence":"high","note":"insurgency region"}
+{"qid":140518070,"place":"Cascais","lat":38.6979,"lon":-9.4215,"precision":"city","confidence":"high","note":"Estoril club in Cascais"}
+{"qid":113278075,"place":"Montreal","lat":45.5017,"lon":-73.5673,"precision":"city","confidence":"medium","note":"men in Montreal, women Toronto"}
+{"qid":47813373,"place":"Englewood, Chicago","lat":41.7794,"lon":-87.645,"precision":"region","confidence":"medium","note":"killed in Englewood"}
+{"qid":4561510,"place":"Melbourne","lat":-37.8136,"lon":144.9631,"precision":"city","confidence":"low","note":"VFL based in Melbourne"}

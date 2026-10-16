@@ -1,0 +1,50 @@
+{"qid":4611279,"place":"Sun Devil Stadium","lat":33.4264,"lon":-111.9325,"precision":"site","confidence":"high","note":"game venue"}
+{"qid":116980759,"place":"Queen Elizabeth Hall","lat":51.5062,"lon":-0.1166,"precision":"site","confidence":"high","note":"ceremony venue"}
+{"qid":18640039,"place":"Laos","lat":18.2,"lon":103.9,"precision":"country","confidence":"medium","note":"training mission in Laos"}
+{"qid":1798972,"place":"Quezon City","lat":14.676,"lon":121.0437,"precision":"city","confidence":"high","note":"image kept in Quezon City"}
+{"qid":1752752,"place":"Angola","lat":-11.2027,"lon":17.8739,"precision":"country","confidence":"low","note":"Mbwila in modern Angola"}
+{"qid":24935999,"place":"Alsace","lat":48.3,"lon":7.4,"precision":"region","confidence":"high","note":"campaign region"}
+{"qid":134390060,"place":"University Club of Chicago","lat":41.8814,"lon":-87.6247,"precision":"site","confidence":"medium","note":"listed venue"}
+{"qid":4013992,"place":"Los Angeles Memorial Sports Arena","lat":34.0128,"lon":-118.2848,"precision":"site","confidence":"medium","note":"listed venue"}
+{"qid":2955100,"place":"Romania","lat":45.9432,"lon":24.9668,"precision":"country","confidence":"high","note":"national championships"}
+{"qid":55623488,"place":"Moab, Utah","lat":38.5733,"lon":-109.5498,"precision":"city","confidence":"high","note":"race held in Moab"}
+{"qid":4581690,"place":"San Diego","lat":32.7157,"lon":-117.1611,"precision":"city","confidence":"high","note":"game location"}
+{"qid":3271813,"place":"Hexi Corridor","lat":38.9,"lon":100.5,"precision":"region","confidence":"low","note":"western Liang Province"}
+{"qid":130390683,"place":"Queen's Club","lat":51.4903,"lon":-0.207,"precision":"site","confidence":"high","note":"men's event venue"}
+{"qid":2050489,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"resolution"}
+{"qid":2361995,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"resolution"}
+{"qid":12504984,"place":"Jakarta","lat":-6.2088,"lon":106.8456,"precision":"city","confidence":"high","note":"event in Jakarta"}
+{"qid":115808944,"place":"KSPO Dome","lat":37.5205,"lon":127.1264,"precision":"site","confidence":"high","note":"ceremony venue"}
+{"qid":7700412,"place":"Nicosia","lat":35.1856,"lon":33.3823,"precision":"city","confidence":"high","note":"National Tennis Centre"}
+{"qid":4568797,"place":"Tulane Stadium","lat":29.9407,"lon":-90.1196,"precision":"site","confidence":"medium","note":"Sugar Bowl then at Tulane"}
+{"qid":616656,"place":"Cape Town","lat":-33.9249,"lon":18.4241,"precision":"city","confidence":"high","note":"race near Cape Town"}
+{"qid":2233317,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"resolution"}
+{"qid":3391133,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"dispersed deception operations"}
+{"qid":4642795,"place":"Minato, Tokyo","lat":35.6581,"lon":139.7514,"precision":"city","confidence":"medium","note":"ceremony in Minato"}
+{"qid":1490528,"place":"Italy","lat":41.8719,"lon":12.5674,"precision":"country","confidence":"high","note":"national stage race"}
+{"qid":1430144,"place":"University of Dhaka","lat":23.734,"lon":90.3928,"precision":"site","confidence":"high","note":"massacre at university"}
+{"qid":4580141,"place":"Poland","lat":51.9194,"lon":19.1451,"precision":"country","confidence":"high","note":"nationwide strike"}
+{"qid":11796519,"place":"Vilnius","lat":54.6872,"lon":25.2797,"precision":"city","confidence":"low","note":"offensive toward Vilnius region"}
+{"qid":2208072,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"resolution"}
+{"qid":110811340,"place":"Delhi","lat":28.6139,"lon":77.209,"precision":"city","confidence":"high","note":"Mughal capital attacked"}
+{"qid":113758174,"place":"Pahang","lat":3.8126,"lon":103.3256,"precision":"region","confidence":"high","note":"uprising in Pahang"}
+{"qid":5882533,"place":"Panama City","lat":8.9824,"lon":-79.5199,"precision":"city","confidence":"medium","note":"coup in capital"}
+{"qid":3630768,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"Hindu festival"}
+{"qid":6550345,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"holiday"}
+{"qid":108513833,"place":"Bucharest","lat":44.4268,"lon":26.1025,"precision":"city","confidence":"medium","note":"political crisis in capital"}
+{"qid":131624919,"place":"Seoul","lat":37.5665,"lon":126.978,"precision":"city","confidence":"medium","note":"Hannam-dong residence"}
+{"qid":29654918,"place":"Kerch Strait","lat":45.3,"lon":36.6,"precision":"region","confidence":"low","note":"Cimmerian Bosporus"}
+{"qid":127517700,"place":"Dhaka","lat":23.8103,"lon":90.4125,"precision":"city","confidence":"medium","note":"movement centred in Dhaka"}
+{"qid":938576,"place":"Qizhong Forest Sports City Arena","lat":31.0414,"lon":121.22,"precision":"site","confidence":"high","note":"listed venue"}
+{"qid":13507753,"place":"Catalonia","lat":41.8,"lon":1.5,"precision":"region","confidence":"high","note":"human chain across Catalonia"}
+{"qid":3847743,"place":"Royal Castle, Warsaw","lat":52.248,"lon":21.0145,"precision":"site","confidence":"medium","note":"constitution adopted in Warsaw"}
+{"qid":25468168,"place":"Bacău County","lat":46.4,"lon":26.7,"precision":"region","confidence":"low","note":"Oituz border area"}
+{"qid":2883125,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"resolution"}
+{"qid":124830293,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"multiple venues"}
+{"qid":12687629,"place":"Singapore","lat":1.3521,"lon":103.8198,"precision":"city","confidence":"high","note":"riots in Singapore"}
+{"qid":1661774,"place":"Nicosia","lat":35.1856,"lon":33.3823,"precision":"city","confidence":"medium","note":"violence began in Nicosia"}
+{"qid":110493057,"place":"Drenica","lat":42.7,"lon":20.8,"precision":"region","confidence":"low","note":"Lapušnik in Drenica"}
+{"qid":4626662,"place":"Georgia Dome","lat":33.7576,"lon":-84.4008,"precision":"site","confidence":"high","note":"game venue"}
+{"qid":30112543,"place":"Acquaviva, San Marino","lat":43.9467,"lon":12.4306,"precision":"city","confidence":"medium","note":"gym in Acquaviva"}
+{"qid":30957124,"place":"Chyhyryn","lat":49.0775,"lon":32.6633,"precision":"city","confidence":"high","note":"besieged fortress town"}
+{"qid":4993240,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"tax deadline"}

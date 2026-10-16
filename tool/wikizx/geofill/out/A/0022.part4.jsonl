@@ -1,0 +1,50 @@
+{"qid":7096843,"place":"Rajasthan","lat":27.0238,"lon":74.2179,"precision":"region","confidence":"high","note":"exercise in Rajasthan"}
+{"qid":16153387,"place":"Hopton-on-Sea","lat":52.55,"lon":1.73,"precision":"city","confidence":"medium","note":"Potters Leisure Resort"}
+{"qid":7637312,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"spring festival, no single place"}
+{"qid":3654885,"place":"Jarry Park Stadium","lat":45.5201,"lon":-73.6153,"precision":"site","confidence":"medium","note":"men's event in Montreal"}
+{"qid":4604020,"place":"Bangladesh","lat":23.685,"lon":90.3563,"precision":"country","confidence":"high","note":"nationwide bombings"}
+{"qid":124397659,"place":"The Beverly Hilton","lat":34.0668,"lon":-118.4126,"precision":"site","confidence":"high","note":"venue named"}
+{"qid":3857689,"place":"Palatrussardi","lat":45.4783,"lon":9.1239,"precision":"site","confidence":"medium","note":"venue named"}
+{"qid":124336146,"place":"Burnie, Tasmania","lat":-41.05,"lon":145.9,"precision":"city","confidence":"high","note":"held in Burnie"}
+{"qid":4447472,"place":"Moldavia","lat":47.0,"lon":28.0,"precision":"region","confidence":"low","note":"campaign in Moldavia and Wallachia"}
+{"qid":3829668,"place":"William H.G. FitzGerald Tennis Center","lat":38.95,"lon":-77.04,"precision":"site","confidence":"high","note":"venue named"}
+{"qid":661337,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"high","note":"held in Washington"}
+{"qid":105453270,"place":"Makwanpur District","lat":27.4,"lon":85.1,"precision":"region","confidence":"medium","note":"Makwanpurgadhi battle"}
+{"qid":3646059,"place":"Forest National","lat":50.813,"lon":4.324,"precision":"site","confidence":"high","note":"venue named"}
+{"qid":2153394,"place":"Cullman-Heyman Tennis Center","lat":41.317,"lon":-72.923,"precision":"site","confidence":"medium","note":"venue named"}
+{"qid":3654922,"place":"Toronto","lat":43.6532,"lon":-79.3832,"precision":"city","confidence":"medium","note":"men's event in Toronto"}
+{"qid":24908136,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"high","note":"held in Washington"}
+{"qid":16146825,"place":"Louisiana Superdome","lat":29.9511,"lon":-90.0812,"precision":"site","confidence":"high","note":"stadium named"}
+{"qid":16146873,"place":"Tempe, Arizona","lat":33.4255,"lon":-111.94,"precision":"city","confidence":"high","note":"Sun Devil Stadium in Tempe"}
+{"qid":3833262,"place":"Delray Beach, Florida","lat":26.4615,"lon":-80.0728,"precision":"city","confidence":"high","note":"held in Delray Beach"}
+{"qid":3287291,"place":"Bugey","lat":45.9,"lon":5.5,"precision":"region","confidence":"medium","note":"maquis in Bugey and Jura"}
+{"qid":5111546,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"generic event type"}
+{"qid":16058056,"place":"Barcelona","lat":41.3874,"lon":2.1686,"precision":"city","confidence":"medium","note":"off Barcelona"}
+{"qid":24906084,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"religious holy days"}
+{"qid":65768868,"place":"Granby, Quebec","lat":45.4,"lon":-72.7333,"precision":"city","confidence":"high","note":"held in Granby"}
+{"qid":739539,"place":"Olympic Stadium (Moscow)","lat":55.7822,"lon":37.6254,"precision":"site","confidence":"high","note":"venue named"}
+{"qid":15964944,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"global awareness day"}
+{"qid":808927,"place":"The Hague","lat":52.0705,"lon":4.3007,"precision":"city","confidence":"low","note":"Dutch barrier treaties"}
+{"qid":7234652,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"manuscript, no clear place"}
+{"qid":5420967,"place":"Balqa","lat":32.0333,"lon":35.7333,"precision":"region","confidence":"low","note":"expedition toward Balqa"}
+{"qid":3544088,"place":"Ukraine","lat":48.3794,"lon":31.1656,"precision":"country","confidence":"low","note":"Cossack revolt in Ukraine"}
+{"qid":5034312,"place":"Yangtze","lat":31.9,"lon":118.8,"precision":"region","confidence":"low","note":"invasions along the Yangtze"}
+{"qid":4677241,"place":"Texel","lat":53.09,"lon":4.8,"precision":"region","confidence":"medium","note":"off Texel"}
+{"qid":4629474,"place":"Snaefell Mountain Course","lat":54.18,"lon":-4.5,"precision":"region","confidence":"medium","note":"TT course, Isle of Man"}
+{"qid":105663779,"place":"Cuttack","lat":20.4625,"lon":85.883,"precision":"city","confidence":"medium","note":"Odia festival, Cuttack famous"}
+{"qid":2065551,"place":"Ukraine","lat":48.3794,"lon":31.1656,"precision":"country","confidence":"low","note":"Cossack uprising in Ukraine"}
+{"qid":3979452,"place":"Jericho, New York","lat":40.792,"lon":-73.54,"precision":"city","confidence":"medium","note":"Hamlet Golf Club"}
+{"qid":3979033,"place":"White City Stadium","lat":-33.887,"lon":151.226,"precision":"site","confidence":"medium","note":"venue named"}
+{"qid":5473422,"place":"Ísafjörður","lat":66.075,"lon":-23.135,"precision":"city","confidence":"high","note":"ski marathon in Isafjordur"}
+{"qid":4001465,"place":"Indianapolis","lat":39.7684,"lon":-86.1581,"precision":"city","confidence":"high","note":"held in Indianapolis"}
+{"qid":24205546,"place":"Circuit de Barcelona-Catalunya","lat":41.57,"lon":2.2611,"precision":"site","confidence":"high","note":"circuit named"}
+{"qid":105773263,"place":"Iraq","lat":33.2232,"lon":43.6793,"precision":"country","confidence":"low","note":"strikes over Iraq no-fly zones"}
+{"qid":3298040,"place":"Festhalle Frankfurt","lat":50.11,"lon":8.6517,"precision":"site","confidence":"medium","note":"singles at Festhalle"}
+{"qid":3298035,"place":"Frankfurt","lat":50.1109,"lon":8.6821,"precision":"city","confidence":"medium","note":"singles in Frankfurt"}
+{"qid":6364269,"place":"Karlskoga","lat":59.3267,"lon":14.5239,"precision":"city","confidence":"high","note":"race at Karlskoga"}
+{"qid":7533291,"place":"Great Lakes","lat":45.0,"lon":-84.0,"precision":"region","confidence":"low","note":"Great Lakes region struggle"}
+{"qid":3533705,"place":"Montreal","lat":45.5019,"lon":-73.5674,"precision":"city","confidence":"high","note":"race in Montreal"}
+{"qid":24196649,"place":"Kilkenny","lat":52.6541,"lon":-7.2448,"precision":"city","confidence":"high","note":"festival in Kilkenny"}
+{"qid":65982916,"place":"Lexington, Kentucky","lat":38.0406,"lon":-84.5037,"precision":"city","confidence":"high","note":"held in Lexington"}
+{"qid":829132,"place":"San Luca, Calabria","lat":38.17,"lon":16.06,"precision":"city","confidence":"high","note":"feud in San Luca"}
+{"qid":4620281,"place":"Alamodome","lat":29.4174,"lon":-98.4784,"precision":"site","confidence":"high","note":"stadium named"}

@@ -1,0 +1,50 @@
+{"qid":1186127,"place":"Japan","lat":36.2048,"lon":138.2529,"precision":"country","confidence":"medium","note":"national holiday"}
+{"qid":140053258,"place":"Zaragoza","lat":41.6488,"lon":-0.8891,"precision":"city","confidence":"high","note":"host city"}
+{"qid":118592581,"place":"Hillerød","lat":55.9279,"lon":12.3011,"precision":"city","confidence":"high","note":"Royal Stage in Hillerød"}
+{"qid":118323920,"place":"Vigo","lat":42.2406,"lon":-8.7207,"precision":"city","confidence":"high","note":"host city"}
+{"qid":4774784,"place":"Antigua","lat":17.0608,"lon":-61.7964,"precision":"region","confidence":"medium","note":"island festival"}
+{"qid":13636529,"place":"Hong Kong","lat":22.3193,"lon":114.1694,"precision":"city","confidence":"medium","note":"observed in Hong Kong"}
+{"qid":140001435,"place":"Modena","lat":44.6471,"lon":10.9252,"precision":"city","confidence":"high","note":"host city"}
+{"qid":4584471,"place":"San Diego","lat":32.7157,"lon":-117.1611,"precision":"city","confidence":"high","note":"played in San Diego"}
+{"qid":140001215,"place":"Tyler, Texas","lat":32.3513,"lon":-95.3011,"precision":"city","confidence":"high","note":"host city"}
+{"qid":139986402,"place":"Prostějov","lat":49.4719,"lon":17.1118,"precision":"city","confidence":"high","note":"host city"}
+{"qid":139986386,"place":"Bad Rappenau","lat":49.2381,"lon":9.1017,"precision":"city","confidence":"high","note":"host city"}
+{"qid":2411547,"place":"Newport Casino","lat":41.485,"lon":-71.3086,"precision":"site","confidence":"medium","note":"men's event at Newport Casino"}
+{"qid":126696,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"UN resolution, no location"}
+{"qid":2603705,"place":"International Tennis Hall of Fame","lat":41.4846,"lon":-71.309,"precision":"site","confidence":"high","note":"venue"}
+{"qid":367988,"place":"Ockley","lat":51.15,"lon":-0.33,"precision":"city","confidence":"low","note":"possible site, unidentified"}
+{"qid":1847993,"place":"Zagreb","lat":45.815,"lon":15.9819,"precision":"city","confidence":"high","note":"host city"}
+{"qid":4870225,"place":"Agua Carta","lat":13.2,"lon":-86.35,"precision":"city","confidence":"low","note":"rough location in Nicaragua"}
+{"qid":3636322,"place":"Andalién River","lat":-36.8,"lon":-72.95,"precision":"region","confidence":"low","note":"near Concepcion, Chile"}
+{"qid":513140,"place":"Oxyrhynchus","lat":28.5333,"lon":30.6667,"precision":"city","confidence":"medium","note":"found at Oxyrhynchus"}
+{"qid":139940163,"place":"Kurume","lat":33.3192,"lon":130.5083,"precision":"city","confidence":"high","note":"host city"}
+{"qid":837806,"place":"Budapest","lat":47.4979,"lon":19.0402,"precision":"city","confidence":"high","note":"Népliget Park"}
+{"qid":139939393,"place":"Nagoya","lat":35.1815,"lon":136.9066,"precision":"city","confidence":"high","note":"Nippon Gaishi Hall"}
+{"qid":2040653,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"UN resolution, no location"}
+{"qid":2000750,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"UN resolution, no location"}
+{"qid":683622,"place":"Caloundra","lat":-26.8,"lon":153.1333,"precision":"city","confidence":"high","note":"host city"}
+{"qid":2012093,"place":"Kolkata","lat":22.5726,"lon":88.3639,"precision":"city","confidence":"high","note":"host city"}
+{"qid":2076105,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"annual observance"}
+{"qid":139915713,"place":"Bohemia","lat":50.0,"lon":14.5,"precision":"region","confidence":"medium","note":"campaign in Bohemia"}
+{"qid":914533,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"UN resolution, no location"}
+{"qid":139913695,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"low","note":"anarchist split centered in London"}
+{"qid":139913013,"place":"Medellín","lat":6.2442,"lon":-75.5812,"precision":"city","confidence":"high","note":"host city"}
+{"qid":4870408,"place":"Bandera Pass","lat":29.76,"lon":-98.95,"precision":"region","confidence":"medium","note":"near Bandera, Texas"}
+{"qid":2038613,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"UN resolution, no location"}
+{"qid":4087414,"place":"Beicang","lat":39.48,"lon":117.65,"precision":"city","confidence":"medium","note":"battle at Beicang"}
+{"qid":66425251,"place":"United Arab Emirates","lat":24.4539,"lon":54.3773,"precision":"country","confidence":"medium","note":"tournament in UAE"}
+{"qid":66809047,"place":"Scotland","lat":56.4907,"lon":-4.2026,"precision":"country","confidence":"high","note":"held in Scotland"}
+{"qid":3633915,"place":"Monte Carlo Country Club","lat":43.7519,"lon":7.4383,"precision":"site","confidence":"high","note":"venue"}
+{"qid":139894380,"place":"Centurion, Gauteng","lat":-25.8603,"lon":28.1894,"precision":"city","confidence":"high","note":"host city"}
+{"qid":139894358,"place":"Little Rock, Arkansas","lat":34.7465,"lon":-92.2896,"precision":"city","confidence":"high","note":"host city"}
+{"qid":139894320,"place":"Chișinău","lat":47.0105,"lon":28.8638,"precision":"city","confidence":"high","note":"host city"}
+{"qid":4870625,"place":"Encarnación, Paraguay","lat":-27.3306,"lon":-55.8667,"precision":"city","confidence":"medium","note":"near Encarnacion"}
+{"qid":139892543,"place":"Punjab, India","lat":30.9,"lon":75.85,"precision":"region","confidence":"low","note":"Cis-Satluj region"}
+{"qid":2391959,"place":"Queen's Club","lat":51.49,"lon":-0.2139,"precision":"site","confidence":"high","note":"venue"}
+{"qid":2395535,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"UN resolution, no location"}
+{"qid":4870888,"place":"Eastern Samar","lat":11.5,"lon":125.5,"precision":"region","confidence":"medium","note":"province in Samar"}
+{"qid":6619384,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"list"}
+{"qid":139862759,"place":"Takasaki, Gunma","lat":36.3219,"lon":139.0033,"precision":"city","confidence":"high","note":"host city"}
+{"qid":1567392,"place":"Egypt","lat":26.8206,"lon":30.8025,"precision":"country","confidence":"low","note":"papyrus found in Egypt"}
+{"qid":3632829,"place":"Monte Carlo Country Club","lat":43.7519,"lon":7.4383,"precision":"site","confidence":"high","note":"venue"}
+{"qid":4870953,"place":"Las Cruces, New Mexico","lat":32.3199,"lon":-106.7637,"precision":"city","confidence":"medium","note":"near Las Cruces"}

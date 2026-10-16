@@ -1,0 +1,50 @@
+{"qid":2743454,"place":"Dominica","lat":15.415,"lon":-61.371,"precision":"country","confidence":"medium","note":"plot targeted Dominica"}
+{"qid":2393045,"place":"Newport, Rhode Island","lat":41.4901,"lon":-71.3128,"precision":"city","confidence":"high","note":"host city"}
+{"qid":56055211,"place":"Vancouver","lat":49.2827,"lon":-123.1207,"precision":"city","confidence":"high","note":"host city"}
+{"qid":115803567,"place":"Nantes","lat":47.2184,"lon":-1.5536,"precision":"city","confidence":"high","note":"host city"}
+{"qid":4116027,"place":"West Side Tennis Club","lat":40.7131,"lon":-73.8447,"precision":"site","confidence":"high","note":"held at Forest Hills club"}
+{"qid":115814003,"place":"The Beverly Hilton","lat":34.0679,"lon":-118.4147,"precision":"site","confidence":"high","note":"ceremony venue"}
+{"qid":115815207,"place":"Mahilpur","lat":31.5167,"lon":76.0667,"precision":"city","confidence":"low","note":"battle at Mahilpur"}
+{"qid":19599944,"place":"Grand Hyatt Washington","lat":38.8998,"lon":-77.027,"precision":"site","confidence":"medium","note":"held at Grand Hyatt"}
+{"qid":4633607,"place":"Café Royal","lat":51.5101,"lon":-0.1393,"precision":"site","confidence":"high","note":"ceremony at Café Royal"}
+{"qid":96376110,"place":"St James's Palace","lat":51.5045,"lon":-0.139,"precision":"site","confidence":"high","note":"declaration signed there"}
+{"qid":2121403,"place":"United Nations Headquarters","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"medium","note":"Security Council adopted resolution"}
+{"qid":115819381,"place":"Lucas Oil Stadium","lat":39.7601,"lon":-86.1639,"precision":"site","confidence":"high","note":"played at Lucas Oil Stadium"}
+{"qid":115819395,"place":"Cap Blanc-Nez","lat":50.9292,"lon":1.7114,"precision":"site","confidence":"medium","note":"naval battle off the cape"}
+{"qid":104845387,"place":"Kosovo","lat":42.6026,"lon":20.903,"precision":"region","confidence":"low","note":"KLA ambushes near Albanian border"}
+{"qid":115822158,"place":"AT&T Stadium","lat":32.7473,"lon":-97.0945,"precision":"site","confidence":"high","note":"played at AT&T Stadium"}
+{"qid":115824143,"place":"Stockholm","lat":59.3293,"lon":18.0686,"precision":"city","confidence":"high","note":"Nobel ceremony city"}
+{"qid":950784,"place":"Lindner Family Tennis Center","lat":39.3425,"lon":-84.2686,"precision":"site","confidence":"high","note":"venue in Mason, Ohio"}
+{"qid":19585319,"place":"Casablanca","lat":33.5731,"lon":-7.5898,"precision":"city","confidence":"high","note":"host city"}
+{"qid":115825765,"place":"Mecca","lat":21.3891,"lon":39.8579,"precision":"city","confidence":"medium","note":"proclaimed in Mecca"}
+{"qid":115826804,"place":"Avalon Hollywood","lat":34.1017,"lon":-118.3256,"precision":"site","confidence":"high","note":"ceremony at The Avalon"}
+{"qid":2321665,"place":"Apulia","lat":40.9,"lon":16.6,"precision":"region","confidence":"high","note":"race in Apulia"}
+{"qid":2464619,"place":"I. Czech Lawn Tennis Club","lat":50.0932,"lon":14.415,"precision":"site","confidence":"medium","note":"venue in Prague"}
+{"qid":551825,"place":"Amami Ōshima","lat":28.3667,"lon":129.4833,"precision":"region","confidence":"medium","note":"naval battle off Amami-Ōshima"}
+{"qid":26335,"place":"Monte Carlo Country Club","lat":43.7525,"lon":7.4614,"precision":"site","confidence":"high","note":"held at the club"}
+{"qid":64822079,"place":"Ilkley","lat":53.9254,"lon":-1.8225,"precision":"city","confidence":"high","note":"host town"}
+{"qid":28446781,"place":"Houston","lat":29.7604,"lon":-95.3698,"precision":"city","confidence":"high","note":"played at the Astrodome"}
+{"qid":28406868,"place":"Srikakulam district","lat":18.2949,"lon":83.8938,"precision":"region","confidence":"high","note":"uprising in Srikakulam"}
+{"qid":115917831,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"circuit at various venues"}
+{"qid":115706350,"place":"Canberra","lat":-35.2809,"lon":149.13,"precision":"city","confidence":"high","note":"host city"}
+{"qid":96417472,"place":"Hull","lat":53.7457,"lon":-0.3367,"precision":"city","confidence":"high","note":"final held in Hull"}
+{"qid":1717438,"place":"Fehrbellin","lat":52.8081,"lon":12.7525,"precision":"city","confidence":"medium","note":"defining battle of invasion"}
+{"qid":15650559,"place":"Barcelona","lat":41.3874,"lon":2.1686,"precision":"city","confidence":"medium","note":"siege of Barcelona ended war"}
+{"qid":65045404,"place":"Staré Splavy","lat":50.5894,"lon":14.6428,"precision":"city","confidence":"high","note":"host village"}
+{"qid":25468178,"place":"Bacău County","lat":46.567,"lon":26.9146,"precision":"region","confidence":"low","note":"Oituz Pass area"}
+{"qid":2056451,"place":"Hoboken, Antwerp","lat":51.173,"lon":4.347,"precision":"city","confidence":"high","note":"race around Hoboken"}
+{"qid":115690,"place":"Mardan","lat":34.1986,"lon":72.0404,"precision":"city","confidence":"medium","note":"found in Bakhshali near Mardan"}
+{"qid":1644873,"place":"Halle, North Rhine-Westphalia","lat":52.0618,"lon":8.3578,"precision":"city","confidence":"high","note":"Gerry Weber Stadion in Halle"}
+{"qid":265530,"place":"United Nations Headquarters","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"medium","note":"Security Council adopted resolution"}
+{"qid":1049141,"place":"Japan","lat":36.2048,"lon":138.2529,"precision":"country","confidence":"high","note":"Japanese public holiday"}
+{"qid":2391718,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"medium","note":"Roman festival"}
+{"qid":28406024,"place":"San Diego","lat":32.7157,"lon":-117.1611,"precision":"city","confidence":"high","note":"played in San Diego"}
+{"qid":17633460,"place":"Arequipa","lat":-16.409,"lon":-71.5375,"precision":"city","confidence":"low","note":"revolution began in Arequipa"}
+{"qid":4158274,"place":"Ashgabat","lat":37.9601,"lon":58.3261,"precision":"city","confidence":"medium","note":"capital of Turkmenistan"}
+{"qid":116290269,"place":"Lima","lat":-12.0464,"lon":-77.0428,"precision":"city","confidence":"medium","note":"national celebration in capital"}
+{"qid":2419104,"place":"Newport, Rhode Island","lat":41.4901,"lon":-71.3128,"precision":"city","confidence":"high","note":"men's event at Newport"}
+{"qid":18745060,"place":"Montpellier","lat":43.6108,"lon":3.8767,"precision":"city","confidence":"high","note":"host city"}
+{"qid":116243947,"place":"Burnie, Tasmania","lat":-41.0525,"lon":145.9063,"precision":"city","confidence":"high","note":"host city"}
+{"qid":97358280,"place":"Marrakesh","lat":31.6295,"lon":-7.9811,"precision":"city","confidence":"low","note":"Abd al-Hafid proclaimed there"}
+{"qid":116754754,"place":"Muscat","lat":23.588,"lon":58.3829,"precision":"city","confidence":"high","note":"race around Muscat"}
+{"qid":4871584,"place":"Peja","lat":42.6593,"lon":20.2883,"precision":"city","confidence":"medium","note":"battle at Loxhë near Peja"}

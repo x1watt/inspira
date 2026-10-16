@@ -1,0 +1,50 @@
+{"qid":473661,"place":"Santiago, Chile","lat":-33.4489,"lon":-70.6693,"precision":"city","confidence":"high","note":"signed in Santiago"}
+{"qid":111952645,"place":"Gocheok Sky Dome","lat":37.4982,"lon":126.8671,"precision":"site","confidence":"high","note":"ceremony venue"}
+{"qid":4593058,"place":"Belfast","lat":54.5973,"lon":-5.9301,"precision":"city","confidence":"low","note":"riots in nationalist districts"}
+{"qid":4591436,"place":"Independence Stadium","lat":32.5322,"lon":-93.7558,"precision":"site","confidence":"high","note":"game venue"}
+{"qid":3715663,"place":"Aviation Club Tennis Centre","lat":25.233,"lon":55.314,"precision":"site","confidence":"medium","note":"tournament venue"}
+{"qid":3630116,"place":"Memorial Drive Tennis Centre","lat":-34.915,"lon":138.587,"precision":"site","confidence":"medium","note":"tournament venue"}
+{"qid":137459190,"place":"Dhaka","lat":23.8103,"lon":90.4125,"precision":"city","confidence":"medium","note":"unrest centered in Dhaka"}
+{"qid":30639545,"place":"Old Trafford","lat":53.4631,"lon":-2.2913,"precision":"site","confidence":"high","note":"Grand Final venue"}
+{"qid":4589746,"place":"Sun Bowl (stadium)","lat":31.7708,"lon":-106.5071,"precision":"site","confidence":"high","note":"game in El Paso"}
+{"qid":4589481,"place":"San Diego","lat":32.7157,"lon":-117.1611,"precision":"city","confidence":"high","note":"game host city"}
+{"qid":2015213,"place":"Beijing","lat":39.9042,"lon":116.4074,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":111955172,"place":"Kuala Lumpur","lat":3.139,"lon":101.6869,"precision":"city","confidence":"high","note":"championships host city"}
+{"qid":137640214,"place":"Porto Alegre","lat":-30.0346,"lon":-51.2177,"precision":"city","confidence":"high","note":"siege of Porto Alegre"}
+{"qid":48734463,"place":"South Vietnam","lat":14.0583,"lon":108.2772,"precision":"country","confidence":"low","note":"Thai forces served in South Vietnam"}
+{"qid":4589460,"place":"Ben Hill Griffin Stadium","lat":29.65,"lon":-82.3486,"precision":"site","confidence":"high","note":"game venue"}
+{"qid":4589322,"place":"Cotton Bowl (stadium)","lat":32.779,"lon":-96.76,"precision":"site","confidence":"high","note":"game venue"}
+{"qid":4588754,"place":"Legion Field","lat":33.5078,"lon":-86.8453,"precision":"site","confidence":"high","note":"game venue"}
+{"qid":4588747,"place":"Rose Bowl (stadium)","lat":34.1613,"lon":-118.1676,"precision":"site","confidence":"high","note":"game venue"}
+{"qid":137795147,"place":"Jazira (region)","lat":36.0,"lon":41.0,"precision":"region","confidence":"low","note":"battle in Jazira region"}
+{"qid":48438571,"place":"San Diego","lat":32.7157,"lon":-117.1611,"precision":"city","confidence":"high","note":"game host city"}
+{"qid":137808712,"place":"Vareš","lat":44.1639,"lon":18.3231,"precision":"city","confidence":"high","note":"battle for Vareš"}
+{"qid":2890233,"place":"Azua Province","lat":18.35,"lon":-70.7,"precision":"region","confidence":"low","note":"naval battle off Tortuguero"}
+{"qid":268682,"place":"Hockenheimring","lat":49.3278,"lon":8.5658,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":4588426,"place":"Arizona Stadium","lat":32.2288,"lon":-110.949,"precision":"site","confidence":"high","note":"game venue"}
+{"qid":3965695,"place":"William H.G. FitzGerald Tennis Center","lat":38.95,"lon":-77.047,"precision":"site","confidence":"high","note":"tournament venue"}
+{"qid":4587720,"place":"Sun Bowl (stadium)","lat":31.7708,"lon":-106.5071,"precision":"site","confidence":"high","note":"game venue"}
+{"qid":659760,"place":"Saint Petersburg","lat":59.9343,"lon":30.3351,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":137921540,"place":"Montenegro","lat":42.7087,"lon":19.3744,"precision":"country","confidence":"medium","note":"award of Montenegro"}
+{"qid":137920574,"place":"Cesenatico","lat":44.2,"lon":12.39,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":138000419,"place":"San Salvador","lat":13.6929,"lon":-89.2182,"precision":"city","confidence":"high","note":"coup attempt in capital"}
+{"qid":4587016,"place":"Miami","lat":25.7617,"lon":-80.1918,"precision":"city","confidence":"medium","note":"game in Miami"}
+{"qid":138002990,"place":"Belgrade","lat":44.8176,"lon":20.4633,"precision":"city","confidence":"high","note":"blockade of Belgrade"}
+{"qid":3951923,"place":"Schenectady, New York","lat":42.8142,"lon":-73.9396,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":111994869,"place":"Barker Hangar","lat":34.01,"lon":-118.454,"precision":"site","confidence":"high","note":"ceremony venue"}
+{"qid":138006766,"place":"North Borneo","lat":5.5,"lon":117.0,"precision":"region","confidence":"medium","note":"medal for North Borneo service"}
+{"qid":4586788,"place":"Arizona Stadium","lat":32.2288,"lon":-110.949,"precision":"site","confidence":"high","note":"game venue"}
+{"qid":7099707,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"high","note":"riots in Manhattan"}
+{"qid":4586203,"place":"Atlanta","lat":33.749,"lon":-84.388,"precision":"city","confidence":"high","note":"game in Atlanta"}
+{"qid":4586021,"place":"Orlando, Florida","lat":28.5384,"lon":-81.3789,"precision":"city","confidence":"high","note":"game host city"}
+{"qid":3114434,"place":"Circuit de Nevers Magny-Cours","lat":46.8642,"lon":3.1631,"precision":"site","confidence":"high","note":"Bugatti Circuit venue"}
+{"qid":4584723,"place":"Sun Bowl (stadium)","lat":31.7708,"lon":-106.5071,"precision":"site","confidence":"high","note":"game venue"}
+{"qid":106328333,"place":"Carlos Tejedor Partido","lat":-35.3833,"lon":-62.4167,"precision":"region","confidence":"medium","note":"killed near Timote"}
+{"qid":4584718,"place":"Louisiana Superdome","lat":29.9511,"lon":-90.0812,"precision":"site","confidence":"high","note":"game venue"}
+{"qid":55638865,"place":"Toronto","lat":43.6532,"lon":-79.3832,"precision":"city","confidence":"high","note":"ceremony in Toronto"}
+{"qid":85789459,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"venue varies each year"}
+{"qid":1482954,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"resolution, no location"}
+{"qid":3179803,"place":"Asunción","lat":-25.2637,"lon":-57.5759,"precision":"city","confidence":"high","note":"Congress seat"}
+{"qid":4584465,"place":"Tampa Stadium","lat":27.9756,"lon":-82.5033,"precision":"site","confidence":"high","note":"game venue"}
+{"qid":4582299,"place":"Sun Devil Stadium","lat":33.4264,"lon":-111.9325,"precision":"site","confidence":"high","note":"game venue"}
+{"qid":138542707,"place":"Seoul","lat":37.5665,"lon":126.978,"precision":"city","confidence":"high","note":"ceremony in Seoul"}
