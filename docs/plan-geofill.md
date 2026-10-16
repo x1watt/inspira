@@ -105,7 +105,10 @@ that fails.
 
    It prints `next: in/A/0007.jsonl, answers to out/A/0007.jsonl`.
 2. The model reads `geofill/PROMPT.md` and that input file and writes
-   the whole answer file.
+   the whole answer file once, or saves it in new part files
+   (`0007.part1.jsonl`, `0007.part2.jsonl`, ...). It must never rewrite
+   a file it already wrote: a worker that did so lost most of batch
+   A/0001 on 2026-10-16.
 3. Check it:
 
        dart run bin/geofill_status.dart geofill --check out/A/0007.jsonl

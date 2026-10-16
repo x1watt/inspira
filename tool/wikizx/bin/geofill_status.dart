@@ -9,6 +9,9 @@
 //   dart run bin/geofill_status.dart geofill --check out/A/0001.jsonl
 //       validates one answer file and lists its problems
 //
+// Answers may also be split into part files, <nnnn>.part1.jsonl,
+// <nnnn>.part2.jsonl and so on, next to (or instead of) <nnnn>.jsonl.
+//
 // Claims older than 3 hours are ignored (the worker stopped).
 import 'dart:convert';
 import 'dart:io';
@@ -18,7 +21,16 @@ const confidences = {'high', 'medium', 'low'};
 
 /// Problems of answer file [out] for input [inp]; empty when it is done.
 List<String> check(File inp, File out) {
-  if (!out.existsSync()) return ['missing'];
+  final base = out.uri.pathSegments.last.replaceAll('.jsonl', '');
+  final parts = [
+    if (out.existsSync()) out,
+    if (out.parent.existsSync())
+      ...out.parent.listSync().whereType<File>().where((f) {
+        final n = f.uri.pathSegments.last;
+        return n.startsWith('$base.part') && n.endsWith('.jsonl');
+      }),
+  ];
+  if (parts.isEmpty) return ['missing'];
   final want = <int>{};
   for (final l in inp.readAsLinesSync()) {
     if (l.trim().isNotEmpty) want.add((jsonDecode(l) as Map)['qid'] as int);
@@ -26,7 +38,7 @@ List<String> check(File inp, File out) {
   final problems = <String>[];
   final got = <int>{};
   var n = 0;
-  for (final l in out.readAsLinesSync()) {
+  for (final l in [for (final f in parts) ...f.readAsLinesSync()]) {
     n++;
     if (l.trim().isEmpty) continue;
     Map o;
@@ -87,7 +99,7 @@ void main(List<String> args) {
         done++;
         continue;
       }
-      if (out.existsSync()) partial++;
+      if (p.first != 'missing') partial++;
       final claim = File('$dir/out/$name/${base.replaceAll('.jsonl', '.claim')}');
       if (claim.existsSync() &&
           now.difference(claim.lastModifiedSync()).inHours < 3) {

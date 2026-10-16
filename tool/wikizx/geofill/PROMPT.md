@@ -43,8 +43,19 @@ Rules:
 
 1. Prefer the place stated in the lead or infobox. When they name only a
    country, use your knowledge for the city where it happened.
-2. Never invent an article title you are not sure exists; give the
+2. When the lead names the building or venue (a hotel, palace, stadium,
+   church), give that building's article with precision `site`, not
+   just the city.
+3. Use the exact, unambiguous article title: "Nashville, Tennessee",
+   "Green Bay, Wisconsin", "Bristol, Tennessee" (not "Bristol", which is
+   the English city), "Carthage" only for the ancient city.
+4. For a coup, revolution or government act, the capital or the seat
+   where it happened, not the country.
+5. Never invent an article title you are not sure exists; give the
    article of the town or city instead.
-3. Write the whole output file in one go, after answering every line.
-   A file with missing lines counts as not done.
-4. Answer every line, even with `"place":null,"precision":"none"`.
+6. Never overwrite answers you already wrote. Either write the whole
+   output file once, after answering every line, or save in parts:
+   `<nnnn>.part1.jsonl`, `<nnnn>.part2.jsonl`, ... (each part a new
+   file, for example 50 lines each). Parts together must cover every
+   line; a batch with missing lines counts as not done.
+7. Answer every line, even with `"place":null,"precision":"none"`.
