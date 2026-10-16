@@ -1,0 +1,50 @@
+{"qid":4570412,"place":"Durban","lat":-29.8587,"lon":31.0218,"precision":"city","confidence":"medium","note":"Westmead Circuit, Durban"}
+{"qid":28858487,"place":"Mega Spilaio","lat":38.0333,"lon":22.1167,"precision":"site","confidence":"medium","note":"monastery battle"}
+{"qid":132861187,"place":"Tishrin Dam","lat":36.375,"lon":38.1,"precision":"site","confidence":"high","note":"dam protests"}
+{"qid":132861206,"place":"Socotra","lat":12.4634,"lon":53.8237,"precision":"region","confidence":"high","note":"island takeover"}
+{"qid":18207240,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"global event"}
+{"qid":132861239,"place":"Crimea","lat":45.3453,"lon":34.4997,"precision":"region","confidence":"medium","note":"campaign in Crimea"}
+{"qid":18206191,"place":"Magglingen","lat":47.105,"lon":7.4833,"precision":"city","confidence":"medium","note":"Macolin, signed there"}
+{"qid":18204555,"place":"Nam Bak District","lat":20.5833,"lon":102.3,"precision":"region","confidence":"low","note":"Nam Bac valley"}
+{"qid":18204387,"place":"Louvre","lat":48.8606,"lon":2.3376,"precision":"site","confidence":"high","note":"held at Louvre"}
+{"qid":132891220,"place":"Farnham","lat":51.2147,"lon":-0.7993,"precision":"city","confidence":"high","note":"near Farnham"}
+{"qid":132891246,"place":"Casper College","lat":42.845,"lon":-106.32,"precision":"site","confidence":"medium","note":"Casper College campus"}
+{"qid":3837329,"place":"Pauley Pavilion","lat":34.0705,"lon":-118.4468,"precision":"site","confidence":"high","note":"venue"}
+{"qid":7200922,"place":"Bulgaria","lat":42.7339,"lon":25.4858,"precision":"country","confidence":"high","note":"nationwide expulsion"}
+{"qid":132981547,"place":"Tucson, Arizona","lat":32.2226,"lon":-110.9747,"precision":"city","confidence":"high","note":"murders in Tucson"}
+{"qid":133014056,"place":"Table Mountain National Park","lat":-34.0,"lon":18.4,"precision":"site","confidence":"high","note":"fire area"}
+{"qid":6094649,"place":"Bakırköy","lat":40.98,"lon":28.87,"precision":"city","confidence":"high","note":"massacre in Bakirkoy"}
+{"qid":11156464,"place":"Vouziers","lat":49.3978,"lon":4.6992,"precision":"city","confidence":"high","note":"battle at Vouziers"}
+{"qid":2244059,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"resolution"}
+{"qid":18144850,"place":"Moore, Oklahoma","lat":35.3395,"lon":-97.4867,"precision":"city","confidence":"high","note":"plant in Moore"}
+{"qid":133091178,"place":"Turkistan, Kazakhstan","lat":43.2973,"lon":68.2518,"precision":"city","confidence":"medium","note":"Sawran near Turkistan"}
+{"qid":18155453,"place":"Alaska","lat":64.2008,"lon":-149.4937,"precision":"region","confidence":"medium","note":"operation in Alaska"}
+{"qid":133094195,"place":"Halych","lat":49.1167,"lon":24.7167,"precision":"city","confidence":"low","note":"approximate Galicia location"}
+{"qid":133155180,"place":"Ochakiv","lat":46.6167,"lon":31.55,"precision":"city","confidence":"high","note":"battle near Ochakov"}
+{"qid":18151849,"place":"Hampton, New Hampshire","lat":42.9376,"lon":-70.8392,"precision":"city","confidence":"high","note":"rebellion at Hampton"}
+{"qid":18148976,"place":"Baghdad","lat":33.3152,"lon":44.3661,"precision":"city","confidence":"medium","note":"near Baghdad"}
+{"qid":18148966,"place":"Ventana Wilderness","lat":36.25,"lon":-121.6,"precision":"region","confidence":"high","note":"wildfire area"}
+{"qid":133190142,"place":"Stockholm","lat":59.3293,"lon":18.0686,"precision":"city","confidence":"high","note":"attack on Stockholm"}
+{"qid":15963277,"place":"Blida","lat":36.47,"lon":2.83,"precision":"city","confidence":"medium","note":"race based in Blida"}
+{"qid":18128997,"place":"South Africa","lat":-30.5595,"lon":22.9375,"precision":"country","confidence":"low","note":"operation in region"}
+{"qid":133235759,"place":"Kettle Valley","lat":49.05,"lon":-119.0,"precision":"region","confidence":"low","note":"Kettle Valley BC"}
+{"qid":133235838,"place":"Mámbita","lat":4.6,"lon":-73.5,"precision":"city","confidence":"low","note":"near Mambita"}
+{"qid":18127025,"place":"Rochusclub","lat":51.237,"lon":6.766,"precision":"site","confidence":"high","note":"venue"}
+{"qid":3774811,"place":"Brno","lat":49.1951,"lon":16.6068,"precision":"city","confidence":"high","note":"Brno circuit"}
+{"qid":18111947,"place":"Cuvelai","lat":-15.65,"lon":15.7667,"precision":"city","confidence":"low","note":"Angola operation"}
+{"qid":18110579,"place":"Bhopal","lat":23.2599,"lon":77.4126,"precision":"city","confidence":"high","note":"held in Bhopal"}
+{"qid":18109276,"place":"Karlanyurt","lat":43.15,"lon":46.75,"precision":"city","confidence":"medium","note":"clash location"}
+{"qid":4591628,"place":"Sharjah","lat":25.3463,"lon":55.4209,"precision":"city","confidence":"high","note":"tournament in Sharjah"}
+{"qid":2335280,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"resolution"}
+{"qid":18013986,"place":"Oslo","lat":59.9139,"lon":10.7522,"precision":"city","confidence":"high","note":"festival in Oslo"}
+{"qid":17989425,"place":"Alamo River","lat":32.8,"lon":-115.5,"precision":"region","confidence":"low","note":"Alcantra, Alamo River"}
+{"qid":17985174,"place":"Salisbury, Maryland","lat":38.3607,"lon":-75.5994,"precision":"city","confidence":"high","note":"Wicomico Youth Civic Center"}
+{"qid":98079181,"place":"Sharjah","lat":25.3463,"lon":55.4209,"precision":"city","confidence":"high","note":"tournament in Sharjah"}
+{"qid":133258680,"place":"İzmit","lat":40.7656,"lon":29.9406,"precision":"city","confidence":"medium","note":"relief after Izmit quake"}
+{"qid":7035719,"place":"Mykolaiv","lat":46.975,"lon":31.9946,"precision":"city","confidence":"high","note":"massacre at Mykolaiv"}
+{"qid":133270061,"place":"Bancroft, Ontario","lat":45.06,"lon":-77.85,"precision":"city","confidence":"high","note":"Canadian Peace Museum"}
+{"qid":2439304,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"resolution"}
+{"qid":133270198,"place":"Nasarawa State","lat":8.5,"lon":8.2,"precision":"region","confidence":"medium","note":"Akwanaja airstrike"}
+{"qid":4169629,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"resolution"}
+{"qid":4121655,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"resolution"}
+{"qid":4121653,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"resolution"}

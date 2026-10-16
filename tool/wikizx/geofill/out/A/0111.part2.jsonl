@@ -1,0 +1,51 @@
+{"qid":17145439,"place":"Hockenheimring","lat":49.3278,"lon":8.5658,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":25689288,"place":"Vasco da Gama, Goa","lat":15.3982,"lon":73.8113,"precision":"city","confidence":"high","note":"festival in Vasco"}
+{"qid":24909524,"place":"Bonn","lat":50.7374,"lon":7.0982,"precision":"city","confidence":"high","note":"attack in Bonn"}
+{"qid":97585647,"place":"São Paulo","lat":-23.5558,"lon":-46.6396,"precision":"city","confidence":"medium","note":"held in São Paulo"}
+{"qid":17074185,"place":"Circuito del Jarama","lat":40.6139,"lon":-3.5853,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":17071203,"place":"Jaunpur district","lat":25.75,"lon":82.6833,"precision":"region","confidence":"medium","note":"derailment near Mihrawan"}
+{"qid":133696292,"place":"Rizal Memorial Coliseum","lat":14.5647,"lon":120.9944,"precision":"site","confidence":"high","note":"ceremony venue"}
+{"qid":133696302,"place":"Riga","lat":56.9496,"lon":24.1052,"precision":"city","confidence":"medium","note":"naval expedition to Riga"}
+{"qid":133696310,"place":"Madurai","lat":9.9252,"lon":78.1198,"precision":"city","confidence":"medium","note":"Madurai Nayak kingdom turmoil"}
+{"qid":17070078,"place":"Tirumala Venkateswara Temple","lat":13.6834,"lon":79.3472,"precision":"site","confidence":"medium","note":"Tirumala festival"}
+{"qid":131584322,"place":"Ibirapuera Auditorium","lat":-23.5875,"lon":-46.658,"precision":"site","confidence":"high","note":"venue"}
+{"qid":17039648,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"manuscript"}
+{"qid":686594,"place":"United Nations Headquarters","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"medium","note":"Council seat"}
+{"qid":123966408,"place":"Rafah","lat":31.2969,"lon":34.2435,"precision":"city","confidence":"high","note":"airstrike in Rafah"}
+{"qid":2327063,"place":"United Nations Headquarters","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"medium","note":"Council seat"}
+{"qid":2268087,"place":"United Nations Headquarters","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"medium","note":"Council seat"}
+{"qid":17019571,"place":"Gstaad","lat":46.475,"lon":7.2861,"precision":"city","confidence":"high","note":"tournament in Gstaad"}
+{"qid":17016880,"place":"Silverstone Circuit","lat":52.0733,"lon":-1.0147,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":17016289,"place":"Brands Hatch","lat":51.3569,"lon":0.2631,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":17016144,"place":"Berkeley, California","lat":37.8715,"lon":-122.273,"precision":"city","confidence":"high","note":"tournament in Berkeley"}
+{"qid":132181867,"place":"São Paulo","lat":-23.5558,"lon":-46.6396,"precision":"city","confidence":"medium","note":"held in São Paulo"}
+{"qid":133733234,"place":"Myanmar","lat":21.9162,"lon":95.956,"precision":"country","confidence":"medium","note":"relief operation in Myanmar"}
+{"qid":17015436,"place":"Rochusclub","lat":51.24,"lon":6.77,"precision":"site","confidence":"medium","note":"venue in Düsseldorf"}
+{"qid":133751601,"place":"Century Park Hotel","lat":14.5614,"lon":120.9908,"precision":"site","confidence":"medium","note":"ceremony venue"}
+{"qid":133752388,"place":"Pasadena Civic Auditorium","lat":34.1431,"lon":-118.1481,"precision":"site","confidence":"high","note":"ceremony venue"}
+{"qid":17013998,"place":"Ovamboland","lat":-17.8,"lon":15.7,"precision":"region","confidence":"low","note":"operation in northern Namibia"}
+{"qid":133752782,"place":"Pasadena Civic Auditorium","lat":34.1431,"lon":-118.1481,"precision":"site","confidence":"high","note":"ceremony venue"}
+{"qid":133521434,"place":"Tinkune","lat":27.685,"lon":85.348,"precision":"city","confidence":"medium","note":"protests in Tinkune"}
+{"qid":17013042,"place":"Norway","lat":60.472,"lon":8.4689,"precision":"country","confidence":"low","note":"Norwegian coast operation"}
+{"qid":2262565,"place":"United Nations Headquarters","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"medium","note":"Council seat"}
+{"qid":133799906,"place":"Brooklyn","lat":40.6782,"lon":-73.9442,"precision":"city","confidence":"high","note":"run through Brooklyn"}
+{"qid":133799933,"place":"Albania","lat":41.1533,"lon":20.1683,"precision":"country","confidence":"medium","note":"process across Albania"}
+{"qid":17010726,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"manuscript"}
+{"qid":133799963,"place":"Pensacola, Florida","lat":30.4213,"lon":-87.2169,"precision":"city","confidence":"high","note":"attack in Pensacola"}
+{"qid":133802796,"place":"Kulon Progo Regency","lat":-7.85,"lon":110.15,"precision":"region","confidence":"low","note":"ambush at Mount Kelir"}
+{"qid":115532932,"place":"Najd","lat":24.7,"lon":46.0,"precision":"region","confidence":"low","note":"battle in Najd"}
+{"qid":133809002,"place":"Arbinda","lat":14.0,"lon":-0.88,"precision":"city","confidence":"medium","note":"clashes in Arbinda"}
+{"qid":17010719,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"manuscript"}
+{"qid":2955510,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"various venues"}
+{"qid":133816390,"place":"Santa Monica Civic Auditorium","lat":34.0116,"lon":-118.4943,"precision":"site","confidence":"high","note":"ceremony venue"}
+{"qid":39086765,"place":"Golweyn","lat":1.9,"lon":44.5,"precision":"city","confidence":"low","note":"ambush at Golweyn"}
+{"qid":17010704,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"manuscript"}
+{"qid":866924,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"observance"}
+{"qid":17010696,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"manuscript"}
+{"qid":133821276,"place":"Santa Monica Civic Auditorium","lat":34.0116,"lon":-118.4943,"precision":"site","confidence":"high","note":"ceremony venue"}
+{"qid":17010689,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"manuscript"}
+{"qid":133821279,"place":"Santa Monica Civic Auditorium","lat":34.0116,"lon":-118.4943,"precision":"site","confidence":"high","note":"ceremony venue"}
+{"qid":17010681,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"manuscript"}
+{"qid":133821434,"place":"Karlsruhe","lat":49.0069,"lon":8.4037,"precision":"city","confidence":"high","note":"murders in Karlsruhe"}
+{"qid":17010675,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"manuscript"}
+{"qid":17010665,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"manuscript"}

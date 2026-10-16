@@ -1,0 +1,50 @@
+{"qid":122853241,"place":"Istanbul","lat":41.0082,"lon":28.9784,"precision":"city","confidence":"medium","note":"race around Istanbul"}
+{"qid":141338682,"place":"Porto Alegre","lat":-30.0346,"lon":-51.2177,"precision":"city","confidence":"high","note":"conspiracy center"}
+{"qid":3800207,"place":"Foro Italico","lat":41.934,"lon":12.4546,"precision":"site","confidence":"high","note":"venue"}
+{"qid":141350797,"place":"Four Seasons Hotel, Jumeirah, Dubai","lat":25.2048,"lon":55.2708,"precision":"city","confidence":"low","note":"auction location"}
+{"qid":141351777,"place":"Rhodesia","lat":-19.0,"lon":29.8,"precision":"country","confidence":"low","note":"Rhodesian campaign"}
+{"qid":28704768,"place":"Pereiaslav","lat":50.0667,"lon":31.45,"precision":"city","confidence":"medium","note":"revolt in Pereiaslav"}
+{"qid":4610653,"place":"Boromo","lat":11.7439,"lon":-2.9314,"precision":"city","confidence":"high","note":"crash near Boromo"}
+{"qid":141353279,"place":"Dzherakh","lat":41.9,"lon":47.9,"precision":"city","confidence":"low","note":"attacked village"}
+{"qid":14849797,"place":"New York City","lat":40.7489,"lon":-73.968,"precision":"city","confidence":"medium","note":"UN Security Council seat"}
+{"qid":4574936,"place":"Sandown Raceway","lat":-37.95,"lon":145.16,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":4610532,"place":"Scotland","lat":56.4907,"lon":-4.2026,"precision":"country","confidence":"medium","note":"series in Scotland"}
+{"qid":3858626,"place":"British Library","lat":51.5299,"lon":-0.1272,"precision":"site","confidence":"medium","note":"manuscript held there"}
+{"qid":141353641,"place":"KBS Hall","lat":37.529,"lon":126.917,"precision":"site","confidence":"medium","note":"held at KBS Hall"}
+{"qid":141353770,"place":"Evansville, Indiana","lat":37.9716,"lon":-87.5711,"precision":"city","confidence":"high","note":"murders in Evansville"}
+{"qid":141353795,"place":"KBS Hall","lat":37.529,"lon":126.917,"precision":"site","confidence":"medium","note":"held at KBS Hall"}
+{"qid":4610531,"place":"Kenya","lat":0.0236,"lon":37.9062,"precision":"country","confidence":"medium","note":"series in Kenya"}
+{"qid":4610530,"place":"Canada","lat":56.1304,"lon":-106.3468,"precision":"country","confidence":"medium","note":"series in Canada"}
+{"qid":141364245,"place":"Abha","lat":18.2164,"lon":42.5053,"precision":"city","confidence":"low","note":"strikes on southern Saudi"}
+{"qid":141375949,"place":"Cambodia","lat":12.5657,"lon":104.991,"precision":"country","confidence":"medium","note":"genocide in Cambodia"}
+{"qid":4610415,"place":"Sukhumi","lat":43.0015,"lon":41.0234,"precision":"city","confidence":"medium","note":"bombings in Abkhazia"}
+{"qid":8036271,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"observance day"}
+{"qid":141376862,"place":"Idlib","lat":35.9306,"lon":36.6339,"precision":"city","confidence":"high","note":"bombings in Idlib"}
+{"qid":141387551,"place":"Semnan, Iran","lat":35.5769,"lon":53.392,"precision":"city","confidence":"high","note":"unrest in Semnan"}
+{"qid":141404022,"place":"Pincher Creek, Alberta","lat":49.4856,"lon":-113.9502,"precision":"city","confidence":"high","note":"murders near Pincher Creek"}
+{"qid":7156468,"place":"Gödöllő","lat":47.5972,"lon":19.3667,"precision":"city","confidence":"high","note":"camp held there"}
+{"qid":4609688,"place":"Zhani-Vedeno","lat":42.9,"lon":46.0,"precision":"city","confidence":"low","note":"ambush location"}
+{"qid":141404793,"place":"Dayton, Virginia","lat":38.4143,"lon":-78.939,"precision":"city","confidence":"high","note":"strike at plant"}
+{"qid":4609576,"place":"Providence Park","lat":45.5217,"lon":-122.6917,"precision":"site","confidence":"high","note":"game at PGE Park"}
+{"qid":4894739,"place":"Berrouaghia","lat":36.1219,"lon":2.9111,"precision":"city","confidence":"medium","note":"prison in Berrouaghia"}
+{"qid":3352454,"place":"Cairo","lat":30.0444,"lon":31.2357,"precision":"city","confidence":"low","note":"manuscript location uncertain"}
+{"qid":2009910,"place":"New York City","lat":40.7489,"lon":-73.968,"precision":"city","confidence":"medium","note":"UN Security Council seat"}
+{"qid":679737,"place":"New York City","lat":40.7489,"lon":-73.968,"precision":"city","confidence":"medium","note":"UN Security Council seat"}
+{"qid":569892,"place":"Trinity College Dublin","lat":53.3438,"lon":-6.2546,"precision":"site","confidence":"high","note":"manuscript held there"}
+{"qid":4574658,"place":"Johannesburg","lat":-26.2041,"lon":28.0473,"precision":"city","confidence":"high","note":"Ellis Park tournament"}
+{"qid":7248908,"place":"British Library","lat":51.5299,"lon":-0.1272,"precision":"site","confidence":"medium","note":"manuscript held there"}
+{"qid":7248434,"place":"Bibliotheque nationale de France","lat":48.8337,"lon":2.3757,"precision":"site","confidence":"medium","note":"manuscript held there"}
+{"qid":7247578,"place":"Bibliotheque nationale de France","lat":48.8337,"lon":2.3757,"precision":"site","confidence":"high","note":"Codex Colbertinus"}
+{"qid":7247318,"place":"Bibliotheque nationale de France","lat":48.8337,"lon":2.3757,"precision":"site","confidence":"medium","note":"manuscript held there"}
+{"qid":3707097,"place":"Makati","lat":14.5547,"lon":121.0244,"precision":"city","confidence":"high","note":"ceremony in Makati"}
+{"qid":141425088,"place":"Johannesburg","lat":-26.2041,"lon":28.0473,"precision":"city","confidence":"medium","note":"auction location"}
+{"qid":141426012,"place":"Yüksekova","lat":37.5733,"lon":44.2878,"precision":"city","confidence":"high","note":"killed in Yüksekova"}
+{"qid":7233951,"place":"Bibliotheque nationale de France","lat":48.8337,"lon":2.3757,"precision":"site","confidence":"medium","note":"manuscript held there"}
+{"qid":2711493,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"international event"}
+{"qid":6938033,"place":"Troy, New York","lat":42.7284,"lon":-73.6918,"precision":"city","confidence":"high","note":"riot in Troy"}
+{"qid":111352875,"place":"New York City","lat":40.7489,"lon":-73.968,"precision":"city","confidence":"medium","note":"UN Security Council seat"}
+{"qid":6352446,"place":"Sepang International Circuit","lat":2.7608,"lon":101.7381,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":6352401,"place":"Bahrain International Circuit","lat":26.0325,"lon":50.5106,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":141433240,"place":"Michigan Stadium","lat":42.2658,"lon":-83.7487,"precision":"site","confidence":"medium","note":"played in Ann Arbor"}
+{"qid":3928551,"place":"Brands Hatch","lat":51.3569,"lon":0.2631,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":141312758,"place":"New York City","lat":40.7489,"lon":-73.968,"precision":"city","confidence":"medium","note":"UN Security Council seat"}
