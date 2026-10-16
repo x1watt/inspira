@@ -1,0 +1,50 @@
+{"qid":105730646,"place":"Hong Kong","lat":22.3193,"lon":114.1694,"precision":"city","confidence":"high","note":"ceremony in Hong Kong"}
+{"qid":17386635,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"festival, no single place"}
+{"qid":6870366,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"manuscript, location unknown"}
+{"qid":6870736,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"manuscript, location unknown"}
+{"qid":6870737,"place":"Vatican Library","lat":41.9029,"lon":12.4545,"precision":"site","confidence":"medium","note":"Codex Ottobonianus, Vatican"}
+{"qid":6870738,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"manuscript, location unknown"}
+{"qid":6870364,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"manuscript, location unknown"}
+{"qid":6870362,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"manuscript, location unknown"}
+{"qid":6870743,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"manuscript, location unknown"}
+{"qid":56301449,"place":"Poyang Lake","lat":29.1,"lon":116.3,"precision":"region","confidence":"medium","note":"race near Poyang Lake"}
+{"qid":105694582,"place":"North Waziristan District","lat":32.5,"lon":69.8,"precision":"region","confidence":"medium","note":"shooting in North Waziristan"}
+{"qid":111319850,"place":"Bahrain International Circuit","lat":26.0325,"lon":50.5106,"precision":"site","confidence":"high","note":"round at the circuit"}
+{"qid":105690283,"place":"Mangolpuri","lat":28.693,"lon":77.082,"precision":"city","confidence":"medium","note":"killed in Mangolpuri"}
+{"qid":3927755,"place":"Naples","lat":40.8518,"lon":14.2681,"precision":"city","confidence":"medium","note":"dispute with Two Sicilies, capital"}
+{"qid":6870359,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"manuscript, location unknown"}
+{"qid":105676700,"place":"Ulaanbaatar","lat":47.8864,"lon":106.9057,"precision":"city","confidence":"high","note":"protests in Ulaanbaatar"}
+{"qid":105663865,"place":"Tegucigalpa","lat":14.0723,"lon":-87.1921,"precision":"city","confidence":"medium","note":"nationwide protests, capital"}
+{"qid":6870358,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"manuscript, location unknown"}
+{"qid":5488396,"place":"Iquique","lat":-20.2307,"lon":-70.1357,"precision":"city","confidence":"high","note":"naval battle off Iquique"}
+{"qid":111284663,"place":"Mykolaiv","lat":46.975,"lon":31.9946,"precision":"city","confidence":"high","note":"bombing of Mykolaiv"}
+{"qid":6870744,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"manuscript, location unknown"}
+{"qid":111369622,"place":"Puthukudiyiruppu","lat":9.3167,"lon":80.65,"precision":"city","confidence":"medium","note":"hospital in Puthukudiyiruppu"}
+{"qid":5576471,"place":"Bolivia","lat":-17.0,"lon":-65.0,"precision":"country","confidence":"low","note":"Upper Peru campaign"}
+{"qid":111373675,"place":"Wanli District, New Taipei","lat":25.1797,"lon":121.6897,"precision":"city","confidence":"medium","note":"marathon in Wanli District"}
+{"qid":3835057,"place":"North Little Rock, Arkansas","lat":34.7695,"lon":-92.2671,"precision":"city","confidence":"high","note":"Burns Park, North Little Rock"}
+{"qid":105637657,"place":"Albania","lat":41.1533,"lon":20.1683,"precision":"country","confidence":"high","note":"nationwide campaign"}
+{"qid":4070111,"place":"Yerevan","lat":40.1792,"lon":44.4991,"precision":"city","confidence":"high","note":"ceremony in Yerevan"}
+{"qid":6870745,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"manuscript, location unknown"}
+{"qid":3835060,"place":"North Little Rock, Arkansas","lat":34.7695,"lon":-92.2671,"precision":"city","confidence":"high","note":"Burns Park, North Little Rock"}
+{"qid":111425792,"place":"Hazleton, Pennsylvania","lat":40.9584,"lon":-75.9746,"precision":"city","confidence":"high","note":"murder in Hazleton"}
+{"qid":6870354,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"manuscript, location unknown"}
+{"qid":105626472,"place":"Cairo","lat":30.0444,"lon":31.2357,"precision":"city","confidence":"medium","note":"nationwide, centered in Cairo"}
+{"qid":105616384,"place":"Loire","lat":47.39,"lon":0.69,"precision":"region","confidence":"low","note":"march along the Loire"}
+{"qid":105605303,"place":"Woodlands, Singapore","lat":1.437,"lon":103.7865,"precision":"city","confidence":"medium","note":"Yusof Ishak Mosque in Woodlands"}
+{"qid":6870353,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"manuscript, location unknown"}
+{"qid":16689366,"place":"Strasbourg","lat":48.5734,"lon":7.7521,"precision":"city","confidence":"high","note":"opened for signature in Strasbourg"}
+{"qid":105562522,"place":"Hawizeh Marshes","lat":31.55,"lon":47.75,"precision":"region","confidence":"medium","note":"Hur al-Hawizeh marshes"}
+{"qid":105561156,"place":"Tehran","lat":35.6892,"lon":51.389,"precision":"city","confidence":"medium","note":"nationwide uprising, capital"}
+{"qid":105560647,"place":"Antananarivo","lat":-18.8792,"lon":47.5079,"precision":"city","confidence":"medium","note":"crisis centered in capital"}
+{"qid":105559934,"place":"Khartoum","lat":15.5007,"lon":32.5599,"precision":"city","confidence":"medium","note":"nationwide protests, capital"}
+{"qid":105556056,"place":"Los Angeles","lat":34.0522,"lon":-118.2437,"precision":"city","confidence":"low","note":"virtual ceremony"}
+{"qid":105555894,"place":"Cairo","lat":30.0444,"lon":31.2357,"precision":"city","confidence":"low","note":"northern Egypt uprising"}
+{"qid":111478174,"place":"Kharkiv","lat":49.9935,"lon":36.2304,"precision":"city","confidence":"high","note":"bombing of Kharkiv"}
+{"qid":6870351,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"manuscript, location unknown"}
+{"qid":6870746,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"manuscript, location unknown"}
+{"qid":6870349,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"manuscript, location unknown"}
+{"qid":6870747,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"manuscript, location unknown"}
+{"qid":744585,"place":"Bulgaria","lat":42.7339,"lon":25.4858,"precision":"country","confidence":"medium","note":"Bulgarian national custom"}
+{"qid":6870749,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"manuscript, location unknown"}
+{"qid":6870347,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"manuscript, location unknown"}

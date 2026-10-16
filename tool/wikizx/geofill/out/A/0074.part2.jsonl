@@ -1,0 +1,50 @@
+{"qid":4564309,"place":"Miami, Florida","lat":25.7617,"lon":-80.1918,"precision":"city","confidence":"high","note":"Burdine Stadium, Miami"}
+{"qid":85972307,"place":"Râmnicu Sărat","lat":45.3833,"lon":27.05,"precision":"city","confidence":"medium","note":"battle near Râmnicu Sărat"}
+{"qid":96095613,"place":"Ohio","lat":40.4173,"lon":-82.9071,"precision":"region","confidence":"high","note":"statewide protests"}
+{"qid":2557247,"place":"United Nations Headquarters","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"medium","note":"Security Council meets there"}
+{"qid":7075900,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"high","note":"activist group in NYC"}
+{"qid":114352789,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"medium","note":"Justice Department seat"}
+{"qid":2658235,"place":"United Nations Headquarters","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"medium","note":"Security Council meets there"}
+{"qid":96102654,"place":"Geoje Island","lat":34.88,"lon":128.62,"precision":"region","confidence":"medium","note":"naval battle off Geoje"}
+{"qid":16926867,"place":"Betong","lat":5.7747,"lon":101.0731,"precision":"city","confidence":"low","note":"Kroh-Pattani road border area"}
+{"qid":13080377,"place":"Yangon","lat":16.8409,"lon":96.1735,"precision":"city","confidence":"high","note":"riots in Rangoon"}
+{"qid":2614703,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"manuscript"}
+{"qid":134722449,"place":"Araneta City","lat":14.62,"lon":121.053,"precision":"region","confidence":"medium","note":"Novotel Manila venue"}
+{"qid":56366682,"place":"Ukraine","lat":48.3794,"lon":31.1656,"precision":"country","confidence":"low","note":"right-bank Ukraine campaign"}
+{"qid":6102645,"place":"Damascus","lat":33.5138,"lon":36.2765,"precision":"city","confidence":"medium","note":"Damascus province rebellion"}
+{"qid":131759022,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"global protests"}
+{"qid":3001421,"place":"Czech Republic","lat":49.8175,"lon":15.473,"precision":"country","confidence":"medium","note":"country-wide race"}
+{"qid":4555601,"place":"St. Louis","lat":38.627,"lon":-90.1994,"precision":"city","confidence":"high","note":"strike in St. Louis"}
+{"qid":2148902,"place":"United Nations Headquarters","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"medium","note":"Security Council meets there"}
+{"qid":7075864,"place":"Nashville, Tennessee","lat":36.1627,"lon":-86.7816,"precision":"city","confidence":"high","note":"Legislative Plaza"}
+{"qid":39086083,"place":"Los Angeles","lat":34.0522,"lon":-118.2437,"precision":"city","confidence":"high","note":"Cooper Do-nuts cafe"}
+{"qid":16864800,"place":"England","lat":52.3555,"lon":-1.1743,"precision":"country","confidence":"low","note":"intruder raid over England"}
+{"qid":4611283,"place":"Rogers Centre","lat":43.6414,"lon":-79.3894,"precision":"site","confidence":"high","note":"bowl at Rogers Centre"}
+{"qid":4591427,"place":"San Diego","lat":32.7157,"lon":-117.1611,"precision":"city","confidence":"high","note":"Holiday Bowl in San Diego"}
+{"qid":16839065,"place":"Ethiopia","lat":9.145,"lon":40.4897,"precision":"country","confidence":"low","note":"Madab location uncertain"}
+{"qid":1542747,"place":"Rennes","lat":48.1173,"lon":-1.6778,"precision":"city","confidence":"high","note":"race held in Rennes"}
+{"qid":96360165,"place":"Montreal","lat":45.5017,"lon":-73.5673,"precision":"city","confidence":"high","note":"game at McGill"}
+{"qid":132746069,"place":"Crimea","lat":45.3453,"lon":34.4997,"precision":"region","confidence":"medium","note":"campaigns into Crimea"}
+{"qid":16835176,"place":"Centenary, Zimbabwe","lat":-16.8,"lon":31.1,"precision":"city","confidence":"medium","note":"attack near Centenary"}
+{"qid":96362724,"place":"Charleston, South Carolina","lat":32.7765,"lon":-79.9311,"precision":"city","confidence":"high","note":"strike in Charleston"}
+{"qid":3654879,"place":"Toronto","lat":43.6532,"lon":-79.3832,"precision":"city","confidence":"high","note":"tennis centre Toronto"}
+{"qid":16827768,"place":"Domžale","lat":46.1381,"lon":14.5944,"precision":"city","confidence":"high","note":"TEN-TEN Domžale"}
+{"qid":581718,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"professional day"}
+{"qid":18479986,"place":"Rio de Janeiro","lat":-22.9068,"lon":-43.1729,"precision":"city","confidence":"high","note":"Centro Galego headquarters"}
+{"qid":132853501,"place":"Moldavia","lat":47.0,"lon":27.0,"precision":"region","confidence":"medium","note":"campaign into Moldavia"}
+{"qid":132775513,"place":"Sich","lat":47.5,"lon":34.5,"precision":"region","confidence":"low","note":"Zaporozhian Sich crisis"}
+{"qid":31283644,"place":"Nikaia","lat":37.9667,"lon":23.65,"precision":"city","confidence":"medium","note":"Kokkinia in Piraeus area"}
+{"qid":134436572,"place":"Bakhchysarai","lat":44.7518,"lon":33.8603,"precision":"city","confidence":"high","note":"fell at Bakhchysarai"}
+{"qid":134780099,"place":"Hanoi","lat":21.0285,"lon":105.8542,"precision":"city","confidence":"high","note":"opened for signature in Hanoi"}
+{"qid":85861757,"place":"Majella","lat":42.0833,"lon":14.15,"precision":"region","confidence":"low","note":"Morrone mountains Abruzzo"}
+{"qid":841800,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"papyrus"}
+{"qid":96369354,"place":"Florence, Alabama","lat":34.7998,"lon":-87.6773,"precision":"city","confidence":"high","note":"game in Florence"}
+{"qid":132254941,"place":"Sunzha (river)","lat":43.3,"lon":45.0,"precision":"region","confidence":"low","note":"Sunzha River battle"}
+{"qid":96369490,"place":"Uvira","lat":-3.375,"lon":29.1375,"precision":"city","confidence":"high","note":"clashes in Uvira"}
+{"qid":17009634,"place":"Pokrovsk","lat":48.2833,"lon":37.1833,"precision":"city","confidence":"high","note":"massacre in Grishino"}
+{"qid":16826314,"place":"Beersheba","lat":31.253,"lon":34.7915,"precision":"city","confidence":"medium","note":"charge near Beersheba"}
+{"qid":96369661,"place":"Belle Isle (Michigan)","lat":42.34,"lon":-82.982,"precision":"site","confidence":"high","note":"Raceway on Belle Isle"}
+{"qid":16825940,"place":"Winfield, Kansas","lat":37.2398,"lon":-96.9956,"precision":"city","confidence":"high","note":"game in Winfield"}
+{"qid":2295613,"place":"United Nations Headquarters","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"medium","note":"Security Council meets there"}
+{"qid":2784185,"place":"United Nations Headquarters","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"medium","note":"Security Council meets there"}
+{"qid":4693692,"place":"Agra","lat":27.1767,"lon":78.0081,"precision":"city","confidence":"high","note":"summit held in Agra"}

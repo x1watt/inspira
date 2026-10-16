@@ -1,0 +1,50 @@
+{"qid":133415591,"place":"Sri Lanka","lat":7.8731,"lon":80.7718,"precision":"country","confidence":"high","note":"series in Sri Lanka"}
+{"qid":85723031,"place":"Messina","lat":38.1938,"lon":15.554,"precision":"city","confidence":"high","note":"Messina street circuit"}
+{"qid":17000370,"place":"Buenos Aires","lat":-34.6037,"lon":-58.3816,"precision":"city","confidence":"medium","note":"Hilton Hotel Argentina"}
+{"qid":3869186,"place":"Quezon City","lat":14.676,"lon":121.0437,"precision":"city","confidence":"low","note":"AFP Theater Camp Aguinaldo"}
+{"qid":2186165,"place":"New York City","lat":40.7489,"lon":-73.968,"precision":"city","confidence":"medium","note":"Security Council seat"}
+{"qid":2145782,"place":"New York City","lat":40.7489,"lon":-73.968,"precision":"city","confidence":"medium","note":"Security Council seat"}
+{"qid":115907728,"place":"North Dakota","lat":47.5515,"lon":-101.002,"precision":"region","confidence":"high","note":"lynching in North Dakota"}
+{"qid":133456409,"place":"Winfield, Kansas","lat":37.2398,"lon":-96.9956,"precision":"city","confidence":"high","note":"shooting in Winfield"}
+{"qid":3861352,"place":"Monte Carlo Country Club","lat":43.7511,"lon":7.4372,"precision":"site","confidence":"high","note":"tournament venue"}
+{"qid":115885376,"place":"Kentucky","lat":37.8393,"lon":-84.27,"precision":"region","confidence":"low","note":"raid across Tennessee Kentucky"}
+{"qid":12627978,"place":"Lika","lat":44.5,"lon":15.5,"precision":"region","confidence":"medium","note":"Vrpile pass in Lika"}
+{"qid":16211048,"place":"Coventry","lat":52.4068,"lon":-1.5197,"precision":"city","confidence":"high","note":"murder in Coventry"}
+{"qid":115867205,"place":"Riga","lat":56.9496,"lon":24.1052,"precision":"city","confidence":"high","note":"offensive near Riga"}
+{"qid":111465497,"place":"Lima","lat":-12.0464,"lon":-77.0428,"precision":"city","confidence":"low","note":"protests nationwide, capital"}
+{"qid":3114494,"place":"Bremgarten circuit","lat":46.97,"lon":7.43,"precision":"site","confidence":"high","note":"race at Bremgarten"}
+{"qid":6869937,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"manuscript"}
+{"qid":3114330,"place":"Monza Circuit","lat":45.6156,"lon":9.2811,"precision":"site","confidence":"high","note":"race at Monza"}
+{"qid":85727837,"place":"Honiara","lat":-9.4333,"lon":159.95,"precision":"city","confidence":"high","note":"coup in Honiara"}
+{"qid":3113806,"place":"San Sebastián","lat":43.3183,"lon":-1.9812,"precision":"city","confidence":"high","note":"Lasarte circuit"}
+{"qid":6869938,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"manuscript"}
+{"qid":115857486,"place":"Moody Center","lat":30.2828,"lon":-97.7325,"precision":"site","confidence":"high","note":"ceremony venue"}
+{"qid":2896183,"place":"Chicago","lat":41.8781,"lon":-87.6298,"precision":"city","confidence":"low","note":"shootings began in Chicago"}
+{"qid":6869944,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"manuscript"}
+{"qid":85729457,"place":"Vientiane","lat":17.9757,"lon":102.6331,"precision":"city","confidence":"high","note":"held in Vientiane"}
+{"qid":3113836,"place":"Circuit de Spa-Francorchamps","lat":50.4372,"lon":5.9714,"precision":"site","confidence":"high","note":"race at Spa"}
+{"qid":133475755,"place":"The London Studios","lat":51.5073,"lon":-0.1128,"precision":"site","confidence":"high","note":"ceremony venue"}
+{"qid":85729730,"place":"Phnom Penh","lat":11.5564,"lon":104.9282,"precision":"city","confidence":"high","note":"held in Phnom Penh"}
+{"qid":867397,"place":"Autodrome de Linas-Montlhéry","lat":48.6231,"lon":2.2733,"precision":"site","confidence":"high","note":"race at Montlhery"}
+{"qid":17206177,"place":"Tianjin","lat":39.3434,"lon":117.3616,"precision":"city","confidence":"high","note":"tournament in Tianjin"}
+{"qid":85730063,"place":"Makassar","lat":-5.1477,"lon":119.4327,"precision":"city","confidence":"high","note":"held in Makassar"}
+{"qid":3113820,"place":"Monza Circuit","lat":45.6156,"lon":9.2811,"precision":"site","confidence":"high","note":"race at Monza"}
+{"qid":115825695,"place":"Adelaide Street Circuit","lat":-34.9285,"lon":138.61,"precision":"site","confidence":"medium","note":"race venue"}
+{"qid":2707558,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"manuscript"}
+{"qid":85730812,"place":"Bali","lat":-8.4095,"lon":115.1889,"precision":"region","confidence":"high","note":"held in Bali"}
+{"qid":115824373,"place":"José Ignacio, Uruguay","lat":-34.84,"lon":-54.635,"precision":"city","confidence":"medium","note":"race near Jose Ignacio"}
+{"qid":85731088,"place":"Federation Square","lat":-37.8179,"lon":144.9691,"precision":"site","confidence":"high","note":"Deakin Edge venue"}
+{"qid":7097173,"place":"Hit, Iraq","lat":33.6428,"lon":42.8278,"precision":"city","confidence":"high","note":"east of Hit"}
+{"qid":4575456,"place":"Sandown Raceway","lat":-37.95,"lon":145.16,"precision":"site","confidence":"high","note":"race at Sandown"}
+{"qid":85731570,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"high","note":"strike nationwide"}
+{"qid":476495,"place":"Prague","lat":50.0755,"lon":14.4378,"precision":"city","confidence":"medium","note":"origin of manuscript"}
+{"qid":16210283,"place":"Baghdad","lat":33.3152,"lon":44.3661,"precision":"city","confidence":"low","note":"attacks in central Iraq"}
+{"qid":133504212,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"liturgical day"}
+{"qid":85731797,"place":"Ford Field","lat":42.34,"lon":-83.0456,"precision":"site","confidence":"high","note":"game at Ford Field"}
+{"qid":85731942,"place":"Albertsons Stadium","lat":43.6026,"lon":-116.196,"precision":"site","confidence":"high","note":"game at stadium"}
+{"qid":85731973,"place":"McKinney, Texas","lat":33.1972,"lon":-96.6398,"precision":"city","confidence":"high","note":"championship host"}
+{"qid":115822444,"place":"Dnipro","lat":48.4647,"lon":35.0462,"precision":"city","confidence":"high","note":"Katerynoslav conspiracy"}
+{"qid":85732397,"place":"Roundhouse (venue)","lat":51.5433,"lon":-0.1523,"precision":"site","confidence":"high","note":"ceremony venue"}
+{"qid":115822439,"place":"Hockenheimring","lat":49.3278,"lon":8.5658,"precision":"site","confidence":"high","note":"DTM round"}
+{"qid":17110730,"place":"Nairobi","lat":-1.2921,"lon":36.8219,"precision":"city","confidence":"high","note":"Operation Anvil in Nairobi"}
+{"qid":17110495,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"high","note":"US holiday"}
