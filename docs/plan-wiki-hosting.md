@@ -1,8 +1,9 @@
 # Plan: the offline Wikipedia database online, queried in place
 
-Status: plan (2026-10-16). The zx side is done and tested (part sets,
-x1watt/zx `docs/architecture.md` section 21); the hosting and the app
-side are the steps below.
+Status: plan (2026-10-16). Host decided: a Hugging Face dataset (section
+2a). The zx side is done and tested (part sets and redirect caching,
+x1watt/zx `docs/architecture.md` section 21); the upload and the app side
+are the steps below.
 
 Goal: put the whole Wikipedia database of `docs/plan-offline-wikipedia.md`
 (`en_mini.zx`, 3.2 GB, and `geo.zx`, 1.0 GB) on GitHub, so that the web
@@ -50,7 +51,40 @@ Checked today: Pages answers `Range: bytes=0-9` with 206 and sends
 and `x1watt.github.io/inspira-wiki-1/` (data) are one origin: no CORS
 question at all, and the browser's cache works across them.
 
-## 3. Layout
+## 2a. Decision: a Hugging Face dataset
+
+The owner chose Hugging Face (2026-10-16) over GitHub Pages: it is made
+for hosting large public datasets (no file or site limit to work around,
+no question of Pages' policy), its Xet storage deduplicates chunks so an
+update uploads mostly what changed, and a dataset card carries
+Wikipedia's CC BY-SA license and attribution.
+
+Checked from here: `huggingface.co/datasets/USER/NAME/resolve/main/FILE`
+answers a Range request with a 302 to a signed CDN URL (valid one hour,
+the redirect never cached), both with CORS headers, and the CDN answers
+206 with Content-Range. Per request: 0.16 s for the redirect and about
+0.17 s for the range from the CDN (Pages: 0.05 s). zx now keeps the
+signed URL (`RedirectCachingTransport`), so only the first request of a
+file in an hour pays the redirect: about 0.17 s per request, roughly 3
+times Pages, so a cold question of 8 to 13 requests takes 1.5 to 2.5 s.
+
+Layout on Hugging Face: one dataset repository (for example
+`USER/inspira-wikipedia`), the database as one file (no 100 MB limit) and
+a manifest with a single part, so the web engine reads it in 64 KiB
+blocks with one redirect an hour:
+
+    en_mini.zx          (later inspira_wiki.zx, section 5)
+    en_mini.zx.parts    {"zxParts": 1, ..., "parts": [{"file": "en_mini.zx", ...}]}
+    README.md           dataset card: source dumps, license, how it is built
+
+The app reads `https://huggingface.co/datasets/USER/inspira-wikipedia/resolve/main/en_mini.zx.parts`.
+Pinning a revision (`resolve/<commit>/...`) instead of `main` keeps a
+session on one version while a new one is uploaded.
+
+Sections 3 and 7 describe the GitHub Pages layout, kept as the fallback:
+moving there only changes the manifest's URLs.
+
+## 3. Layout (GitHub Pages, fallback)
 
 Data repositories `x1watt/inspira-wiki-1` ... `inspira-wiki-N`, each with
 GitHub Pages on a `gh-pages` branch holding at most 9 parts (under
