@@ -50,3 +50,8 @@ method next to each number.
     `inBox` 0.45 ms; expect a few times that on a phone, still well
     inside the debounce. At most 200 markers are built. `PlaceIndex` is
     built once, on the first map open.
+12. Offline Wikipedia: the download, its SHA-256 and the check of a
+    partial file run in a background isolate (progress every 250 ms);
+    queries run in zx's worker isolate (`ZxDatabaseAsync`), so the UI
+    isolate never decodes a page. More from Wikipedia asks for 30 facts
+    of a day once per day shown (`FutureBuilder` keyed by the day).

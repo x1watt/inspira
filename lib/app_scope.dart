@@ -7,6 +7,7 @@ import 'data/place_index.dart';
 import 'data/progress_store.dart';
 import 'data/quote_repository.dart';
 import 'data/story_repository.dart';
+import 'data/wiki/wiki_service.dart';
 import 'data/wiki_place_repository.dart';
 
 /// Everything loaded at startup.
@@ -19,6 +20,7 @@ class AppData {
     required this.progress,
     this.events,
     this.wikiPlaces,
+    this.wiki,
   });
 
   final QuoteRepository quotes;
@@ -35,6 +37,9 @@ class AppData {
 
   /// Wikipedia places for the map; null in tests that do not need them.
   final WikiPlaceRepository? wikiPlaces;
+
+  /// The offline Wikipedia (Android and desktop); null in tests.
+  final WikiService? wiki;
 }
 
 /// Gives screens access to the loaded [AppData].
@@ -49,6 +54,7 @@ class AppScope extends InheritedWidget {
   ImageRepository get images => data.images;
   ProgressStore get progress => data.progress;
   EventRepository get events => data.events ?? _noEvents;
+  WikiService? get wiki => data.wiki;
 
   /// Events, stories and Wikipedia places with coordinates, built on
   /// first use.

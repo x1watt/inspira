@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import '../app_scope.dart';
 import '../models/event.dart';
 import '../widgets/event_details.dart';
+import '../widgets/wiki_widgets.dart';
 
 /// Events in world history on one calendar day, most important first.
 /// Opens on today; arrows and the calendar move to other days.
@@ -136,12 +137,26 @@ class _OnThisDayScreenState extends State<OnThisDayScreen> {
                 ),
               ),
               Expanded(
-                child: events.isEmpty
+                child: events.isEmpty && scope.wiki == null
                     ? _empty(context)
                     : ListView.builder(
                         padding: const EdgeInsets.fromLTRB(8, 0, 8, 24),
-                        itemCount: events.length,
+                        // the events, then More from Wikipedia (offline)
+                        itemCount: events.length + 1,
                         itemBuilder: (context, i) {
+                          if (i == events.length) {
+                            return Column(
+                              children: [
+                                if (events.isEmpty) _empty(context),
+                                if (scope.wiki case final w?)
+                                  WikiDaySection(
+                                    wiki: w,
+                                    month: _day.month,
+                                    day: _day.day,
+                                  ),
+                              ],
+                            );
+                          }
                           final e = events[i];
                           final marked = e.id == widget.highlight;
                           final art = scope.images.artForEvent(e);

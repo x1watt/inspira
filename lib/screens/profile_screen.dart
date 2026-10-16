@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import '../app_scope.dart';
 import '../data/progress_store.dart';
 import '../models/category.dart';
+import '../widgets/wiki_widgets.dart';
 import 'credits_screen.dart';
 
 /// Streak, daily goal, levels per category and quiz record.
@@ -160,6 +161,8 @@ class ProfileScreen extends StatelessWidget {
                 ),
               ),
             ),
+            if (AppScope.of(context).wiki case final w?)
+              WikiDownloadCard(wiki: w),
             const Card(
               elevation: 0,
               child: ListTile(

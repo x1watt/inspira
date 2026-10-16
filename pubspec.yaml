@@ -15,6 +15,14 @@ dependencies:
   flutter_map: ^8.3.2
   latlong2: ^0.10.1
   geolocator: ^14.1.1
+  path_provider: ^2.1.5
+  crypto: ^3.0.6
+  # Reads the offline Wikipedia database on Android and desktop (the web
+  # build never imports it: lib/data/wiki/wiki_service.dart).
+  zx:
+    git:
+      url: https://github.com/x1watt/zx.git
+      ref: 24481236e0f8bd61a821c5ed5b6dfc3d769983f8
 
 dev_dependencies:
   flutter_test:

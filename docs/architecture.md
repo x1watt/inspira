@@ -132,6 +132,8 @@ always shows the same picture.
 | `lib/data/progress_store.dart` | XP, levels, daily goal, streak and freezes, quiz review boxes, feed affinity, seen and read ids; one JSON value in `shared_preferences` |
 | `lib/data/quiz_generator.dart` | questions made from the data: who said this, what is the lesson, what did the study show, when did it happen, what happened on this day |
 | `lib/data/feed_engine.dart` | the endless feed: which card comes next |
+| `lib/data/wiki/wiki_service.dart` | the offline Wikipedia (section 6): `WikiService` (status, download, facts of a day, an article's lead); `wiki_service_io.dart` on Android and desktop, `wiki_service_stub.dart` on the web (conditional import, so the web build never imports zx) |
+| `lib/widgets/wiki_widgets.dart` | the Offline Wikipedia card in Me, More from Wikipedia in On this day, the article sheet |
 | `lib/data/wiki_place_repository.dart` | loads `assets/wiki_places.json`: Wikipedia events with a place, for the map |
 | `lib/data/place_index.dart` | events, stories and Wikipedia places with coordinates: closest to a point, most important inside a box |
 | `lib/app_scope.dart` | `AppData` (everything loaded at startup) in an `InheritedWidget`, inserted by `MaterialApp.builder` above the Navigator so pushed routes see it |
@@ -229,3 +231,30 @@ everything else stays offline.
 - Tiles follow the OpenStreetMap tile policy: the app's package name as
   user agent and the attribution on the map (at the top, since the list
   covers the bottom), naming Esri when the satellite view is on.
+
+## 6. Offline Wikipedia (Android and desktop)
+
+The English Wikipedia database of `docs/plan-offline-wikipedia.md`
+(`en_mini.zx`, 3.2 GB) is hosted on Hugging Face
+(`docs/plan-wiki-hosting.md`). Android and desktop download it on request
+and read it from the device; the web will read the hosted copy in place
+with the zx web engine (not done yet; the web build shows nothing).
+
+- **Download** (Me, Offline Wikipedia): `wiki_service_io.dart` reads the
+  manifest `en_mini.zx.parts` (size and SHA-256), then downloads the
+  file into the app support folder (`wikipedia/en_mini.zx.part`) in a
+  background isolate, hashing as it writes. Redirects are followed by
+  hand so the Range header reaches the CDN: Pause keeps the partial file
+  and Continue hashes it again and asks for the rest. The file is renamed
+  to `en_mini.zx` (with `en_mini.zx.ok` holding its SHA-256) only when
+  the SHA-256 matches; a mismatch deletes it. The card shows the progress
+  and the data received since the app started; Delete removes the files.
+- **Queries** run in zx's worker isolate (`ZxDatabaseAsync`, opened read
+  only on first use). On this day adds More from Wikipedia: `day_fact`
+  of the day, most linked first, people, events and things that happened
+  (not clubs, series or companies that only began or ended), 30 at most;
+  a fact opens a sheet with the article's lead and Read on Wikipedia.
+- **Dependency**: zx from GitHub, pinned to a commit (`pubspec.yaml`);
+  it is pure Dart. Measured on this desktop: the download ran at about
+  25 MiB/s (about 2 minutes for 3.2 GB); a day's facts take a few ms.
+

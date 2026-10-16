@@ -51,6 +51,12 @@ Checked today: Pages answers `Range: bytes=0-9` with 206 and sends
 and `x1watt.github.io/inspira-wiki-1/` (data) are one origin: no CORS
 question at all, and the browser's cache works across them.
 
+**Native (2026-10-16, owner):** Android and desktop download the database
+as an option (Me, Offline Wikipedia) and read it from the device;
+done for desktop and Android code, tested on the Linux desktop
+(`docs/architecture.md` section 6). The web reads the hosted copy in
+place, with the warm set of section 2a.
+
 ## 2a. Decision: a Hugging Face dataset
 
 The owner chose Hugging Face (2026-10-16) over GitHub Pages: it is made
@@ -104,7 +110,12 @@ So the cost is the number of requests made one after another (about 10
 per cold question, one per level of the trees it walks), not the bytes:
 block size barely matters, a CDN warmed by earlier readers helps (40%).
 
-Next, to bring a cold question near one second: (1) a warm set, the
+Warm set done (zx `zx parts warm`, 2026-10-16): the hosted manifest of
+`en_mini.zx` lists 1.9 MB (15 ranges) that the web engine fetches in
+parallel at open; four new cold questions then took 8.9 s and 19
+requests instead of 14.3 s and 34, and opening 0.75 s instead of 1.5 s.
+
+Ideas before it, kept for reference: (1) a warm set, the
 byte ranges the app's questions always touch first (roots and upper
 levels of the indexes, the day table), recorded once and listed in the
 manifest, fetched in parallel when the database opens; (2) the web
