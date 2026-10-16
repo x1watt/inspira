@@ -1,0 +1,50 @@
+{"qid":4599837,"place":"Kansas","lat":38.5,"lon":-98.0,"precision":"region","confidence":"low","note":"ice storm region"}
+{"qid":6974759,"place":"Kuala Lumpur","lat":3.139,"lon":101.6869,"precision":"city","confidence":"medium","note":"Malaysian federal law"}
+{"qid":323142,"place":"South America","lat":-15.0,"lon":-60.0,"precision":"region","confidence":"low","note":"CSV qualification"}
+{"qid":9266428,"place":"Wroclaw","lat":51.1079,"lon":17.0385,"precision":"city","confidence":"high","note":"newspaper based there"}
+{"qid":6550581,"place":"Lincoln, England","lat":53.2307,"lon":-0.5406,"precision":"city","confidence":"high","note":"city council"}
+{"qid":110291621,"place":"Watford","lat":51.6565,"lon":-0.3903,"precision":"city","confidence":"high","note":"borough"}
+{"qid":96368893,"place":"Melton, Suffolk","lat":52.1,"lon":1.34,"precision":"city","confidence":"low","note":"Suffolk Coastal seat"}
+{"qid":136179781,"place":"Miami","lat":25.7617,"lon":-80.1918,"precision":"city","confidence":"medium","note":"cruise from Miami"}
+{"qid":141446927,"place":"Jeonju","lat":35.8242,"lon":127.148,"precision":"city","confidence":"high","note":"host city"}
+{"qid":6082884,"place":"Gaza Strip","lat":31.4167,"lon":34.3333,"precision":"region","confidence":"high","note":"Gaza Strip topic"}
+{"qid":130731305,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"current events page"}
+{"qid":5098814,"place":"Santiago","lat":-33.4489,"lon":-70.6693,"precision":"city","confidence":"medium","note":"Chile capital"}
+{"qid":55316053,"place":"Georgia (U.S. state)","lat":32.1656,"lon":-82.9001,"precision":"region","confidence":"low","note":"state election"}
+{"qid":4344816,"place":"Red Square","lat":55.7539,"lon":37.6208,"precision":"site","confidence":"high","note":"parade venue"}
+{"qid":85722047,"place":"Budapest","lat":47.4979,"lon":19.0402,"precision":"city","confidence":"high","note":"race start finish"}
+{"qid":877212,"place":"Tokyo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"low","note":"set in ruins of Tokyo"}
+{"qid":17108186,"place":"McIntosh County, Oklahoma","lat":35.37,"lon":-95.67,"precision":"region","confidence":"high","note":"county seat dispute"}
+{"qid":19463513,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"medium","note":"Kaspersky based Moscow"}
+{"qid":97212954,"place":"Jakarta","lat":-6.2088,"lon":106.8456,"precision":"city","confidence":"high","note":"body found in Jakarta"}
+{"qid":7892988,"place":"Ohio","lat":40.4173,"lon":-82.9071,"precision":"region","confidence":"low","note":"state election"}
+{"qid":112811058,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"medium","note":"BBC headquarters"}
+{"qid":112623404,"place":"Toronto","lat":43.6532,"lon":-79.3832,"precision":"city","confidence":"high","note":"Toronto theatre awards"}
+{"qid":4603402,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"low","note":"group of countries"}
+{"qid":121433245,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"medium","note":"Brazilian killers"}
+{"qid":119872940,"place":"Rio de Janeiro","lat":-22.9068,"lon":-43.1729,"precision":"city","confidence":"high","note":"tournament Rio"}
+{"qid":23784250,"place":"Switzerland","lat":46.8182,"lon":8.2275,"precision":"country","confidence":"high","note":"Swiss squadron"}
+{"qid":8026976,"place":"Wirral","lat":53.3727,"lon":-3.0738,"precision":"city","confidence":"medium","note":"borough"}
+{"qid":4602986,"place":"Hollywood, Florida","lat":26.0112,"lon":-80.1495,"precision":"city","confidence":"high","note":"Young Circle Park Hollywood"}
+{"qid":7646784,"place":"Kingston upon Thames","lat":51.4085,"lon":-0.3064,"precision":"city","confidence":"medium","note":"Surrey county hall"}
+{"qid":4601970,"place":"Colombia","lat":4.5709,"lon":-74.2973,"precision":"country","confidence":"high","note":"national race"}
+{"qid":4607214,"place":"New Delhi","lat":28.6139,"lon":77.209,"precision":"city","confidence":"high","note":"first cases New Delhi"}
+{"qid":106913150,"place":"Watford","lat":51.6565,"lon":-0.3903,"precision":"city","confidence":"high","note":"borough"}
+{"qid":5161513,"place":"Connecticut","lat":41.6032,"lon":-73.0877,"precision":"region","confidence":"low","note":"state primary"}
+{"qid":55139245,"place":"North Tyneside","lat":55.017,"lon":-1.485,"precision":"city","confidence":"medium","note":"borough"}
+{"qid":4622220,"place":"Sydney","lat":-33.8688,"lon":151.2093,"precision":"city","confidence":"medium","note":"Qantas HQ Sydney"}
+{"qid":5436100,"place":"Faroe Islands","lat":61.8926,"lon":-6.9118,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":3586906,"place":"Switzerland","lat":46.8182,"lon":8.2275,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":21061711,"place":"Middlesbrough","lat":54.5742,"lon":-1.235,"precision":"city","confidence":"high","note":"borough"}
+{"qid":6816073,"place":"Belgrade","lat":44.7866,"lon":20.4489,"precision":"city","confidence":"high","note":"championships host"}
+{"qid":8030490,"place":"Wolverhampton","lat":52.587,"lon":-2.1288,"precision":"city","confidence":"high","note":"city council"}
+{"qid":10548601,"place":"Rosengard","lat":55.574,"lon":13.042,"precision":"city","confidence":"high","note":"riots in Rosengard Malmo"}
+{"qid":96369541,"place":"Jamtland County","lat":63.1792,"lon":14.6357,"precision":"region","confidence":"high","note":"county election"}
+{"qid":4382265,"place":"Lviv","lat":49.8397,"lon":24.0297,"precision":"city","confidence":"medium","note":"Galicia capital"}
+{"qid":16800747,"place":"Falkland Islands","lat":-51.7963,"lon":-59.5236,"precision":"country","confidence":"high","note":"islands election"}
+{"qid":108888197,"place":"Ealing","lat":51.513,"lon":-0.3089,"precision":"city","confidence":"high","note":"London borough"}
+{"qid":8030479,"place":"Wolverhampton","lat":52.587,"lon":-2.1288,"precision":"city","confidence":"high","note":"council"}
+{"qid":115819007,"place":"Hong Kong Football Club Stadium","lat":22.27,"lon":114.19,"precision":"site","confidence":"high","note":"inaugural sevens venue"}
+{"qid":17514945,"place":"Castle Point","lat":51.556,"lon":0.57,"precision":"city","confidence":"medium","note":"borough"}
+{"qid":7832553,"place":"Trafford","lat":53.416,"lon":-2.355,"precision":"city","confidence":"medium","note":"borough"}
+{"qid":4855487,"place":"Dhaka","lat":23.8103,"lon":90.4125,"precision":"city","confidence":"medium","note":"Bangladesh capital"}

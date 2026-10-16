@@ -1,0 +1,50 @@
+{"qid":8030977,"place":"Budva","lat":42.2864,"lon":18.84,"precision":"city","confidence":"high","note":"championships in Budva"}
+{"qid":136412827,"place":"Qatar","lat":25.3548,"lon":51.1839,"precision":"country","confidence":"medium","note":"Arab Cup host"}
+{"qid":6065518,"place":"Ipswich","lat":52.0567,"lon":1.1482,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":125407871,"place":"Impact Arena","lat":13.91,"lon":100.548,"precision":"site","confidence":"high","note":"event at Impact Arena"}
+{"qid":110130711,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"global trend"}
+{"qid":65065741,"place":"Nathong Airport","lat":20.42,"lon":104.03,"precision":"site","confidence":"low","note":"crashed near Nathong"}
+{"qid":124309543,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"boxing promotion year"}
+{"qid":4791385,"place":"Arizona","lat":34.0489,"lon":-111.0937,"precision":"region","confidence":"high","note":"state primary"}
+{"qid":118113121,"place":"Edgbaston Priory Club","lat":52.465,"lon":-1.901,"precision":"site","confidence":"high","note":"event at Edgbaston Priory"}
+{"qid":28654180,"place":"Norway","lat":60.472,"lon":8.4689,"precision":"country","confidence":"high","note":"national stage race"}
+{"qid":6747353,"place":"Manchester","lat":53.4808,"lon":-2.2426,"precision":"city","confidence":"high","note":"city council election"}
+{"qid":124683213,"place":"Antalya","lat":36.8969,"lon":30.7133,"precision":"city","confidence":"high","note":"round robin in Antalya"}
+{"qid":56346768,"place":"Arena Corinthians","lat":-23.5453,"lon":-46.4742,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":7697871,"place":"Sweden","lat":60.1282,"lon":18.6435,"precision":"country","confidence":"high","note":"Swedish scandal"}
+{"qid":20055650,"place":"Runnymede","lat":51.38,"lon":-0.53,"precision":"region","confidence":"medium","note":"borough election"}
+{"qid":112072856,"place":"Newcastle-under-Lyme","lat":53.013,"lon":-2.226,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":5045279,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"extinct genus"}
+{"qid":10755041,"place":"Hanoi","lat":21.0285,"lon":105.8542,"precision":"city","confidence":"medium","note":"written in Hanoi"}
+{"qid":25022179,"place":"Guam","lat":13.4443,"lon":144.7937,"precision":"country","confidence":"high","note":"island election"}
+{"qid":120644156,"place":"Philippines","lat":12.8797,"lon":121.774,"precision":"country","confidence":"low","note":"formed near Philippines"}
+{"qid":135098592,"place":"Huntingdonshire","lat":52.33,"lon":-0.18,"precision":"region","confidence":"medium","note":"district election"}
+{"qid":7832543,"place":"Trafford","lat":53.419,"lon":-2.353,"precision":"region","confidence":"medium","note":"borough election"}
+{"qid":6266896,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"toy"}
+{"qid":112270634,"place":"Israel","lat":31.0461,"lon":34.8516,"precision":"country","confidence":"high","note":"municipal elections"}
+{"qid":114197786,"place":"United Nations Headquarters","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"high","note":"General Assembly Hall"}
+{"qid":48814755,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"national campaign"}
+{"qid":20648562,"place":"Warrington","lat":53.39,"lon":-2.597,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":112659315,"place":"Slough","lat":51.5105,"lon":-0.595,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":126009394,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"medium","note":"Giro finished in Rome"}
+{"qid":7934233,"place":"Virginia","lat":37.4316,"lon":-78.6569,"precision":"region","confidence":"high","note":"state primary"}
+{"qid":65053850,"place":"Bury, Greater Manchester","lat":53.5933,"lon":-2.2966,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":123080874,"place":"Exeter","lat":50.7184,"lon":-3.5339,"precision":"city","confidence":"high","note":"city council election"}
+{"qid":6797828,"place":"Torbay","lat":50.44,"lon":-3.53,"precision":"city","confidence":"high","note":"mayoralty of Torbay"}
+{"qid":116142531,"place":"Essex","lat":51.7343,"lon":0.4691,"precision":"region","confidence":"high","note":"county election"}
+{"qid":85723072,"place":"Alabama","lat":32.3182,"lon":-86.9023,"precision":"region","confidence":"high","note":"state Senate election"}
+{"qid":19689211,"place":"Aruba","lat":12.5211,"lon":-69.9683,"precision":"country","confidence":"high","note":"crashed on Aruba coast"}
+{"qid":56294987,"place":"Valais","lat":46.19,"lon":7.55,"precision":"region","confidence":"high","note":"accident in Valais Alps"}
+{"qid":96363657,"place":"Horsham District","lat":51.06,"lon":-0.33,"precision":"region","confidence":"medium","note":"district election"}
+{"qid":21189760,"place":"Springfield, Virginia","lat":38.7893,"lon":-77.1872,"precision":"city","confidence":"high","note":"shot in Springfield"}
+{"qid":111963343,"place":"Reading, Berkshire","lat":51.4543,"lon":-0.9781,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":132746266,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"low","note":"KHL drafts in Moscow"}
+{"qid":630,"place":"Lyon","lat":45.764,"lon":4.8357,"precision":"city","confidence":"high","note":"meeting in Lyon"}
+{"qid":562673,"place":"South Korea","lat":35.9078,"lon":127.7669,"precision":"country","confidence":"low","note":"World Cup in Korea and Japan"}
+{"qid":4867531,"place":"Basingstoke","lat":51.2665,"lon":-1.0924,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":55601109,"place":"Nice","lat":43.7102,"lon":7.262,"precision":"city","confidence":"high","note":"race started in Nice"}
+{"qid":7125558,"place":"Pakistan","lat":30.3753,"lon":69.3451,"precision":"country","confidence":"medium","note":"national team year"}
+{"qid":4585062,"place":"Australia","lat":-25.2744,"lon":133.7751,"precision":"country","confidence":"high","note":"national championship"}
+{"qid":7888932,"place":"United Nations Headquarters","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"high","note":"UN General Assembly in New York"}
+{"qid":20647695,"place":"Mansfield","lat":53.1456,"lon":-1.196,"precision":"city","confidence":"high","note":"district election"}
+{"qid":134531095,"place":"Malaysia","lat":4.2105,"lon":101.9758,"precision":"country","confidence":"high","note":"attacks across Malaysia"}

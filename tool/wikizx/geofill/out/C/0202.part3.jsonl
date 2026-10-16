@@ -1,0 +1,50 @@
+{"qid":28179468,"place":"India","lat":20.5937,"lon":78.9629,"precision":"country","confidence":"high","note":"Indian currency unit"}
+{"qid":7892639,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"high","note":"national election"}
+{"qid":104406928,"place":"Region of Murcia","lat":38.0,"lon":-1.5,"precision":"region","confidence":"high","note":"race in Murcia"}
+{"qid":7101060,"place":"Oregon","lat":43.8041,"lon":-120.5542,"precision":"region","confidence":"high","note":"state ballot"}
+{"qid":28163591,"place":"Malaysia","lat":4.2105,"lon":101.9758,"precision":"country","confidence":"high","note":"Malaysian law"}
+{"qid":104947151,"place":"Utah","lat":39.321,"lon":-111.0937,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7569519,"place":"Southend-on-Sea","lat":51.5459,"lon":0.7077,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":41516381,"place":"Varese","lat":45.8206,"lon":8.8251,"precision":"city","confidence":"medium","note":"Tre Valli Varesine race"}
+{"qid":2558716,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"commemorative day"}
+{"qid":85723871,"place":"Louisiana","lat":30.9843,"lon":-91.9623,"precision":"region","confidence":"high","note":"state election"}
+{"qid":115801869,"place":"Maldon District","lat":51.73,"lon":0.68,"precision":"region","confidence":"medium","note":"district election"}
+{"qid":3681730,"place":"San Sebastián","lat":43.3183,"lon":-1.9812,"precision":"city","confidence":"high","note":"race start and finish"}
+{"qid":24909477,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"high","note":"national debates"}
+{"qid":846575,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"qualification"}
+{"qid":112270632,"place":"Israel","lat":31.0461,"lon":34.8516,"precision":"country","confidence":"high","note":"nationwide municipal elections"}
+{"qid":112132218,"place":"Worcester, England","lat":52.1936,"lon":-2.2216,"precision":"city","confidence":"high","note":"city council"}
+{"qid":14310471,"place":"Dhaka","lat":23.8103,"lon":90.4125,"precision":"city","confidence":"high","note":"parliament elects president"}
+{"qid":7639721,"place":"Sunderland","lat":54.9069,"lon":-1.3838,"precision":"city","confidence":"high","note":"city council"}
+{"qid":2446399,"place":"Rheinfelden","lat":47.5547,"lon":7.7928,"precision":"city","confidence":"high","note":"race start"}
+{"qid":55600983,"place":"Schoten","lat":51.25,"lon":4.5,"precision":"city","confidence":"low","note":"Scheldeprijs race"}
+{"qid":65069183,"place":"Chorley","lat":53.653,"lon":-2.632,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":16532374,"place":"Bogoroditsk","lat":53.77,"lon":38.13,"precision":"city","confidence":"high","note":"incident near Bogoroditsk"}
+{"qid":17510922,"place":"Bolsover","lat":53.23,"lon":-1.29,"precision":"city","confidence":"high","note":"district election"}
+{"qid":6720063,"place":"Islay","lat":55.78,"lon":-6.2,"precision":"region","confidence":"high","note":"served Islay ferry route"}
+{"qid":43716,"place":"Aysén Region","lat":-45.4,"lon":-72.7,"precision":"region","confidence":"high","note":"protests in Aysen"}
+{"qid":2495903,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"commemorative day"}
+{"qid":5290862,"place":"Dominica","lat":15.415,"lon":-61.371,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":91932685,"place":"Stockport","lat":53.4083,"lon":-2.1494,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":130305684,"place":"Mexico","lat":23.6345,"lon":-102.5528,"precision":"country","confidence":"high","note":"Mexican league"}
+{"qid":116007706,"place":"Marseille","lat":43.2965,"lon":5.3698,"precision":"city","confidence":"high","note":"race in Marseille"}
+{"qid":20805388,"place":"Lansdowne Club","lat":51.5088,"lon":-0.1458,"precision":"site","confidence":"high","note":"club venue"}
+{"qid":117357838,"place":"South Hams","lat":50.36,"lon":-3.8,"precision":"region","confidence":"high","note":"district election"}
+{"qid":48817563,"place":"Birmingham","lat":52.4862,"lon":-1.8904,"precision":"city","confidence":"high","note":"festival in Birmingham"}
+{"qid":17000982,"place":"Sittard","lat":51.0,"lon":5.87,"precision":"city","confidence":"high","note":"race start Sittard"}
+{"qid":4921782,"place":"Scotland","lat":56.4907,"lon":-4.2026,"precision":"country","confidence":"high","note":"storm in Scotland"}
+{"qid":18916605,"place":"Cyprus","lat":35.1264,"lon":33.4299,"precision":"country","confidence":"high","note":"Cypriot union"}
+{"qid":3587324,"place":"France","lat":46.2276,"lon":2.2137,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":120400008,"place":"Malaysia","lat":4.2105,"lon":101.9758,"precision":"country","confidence":"high","note":"Malaysian league"}
+{"qid":5761719,"place":"Santa Catarina, Nuevo León","lat":25.6733,"lon":-100.4583,"precision":"city","confidence":"high","note":"campus location"}
+{"qid":7061244,"place":"Norway","lat":60.472,"lon":8.4689,"precision":"country","confidence":"high","note":"Sami parliament election"}
+{"qid":2446352,"place":"Kuala Lumpur","lat":3.139,"lon":101.6869,"precision":"city","confidence":"medium","note":"race start"}
+{"qid":47005940,"place":"Canberra","lat":-35.2809,"lon":149.13,"precision":"city","confidence":"high","note":"caucus meeting"}
+{"qid":16951096,"place":"St Helens, Merseyside","lat":53.4535,"lon":-2.737,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":17493607,"place":"Switzerland","lat":46.8182,"lon":8.2275,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":28403408,"place":"Tendring","lat":51.85,"lon":1.15,"precision":"region","confidence":"high","note":"district election"}
+{"qid":1851684,"place":"Ghent","lat":51.0543,"lon":3.7174,"precision":"city","confidence":"high","note":"start in Ghent"}
+{"qid":8050914,"place":"Vatican City","lat":41.9029,"lon":12.4534,"precision":"country","confidence":"medium","note":"Catholic liturgical year"}
+{"qid":7682501,"place":"Tandridge","lat":51.27,"lon":-0.06,"precision":"region","confidence":"medium","note":"district election"}
+{"qid":4999990,"place":"Burnley","lat":53.7893,"lon":-2.2405,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":140502358,"place":"Lima","lat":-12.0464,"lon":-77.0428,"precision":"city","confidence":"high","note":"host city"}

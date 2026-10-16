@@ -1,0 +1,50 @@
+{"qid":85724296,"place":"Stevenage","lat":51.9038,"lon":-0.202,"precision":"city","confidence":"high","note":"council"}
+{"qid":19903093,"place":"Turkey","lat":38.9637,"lon":35.2433,"precision":"country","confidence":"high","note":"nationwide blackout"}
+{"qid":17015319,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"stamps"}
+{"qid":136148509,"place":"Chelmsford","lat":51.7356,"lon":0.4685,"precision":"city","confidence":"high","note":"council"}
+{"qid":7701671,"place":"Royal Society","lat":51.5069,"lon":-0.1337,"precision":"site","confidence":"medium","note":"lectures in London"}
+{"qid":5311313,"place":"Palace of Westminster","lat":51.4994,"lon":-0.1248,"precision":"site","confidence":"medium","note":"Parliament act"}
+{"qid":19832826,"place":"Waregem","lat":50.8883,"lon":3.4272,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":8030949,"place":"Belgrade","lat":44.7866,"lon":20.4489,"precision":"city","confidence":"high","note":"championships in Belgrade"}
+{"qid":4617991,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"list"}
+{"qid":85719967,"place":"Philadelphia","lat":39.9526,"lon":-75.1652,"precision":"city","confidence":"high","note":"struck Philadelphia"}
+{"qid":55089014,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"medium","note":"murder in NYC"}
+{"qid":61075853,"place":"Ankara","lat":39.9334,"lon":32.8597,"precision":"city","confidence":"high","note":"murder in Ankara"}
+{"qid":96367532,"place":"Bath, Somerset","lat":51.3811,"lon":-2.359,"precision":"city","confidence":"high","note":"council"}
+{"qid":132353940,"place":"Radzymin","lat":52.42,"lon":21.176,"precision":"city","confidence":"medium","note":"qualification host"}
+{"qid":1474466,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"paging system"}
+{"qid":41779630,"place":"Southwell, Nottinghamshire","lat":53.077,"lon":-0.954,"precision":"city","confidence":"medium","note":"cultivar origin"}
+{"qid":24060263,"place":"Oldham","lat":53.5409,"lon":-2.1114,"precision":"city","confidence":"high","note":"council"}
+{"qid":63440302,"place":"Oviedo","lat":43.3614,"lon":-5.8593,"precision":"city","confidence":"medium","note":"race start"}
+{"qid":5935874,"place":"Kingston upon Hull","lat":53.7676,"lon":-0.3274,"precision":"city","confidence":"high","note":"council"}
+{"qid":10893876,"place":"Mount Papandayan","lat":-7.32,"lon":107.73,"precision":"site","confidence":"high","note":"crash site"}
+{"qid":50816688,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"journal"}
+{"qid":110624824,"place":"Gwangju","lat":35.1595,"lon":126.8526,"precision":"city","confidence":"high","note":"collapse in Gwangju"}
+{"qid":116181686,"place":"Occitania (administrative region)","lat":43.6,"lon":1.4,"precision":"region","confidence":"low","note":"race region"}
+{"qid":20805431,"place":"Sydenham","lat":51.426,"lon":-0.054,"precision":"city","confidence":"medium","note":"BP Club venue"}
+{"qid":85723181,"place":"Michigan","lat":44.3148,"lon":-85.6024,"precision":"region","confidence":"medium","note":"statewide"}
+{"qid":11700439,"place":"New Mexico","lat":34.5199,"lon":-105.8701,"precision":"region","confidence":"medium","note":"statewide"}
+{"qid":5198778,"place":"Fiji","lat":-17.7134,"lon":178.065,"precision":"country","confidence":"low","note":"affected islands"}
+{"qid":2249881,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"history topic"}
+{"qid":3996111,"place":"Zürich","lat":47.3769,"lon":8.5417,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":64605546,"place":"Switzerland","lat":46.8182,"lon":8.2275,"precision":"country","confidence":"high","note":"nationwide strike"}
+{"qid":7084782,"place":"Royal Opera House","lat":51.5129,"lon":-0.1224,"precision":"site","confidence":"high","note":"Covent Garden theatre"}
+{"qid":17088897,"place":"Canada","lat":56.1304,"lon":-106.3468,"precision":"country","confidence":"medium","note":"national election"}
+{"qid":16057298,"place":"Borneo","lat":0.9619,"lon":114.5548,"precision":"region","confidence":"medium","note":"Malaysia race region"}
+{"qid":3722440,"place":"Italy","lat":41.8719,"lon":12.5674,"precision":"country","confidence":"medium","note":"nationwide"}
+{"qid":136913681,"place":"Australia","lat":-25.2744,"lon":133.7751,"precision":"country","confidence":"medium","note":"host country"}
+{"qid":7820778,"place":"Tonbridge","lat":51.196,"lon":0.274,"precision":"city","confidence":"medium","note":"council area"}
+{"qid":42851477,"place":"Ilkeston","lat":52.972,"lon":-1.307,"precision":"city","confidence":"medium","note":"Erewash seat"}
+{"qid":4549110,"place":"Tilburg","lat":51.5555,"lon":5.0913,"precision":"city","confidence":"high","note":"race start"}
+{"qid":4633427,"place":"Denmark","lat":56.2639,"lon":9.5018,"precision":"country","confidence":"medium","note":"occupied Denmark"}
+{"qid":139761238,"place":"Thammasat Stadium","lat":14.076,"lon":100.602,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":7171121,"place":"Peru","lat":-9.19,"lon":-75.0152,"precision":"country","confidence":"medium","note":"formation in Peru"}
+{"qid":131544335,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"medium","note":"awards"}
+{"qid":65049689,"place":"Basingstoke","lat":51.2665,"lon":-1.0924,"precision":"city","confidence":"high","note":"council"}
+{"qid":30540041,"place":"Las Malvinas","lat":-12.06,"lon":-77.015,"precision":"city","confidence":"medium","note":"shopping centre Lima"}
+{"qid":19870076,"place":"Ealing","lat":51.513,"lon":-0.305,"precision":"city","confidence":"high","note":"borough"}
+{"qid":16957640,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"list"}
+{"qid":56064251,"place":"North Antrim (UK Parliament constituency)","lat":54.9,"lon":-6.3,"precision":"region","confidence":"medium","note":"recall petition"}
+{"qid":6544011,"place":"Liechtenstein","lat":47.166,"lon":9.5554,"precision":"country","confidence":"medium","note":"nationwide"}
+{"qid":19832825,"place":"Waregem","lat":50.8883,"lon":3.4272,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":124017011,"place":"Switzerland","lat":46.8182,"lon":8.2275,"precision":"country","confidence":"medium","note":"Romandie race"}

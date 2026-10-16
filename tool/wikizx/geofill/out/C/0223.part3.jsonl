@@ -1,0 +1,50 @@
+{"qid":7622369,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"high","note":"riot in NYC"}
+{"qid":24039383,"place":"Daventry","lat":52.257,"lon":-1.162,"precision":"city","confidence":"high","note":"district"}
+{"qid":47011900,"place":"Denain","lat":50.3258,"lon":3.3944,"precision":"city","confidence":"high","note":"race start finish"}
+{"qid":25221579,"place":"Izmir","lat":38.4237,"lon":27.1428,"precision":"city","confidence":"high","note":"host city"}
+{"qid":4882536,"place":"Brussels","lat":50.8503,"lon":4.3517,"precision":"city","confidence":"medium","note":"Belgian capital"}
+{"qid":16351063,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"animation"}
+{"qid":104947961,"place":"Tennessee","lat":35.86,"lon":-86.66,"precision":"region","confidence":"low","note":"state election"}
+{"qid":27957839,"place":"Edinburgh","lat":55.9533,"lon":-3.1883,"precision":"city","confidence":"high","note":"city council"}
+{"qid":19873639,"place":"Gravesend","lat":51.441,"lon":0.371,"precision":"city","confidence":"high","note":"borough"}
+{"qid":48734923,"place":"Vatican City","lat":41.9029,"lon":12.4534,"precision":"city","confidence":"medium","note":"Holy See"}
+{"qid":19869897,"place":"Barnet","lat":51.6252,"lon":-0.1517,"precision":"city","confidence":"high","note":"London borough"}
+{"qid":17038568,"place":"Maidenhead","lat":51.5226,"lon":-0.72,"precision":"city","confidence":"medium","note":"borough seat"}
+{"qid":4763663,"place":"Berlin","lat":52.52,"lon":13.405,"precision":"city","confidence":"low","note":"signed in Berlin"}
+{"qid":3716799,"place":"Waregem","lat":50.8882,"lon":3.4272,"precision":"city","confidence":"high","note":"race finish"}
+{"qid":1792603,"place":"Reykjavik","lat":64.1466,"lon":-21.9426,"precision":"city","confidence":"medium","note":"Iceland capital"}
+{"qid":24993442,"place":"Ayr","lat":55.4586,"lon":-4.6292,"precision":"city","confidence":"medium","note":"South Ayrshire seat"}
+{"qid":20128019,"place":"Redcar","lat":54.617,"lon":-1.071,"precision":"city","confidence":"medium","note":"borough"}
+{"qid":24039305,"place":"Wirral","lat":53.3727,"lon":-3.0738,"precision":"city","confidence":"medium","note":"borough"}
+{"qid":50820510,"place":"Waregem","lat":50.8882,"lon":3.4272,"precision":"city","confidence":"high","note":"race start finish"}
+{"qid":28927471,"place":"Drenthe","lat":52.9476,"lon":6.6231,"precision":"region","confidence":"high","note":"race province"}
+{"qid":96368979,"place":"Canberra","lat":-35.2809,"lon":149.13,"precision":"city","confidence":"low","note":"Capitals home"}
+{"qid":129084721,"place":"Denmark","lat":56.2639,"lon":9.5018,"precision":"country","confidence":"high","note":"national race"}
+{"qid":24039310,"place":"Stroud","lat":51.745,"lon":-2.218,"precision":"city","confidence":"high","note":"district"}
+{"qid":16986921,"place":"Kingston upon Thames","lat":51.4085,"lon":-0.3064,"precision":"city","confidence":"medium","note":"Surrey county hall"}
+{"qid":7892010,"place":"South Carolina","lat":33.8361,"lon":-81.1637,"precision":"region","confidence":"low","note":"state election"}
+{"qid":7982146,"place":"Welwyn Garden City","lat":51.804,"lon":-0.206,"precision":"city","confidence":"medium","note":"council seat"}
+{"qid":7893108,"place":"Vermont","lat":44.5588,"lon":-72.5778,"precision":"region","confidence":"low","note":"state election"}
+{"qid":86677296,"place":"British Columbia","lat":53.7267,"lon":-127.6476,"precision":"region","confidence":"high","note":"province"}
+{"qid":104947926,"place":"Oklahoma","lat":35.4676,"lon":-97.5164,"precision":"region","confidence":"low","note":"state election"}
+{"qid":56563944,"place":"Luzon","lat":16.0,"lon":121.0,"precision":"region","confidence":"medium","note":"northern Philippines flooding"}
+{"qid":20711755,"place":"Christchurch, Dorset","lat":50.735,"lon":-1.78,"precision":"city","confidence":"high","note":"borough"}
+{"qid":19869873,"place":"Hammersmith","lat":51.4927,"lon":-0.2339,"precision":"city","confidence":"high","note":"London borough"}
+{"qid":19869850,"place":"Barking, London","lat":51.5397,"lon":0.0807,"precision":"city","confidence":"high","note":"London borough"}
+{"qid":17514933,"place":"Castle Point","lat":51.556,"lon":0.57,"precision":"city","confidence":"medium","note":"borough"}
+{"qid":5413231,"place":"Amsterdam","lat":52.3676,"lon":4.9041,"precision":"city","confidence":"high","note":"Endemol Studios Amsterdam"}
+{"qid":48851955,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"high","note":"Supreme Court"}
+{"qid":136528379,"place":"Portugal","lat":39.3999,"lon":-8.2245,"precision":"country","confidence":"high","note":"central and north Portugal"}
+{"qid":117442268,"place":"Lowestoft","lat":52.475,"lon":1.751,"precision":"city","confidence":"medium","note":"East Suffolk seat"}
+{"qid":4607115,"place":"Colombia","lat":4.5709,"lon":-74.2973,"precision":"country","confidence":"high","note":"national race"}
+{"qid":111952399,"place":"Cleveland","lat":41.4993,"lon":-81.6944,"precision":"city","confidence":"high","note":"Cuyahoga County"}
+{"qid":48969205,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"astronomical event"}
+{"qid":26263271,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"high","note":"national election"}
+{"qid":7162433,"place":"Nelson, Lancashire","lat":53.835,"lon":-2.215,"precision":"city","confidence":"medium","note":"Pendle seat"}
+{"qid":16259026,"place":"Camden Town","lat":51.539,"lon":-0.1426,"precision":"city","confidence":"medium","note":"Camden borough"}
+{"qid":5443498,"place":"March, Cambridgeshire","lat":52.551,"lon":0.089,"precision":"city","confidence":"medium","note":"Fenland seat"}
+{"qid":16850151,"place":"Talcahuano","lat":-36.7167,"lon":-73.1167,"precision":"city","confidence":"high","note":"San Vicente Bay"}
+{"qid":7634550,"place":"Ipswich","lat":52.0567,"lon":1.1482,"precision":"city","confidence":"medium","note":"Suffolk county hall"}
+{"qid":2080643,"place":"Venezuela","lat":6.4238,"lon":-66.5897,"precision":"country","confidence":"high","note":"Venezuelan houses"}
+{"qid":18168313,"place":"Nova Scotia","lat":45.0,"lon":-63.0,"precision":"region","confidence":"low","note":"Le Loutre's War"}
+{"qid":6537310,"place":"Lewisham","lat":51.4452,"lon":-0.0209,"precision":"city","confidence":"high","note":"London borough"}

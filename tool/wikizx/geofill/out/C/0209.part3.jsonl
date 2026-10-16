@@ -1,0 +1,50 @@
+{"qid":124260100,"place":"Reykjavík","lat":64.1466,"lon":-21.9426,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":5142082,"place":"Colchester","lat":51.8959,"lon":0.8919,"precision":"city","confidence":"high","note":"council area"}
+{"qid":24039350,"place":"Milton Keynes","lat":52.0406,"lon":-0.7594,"precision":"city","confidence":"high","note":"council area"}
+{"qid":1345548,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"medium","note":"German law"}
+{"qid":1470931,"place":"Wiesbaden","lat":50.0782,"lon":8.2398,"precision":"city","confidence":"medium","note":"Hesse state capital"}
+{"qid":17172959,"place":"Zürich","lat":47.3769,"lon":8.5417,"precision":"city","confidence":"high","note":"race host"}
+{"qid":139325807,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"architectural topic"}
+{"qid":5098824,"place":"Santiago","lat":-33.4489,"lon":-70.6693,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":7888927,"place":"United Nations Headquarters","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"high","note":"held at UN HQ"}
+{"qid":3712673,"place":"Dominica","lat":15.415,"lon":-61.371,"precision":"country","confidence":"medium","note":"colony currency"}
+{"qid":97379220,"place":"Japan","lat":36.2048,"lon":138.2529,"precision":"country","confidence":"medium","note":"typhoon hit Japan"}
+{"qid":139856319,"place":"Montgomery, Alabama","lat":32.3792,"lon":-86.3077,"precision":"city","confidence":"high","note":"tornado hit Montgomery"}
+{"qid":12682327,"place":"Malaysia","lat":4.2105,"lon":101.9758,"precision":"country","confidence":"medium","note":"Malaysian law"}
+{"qid":139855881,"place":"China","lat":35.8617,"lon":104.1954,"precision":"country","confidence":"medium","note":"tournament host"}
+{"qid":102115687,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"virtual event"}
+{"qid":133258632,"place":"Israel","lat":31.0461,"lon":34.8516,"precision":"country","confidence":"medium","note":"October 7 attacks"}
+{"qid":115802752,"place":"King's Lynn","lat":52.754,"lon":0.395,"precision":"city","confidence":"high","note":"council area"}
+{"qid":4604189,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"medium","note":"kart race in Brazil"}
+{"qid":126264916,"place":"California","lat":36.7783,"lon":-119.4179,"precision":"region","confidence":"medium","note":"statewide"}
+{"qid":4608934,"place":"Daytona International Speedway","lat":29.1851,"lon":-81.0705,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":2998927,"place":"Kinshasa","lat":-4.4419,"lon":15.2663,"precision":"city","confidence":"medium","note":"alleged coup against Kabila"}
+{"qid":118143855,"place":"Sandwell","lat":52.509,"lon":-2.01,"precision":"city","confidence":"high","note":"council area"}
+{"qid":106912966,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"joint declaration"}
+{"qid":86677229,"place":"Luxembourg City","lat":49.6116,"lon":6.1319,"precision":"city","confidence":"medium","note":"Chamber of Deputies"}
+{"qid":7832546,"place":"Trafford","lat":53.42,"lon":-2.35,"precision":"region","confidence":"medium","note":"council area"}
+{"qid":106537564,"place":"North Northamptonshire","lat":52.4,"lon":-0.69,"precision":"region","confidence":"medium","note":"council area"}
+{"qid":11105581,"place":"Linnan","lat":36.5,"lon":114.5,"precision":"region","confidence":"low","note":"Eighth Route Army battle"}
+{"qid":96622436,"place":"Berlin","lat":52.52,"lon":13.405,"precision":"city","confidence":"medium","note":"federal law signed there"}
+{"qid":139552522,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"play-off group"}
+{"qid":19866650,"place":"Memphis, Tennessee","lat":35.1495,"lon":-90.049,"precision":"city","confidence":"low","note":"death case"}
+{"qid":2861174,"place":"France","lat":46.2276,"lon":2.2137,"precision":"country","confidence":"medium","note":"developed in France"}
+{"qid":54817929,"place":"Wigan","lat":53.5448,"lon":-2.6318,"precision":"city","confidence":"high","note":"council area"}
+{"qid":85723718,"place":"Budapest","lat":47.4979,"lon":19.0402,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":55314558,"place":"Easter Island","lat":-27.1127,"lon":-109.3497,"precision":"region","confidence":"medium","note":"affected Easter Island"}
+{"qid":23305688,"place":"Aberdeen","lat":57.1497,"lon":-2.0943,"precision":"city","confidence":"high","note":"council area"}
+{"qid":28859572,"place":"Queensland","lat":-20.9176,"lon":142.7028,"precision":"region","confidence":"medium","note":"North Queensland coast"}
+{"qid":16168991,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"holiday convergence"}
+{"qid":7891455,"place":"Delaware","lat":39.1582,"lon":-75.5244,"precision":"region","confidence":"medium","note":"statewide"}
+{"qid":3853725,"place":"Italy","lat":41.8719,"lon":12.5674,"precision":"country","confidence":"medium","note":"Italian teletext"}
+{"qid":24993573,"place":"Angus, Scotland","lat":56.73,"lon":-2.92,"precision":"region","confidence":"medium","note":"council area"}
+{"qid":131765230,"place":"West Bandung Regency","lat":-6.85,"lon":107.48,"precision":"region","confidence":"medium","note":"chemical spill"}
+{"qid":6541263,"place":"Monrovia","lat":6.3156,"lon":-10.8074,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":20787939,"place":"Peugeot","lat":47.591,"lon":6.833,"precision":"city","confidence":"low","note":"manufactured by Peugeot"}
+{"qid":4709464,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"round-world expedition"}
+{"qid":891889,"place":"Luxembourg","lat":49.8153,"lon":6.1296,"precision":"country","confidence":"medium","note":"bomb attacks in Luxembourg"}
+{"qid":1643281,"place":"Stein, Lower Austria","lat":48.41,"lon":15.6,"precision":"city","confidence":"medium","note":"Stein prison killings"}
+{"qid":39060324,"place":"Tennessee","lat":35.5175,"lon":-86.5804,"precision":"region","confidence":"medium","note":"statewide"}
+{"qid":128986908,"place":"Pietermaritzburg","lat":-29.6006,"lon":30.3794,"precision":"city","confidence":"medium","note":"Comrades course start"}
+{"qid":115518150,"place":"Lebanon","lat":33.8547,"lon":35.8623,"precision":"country","confidence":"medium","note":"outbreak in Lebanon"}
+{"qid":7492641,"place":"Sheffield","lat":53.3811,"lon":-1.4701,"precision":"city","confidence":"high","note":"council area"}

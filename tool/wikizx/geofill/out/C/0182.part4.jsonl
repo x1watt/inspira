@@ -1,0 +1,50 @@
+{"qid":7901450,"place":"Montevideo","lat":-34.9011,"lon":-56.1645,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":60969188,"place":"Boston","lat":42.3601,"lon":-71.0589,"precision":"city","confidence":"medium","note":"body found near Boston"}
+{"qid":16957456,"place":"Ottawa","lat":45.4215,"lon":-75.6972,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":7999535,"place":"Wigan","lat":53.5448,"lon":-2.6318,"precision":"city","confidence":"high","note":"council area"}
+{"qid":475275,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"fictional character"}
+{"qid":5614305,"place":"Guatemala City","lat":14.6349,"lon":-90.5069,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":1961062,"place":"Naaldwijk","lat":51.995,"lon":4.2,"precision":"city","confidence":"low","note":"race start"}
+{"qid":48977438,"place":"Richmond, Virginia","lat":37.5407,"lon":-77.436,"precision":"city","confidence":"medium","note":"state capital"}
+{"qid":6706350,"place":"Luxembourg","lat":49.8153,"lon":6.1296,"precision":"country","confidence":"medium","note":"nationwide communal elections"}
+{"qid":109352525,"place":"Beijing","lat":39.9042,"lon":116.4074,"precision":"city","confidence":"high","note":"Games held in Beijing"}
+{"qid":27958080,"place":"Truro","lat":50.2632,"lon":-5.051,"precision":"city","confidence":"medium","note":"Cornwall council seat"}
+{"qid":11225279,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"web service"}
+{"qid":4617053,"place":"Deganga","lat":22.7,"lon":88.68,"precision":"city","confidence":"medium","note":"riots at Deganga"}
+{"qid":55601691,"place":"Eijsden","lat":50.7767,"lon":5.6842,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":6747357,"place":"Manchester","lat":53.4808,"lon":-2.2426,"precision":"city","confidence":"high","note":"council area"}
+{"qid":14740228,"place":"Toluca","lat":19.2826,"lon":-99.6557,"precision":"city","confidence":"medium","note":"tournament in Toluca"}
+{"qid":17016788,"place":"Providence, Rhode Island","lat":41.824,"lon":-71.4128,"precision":"city","confidence":"medium","note":"state capital"}
+{"qid":19869980,"place":"London Borough of Hammersmith and Fulham","lat":51.4927,"lon":-0.2339,"precision":"city","confidence":"high","note":"borough"}
+{"qid":4119033,"place":"Sicily","lat":37.5999,"lon":14.0154,"precision":"region","confidence":"high","note":"island expulsion"}
+{"qid":1735590,"place":"Salou","lat":41.0765,"lon":1.1417,"precision":"city","confidence":"low","note":"race start"}
+{"qid":6407824,"place":"Mountain Meadows massacre","lat":37.475,"lon":-113.645,"precision":"site","confidence":"medium","note":"massacre site"}
+{"qid":24907675,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"polling topic"}
+{"qid":5430672,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"medium","note":"national election"}
+{"qid":117462857,"place":"Market Harborough","lat":52.478,"lon":-0.921,"precision":"city","confidence":"medium","note":"Harborough council seat"}
+{"qid":28828090,"place":"Umm al-Hiran","lat":31.1017,"lon":35.0372,"precision":"city","confidence":"low","note":"police raid village"}
+{"qid":611153,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"year list"}
+{"qid":116266519,"place":"Jaén, Spain","lat":37.7796,"lon":-3.7849,"precision":"city","confidence":"medium","note":"race in Jaén province"}
+{"qid":4609545,"place":"Colombia","lat":4.5709,"lon":-74.2973,"precision":"country","confidence":"medium","note":"national race"}
+{"qid":85728266,"place":"Cebu City","lat":10.3157,"lon":123.8854,"precision":"city","confidence":"high","note":"city elections"}
+{"qid":15709414,"place":"Harare","lat":-17.8252,"lon":31.0335,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":7888121,"place":"United Kingdom","lat":54.0,"lon":-2.0,"precision":"country","confidence":"medium","note":"nationwide elections"}
+{"qid":116312169,"place":"Cambridge, Massachusetts","lat":42.3736,"lon":-71.1097,"precision":"city","confidence":"high","note":"Harvard University"}
+{"qid":7129997,"place":"Panama City","lat":8.9824,"lon":-79.5199,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":107863182,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"global timeline"}
+{"qid":7568699,"place":"South Shields","lat":54.9986,"lon":-1.4323,"precision":"city","confidence":"medium","note":"council seat"}
+{"qid":3408645,"place":"Tehran","lat":35.6892,"lon":51.389,"precision":"city","confidence":"high","note":"conference in Tehran"}
+{"qid":7888920,"place":"United Nations Headquarters","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"medium","note":"General Assembly session"}
+{"qid":118875328,"place":"Fiji","lat":-17.7134,"lon":178.065,"precision":"country","confidence":"low","note":"Fijian tournament"}
+{"qid":7974603,"place":"Watford","lat":51.6565,"lon":-0.3903,"precision":"city","confidence":"high","note":"council area"}
+{"qid":65086795,"place":"Corby","lat":52.488,"lon":-0.689,"precision":"city","confidence":"high","note":"council area"}
+{"qid":5516537,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"camogie competition"}
+{"qid":16987036,"place":"Daventry","lat":52.257,"lon":-1.162,"precision":"city","confidence":"high","note":"council area"}
+{"qid":55642491,"place":"Lansing, Michigan","lat":42.7325,"lon":-84.5555,"precision":"city","confidence":"medium","note":"state capital"}
+{"qid":124168828,"place":"Czech Republic","lat":49.8175,"lon":15.473,"precision":"country","confidence":"high","note":"national stage race"}
+{"qid":7887452,"place":"Abu Dhabi","lat":24.4539,"lon":54.3773,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":2002339,"place":"Cave Junction, Oregon","lat":42.1629,"lon":-123.6475,"precision":"city","confidence":"low","note":"Oregon Institute base"}
+{"qid":130310079,"place":"Ipswich","lat":52.0567,"lon":1.1482,"precision":"city","confidence":"medium","note":"Suffolk council seat"}
+{"qid":20648320,"place":"Atherstone","lat":52.5762,"lon":-1.553,"precision":"city","confidence":"medium","note":"council seat"}
+{"qid":23889295,"place":"Grenoble","lat":45.1885,"lon":5.7245,"precision":"city","confidence":"high","note":"race start"}
+{"qid":110269803,"place":"Cheltenham","lat":51.8994,"lon":-2.0783,"precision":"city","confidence":"high","note":"council area"}

@@ -1,0 +1,50 @@
+{"qid":136171419,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"host unknown"}
+{"qid":25349940,"place":"Virginia","lat":37.4316,"lon":-78.6569,"precision":"region","confidence":"high","note":"state ballot"}
+{"qid":5599747,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"phenol plot in US"}
+{"qid":97353861,"place":"Brentwood, Essex","lat":51.621,"lon":0.305,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":2520409,"place":"Slovenia","lat":46.1512,"lon":14.9955,"precision":"country","confidence":"high","note":"national stage race"}
+{"qid":5828577,"place":"Buenos Aires","lat":-34.6037,"lon":-58.3816,"precision":"city","confidence":"high","note":"Argentine capital"}
+{"qid":10989376,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"high","note":"1924 Olympics host"}
+{"qid":476459,"place":"France","lat":46.2276,"lon":2.2137,"precision":"country","confidence":"high","note":"national cup"}
+{"qid":7370426,"place":"Rotherham","lat":53.4326,"lon":-1.3635,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":121365617,"place":"Strait of Taiwan","lat":24.5,"lon":119.5,"precision":"region","confidence":"low","note":"race from Foochow, defining leg"}
+{"qid":4837782,"place":"Babergh","lat":52.03,"lon":0.95,"precision":"region","confidence":"medium","note":"district election"}
+{"qid":1419983,"place":"Frankfurt","lat":50.1109,"lon":8.6821,"precision":"city","confidence":"high","note":"issued in Frankfurt"}
+{"qid":29572115,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"multi-country group"}
+{"qid":126066696,"place":"Houston","lat":29.7604,"lon":-95.3698,"precision":"city","confidence":"high","note":"derecho struck Houston"}
+{"qid":28224435,"place":"Nasevou","lat":-17.7,"lon":178.0,"precision":"city","confidence":"low","note":"crash near Nasevou"}
+{"qid":19818562,"place":"Dartford","lat":51.446,"lon":0.216,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":7891703,"place":"Nebraska","lat":41.4925,"lon":-99.9018,"precision":"region","confidence":"high","note":"state Senate election"}
+{"qid":134722260,"place":"Gulzar Houz","lat":17.3616,"lon":78.4747,"precision":"site","confidence":"high","note":"fire at Gulzar Houz"}
+{"qid":97761602,"place":"Occitanie","lat":43.6,"lon":2.0,"precision":"region","confidence":"high","note":"race in Occitanie"}
+{"qid":96369750,"place":"Selby District","lat":53.78,"lon":-1.07,"precision":"region","confidence":"medium","note":"district election"}
+{"qid":7891780,"place":"Albany, New York","lat":42.6526,"lon":-73.7562,"precision":"city","confidence":"medium","note":"state legislature seat"}
+{"qid":456085,"place":"London","lat":51.5072,"lon":-0.1276,"precision":"city","confidence":"high","note":"made in Billiter Street"}
+{"qid":17513990,"place":"Virginia","lat":37.4316,"lon":-78.6569,"precision":"region","confidence":"high","note":"state Senate election"}
+{"qid":110361801,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"global timeline"}
+{"qid":48749403,"place":"Tokyo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"medium","note":"party election in Tokyo"}
+{"qid":2883476,"place":"Edo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"medium","note":"suppression in Edo"}
+{"qid":65083088,"place":"United Kingdom","lat":55.3781,"lon":-3.436,"precision":"country","confidence":"medium","note":"UK tour"}
+{"qid":16474107,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"medium","note":"published in New York"}
+{"qid":19870103,"place":"Waltham Forest","lat":51.5886,"lon":-0.0118,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":7369776,"place":"Rossendale","lat":53.62,"lon":-2.29,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":21489876,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"medium","note":"main state visit in capital"}
+{"qid":140134372,"place":"Estadio Mario Alberto Kempes","lat":-31.3667,"lon":-64.25,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":625871,"place":"Gangneung","lat":37.7519,"lon":128.8761,"precision":"city","confidence":"medium","note":"flight departed Gangneung"}
+{"qid":5105158,"place":"Chorley","lat":53.653,"lon":-2.632,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":24930785,"place":"Dhaka","lat":23.8103,"lon":90.4125,"precision":"city","confidence":"high","note":"Bangladesh parliament"}
+{"qid":48097654,"place":"Halfweg","lat":52.3833,"lon":4.75,"precision":"city","confidence":"high","note":"derailed near Halfweg"}
+{"qid":18356872,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"high","note":"national elections"}
+{"qid":140312478,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"multi-country series"}
+{"qid":3586597,"place":"Reykjavik","lat":64.1466,"lon":-21.9426,"precision":"city","confidence":"medium","note":"Icelandic capital"}
+{"qid":767911,"place":"La Croix-Valmer","lat":43.205,"lon":6.57,"precision":"city","confidence":"high","note":"race started there"}
+{"qid":14567723,"place":"Athens","lat":37.9838,"lon":23.7275,"precision":"city","confidence":"medium","note":"Greek capital then"}
+{"qid":19872376,"place":"Crawley","lat":51.109,"lon":-0.187,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":108770889,"place":"Massachusetts","lat":42.4072,"lon":-71.3824,"precision":"region","confidence":"high","note":"state elections"}
+{"qid":8023794,"place":"Winchester","lat":51.0632,"lon":-1.308,"precision":"city","confidence":"high","note":"city council election"}
+{"qid":111914888,"place":"Kamsack","lat":51.5614,"lon":-101.9072,"precision":"city","confidence":"high","note":"killed in Kamsack"}
+{"qid":122663223,"place":"Estadio Chacarita Juniors","lat":-34.5827,"lon":-58.459,"precision":"site","confidence":"medium","note":"final venue"}
+{"qid":7232451,"place":"Portsmouth","lat":50.8198,"lon":-1.088,"precision":"city","confidence":"high","note":"city council election"}
+{"qid":4613417,"place":"Lubumbashi","lat":-11.6609,"lon":27.4794,"precision":"city","confidence":"high","note":"final leg venue"}
+{"qid":15410697,"place":"Nuuk","lat":64.1814,"lon":-51.6941,"precision":"city","confidence":"medium","note":"Greenland capital"}
+{"qid":96363732,"place":"Bath, Somerset","lat":51.3811,"lon":-2.359,"precision":"city","confidence":"high","note":"city council election"}

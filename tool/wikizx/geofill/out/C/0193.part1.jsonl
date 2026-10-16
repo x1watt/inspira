@@ -1,0 +1,50 @@
+{"qid":25038597,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"continental route network"}
+{"qid":124054014,"place":"Buenos Aires","lat":-34.6037,"lon":-58.3816,"precision":"city","confidence":"high","note":"final at Porteño field"}
+{"qid":6739544,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"medium","note":"Privy Council decision"}
+{"qid":18126195,"place":"Leeuwarden","lat":53.2012,"lon":5.7999,"precision":"city","confidence":"high","note":"WTC Expo venue"}
+{"qid":124985805,"place":"Dali, Yunnan","lat":25.6065,"lon":100.2676,"precision":"city","confidence":"medium","note":"tournament in Dali"}
+{"qid":14624918,"place":"Bogotá","lat":4.711,"lon":-74.0721,"precision":"city","confidence":"medium","note":"Colombian capital"}
+{"qid":4550986,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"multi-country Go tournament"}
+{"qid":4578583,"place":"Ireland","lat":53.4,"lon":-8.2,"precision":"country","confidence":"low","note":"All-Ireland final"}
+{"qid":28402628,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"regional competition"}
+{"qid":15925492,"place":"Kyiv","lat":50.4501,"lon":30.5234,"precision":"city","confidence":"medium","note":"Ukrainian government seat"}
+{"qid":4904258,"place":"Lausanne","lat":46.5197,"lon":6.6323,"precision":"city","confidence":"high","note":"IOC election venue"}
+{"qid":5023728,"place":"Medina del Campo","lat":41.3114,"lon":-4.9139,"precision":"city","confidence":"high","note":"treaty signed there"}
+{"qid":3722233,"place":"Denmark","lat":56.0,"lon":10.0,"precision":"country","confidence":"high","note":"national election"}
+{"qid":5353366,"place":"Douala","lat":4.0511,"lon":9.7679,"precision":"city","confidence":"medium","note":"Duala ruler"}
+{"qid":91931717,"place":"Metropolitan Borough of Stockport","lat":53.4106,"lon":-2.1575,"precision":"region","confidence":"high","note":"borough election"}
+{"qid":21070981,"place":"Quebec City","lat":46.8139,"lon":-71.208,"precision":"city","confidence":"medium","note":"New France intendant seat"}
+{"qid":5182969,"place":"Crawley","lat":51.1092,"lon":-0.1872,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":16921649,"place":"Po Toi Island","lat":22.179,"lon":114.252,"precision":"site","confidence":"high","note":"collision off island"}
+{"qid":7427493,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"ship"}
+{"qid":4574749,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"yearly list"}
+{"qid":16931744,"place":"Strasbourg","lat":48.5734,"lon":7.7521,"precision":"city","confidence":"medium","note":"Council of Europe"}
+{"qid":133807639,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"medium","note":"origin country"}
+{"qid":16820784,"place":"Stanley, Falkland Islands","lat":-51.6977,"lon":-57.851,"precision":"city","confidence":"medium","note":"Legislative Council election"}
+{"qid":91925396,"place":"Metropolitan Borough of Stockport","lat":53.4106,"lon":-2.1575,"precision":"region","confidence":"high","note":"borough election"}
+{"qid":86461829,"place":"Oman","lat":21.4735,"lon":55.9754,"precision":"country","confidence":"high","note":"struck eastern Oman"}
+{"qid":5674118,"place":"Hart","lat":51.28,"lon":-0.97,"precision":"region","confidence":"high","note":"district election"}
+{"qid":97355429,"place":"Rochford District","lat":51.58,"lon":0.7,"precision":"region","confidence":"high","note":"district election"}
+{"qid":48969750,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"video game"}
+{"qid":7832554,"place":"Trafford","lat":53.42,"lon":-2.35,"precision":"region","confidence":"high","note":"borough election"}
+{"qid":73804890,"place":"Vallelunga Classic Circuit","lat":42.1631,"lon":12.3686,"precision":"site","confidence":"medium","note":"event at Vallelunga"}
+{"qid":96361506,"place":"California","lat":37.2,"lon":-119.7,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7404372,"place":"Salford","lat":53.4875,"lon":-2.2901,"precision":"city","confidence":"high","note":"city election"}
+{"qid":113827648,"place":"Slough","lat":51.5105,"lon":-0.595,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":105702271,"place":"Windsor Castle","lat":51.4839,"lon":-0.6044,"precision":"site","confidence":"high","note":"held at Windsor Castle"}
+{"qid":2609714,"place":"Rotterdam","lat":51.9244,"lon":4.4777,"precision":"city","confidence":"low","note":"Dutch terror trial"}
+{"qid":106610686,"place":"Hart","lat":51.28,"lon":-0.97,"precision":"region","confidence":"high","note":"district election"}
+{"qid":5288077,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"synthesizer"}
+{"qid":18712785,"place":"Aleppo","lat":36.2021,"lon":37.1343,"precision":"city","confidence":"high","note":"battle of Aleppo"}
+{"qid":5179072,"place":"Coventry","lat":52.4068,"lon":-1.5197,"precision":"city","confidence":"high","note":"city election"}
+{"qid":4831372,"place":"Aylesbury Vale","lat":51.8,"lon":-0.9,"precision":"region","confidence":"high","note":"district election"}
+{"qid":136735455,"place":"Smyrna, Tennessee","lat":36.0098,"lon":-86.5186,"precision":"city","confidence":"high","note":"crash over Smyrna"}
+{"qid":6937980,"place":"Lolol","lat":-34.7333,"lon":-71.65,"precision":"city","confidence":"high","note":"murders in Lolol"}
+{"qid":106624335,"place":"West Northamptonshire","lat":52.2,"lon":-1.0,"precision":"region","confidence":"high","note":"council election"}
+{"qid":7276514,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"ship"}
+{"qid":5230291,"place":"Daventry District","lat":52.26,"lon":-1.16,"precision":"region","confidence":"high","note":"district election"}
+{"qid":24525645,"place":"Kyoto","lat":35.0116,"lon":135.7681,"precision":"city","confidence":"medium","note":"Ritsumeikan University team"}
+{"qid":20806283,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"high","note":"played in Moscow"}
+{"qid":1972275,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"software service"}
+{"qid":117428114,"place":"North Hertfordshire","lat":51.95,"lon":-0.2,"precision":"region","confidence":"high","note":"district election"}
+{"qid":8029349,"place":"Wokingham","lat":51.41,"lon":-0.835,"precision":"city","confidence":"high","note":"district election"}

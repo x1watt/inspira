@@ -1,0 +1,50 @@
+{"qid":7855595,"place":"France","lat":46.2276,"lon":2.2137,"precision":"country","confidence":"medium","note":"medieval sect in France"}
+{"qid":7892162,"place":"Albany, New York","lat":42.6526,"lon":-73.7562,"precision":"city","confidence":"medium","note":"state legislature vote"}
+{"qid":24718632,"place":"London Borough of Sutton","lat":51.3614,"lon":-0.1941,"precision":"region","confidence":"high","note":"murder at home in Sutton"}
+{"qid":39060380,"place":"Arkansas","lat":35.201,"lon":-91.8318,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7098257,"place":"Austria","lat":47.5162,"lon":14.5501,"precision":"country","confidence":"high","note":"nationwide polls"}
+{"qid":15286296,"place":"Columbus, Ohio","lat":39.9612,"lon":-82.9988,"precision":"city","confidence":"high","note":"held in Columbus"}
+{"qid":3586914,"place":"Switzerland","lat":46.8182,"lon":8.2275,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":24928,"place":"Taiwan","lat":23.6978,"lon":120.9605,"precision":"country","confidence":"high","note":"import issue in Taiwan"}
+{"qid":2079817,"place":"Japan","lat":36.2048,"lon":138.2529,"precision":"country","confidence":"low","note":"Japanese anime OVA"}
+{"qid":20708479,"place":"Virginia","lat":37.4316,"lon":-78.6569,"precision":"region","confidence":"high","note":"state election"}
+{"qid":104948338,"place":"Connecticut","lat":41.6032,"lon":-73.0877,"precision":"region","confidence":"high","note":"state election"}
+{"qid":109570557,"place":"Grigny, Essonne","lat":48.6547,"lon":2.3892,"precision":"city","confidence":"high","note":"factory strike"}
+{"qid":1563468,"place":"Regensburg","lat":49.0134,"lon":12.1016,"precision":"city","confidence":"high","note":"diet at Regensburg"}
+{"qid":7571141,"place":"London Borough of Southwark","lat":51.5035,"lon":-0.0804,"precision":"region","confidence":"high","note":"council area"}
+{"qid":5516571,"place":"Ireland","lat":53.4129,"lon":-8.2439,"precision":"country","confidence":"medium","note":"camogie cup"}
+{"qid":20128184,"place":"Wigan","lat":53.5448,"lon":-2.6318,"precision":"city","confidence":"high","note":"council area"}
+{"qid":107571722,"place":"Rouen","lat":49.4432,"lon":1.0993,"precision":"city","confidence":"high","note":"stage finish"}
+{"qid":32541567,"place":"Ardèche","lat":44.75,"lon":4.4,"precision":"region","confidence":"high","note":"race in Ardeche"}
+{"qid":5137924,"place":"Afghanistan","lat":33.9391,"lon":67.71,"precision":"country","confidence":"high","note":"operations in Afghanistan"}
+{"qid":5313808,"place":"Dumfries and Galloway","lat":55.07,"lon":-3.61,"precision":"region","confidence":"high","note":"council area"}
+{"qid":4351961,"place":"Cyprus","lat":35.1264,"lon":33.4299,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":7884195,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"medium","note":"UK Parliament act"}
+{"qid":86665287,"place":"Russia","lat":61.524,"lon":105.3188,"precision":"country","confidence":"medium","note":"emigration from Russia"}
+{"qid":2884788,"place":"Colombia","lat":4.5709,"lon":-74.2973,"precision":"country","confidence":"high","note":"race in Colombia"}
+{"qid":55316617,"place":"Dayton, Virginia","lat":38.4151,"lon":-78.9378,"precision":"city","confidence":"high","note":"plant strike"}
+{"qid":140128748,"place":"Cumbria","lat":54.5772,"lon":-2.7975,"precision":"region","confidence":"high","note":"mayoral election"}
+{"qid":30326481,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"high","note":"year in Brazil"}
+{"qid":7380775,"place":"Rushcliffe","lat":52.87,"lon":-1.07,"precision":"region","confidence":"high","note":"council area"}
+{"qid":30715498,"place":"China","lat":35.8617,"lon":104.1954,"precision":"country","confidence":"medium","note":"Chinese team selection"}
+{"qid":5311842,"place":"Dudley","lat":52.5123,"lon":-2.0811,"precision":"city","confidence":"high","note":"council area"}
+{"qid":19787091,"place":"Kingston upon Thames","lat":51.4085,"lon":-0.3064,"precision":"city","confidence":"high","note":"council area"}
+{"qid":135437239,"place":"Ndola","lat":-12.9587,"lon":28.6366,"precision":"city","confidence":"high","note":"final at Levy Mwanawasa"}
+{"qid":5011668,"place":"Washington, D.C.","lat":38.8899,"lon":-77.0091,"precision":"city","confidence":"low","note":"OAS convention"}
+{"qid":16951500,"place":"Belgrade","lat":44.7866,"lon":20.4489,"precision":"city","confidence":"high","note":"championships in Belgrade"}
+{"qid":20646786,"place":"Gniezno","lat":52.5347,"lon":17.5826,"precision":"city","confidence":"high","note":"event at Stadion Miejski"}
+{"qid":118976827,"place":"Pebas","lat":-3.3167,"lon":-71.8,"precision":"city","confidence":"medium","note":"shootdown over Pebas"}
+{"qid":96359638,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"medium","note":"virtual summit hosted by Russia"}
+{"qid":916276,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"high","note":"German prize"}
+{"qid":16854713,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"high","note":"German law"}
+{"qid":109316024,"place":"Democratic Republic of the Congo","lat":-4.0383,"lon":21.7587,"precision":"country","confidence":"low","note":"crash near Kimbwe"}
+{"qid":17015807,"place":"Missouri","lat":38.5739,"lon":-92.6038,"precision":"region","confidence":"high","note":"state election"}
+{"qid":74288251,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"ship"}
+{"qid":16992967,"place":"Gloucester","lat":51.8642,"lon":-2.238,"precision":"city","confidence":"high","note":"council area"}
+{"qid":4206300,"place":"Saint Petersburg","lat":59.9311,"lon":30.3609,"precision":"city","confidence":"low","note":"Soviet TV, Leningrad"}
+{"qid":129736523,"place":"Oberstdorf","lat":47.4094,"lon":10.2796,"precision":"city","confidence":"high","note":"held in Oberstdorf"}
+{"qid":7891627,"place":"Massachusetts","lat":42.4072,"lon":-71.3824,"precision":"region","confidence":"high","note":"state election"}
+{"qid":1488290,"place":"Budapest","lat":47.4979,"lon":19.0402,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":60749367,"place":"Tabriz","lat":38.0962,"lon":46.2738,"precision":"city","confidence":"low","note":"Iranian Azerbaijan race"}
+{"qid":25395599,"place":"Madrid","lat":40.4168,"lon":-3.7038,"precision":"city","confidence":"medium","note":"Cortes seat"}
+{"qid":85734977,"place":"Bristol","lat":51.4545,"lon":-2.5879,"precision":"city","confidence":"high","note":"council area"}

@@ -1,0 +1,50 @@
+{"qid":86679491,"place":"Luxembourg","lat":49.8153,"lon":6.1296,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":14624920,"place":"Colombia","lat":4.5709,"lon":-74.2973,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":4603437,"place":"Colombia","lat":4.5709,"lon":-74.2973,"precision":"country","confidence":"high","note":"nationwide race"}
+{"qid":60763343,"place":"Qingdao","lat":36.0671,"lon":120.3826,"precision":"city","confidence":"medium","note":"planned host, cancelled"}
+{"qid":20806250,"place":"Borsele","lat":51.45,"lon":3.75,"precision":"region","confidence":"medium","note":"race in 's-Heerenhoek"}
+{"qid":5616456,"place":"Guinea-Bissau","lat":11.8037,"lon":-15.1804,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":141361168,"place":"Kemper County, Mississippi","lat":32.75,"lon":-88.65,"precision":"region","confidence":"medium","note":"tornado path start"}
+{"qid":55601078,"place":"Schoten","lat":51.25,"lon":4.5,"precision":"city","confidence":"medium","note":"Scheldeprijs finish"}
+{"qid":60519380,"place":"West Virginia","lat":38.6,"lon":-80.6,"precision":"region","confidence":"high","note":"state election"}
+{"qid":137690533,"place":"Luton","lat":51.8787,"lon":-0.42,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":85729583,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"national elections list"}
+{"qid":111941532,"place":"Summit, Mississippi","lat":31.2849,"lon":-90.4687,"precision":"city","confidence":"high","note":"lynched in Summit"}
+{"qid":134229164,"place":"Gaziantep Stadium","lat":37.086,"lon":37.345,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":113540973,"place":"Derbyshire Dales","lat":53.1,"lon":-1.75,"precision":"region","confidence":"high","note":"district"}
+{"qid":97360316,"place":"Maryland","lat":39.0458,"lon":-76.6413,"precision":"region","confidence":"high","note":"state election"}
+{"qid":28405006,"place":"Callaway County, Missouri","lat":38.83,"lon":-91.92,"precision":"region","confidence":"high","note":"trial there"}
+{"qid":5311841,"place":"Dudley","lat":52.5087,"lon":-2.0877,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":14932886,"place":"Taiwan","lat":23.6978,"lon":120.9605,"precision":"country","confidence":"medium","note":"struck Taiwan"}
+{"qid":27957645,"place":"Shetland","lat":60.53,"lon":-1.27,"precision":"region","confidence":"high","note":"referendum in Shetland"}
+{"qid":23782065,"place":"Orléans","lat":47.9029,"lon":1.9093,"precision":"city","confidence":"high","note":"council seat"}
+{"qid":51483509,"place":"Yorkshire","lat":53.95,"lon":-1.08,"precision":"region","confidence":"high","note":"stage race"}
+{"qid":2123073,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"algorithm"}
+{"qid":111914710,"place":"Baoding","lat":38.874,"lon":115.4646,"precision":"city","confidence":"high","note":"crash near airport"}
+{"qid":16987126,"place":"West Lancashire","lat":53.59,"lon":-2.88,"precision":"region","confidence":"high","note":"borough"}
+{"qid":126727072,"place":"Squaw Valley Ski Resort","lat":39.1969,"lon":-120.2358,"precision":"site","confidence":"medium","note":"destination of relay"}
+{"qid":18208409,"place":"Cairo","lat":30.0444,"lon":31.2357,"precision":"city","confidence":"medium","note":"Egyptian cup final"}
+{"qid":16246348,"place":"Essex","lat":51.77,"lon":0.5,"precision":"region","confidence":"high","note":"county"}
+{"qid":48989526,"place":"KBS Hall","lat":37.528,"lon":126.919,"precision":"site","confidence":"high","note":"held at KBS Hall"}
+{"qid":5613481,"place":"Guam","lat":13.4443,"lon":144.7937,"precision":"region","confidence":"high","note":"territory election"}
+{"qid":4623254,"place":"Uttar Pradesh","lat":26.8467,"lon":80.9462,"precision":"region","confidence":"high","note":"protests state"}
+{"qid":7684164,"place":"Tanzania","lat":-6.369,"lon":34.8888,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":3124834,"place":"Hamburg","lat":53.5511,"lon":9.9937,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":112892627,"place":"New Jersey","lat":40.0583,"lon":-74.4057,"precision":"region","confidence":"high","note":"state election"}
+{"qid":112114933,"place":"North Hertfordshire","lat":51.95,"lon":-0.23,"precision":"region","confidence":"high","note":"district"}
+{"qid":6054181,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"recurring conference"}
+{"qid":5548616,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"software"}
+{"qid":125407656,"place":"Royal Tunbridge Wells","lat":51.1324,"lon":0.2637,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":16954298,"place":"Buckinghamshire","lat":51.8,"lon":-0.8,"precision":"region","confidence":"high","note":"county"}
+{"qid":7318044,"place":"South Africa","lat":-30.5595,"lon":22.9375,"precision":"country","confidence":"high","note":"stamps"}
+{"qid":131703572,"place":"Stockholm","lat":59.3293,"lon":18.0686,"precision":"city","confidence":"high","note":"festival in Stockholm"}
+{"qid":18337155,"place":"Japan","lat":36.2048,"lon":138.2529,"precision":"country","confidence":"high","note":"nationwide tournament"}
+{"qid":4626100,"place":"Lilongwe","lat":-13.9626,"lon":33.7741,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":20711522,"place":"Lansdowne Club","lat":51.5086,"lon":-0.1451,"precision":"site","confidence":"high","note":"venue"}
+{"qid":96309105,"place":"Suriname","lat":3.9193,"lon":-56.0278,"precision":"country","confidence":"high","note":"colony"}
+{"qid":132126786,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"polls"}
+{"qid":5333447,"place":"Bangkok","lat":13.7563,"lon":100.5018,"precision":"city","confidence":"high","note":"coup in Bangkok"}
+{"qid":117100910,"place":"North Hertfordshire","lat":51.95,"lon":-0.23,"precision":"region","confidence":"high","note":"district"}
+{"qid":125496001,"place":"South Tyneside","lat":54.95,"lon":-1.45,"precision":"region","confidence":"high","note":"borough"}
+{"qid":20712486,"place":"Puget Sound","lat":47.6,"lon":-122.4,"precision":"region","confidence":"medium","note":"Pacific Northwest strike"}
+{"qid":115826482,"place":"Bury St Edmunds","lat":52.2463,"lon":0.7111,"precision":"city","confidence":"medium","note":"borough seat"}

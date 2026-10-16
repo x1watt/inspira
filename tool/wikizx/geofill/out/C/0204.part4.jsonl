@@ -1,0 +1,50 @@
+{"qid":4605250,"place":"Uruguay","lat":-32.5228,"lon":-55.7658,"precision":"country","confidence":"medium","note":"storm over southern Uruguay"}
+{"qid":4560986,"place":"Chennai","lat":13.0827,"lon":80.2707,"precision":"city","confidence":"high","note":"mills in Madras"}
+{"qid":21485099,"place":"Baghdad","lat":33.3152,"lon":44.3661,"precision":"city","confidence":"high","note":"bombings in Baghdad"}
+{"qid":135004676,"place":"Macau","lat":22.1987,"lon":113.5439,"precision":"city","confidence":"high","note":"Dutch ships at Macau"}
+{"qid":6898875,"place":"Monaco","lat":43.7384,"lon":7.4246,"precision":"city","confidence":"high","note":"city-state election"}
+{"qid":3565604,"place":"Disneyland","lat":33.8121,"lon":-117.919,"precision":"site","confidence":"high","note":"parade at Disneyland"}
+{"qid":7061356,"place":"Norway","lat":60.472,"lon":8.4689,"precision":"country","confidence":"medium","note":"national local elections"}
+{"qid":111016330,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"medium","note":"Brazilian fake news"}
+{"qid":48841688,"place":"Cologne","lat":50.9375,"lon":6.9603,"precision":"city","confidence":"high","note":"election held in Cologne"}
+{"qid":109537728,"place":"Vancouver","lat":49.2827,"lon":-123.1207,"precision":"city","confidence":"high","note":"municipal election"}
+{"qid":2559266,"place":"Haarlem","lat":52.3874,"lon":4.6462,"precision":"city","confidence":"high","note":"race started in Haarlem"}
+{"qid":4882519,"place":"Brussels","lat":50.8503,"lon":4.3517,"precision":"city","confidence":"high","note":"capital"}
+{"qid":97356018,"place":"Southend-on-Sea","lat":51.5459,"lon":0.7077,"precision":"city","confidence":"high","note":"council election"}
+{"qid":106913132,"place":"Rochford","lat":51.582,"lon":0.706,"precision":"city","confidence":"high","note":"council election"}
+{"qid":15732306,"place":"Port Trevorton, Pennsylvania","lat":40.65,"lon":-76.86,"precision":"city","confidence":"medium","note":"victim from there"}
+{"qid":51144693,"place":"Plouay","lat":47.914,"lon":-3.283,"precision":"city","confidence":"high","note":"race started and finished"}
+{"qid":4610800,"place":"Pune","lat":18.5204,"lon":73.8567,"precision":"city","confidence":"high","note":"host city"}
+{"qid":6906610,"place":"Brades","lat":16.792,"lon":-62.21,"precision":"city","confidence":"medium","note":"Montserrat seat of government"}
+{"qid":13424660,"place":"Budapest","lat":47.4979,"lon":19.0402,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":4677280,"place":"Dardanelles","lat":40.15,"lon":26.4,"precision":"region","confidence":"medium","note":"naval battle at Dardanelles"}
+{"qid":62256887,"place":"Budapest","lat":47.4979,"lon":19.0402,"precision":"city","confidence":"high","note":"race started and finished"}
+{"qid":16995141,"place":"Isles of Scilly","lat":49.9361,"lon":-6.322,"precision":"region","confidence":"high","note":"council election"}
+{"qid":4562629,"place":"Dhaka","lat":23.8103,"lon":90.4125,"precision":"city","confidence":"high","note":"riots in Dhaka"}
+{"qid":137168334,"place":"Ocala, Florida","lat":29.1872,"lon":-82.1401,"precision":"city","confidence":"high","note":"murder in Ocala"}
+{"qid":127691147,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"high","note":"Olympics host"}
+{"qid":4908235,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"campaign"}
+{"qid":4605736,"place":"Aligarh","lat":27.8974,"lon":78.088,"precision":"city","confidence":"high","note":"riots in Aligarh"}
+{"qid":55099139,"place":"Adur","lat":50.835,"lon":-0.28,"precision":"region","confidence":"medium","note":"district election"}
+{"qid":55391580,"place":"Kingston upon Hull","lat":53.7676,"lon":-0.3274,"precision":"city","confidence":"high","note":"council election"}
+{"qid":54222391,"place":"Hawaii","lat":21.0943,"lon":-157.4981,"precision":"region","confidence":"medium","note":"Kingdom of Hawaii stamps"}
+{"qid":6541247,"place":"Monrovia","lat":6.3156,"lon":-10.8074,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":112481477,"place":"Toronto","lat":43.6532,"lon":-79.3832,"precision":"city","confidence":"high","note":"Toronto theatre awards"}
+{"qid":4593057,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"chronology"}
+{"qid":55608330,"place":"Islamabad","lat":33.6844,"lon":73.0479,"precision":"city","confidence":"medium","note":"Pakistani parliament"}
+{"qid":104901821,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"toy theme"}
+{"qid":18208502,"place":"Estadio Nacional, Santiago","lat":-33.4647,"lon":-70.61,"precision":"site","confidence":"high","note":"venue named"}
+{"qid":4600133,"place":"Pim Mulier Stadium","lat":52.3792,"lon":4.659,"precision":"site","confidence":"high","note":"venue named"}
+{"qid":96324132,"place":"Paramaribo","lat":5.852,"lon":-55.2038,"precision":"city","confidence":"medium","note":"colonial capital"}
+{"qid":98113778,"place":"Swadlincote","lat":52.774,"lon":-1.556,"precision":"city","confidence":"medium","note":"South Derbyshire council seat"}
+{"qid":4688296,"place":"Lima","lat":-12.0464,"lon":-77.0428,"precision":"city","confidence":"low","note":"food loaded in Lima"}
+{"qid":23020861,"place":"San Juan, Puerto Rico","lat":18.4655,"lon":-66.1057,"precision":"city","confidence":"high","note":"host city"}
+{"qid":21061580,"place":"Pershore","lat":52.117,"lon":-2.079,"precision":"city","confidence":"medium","note":"Wychavon council seat"}
+{"qid":111945053,"place":"South Africa","lat":-30.5595,"lon":22.9375,"precision":"country","confidence":"medium","note":"national census"}
+{"qid":5516524,"place":"Ireland","lat":53.1424,"lon":-7.6921,"precision":"country","confidence":"low","note":"camogie cup"}
+{"qid":58925190,"place":"Gijón","lat":43.5322,"lon":-5.6611,"precision":"city","confidence":"high","note":"race started in Gijon"}
+{"qid":118189654,"place":"Burton upon Trent","lat":52.801,"lon":-1.642,"precision":"city","confidence":"high","note":"East Staffordshire council seat"}
+{"qid":7639708,"place":"Sunderland","lat":54.9069,"lon":-1.3838,"precision":"city","confidence":"high","note":"council election"}
+{"qid":7832566,"place":"Trafford","lat":53.421,"lon":-2.353,"precision":"region","confidence":"medium","note":"borough election"}
+{"qid":5019043,"place":"Halifax, West Yorkshire","lat":53.7248,"lon":-1.8658,"precision":"city","confidence":"high","note":"Calderdale council seat"}
+{"qid":5828693,"place":"Bogota","lat":4.711,"lon":-74.0721,"precision":"city","confidence":"medium","note":"national capital"}

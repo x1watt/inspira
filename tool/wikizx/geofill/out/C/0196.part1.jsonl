@@ -1,0 +1,50 @@
+{"qid":62033949,"place":"Hungary","lat":47.1625,"lon":19.5033,"precision":"country","confidence":"medium","note":"Tour de Hongrie"}
+{"qid":2815945,"place":"Bahrain International Circuit","lat":26.0325,"lon":50.5106,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":138993061,"place":"Riviera (Las Vegas)","lat":36.1385,"lon":-115.164,"precision":"site","confidence":"high","note":"fight at Riviera"}
+{"qid":125251087,"place":"Gateshead","lat":54.9526,"lon":-1.6014,"precision":"city","confidence":"high","note":"Gateshead council"}
+{"qid":123862008,"place":"Worthing","lat":50.8179,"lon":-0.3729,"precision":"city","confidence":"high","note":"Worthing council"}
+{"qid":17015725,"place":"Reigate and Banstead","lat":51.23,"lon":-0.2,"precision":"region","confidence":"medium","note":"borough council"}
+{"qid":3996094,"place":"Zürich","lat":47.3769,"lon":8.5417,"precision":"city","confidence":"high","note":"race start and finish"}
+{"qid":125451574,"place":"West Oxfordshire","lat":51.8,"lon":-1.5,"precision":"region","confidence":"medium","note":"district election"}
+{"qid":15522007,"place":"Universal Amphitheatre","lat":34.1386,"lon":-118.3529,"precision":"site","confidence":"high","note":"contest venue"}
+{"qid":38313481,"place":"Spain","lat":40.4637,"lon":-3.7492,"precision":"country","confidence":"medium","note":"Vuelta a Espana"}
+{"qid":28663624,"place":"Geneva","lat":46.2044,"lon":6.1432,"precision":"city","confidence":"high","note":"race started in Geneva"}
+{"qid":61999937,"place":"Havana","lat":23.1136,"lon":-82.3666,"precision":"city","confidence":"high","note":"only bid Havana"}
+{"qid":104947472,"place":"Idaho","lat":44.07,"lon":-114.74,"precision":"region","confidence":"medium","note":"statewide election"}
+{"qid":7369779,"place":"Rossendale","lat":53.69,"lon":-2.28,"precision":"region","confidence":"medium","note":"borough election"}
+{"qid":107754717,"place":"China","lat":35.8617,"lon":104.1954,"precision":"country","confidence":"medium","note":"floods across China"}
+{"qid":24909566,"place":"Europe","lat":50.0,"lon":10.0,"precision":"region","confidence":"low","note":"various locations"}
+{"qid":97360194,"place":"California","lat":36.7783,"lon":-119.4179,"precision":"region","confidence":"medium","note":"statewide election"}
+{"qid":3586582,"place":"Guatemala City","lat":14.6349,"lon":-90.5069,"precision":"city","confidence":"medium","note":"Guatemala capital"}
+{"qid":106564169,"place":"São Paulo","lat":-23.5505,"lon":-46.6333,"precision":"city","confidence":"medium","note":"Paulista tournament"}
+{"qid":63645095,"place":"Stadion Maksimir","lat":45.8187,"lon":16.0178,"precision":"site","confidence":"high","note":"first leg venue"}
+{"qid":30326501,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"high","note":"events in Brazil"}
+{"qid":7055955,"place":"North Lincolnshire","lat":53.6,"lon":-0.65,"precision":"region","confidence":"medium","note":"council area"}
+{"qid":8029322,"place":"Woking","lat":51.319,"lon":-0.558,"precision":"city","confidence":"high","note":"Woking council"}
+{"qid":7165755,"place":"Brazzaville","lat":-4.2634,"lon":15.2429,"precision":"city","confidence":"medium","note":"Congo capital"}
+{"qid":16197631,"place":"Virginia","lat":37.4316,"lon":-78.6569,"precision":"region","confidence":"medium","note":"statewide election"}
+{"qid":3198589,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":1024834,"place":"Berlin","lat":52.52,"lon":13.405,"precision":"city","confidence":"medium","note":"German pledge"}
+{"qid":94974086,"place":"RAF Mildenhall","lat":52.3619,"lon":0.4864,"precision":"site","confidence":"high","note":"stolen from Mildenhall"}
+{"qid":106832741,"place":"Ireland","lat":53.1424,"lon":-7.6921,"precision":"country","confidence":"high","note":"nationwide attack"}
+{"qid":7445245,"place":"Sedgemoor","lat":51.15,"lon":-3.0,"precision":"region","confidence":"medium","note":"district election"}
+{"qid":3049255,"place":"Egremont","lat":54.48,"lon":-3.53,"precision":"city","confidence":"medium","note":"first recorded Egremont"}
+{"qid":30644587,"place":"Arizona","lat":34.0489,"lon":-111.0937,"precision":"region","confidence":"medium","note":"statewide election"}
+{"qid":4603189,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"low","note":"PGA Q School"}
+{"qid":20180220,"place":"Kythira","lat":36.25,"lon":23.0,"precision":"region","confidence":"medium","note":"Kythira Strait"}
+{"qid":24060264,"place":"Oldham","lat":53.5409,"lon":-2.1114,"precision":"city","confidence":"high","note":"Oldham council"}
+{"qid":4288426,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":96369745,"place":"Rushmoor","lat":51.29,"lon":-0.75,"precision":"region","confidence":"medium","note":"Rushmoor council"}
+{"qid":1826425,"place":"The Hague","lat":52.0705,"lon":4.3007,"precision":"city","confidence":"high","note":"conference at The Hague"}
+{"qid":23889293,"place":"Annecy","lat":45.8992,"lon":6.1294,"precision":"city","confidence":"medium","note":"race started in Annecy"}
+{"qid":60542998,"place":"Auckland","lat":-36.8485,"lon":174.7633,"precision":"city","confidence":"medium","note":"Auckland suburbs"}
+{"qid":6820721,"place":"London Borough of Merton","lat":51.41,"lon":-0.19,"precision":"region","confidence":"high","note":"Merton council"}
+{"qid":30074742,"place":"Erewash","lat":52.9,"lon":-1.35,"precision":"region","confidence":"medium","note":"Erewash borough"}
+{"qid":20648880,"place":"Spelthorne","lat":51.4,"lon":-0.45,"precision":"region","confidence":"medium","note":"Spelthorne borough"}
+{"qid":6541217,"place":"Monrovia","lat":6.3156,"lon":-10.8074,"precision":"city","confidence":"medium","note":"Liberia capital"}
+{"qid":16823108,"place":"Hamilton, Bermuda","lat":32.2949,"lon":-64.7814,"precision":"city","confidence":"medium","note":"Bermuda capital"}
+{"qid":5496504,"place":"Columbus, Georgia","lat":32.461,"lon":-84.9877,"precision":"city","confidence":"medium","note":"2004 to 2006 venue"}
+{"qid":19872886,"place":"East Riding of Yorkshire","lat":53.8,"lon":-0.5,"precision":"region","confidence":"medium","note":"council area"}
+{"qid":59650589,"place":"Shenzhen","lat":22.5431,"lon":114.0579,"precision":"city","confidence":"medium","note":"Huawei headquarters"}
+{"qid":117828284,"place":"Hart District","lat":51.3,"lon":-0.9,"precision":"region","confidence":"medium","note":"district election"}
+{"qid":3577281,"place":"Japan","lat":36.2048,"lon":138.2529,"precision":"country","confidence":"low","note":"Japanese era"}

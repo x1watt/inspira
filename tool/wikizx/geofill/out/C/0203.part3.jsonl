@@ -1,0 +1,50 @@
+{"qid":7813217,"place":"Lomé","lat":6.1319,"lon":1.2228,"precision":"city","confidence":"medium","note":"national capital"}
+{"qid":7017330,"place":"Newcastle-under-Lyme","lat":53.0126,"lon":-2.226,"precision":"city","confidence":"high","note":"council election"}
+{"qid":112125092,"place":"Stevenage","lat":51.9038,"lon":-0.202,"precision":"city","confidence":"high","note":"council election"}
+{"qid":4562837,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"medium","note":"festival in London and Oxford"}
+{"qid":20857729,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"low","note":"race in Brazil"}
+{"qid":11931846,"place":"Bratislava","lat":48.1486,"lon":17.1077,"precision":"city","confidence":"medium","note":"National Council seat"}
+{"qid":104947005,"place":"Nebraska","lat":41.4925,"lon":-99.9018,"precision":"region","confidence":"medium","note":"state election"}
+{"qid":113006064,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"leaked data"}
+{"qid":25421711,"place":"Portugal","lat":39.3999,"lon":-8.2245,"precision":"country","confidence":"medium","note":"national local elections"}
+{"qid":7963770,"place":"Walsall","lat":52.586,"lon":-1.9829,"precision":"city","confidence":"high","note":"council election"}
+{"qid":7853206,"place":"Tunis","lat":36.8065,"lon":10.1815,"precision":"city","confidence":"medium","note":"national capital"}
+{"qid":59431110,"place":"Mexico City Metro","lat":19.4326,"lon":-99.1332,"precision":"city","confidence":"medium","note":"protest in metro"}
+{"qid":24909809,"place":"Royal Courts of Justice","lat":51.5135,"lon":-0.113,"precision":"site","confidence":"medium","note":"Court of Appeal case"}
+{"qid":4627615,"place":"Mogadishu","lat":2.0469,"lon":45.3182,"precision":"city","confidence":"medium","note":"conflict centre"}
+{"qid":122899003,"place":"San José, Costa Rica","lat":9.9281,"lon":-84.0907,"precision":"city","confidence":"medium","note":"Constitutional Chamber seat"}
+{"qid":124719008,"place":"Bedford","lat":52.1356,"lon":-0.4685,"precision":"city","confidence":"high","note":"council election"}
+{"qid":1087990,"place":"Tripoli","lat":32.8872,"lon":13.1913,"precision":"city","confidence":"medium","note":"capital fell in war"}
+{"qid":60528237,"place":"Liverpool","lat":53.4084,"lon":-2.9916,"precision":"city","confidence":"high","note":"council election"}
+{"qid":7891801,"place":"Albany, New York","lat":42.6526,"lon":-73.7562,"precision":"city","confidence":"high","note":"state legislature in Albany"}
+{"qid":2336516,"place":"Denmark","lat":56.2639,"lon":9.5018,"precision":"country","confidence":"medium","note":"national election"}
+{"qid":89487202,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"global timeline"}
+{"qid":925807,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"web series"}
+{"qid":25350024,"place":"Colchester","lat":51.8959,"lon":0.8919,"precision":"city","confidence":"high","note":"council election"}
+{"qid":60775518,"place":"WeatherTech Raceway Laguna Seca","lat":36.5844,"lon":-121.7536,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":7593346,"place":"St Helens, Merseyside","lat":53.4535,"lon":-2.737,"precision":"city","confidence":"high","note":"council election"}
+{"qid":17513649,"place":"Oregon","lat":43.8041,"lon":-120.5542,"precision":"region","confidence":"medium","note":"state ballot measure"}
+{"qid":131565083,"place":"Northallerton","lat":54.338,"lon":-1.434,"precision":"city","confidence":"medium","note":"Hambleton council seat"}
+{"qid":19869726,"place":"Harrow, London","lat":51.5788,"lon":-0.337,"precision":"city","confidence":"high","note":"council election"}
+{"qid":5492238,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"medium","note":"British committee"}
+{"qid":4567209,"place":"Buenos Aires","lat":-34.6037,"lon":-58.3816,"precision":"city","confidence":"high","note":"host city"}
+{"qid":21086198,"place":"Segura de los Baños","lat":40.95,"lon":-0.78,"precision":"city","confidence":"medium","note":"convention site"}
+{"qid":11954966,"place":"Barcelona","lat":41.3874,"lon":2.1686,"precision":"city","confidence":"high","note":"race started and finished"}
+{"qid":20128039,"place":"Bexhill-on-Sea","lat":50.842,"lon":0.471,"precision":"city","confidence":"medium","note":"Rother council seat"}
+{"qid":28451353,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"political party"}
+{"qid":7986998,"place":"Trowbridge","lat":51.32,"lon":-2.209,"precision":"city","confidence":"medium","note":"council seat"}
+{"qid":78657993,"place":"Dubai","lat":25.2048,"lon":55.2708,"precision":"city","confidence":"high","note":"race in Dubai"}
+{"qid":6742849,"place":"Malé","lat":4.1755,"lon":73.5093,"precision":"city","confidence":"medium","note":"national capital"}
+{"qid":7115552,"place":"Oxford","lat":51.752,"lon":-1.2577,"precision":"city","confidence":"low","note":"college stamps"}
+{"qid":29867646,"place":"Harelbeke","lat":50.8554,"lon":3.3112,"precision":"city","confidence":"high","note":"race started and finished"}
+{"qid":17515148,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"health research project"}
+{"qid":23018283,"place":"Louisiana","lat":30.9843,"lon":-91.9623,"precision":"region","confidence":"medium","note":"state election"}
+{"qid":120703753,"place":"Geneva","lat":46.2044,"lon":6.1432,"precision":"city","confidence":"medium","note":"League of Nations document"}
+{"qid":6899684,"place":"Ulaanbaatar","lat":47.8864,"lon":106.9057,"precision":"city","confidence":"medium","note":"national capital"}
+{"qid":112053282,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"low","note":"McQueen show location"}
+{"qid":17015772,"place":"Rushmoor","lat":51.29,"lon":-0.76,"precision":"region","confidence":"medium","note":"borough election"}
+{"qid":7937652,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"photo process"}
+{"qid":15898734,"place":"National Theater, Taipei","lat":25.0361,"lon":121.5186,"precision":"site","confidence":"high","note":"venue named"}
+{"qid":17019971,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"comic strip"}
+{"qid":7891860,"place":"North Dakota","lat":47.5515,"lon":-101.002,"precision":"region","confidence":"medium","note":"state election"}
+{"qid":21290220,"place":"Manchuria","lat":47.0,"lon":125.0,"precision":"region","confidence":"medium","note":"Russian colonial plan region"}

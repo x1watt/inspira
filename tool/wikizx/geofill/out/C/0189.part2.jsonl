@@ -1,0 +1,50 @@
+{"qid":3212291,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"medium","note":"French journal"}
+{"qid":7239129,"place":"Prague Castle","lat":50.0909,"lon":14.4005,"precision":"site","confidence":"high","note":"event at Prague Castle"}
+{"qid":7891672,"place":"Mississippi","lat":32.7,"lon":-89.7,"precision":"region","confidence":"high","note":"state election"}
+{"qid":85720134,"place":"Stanford University","lat":37.4275,"lon":-122.1697,"precision":"site","confidence":"high","note":"program at Stanford"}
+{"qid":20709297,"place":"Vermont","lat":44.0,"lon":-72.7,"precision":"region","confidence":"high","note":"state election"}
+{"qid":4618610,"place":"Utah","lat":39.3,"lon":-111.7,"precision":"region","confidence":"high","note":"race in Utah"}
+{"qid":7715183,"place":"Seoul","lat":37.5665,"lon":126.978,"precision":"city","confidence":"high","note":"riot in Seoul"}
+{"qid":6820989,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"career topic"}
+{"qid":78661016,"place":"Hainaut","lat":50.45,"lon":3.95,"precision":"region","confidence":"medium","note":"race in Hainaut"}
+{"qid":3996305,"place":"Argentina","lat":-34.0,"lon":-64.0,"precision":"country","confidence":"medium","note":"tour in Argentina"}
+{"qid":19873671,"place":"Great Yarmouth","lat":52.6083,"lon":1.73,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":55171564,"place":"Eswatini","lat":-26.5,"lon":31.5,"precision":"country","confidence":"medium","note":"nationwide"}
+{"qid":4565223,"place":"Chennai","lat":13.0827,"lon":80.2707,"precision":"city","confidence":"high","note":"floods in Madras"}
+{"qid":131345327,"place":"Lima","lat":-12.0464,"lon":-77.0428,"precision":"city","confidence":"medium","note":"APEC summit in Lima"}
+{"qid":127273732,"place":"Watkins Glen International","lat":42.3369,"lon":-76.9272,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":15526723,"place":"Arkansas","lat":34.8,"lon":-92.2,"precision":"region","confidence":"high","note":"state election"}
+{"qid":139571558,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"architecture topic"}
+{"qid":65080275,"place":"Erewash","lat":52.97,"lon":-1.32,"precision":"region","confidence":"medium","note":"borough council"}
+{"qid":7622386,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"poll list"}
+{"qid":17016051,"place":"Watford","lat":51.6565,"lon":-0.3903,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":140421597,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"honorary team"}
+{"qid":127781164,"place":"Tonlé Sap","lat":12.8,"lon":104.0,"precision":"region","confidence":"high","note":"capsized on Tonle Sap"}
+{"qid":132130382,"place":"Windhoek","lat":-22.5609,"lon":17.0658,"precision":"city","confidence":"medium","note":"series in Namibia"}
+{"qid":97460506,"place":"Venezuela","lat":7.0,"lon":-66.0,"precision":"country","confidence":"high","note":"nationwide shortages"}
+{"qid":29094946,"place":"Michigan","lat":44.3,"lon":-85.6,"precision":"region","confidence":"high","note":"state election"}
+{"qid":6515909,"place":"Leeds","lat":53.8008,"lon":-1.5491,"precision":"city","confidence":"high","note":"city council"}
+{"qid":7891827,"place":"New York (state)","lat":42.9,"lon":-75.5,"precision":"region","confidence":"high","note":"state election"}
+{"qid":137595635,"place":"The Hague","lat":52.0705,"lon":4.3007,"precision":"city","confidence":"medium","note":"plot centered at The Hague"}
+{"qid":5026480,"place":"Cameroon","lat":5.7,"lon":12.7,"precision":"country","confidence":"medium","note":"nationwide"}
+{"qid":96369691,"place":"Folkestone and Hythe","lat":51.08,"lon":1.17,"precision":"region","confidence":"medium","note":"district council"}
+{"qid":48805422,"place":"High Court of Australia","lat":-35.2967,"lon":149.1325,"precision":"site","confidence":"high","note":"case decided in Canberra"}
+{"qid":15999904,"place":"Cambridge","lat":52.2053,"lon":0.1218,"precision":"city","confidence":"high","note":"Cambridge University rowing"}
+{"qid":19869984,"place":"London Borough of Merton","lat":51.4098,"lon":-0.1949,"precision":"city","confidence":"medium","note":"council election"}
+{"qid":4599216,"place":"Venezuela","lat":7.0,"lon":-66.0,"precision":"country","confidence":"medium","note":"stage race"}
+{"qid":117477055,"place":"Forest of Dean","lat":51.8,"lon":-2.55,"precision":"region","confidence":"medium","note":"district council"}
+{"qid":15932877,"place":"China","lat":35.0,"lon":103.0,"precision":"country","confidence":"medium","note":"national plan"}
+{"qid":5443499,"place":"Fenland District","lat":52.6,"lon":0.1,"precision":"region","confidence":"medium","note":"district council"}
+{"qid":113144542,"place":"South Africa","lat":-29.0,"lon":24.0,"precision":"country","confidence":"medium","note":"nationwide census"}
+{"qid":5261442,"place":"Derby","lat":52.9225,"lon":-1.4746,"precision":"city","confidence":"high","note":"city council"}
+{"qid":7414094,"place":"San Francisco","lat":37.7749,"lon":-122.4194,"precision":"city","confidence":"high","note":"city ballot measure"}
+{"qid":7241221,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"video game"}
+{"qid":7961044,"place":"Wakefield","lat":53.683,"lon":-1.4977,"precision":"city","confidence":"high","note":"metropolitan district"}
+{"qid":23044679,"place":"Vårgårda","lat":58.03,"lon":12.81,"precision":"city","confidence":"high","note":"race in Vargarda"}
+{"qid":15485527,"place":"Columbus, Ohio","lat":39.9612,"lon":-82.9988,"precision":"city","confidence":"high","note":"Veterans Memorial Auditorium"}
+{"qid":7579742,"place":"Providence, Rhode Island","lat":41.824,"lon":-71.4128,"precision":"city","confidence":"high","note":"magazine published there"}
+{"qid":128605382,"place":"Rogers Place","lat":53.5469,"lon":-113.4978,"precision":"site","confidence":"high","note":"tournament venue"}
+{"qid":4614007,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"two host cities unknown"}
+{"qid":20007241,"place":"Al-Qassim Province","lat":26.33,"lon":43.97,"precision":"region","confidence":"high","note":"collapse in Al-Qassim"}
+{"qid":19872151,"place":"Lincoln, England","lat":53.2307,"lon":-0.5406,"precision":"city","confidence":"high","note":"city council"}
+{"qid":22669637,"place":"Seychelles","lat":-4.68,"lon":55.49,"precision":"country","confidence":"medium","note":"nationwide"}

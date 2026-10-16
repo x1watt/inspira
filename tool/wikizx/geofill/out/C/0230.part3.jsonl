@@ -1,0 +1,50 @@
+{"qid":24063630,"place":"Caracas","lat":10.4806,"lon":-66.9036,"precision":"city","confidence":"medium","note":"petition handed to electoral council"}
+{"qid":139855804,"place":"Štadión pod Dubňom","lat":49.2142,"lon":18.7442,"precision":"site","confidence":"high","note":"venue"}
+{"qid":118189637,"place":"Chesterfield, Derbyshire","lat":53.235,"lon":-1.4211,"precision":"city","confidence":"high","note":"council election"}
+{"qid":115802127,"place":"King's Lynn","lat":52.7542,"lon":0.3953,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":48843780,"place":"Missouri","lat":37.9643,"lon":-91.8318,"precision":"region","confidence":"high","note":"state election"}
+{"qid":3586578,"place":"Guatemala City","lat":14.6349,"lon":-90.5069,"precision":"city","confidence":"medium","note":"national election"}
+{"qid":115817677,"place":"Queensland","lat":-20.9176,"lon":142.7028,"precision":"region","confidence":"medium","note":"made landfall in Queensland"}
+{"qid":48732197,"place":"Uttarakhand","lat":30.0668,"lon":79.0193,"precision":"region","confidence":"high","note":"state local elections"}
+{"qid":16733817,"place":"Accra","lat":5.6037,"lon":-0.187,"precision":"city","confidence":"medium","note":"Ghana government regulation"}
+{"qid":116909445,"place":"Welwyn Hatfield","lat":51.7833,"lon":-0.2,"precision":"region","confidence":"medium","note":"district election"}
+{"qid":3996128,"place":"Zürich","lat":47.3769,"lon":8.5417,"precision":"city","confidence":"high","note":"race finished in Zurich"}
+{"qid":4961758,"place":"Brentwood, Essex","lat":51.6213,"lon":0.3053,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":106391497,"place":"Epping Forest District","lat":51.7,"lon":0.1,"precision":"region","confidence":"medium","note":"district election"}
+{"qid":104880133,"place":"Armagh, County Armagh","lat":54.35,"lon":-6.65,"precision":"city","confidence":"medium","note":"county team"}
+{"qid":16158558,"place":"Alabama","lat":32.8067,"lon":-86.7911,"precision":"region","confidence":"high","note":"state election"}
+{"qid":134603541,"place":"Hisor","lat":38.5256,"lon":68.5503,"precision":"city","confidence":"medium","note":"Central Stadium, Hisar"}
+{"qid":5030761,"place":"Canada","lat":56.1304,"lon":-106.3468,"precision":"country","confidence":"medium","note":"list of elections"}
+{"qid":21385487,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"journal"}
+{"qid":1769329,"place":"West Berlin","lat":52.5,"lon":13.3,"precision":"city","confidence":"high","note":"Berlin election"}
+{"qid":96362107,"place":"New Jersey","lat":40.0583,"lon":-74.4057,"precision":"region","confidence":"high","note":"state election"}
+{"qid":139082081,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"list of officials"}
+{"qid":7520946,"place":"Tamil Nadu","lat":11.1271,"lon":78.6569,"precision":"region","confidence":"medium","note":"reforms by Tamil Nadu govt"}
+{"qid":347271,"place":"Draguignan","lat":43.5367,"lon":6.4647,"precision":"city","confidence":"high","note":"race finish"}
+{"qid":97358909,"place":"Wear Valley","lat":54.7,"lon":-1.8,"precision":"region","confidence":"medium","note":"district election"}
+{"qid":13098810,"place":"Riga","lat":56.9496,"lon":24.1052,"precision":"city","confidence":"medium","note":"Latvian presidential election"}
+{"qid":1121011,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"tape format"}
+{"qid":3722437,"place":"Italy","lat":41.8719,"lon":12.5674,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":3122982,"place":"Quebec","lat":46.8139,"lon":-71.2082,"precision":"region","confidence":"medium","note":"Radio-Canada show"}
+{"qid":113570266,"place":"Quirino","lat":16.4,"lon":121.5,"precision":"region","confidence":"medium","note":"Quirino plebiscite"}
+{"qid":3496797,"place":"Cyprus","lat":35.1264,"lon":33.4299,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":4615344,"place":"India","lat":20.5937,"lon":78.9629,"precision":"country","confidence":"high","note":"outbreak in India"}
+{"qid":111949217,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"medium","note":"presidency seat"}
+{"qid":61780863,"place":"Montserrat","lat":16.7425,"lon":-62.1874,"precision":"region","confidence":"high","note":"island election"}
+{"qid":65057888,"place":"South Korea","lat":35.9078,"lon":127.7669,"precision":"country","confidence":"medium","note":"national KTX strike"}
+{"qid":96249231,"place":"Italy","lat":41.8719,"lon":12.5674,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":21188490,"place":"Montserrat","lat":16.7425,"lon":-62.1874,"precision":"region","confidence":"high","note":"island election"}
+{"qid":6508621,"place":"Santiago","lat":-33.4489,"lon":-70.6693,"precision":"city","confidence":"medium","note":"Chilean protests centred in Santiago"}
+{"qid":96363025,"place":"Alaska","lat":64.2008,"lon":-149.4937,"precision":"region","confidence":"high","note":"state election"}
+{"qid":4128618,"place":"Laos","lat":19.8563,"lon":102.4955,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":1804075,"place":"Brandenburg","lat":52.4125,"lon":12.5316,"precision":"region","confidence":"high","note":"state election"}
+{"qid":98113777,"place":"New Forest District","lat":50.8667,"lon":-1.6,"precision":"region","confidence":"medium","note":"district election"}
+{"qid":19874124,"place":"Hertsmere","lat":51.6667,"lon":-0.2833,"precision":"region","confidence":"medium","note":"borough election"}
+{"qid":16962498,"place":"Tamworth, Staffordshire","lat":52.633,"lon":-1.6942,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":105227069,"place":"Estadio Gigante de Arroyito","lat":-32.9467,"lon":-60.6228,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":112731210,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"radio program"}
+{"qid":110326731,"place":"Braidwood, Illinois","lat":41.2678,"lon":-88.2117,"precision":"city","confidence":"high","note":"mine near Braidwood"}
+{"qid":8058346,"place":"Trinidad and Tobago","lat":10.6918,"lon":-61.2225,"precision":"country","confidence":"high","note":"national party"}
+{"qid":17009930,"place":"Ecuador","lat":-1.8312,"lon":-78.1834,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":915891,"place":"Sweden","lat":60.1282,"lon":18.6435,"precision":"country","confidence":"medium","note":"Swedish affair"}
+{"qid":5609603,"place":"Cape Town","lat":-33.9249,"lon":18.4241,"precision":"city","confidence":"medium","note":"Cape Colony Parliament"}

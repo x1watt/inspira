@@ -1,0 +1,50 @@
+{"qid":69367189,"place":"Vancouver","lat":49.2827,"lon":-123.1207,"precision":"city","confidence":"medium","note":"flight from Vancouver to Hong Kong"}
+{"qid":108822230,"place":"Denmark","lat":56.0,"lon":10.0,"precision":"country","confidence":"medium","note":"national team strike"}
+{"qid":919984,"place":"Zürich","lat":47.3769,"lon":8.5417,"precision":"city","confidence":"high","note":"started and finished in Zurich"}
+{"qid":109973989,"place":"Albuquerque International Sunport","lat":35.0402,"lon":-106.6092,"precision":"site","confidence":"high","note":"hijacking landed there"}
+{"qid":116844053,"place":"Madagascar","lat":-19.0,"lon":47.0,"precision":"country","confidence":"medium","note":"highway Antananarivo to Toamasina"}
+{"qid":20107671,"place":"Charleroi","lat":50.4108,"lon":4.4446,"precision":"city","confidence":"medium","note":"race start city"}
+{"qid":16931587,"place":"Royal Borough of Kingston upon Thames","lat":51.4085,"lon":-0.3064,"precision":"region","confidence":"high","note":"borough council"}
+{"qid":88968183,"place":"United Kingdom","lat":54.0,"lon":-2.0,"precision":"country","confidence":"medium","note":"UK Government exercise"}
+{"qid":7986997,"place":"West Wiltshire","lat":51.3,"lon":-2.2,"precision":"region","confidence":"medium","note":"district council"}
+{"qid":138302152,"place":"Jyske Bank Boxen","lat":56.121,"lon":8.97,"precision":"site","confidence":"medium","note":"venue stated, Herning"}
+{"qid":4940149,"place":"Metropolitan Borough of Bolton","lat":53.5785,"lon":-2.4299,"precision":"region","confidence":"high","note":"borough council"}
+{"qid":17510935,"place":"Bolsover District","lat":53.23,"lon":-1.29,"precision":"region","confidence":"high","note":"district council"}
+{"qid":117723501,"place":"Sevenoaks District","lat":51.27,"lon":0.19,"precision":"region","confidence":"high","note":"district council"}
+{"qid":5828645,"place":"Colombia","lat":4.0,"lon":-72.0,"precision":"country","confidence":"medium","note":"national election"}
+{"qid":56276965,"place":"Ghana","lat":7.95,"lon":-1.03,"precision":"country","confidence":"low","note":"proposed airline"}
+{"qid":6816016,"place":"Belgrade","lat":44.7866,"lon":20.4489,"precision":"city","confidence":"high","note":"championships in Belgrade"}
+{"qid":24970126,"place":"Glasgow","lat":55.8642,"lon":-4.2518,"precision":"city","confidence":"high","note":"city council"}
+{"qid":4996283,"place":"Bulgaria","lat":42.75,"lon":25.5,"precision":"country","confidence":"medium","note":"national election"}
+{"qid":19871588,"place":"Broadland","lat":52.69,"lon":1.28,"precision":"region","confidence":"high","note":"district council"}
+{"qid":16983766,"place":"Basildon","lat":51.5761,"lon":0.4887,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":109229659,"place":"London Borough of Hackney","lat":51.545,"lon":-0.0553,"precision":"region","confidence":"high","note":"borough council"}
+{"qid":131546310,"place":"Arena Kombëtare","lat":41.3189,"lon":19.8433,"precision":"site","confidence":"high","note":"venue stated"}
+{"qid":117568262,"place":"North Devon","lat":51.08,"lon":-4.05,"precision":"region","confidence":"high","note":"district council"}
+{"qid":131565466,"place":"Harborough District","lat":52.5,"lon":-0.95,"precision":"region","confidence":"high","note":"district council"}
+{"qid":20805587,"place":"Wembley Arena","lat":51.556,"lon":-0.2795,"precision":"site","confidence":"low","note":"later stages at Wembley"}
+{"qid":28316961,"place":"Alderney","lat":49.712,"lon":-2.2,"precision":"region","confidence":"high","note":"island election"}
+{"qid":6895911,"place":"Mole Valley","lat":51.24,"lon":-0.33,"precision":"region","confidence":"high","note":"district council"}
+{"qid":7014159,"place":"Troop C (New York State Police)","lat":42.45,"lon":-75.0,"precision":"region","confidence":"low","note":"Central New York scandal"}
+{"qid":91352599,"place":"West Dorset","lat":50.75,"lon":-2.6,"precision":"region","confidence":"high","note":"district council"}
+{"qid":615607,"place":"Nowogródek","lat":53.59,"lon":25.83,"precision":"city","confidence":"medium","note":"nuns executed there"}
+{"qid":19870098,"place":"London Borough of Richmond upon Thames","lat":51.4479,"lon":-0.326,"precision":"region","confidence":"high","note":"borough council"}
+{"qid":4619020,"place":"India","lat":22.0,"lon":79.0,"precision":"country","confidence":"medium","note":"national scam"}
+{"qid":3722805,"place":"Piedmont","lat":45.0,"lon":7.9,"precision":"region","confidence":"high","note":"regional election"}
+{"qid":18395026,"place":"United States","lat":39.8,"lon":-98.6,"precision":"country","confidence":"medium","note":"national elections"}
+{"qid":4618580,"place":"Kuala Lumpur","lat":3.139,"lon":101.6869,"precision":"city","confidence":"medium","note":"2010 Thomas Uber Cup host"}
+{"qid":3359318,"place":"South China","lat":24.0,"lon":112.0,"precision":"region","confidence":"medium","note":"floods in southern provinces"}
+{"qid":1804137,"place":"North Rhine-Westphalia","lat":51.43,"lon":7.66,"precision":"region","confidence":"high","note":"state election"}
+{"qid":105360337,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"list"}
+{"qid":4616727,"place":"Red Bull Arena (Harrison)","lat":40.7369,"lon":-74.1503,"precision":"site","confidence":"medium","note":"held at Red Bull Arena"}
+{"qid":16970879,"place":"College Park (Charleston)","lat":32.786,"lon":-79.936,"precision":"site","confidence":"medium","note":"tournament site"}
+{"qid":22948699,"place":"Oman","lat":21.0,"lon":57.0,"precision":"country","confidence":"medium","note":"national election"}
+{"qid":104948773,"place":"Florida","lat":27.77,"lon":-81.7,"precision":"region","confidence":"high","note":"state Senate election"}
+{"qid":124639511,"place":"Santa Marta","lat":11.2408,"lon":-74.199,"precision":"city","confidence":"low","note":"2025 beach games host"}
+{"qid":7089172,"place":"Barcelona","lat":41.3874,"lon":2.1686,"precision":"city","confidence":"medium","note":"1992 Olympics coverage"}
+{"qid":96279364,"place":"Suriname","lat":4.0,"lon":-56.0,"precision":"country","confidence":"medium","note":"colonial election"}
+{"qid":30641219,"place":"Maine","lat":45.36,"lon":-69.0,"precision":"region","confidence":"high","note":"state election"}
+{"qid":5894983,"place":"Hong Kong","lat":22.3193,"lon":114.1694,"precision":"city","confidence":"high","note":"plebiscite in Hong Kong"}
+{"qid":115802511,"place":"Peterborough","lat":52.5695,"lon":-0.2405,"precision":"city","confidence":"high","note":"city council"}
+{"qid":21044219,"place":"Bogotá","lat":4.711,"lon":-74.0721,"precision":"city","confidence":"medium","note":"Colombian capital"}
+{"qid":24191291,"place":"Australia","lat":-25.0,"lon":133.0,"precision":"country","confidence":"medium","note":"federal election"}

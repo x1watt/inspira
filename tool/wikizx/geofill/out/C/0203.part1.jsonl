@@ -1,0 +1,50 @@
+{"qid":3111601,"place":"Canada","lat":56.1304,"lon":-106.3468,"precision":"country","confidence":"medium","note":"national epidemic"}
+{"qid":7300268,"place":"Saigon","lat":10.7769,"lon":106.7009,"precision":"city","confidence":"medium","note":"coup in Saigon"}
+{"qid":1975069,"place":"Zamora, Spain","lat":41.5033,"lon":-5.7447,"precision":"city","confidence":"medium","note":"race started in Zamora"}
+{"qid":844851,"place":"France","lat":46.2276,"lon":2.2137,"precision":"country","confidence":"medium","note":"nationwide cup"}
+{"qid":7604083,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"polls, abstract"}
+{"qid":125393317,"place":"Caracas","lat":10.4806,"lon":-66.9036,"precision":"city","confidence":"medium","note":"Venezuelan law, national assembly"}
+{"qid":140289169,"place":"Hala Tivoli","lat":46.0583,"lon":14.5,"precision":"site","confidence":"high","note":"venue named"}
+{"qid":2285264,"place":"Yekaterinburg","lat":56.8389,"lon":60.6057,"precision":"city","confidence":"high","note":"bridge collapse there"}
+{"qid":4594834,"place":"South Korea","lat":35.9078,"lon":127.7669,"precision":"country","confidence":"medium","note":"tournament in South Korea"}
+{"qid":113499741,"place":"Argentina","lat":-38.4161,"lon":-63.6167,"precision":"country","confidence":"medium","note":"tour of Argentina"}
+{"qid":108755420,"place":"Arlen Specter US Squash Center","lat":39.95,"lon":-75.19,"precision":"site","confidence":"medium","note":"venue named"}
+{"qid":7568694,"place":"South Shields","lat":54.9986,"lon":-1.4323,"precision":"city","confidence":"medium","note":"council seat"}
+{"qid":15156959,"place":"Stockholm","lat":59.3293,"lon":18.0686,"precision":"city","confidence":"high","note":"bid city"}
+{"qid":104947786,"place":"Michigan","lat":44.3148,"lon":-85.6024,"precision":"region","confidence":"medium","note":"state election"}
+{"qid":6515903,"place":"Leeds","lat":53.8008,"lon":-1.5491,"precision":"city","confidence":"high","note":"council election"}
+{"qid":4556364,"place":"Ottawa","lat":45.4215,"lon":-75.6972,"precision":"city","confidence":"high","note":"team based in Ottawa"}
+{"qid":10432745,"place":"Malmö","lat":55.605,"lon":13.0038,"precision":"city","confidence":"medium","note":"bombed Malmö"}
+{"qid":126003338,"place":"Sale, Greater Manchester","lat":53.4243,"lon":-2.3222,"precision":"city","confidence":"high","note":"council election"}
+{"qid":27962072,"place":"Putrajaya","lat":2.9264,"lon":101.6964,"precision":"city","confidence":"low","note":"Malaysian act, federal seat"}
+{"qid":115802417,"place":"North Macedonia","lat":41.6086,"lon":21.7453,"precision":"country","confidence":"medium","note":"operation in Macedonia"}
+{"qid":20714142,"place":"City of Westminster","lat":51.4975,"lon":-0.1357,"precision":"city","confidence":"high","note":"council election"}
+{"qid":19871368,"place":"Boston, Lincolnshire","lat":52.976,"lon":-0.026,"precision":"city","confidence":"high","note":"council election"}
+{"qid":40165724,"place":"The Hague","lat":52.0705,"lon":4.3007,"precision":"city","confidence":"medium","note":"Senate seat"}
+{"qid":104842833,"place":"Guam","lat":13.4443,"lon":144.7937,"precision":"region","confidence":"high","note":"flooding in Guam"}
+{"qid":117474139,"place":"St Albans","lat":51.7553,"lon":-0.336,"precision":"city","confidence":"high","note":"council election"}
+{"qid":17053563,"place":"New Delhi","lat":28.6139,"lon":77.209,"precision":"city","confidence":"medium","note":"Indian parliament act"}
+{"qid":105540645,"place":"Lincolnshire","lat":53.2307,"lon":-0.5406,"precision":"region","confidence":"medium","note":"county election"}
+{"qid":8055764,"place":"West Riding of Yorkshire","lat":53.8,"lon":-1.55,"precision":"region","confidence":"medium","note":"uprising in West Riding"}
+{"qid":96369656,"place":"Castle Point","lat":51.55,"lon":0.57,"precision":"region","confidence":"medium","note":"borough election"}
+{"qid":1963961,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"product"}
+{"qid":134571964,"place":"The Hague","lat":52.0705,"lon":4.3007,"precision":"city","confidence":"high","note":"electoral district"}
+{"qid":5339204,"place":"Edmonton","lat":53.5461,"lon":-113.4937,"precision":"city","confidence":"high","note":"municipal election"}
+{"qid":5532699,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"journal"}
+{"qid":104950095,"place":"New Hampshire","lat":43.6805,"lon":-71.5811,"precision":"region","confidence":"medium","note":"state election"}
+{"qid":4557209,"place":"Yellow River","lat":35.0,"lon":113.0,"precision":"region","confidence":"low","note":"flood in North China plain"}
+{"qid":16988089,"place":"Colchester","lat":51.8959,"lon":0.8919,"precision":"city","confidence":"high","note":"council election"}
+{"qid":110269851,"place":"Cheltenham","lat":51.8994,"lon":-2.0783,"precision":"city","confidence":"high","note":"council election"}
+{"qid":123418205,"place":"Mexico City","lat":19.4326,"lon":-99.1332,"precision":"city","confidence":"high","note":"air show collision"}
+{"qid":12050732,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"bus model"}
+{"qid":104949057,"place":"Indiana","lat":39.7662,"lon":-86.4413,"precision":"region","confidence":"medium","note":"state election"}
+{"qid":7654966,"place":"Sweden","lat":60.1282,"lon":18.6435,"precision":"country","confidence":"medium","note":"national election"}
+{"qid":11891431,"place":"Stockholm Olympic Stadium","lat":59.3453,"lon":18.0783,"precision":"site","confidence":"low","note":"Swedish gymnastics demonstration"}
+{"qid":20100220,"place":"L'Hospitalet de Llobregat","lat":41.3596,"lon":2.0997,"precision":"city","confidence":"medium","note":"race started there"}
+{"qid":131545314,"place":"Cannock Chase","lat":52.69,"lon":-2.03,"precision":"region","confidence":"medium","note":"district election"}
+{"qid":125242759,"place":"Chester","lat":53.1905,"lon":-2.8908,"precision":"city","confidence":"high","note":"council election"}
+{"qid":120496599,"place":"Beijing","lat":39.9042,"lon":116.4074,"precision":"city","confidence":"medium","note":"heat wave, capital affected"}
+{"qid":17073021,"place":"Tegucigalpa","lat":14.0723,"lon":-87.1921,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":24899050,"place":"Cambridge","lat":52.2053,"lon":0.1218,"precision":"city","confidence":"high","note":"rowing races at Cambridge"}
+{"qid":4923242,"place":"Blackpool","lat":53.8175,"lon":-3.0357,"precision":"city","confidence":"high","note":"council election"}
+{"qid":106253470,"place":"Mexico","lat":23.6345,"lon":-102.5528,"precision":"country","confidence":"medium","note":"national referendum"}

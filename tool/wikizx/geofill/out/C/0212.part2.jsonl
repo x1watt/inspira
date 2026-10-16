@@ -1,0 +1,50 @@
+{"qid":5283846,"place":"Century City, Los Angeles","lat":34.0584,"lon":-118.417,"precision":"city","confidence":"medium","note":"Century City Shopping Center"}
+{"qid":6747355,"place":"Manchester","lat":53.4808,"lon":-2.2426,"precision":"city","confidence":"high","note":"city council"}
+{"qid":85725521,"place":"Idaho","lat":44.07,"lon":-114.74,"precision":"region","confidence":"medium","note":"state election"}
+{"qid":54873956,"place":"Nebraska","lat":41.5,"lon":-99.8,"precision":"region","confidence":"medium","note":"state election"}
+{"qid":24039300,"place":"Eastleigh","lat":50.9696,"lon":-1.35,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":16000691,"place":"Tasmania","lat":-42.0,"lon":146.6,"precision":"region","confidence":"medium","note":"southern Tasmania floods"}
+{"qid":6747354,"place":"Manchester","lat":53.4808,"lon":-2.2426,"precision":"city","confidence":"high","note":"city council"}
+{"qid":42916507,"place":"Columbia, South Carolina","lat":34.0007,"lon":-81.0348,"precision":"city","confidence":"medium","note":"state legislature chose electors"}
+{"qid":140779315,"place":"Zarqa","lat":32.0728,"lon":36.088,"precision":"city","confidence":"high","note":"tournament host"}
+{"qid":56280022,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"medium","note":"UN General Assembly"}
+{"qid":2135088,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"race location unclear"}
+{"qid":15485533,"place":"Scandinavium","lat":57.6985,"lon":11.9869,"precision":"site","confidence":"high","note":"held at Scandinavium"}
+{"qid":48817401,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"video game"}
+{"qid":85720021,"place":"Massachusetts","lat":42.4,"lon":-71.8,"precision":"region","confidence":"medium","note":"state election"}
+{"qid":5413235,"place":"Amsterdam","lat":52.3676,"lon":4.9041,"precision":"city","confidence":"high","note":"Endemol Studios Amsterdam"}
+{"qid":18816054,"place":"Provo, Utah","lat":40.2338,"lon":-111.6585,"precision":"city","confidence":"high","note":"BYU campus"}
+{"qid":104946932,"place":"Nebraska","lat":41.5,"lon":-99.8,"precision":"region","confidence":"medium","note":"state election"}
+{"qid":65079828,"place":"Derby","lat":52.9225,"lon":-1.4746,"precision":"city","confidence":"high","note":"city council"}
+{"qid":4602643,"place":"Bucaramanga","lat":7.1254,"lon":-73.1198,"precision":"city","confidence":"medium","note":"race start"}
+{"qid":3996118,"place":"Zürich","lat":47.3769,"lon":8.5417,"precision":"city","confidence":"medium","note":"race start"}
+{"qid":16824234,"place":"Abuja","lat":9.0765,"lon":7.3986,"precision":"city","confidence":"high","note":"conference in Abuja"}
+{"qid":140999939,"place":"Salford","lat":53.4875,"lon":-2.2901,"precision":"city","confidence":"high","note":"city council"}
+{"qid":28414693,"place":"Mangshi","lat":24.4333,"lon":98.5833,"precision":"city","confidence":"medium","note":"Dai chiefdom seat"}
+{"qid":4627595,"place":"Ottawa","lat":45.4215,"lon":-75.6972,"precision":"city","confidence":"medium","note":"Supreme Court of Canada seat"}
+{"qid":1571885,"place":"Helsinki","lat":60.1699,"lon":24.9384,"precision":"city","confidence":"medium","note":"Grand Duchy capital"}
+{"qid":29049807,"place":"Belgium","lat":50.5039,"lon":4.4699,"precision":"country","confidence":"medium","note":"Belgian race"}
+{"qid":110903798,"place":"Eufaula, Alabama","lat":31.8913,"lon":-85.1455,"precision":"city","confidence":"high","note":"lynched in Eufaula"}
+{"qid":5359649,"place":"Murcia","lat":37.9922,"lon":-1.1307,"precision":"city","confidence":"medium","note":"race start"}
+{"qid":4581620,"place":"Carolinas","lat":35.5,"lon":-80.0,"precision":"region","confidence":"medium","note":"tornado outbreak region"}
+{"qid":44810764,"place":"Naauwpoort","lat":-28.9,"lon":27.0,"precision":"region","confidence":"low","note":"clash near Free State"}
+{"qid":124418324,"place":"Salford","lat":53.4875,"lon":-2.2901,"precision":"city","confidence":"high","note":"city council"}
+{"qid":20804946,"place":"Stade Mohamed V","lat":33.5822,"lon":-7.642,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":139759443,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"regional zone"}
+{"qid":16931037,"place":"Bury, Greater Manchester","lat":53.5933,"lon":-2.2966,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":6743354,"place":"Bamako","lat":12.6392,"lon":-8.0029,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":111737747,"place":"Caracas","lat":10.4806,"lon":-66.9036,"precision":"city","confidence":"medium","note":"CNE and government seat"}
+{"qid":113214099,"place":"London Borough of Sutton","lat":51.3618,"lon":-0.1945,"precision":"region","confidence":"high","note":"borough"}
+{"qid":23020262,"place":"Colchester","lat":51.8959,"lon":0.8919,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":28154487,"place":"Tokyo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"medium","note":"events in Tokyo and Osaka"}
+{"qid":132477336,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"global rankings"}
+{"qid":17066487,"place":"Wiltshire","lat":51.3492,"lon":-1.9927,"precision":"region","confidence":"high","note":"council"}
+{"qid":17141289,"place":"Birmingham, Alabama","lat":33.5207,"lon":-86.8025,"precision":"city","confidence":"medium","note":"N.D. Ala. court"}
+{"qid":3850287,"place":"Fiesole","lat":43.8059,"lon":11.2935,"precision":"city","confidence":"high","note":"killed at Fiesole"}
+{"qid":27883787,"place":"Hong Kong Squash Centre","lat":22.2796,"lon":114.16,"precision":"site","confidence":"medium","note":"venue"}
+{"qid":3716805,"place":"Roeselare","lat":50.9467,"lon":3.125,"precision":"city","confidence":"high","note":"race start"}
+{"qid":106913095,"place":"Amber Valley","lat":53.05,"lon":-1.4,"precision":"region","confidence":"medium","note":"borough council"}
+{"qid":125248651,"place":"The Hague","lat":52.0705,"lon":4.3007,"precision":"city","confidence":"medium","note":"Dutch government seat"}
+{"qid":5002361,"place":"Brussels","lat":50.8503,"lon":4.3517,"precision":"city","confidence":"high","note":"Belgian court trial"}
+{"qid":104842585,"place":"Texas","lat":31.0,"lon":-100.0,"precision":"region","confidence":"medium","note":"state election"}
+{"qid":60528089,"place":"Metropolitan Borough of Wirral","lat":53.3727,"lon":-3.0738,"precision":"region","confidence":"high","note":"borough"}

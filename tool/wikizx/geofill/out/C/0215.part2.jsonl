@@ -1,0 +1,50 @@
+{"qid":136841670,"place":"New Zealand","lat":-40.9006,"lon":174.886,"precision":"country","confidence":"medium","note":"nationwide outbreak"}
+{"qid":20708487,"place":"Virginia","lat":37.4316,"lon":-78.6569,"precision":"region","confidence":"medium","note":"statewide"}
+{"qid":131572760,"place":"Atlantis Paradise Island","lat":25.086,"lon":-77.323,"precision":"site","confidence":"high","note":"resort venue"}
+{"qid":96363767,"place":"Horsham","lat":51.0629,"lon":-0.326,"precision":"city","confidence":"medium","note":"council seat"}
+{"qid":7383752,"place":"Rwanda","lat":-1.9403,"lon":29.8739,"precision":"country","confidence":"medium","note":"nationwide"}
+{"qid":2265244,"place":"Windsor, Berkshire","lat":51.4816,"lon":-0.6047,"precision":"city","confidence":"medium","note":"race start"}
+{"qid":85721149,"place":"Boston","lat":42.3601,"lon":-71.0589,"precision":"city","confidence":"medium","note":"legislature in Boston"}
+{"qid":27074321,"place":"Varese","lat":45.8206,"lon":8.8251,"precision":"city","confidence":"medium","note":"race region"}
+{"qid":5477416,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"magazine"}
+{"qid":18356779,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"low","note":"Congress elections"}
+{"qid":7891424,"place":"Colorado","lat":39.5501,"lon":-105.7821,"precision":"region","confidence":"medium","note":"statewide"}
+{"qid":28407020,"place":"Brighton","lat":50.8225,"lon":-0.1372,"precision":"city","confidence":"high","note":"council"}
+{"qid":47470383,"place":"Grand Central Terminal","lat":40.7527,"lon":-73.9772,"precision":"site","confidence":"high","note":"venue"}
+{"qid":18621169,"place":"Luxembourg","lat":49.6116,"lon":6.1319,"precision":"country","confidence":"medium","note":"nationwide"}
+{"qid":96370560,"place":"Raiwind","lat":31.249,"lon":74.215,"precision":"city","confidence":"high","note":"Raiwind Markaz"}
+{"qid":24039330,"place":"Ashton-under-Lyne","lat":53.489,"lon":-2.095,"precision":"city","confidence":"medium","note":"Tameside seat"}
+{"qid":5427890,"place":"Slapton Sands","lat":50.297,"lon":-3.643,"precision":"site","confidence":"high","note":"Exercise rehearsal beach"}
+{"qid":46993346,"place":"Tibet","lat":31.6927,"lon":88.0924,"precision":"region","confidence":"medium","note":"legal code"}
+{"qid":29587157,"place":"Stirling","lat":56.1165,"lon":-3.9369,"precision":"city","confidence":"high","note":"council"}
+{"qid":65045042,"place":"Southern United States","lat":33.0,"lon":-85.0,"precision":"region","confidence":"low","note":"flooding region"}
+{"qid":110235972,"place":"Plymouth","lat":50.3755,"lon":-4.1427,"precision":"city","confidence":"medium","note":"created in Plymouth"}
+{"qid":7891990,"place":"South Carolina","lat":33.8361,"lon":-81.1637,"precision":"region","confidence":"medium","note":"statewide"}
+{"qid":91932171,"place":"Stockport","lat":53.4083,"lon":-2.1494,"precision":"city","confidence":"high","note":"council"}
+{"qid":134250357,"place":"Bournemouth","lat":50.7192,"lon":-1.8808,"precision":"city","confidence":"high","note":"council"}
+{"qid":4863842,"place":"Barrow-in-Furness","lat":54.1108,"lon":-3.2261,"precision":"city","confidence":"high","note":"council"}
+{"qid":11873459,"place":"Finland","lat":61.9241,"lon":25.7482,"precision":"country","confidence":"medium","note":"nationwide"}
+{"qid":114717216,"place":"Davos","lat":46.8027,"lon":9.836,"precision":"city","confidence":"high","note":"meeting in Davos"}
+{"qid":7892822,"place":"Maine","lat":45.2538,"lon":-69.4455,"precision":"region","confidence":"medium","note":"statewide"}
+{"qid":23782060,"place":"Tours","lat":47.3941,"lon":0.6848,"precision":"city","confidence":"high","note":"council in Tours"}
+{"qid":85732055,"place":"Oadby","lat":52.597,"lon":-1.075,"precision":"city","confidence":"medium","note":"council seat"}
+{"qid":55139188,"place":"Ripley, Derbyshire","lat":53.049,"lon":-1.406,"precision":"city","confidence":"medium","note":"Amber Valley seat"}
+{"qid":4976903,"place":"Broxbourne","lat":51.747,"lon":-0.02,"precision":"city","confidence":"medium","note":"council"}
+{"qid":11918776,"place":"Cádiz","lat":36.5271,"lon":-6.2886,"precision":"city","confidence":"low","note":"Cortes seat 1813"}
+{"qid":6055156,"place":"Lebanon","lat":33.8547,"lon":35.8623,"precision":"country","confidence":"medium","note":"aid in Lebanon"}
+{"qid":65083065,"place":"Plymouth","lat":50.3755,"lon":-4.1427,"precision":"city","confidence":"high","note":"council"}
+{"qid":19979596,"place":"Norway","lat":60.472,"lon":8.4689,"precision":"country","confidence":"medium","note":"fjords race"}
+{"qid":11813860,"place":"Los Angeles","lat":34.0522,"lon":-118.2437,"precision":"city","confidence":"high","note":"host city"}
+{"qid":131617163,"place":"Yeovil","lat":50.942,"lon":-2.633,"precision":"city","confidence":"medium","note":"South Somerset seat"}
+{"qid":17591880,"place":"Bern","lat":46.948,"lon":7.4474,"precision":"city","confidence":"medium","note":"federal city"}
+{"qid":5828870,"place":"Ecuador","lat":-1.8312,"lon":-78.1834,"precision":"country","confidence":"medium","note":"nationwide"}
+{"qid":106913074,"place":"Ipswich","lat":52.0567,"lon":1.1482,"precision":"city","confidence":"high","note":"council"}
+{"qid":21074750,"place":"Daskalakis Athletic Center","lat":39.957,"lon":-75.189,"precision":"site","confidence":"medium","note":"venue"}
+{"qid":116732047,"place":"Turkey","lat":38.9637,"lon":35.2433,"precision":"country","confidence":"medium","note":"nationwide"}
+{"qid":21705155,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"series of races"}
+{"qid":28663651,"place":"Geneva","lat":46.2044,"lon":6.1432,"precision":"city","confidence":"medium","note":"race finish"}
+{"qid":138613493,"place":"Verona Arena","lat":45.439,"lon":10.994,"precision":"site","confidence":"high","note":"closing ceremony"}
+{"qid":104848557,"place":"Kentucky","lat":37.8393,"lon":-84.27,"precision":"region","confidence":"medium","note":"statewide"}
+{"qid":7733613,"place":"Columbia University","lat":40.8075,"lon":-73.9626,"precision":"site","confidence":"high","note":"student newspaper"}
+{"qid":7593349,"place":"St Helens, Merseyside","lat":53.454,"lon":-2.737,"precision":"city","confidence":"high","note":"council"}
+{"qid":27628324,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"attack vector"}

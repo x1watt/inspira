@@ -1,0 +1,50 @@
+{"qid":6670992,"place":"Vichy","lat":46.1278,"lon":3.426,"precision":"city","confidence":"medium","note":"route terminus"}
+{"qid":124260105,"place":"Iceland","lat":64.9631,"lon":-19.0208,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":22713709,"place":"La Bombonera","lat":-34.6356,"lon":-58.3647,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":125554098,"place":"France","lat":46.2276,"lon":2.2137,"precision":"country","confidence":"high","note":"national season"}
+{"qid":3586986,"place":"Belgium","lat":50.5039,"lon":4.4699,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":4976884,"place":"Broxbourne","lat":51.743,"lon":-0.02,"precision":"city","confidence":"medium","note":"borough election"}
+{"qid":28134007,"place":"Federal Court of Australia","lat":-33.8688,"lon":151.2093,"precision":"city","confidence":"low","note":"Australian court case"}
+{"qid":30611706,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"video game"}
+{"qid":107723270,"place":"Norwich","lat":52.6309,"lon":1.2974,"precision":"city","confidence":"high","note":"city council"}
+{"qid":192436,"place":"United Kingdom","lat":54.0,"lon":-2.0,"precision":"country","confidence":"medium","note":"UK and Ireland floods"}
+{"qid":65044702,"place":"South Somerset","lat":50.95,"lon":-2.65,"precision":"region","confidence":"medium","note":"district election"}
+{"qid":6815986,"place":"Coimbra","lat":40.2033,"lon":-8.4103,"precision":"city","confidence":"high","note":"championships in Coimbra"}
+{"qid":4996278,"place":"Bulgaria","lat":42.7339,"lon":25.4858,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":24039331,"place":"Trafford","lat":53.42,"lon":-2.35,"precision":"region","confidence":"medium","note":"borough election"}
+{"qid":94962594,"place":"Luton","lat":51.8787,"lon":-0.42,"precision":"city","confidence":"low","note":"EasyJet HQ at Luton"}
+{"qid":4868088,"place":"Bassetlaw District","lat":53.33,"lon":-0.95,"precision":"region","confidence":"medium","note":"district election"}
+{"qid":16956002,"place":"New Brunswick","lat":46.5653,"lon":-66.4619,"precision":"region","confidence":"high","note":"provincial referendum"}
+{"qid":5666379,"place":"Harrogate","lat":53.9921,"lon":-1.5418,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":2539331,"place":"West Berlin","lat":52.52,"lon":13.405,"precision":"city","confidence":"high","note":"state election"}
+{"qid":2539614,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"calendar list"}
+{"qid":16830057,"place":"Hastings","lat":50.8543,"lon":0.5735,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":116763669,"place":"Madhya Pradesh","lat":23.4733,"lon":77.947,"precision":"region","confidence":"medium","note":"proposed state council"}
+{"qid":24062082,"place":"Minneapolis","lat":44.9778,"lon":-93.265,"precision":"city","confidence":"medium","note":"University of Minnesota study"}
+{"qid":6541238,"place":"Liberia","lat":6.4281,"lon":-9.4295,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":13638310,"place":"Bangkok","lat":13.7563,"lon":100.5018,"precision":"city","confidence":"high","note":"coup in Bangkok"}
+{"qid":30224548,"place":"Marcinelle","lat":50.413,"lon":4.441,"precision":"city","confidence":"high","note":"race finish"}
+{"qid":2864890,"place":"Charente","lat":45.7,"lon":0.15,"precision":"region","confidence":"medium","note":"named after Artenac site"}
+{"qid":6793723,"place":"Mauritania","lat":21.0079,"lon":-10.9408,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":133403003,"place":"Västervik","lat":57.7584,"lon":16.6376,"precision":"city","confidence":"high","note":"torpedoed off Västervik"}
+{"qid":16160222,"place":"Karasjok","lat":69.4719,"lon":25.5112,"precision":"city","confidence":"medium","note":"Sami Parliament seat"}
+{"qid":7165370,"place":"Penwith","lat":50.15,"lon":-5.57,"precision":"region","confidence":"medium","note":"district election"}
+{"qid":20805445,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"medium","note":"BP Club in Sydenham"}
+{"qid":3533445,"place":"San Luis Province","lat":-33.3,"lon":-66.33,"precision":"region","confidence":"medium","note":"Argentine stage race"}
+{"qid":3775250,"place":"Denain","lat":50.3258,"lon":3.3953,"precision":"city","confidence":"high","note":"race at Denain"}
+{"qid":7378166,"place":"Rugby, Warwickshire","lat":52.3708,"lon":-1.265,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":131913420,"place":"Bengaluru","lat":12.9716,"lon":77.5946,"precision":"city","confidence":"high","note":"found dead in Bengaluru"}
+{"qid":16931006,"place":"Birmingham","lat":52.4862,"lon":-1.8904,"precision":"city","confidence":"high","note":"city council"}
+{"qid":5020879,"place":"California","lat":36.7783,"lon":-119.4179,"precision":"region","confidence":"high","note":"state ballot measure"}
+{"qid":111991243,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"low","note":"fashion show presentation"}
+{"qid":107128704,"place":"South Holland, Lincolnshire","lat":52.8,"lon":-0.05,"precision":"region","confidence":"medium","note":"district election"}
+{"qid":20107653,"place":"Milan","lat":45.4642,"lon":9.19,"precision":"city","confidence":"high","note":"race start"}
+{"qid":5499762,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"high","note":"conference in Paris"}
+{"qid":54817938,"place":"Sefton","lat":53.5,"lon":-2.99,"precision":"region","confidence":"medium","note":"borough election"}
+{"qid":8040450,"place":"Wyre","lat":53.9,"lon":-2.9,"precision":"region","confidence":"medium","note":"borough election"}
+{"qid":3647005,"place":"Benalmádena","lat":36.5951,"lon":-4.5686,"precision":"city","confidence":"high","note":"race start"}
+{"qid":70155580,"place":"Colombia","lat":4.5709,"lon":-74.2973,"precision":"country","confidence":"high","note":"national stage race"}
+{"qid":5670274,"place":"North Carolina","lat":35.7596,"lon":-79.0193,"precision":"region","confidence":"high","note":"state primary"}
+{"qid":16211662,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"low","note":"MLS draft"}
+{"qid":18160448,"place":"Havant","lat":50.8519,"lon":-0.9816,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":6979606,"place":"Sri Lanka","lat":7.8731,"lon":80.7718,"precision":"country","confidence":"high","note":"national ID"}

@@ -1,0 +1,50 @@
+{"qid":7232758,"place":"Lisbon","lat":38.7223,"lon":-9.1393,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":6567923,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"list"}
+{"qid":21008670,"place":"Darwin, Northern Territory","lat":-12.4634,"lon":130.8456,"precision":"city","confidence":"medium","note":"race start"}
+{"qid":117054210,"place":"Leeds","lat":53.8008,"lon":-1.5491,"precision":"city","confidence":"high","note":"council area"}
+{"qid":4603407,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"multi-country group"}
+{"qid":61750208,"place":"Novaya Zemlya","lat":74.0,"lon":56.0,"precision":"region","confidence":"high","note":"archipelago"}
+{"qid":692601,"place":"Ermatingen","lat":47.6667,"lon":9.0833,"precision":"city","confidence":"high","note":"host town"}
+{"qid":6816072,"place":"Belgrade","lat":44.7866,"lon":20.4489,"precision":"city","confidence":"high","note":"championships host"}
+{"qid":2539324,"place":"West Berlin","lat":52.52,"lon":13.405,"precision":"city","confidence":"medium","note":"Berlin House of Representatives"}
+{"qid":110774148,"place":"London","lat":51.5072,"lon":-0.1276,"precision":"city","confidence":"high","note":"race host"}
+{"qid":117428031,"place":"North Hertfordshire","lat":51.95,"lon":-0.28,"precision":"region","confidence":"medium","note":"council area"}
+{"qid":125352661,"place":"Rochford District","lat":51.58,"lon":0.7,"precision":"region","confidence":"medium","note":"council area"}
+{"qid":20880687,"place":"Apollo Theater","lat":40.81,"lon":-73.95,"precision":"site","confidence":"high","note":"concert venue"}
+{"qid":139759406,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"architectural topic"}
+{"qid":28220646,"place":"Virginia","lat":37.4316,"lon":-78.6569,"precision":"region","confidence":"medium","note":"statewide"}
+{"qid":553596,"place":"Karlsruhe Institute of Technology","lat":49.0094,"lon":8.4044,"precision":"site","confidence":"medium","note":"host institution"}
+{"qid":7165752,"place":"Brazzaville","lat":-4.2634,"lon":15.2429,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":61999929,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"bids by several cities"}
+{"qid":4498605,"place":"Tabriz","lat":38.08,"lon":46.2919,"precision":"city","confidence":"low","note":"Iranian Azerbaijan stage race"}
+{"qid":17020931,"place":"Swindon","lat":51.5558,"lon":-1.7797,"precision":"city","confidence":"high","note":"council area"}
+{"qid":51078452,"place":"Thailand","lat":15.87,"lon":100.9925,"precision":"country","confidence":"medium","note":"national stage race"}
+{"qid":17149835,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"US tour series"}
+{"qid":4836111,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"UK budget mechanism"}
+{"qid":20711681,"place":"Wembley Conference Centre","lat":51.556,"lon":-0.2796,"precision":"site","confidence":"medium","note":"final venue"}
+{"qid":8034164,"place":"Worcester, England","lat":52.192,"lon":-2.22,"precision":"city","confidence":"high","note":"council area"}
+{"qid":138358618,"place":"Rugby, Warwickshire","lat":52.37,"lon":-1.265,"precision":"city","confidence":"high","note":"council area"}
+{"qid":7450039,"place":"Australia","lat":-25.2744,"lon":133.7751,"precision":"country","confidence":"medium","note":"federal election"}
+{"qid":65043246,"place":"North Hertfordshire","lat":51.95,"lon":-0.28,"precision":"region","confidence":"medium","note":"council area"}
+{"qid":136913825,"place":"Barclays Center","lat":40.6826,"lon":-73.9754,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":24282668,"place":"Quebec","lat":46.8139,"lon":-71.208,"precision":"region","confidence":"low","note":"Quebec prize"}
+{"qid":12050735,"place":"Czech Republic","lat":49.8175,"lon":15.473,"precision":"country","confidence":"low","note":"manufacturer country"}
+{"qid":16834867,"place":"San Francisco","lat":37.7749,"lon":-122.4194,"precision":"city","confidence":"medium","note":"created in San Francisco"}
+{"qid":30550390,"place":"Lucknow","lat":26.8467,"lon":80.9462,"precision":"city","confidence":"high","note":"found dead in Lucknow"}
+{"qid":4976905,"place":"Borough of Broxbourne","lat":51.75,"lon":-0.02,"precision":"region","confidence":"medium","note":"council area"}
+{"qid":109424799,"place":"Mexico","lat":23.6345,"lon":-102.5528,"precision":"country","confidence":"low","note":"Mexican hijacking"}
+{"qid":5025400,"place":"Cambridge","lat":52.2053,"lon":0.1218,"precision":"city","confidence":"high","note":"council area"}
+{"qid":65066964,"place":"Tameside","lat":53.48,"lon":-2.08,"precision":"region","confidence":"medium","note":"council area"}
+{"qid":6392896,"place":"Nairobi","lat":-1.2921,"lon":36.8219,"precision":"city","confidence":"medium","note":"colonial capital"}
+{"qid":1021438,"place":"Hamburg","lat":53.5511,"lon":9.9937,"precision":"city","confidence":"high","note":"state election"}
+{"qid":3722488,"place":"San Marino","lat":43.9424,"lon":12.4578,"precision":"city","confidence":"medium","note":"Grand and General Council"}
+{"qid":3641075,"place":"Los Angeles","lat":34.0522,"lon":-118.2437,"precision":"city","confidence":"high","note":"LAPD beatings"}
+{"qid":16958065,"place":"Cornaredo","lat":45.5,"lon":9.04,"precision":"city","confidence":"high","note":"race host"}
+{"qid":2958589,"place":"Braniewo","lat":54.3833,"lon":19.8333,"precision":"city","confidence":"medium","note":"race start"}
+{"qid":20642429,"place":"Chile","lat":-35.6751,"lon":-71.543,"precision":"country","confidence":"low","note":"Chilean cruise ship"}
+{"qid":17182406,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"draft"}
+{"qid":11880318,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"international day"}
+{"qid":2043962,"place":"Venezuela","lat":6.4238,"lon":-66.5897,"precision":"country","confidence":"medium","note":"rotten food scandal"}
+{"qid":16970155,"place":"Belgium","lat":50.5039,"lon":4.4699,"precision":"country","confidence":"medium","note":"race in Belgium"}
+{"qid":28136207,"place":"Wetzlar","lat":50.5561,"lon":8.5042,"precision":"city","confidence":"high","note":"convention held there"}
+{"qid":136674745,"place":"Casablanca","lat":33.5731,"lon":-7.5898,"precision":"city","confidence":"high","note":"crash near Casablanca"}

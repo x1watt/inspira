@@ -1,0 +1,50 @@
+{"qid":7033094,"place":"Niger","lat":17.6,"lon":8.1,"precision":"country","confidence":"medium","note":"nationwide"}
+{"qid":5481753,"place":"Guatemala","lat":15.5,"lon":-90.3,"precision":"country","confidence":"medium","note":"nationwide"}
+{"qid":104947452,"place":"Delaware","lat":39.0,"lon":-75.5,"precision":"region","confidence":"high","note":"state election"}
+{"qid":6055165,"place":"Lebanon","lat":33.85,"lon":35.86,"precision":"country","confidence":"low","note":"reactions to war"}
+{"qid":104873297,"place":"Canberra","lat":-35.2809,"lon":149.13,"precision":"city","confidence":"medium","note":"Canberra Capitals finals"}
+{"qid":3577284,"place":"Asuka, Nara","lat":34.471,"lon":135.821,"precision":"city","confidence":"low","note":"period in Asuka"}
+{"qid":5036587,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"play"}
+{"qid":17591888,"place":"Switzerland","lat":46.8,"lon":8.2,"precision":"country","confidence":"medium","note":"nationwide"}
+{"qid":6880130,"place":"Chile","lat":-33.4,"lon":-70.7,"precision":"country","confidence":"low","note":"national title"}
+{"qid":55621386,"place":"Kabokweni","lat":-25.35,"lon":31.0833,"precision":"city","confidence":"high","note":"massacre at Kabokweni"}
+{"qid":112078365,"place":"Reading, Berkshire","lat":51.4543,"lon":-0.9781,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":16932434,"place":"Rotherham","lat":53.43,"lon":-1.3568,"precision":"city","confidence":"high","note":"metropolitan borough"}
+{"qid":20711850,"place":"Christchurch, Dorset","lat":50.7352,"lon":-1.7783,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":140303820,"place":"Brazil","lat":-14.2,"lon":-51.9,"precision":"country","confidence":"medium","note":"multi-state alert"}
+{"qid":21044347,"place":"Chile","lat":-33.4,"lon":-70.7,"precision":"country","confidence":"medium","note":"Chilean scandal"}
+{"qid":8026975,"place":"Wirral","lat":53.373,"lon":-3.07,"precision":"region","confidence":"medium","note":"metropolitan borough"}
+{"qid":21188199,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"low","note":"eastern US heat wave"}
+{"qid":7511474,"place":"Sierra Leone","lat":8.5,"lon":-11.8,"precision":"country","confidence":"medium","note":"nationwide"}
+{"qid":4867312,"place":"Basildon","lat":51.5761,"lon":0.4887,"precision":"city","confidence":"high","note":"district council"}
+{"qid":18209097,"place":"Cairo","lat":30.0444,"lon":31.2357,"precision":"city","confidence":"medium","note":"Egypt Cup final"}
+{"qid":1977609,"place":"Spain","lat":40.0,"lon":-4.0,"precision":"country","confidence":"medium","note":"stages across Spain"}
+{"qid":20100191,"place":"Sabadell","lat":41.5463,"lon":2.1086,"precision":"city","confidence":"high","note":"race start"}
+{"qid":118904632,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"rankings"}
+{"qid":7624862,"place":"Stroud","lat":51.745,"lon":-2.218,"precision":"city","confidence":"high","note":"district council"}
+{"qid":7990386,"place":"Weymouth, Dorset","lat":50.6144,"lon":-2.4576,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":5192102,"place":"Cuba","lat":21.5,"lon":-79.5,"precision":"country","confidence":"medium","note":"nationwide"}
+{"qid":115802212,"place":"Mid Suffolk","lat":52.2,"lon":1.1,"precision":"region","confidence":"medium","note":"district council"}
+{"qid":65067976,"place":"Fylde","lat":53.78,"lon":-2.9,"precision":"region","confidence":"medium","note":"borough council"}
+{"qid":28934888,"place":"Pays de la Loire","lat":47.4784,"lon":-0.8216,"precision":"region","confidence":"low","note":"Loire-Atlantique race"}
+{"qid":20055563,"place":"Swale","lat":51.35,"lon":0.75,"precision":"region","confidence":"medium","note":"borough council"}
+{"qid":55600799,"place":"Brussels","lat":50.8503,"lon":4.3517,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":17099835,"place":"United Nations Headquarters","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"medium","note":"UN General Assembly"}
+{"qid":123176876,"place":"London Borough of Sutton","lat":51.3618,"lon":-0.1945,"precision":"city","confidence":"medium","note":"council election"}
+{"qid":96368381,"place":"Castle Point","lat":51.55,"lon":0.58,"precision":"region","confidence":"medium","note":"borough council"}
+{"qid":20128073,"place":"Sheffield","lat":53.3811,"lon":-1.4701,"precision":"city","confidence":"high","note":"city council"}
+{"qid":24039367,"place":"Broxbourne (borough)","lat":51.75,"lon":-0.02,"precision":"region","confidence":"medium","note":"borough council"}
+{"qid":60519226,"place":"Nebraska","lat":41.5,"lon":-99.8,"precision":"region","confidence":"high","note":"state election"}
+{"qid":4939618,"place":"Bolivia","lat":-16.5,"lon":-64.7,"precision":"country","confidence":"medium","note":"nationwide"}
+{"qid":19869785,"place":"London Borough of Hillingdon","lat":51.5441,"lon":-0.476,"precision":"city","confidence":"medium","note":"council election"}
+{"qid":39046040,"place":"Delaware","lat":39.0,"lon":-75.5,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7893020,"place":"Pennsylvania","lat":40.9,"lon":-77.8,"precision":"region","confidence":"high","note":"state election"}
+{"qid":112262257,"place":"Lincoln, England","lat":53.2307,"lon":-0.5406,"precision":"city","confidence":"high","note":"city council"}
+{"qid":18162875,"place":"Torridge","lat":50.95,"lon":-4.2,"precision":"region","confidence":"medium","note":"district council"}
+{"qid":6007382,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"medium","note":"UK parliament act"}
+{"qid":7892722,"place":"Connecticut","lat":41.6,"lon":-72.7,"precision":"region","confidence":"high","note":"state election"}
+{"qid":92671104,"place":"Gormanstown","lat":53.653,"lon":-6.263,"precision":"city","confidence":"medium","note":"disappeared in Gormanstown area"}
+{"qid":120962198,"place":"Scottish Borders","lat":55.5,"lon":-2.8,"precision":"region","confidence":"medium","note":"council election"}
+{"qid":104950409,"place":"New Mexico","lat":34.4,"lon":-106.1,"precision":"region","confidence":"high","note":"state election"}
+{"qid":55606105,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"concert tour"}
+{"qid":20055562,"place":"Swale","lat":51.35,"lon":0.75,"precision":"region","confidence":"medium","note":"borough council"}

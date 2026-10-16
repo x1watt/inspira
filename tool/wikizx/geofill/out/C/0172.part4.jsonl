@@ -1,0 +1,50 @@
+{"qid":20648681,"place":"Telford","lat":52.6766,"lon":-2.4469,"precision":"city","confidence":"high","note":"council seat"}
+{"qid":113351703,"place":"Iran","lat":32.4279,"lon":53.688,"precision":"country","confidence":"high","note":"nationwide floods"}
+{"qid":16154140,"place":"Basque Country (autonomous community)","lat":43.0,"lon":-2.6,"precision":"region","confidence":"medium","note":"Basque stage race"}
+{"qid":106866717,"place":"Luque, Paraguay","lat":-25.2667,"lon":-57.4833,"precision":"city","confidence":"high","note":"crash near Luque"}
+{"qid":140168038,"place":"Eden Gardens","lat":22.5645,"lon":88.3433,"precision":"site","confidence":"high","note":"match venue"}
+{"qid":7892177,"place":"Harrisburg, Pennsylvania","lat":40.2732,"lon":-76.8867,"precision":"city","confidence":"high","note":"state capital"}
+{"qid":10392512,"place":"Brasília","lat":-15.7939,"lon":-47.8828,"precision":"city","confidence":"medium","note":"hijacker targeted Planalto"}
+{"qid":2539327,"place":"West Berlin","lat":52.52,"lon":13.3,"precision":"city","confidence":"high","note":"election in West Berlin"}
+{"qid":3586605,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"high","note":"Parliament vote"}
+{"qid":96254823,"place":"Paramaribo","lat":5.852,"lon":-55.2038,"precision":"city","confidence":"medium","note":"colonial capital"}
+{"qid":8034161,"place":"Worcester, England","lat":52.192,"lon":-2.22,"precision":"city","confidence":"high","note":"council seat"}
+{"qid":38442721,"place":"Fuji Speedway","lat":35.3717,"lon":138.9269,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":17089209,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"election calendar"}
+{"qid":139856005,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"world cup series"}
+{"qid":2156275,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":132767528,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"television drama"}
+{"qid":137274070,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"global events"}
+{"qid":18160480,"place":"Havant","lat":50.853,"lon":-0.983,"precision":"city","confidence":"high","note":"council seat"}
+{"qid":4626445,"place":"Vårgårda","lat":58.0333,"lon":12.8,"precision":"city","confidence":"high","note":"race location"}
+{"qid":124816381,"place":"Epping","lat":51.699,"lon":0.11,"precision":"city","confidence":"medium","note":"Epping Forest council seat"}
+{"qid":24993611,"place":"Dalkeith","lat":55.895,"lon":-3.067,"precision":"city","confidence":"medium","note":"Midlothian council seat"}
+{"qid":10354876,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"award"}
+{"qid":116815380,"place":"Galicia (Spain)","lat":42.75,"lon":-7.9,"precision":"region","confidence":"high","note":"Galician stage race"}
+{"qid":7492622,"place":"Sheffield","lat":53.3811,"lon":-1.4701,"precision":"city","confidence":"high","note":"council seat"}
+{"qid":136214267,"place":"Rochford","lat":51.582,"lon":0.706,"precision":"city","confidence":"medium","note":"council seat"}
+{"qid":135411469,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"inquiry"}
+{"qid":4789473,"place":"Buenos Aires","lat":-34.6037,"lon":-58.3816,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":24192041,"place":"Pennsylvania","lat":41.0,"lon":-77.5,"precision":"region","confidence":"high","note":"statewide primary"}
+{"qid":125378253,"place":"Burnley","lat":53.7893,"lon":-2.2405,"precision":"city","confidence":"high","note":"council seat"}
+{"qid":65063938,"place":"Salford","lat":53.4875,"lon":-2.2901,"precision":"city","confidence":"high","note":"council seat"}
+{"qid":7187304,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"research project"}
+{"qid":8055480,"place":"York, Pennsylvania","lat":39.9626,"lon":-76.7277,"precision":"city","confidence":"medium","note":"cultivar origin"}
+{"qid":21061802,"place":"Bradford","lat":53.7938,"lon":-1.752,"precision":"city","confidence":"high","note":"council seat"}
+{"qid":6971826,"place":"Canberra","lat":-35.2809,"lon":149.13,"precision":"city","confidence":"medium","note":"federal law"}
+{"qid":130213894,"place":"Italy","lat":41.8719,"lon":12.5674,"precision":"country","confidence":"high","note":"national race"}
+{"qid":106864141,"place":"Toronto","lat":43.6532,"lon":-79.3832,"precision":"city","confidence":"low","note":"league founded in Canada"}
+{"qid":117747195,"place":"Reigate","lat":51.2372,"lon":-0.2054,"precision":"city","confidence":"high","note":"council seat"}
+{"qid":21071530,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"high","note":"federal law"}
+{"qid":23585765,"place":"St Anne, Alderney","lat":49.715,"lon":-2.213,"precision":"city","confidence":"medium","note":"Alderney capital"}
+{"qid":6068169,"place":"Baghdad","lat":33.3152,"lon":44.3661,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":61122497,"place":"Riga","lat":56.9496,"lon":24.1052,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":4608836,"place":"Maputo","lat":-25.9692,"lon":32.5732,"precision":"city","confidence":"high","note":"depot explosion"}
+{"qid":110312724,"place":"Mont Ventoux","lat":44.1741,"lon":5.2786,"precision":"site","confidence":"medium","note":"race on Ventoux"}
+{"qid":126003358,"place":"North Tyneside","lat":55.01,"lon":-1.485,"precision":"region","confidence":"medium","note":"borough"}
+{"qid":5674138,"place":"Fleet, Hampshire","lat":51.281,"lon":-0.837,"precision":"city","confidence":"medium","note":"Hart council seat"}
+{"qid":16828281,"place":"Bolton","lat":53.5769,"lon":-2.4282,"precision":"city","confidence":"high","note":"council seat"}
+{"qid":4741321,"place":"Ripley, Derbyshire","lat":53.048,"lon":-1.409,"precision":"city","confidence":"medium","note":"Amber Valley council seat"}
+{"qid":5680316,"place":"Hastings","lat":50.8543,"lon":0.5735,"precision":"city","confidence":"high","note":"council seat"}
+{"qid":5828663,"place":"Bogotá","lat":4.711,"lon":-74.0721,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":7069807,"place":"Nuneaton","lat":52.523,"lon":-1.465,"precision":"city","confidence":"high","note":"council seat"}

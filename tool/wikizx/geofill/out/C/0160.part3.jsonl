@@ -1,0 +1,50 @@
+{"qid":65067837,"place":"Sunderland","lat":54.9069,"lon":-1.3838,"precision":"city","confidence":"high","note":"city council"}
+{"qid":23019728,"place":"Canberra","lat":-35.2809,"lon":149.13,"precision":"city","confidence":"high","note":"budget presented in Parliament"}
+{"qid":48969229,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"eclipse"}
+{"qid":11705177,"place":"Seville","lat":37.3891,"lon":-5.9845,"precision":"city","confidence":"high","note":"race start"}
+{"qid":3701769,"place":"Sarajevo","lat":43.8563,"lon":18.4131,"precision":"city","confidence":"medium","note":"Bosnia capital"}
+{"qid":7305504,"place":"Ilford","lat":51.559,"lon":0.074,"precision":"city","confidence":"medium","note":"Redbridge council seat"}
+{"qid":7891723,"place":"Nevada","lat":38.8026,"lon":-116.4194,"precision":"region","confidence":"high","note":"state election"}
+{"qid":17640185,"place":"Brittany","lat":48.202,"lon":-2.9326,"precision":"region","confidence":"medium","note":"Tro-Bro Leon race"}
+{"qid":7618432,"place":"Stoke-on-Trent","lat":53.0027,"lon":-2.1794,"precision":"city","confidence":"high","note":"city council"}
+{"qid":15903735,"place":"China","lat":35.8617,"lon":104.1954,"precision":"country","confidence":"high","note":"nationwide outage"}
+{"qid":17108136,"place":"Ethiopia","lat":9.145,"lon":40.4897,"precision":"country","confidence":"high","note":"stamps"}
+{"qid":24039317,"place":"Bury, Greater Manchester","lat":53.5933,"lon":-2.2966,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":48837313,"place":"Prague","lat":50.0755,"lon":14.4378,"precision":"city","confidence":"high","note":"election venue"}
+{"qid":65063424,"place":"Brighton","lat":50.8225,"lon":-0.1372,"precision":"city","confidence":"high","note":"city council"}
+{"qid":110885457,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"multiple tournaments"}
+{"qid":7892809,"place":"Louisiana","lat":30.9843,"lon":-91.9623,"precision":"region","confidence":"high","note":"state election"}
+{"qid":55604838,"place":"Dhaka","lat":23.8103,"lon":90.4125,"precision":"city","confidence":"medium","note":"election held in Dhaka"}
+{"qid":7069813,"place":"Nuneaton","lat":52.523,"lon":-1.468,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":4923241,"place":"Blackpool","lat":53.8175,"lon":-3.0357,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":16622725,"place":"Eijsden","lat":50.779,"lon":5.685,"precision":"city","confidence":"high","note":"race start and finish"}
+{"qid":18160663,"place":"Huntingdon","lat":52.331,"lon":-0.185,"precision":"city","confidence":"medium","note":"council seat"}
+{"qid":30643589,"place":"Arkansas","lat":35.201,"lon":-91.8318,"precision":"region","confidence":"high","note":"state election"}
+{"qid":62125999,"place":"Switzerland","lat":46.8182,"lon":8.2275,"precision":"country","confidence":"high","note":"Swiss artists"}
+{"qid":28451838,"place":"California","lat":36.7783,"lon":-119.4179,"precision":"region","confidence":"high","note":"state ballot"}
+{"qid":106564167,"place":"Sao Luis, Maranhao","lat":-2.5307,"lon":-44.3068,"precision":"city","confidence":"high","note":"stated location"}
+{"qid":136825139,"place":"Midwestern United States","lat":41.5,"lon":-90.0,"precision":"region","confidence":"medium","note":"Western Conference region"}
+{"qid":4789467,"place":"Buenos Aires","lat":-34.6037,"lon":-58.3816,"precision":"city","confidence":"medium","note":"national election"}
+{"qid":104946675,"place":"North Carolina","lat":35.7596,"lon":-79.0193,"precision":"region","confidence":"high","note":"state election"}
+{"qid":123862091,"place":"York","lat":53.96,"lon":-1.0873,"precision":"city","confidence":"high","note":"city council"}
+{"qid":1968402,"place":"Abu Dhabi","lat":24.4539,"lon":54.3773,"precision":"city","confidence":"high","note":"stamps of Abu Dhabi"}
+{"qid":30642435,"place":"Maine","lat":45.2538,"lon":-69.4455,"precision":"region","confidence":"high","note":"state election"}
+{"qid":5614259,"place":"Guatemala City","lat":14.6349,"lon":-90.5069,"precision":"city","confidence":"medium","note":"national election"}
+{"qid":55098888,"place":"Oxted","lat":51.257,"lon":-0.005,"precision":"city","confidence":"medium","note":"Tandridge council area"}
+{"qid":9070213,"place":"Buenos Aires","lat":-34.6037,"lon":-58.3816,"precision":"city","confidence":"high","note":"policies and riots"}
+{"qid":16481838,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"high","note":"year in Brazil"}
+{"qid":39047251,"place":"West Virginia","lat":38.5976,"lon":-80.4549,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7892175,"place":"Harrisburg, Pennsylvania","lat":40.2732,"lon":-76.8867,"precision":"city","confidence":"medium","note":"General Assembly seat"}
+{"qid":16016596,"place":"Mediterranean Sea","lat":35.0,"lon":18.0,"precision":"region","confidence":"low","note":"fell from cruise ship"}
+{"qid":16274888,"place":"Flemish Brabant","lat":50.88,"lon":4.6,"precision":"region","confidence":"medium","note":"Hageland race area"}
+{"qid":4835746,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"technology"}
+{"qid":3104714,"place":"East Azerbaijan Province","lat":38.08,"lon":46.2919,"precision":"region","confidence":"medium","note":"Iranian Azerbaijan tour"}
+{"qid":55139241,"place":"South Shields","lat":54.9986,"lon":-1.432,"precision":"city","confidence":"medium","note":"South Tyneside council seat"}
+{"qid":27958017,"place":"Gloucester","lat":51.8642,"lon":-2.238,"precision":"city","confidence":"high","note":"county council seat"}
+{"qid":140478368,"place":"Lancaster, Lancashire","lat":54.0466,"lon":-2.8007,"precision":"city","confidence":"high","note":"city council"}
+{"qid":7846062,"place":"Arizona","lat":34.0489,"lon":-111.0937,"precision":"region","confidence":"medium","note":"remnants affected southwest US"}
+{"qid":141254032,"place":"Corn, Oklahoma","lat":35.427,"lon":-98.726,"precision":"city","confidence":"high","note":"tornado hit Corn"}
+{"qid":61273382,"place":"Antwerp","lat":51.2194,"lon":4.4025,"precision":"city","confidence":"medium","note":"Scheldeprijs race area"}
+{"qid":16993701,"place":"Harrogate","lat":53.9921,"lon":-1.5418,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":17020744,"place":"Redditch","lat":52.306,"lon":-1.945,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":111952214,"place":"Irvine, California","lat":33.6846,"lon":-117.8265,"precision":"city","confidence":"high","note":"Concordia University Irvine"}

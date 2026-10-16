@@ -1,0 +1,50 @@
+{"qid":50320990,"place":"Poreč","lat":45.2269,"lon":13.5944,"precision":"city","confidence":"high","note":"race in Porec"}
+{"qid":7891731,"place":"Nevada","lat":38.8026,"lon":-116.4194,"precision":"region","confidence":"high","note":"state election"}
+{"qid":131982355,"place":"Grays, Essex","lat":51.476,"lon":0.325,"precision":"city","confidence":"medium","note":"council seat"}
+{"qid":136463696,"place":"Thundersley","lat":51.564,"lon":0.575,"precision":"city","confidence":"low","note":"council seat"}
+{"qid":3586908,"place":"Bern","lat":46.948,"lon":7.4474,"precision":"city","confidence":"medium","note":"federal capital"}
+{"qid":5828509,"place":"Santiago","lat":-33.4489,"lon":-70.6693,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":11185011,"place":"Shinjuku","lat":35.6938,"lon":139.7034,"precision":"city","confidence":"high","note":"centered in Shinjuku"}
+{"qid":123861941,"place":"Worthing","lat":50.8179,"lon":-0.3729,"precision":"city","confidence":"high","note":"council election"}
+{"qid":27958049,"place":"Durham, England","lat":54.7761,"lon":-1.5733,"precision":"city","confidence":"high","note":"county council seat"}
+{"qid":5095989,"place":"Chichester","lat":50.8365,"lon":-0.7792,"precision":"city","confidence":"high","note":"council election"}
+{"qid":27962128,"place":"Kuala Lumpur","lat":3.139,"lon":101.6869,"precision":"city","confidence":"medium","note":"Malaysian law"}
+{"qid":30682446,"place":"Russia","lat":61.524,"lon":105.3188,"precision":"country","confidence":"high","note":"national polling"}
+{"qid":3787546,"place":"Stockholm","lat":59.3293,"lon":18.0686,"precision":"city","confidence":"low","note":"Act of Union adopted"}
+{"qid":135921257,"place":"Yakima SunDome","lat":46.603,"lon":-120.54,"precision":"site","confidence":"high","note":"venue named"}
+{"qid":124071532,"place":"Croatia","lat":45.1,"lon":15.2,"precision":"country","confidence":"high","note":"stage race"}
+{"qid":16491368,"place":"Rio de Janeiro","lat":-22.9068,"lon":-43.1729,"precision":"city","confidence":"high","note":"conference city"}
+{"qid":16057111,"place":"West Bengal","lat":22.9868,"lon":87.855,"precision":"region","confidence":"medium","note":"case in Bantala"}
+{"qid":3891733,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"comic strip"}
+{"qid":4724098,"place":"Algiers","lat":36.7538,"lon":3.0588,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":899492,"place":"Budapest","lat":47.4979,"lon":19.0402,"precision":"city","confidence":"low","note":"Hungarian controversy"}
+{"qid":8030929,"place":"Hong Kong","lat":22.3193,"lon":114.1694,"precision":"city","confidence":"high","note":"tournament host"}
+{"qid":131749362,"place":"Oman","lat":21.4735,"lon":55.9754,"precision":"country","confidence":"high","note":"held in Oman"}
+{"qid":116275716,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"multi-venue qualification"}
+{"qid":4973676,"place":"Bromley","lat":51.406,"lon":0.014,"precision":"city","confidence":"high","note":"council election"}
+{"qid":108485497,"place":"Giza pyramid complex","lat":29.9792,"lon":31.1342,"precision":"site","confidence":"high","note":"glass court at pyramids"}
+{"qid":60768807,"place":"Sochi","lat":43.6028,"lon":39.7342,"precision":"city","confidence":"medium","note":"relay to Sochi"}
+{"qid":124241902,"place":"Varanasi","lat":25.3176,"lon":82.9739,"precision":"city","confidence":"high","note":"flyover collapse"}
+{"qid":128642,"place":"Amagasaki","lat":34.7333,"lon":135.4167,"precision":"city","confidence":"high","note":"murders in Amagasaki"}
+{"qid":108661627,"place":"Vietnam","lat":14.0583,"lon":108.2772,"precision":"country","confidence":"low","note":"storm hit mainland SE Asia"}
+{"qid":6658371,"place":"Liverpool","lat":53.4084,"lon":-2.9916,"precision":"city","confidence":"high","note":"council election"}
+{"qid":4573232,"place":"Mexico City","lat":19.4326,"lon":-99.1332,"precision":"city","confidence":"high","note":"host of Games"}
+{"qid":45742490,"place":"Redcar","lat":54.619,"lon":-1.069,"precision":"city","confidence":"low","note":"borough area"}
+{"qid":5602804,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"animated series"}
+{"qid":104901666,"place":"Wigan","lat":53.5448,"lon":-2.6318,"precision":"city","confidence":"high","note":"council election"}
+{"qid":138023775,"place":"Samut Sakhon Province","lat":13.5475,"lon":100.274,"precision":"region","confidence":"high","note":"collapse in Samut Sakhon"}
+{"qid":122964029,"place":"New South Wales","lat":-31.2532,"lon":146.9211,"precision":"region","confidence":"high","note":"state soccer cup"}
+{"qid":3586989,"place":"Brussels","lat":50.8503,"lon":4.3517,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":20648326,"place":"Redditch","lat":52.306,"lon":-1.945,"precision":"city","confidence":"high","note":"council election"}
+{"qid":117454543,"place":"Letchworth","lat":51.978,"lon":-0.227,"precision":"city","confidence":"medium","note":"council seat"}
+{"qid":7654107,"place":"Mbabane","lat":-26.3054,"lon":31.1367,"precision":"city","confidence":"medium","note":"administrative capital"}
+{"qid":16954272,"place":"Bath, Somerset","lat":51.3811,"lon":-2.359,"precision":"city","confidence":"high","note":"founded in Bath"}
+{"qid":6067437,"place":"Tehran","lat":35.6892,"lon":51.389,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":205412,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"scooter model"}
+{"qid":3587235,"place":"San Salvador","lat":13.6929,"lon":-89.2182,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":2069163,"place":"Valletta","lat":35.8989,"lon":14.5146,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":28444694,"place":"Kansas City, Missouri","lat":39.0997,"lon":-94.5786,"precision":"city","confidence":"medium","note":"concerts in Kansas City"}
+{"qid":427458,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"coach model"}
+{"qid":6719328,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"ferry"}
+{"qid":16987136,"place":"Wirral","lat":53.3727,"lon":-3.0738,"precision":"region","confidence":"high","note":"borough election"}
+{"qid":10282424,"place":"Estádio Olímpico Monumental","lat":-30.065,"lon":-51.206,"precision":"site","confidence":"medium","note":"Olimpico final venue"}

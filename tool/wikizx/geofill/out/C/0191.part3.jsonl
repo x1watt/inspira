@@ -1,0 +1,50 @@
+{"qid":15427535,"place":"Ulaanbaatar","lat":47.8864,"lon":106.9057,"precision":"city","confidence":"medium","note":"national election capital"}
+{"qid":16986735,"place":"Devon","lat":50.7,"lon":-3.7,"precision":"region","confidence":"high","note":"county election"}
+{"qid":1792592,"place":"Reykjavík","lat":64.1466,"lon":-21.9426,"precision":"city","confidence":"medium","note":"national election capital"}
+{"qid":2539403,"place":"Ankara","lat":39.9334,"lon":32.8597,"precision":"city","confidence":"medium","note":"national election capital"}
+{"qid":16153822,"place":"Gibraltar","lat":36.1408,"lon":-5.3536,"precision":"city","confidence":"high","note":"territory election"}
+{"qid":5193355,"place":"Beirut","lat":33.8938,"lon":35.5018,"precision":"city","confidence":"high","note":"2009 Francophonie Games host"}
+{"qid":55315779,"place":"Miami Beach, Florida","lat":25.7907,"lon":-80.13,"precision":"city","confidence":"high","note":"held in Miami Beach"}
+{"qid":4558396,"place":"Snyder, Oklahoma","lat":34.6559,"lon":-98.951,"precision":"city","confidence":"high","note":"tornado struck Snyder"}
+{"qid":17510945,"place":"Metropolitan Borough of Bolton","lat":53.58,"lon":-2.43,"precision":"region","confidence":"high","note":"borough election"}
+{"qid":5784640,"place":"Malabo","lat":3.75,"lon":8.7833,"precision":"city","confidence":"medium","note":"constitution of Equatorial Guinea"}
+{"qid":50190614,"place":"Sibiu","lat":45.7983,"lon":24.1256,"precision":"city","confidence":"high","note":"race in Sibiu"}
+{"qid":3586910,"place":"Bern","lat":46.948,"lon":7.4474,"precision":"city","confidence":"medium","note":"Swiss national election"}
+{"qid":69662656,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"painting"}
+{"qid":136483811,"place":"Borough of St Edmundsbury","lat":52.245,"lon":0.711,"precision":"region","confidence":"high","note":"borough election"}
+{"qid":112039828,"place":"Kingston upon Hull","lat":53.7457,"lon":-0.3367,"precision":"city","confidence":"high","note":"city election"}
+{"qid":138132738,"place":"Royal Tunbridge Wells","lat":51.132,"lon":0.263,"precision":"city","confidence":"medium","note":"borough election"}
+{"qid":6815970,"place":"Budva","lat":42.2864,"lon":18.84,"precision":"city","confidence":"high","note":"championship in Budva"}
+{"qid":7888935,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"high","note":"UN headquarters election"}
+{"qid":19870124,"place":"London Borough of Bexley","lat":51.441,"lon":0.15,"precision":"region","confidence":"high","note":"borough election"}
+{"qid":28452174,"place":"California","lat":37.2,"lon":-119.7,"precision":"region","confidence":"high","note":"state ballot proposition"}
+{"qid":112622448,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"disambiguation"}
+{"qid":4574947,"place":"Silverstone Circuit","lat":52.0733,"lon":-1.0147,"precision":"site","confidence":"high","note":"race at Silverstone"}
+{"qid":11513967,"place":"Japan","lat":36.2048,"lon":138.2529,"precision":"country","confidence":"low","note":"deadly in Japan"}
+{"qid":4128667,"place":"Russia","lat":61.524,"lon":105.3188,"precision":"country","confidence":"high","note":"nationwide elections"}
+{"qid":3016725,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"medium","note":"production location"}
+{"qid":6689095,"place":"Louisiana","lat":30.9843,"lon":-91.9623,"precision":"region","confidence":"high","note":"state primary"}
+{"qid":22281076,"place":"Nairobi","lat":-1.2921,"lon":36.8219,"precision":"city","confidence":"low","note":"colonial Kenya election"}
+{"qid":7305647,"place":"Redditch","lat":52.306,"lon":-1.945,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":9094950,"place":"Andalusia","lat":37.4,"lon":-4.6,"precision":"region","confidence":"high","note":"regional cycle race"}
+{"qid":17514001,"place":"Virginia","lat":37.5,"lon":-78.8,"precision":"region","confidence":"high","note":"state election"}
+{"qid":2306129,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"toy product line"}
+{"qid":126870324,"place":"Albury","lat":-36.0737,"lon":146.9135,"precision":"city","confidence":"high","note":"final at Albury Sports Ground"}
+{"qid":55639511,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"award"}
+{"qid":117863699,"place":"Borough of Chorley","lat":53.653,"lon":-2.632,"precision":"region","confidence":"high","note":"borough election"}
+{"qid":20711673,"place":"Wembley","lat":51.556,"lon":-0.2796,"precision":"city","confidence":"high","note":"held at Wembley"}
+{"qid":2638262,"place":"Gabon","lat":-0.8037,"lon":11.6094,"precision":"country","confidence":"high","note":"race in Gabon"}
+{"qid":7892009,"place":"South Carolina","lat":33.8,"lon":-80.9,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7681915,"place":"Tamworth, Staffordshire","lat":52.633,"lon":-1.693,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":29095058,"place":"Massachusetts","lat":42.3,"lon":-71.8,"precision":"region","confidence":"high","note":"state result"}
+{"qid":9162738,"place":"Sanok","lat":49.5558,"lon":22.2053,"precision":"city","confidence":"high","note":"produced in Sanok"}
+{"qid":7404377,"place":"Salford","lat":53.4875,"lon":-2.2901,"precision":"city","confidence":"high","note":"city election"}
+{"qid":7125782,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"sports list"}
+{"qid":7098244,"place":"Turkey","lat":38.9637,"lon":35.2433,"precision":"country","confidence":"high","note":"national election polling"}
+{"qid":65065827,"place":"Forest of Dean","lat":51.8,"lon":-2.5,"precision":"region","confidence":"high","note":"district election"}
+{"qid":139121381,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"railroad term"}
+{"qid":1041841,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"calendar list"}
+{"qid":328228,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"worldwide project"}
+{"qid":115805260,"place":"Pastaza Province","lat":-1.5,"lon":-77.0,"precision":"region","confidence":"high","note":"crash site province"}
+{"qid":107238052,"place":"Tunis","lat":36.8065,"lon":10.1815,"precision":"city","confidence":"medium","note":"Tunisian president initiative"}
+{"qid":136261391,"place":"Botswana","lat":-22.3285,"lon":24.6849,"precision":"country","confidence":"high","note":"national crisis"}

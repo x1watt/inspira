@@ -1,0 +1,50 @@
+{"qid":15903173,"place":"Taiwan","lat":23.6978,"lon":120.9605,"precision":"country","confidence":"medium","note":"Niutianyang disaster in China"}
+{"qid":5439780,"place":"Baghdad","lat":33.3152,"lon":44.3661,"precision":"city","confidence":"medium","note":"interview in Baghdad"}
+{"qid":136033,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"planned aircraft project"}
+{"qid":17087604,"place":"Santa Clara, California","lat":37.3541,"lon":-121.9552,"precision":"city","confidence":"high","note":"cannery strike"}
+{"qid":7024479,"place":"Nicaragua","lat":12.8654,"lon":-85.2072,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":20109141,"place":"Milan","lat":45.4642,"lon":9.19,"precision":"city","confidence":"medium","note":"Giro di Lombardia"}
+{"qid":96695292,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"TV series"}
+{"qid":17006663,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"high","note":"stores across US"}
+{"qid":28726448,"place":"Balta Liman","lat":41.1397,"lon":29.045,"precision":"city","confidence":"medium","note":"signed at Balta Liman"}
+{"qid":51531365,"place":"Mount Lemmon Observatory","lat":32.443,"lon":-110.789,"precision":"site","confidence":"high","note":"discovery site"}
+{"qid":57277539,"place":"Huy","lat":50.519,"lon":5.241,"precision":"city","confidence":"high","note":"race start and finish"}
+{"qid":8039402,"place":"Wuxi","lat":31.4912,"lon":120.3119,"precision":"city","confidence":"high","note":"bus accident near Wuxi"}
+{"qid":18356854,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"high","note":"national elections"}
+{"qid":1804162,"place":"Rhineland-Palatinate","lat":50.1,"lon":7.3,"precision":"region","confidence":"high","note":"state election"}
+{"qid":4609516,"place":"South East England","lat":51.2,"lon":0.5,"precision":"region","confidence":"high","note":"contamination region"}
+{"qid":96375071,"place":"Adelaide","lat":-34.9285,"lon":138.6007,"precision":"city","confidence":"low","note":"SANFL match"}
+{"qid":79463070,"place":"Sapporo","lat":43.0618,"lon":141.3545,"precision":"city","confidence":"high","note":"tournament in Sapporo"}
+{"qid":106797923,"place":"Tameside","lat":53.48,"lon":-2.08,"precision":"region","confidence":"high","note":"borough election"}
+{"qid":115808977,"place":"University of Pretoria","lat":-25.7545,"lon":28.2314,"precision":"site","confidence":"high","note":"host venue"}
+{"qid":325968,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"journal"}
+{"qid":5020843,"place":"California","lat":36.7783,"lon":-119.4179,"precision":"region","confidence":"high","note":"state ballot"}
+{"qid":24947040,"place":"Kraków","lat":50.0647,"lon":19.945,"precision":"city","confidence":"high","note":"student in Krakow"}
+{"qid":54817740,"place":"Liverpool","lat":53.4084,"lon":-2.9916,"precision":"city","confidence":"high","note":"city council"}
+{"qid":123703970,"place":"Exeter","lat":50.7184,"lon":-3.5339,"precision":"city","confidence":"high","note":"city council"}
+{"qid":15119274,"place":"Barcelona","lat":41.3874,"lon":2.1686,"precision":"city","confidence":"low","note":"Spanish journal"}
+{"qid":122780767,"place":"England","lat":52.3555,"lon":-1.1743,"precision":"country","confidence":"low","note":"UK court case"}
+{"qid":104842437,"place":"Ohio","lat":40.4173,"lon":-82.9071,"precision":"region","confidence":"high","note":"state election"}
+{"qid":5516522,"place":"Ireland","lat":53.4129,"lon":-8.2439,"precision":"country","confidence":"low","note":"camogie cup"}
+{"qid":19869719,"place":"Bogotá","lat":4.711,"lon":-74.0721,"precision":"city","confidence":"medium","note":"Gran Colombia capital"}
+{"qid":111952113,"place":"Loyola University Chicago","lat":42.001,"lon":-87.658,"precision":"site","confidence":"high","note":"team campus"}
+{"qid":18162872,"place":"Torridge","lat":50.95,"lon":-4.2,"precision":"region","confidence":"high","note":"district election"}
+{"qid":28663609,"place":"Lausanne","lat":46.5197,"lon":6.6323,"precision":"city","confidence":"high","note":"race start and finish"}
+{"qid":115790455,"place":"Thailand","lat":15.87,"lon":100.9925,"precision":"country","confidence":"high","note":"Thai drama"}
+{"qid":50820503,"place":"Waregem","lat":50.8885,"lon":3.4258,"precision":"city","confidence":"high","note":"race start and finish"}
+{"qid":1804165,"place":"Rhineland-Palatinate","lat":50.1,"lon":7.3,"precision":"region","confidence":"high","note":"state election"}
+{"qid":97360190,"place":"Maryland","lat":39.0458,"lon":-76.6413,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7492636,"place":"Sheffield","lat":53.3811,"lon":-1.4701,"precision":"city","confidence":"high","note":"city council"}
+{"qid":111955193,"place":"Dudley","lat":52.512,"lon":-2.081,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":7019780,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"high","note":"national primaries"}
+{"qid":104842576,"place":"Indiana","lat":40.2672,"lon":-86.1349,"precision":"region","confidence":"high","note":"state election"}
+{"qid":16994463,"place":"Huntingdonshire","lat":52.33,"lon":-0.18,"precision":"region","confidence":"high","note":"district election"}
+{"qid":2612550,"place":"Vienna","lat":48.2082,"lon":16.3738,"precision":"city","confidence":"high","note":"Schubert Hall in Vienna"}
+{"qid":19646068,"place":"Perth","lat":-31.9505,"lon":115.8605,"precision":"city","confidence":"high","note":"Games in Perth"}
+{"qid":11544408,"place":"Japan","lat":36.2048,"lon":138.2529,"precision":"country","confidence":"high","note":"Japan video game"}
+{"qid":5020866,"place":"California","lat":36.7783,"lon":-119.4179,"precision":"region","confidence":"high","note":"state ballot"}
+{"qid":19428870,"place":"Nottingham","lat":52.9548,"lon":-1.1581,"precision":"city","confidence":"high","note":"city council"}
+{"qid":65067312,"place":"Babergh","lat":52.05,"lon":0.95,"precision":"region","confidence":"high","note":"district election"}
+{"qid":22123436,"place":"Japan","lat":36.2048,"lon":138.2529,"precision":"country","confidence":"high","note":"Japanese magazine"}
+{"qid":6441002,"place":"Kuala Lumpur","lat":3.139,"lon":101.6869,"precision":"city","confidence":"high","note":"club season"}
+{"qid":7417046,"place":"Sandwell","lat":52.512,"lon":-2.01,"precision":"region","confidence":"high","note":"borough election"}

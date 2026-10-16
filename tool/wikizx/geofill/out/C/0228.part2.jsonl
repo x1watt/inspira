@@ -1,0 +1,50 @@
+{"qid":4530425,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"low","note":"Soviet reform decided in Moscow"}
+{"qid":17016067,"place":"Welwyn Hatfield","lat":51.77,"lon":-0.22,"precision":"region","confidence":"high","note":"borough council"}
+{"qid":3586913,"place":"Switzerland","lat":46.8182,"lon":8.2275,"precision":"country","confidence":"high","note":"national election"}
+{"qid":108857357,"place":"London Borough of Bromley","lat":51.406,"lon":0.014,"precision":"region","confidence":"high","note":"borough council"}
+{"qid":13098819,"place":"Riga","lat":56.9496,"lon":24.1052,"precision":"city","confidence":"medium","note":"Saeima elects president"}
+{"qid":23002817,"place":"Red Square","lat":55.7539,"lon":37.6208,"precision":"site","confidence":"high","note":"parade venue"}
+{"qid":51226026,"place":"Yatala, South Australia","lat":-34.7,"lon":138.6,"precision":"region","confidence":"low","note":"electorate of Yatala"}
+{"qid":65065191,"place":"Plymouth","lat":50.3755,"lon":-4.1427,"precision":"city","confidence":"high","note":"city council"}
+{"qid":117568057,"place":"Mid Devon","lat":50.92,"lon":-3.5,"precision":"region","confidence":"high","note":"district council"}
+{"qid":4861600,"place":"London Borough of Barnet","lat":51.6252,"lon":-0.1517,"precision":"region","confidence":"high","note":"borough council"}
+{"qid":6016030,"place":"Ankara","lat":39.9334,"lon":32.8597,"precision":"city","confidence":"high","note":"Grand National Assembly"}
+{"qid":110814042,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"squad list"}
+{"qid":134572733,"place":"Istanbul Lutfi Kirdar Convention and Exhibition Centre","lat":41.0467,"lon":28.9886,"precision":"site","confidence":"high","note":"festival venue"}
+{"qid":7443099,"place":"Monte Cassino","lat":41.49,"lon":13.813,"precision":"site","confidence":"high","note":"battle order of battle"}
+{"qid":138028459,"place":"Suffolk Coastal","lat":52.2,"lon":1.5,"precision":"region","confidence":"high","note":"district council"}
+{"qid":110769340,"place":"Quaregnon","lat":50.44,"lon":3.85,"precision":"city","confidence":"low","note":"Le Samyn near Dour, Hainaut"}
+{"qid":24993572,"place":"Angus, Scotland","lat":56.73,"lon":-2.92,"precision":"region","confidence":"high","note":"council area"}
+{"qid":5618723,"place":"Golan Heights","lat":33.0,"lon":35.8,"precision":"region","confidence":"high","note":"wargame of Golan battle"}
+{"qid":125523149,"place":"Lumpinee Boxing Stadium","lat":13.7667,"lon":100.6087,"precision":"site","confidence":"high","note":"event venue"}
+{"qid":6523276,"place":"River Cam","lat":52.215,"lon":0.165,"precision":"region","confidence":"high","note":"rowing on the Cam"}
+{"qid":4922737,"place":"Blackburn with Darwen","lat":53.7,"lon":-2.46,"precision":"region","confidence":"high","note":"borough council"}
+{"qid":6183890,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"medium","note":"WMAL radio broadcast"}
+{"qid":10342577,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"play"}
+{"qid":7699204,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"TV channel"}
+{"qid":5208305,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"UK court case"}
+{"qid":110664470,"place":"St Helens, Merseyside","lat":53.454,"lon":-2.737,"precision":"region","confidence":"high","note":"borough council"}
+{"qid":105409879,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"high","note":"DC election"}
+{"qid":96367145,"place":"Castle Point","lat":51.55,"lon":0.57,"precision":"region","confidence":"high","note":"borough council"}
+{"qid":115819374,"place":"Kyiv","lat":50.4501,"lon":30.5234,"precision":"city","confidence":"medium","note":"alleged plot against government"}
+{"qid":16909201,"place":"San Francisco","lat":37.7749,"lon":-122.4194,"precision":"city","confidence":"high","note":"arrived in San Francisco"}
+{"qid":4600618,"place":"Chile","lat":-35.6751,"lon":-71.543,"precision":"country","confidence":"high","note":"national stage race"}
+{"qid":115876768,"place":"Dorset","lat":50.75,"lon":-2.35,"precision":"region","confidence":"high","note":"county council"}
+{"qid":63645091,"place":"Stadion Maksimir","lat":45.8186,"lon":16.0183,"precision":"site","confidence":"high","note":"first leg venue"}
+{"qid":1974584,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"coach body"}
+{"qid":106372191,"place":"Cornwall","lat":50.266,"lon":-5.0527,"precision":"region","confidence":"medium","note":"sank off Cornwall"}
+{"qid":18159793,"place":"Liverpool","lat":53.4084,"lon":-2.9916,"precision":"city","confidence":"high","note":"city council"}
+{"qid":117428088,"place":"North Hertfordshire","lat":51.95,"lon":-0.28,"precision":"region","confidence":"high","note":"district council"}
+{"qid":8037210,"place":"Worthing","lat":50.8147,"lon":-0.3714,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":1605349,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"high","note":"German federal law"}
+{"qid":75145891,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"Southern US campaign"}
+{"qid":4867304,"place":"Basildon","lat":51.5761,"lon":0.4887,"precision":"city","confidence":"high","note":"district council"}
+{"qid":29452889,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"person fellowship"}
+{"qid":4867311,"place":"Basildon","lat":51.5761,"lon":0.4887,"precision":"city","confidence":"high","note":"district council"}
+{"qid":6541226,"place":"Liberia","lat":6.4281,"lon":-9.4295,"precision":"country","confidence":"high","note":"national election"}
+{"qid":20805458,"place":"Wembley","lat":51.556,"lon":-0.2796,"precision":"city","confidence":"medium","note":"held at Wembley"}
+{"qid":28405074,"place":"Johannesburg","lat":-26.2041,"lon":28.0473,"precision":"city","confidence":"high","note":"flood east of Johannesburg"}
+{"qid":124362303,"place":"Lumpinee Boxing Stadium","lat":13.7667,"lon":100.6087,"precision":"site","confidence":"high","note":"event venue"}
+{"qid":19848485,"place":"Europe","lat":50.0,"lon":10.0,"precision":"region","confidence":"medium","note":"races across Europe"}
+{"qid":5114154,"place":"Turin","lat":45.0703,"lon":7.6869,"precision":"city","confidence":"high","note":"Games in Turin"}
+{"qid":110269761,"place":"Cheltenham","lat":51.8994,"lon":-2.0783,"precision":"city","confidence":"high","note":"borough council"}

@@ -1,0 +1,50 @@
+{"qid":24196421,"place":"Ireland","lat":53.1424,"lon":-7.6921,"precision":"country","confidence":"low","note":"All-Ireland final, venue unknown"}
+{"qid":122048568,"place":"Sheffield","lat":53.3811,"lon":-1.4701,"precision":"city","confidence":"high","note":"zone in Sheffield centre"}
+{"qid":131982551,"place":"Thurrock","lat":51.49,"lon":0.34,"precision":"region","confidence":"medium","note":"borough election"}
+{"qid":121620318,"place":"Eyworth","lat":52.09,"lon":-0.27,"precision":"city","confidence":"medium","note":"baronetcy seat"}
+{"qid":17016386,"place":"Pennsylvania","lat":41.2033,"lon":-77.1945,"precision":"region","confidence":"high","note":"state Senate election"}
+{"qid":20711512,"place":"Royal Automobile Club","lat":51.5072,"lon":-0.1331,"precision":"site","confidence":"high","note":"held at RAC Pall Mall"}
+{"qid":20708585,"place":"Virginia","lat":37.4316,"lon":-78.6569,"precision":"region","confidence":"high","note":"state election"}
+{"qid":5893031,"place":"Tegucigalpa","lat":14.0723,"lon":-87.1921,"precision":"city","confidence":"medium","note":"Honduran capital"}
+{"qid":48816146,"place":"Brewarrina","lat":-29.9586,"lon":146.8628,"precision":"city","confidence":"high","note":"riot in Brewarrina"}
+{"qid":4584910,"place":"Norway","lat":60.472,"lon":8.4689,"precision":"country","confidence":"high","note":"Norwegian social change"}
+{"qid":17000979,"place":"Harrisburg, Pennsylvania","lat":40.2732,"lon":-76.8867,"precision":"city","confidence":"medium","note":"legislature seat"}
+{"qid":16969908,"place":"Australia","lat":-25.2744,"lon":133.7751,"precision":"country","confidence":"high","note":"national championship"}
+{"qid":8037211,"place":"Worthing","lat":50.8179,"lon":-0.3729,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":4621303,"place":"Takhti Stadium (Bandar Anzali)","lat":37.47,"lon":49.455,"precision":"site","confidence":"medium","note":"final venue"}
+{"qid":121372478,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"online event"}
+{"qid":122848187,"place":"Cambridge","lat":52.2053,"lon":0.1218,"precision":"city","confidence":"high","note":"city council election"}
+{"qid":4626638,"place":"Romania","lat":45.9432,"lon":24.9668,"precision":"country","confidence":"high","note":"floods in Romania"}
+{"qid":117811579,"place":"Sweden","lat":60.1282,"lon":18.6435,"precision":"country","confidence":"medium","note":"murder case in Sweden"}
+{"qid":6423471,"place":"Knowsley","lat":53.454,"lon":-2.85,"precision":"city","confidence":"medium","note":"borough election"}
+{"qid":136466698,"place":"Babergh","lat":52.03,"lon":0.95,"precision":"region","confidence":"medium","note":"district election"}
+{"qid":123944307,"place":"Down, Northern Ireland","lat":54.33,"lon":-5.7,"precision":"region","confidence":"medium","note":"county team"}
+{"qid":105821571,"place":"Gloucester","lat":51.8642,"lon":-2.238,"precision":"city","confidence":"high","note":"city council election"}
+{"qid":7901771,"place":"Madison, Wisconsin","lat":43.0731,"lon":-89.4012,"precision":"city","confidence":"high","note":"Capitol protests"}
+{"qid":3019306,"place":"Struisbaai","lat":-34.8,"lon":20.05,"precision":"city","confidence":"medium","note":"mutiny ended near Struisbaai"}
+{"qid":4804995,"place":"Ashford, Kent","lat":51.1465,"lon":0.875,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":4999433,"place":"Rangoon","lat":16.8409,"lon":96.1735,"precision":"city","confidence":"medium","note":"Burmese capital then"}
+{"qid":104949853,"place":"North Dakota","lat":47.5515,"lon":-101.002,"precision":"region","confidence":"high","note":"state Senate election"}
+{"qid":65066727,"place":"Lincoln, England","lat":53.2307,"lon":-0.5406,"precision":"city","confidence":"high","note":"city council election"}
+{"qid":20648258,"place":"North East Derbyshire","lat":53.18,"lon":-1.4,"precision":"region","confidence":"medium","note":"district election"}
+{"qid":6541213,"place":"Monrovia","lat":6.3156,"lon":-10.8074,"precision":"city","confidence":"medium","note":"Liberian capital"}
+{"qid":17514337,"place":"Jerez de la Frontera","lat":36.685,"lon":-6.1261,"precision":"city","confidence":"high","note":"Vuelta began in Jerez"}
+{"qid":55636602,"place":"Delaware","lat":39.3185,"lon":-75.5244,"precision":"region","confidence":"high","note":"state election"}
+{"qid":28496354,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"low","note":"windstorm over several countries"}
+{"qid":30326518,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"high","note":"year in Brazil"}
+{"qid":96362492,"place":"Alabama","lat":32.3182,"lon":-86.9023,"precision":"region","confidence":"high","note":"state Senate election"}
+{"qid":117312570,"place":"Ballyjamesduff","lat":53.8606,"lon":-7.1989,"precision":"city","confidence":"medium","note":"murders at Barcroft, Cavan"}
+{"qid":19870149,"place":"Redbridge","lat":51.59,"lon":0.08,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":1400253,"place":"San Pedro del Pinatar","lat":37.8333,"lon":-0.7833,"precision":"city","confidence":"high","note":"race started there"}
+{"qid":5434962,"place":"Fareham","lat":50.8528,"lon":-1.179,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":17099879,"place":"United Nations Headquarters","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"high","note":"UN General Assembly in New York"}
+{"qid":4614217,"place":"Robert, Louisiana","lat":30.5118,"lon":-90.3487,"precision":"city","confidence":"high","note":"incident in Robert"}
+{"qid":125981686,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"multi-venue event"}
+{"qid":111954011,"place":"Epping Forest District","lat":51.69,"lon":0.11,"precision":"region","confidence":"medium","note":"district election"}
+{"qid":7232796,"place":"Portugal","lat":39.3999,"lon":-8.2245,"precision":"country","confidence":"high","note":"national referendum"}
+{"qid":109615224,"place":"Sanaa","lat":15.3694,"lon":44.191,"precision":"city","confidence":"high","note":"embassy compound in Sanaa"}
+{"qid":6091418,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"world expedition"}
+{"qid":111644445,"place":"Muscat","lat":23.588,"lon":58.3829,"precision":"city","confidence":"medium","note":"Oman treaty"}
+{"qid":50807332,"place":"Emilia-Romagna","lat":44.5,"lon":11.0,"precision":"region","confidence":"medium","note":"Italian stage race"}
+{"qid":7829674,"place":"Tower Hamlets","lat":51.515,"lon":-0.02,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":105274836,"place":"England","lat":52.3555,"lon":-1.1743,"precision":"country","confidence":"medium","note":"English cricket season"}

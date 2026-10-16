@@ -1,0 +1,50 @@
+{"qid":4547893,"place":"China","lat":35.0,"lon":103.0,"precision":"country","confidence":"low","note":"Go tournament in China"}
+{"qid":30640174,"place":"Mid Bedfordshire","lat":52.0,"lon":-0.4,"precision":"region","confidence":"medium","note":"district council"}
+{"qid":55600845,"place":"Porto Alegre","lat":-30.0346,"lon":-51.2177,"precision":"city","confidence":"high","note":"championships host"}
+{"qid":112039815,"place":"Reading, Berkshire","lat":51.4543,"lon":-0.9781,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":20805641,"place":"Lambs Squash Club","lat":51.52,"lon":-0.15,"precision":"site","confidence":"low","note":"London venue"}
+{"qid":116980572,"place":"Botswana","lat":-22.3,"lon":24.7,"precision":"country","confidence":"medium","note":"national cup"}
+{"qid":16897755,"place":"Oregon","lat":44.0,"lon":-120.5,"precision":"region","confidence":"medium","note":"statewide"}
+{"qid":8034166,"place":"Worcester","lat":52.192,"lon":-2.22,"precision":"city","confidence":"high","note":"city council"}
+{"qid":4622449,"place":"Vojens","lat":55.25,"lon":9.32,"precision":"city","confidence":"high","note":"Nordic GP venue"}
+{"qid":124505530,"place":"Kalinga Stadium","lat":20.2878,"lon":85.8187,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":116291189,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"qualification series"}
+{"qid":117858853,"place":"Burnley","lat":53.789,"lon":-2.24,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":8030495,"place":"Wolverhampton","lat":52.5862,"lon":-2.1286,"precision":"city","confidence":"high","note":"city council"}
+{"qid":122059687,"place":"Sondrio","lat":46.1700,"lon":9.8700,"precision":"city","confidence":"low","note":"crash near San Giacomo"}
+{"qid":4590446,"place":"Kharkiv","lat":49.9935,"lon":36.2304,"precision":"city","confidence":"high","note":"water disaster"}
+{"qid":28452334,"place":"California","lat":36.8,"lon":-119.4,"precision":"region","confidence":"medium","note":"statewide"}
+{"qid":30588069,"place":"Cleveland Hill, New York","lat":42.91,"lon":-78.77,"precision":"city","confidence":"medium","note":"school fire"}
+{"qid":16952646,"place":"Bolton","lat":53.5769,"lon":-2.4282,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":30637272,"place":"Missouri","lat":38.5,"lon":-92.5,"precision":"region","confidence":"medium","note":"statewide"}
+{"qid":5290863,"place":"Dominica","lat":15.415,"lon":-61.371,"precision":"country","confidence":"medium","note":"national election"}
+{"qid":20100187,"place":"Barcelona","lat":41.3874,"lon":2.1686,"precision":"city","confidence":"high","note":"race start Montjuic"}
+{"qid":4573067,"place":"Autódromo Oscar y Juan Gálvez","lat":-34.6944,"lon":-58.4614,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":4588983,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"high","note":"Commons vote"}
+{"qid":64539179,"place":"Brussels","lat":50.8503,"lon":4.3517,"precision":"city","confidence":"low","note":"Art Nouveau event"}
+{"qid":105424788,"place":"Chisinau","lat":47.0105,"lon":28.8638,"precision":"city","confidence":"high","note":"protests in capital"}
+{"qid":6423693,"place":"Knoxville, Tennessee","lat":35.9606,"lon":-83.9207,"precision":"city","confidence":"high","note":"riot city"}
+{"qid":28180371,"place":"Florence","lat":43.7696,"lon":11.2558,"precision":"city","confidence":"high","note":"murder in Florence"}
+{"qid":133251821,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"qualifying tournament"}
+{"qid":4593794,"place":"Poland","lat":52.0,"lon":19.1,"precision":"country","confidence":"medium","note":"speedway criterium"}
+{"qid":13405622,"place":"Aosta","lat":45.737,"lon":7.315,"precision":"city","confidence":"high","note":"regional capital"}
+{"qid":132068,"place":"Hungary","lat":47.2,"lon":19.5,"precision":"country","confidence":"low","note":"Bodys magazine"}
+{"qid":4603398,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"qualification group"}
+{"qid":136148538,"place":"South Norfolk","lat":52.5,"lon":1.2,"precision":"region","confidence":"medium","note":"district council"}
+{"qid":7891796,"place":"Albany, New York","lat":42.6526,"lon":-73.7562,"precision":"city","confidence":"high","note":"legislature election"}
+{"qid":86674499,"place":"Luxembourg","lat":49.8153,"lon":6.1296,"precision":"country","confidence":"medium","note":"national election"}
+{"qid":136148590,"place":"Epping Forest District","lat":51.7,"lon":0.1,"precision":"region","confidence":"medium","note":"district council"}
+{"qid":136466885,"place":"Mid Suffolk","lat":52.2,"lon":1.1,"precision":"region","confidence":"medium","note":"district council"}
+{"qid":18165032,"place":"Italy","lat":42.5,"lon":12.5,"precision":"country","confidence":"medium","note":"regional elections"}
+{"qid":19871630,"place":"Broxbourne","lat":51.75,"lon":-0.03,"precision":"region","confidence":"medium","note":"borough council"}
+{"qid":17131185,"place":"Spain","lat":40.4,"lon":-3.7,"precision":"country","confidence":"medium","note":"race in Spain"}
+{"qid":120824095,"place":"Hudson Valley","lat":41.5,"lon":-73.9,"precision":"region","confidence":"high","note":"sightings region"}
+{"qid":117779971,"place":"Witney","lat":51.784,"lon":-1.485,"precision":"city","confidence":"medium","note":"West Oxfordshire seat"}
+{"qid":25349873,"place":"Virginia","lat":37.5,"lon":-78.8,"precision":"region","confidence":"medium","note":"statewide"}
+{"qid":19871061,"place":"Basildon","lat":51.5761,"lon":0.4887,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":55076768,"place":"London Borough of Merton","lat":51.4098,"lon":-0.1949,"precision":"region","confidence":"high","note":"borough"}
+{"qid":15916990,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"cryptocurrency"}
+{"qid":55633578,"place":"South Lakeland","lat":54.3,"lon":-2.8,"precision":"region","confidence":"medium","note":"district council"}
+{"qid":120496209,"place":"Pakistan","lat":30.4,"lon":69.3,"precision":"country","confidence":"high","note":"floods in Pakistan"}
+{"qid":1887275,"place":"Slovenia","lat":46.15,"lon":14.99,"precision":"country","confidence":"medium","note":"race in Slovenia"}
+{"qid":139961219,"place":"Kraków","lat":50.0647,"lon":19.945,"precision":"city","confidence":"high","note":"tournament host"}

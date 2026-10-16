@@ -1,0 +1,50 @@
+{"qid":19756316,"place":"Zürich","lat":47.3769,"lon":8.5417,"precision":"city","confidence":"high","note":"event in Zurich"}
+{"qid":3360302,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"low","note":"diplomacy led by France"}
+{"qid":7820777,"place":"Tonbridge","lat":51.195,"lon":0.274,"precision":"city","confidence":"high","note":"council election"}
+{"qid":130386843,"place":"Nepal","lat":28.3949,"lon":84.124,"precision":"country","confidence":"high","note":"floods across Nepal"}
+{"qid":6807061,"place":"Bonn","lat":50.7374,"lon":7.0982,"precision":"city","confidence":"low","note":"CMS secretariat MoU"}
+{"qid":129811638,"place":"Taiwan","lat":23.6978,"lon":120.9605,"precision":"country","confidence":"medium","note":"landfall in Taiwan"}
+{"qid":17101081,"place":"Virginia","lat":37.4316,"lon":-78.6569,"precision":"region","confidence":"medium","note":"state election"}
+{"qid":4557761,"place":"Pilbara","lat":-22.0,"lon":118.0,"precision":"region","confidence":"medium","note":"floods mainly Pilbara"}
+{"qid":23463481,"place":"Morpeth, Northumberland","lat":55.167,"lon":-1.686,"precision":"city","confidence":"medium","note":"county council seat"}
+{"qid":28222046,"place":"Mosul","lat":36.335,"lon":43.1189,"precision":"city","confidence":"medium","note":"final-year battle of Mosul"}
+{"qid":28221787,"place":"Wisconsin","lat":44.2685,"lon":-89.6165,"precision":"region","confidence":"medium","note":"state election"}
+{"qid":85727232,"place":"Harlow","lat":51.77,"lon":0.094,"precision":"city","confidence":"high","note":"council election"}
+{"qid":117189251,"place":"Kinmen County","lat":24.45,"lon":118.38,"precision":"region","confidence":"medium","note":"Erdan Island desertion"}
+{"qid":7832545,"place":"Trafford","lat":53.421,"lon":-2.353,"precision":"region","confidence":"medium","note":"borough election"}
+{"qid":19869700,"place":"Barnet","lat":51.6252,"lon":-0.1517,"precision":"region","confidence":"high","note":"borough election"}
+{"qid":17514908,"place":"Castle Point","lat":51.55,"lon":0.57,"precision":"region","confidence":"medium","note":"borough election"}
+{"qid":141304814,"place":"Paraguay","lat":-23.4425,"lon":-58.4438,"precision":"country","confidence":"medium","note":"national season"}
+{"qid":5516560,"place":"Ireland","lat":53.1424,"lon":-7.6921,"precision":"country","confidence":"low","note":"camogie cup"}
+{"qid":115802321,"place":"Dereham","lat":52.68,"lon":0.94,"precision":"city","confidence":"medium","note":"Breckland council seat"}
+{"qid":116893806,"place":"Welwyn Garden City","lat":51.802,"lon":-0.208,"precision":"city","confidence":"medium","note":"council seat"}
+{"qid":104946667,"place":"North Carolina","lat":35.7596,"lon":-79.0193,"precision":"region","confidence":"medium","note":"state election"}
+{"qid":17146587,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"touring festival"}
+{"qid":65066297,"place":"Dover, Kent","lat":51.1295,"lon":1.3089,"precision":"city","confidence":"high","note":"council election"}
+{"qid":4567802,"place":"Nutts Corner","lat":54.6275,"lon":-6.1992,"precision":"site","confidence":"high","note":"crash at Nutts Corner"}
+{"qid":16992674,"place":"Gateshead","lat":54.9526,"lon":-1.6014,"precision":"city","confidence":"high","note":"council election"}
+{"qid":5680319,"place":"Hastings","lat":50.8543,"lon":0.5735,"precision":"city","confidence":"high","note":"council election"}
+{"qid":16153926,"place":"New York (state)","lat":43.2994,"lon":-74.2179,"precision":"region","confidence":"medium","note":"state election"}
+{"qid":5985531,"place":"Southern United States","lat":33.0,"lon":-87.0,"precision":"region","confidence":"low","note":"ice storm region"}
+{"qid":27958027,"place":"Lincolnshire","lat":53.2307,"lon":-0.5406,"precision":"region","confidence":"medium","note":"county election"}
+{"qid":1315725,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"train type"}
+{"qid":116291141,"place":"California State University, Northridge","lat":34.24,"lon":-118.528,"precision":"site","confidence":"medium","note":"university team"}
+{"qid":20805462,"place":"Wembley Arena","lat":51.556,"lon":-0.2796,"precision":"site","confidence":"medium","note":"Wembley venue"}
+{"qid":4611238,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"three host cities"}
+{"qid":97360270,"place":"Delaware","lat":39.1582,"lon":-75.5244,"precision":"region","confidence":"medium","note":"state election"}
+{"qid":55601622,"place":"Brittany","lat":48.202,"lon":-2.9326,"precision":"region","confidence":"medium","note":"Tro-Bro Léon race"}
+{"qid":2836332,"place":"Santiago","lat":-33.4489,"lon":-70.6693,"precision":"city","confidence":"medium","note":"national capital"}
+{"qid":19869749,"place":"Tower Hamlets","lat":51.515,"lon":-0.02,"precision":"region","confidence":"high","note":"borough election"}
+{"qid":96369280,"place":"Canberra","lat":-35.2809,"lon":149.13,"precision":"city","confidence":"low","note":"Canberra Capitals finalist"}
+{"qid":4356401,"place":"Morristown, New Jersey","lat":40.7968,"lon":-74.4815,"precision":"city","confidence":"high","note":"lights near Morristown"}
+{"qid":104949805,"place":"Wisconsin","lat":44.2685,"lon":-89.6165,"precision":"region","confidence":"medium","note":"state election"}
+{"qid":4868966,"place":"Bath, Somerset","lat":51.3811,"lon":-2.359,"precision":"city","confidence":"medium","note":"Bath and NE Somerset"}
+{"qid":17747149,"place":"Liverpool","lat":53.4084,"lon":-2.9916,"precision":"city","confidence":"high","note":"council election"}
+{"qid":7987524,"place":"Perth","lat":-31.9505,"lon":115.8605,"precision":"city","confidence":"medium","note":"Western Australia celebrations"}
+{"qid":58433591,"place":"Tennessee","lat":35.5175,"lon":-86.5804,"precision":"region","confidence":"medium","note":"state election"}
+{"qid":16499567,"place":"Brittany","lat":48.202,"lon":-2.9326,"precision":"region","confidence":"medium","note":"Tro-Bro Léon race"}
+{"qid":20712142,"place":"Seattle","lat":47.6062,"lon":-122.3321,"precision":"city","confidence":"high","note":"strike in Seattle"}
+{"qid":136466722,"place":"Accrington","lat":53.753,"lon":-2.36,"precision":"city","confidence":"medium","note":"Hyndburn council seat"}
+{"qid":112242319,"place":"Burnley","lat":53.7893,"lon":-2.2405,"precision":"city","confidence":"high","note":"council election"}
+{"qid":4612145,"place":"Commerzbank-Arena","lat":50.0686,"lon":8.6455,"precision":"site","confidence":"high","note":"venue named"}
+{"qid":7370425,"place":"Rotherham","lat":53.43,"lon":-1.3568,"precision":"city","confidence":"high","note":"council election"}

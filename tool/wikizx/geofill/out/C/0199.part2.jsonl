@@ -1,0 +1,50 @@
+{"qid":6744846,"place":"Valletta","lat":35.8989,"lon":14.5146,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":7101058,"place":"Oregon","lat":44.0,"lon":-120.5,"precision":"region","confidence":"medium","note":"statewide"}
+{"qid":42888037,"place":"Bradford","lat":53.796,"lon":-1.7594,"precision":"city","confidence":"high","note":"metropolitan council"}
+{"qid":7877673,"place":"Uganda","lat":1.4,"lon":32.3,"precision":"country","confidence":"medium","note":"national election"}
+{"qid":7836956,"place":"Hamadan","lat":34.7992,"lon":48.5146,"precision":"city","confidence":"low","note":"treaty in Ottoman Persia"}
+{"qid":3996098,"place":"Zürich","lat":47.3769,"lon":8.5417,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":4626790,"place":"Fluor Field at the West End","lat":34.8424,"lon":-82.4073,"precision":"site","confidence":"high","note":"tournament venue"}
+{"qid":135976679,"place":"Genesis Convention Center","lat":41.56,"lon":-87.32,"precision":"site","confidence":"medium","note":"all-star venue"}
+{"qid":34236474,"place":"Utah","lat":39.3,"lon":-111.7,"precision":"region","confidence":"medium","note":"race in Utah"}
+{"qid":1213424,"place":"Germany","lat":51.2,"lon":10.4,"precision":"country","confidence":"medium","note":"German radio series"}
+{"qid":140937585,"place":"Singapore","lat":1.3521,"lon":103.8198,"precision":"country","confidence":"medium","note":"otter family"}
+{"qid":28232450,"place":"Galway","lat":53.2707,"lon":-9.0568,"precision":"city","confidence":"medium","note":"county team"}
+{"qid":24083551,"place":"North Hertfordshire","lat":51.95,"lon":-0.25,"precision":"region","confidence":"medium","note":"district council"}
+{"qid":141304971,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"tournament sections"}
+{"qid":20127988,"place":"Peterborough","lat":52.5695,"lon":-0.2405,"precision":"city","confidence":"high","note":"city council"}
+{"qid":58496310,"place":"Robbins, Illinois","lat":41.6389,"lon":-87.7036,"precision":"city","confidence":"high","note":"shooting in Robbins"}
+{"qid":16243598,"place":"Chicago","lat":41.8781,"lon":-87.6298,"precision":"city","confidence":"high","note":"battle in Chicago"}
+{"qid":5365260,"place":"Ellesmere Port","lat":53.279,"lon":-2.897,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":105048375,"place":"Mississippi","lat":32.7,"lon":-89.7,"precision":"region","confidence":"medium","note":"statewide"}
+{"qid":282683,"place":"West Germany","lat":51.0,"lon":9.0,"precision":"country","confidence":"low","note":"World Cup 1974 host"}
+{"qid":140390201,"place":"Pensacola, Florida","lat":30.4213,"lon":-87.2169,"precision":"city","confidence":"medium","note":"Spanish Florida capital"}
+{"qid":104878360,"place":"Maryland","lat":39.0,"lon":-76.7,"precision":"region","confidence":"medium","note":"statewide"}
+{"qid":20648588,"place":"Rochford","lat":51.582,"lon":0.706,"precision":"city","confidence":"high","note":"district council"}
+{"qid":14520244,"place":"Darwin, Northern Territory","lat":-12.4634,"lon":130.8456,"precision":"city","confidence":"high","note":"race start Darwin"}
+{"qid":20055670,"place":"Tandridge","lat":51.25,"lon":0.0,"precision":"region","confidence":"medium","note":"district council"}
+{"qid":15764647,"place":"Madrid","lat":40.4168,"lon":-3.7038,"precision":"city","confidence":"medium","note":"Complutense publisher"}
+{"qid":17037657,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"medium","note":"UK Parliament act"}
+{"qid":2579588,"place":"Almería","lat":36.8381,"lon":-2.4597,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":104866078,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"high","note":"District election"}
+{"qid":6318317,"place":"Brooklyn","lat":40.6782,"lon":-73.9442,"precision":"city","confidence":"high","note":"Bedford-Stuyvesant killing"}
+{"qid":7826600,"place":"Toronto","lat":43.6532,"lon":-79.3832,"precision":"city","confidence":"high","note":"municipal election"}
+{"qid":17513500,"place":"Manila","lat":14.5995,"lon":120.9842,"precision":"city","confidence":"medium","note":"FEU in Manila"}
+{"qid":5219762,"place":"Denmark","lat":56.0,"lon":10.0,"precision":"country","confidence":"medium","note":"Danish helmet"}
+{"qid":4594206,"place":"Supreme Court of Canada","lat":45.4235,"lon":-75.7056,"precision":"site","confidence":"medium","note":"court building Ottawa"}
+{"qid":7917121,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"low","note":"Follieri based in NYC"}
+{"qid":653442,"place":"Brazil","lat":-14.2,"lon":-51.9,"precision":"country","confidence":"high","note":"events in Brazil"}
+{"qid":5179069,"place":"Coventry","lat":52.4068,"lon":-1.5197,"precision":"city","confidence":"high","note":"city council"}
+{"qid":4826982,"place":"Sanok","lat":49.555,"lon":22.205,"precision":"city","confidence":"high","note":"bus built in Sanok"}
+{"qid":5211256,"place":"Hotel Adolphus","lat":32.781,"lon":-96.797,"precision":"site","confidence":"high","note":"tournament venue"}
+{"qid":23018335,"place":"South Carolina","lat":33.9,"lon":-80.9,"precision":"region","confidence":"medium","note":"statewide"}
+{"qid":4870155,"place":"Italy","lat":42.5,"lon":12.5,"precision":"country","confidence":"medium","note":"Fascist economic campaign"}
+{"qid":65056829,"place":"Pakistan","lat":30.4,"lon":69.3,"precision":"country","confidence":"high","note":"floods in Pakistan"}
+{"qid":126916063,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"venue unclear"}
+{"qid":994914,"place":"Madison Square Garden","lat":40.7505,"lon":-73.9934,"precision":"site","confidence":"high","note":"ceremony venue"}
+{"qid":41339170,"place":"Japan","lat":36.2,"lon":138.3,"precision":"country","confidence":"medium","note":"introduced in Japan"}
+{"qid":3297918,"place":"Circuit Zandvoort","lat":52.3888,"lon":4.5409,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":124570657,"place":"United States","lat":39.8,"lon":-98.6,"precision":"country","confidence":"medium","note":"national elections"}
+{"qid":4622199,"place":"Twickenham Stadium","lat":51.4559,"lon":-0.3416,"precision":"site","confidence":"low","note":"sevens venue"}
+{"qid":6735500,"place":"Maidstone","lat":51.272,"lon":0.529,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":7354080,"place":"Rochford","lat":51.582,"lon":0.706,"precision":"city","confidence":"high","note":"district council"}

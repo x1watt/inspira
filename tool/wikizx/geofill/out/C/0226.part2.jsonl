@@ -1,0 +1,50 @@
+{"qid":66821154,"place":"India","lat":20.5937,"lon":78.9629,"precision":"country","confidence":"high","note":"floods across states"}
+{"qid":7852836,"place":"Tunbridge Wells","lat":51.1324,"lon":0.2637,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":5570895,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"global spread"}
+{"qid":5657614,"place":"London Borough of Haringey","lat":51.5906,"lon":-0.111,"precision":"region","confidence":"high","note":"borough election"}
+{"qid":3996598,"place":"Italy","lat":41.8719,"lon":12.5674,"precision":"country","confidence":"medium","note":"tour of Italy and France"}
+{"qid":5383880,"place":"Epping Forest District","lat":51.69,"lon":0.1,"precision":"region","confidence":"medium","note":"district election"}
+{"qid":7024496,"place":"Managua","lat":12.1364,"lon":-86.2514,"precision":"city","confidence":"medium","note":"Nicaraguan Congress seat"}
+{"qid":117820543,"place":"Spelthorne","lat":51.43,"lon":-0.46,"precision":"region","confidence":"medium","note":"borough election"}
+{"qid":17591900,"place":"Switzerland","lat":46.8182,"lon":8.2275,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":116947984,"place":"Bedford","lat":52.136,"lon":-0.467,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":19787340,"place":"London Borough of Hillingdon","lat":51.5352,"lon":-0.4481,"precision":"region","confidence":"high","note":"borough election"}
+{"qid":137690625,"place":"Luton","lat":51.8787,"lon":-0.42,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":20127810,"place":"North Somerset","lat":51.43,"lon":-2.8,"precision":"region","confidence":"medium","note":"unitary council"}
+{"qid":55139230,"place":"Dudley","lat":52.5123,"lon":-2.0811,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":51144694,"place":"Plouay","lat":47.917,"lon":-3.283,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":6164972,"place":"La Aurora International Airport","lat":14.5833,"lon":-90.5275,"precision":"site","confidence":"high","note":"overran runway"}
+{"qid":106913133,"place":"Rotherham","lat":53.4326,"lon":-1.3635,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":3775243,"place":"Denain","lat":50.3258,"lon":3.3953,"precision":"city","confidence":"high","note":"race at Denain"}
+{"qid":4882532,"place":"Belgium","lat":50.5039,"lon":4.4699,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":110130694,"place":"Epsom and Ewell","lat":51.34,"lon":-0.27,"precision":"region","confidence":"medium","note":"borough election"}
+{"qid":6837745,"place":"Michigan State University","lat":42.7018,"lon":-84.4822,"precision":"site","confidence":"high","note":"riots at MSU campus"}
+{"qid":111963073,"place":"Reading, Berkshire","lat":51.4543,"lon":-0.9781,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":54322568,"place":"Florida","lat":27.6648,"lon":-81.5158,"precision":"region","confidence":"high","note":"state election"}
+{"qid":8073741,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"web series"}
+{"qid":115696403,"place":"Kinshasa","lat":-4.4419,"lon":15.2663,"precision":"city","confidence":"high","note":"floods in Kinshasa"}
+{"qid":11687068,"place":"Sanok","lat":49.555,"lon":22.205,"precision":"city","confidence":"medium","note":"Autosan maker in Sanok"}
+{"qid":122313261,"place":"Leicester","lat":52.6369,"lon":-1.1398,"precision":"city","confidence":"high","note":"city council"}
+{"qid":116394201,"place":"Uttlesford","lat":51.95,"lon":0.33,"precision":"region","confidence":"medium","note":"district election"}
+{"qid":24907544,"place":"Stade Mohamed V","lat":33.5822,"lon":-7.6444,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":7305650,"place":"Redditch","lat":52.306,"lon":-1.945,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":7437632,"place":"Scottish Borders","lat":55.55,"lon":-2.78,"precision":"region","confidence":"medium","note":"council election"}
+{"qid":6793718,"place":"Mauritania","lat":21.0079,"lon":-10.9408,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":50820518,"place":"Waregem","lat":50.8883,"lon":3.4278,"precision":"city","confidence":"high","note":"race finish"}
+{"qid":30634122,"place":"Louisiana","lat":30.9843,"lon":-91.9623,"precision":"region","confidence":"high","note":"state election"}
+{"qid":65067774,"place":"South Hams","lat":50.39,"lon":-3.8,"precision":"region","confidence":"medium","note":"district election"}
+{"qid":104842404,"place":"Indiana","lat":40.2672,"lon":-86.1349,"precision":"region","confidence":"high","note":"state election"}
+{"qid":16931007,"place":"Blackburn with Darwen","lat":53.748,"lon":-2.488,"precision":"region","confidence":"medium","note":"borough election"}
+{"qid":16986971,"place":"Cherwell","lat":51.9,"lon":-1.3,"precision":"region","confidence":"medium","note":"district election"}
+{"qid":2613047,"place":"Koncerthuset","lat":55.629,"lon":12.589,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":6185000,"place":"Jersey","lat":49.2144,"lon":-2.1313,"precision":"region","confidence":"high","note":"island election"}
+{"qid":19874211,"place":"Hinckley and Bosworth","lat":52.54,"lon":-1.4,"precision":"region","confidence":"medium","note":"borough election"}
+{"qid":19818555,"place":"Dover District","lat":51.15,"lon":1.25,"precision":"region","confidence":"medium","note":"district election"}
+{"qid":104948112,"place":"Alabama","lat":32.3182,"lon":-86.9023,"precision":"region","confidence":"high","note":"state election"}
+{"qid":140128697,"place":"Henry Street, Dublin","lat":53.349,"lon":-6.263,"precision":"site","confidence":"high","note":"restrained on Henry Street"}
+{"qid":7896552,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"medium","note":"UK Parliament act"}
+{"qid":105061381,"place":"Florida","lat":27.6648,"lon":-81.5158,"precision":"region","confidence":"high","note":"state election"}
+{"qid":4620773,"place":"Colombia","lat":4.5709,"lon":-74.2973,"precision":"country","confidence":"high","note":"nationwide floods"}
+{"qid":96368378,"place":"Braintree District","lat":51.878,"lon":0.55,"precision":"region","confidence":"medium","note":"district election"}
+{"qid":109941662,"place":"Takasaki","lat":36.322,"lon":139.003,"precision":"city","confidence":"medium","note":"individual events Takasaki"}
+{"qid":4608489,"place":"Helsinki","lat":60.1699,"lon":24.9384,"precision":"city","confidence":"medium","note":"Finnish scandal"}

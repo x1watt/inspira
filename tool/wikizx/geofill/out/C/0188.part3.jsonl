@@ -1,0 +1,50 @@
+{"qid":21664000,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"medium","note":"adopted by UNGA in New York"}
+{"qid":7902395,"place":"Utah","lat":39.3,"lon":-111.7,"precision":"region","confidence":"high","note":"state primary"}
+{"qid":131459861,"place":"Orange County, New York","lat":41.4,"lon":-74.3,"precision":"region","confidence":"medium","note":"tornado path"}
+{"qid":5436108,"place":"Faroe Islands","lat":62.0,"lon":-6.8,"precision":"country","confidence":"medium","note":"nationwide"}
+{"qid":51636192,"place":"Sillian","lat":46.7456,"lon":12.4161,"precision":"city","confidence":"medium","note":"race start"}
+{"qid":4882513,"place":"Belgium","lat":50.6,"lon":4.7,"precision":"country","confidence":"medium","note":"nationwide"}
+{"qid":4940156,"place":"Bolton","lat":53.5778,"lon":-2.4283,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":115804401,"place":"Forest Heath","lat":52.38,"lon":0.55,"precision":"region","confidence":"medium","note":"district council"}
+{"qid":5935885,"place":"Kingston upon Hull","lat":53.7443,"lon":-0.3325,"precision":"city","confidence":"high","note":"city council"}
+{"qid":16826649,"place":"Bradford","lat":53.796,"lon":-1.7594,"precision":"city","confidence":"high","note":"metropolitan district"}
+{"qid":16152481,"place":"Washington, D.C.","lat":38.8951,"lon":-77.0364,"precision":"city","confidence":"high","note":"convention in Washington"}
+{"qid":4651196,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"IBM division"}
+{"qid":7892649,"place":"Alabama","lat":32.8,"lon":-86.8,"precision":"region","confidence":"high","note":"state election"}
+{"qid":124794008,"place":"New Mexico","lat":34.4,"lon":-106.1,"precision":"region","confidence":"high","note":"state primary"}
+{"qid":538441,"place":"France","lat":46.6,"lon":2.4,"precision":"country","confidence":"medium","note":"nationwide"}
+{"qid":17084844,"place":"Colchester","lat":51.8892,"lon":0.9042,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":111955472,"place":"Istanbul","lat":41.0082,"lon":28.9784,"precision":"city","confidence":"medium","note":"Taksim meeting in Istanbul"}
+{"qid":3586911,"place":"Switzerland","lat":46.8,"lon":8.2,"precision":"country","confidence":"medium","note":"nationwide"}
+{"qid":27990965,"place":"Naivasha","lat":-0.7167,"lon":36.4333,"precision":"city","confidence":"high","note":"fireball in Naivasha"}
+{"qid":7892645,"place":"Alabama","lat":32.8,"lon":-86.8,"precision":"region","confidence":"high","note":"state election"}
+{"qid":124216946,"place":"Andalusia","lat":37.4,"lon":-4.6,"precision":"region","confidence":"medium","note":"stage race"}
+{"qid":85727479,"place":"Budapest","lat":47.4979,"lon":19.0402,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":134488348,"place":"Mangueirão","lat":-1.415,"lon":-48.456,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":139856021,"place":"LDLC Arena","lat":45.7867,"lon":4.9775,"precision":"site","confidence":"high","note":"tournament venue"}
+{"qid":7852166,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"dubious papyrus"}
+{"qid":6895907,"place":"Mole Valley","lat":51.22,"lon":-0.33,"precision":"region","confidence":"medium","note":"district council"}
+{"qid":7797736,"place":"Three Rivers District","lat":51.64,"lon":-0.47,"precision":"region","confidence":"medium","note":"district council"}
+{"qid":7739724,"place":"India","lat":22.0,"lon":79.0,"precision":"country","confidence":"low","note":"act of India"}
+{"qid":7891397,"place":"Arkansas","lat":34.8,"lon":-92.2,"precision":"region","confidence":"high","note":"state election"}
+{"qid":11693877,"place":"Madison Square Garden","lat":40.7505,"lon":-73.9934,"precision":"site","confidence":"high","note":"Felt Forum at MSG"}
+{"qid":109951523,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"webcomic"}
+{"qid":65065528,"place":"Plymouth","lat":50.3714,"lon":-4.1424,"precision":"city","confidence":"high","note":"city council"}
+{"qid":5247523,"place":"Detroit","lat":42.3314,"lon":-83.0458,"precision":"city","confidence":"medium","note":"metro Detroit victim"}
+{"qid":85727330,"place":"Basildon","lat":51.5761,"lon":0.4887,"precision":"city","confidence":"high","note":"district council"}
+{"qid":1626517,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"motorcycle model"}
+{"qid":90151663,"place":"Marseille","lat":43.2965,"lon":5.3698,"precision":"city","confidence":"medium","note":"plague entered France there"}
+{"qid":104947186,"place":"Washington (state)","lat":47.4,"lon":-120.5,"precision":"region","confidence":"high","note":"state election"}
+{"qid":136466717,"place":"Babergh","lat":52.03,"lon":0.9,"precision":"region","confidence":"medium","note":"district council"}
+{"qid":434910,"place":"Innsbruck","lat":47.2692,"lon":11.4041,"precision":"city","confidence":"high","note":"2012 Winter Youth Olympics host"}
+{"qid":7374539,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"medium","note":"UK parliament act"}
+{"qid":5020885,"place":"California","lat":36.8,"lon":-119.4,"precision":"region","confidence":"high","note":"state ballot"}
+{"qid":28402568,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"league draft"}
+{"qid":17015864,"place":"New York (state)","lat":42.9,"lon":-75.5,"precision":"region","confidence":"high","note":"state election"}
+{"qid":117100920,"place":"North Hertfordshire","lat":51.95,"lon":-0.28,"precision":"region","confidence":"medium","note":"district council"}
+{"qid":89683638,"place":"Spain","lat":40.0,"lon":-4.0,"precision":"country","confidence":"low","note":"Spain and Italy courts"}
+{"qid":24909435,"place":"United States","lat":39.8,"lon":-98.6,"precision":"country","confidence":"low","note":"nationwide election topic"}
+{"qid":26271869,"place":"Norway","lat":61.0,"lon":9.0,"precision":"country","confidence":"low","note":"stage race"}
+{"qid":7101072,"place":"Oregon","lat":43.9,"lon":-120.6,"precision":"region","confidence":"high","note":"state ballot"}
+{"qid":7592269,"place":"St Albans","lat":51.7553,"lon":-0.3361,"precision":"city","confidence":"high","note":"district council"}
+{"qid":7354079,"place":"Rochford","lat":51.582,"lon":0.706,"precision":"city","confidence":"medium","note":"district council"}

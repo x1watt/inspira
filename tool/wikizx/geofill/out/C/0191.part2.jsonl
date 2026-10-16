@@ -1,0 +1,50 @@
+{"qid":7165371,"place":"Penwith","lat":50.15,"lon":-5.55,"precision":"region","confidence":"high","note":"district election"}
+{"qid":17015602,"place":"West Sussex","lat":50.9,"lon":-0.46,"precision":"region","confidence":"high","note":"county election"}
+{"qid":117806012,"place":"Tanzania","lat":-6.369,"lon":34.8888,"precision":"country","confidence":"high","note":"national outbreak"}
+{"qid":50820504,"place":"Waregem","lat":50.8886,"lon":3.4286,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":117567660,"place":"Metropolitan Borough of Calderdale","lat":53.72,"lon":-1.86,"precision":"region","confidence":"high","note":"borough election"}
+{"qid":471039,"place":"Paderborn","lat":51.7189,"lon":8.7544,"precision":"city","confidence":"high","note":"Capitulary of Paderborn"}
+{"qid":17110021,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"touring festival"}
+{"qid":3996127,"place":"Zürich","lat":47.3769,"lon":8.5417,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":7525077,"place":"Sint Maarten","lat":18.0425,"lon":-63.0548,"precision":"region","confidence":"high","note":"island referendum"}
+{"qid":131546289,"place":"Coventry","lat":52.4068,"lon":-1.5197,"precision":"city","confidence":"high","note":"city election"}
+{"qid":7313924,"place":"Buenos Aires","lat":-34.6037,"lon":-58.3816,"precision":"city","confidence":"medium","note":"body returned to Buenos Aires"}
+{"qid":19872377,"place":"Cocos (Keeling) Islands","lat":-12.1642,"lon":96.871,"precision":"region","confidence":"high","note":"island referendum"}
+{"qid":116797317,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"global observance"}
+{"qid":19869752,"place":"London Borough of Wandsworth","lat":51.4571,"lon":-0.192,"precision":"region","confidence":"high","note":"borough election"}
+{"qid":317127,"place":"Leipzig","lat":51.3397,"lon":12.3731,"precision":"city","confidence":"medium","note":"production location"}
+{"qid":7571145,"place":"London Borough of Southwark","lat":51.5,"lon":-0.08,"precision":"region","confidence":"high","note":"borough election"}
+{"qid":18646355,"place":"Macau","lat":22.1987,"lon":113.5439,"precision":"region","confidence":"high","note":"legislative election"}
+{"qid":19795431,"place":"San Cristóbal de La Laguna","lat":28.4874,"lon":-16.3141,"precision":"city","confidence":"medium","note":"Tenerife diocesan synod"}
+{"qid":24039228,"place":"Amber Valley","lat":53.05,"lon":-1.4,"precision":"region","confidence":"high","note":"borough election"}
+{"qid":7101073,"place":"Oregon","lat":43.9,"lon":-120.5,"precision":"region","confidence":"high","note":"state ballot measure"}
+{"qid":2062486,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"cruise ship"}
+{"qid":19865972,"place":"California","lat":37.2,"lon":-119.7,"precision":"region","confidence":"high","note":"state ballot measure"}
+{"qid":96071941,"place":"Paramaribo","lat":5.852,"lon":-55.2038,"precision":"city","confidence":"medium","note":"colonial capital"}
+{"qid":3586561,"place":"Tallinn","lat":59.437,"lon":24.7536,"precision":"city","confidence":"medium","note":"Riigikogu seat"}
+{"qid":16982728,"place":"Seattle","lat":47.6062,"lon":-122.3321,"precision":"city","confidence":"high","note":"strike in Seattle"}
+{"qid":18217220,"place":"São Tomé","lat":0.3365,"lon":6.7273,"precision":"city","confidence":"medium","note":"capital election"}
+{"qid":12183143,"place":"Cairo","lat":30.0444,"lon":31.2357,"precision":"city","confidence":"high","note":"arrests in Egypt"}
+{"qid":48997902,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"video game"}
+{"qid":16842021,"place":"Harrogate","lat":53.9921,"lon":-1.5418,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":9066084,"place":"Mozambique","lat":-18.6657,"lon":35.5296,"precision":"country","confidence":"low","note":"storm over Mozambique channel"}
+{"qid":17016026,"place":"Walsall","lat":52.586,"lon":-1.982,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":125018080,"place":"Hawke's Bay Region","lat":-39.6,"lon":176.8,"precision":"region","confidence":"high","note":"regional election"}
+{"qid":2900034,"place":"Jerusalem","lat":31.7683,"lon":35.2137,"precision":"city","confidence":"high","note":"Knesset election"}
+{"qid":99624741,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"worldwide protest"}
+{"qid":16825932,"place":"Shelburne Museum","lat":44.379,"lon":-73.227,"precision":"site","confidence":"high","note":"exhibit at museum"}
+{"qid":16966901,"place":"Watford","lat":51.6565,"lon":-0.3903,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":7022420,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"high","note":"state visit to US"}
+{"qid":61999931,"place":"Winnipeg","lat":49.8951,"lon":-97.1384,"precision":"city","confidence":"high","note":"selected host"}
+{"qid":97277509,"place":"Cairo International Stadium","lat":30.0697,"lon":31.3173,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":96417257,"place":"New York (state)","lat":42.9,"lon":-75.5,"precision":"region","confidence":"high","note":"state election"}
+{"qid":5384271,"place":"Malabo","lat":3.75,"lon":8.7833,"precision":"city","confidence":"medium","note":"capital election"}
+{"qid":4549770,"place":"Shandong","lat":36.3427,"lon":118.1498,"precision":"region","confidence":"medium","note":"flood near Shawan"}
+{"qid":134514083,"place":"West Bank","lat":31.95,"lon":35.25,"precision":"region","confidence":"medium","note":"occupied territories protests"}
+{"qid":16847576,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"low","note":"opened for signature in London"}
+{"qid":7304656,"place":"Kuala Lumpur","lat":3.139,"lon":101.6869,"precision":"city","confidence":"low","note":"Malaysian law"}
+{"qid":7621914,"place":"Stratford-on-Avon District","lat":52.1917,"lon":-1.7083,"precision":"region","confidence":"high","note":"district election"}
+{"qid":5447363,"place":"Fife","lat":56.2082,"lon":-3.1495,"precision":"region","confidence":"high","note":"council election"}
+{"qid":28454919,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"endorsement list"}
+{"qid":8031061,"place":"Coimbra","lat":40.2033,"lon":-8.4103,"precision":"city","confidence":"high","note":"championship in Coimbra"}
+{"qid":137917433,"place":"Romema, Jerusalem","lat":31.79,"lon":35.2,"precision":"city","confidence":"medium","note":"neighbourhood in Jerusalem"}

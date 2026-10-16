@@ -1,0 +1,50 @@
+{"qid":17055877,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"ad campaign"}
+{"qid":5426890,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"cognitive architecture"}
+{"qid":17100786,"place":"New Mexico","lat":34.5,"lon":-106.0,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":7892642,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"high","note":"national election timeline"}
+{"qid":30326522,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"high","note":"year events"}
+{"qid":17092851,"place":"San Marino","lat":43.9424,"lon":12.4578,"precision":"country","confidence":"high","note":"national referendum"}
+{"qid":27958046,"place":"Worcestershire","lat":52.2,"lon":-2.2,"precision":"region","confidence":"high","note":"county council"}
+{"qid":124830280,"place":"Lilongwe","lat":-13.9626,"lon":33.7741,"precision":"city","confidence":"high","note":"funeral in Lilongwe"}
+{"qid":5314848,"place":"Dundee United F.C.","lat":56.475,"lon":-2.965,"precision":"site","confidence":"medium","note":"club at Tannadice"}
+{"qid":5014710,"place":"Ontario","lat":50.0,"lon":-85.0,"precision":"region","confidence":"medium","note":"Ontario union division"}
+{"qid":7892102,"place":"West Virginia","lat":38.6,"lon":-80.6,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":130386316,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"high","note":"national qualification"}
+{"qid":64402006,"place":"University of Freiburg","lat":47.994,"lon":7.847,"precision":"city","confidence":"medium","note":"publisher in Freiburg"}
+{"qid":7654858,"place":"Linkoping","lat":58.4108,"lon":15.6214,"precision":"city","confidence":"high","note":"held in Linkoping"}
+{"qid":16019357,"place":"Culcheth","lat":53.45,"lon":-2.52,"precision":"city","confidence":"high","note":"shot in Culcheth"}
+{"qid":17131429,"place":"Vigo","lat":42.2406,"lon":-8.7207,"precision":"city","confidence":"high","note":"Vuelta began in Vigo"}
+{"qid":136483815,"place":"St Edmundsbury","lat":52.245,"lon":0.711,"precision":"region","confidence":"high","note":"borough council"}
+{"qid":3540977,"place":"Comedie-Francaise","lat":48.8636,"lon":2.3358,"precision":"site","confidence":"high","note":"troupe's theatre"}
+{"qid":3996092,"place":"Zurich","lat":47.3769,"lon":8.5417,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":724839,"place":"Warsaw","lat":52.2297,"lon":21.0122,"precision":"city","confidence":"medium","note":"National Assembly in Warsaw"}
+{"qid":55604895,"place":"Barcelona","lat":41.3874,"lon":2.1686,"precision":"city","confidence":"high","note":"museums in Barcelona"}
+{"qid":18341902,"place":"Istanbul","lat":41.0082,"lon":28.9784,"precision":"city","confidence":"high","note":"festival in Istanbul"}
+{"qid":16873103,"place":"Australia","lat":-25.2744,"lon":133.7751,"precision":"country","confidence":"medium","note":"Aboriginal inquiry, Western Australia"}
+{"qid":115819126,"place":"Lower Hutt","lat":-41.2127,"lon":174.908,"precision":"city","confidence":"high","note":"mayoral election"}
+{"qid":16987058,"place":"Hastings","lat":50.8543,"lon":0.5735,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":124719000,"place":"Kirklees","lat":53.65,"lon":-1.78,"precision":"region","confidence":"high","note":"borough council"}
+{"qid":4601911,"place":"Langkawi","lat":6.35,"lon":99.8,"precision":"region","confidence":"medium","note":"race began in Langkawi"}
+{"qid":116922061,"place":"Bedford","lat":52.136,"lon":-0.467,"precision":"city","confidence":"medium","note":"borough council"}
+{"qid":19559318,"place":"Denmark","lat":56.0,"lon":10.0,"precision":"country","confidence":"high","note":"Danish holiday"}
+{"qid":7891393,"place":"Arkansas","lat":34.8,"lon":-92.2,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":39047015,"place":"South Carolina","lat":33.8361,"lon":-81.1637,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":24884028,"place":"West Yorkshire","lat":53.75,"lon":-1.66,"precision":"region","confidence":"high","note":"county council"}
+{"qid":100950412,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"video game"}
+{"qid":5219747,"place":"Denmark","lat":56.0,"lon":10.0,"precision":"country","confidence":"high","note":"national election"}
+{"qid":136121607,"place":"Norfolk","lat":52.6,"lon":1.0,"precision":"region","confidence":"low","note":"district council election"}
+{"qid":15121675,"place":"France","lat":46.6034,"lon":1.8883,"precision":"country","confidence":"high","note":"French academic post"}
+{"qid":5511760,"place":"Frankfurt","lat":50.1109,"lon":8.6821,"precision":"city","confidence":"low","note":"concordat with Holy Roman Empire"}
+{"qid":25022181,"place":"Guam","lat":13.4443,"lon":144.7937,"precision":"region","confidence":"high","note":"territory election"}
+{"qid":139760997,"place":"Cannes","lat":43.5528,"lon":7.0174,"precision":"city","confidence":"high","note":"festival in Cannes"}
+{"qid":4393794,"place":"Transnistria","lat":47.215,"lon":29.464,"precision":"region","confidence":"high","note":"referendum in Transnistria"}
+{"qid":55139215,"place":"Metropolitan Borough of Walsall","lat":52.586,"lon":-1.982,"precision":"region","confidence":"high","note":"borough council"}
+{"qid":5680321,"place":"Hastings","lat":50.8543,"lon":0.5735,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":4939620,"place":"Bolivia","lat":-16.2902,"lon":-63.5887,"precision":"country","confidence":"high","note":"national election"}
+{"qid":7902342,"place":"Utah","lat":39.32,"lon":-111.09,"precision":"region","confidence":"high","note":"statewide primary"}
+{"qid":130224623,"place":"Falkirk (council area)","lat":56.0,"lon":-3.8,"precision":"region","confidence":"high","note":"council area"}
+{"qid":116394965,"place":"Leicester","lat":52.6369,"lon":-1.1398,"precision":"city","confidence":"high","note":"city council"}
+{"qid":107639483,"place":"Charlotte, North Carolina","lat":35.2271,"lon":-80.8431,"precision":"city","confidence":"high","note":"Charlotte-Mecklenburg police"}
+{"qid":23782106,"place":"Corse-du-Sud","lat":41.86,"lon":9.0,"precision":"region","confidence":"high","note":"departmental council"}
+{"qid":4597228,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"list of golfers"}
+{"qid":1517853,"place":"Benahavis","lat":36.52,"lon":-5.045,"precision":"city","confidence":"high","note":"race started in Benahavis"}

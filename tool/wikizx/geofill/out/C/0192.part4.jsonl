@@ -1,0 +1,50 @@
+{"qid":7492642,"place":"Sheffield","lat":53.3811,"lon":-1.4701,"precision":"city","confidence":"high","note":"city election"}
+{"qid":6543976,"place":"Vaduz","lat":47.141,"lon":9.5209,"precision":"city","confidence":"medium","note":"Liechtenstein capital"}
+{"qid":96369005,"place":"Hampshire","lat":51.06,"lon":-1.31,"precision":"region","confidence":"high","note":"county election"}
+{"qid":65090512,"place":"New Jersey","lat":40.2,"lon":-74.7,"precision":"region","confidence":"high","note":"state election"}
+{"qid":14624922,"place":"Bogotá","lat":4.711,"lon":-74.0721,"precision":"city","confidence":"medium","note":"Colombian capital"}
+{"qid":140461783,"place":"Lancaster, Lancashire","lat":54.0466,"lon":-2.8007,"precision":"city","confidence":"high","note":"city election"}
+{"qid":85793504,"place":"Madrid","lat":40.4168,"lon":-3.7038,"precision":"city","confidence":"low","note":"Spain-Australia agreement"}
+{"qid":104872933,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"website"}
+{"qid":20127934,"place":"Middlesbrough","lat":54.5742,"lon":-1.235,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":8029326,"place":"Woking","lat":51.319,"lon":-0.558,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":15614944,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"software"}
+{"qid":6071690,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"low","note":"panic in England"}
+{"qid":4953154,"place":"Oslo Airport, Fornebu","lat":59.895,"lon":10.62,"precision":"site","confidence":"medium","note":"hijacking ended at Fornebu"}
+{"qid":5447571,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"economic plan"}
+{"qid":28128605,"place":"O2 Arena (Prague)","lat":50.1047,"lon":14.4916,"precision":"site","confidence":"high","note":"games at O2 Arena"}
+{"qid":16829854,"place":"Colchester","lat":51.8959,"lon":0.8919,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":23673809,"place":"Lannilis","lat":48.57,"lon":-4.5167,"precision":"city","confidence":"medium","note":"Tro-Bro Léon starts there"}
+{"qid":65066508,"place":"Norwich","lat":52.6309,"lon":1.2974,"precision":"city","confidence":"high","note":"city election"}
+{"qid":10392431,"place":"Portugal","lat":39.5,"lon":-8.0,"precision":"country","confidence":"high","note":"national tour"}
+{"qid":97354825,"place":"Betteshanger","lat":51.24,"lon":1.33,"precision":"city","confidence":"medium","note":"colliery in Betteshanger"}
+{"qid":55601204,"place":"Schoten","lat":51.25,"lon":4.5,"precision":"city","confidence":"low","note":"Scheldeprijs location"}
+{"qid":7639713,"place":"Sunderland","lat":54.9069,"lon":-1.3838,"precision":"city","confidence":"high","note":"city election"}
+{"qid":21777266,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"global race series"}
+{"qid":117454452,"place":"Redditch","lat":52.306,"lon":-1.945,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":16996277,"place":"Lichfield District","lat":52.6823,"lon":-1.8265,"precision":"region","confidence":"high","note":"district election"}
+{"qid":125185881,"place":"Daytona International Speedway","lat":29.1852,"lon":-81.0705,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":28407347,"place":"Norfolk","lat":52.6,"lon":1.0,"precision":"region","confidence":"high","note":"county election"}
+{"qid":115801630,"place":"North Norfolk","lat":52.8,"lon":1.3,"precision":"region","confidence":"high","note":"district election"}
+{"qid":19869777,"place":"London Borough of Hammersmith and Fulham","lat":51.4927,"lon":-0.2339,"precision":"region","confidence":"high","note":"borough election"}
+{"qid":15526731,"place":"Alabama","lat":32.8,"lon":-86.8,"precision":"region","confidence":"high","note":"state result"}
+{"qid":6815961,"place":"Budva","lat":42.2864,"lon":18.84,"precision":"city","confidence":"high","note":"championship in Budva"}
+{"qid":106913149,"place":"Warrington","lat":53.39,"lon":-2.597,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":4351977,"place":"Nicosia","lat":35.1856,"lon":33.3823,"precision":"city","confidence":"medium","note":"Cyprus capital"}
+{"qid":3996119,"place":"Zürich","lat":47.3769,"lon":8.5417,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":85791044,"place":"Australia","lat":-25.2744,"lon":133.7751,"precision":"country","confidence":"high","note":"national election polling"}
+{"qid":65047503,"place":"Crawley","lat":51.1092,"lon":-0.1872,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":119683877,"place":"Australia","lat":-25.2744,"lon":133.7751,"precision":"country","confidence":"low","note":"Australian abduction case"}
+{"qid":20055676,"place":"Waverley, Surrey","lat":51.2,"lon":-0.6,"precision":"region","confidence":"high","note":"borough election"}
+{"qid":17016120,"place":"Winchester","lat":51.0632,"lon":-1.308,"precision":"city","confidence":"high","note":"city election"}
+{"qid":23784231,"place":"Interlaken","lat":46.6863,"lon":7.8632,"precision":"city","confidence":"medium","note":"home base Interlaken"}
+{"qid":7433731,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"journal"}
+{"qid":2085173,"place":"Stepanakert","lat":39.8153,"lon":46.7519,"precision":"city","confidence":"medium","note":"capital election"}
+{"qid":7891811,"place":"Albany, New York","lat":42.6526,"lon":-73.7562,"precision":"city","confidence":"medium","note":"legislature election"}
+{"qid":104947196,"place":"Washington (state)","lat":47.4,"lon":-120.7,"precision":"region","confidence":"high","note":"state election"}
+{"qid":5515464,"place":"Libreville","lat":0.4162,"lon":9.4673,"precision":"city","confidence":"medium","note":"Gabon capital"}
+{"qid":7878497,"place":"Ukraine","lat":48.3794,"lon":31.1656,"precision":"country","confidence":"medium","note":"national competition"}
+{"qid":871885,"place":"Czech Republic","lat":49.8,"lon":15.5,"precision":"country","confidence":"low","note":"floods in Central Europe"}
+{"qid":138186859,"place":"Waveney District","lat":52.45,"lon":1.6,"precision":"region","confidence":"high","note":"district election"}
+{"qid":5261438,"place":"Derby","lat":52.9225,"lon":-1.4746,"precision":"city","confidence":"high","note":"city election"}
+{"qid":3996115,"place":"Zürich","lat":47.3769,"lon":8.5417,"precision":"city","confidence":"high","note":"start and finish"}

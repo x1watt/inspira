@@ -1,0 +1,50 @@
+{"qid":5030751,"place":"Canada","lat":56.1304,"lon":-106.3468,"precision":"country","confidence":"high","note":"national calendar"}
+{"qid":15616331,"place":"Vienna","lat":48.2082,"lon":16.3738,"precision":"city","confidence":"high","note":"held in Vienna"}
+{"qid":7891410,"place":"California","lat":36.7783,"lon":-119.4179,"precision":"region","confidence":"high","note":"state Senate election"}
+{"qid":7829665,"place":"Tower Hamlets","lat":51.515,"lon":-0.02,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":140277908,"place":"Medan","lat":3.5952,"lon":98.6722,"precision":"city","confidence":"high","note":"tournament in Medan"}
+{"qid":5419797,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"high","note":"US Congress bill"}
+{"qid":4702950,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"in-game event"}
+{"qid":4882530,"place":"Brussels","lat":50.8503,"lon":4.3517,"precision":"city","confidence":"medium","note":"Belgian capital"}
+{"qid":139982128,"place":"Taiwan","lat":23.6978,"lon":120.9605,"precision":"country","confidence":"high","note":"Taiwanese scandal"}
+{"qid":134603766,"place":"Iran","lat":32.4279,"lon":53.688,"precision":"country","confidence":"high","note":"nationwide strikes"}
+{"qid":128483286,"place":"Hanoi","lat":21.0285,"lon":105.8542,"precision":"city","confidence":"high","note":"state visit to Hanoi"}
+{"qid":16989012,"place":"Dover District","lat":51.13,"lon":1.31,"precision":"region","confidence":"medium","note":"district election"}
+{"qid":106606915,"place":"Akershus Fortress","lat":59.9071,"lon":10.7364,"precision":"site","confidence":"high","note":"trials at Akershus Fortress"}
+{"qid":5139041,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"art technique"}
+{"qid":114637186,"place":"Windsor, Ontario","lat":42.3149,"lon":-83.0364,"precision":"city","confidence":"high","note":"statue in Windsor"}
+{"qid":24039328,"place":"St Helens, Merseyside","lat":53.4535,"lon":-2.737,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":7832544,"place":"Trafford","lat":53.419,"lon":-2.353,"precision":"region","confidence":"medium","note":"borough election"}
+{"qid":4118067,"place":"Libya","lat":26.3351,"lon":17.2283,"precision":"country","confidence":"medium","note":"Libyan civil war"}
+{"qid":60528371,"place":"Seattle","lat":47.6062,"lon":-122.3321,"precision":"city","confidence":"medium","note":"Amazon founded in Seattle"}
+{"qid":20806299,"place":"Overijssel","lat":52.44,"lon":6.44,"precision":"region","confidence":"medium","note":"Dutch province race"}
+{"qid":16932304,"place":"Southern Africa","lat":-22.0,"lon":24.0,"precision":"region","confidence":"low","note":"treaty region"}
+{"qid":375150,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"software"}
+{"qid":96369775,"place":"Wolverhampton","lat":52.587,"lon":-2.1288,"precision":"city","confidence":"high","note":"city council election"}
+{"qid":6719740,"place":"Outer Hebrides","lat":57.76,"lon":-7.02,"precision":"region","confidence":"medium","note":"ferry in Outer Hebrides"}
+{"qid":4590338,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"regional zone"}
+{"qid":85975743,"place":"Mogilyane","lat":41.65,"lon":25.5667,"precision":"city","confidence":"medium","note":"killed in Mogilyane"}
+{"qid":7098231,"place":"Peru","lat":-9.19,"lon":-75.0152,"precision":"country","confidence":"high","note":"Peruvian election"}
+{"qid":4967745,"place":"Brighton and Hove","lat":50.8225,"lon":-0.1372,"precision":"city","confidence":"high","note":"city council election"}
+{"qid":21072408,"place":"Brabantse Pijl","lat":50.88,"lon":4.35,"precision":"region","confidence":"low","note":"Brabant race area"}
+{"qid":17591886,"place":"Bern","lat":46.948,"lon":7.4474,"precision":"city","confidence":"medium","note":"Swiss federal city"}
+{"qid":3722524,"place":"San Marino","lat":43.9424,"lon":12.4578,"precision":"country","confidence":"high","note":"national election"}
+{"qid":7861254,"place":"Japan","lat":36.2048,"lon":138.2529,"precision":"country","confidence":"high","note":"brushed Japan coast"}
+{"qid":7443753,"place":"Zimbabwe","lat":-19.0154,"lon":29.1549,"precision":"country","confidence":"high","note":"national runoff"}
+{"qid":29384826,"place":"Blue Hall, Stockholm City Hall","lat":59.3275,"lon":18.0545,"precision":"site","confidence":"high","note":"Blå Hallen"}
+{"qid":30635020,"place":"Florida","lat":27.6648,"lon":-81.5158,"precision":"region","confidence":"high","note":"state election"}
+{"qid":61056394,"place":"Brasília","lat":-15.7939,"lon":-47.8828,"precision":"city","confidence":"high","note":"Brazilian capital"}
+{"qid":130754602,"place":"Austria","lat":47.5162,"lon":14.5501,"precision":"country","confidence":"high","note":"national stage race"}
+{"qid":3332466,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"list"}
+{"qid":16492472,"place":"Tegucigalpa","lat":14.0723,"lon":-87.1921,"precision":"city","confidence":"medium","note":"Honduran capital"}
+{"qid":2053609,"place":"Addis Ababa","lat":9.032,"lon":38.7469,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":60884418,"place":"Yorkshire","lat":53.9915,"lon":-1.541,"precision":"region","confidence":"high","note":"stage race in Yorkshire"}
+{"qid":4608100,"place":"Broadway","lat":40.759,"lon":-73.9845,"precision":"region","confidence":"medium","note":"Broadway theatres in NYC"}
+{"qid":136504804,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"high","note":"political crisis in Rome"}
+{"qid":5030759,"place":"Canada","lat":56.1304,"lon":-106.3468,"precision":"country","confidence":"high","note":"national calendar"}
+{"qid":544270,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"animated series"}
+{"qid":8040455,"place":"Wyre Forest District","lat":52.4,"lon":-2.24,"precision":"region","confidence":"medium","note":"district election"}
+{"qid":7837063,"place":"Fort St. Stephens","lat":31.52,"lon":-88.0,"precision":"site","confidence":"low","note":"treaty signed at fort"}
+{"qid":111307888,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"Twitter account"}
+{"qid":7682492,"place":"Tandridge","lat":51.26,"lon":-0.05,"precision":"region","confidence":"medium","note":"district election"}
+{"qid":60528037,"place":"Washington (state)","lat":47.7511,"lon":-120.7401,"precision":"region","confidence":"high","note":"state election"}

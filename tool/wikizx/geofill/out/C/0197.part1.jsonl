@@ -1,0 +1,50 @@
+{"qid":7990385,"place":"Weymouth, Dorset","lat":50.6144,"lon":-2.4577,"precision":"city","confidence":"medium","note":"borough council"}
+{"qid":7504247,"place":"Shrewsbury","lat":52.7073,"lon":-2.7542,"precision":"city","confidence":"medium","note":"county council seat"}
+{"qid":55636681,"place":"South Dakota","lat":44.3,"lon":-100.2,"precision":"region","confidence":"medium","note":"statewide"}
+{"qid":134488553,"place":"Spain","lat":40.4,"lon":-3.7,"precision":"country","confidence":"medium","note":"race across Spain"}
+{"qid":48804011,"place":"Trans Studio Bandung","lat":-6.9259,"lon":107.6366,"precision":"site","confidence":"medium","note":"exhibition venue"}
+{"qid":6423144,"place":"United States","lat":39.8,"lon":-98.6,"precision":"country","confidence":"low","note":"multiple cities"}
+{"qid":104854407,"place":"Boston","lat":42.3601,"lon":-71.0589,"precision":"city","confidence":"low","note":"Celtics exhibition boycott"}
+{"qid":136214380,"place":"Southend-on-Sea","lat":51.5459,"lon":0.7077,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":30640169,"place":"Mid Bedfordshire","lat":52.0,"lon":-0.4,"precision":"region","confidence":"low","note":"district council"}
+{"qid":29958717,"place":"Aguilar de Campoo","lat":42.7886,"lon":-4.258,"precision":"city","confidence":"medium","note":"race start"}
+{"qid":3435850,"place":"Omaha Beach","lat":49.3692,"lon":-0.8714,"precision":"site","confidence":"medium","note":"Normandy assault"}
+{"qid":16952659,"place":"Bolton","lat":53.5769,"lon":-2.4282,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":3681748,"place":"Almería","lat":36.8381,"lon":-2.4597,"precision":"city","confidence":"medium","note":"race in Almeria"}
+{"qid":125397441,"place":"Tameside","lat":53.48,"lon":-2.08,"precision":"region","confidence":"medium","note":"borough council"}
+{"qid":4626436,"place":"Ghent","lat":51.0543,"lon":3.7174,"precision":"city","confidence":"medium","note":"race start Ghent"}
+{"qid":24192040,"place":"Washington (state)","lat":47.4,"lon":-120.5,"precision":"region","confidence":"medium","note":"statewide"}
+{"qid":17015868,"place":"Stockport","lat":53.4106,"lon":-2.1575,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":86752333,"place":"Penzance","lat":50.1186,"lon":-5.5372,"precision":"city","confidence":"medium","note":"Penwith council seat"}
+{"qid":16989369,"place":"Kinshasa","lat":-4.4419,"lon":15.2663,"precision":"city","confidence":"low","note":"Congo strike"}
+{"qid":16969917,"place":"Supreme Court of Canada","lat":45.4235,"lon":-75.7056,"precision":"site","confidence":"medium","note":"court building Ottawa"}
+{"qid":134663992,"place":"Mobile, Alabama","lat":30.6954,"lon":-88.0399,"precision":"city","confidence":"low","note":"Mobile YMCA"}
+{"qid":116395605,"place":"Leicester","lat":52.6369,"lon":-1.1398,"precision":"city","confidence":"high","note":"city council"}
+{"qid":12640136,"place":"Bosnia and Herzegovina","lat":44.0,"lon":17.8,"precision":"country","confidence":"high","note":"national census"}
+{"qid":17513559,"place":"Trentino-Alto Adige/Südtirol","lat":46.4,"lon":11.3,"precision":"region","confidence":"medium","note":"race in region"}
+{"qid":65064375,"place":"North Lincolnshire","lat":53.6,"lon":-0.6,"precision":"region","confidence":"medium","note":"council"}
+{"qid":121610139,"place":"Brussels","lat":50.8503,"lon":4.3517,"precision":"city","confidence":"medium","note":"European Commission seat"}
+{"qid":4621756,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"draft"}
+{"qid":55601678,"place":"Lannilis","lat":48.5683,"lon":-4.5192,"precision":"city","confidence":"low","note":"Tro-Bro Leon area"}
+{"qid":20055507,"place":"Maidstone","lat":51.272,"lon":0.529,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":138755340,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"draft"}
+{"qid":3985095,"place":"Europe","lat":50.0,"lon":10.0,"precision":"region","confidence":"low","note":"matches in several countries"}
+{"qid":2508164,"place":"Valencian Community","lat":39.5,"lon":-0.75,"precision":"region","confidence":"medium","note":"regional race"}
+{"qid":5152599,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"EU project"}
+{"qid":22981532,"place":"Waregem","lat":50.8883,"lon":3.4264,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":1028923,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"animated series"}
+{"qid":15733543,"place":"Draguignan","lat":43.5367,"lon":6.4647,"precision":"city","confidence":"low","note":"Haut Var area"}
+{"qid":96051944,"place":"Paramaribo","lat":5.852,"lon":-55.2038,"precision":"city","confidence":"medium","note":"colonial capital"}
+{"qid":28457451,"place":"Joshua Tree National Park","lat":33.8734,"lon":-115.901,"precision":"region","confidence":"medium","note":"photo location"}
+{"qid":19876439,"place":"Auckland","lat":-36.8485,"lon":174.7633,"precision":"city","confidence":"low","note":"NZ court case"}
+{"qid":65067243,"place":"High Peak, Derbyshire","lat":53.3,"lon":-1.9,"precision":"region","confidence":"medium","note":"borough council"}
+{"qid":6092113,"place":"Istanbul","lat":41.0082,"lon":28.9784,"precision":"city","confidence":"high","note":"Tan newspaper raid"}
+{"qid":130390664,"place":"Kingston upon Hull","lat":53.7676,"lon":-0.3274,"precision":"city","confidence":"high","note":"club home"}
+{"qid":140517822,"place":"Lancaster, Lancashire","lat":54.0466,"lon":-2.8007,"precision":"city","confidence":"high","note":"city council"}
+{"qid":5600287,"place":"Great Yarmouth","lat":52.6083,"lon":1.73,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":5192108,"place":"Havana","lat":23.1136,"lon":-82.3666,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":112681218,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"entry list"}
+{"qid":4073057,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"web series"}
+{"qid":16994058,"place":"London Borough of Hillingdon","lat":51.5352,"lon":-0.4481,"precision":"region","confidence":"high","note":"borough"}
+{"qid":16988973,"place":"Dorchester, Dorset","lat":50.7155,"lon":-2.4409,"precision":"city","confidence":"medium","note":"county council seat"}
+{"qid":135921152,"place":"Five Seasons Center","lat":41.9779,"lon":-91.6656,"precision":"site","confidence":"high","note":"venue"}

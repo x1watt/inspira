@@ -1,0 +1,50 @@
+{"qid":50820507,"place":"Waregem","lat":50.8885,"lon":3.4276,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":27957913,"place":"Nottinghamshire","lat":53.1,"lon":-1.0,"precision":"region","confidence":"medium","note":"county council"}
+{"qid":24260774,"place":"Texas","lat":31.9686,"lon":-99.9018,"precision":"region","confidence":"medium","note":"statewide"}
+{"qid":7260880,"place":"Purbeck District","lat":50.62,"lon":-2.03,"precision":"region","confidence":"medium","note":"council area"}
+{"qid":7891395,"place":"Arkansas","lat":34.7465,"lon":-92.2896,"precision":"region","confidence":"medium","note":"statewide"}
+{"qid":97738105,"place":"Bromsgrove","lat":52.335,"lon":-2.06,"precision":"city","confidence":"high","note":"council area"}
+{"qid":4333723,"place":"Schiphol","lat":52.3081,"lon":4.7642,"precision":"city","confidence":"medium","note":"crash near Schiphol"}
+{"qid":7055116,"place":"North Devon","lat":51.08,"lon":-4.06,"precision":"region","confidence":"medium","note":"council area"}
+{"qid":108649819,"place":"Vantaa","lat":60.2934,"lon":25.0378,"precision":"city","confidence":"medium","note":"Sudirman Cup 2021 host"}
+{"qid":5182732,"place":"Craven District","lat":54.0,"lon":-2.1,"precision":"region","confidence":"medium","note":"council area"}
+{"qid":25245487,"place":"Italy","lat":41.8719,"lon":12.5674,"precision":"country","confidence":"medium","note":"Italian Army"}
+{"qid":5332697,"place":"Kielce","lat":50.8661,"lon":20.6286,"precision":"city","confidence":"high","note":"based in Kielce"}
+{"qid":116947996,"place":"Bedford","lat":52.136,"lon":-0.467,"precision":"city","confidence":"high","note":"council area"}
+{"qid":29075175,"place":"The Hague","lat":52.0705,"lon":4.3007,"precision":"city","confidence":"medium","note":"launch sites in Holland"}
+{"qid":15816712,"place":"Tegucigalpa","lat":14.0723,"lon":-87.1921,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":139827097,"place":"Circuit Paul Ricard","lat":43.2506,"lon":5.7919,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":118947732,"place":"Austria","lat":47.5162,"lon":14.5501,"precision":"country","confidence":"medium","note":"national stage race"}
+{"qid":141305500,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"virtual draft"}
+{"qid":131703672,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"rankings"}
+{"qid":116395730,"place":"Leicester","lat":52.6369,"lon":-1.1398,"precision":"city","confidence":"high","note":"council area"}
+{"qid":123460268,"place":"Macau","lat":22.1987,"lon":113.5439,"precision":"city","confidence":"high","note":"street race"}
+{"qid":104842386,"place":"Texas","lat":31.9686,"lon":-99.9018,"precision":"region","confidence":"medium","note":"statewide"}
+{"qid":93990482,"place":"Musquodoboit, Nova Scotia","lat":44.9667,"lon":-63.15,"precision":"city","confidence":"medium","note":"crash site"}
+{"qid":4608117,"place":"Cairo International Stadium","lat":30.0694,"lon":31.3125,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":7492624,"place":"Sheffield","lat":53.3811,"lon":-1.4701,"precision":"city","confidence":"high","note":"council area"}
+{"qid":2219503,"place":"Liège","lat":50.6326,"lon":5.5797,"precision":"city","confidence":"high","note":"prologue start"}
+{"qid":7157576,"place":"Malaysia","lat":4.2105,"lon":101.9758,"precision":"country","confidence":"medium","note":"Malaysian law"}
+{"qid":105042714,"place":"Rotterdam","lat":51.9244,"lon":4.4777,"precision":"city","confidence":"high","note":"Kralingse Bos"}
+{"qid":135206146,"place":"Tashkent","lat":41.2995,"lon":69.2401,"precision":"city","confidence":"low","note":"FIDE team event"}
+{"qid":4872252,"place":"Salvatierra, Guanajuato","lat":20.2139,"lon":-100.8803,"precision":"city","confidence":"high","note":"battle town"}
+{"qid":115802578,"place":"Broadland","lat":52.68,"lon":1.25,"precision":"region","confidence":"medium","note":"council area"}
+{"qid":28136014,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"colonial files programme"}
+{"qid":7826624,"place":"Toronto","lat":43.6532,"lon":-79.3832,"precision":"city","confidence":"high","note":"municipal election"}
+{"qid":7891954,"place":"Pennsylvania","lat":41.2033,"lon":-77.1945,"precision":"region","confidence":"medium","note":"statewide"}
+{"qid":7990382,"place":"Weymouth, Dorset","lat":50.6144,"lon":-2.4573,"precision":"city","confidence":"high","note":"council area"}
+{"qid":51144657,"place":"Plouay","lat":47.9167,"lon":-3.2833,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":83627598,"place":"Osaka","lat":34.6937,"lon":135.5023,"precision":"city","confidence":"medium","note":"built at Osaka"}
+{"qid":5329811,"place":"Eastbourne","lat":50.7684,"lon":0.2905,"precision":"city","confidence":"high","note":"council area"}
+{"qid":124313264,"place":"Europe","lat":54.526,"lon":15.2551,"precision":"region","confidence":"medium","note":"NATO exercise"}
+{"qid":1964501,"place":"Minsk","lat":53.9006,"lon":27.559,"precision":"city","confidence":"medium","note":"MAZ manufacturer"}
+{"qid":20805345,"place":"Lansdowne Club","lat":51.5077,"lon":-0.145,"precision":"site","confidence":"medium","note":"tournament venue"}
+{"qid":16821774,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"national candidates list"}
+{"qid":136312878,"place":"Roseau","lat":15.301,"lon":-61.387,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":6816126,"place":"Skopje","lat":41.9981,"lon":21.4254,"precision":"city","confidence":"high","note":"championships host"}
+{"qid":132067247,"place":"Florida Panhandle","lat":30.3,"lon":-85.5,"precision":"region","confidence":"medium","note":"hurricane landfall"}
+{"qid":65066991,"place":"Derby","lat":52.9225,"lon":-1.4746,"precision":"city","confidence":"high","note":"council area"}
+{"qid":30642494,"place":"Maine","lat":45.2538,"lon":-69.4455,"precision":"region","confidence":"medium","note":"statewide"}
+{"qid":19692834,"place":"Left-bank Ukraine","lat":50.0,"lon":32.0,"precision":"region","confidence":"low","note":"Samoilovych resettlement campaign"}
+{"qid":134470197,"place":"United Kingdom","lat":55.3781,"lon":-3.436,"precision":"country","confidence":"medium","note":"league season"}
+{"qid":3488022,"place":"Prague","lat":50.0755,"lon":14.4378,"precision":"city","confidence":"low","note":"Czech satellite service"}

@@ -1,0 +1,50 @@
+{"qid":7901457,"place":"Uruguay","lat":-32.5228,"lon":-55.7658,"precision":"country","confidence":"high","note":"national election"}
+{"qid":22909753,"place":"Valencia","lat":39.4699,"lon":-0.3763,"precision":"city","confidence":"high","note":"written in Valencia"}
+{"qid":96363224,"place":"Hawaii","lat":20.7967,"lon":-156.3319,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":141446924,"place":"Sapporo","lat":43.0618,"lon":141.3545,"precision":"city","confidence":"high","note":"host city"}
+{"qid":115801894,"place":"Maldon District","lat":51.73,"lon":0.68,"precision":"region","confidence":"high","note":"district council"}
+{"qid":140312482,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"multi-venue series"}
+{"qid":123912792,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"multi-venue qualifying"}
+{"qid":19869829,"place":"London Borough of Hammersmith","lat":51.4927,"lon":-0.2339,"precision":"region","confidence":"high","note":"borough council"}
+{"qid":6099605,"place":"Ivory Coast","lat":7.54,"lon":-5.5471,"precision":"country","confidence":"high","note":"national election"}
+{"qid":5828739,"place":"Ecuador","lat":-1.8312,"lon":-78.1834,"precision":"country","confidence":"high","note":"national election"}
+{"qid":281312,"place":"The Gambia","lat":13.4432,"lon":-15.3101,"precision":"country","confidence":"high","note":"national election"}
+{"qid":133521580,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"geological event"}
+{"qid":45327785,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"digital archive project"}
+{"qid":2113394,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"high","note":"German federal law"}
+{"qid":66130530,"place":"Java","lat":-7.6145,"lon":110.7122,"precision":"region","confidence":"high","note":"blackout across Java"}
+{"qid":16662426,"place":"Severny Airport","lat":54.87,"lon":82.93,"precision":"site","confidence":"medium","note":"crash near Severny Airport"}
+{"qid":126029190,"place":"United Arab Emirates","lat":23.4241,"lon":53.8478,"precision":"country","confidence":"low","note":"qualification, final in UAE"}
+{"qid":24039338,"place":"Pendle","lat":53.86,"lon":-2.2,"precision":"region","confidence":"high","note":"borough council"}
+{"qid":4882540,"place":"Belgium","lat":50.5039,"lon":4.4699,"precision":"country","confidence":"high","note":"national election"}
+{"qid":25022169,"place":"Guam","lat":13.4443,"lon":144.7937,"precision":"region","confidence":"high","note":"territory election"}
+{"qid":3777547,"place":"Denmark","lat":56.0,"lon":10.0,"precision":"country","confidence":"high","note":"national election"}
+{"qid":7892650,"place":"Alabama","lat":32.8,"lon":-86.8,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":56366702,"place":"Ukraine","lat":48.3794,"lon":31.1656,"precision":"country","confidence":"high","note":"church transitions in Ukraine"}
+{"qid":125339325,"place":"Gosport","lat":50.795,"lon":-1.124,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":24039333,"place":"Metropolitan Borough of Walsall","lat":52.586,"lon":-1.982,"precision":"region","confidence":"high","note":"borough council"}
+{"qid":125363175,"place":"St Albans","lat":51.755,"lon":-0.336,"precision":"city","confidence":"high","note":"district council"}
+{"qid":140431240,"place":"Lancaster, Lancashire","lat":54.0466,"lon":-2.8007,"precision":"city","confidence":"high","note":"city council"}
+{"qid":15925382,"place":"Vietnam","lat":14.0583,"lon":108.2772,"precision":"country","confidence":"medium","note":"landfall in Vietnam"}
+{"qid":63200587,"place":"Region of Murcia","lat":38.0,"lon":-1.5,"precision":"region","confidence":"high","note":"union in Murcia"}
+{"qid":6744840,"place":"Malta","lat":35.9375,"lon":14.3754,"precision":"country","confidence":"high","note":"national election"}
+{"qid":124693288,"place":"Uzbekistan","lat":41.3775,"lon":64.5853,"precision":"country","confidence":"high","note":"tournament in Uzbekistan"}
+{"qid":28152777,"place":"Denmark","lat":56.0,"lon":10.0,"precision":"country","confidence":"high","note":"national election"}
+{"qid":7098229,"place":"New Zealand","lat":-40.9006,"lon":174.886,"precision":"country","confidence":"high","note":"national election polling"}
+{"qid":16249147,"place":"Abuja","lat":9.0765,"lon":7.3986,"precision":"city","confidence":"high","note":"riots in Abuja"}
+{"qid":19874935,"place":"Metropolitan Borough of Kirklees","lat":53.65,"lon":-1.78,"precision":"region","confidence":"high","note":"borough council"}
+{"qid":28163710,"place":"Datah Dawai Airport","lat":3.25,"lon":115.53,"precision":"site","confidence":"medium","note":"crash near airport"}
+{"qid":136440030,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"squads list"}
+{"qid":8030983,"place":"Belgrade","lat":44.7866,"lon":20.4489,"precision":"city","confidence":"high","note":"championships in Belgrade"}
+{"qid":96362329,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"medium","note":"UN selection"}
+{"qid":122902289,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"TV game show"}
+{"qid":133893289,"place":"Belize City","lat":17.4995,"lon":-88.1976,"precision":"city","confidence":"high","note":"hijacked over Belize City"}
+{"qid":114364565,"place":"Surrey Heath","lat":51.34,"lon":-0.72,"precision":"region","confidence":"high","note":"borough council"}
+{"qid":137806254,"place":"Indore","lat":22.7196,"lon":75.8577,"precision":"city","confidence":"high","note":"contamination in Indore"}
+{"qid":65067550,"place":"Canterbury","lat":51.2802,"lon":1.0789,"precision":"city","confidence":"high","note":"city council"}
+{"qid":115803370,"place":"Peterborough","lat":52.5739,"lon":-0.2428,"precision":"city","confidence":"high","note":"city council"}
+{"qid":2124545,"place":"Nordhausen","lat":51.5,"lon":10.79,"precision":"city","confidence":"high","note":"tractor made in Nordhausen"}
+{"qid":18353357,"place":"Nigeria","lat":9.082,"lon":8.6753,"precision":"country","confidence":"high","note":"national policy"}
+{"qid":15526820,"place":"New Jersey","lat":40.0583,"lon":-74.4057,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":7051017,"place":"Norfolk","lat":52.6,"lon":1.0,"precision":"region","confidence":"high","note":"county council"}
+{"qid":85725050,"place":"Harlow","lat":51.7667,"lon":0.1,"precision":"city","confidence":"high","note":"district council"}

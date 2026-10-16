@@ -1,0 +1,50 @@
+{"qid":8030474,"place":"Wolverhampton","lat":52.587,"lon":-2.1288,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":6816024,"place":"Belgrade","lat":44.7866,"lon":20.4489,"precision":"city","confidence":"high","note":"championships in Belgrade"}
+{"qid":116470812,"place":"Lavrio","lat":37.714,"lon":24.056,"precision":"city","confidence":"high","note":"miners strike in Lavrion"}
+{"qid":28401504,"place":"Colchester","lat":51.8892,"lon":0.9042,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":128483598,"place":"Hove","lat":50.8279,"lon":-0.17,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":105952338,"place":"Durban","lat":-29.8587,"lon":31.0218,"precision":"city","confidence":"high","note":"exhibition in Durban"}
+{"qid":11813853,"place":"Chamonix","lat":45.9237,"lon":6.8694,"precision":"city","confidence":"high","note":"games held in Chamonix"}
+{"qid":16879076,"place":"Puerto Rico","lat":18.2208,"lon":-66.5901,"precision":"region","confidence":"high","note":"island election"}
+{"qid":125942147,"place":"West Sumatra","lat":-0.7399,"lon":100.8,"precision":"region","confidence":"high","note":"floods in West Sumatra"}
+{"qid":60519234,"place":"Wisconsin","lat":44.5,"lon":-89.5,"precision":"region","confidence":"high","note":"state Senate election"}
+{"qid":3931579,"place":"Italy","lat":42.8333,"lon":12.8333,"precision":"country","confidence":"medium","note":"national referendum"}
+{"qid":19870129,"place":"London Borough of Bromley","lat":51.4039,"lon":0.0198,"precision":"region","confidence":"high","note":"borough council"}
+{"qid":131452471,"place":"Estadio 15 de Abril","lat":-31.619,"lon":-60.72,"precision":"site","confidence":"medium","note":"final at 15 de Abril, Santa Fe"}
+{"qid":106783181,"place":"Prague","lat":50.0755,"lon":14.4378,"precision":"city","confidence":"medium","note":"strike centered in Prague"}
+{"qid":5614299,"place":"Guatemala City","lat":14.6349,"lon":-90.5069,"precision":"city","confidence":"medium","note":"national congress election"}
+{"qid":16966623,"place":"Bedford","lat":52.136,"lon":-0.467,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":137460016,"place":"Sacramento, California","lat":38.5816,"lon":-121.4944,"precision":"city","confidence":"medium","note":"governor's seat"}
+{"qid":6084100,"place":"Isle of Wight","lat":50.6938,"lon":-1.3047,"precision":"region","confidence":"high","note":"island council"}
+{"qid":16958250,"place":"Taiwan","lat":23.7,"lon":121.0,"precision":"country","confidence":"medium","note":"storm rain hit Taiwan"}
+{"qid":17513482,"place":"Ontario","lat":50.0,"lon":-85.0,"precision":"region","confidence":"low","note":"Ontario highway"}
+{"qid":6804245,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"autobiography"}
+{"qid":117352916,"place":"North Hertfordshire","lat":51.95,"lon":-0.28,"precision":"region","confidence":"high","note":"district council"}
+{"qid":3722427,"place":"Italy","lat":42.8333,"lon":12.8333,"precision":"country","confidence":"medium","note":"national election"}
+{"qid":4597622,"place":"Poland","lat":52.0,"lon":19.0,"precision":"country","confidence":"medium","note":"Polish speedway event"}
+{"qid":139552488,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"play-off, venue unknown"}
+{"qid":126003349,"place":"Hale, Greater Manchester","lat":53.3727,"lon":-2.3465,"precision":"city","confidence":"high","note":"urban district council"}
+{"qid":130968724,"place":"Sacramento, California","lat":38.5816,"lon":-121.4944,"precision":"city","confidence":"medium","note":"state legislature vote"}
+{"qid":28136163,"place":"Sweden","lat":62.0,"lon":15.0,"precision":"country","confidence":"medium","note":"national election polls"}
+{"qid":8029344,"place":"Wokingham","lat":51.4112,"lon":-0.8335,"precision":"city","confidence":"high","note":"unitary council"}
+{"qid":55601520,"place":"Shizuoka Stadium","lat":34.734,"lon":137.91,"precision":"site","confidence":"medium","note":"Jubilo Iwata Stadium venue"}
+{"qid":140607597,"place":"Haarlem","lat":52.3874,"lon":4.6462,"precision":"city","confidence":"high","note":"baseball week in Haarlem"}
+{"qid":5019042,"place":"Metropolitan Borough of Calderdale","lat":53.72,"lon":-1.86,"precision":"region","confidence":"high","note":"borough council"}
+{"qid":4611929,"place":"Lusaka","lat":-15.3875,"lon":28.3228,"precision":"city","confidence":"medium","note":"SADC emergency meeting in Zambia"}
+{"qid":141301712,"place":"Pardubice","lat":50.0343,"lon":15.7812,"precision":"city","confidence":"low","note":"one of qualifying rounds"}
+{"qid":27901045,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"disambiguation"}
+{"qid":48837602,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"astronomical event"}
+{"qid":21076811,"place":"Doha","lat":25.2854,"lon":51.531,"precision":"city","confidence":"medium","note":"Qatar Classic squash"}
+{"qid":19873961,"place":"Hart District","lat":51.28,"lon":-0.88,"precision":"region","confidence":"high","note":"district council"}
+{"qid":138573607,"place":"United Nations Headquarters","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"high","note":"opened at UN HQ"}
+{"qid":104842632,"place":"Texas","lat":31.0,"lon":-100.0,"precision":"region","confidence":"high","note":"state Senate election"}
+{"qid":3587141,"place":"Eswatini","lat":-26.5225,"lon":31.4659,"precision":"country","confidence":"high","note":"national election"}
+{"qid":96369647,"place":"Borough of Broxbourne","lat":51.74,"lon":-0.02,"precision":"region","confidence":"high","note":"borough council"}
+{"qid":3072518,"place":"East Azerbaijan Province","lat":38.0,"lon":46.3,"precision":"region","confidence":"medium","note":"race in Iranian Azerbaijan"}
+{"qid":17063257,"place":"South Korea","lat":36.5,"lon":127.8,"precision":"country","confidence":"medium","note":"South Korean program"}
+{"qid":3586909,"place":"Bern","lat":46.948,"lon":7.4474,"precision":"city","confidence":"medium","note":"Swiss federal capital"}
+{"qid":7232761,"place":"Portugal","lat":39.6,"lon":-8.0,"precision":"country","confidence":"medium","note":"national election"}
+{"qid":2900100,"place":"Jerusalem","lat":31.7683,"lon":35.2137,"precision":"city","confidence":"high","note":"Knesset election"}
+{"qid":4590579,"place":"Mar del Plata","lat":-38.0055,"lon":-57.5426,"precision":"city","confidence":"high","note":"games in Mar del Plata"}
+{"qid":130297876,"place":"Suffolk","lat":52.19,"lon":1.0,"precision":"region","confidence":"high","note":"county council"}
+{"qid":96369519,"place":"Gold Coast, Queensland","lat":-28.0167,"lon":153.4,"precision":"city","confidence":"medium","note":"relay before Gold Coast games"}

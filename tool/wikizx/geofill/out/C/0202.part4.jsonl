@@ -1,0 +1,50 @@
+{"qid":4614006,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"two host cities unknown"}
+{"qid":65120548,"place":"Wellingborough","lat":52.302,"lon":-0.694,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":5314806,"place":"Dundee","lat":56.462,"lon":-2.9707,"precision":"city","confidence":"high","note":"city council"}
+{"qid":122979998,"place":"Gaza Strip","lat":31.4167,"lon":34.3333,"precision":"region","confidence":"high","note":"Gaza war"}
+{"qid":18379474,"place":"Flemington Racecourse","lat":-37.787,"lon":144.912,"precision":"site","confidence":"high","note":"Derby Day at Flemington"}
+{"qid":128031599,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"squad list"}
+{"qid":131583645,"place":"Bangkok","lat":13.7563,"lon":100.5018,"precision":"city","confidence":"high","note":"draw in Bangkok"}
+{"qid":30326509,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"high","note":"year in Brazil"}
+{"qid":136090139,"place":"Donggala Regency","lat":-0.68,"lon":119.74,"precision":"region","confidence":"medium","note":"crash in Donggala"}
+{"qid":5105161,"place":"Chorley","lat":53.653,"lon":-2.632,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":85520911,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"UN day"}
+{"qid":18347482,"place":"Estadio Presidente Perón","lat":-34.6703,"lon":-58.3694,"precision":"site","confidence":"high","note":"El Cilindro venue"}
+{"qid":7893028,"place":"Pennsylvania","lat":40.9699,"lon":-77.7278,"precision":"region","confidence":"high","note":"state election"}
+{"qid":1654147,"place":"North Rhine-Westphalia","lat":51.4332,"lon":7.6616,"precision":"region","confidence":"high","note":"state election"}
+{"qid":16952328,"place":"Coventry","lat":52.4068,"lon":-1.5197,"precision":"city","confidence":"high","note":"city council"}
+{"qid":2376072,"place":"Emden","lat":53.3671,"lon":7.2064,"precision":"city","confidence":"high","note":"synod held in Emden"}
+{"qid":17623432,"place":"Havana","lat":23.1136,"lon":-82.3666,"precision":"city","confidence":"high","note":"held in Havana"}
+{"qid":5020774,"place":"California","lat":36.7783,"lon":-119.4179,"precision":"region","confidence":"high","note":"state ballot"}
+{"qid":19848486,"place":"Europe","lat":54.526,"lon":15.2551,"precision":"region","confidence":"medium","note":"multi-race series"}
+{"qid":16827135,"place":"Bradford","lat":53.796,"lon":-1.7594,"precision":"city","confidence":"high","note":"district election"}
+{"qid":111687106,"place":"Madrid","lat":40.4168,"lon":-3.7038,"precision":"city","confidence":"medium","note":"Spanish Supreme Court"}
+{"qid":7974608,"place":"Watford","lat":51.6565,"lon":-0.3903,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":770620,"place":"Almería","lat":36.834,"lon":-2.4637,"precision":"city","confidence":"high","note":"race finish"}
+{"qid":4600255,"place":"Circuit Zandvoort","lat":52.3888,"lon":4.5409,"precision":"site","confidence":"high","note":"race at Zandvoort"}
+{"qid":7257943,"place":"Honduras","lat":15.2,"lon":-86.2419,"precision":"country","confidence":"high","note":"polls in Honduras"}
+{"qid":5559222,"place":"Gibraltar","lat":36.1408,"lon":-5.3536,"precision":"city","confidence":"high","note":"territory election"}
+{"qid":6541210,"place":"Liberia","lat":6.4281,"lon":-9.4295,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":30644570,"place":"Arkansas","lat":34.7465,"lon":-92.2896,"precision":"region","confidence":"high","note":"state election"}
+{"qid":5002085,"place":"Israel","lat":31.0461,"lon":34.8516,"precision":"country","confidence":"low","note":"Israeli-Palestinian NGO"}
+{"qid":47508576,"place":"Tameside","lat":53.48,"lon":-2.08,"precision":"region","confidence":"high","note":"borough election"}
+{"qid":137694284,"place":"Luton","lat":51.8787,"lon":-0.42,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":111982862,"place":"Sunderland","lat":54.9069,"lon":-1.3838,"precision":"city","confidence":"high","note":"city council"}
+{"qid":85724721,"place":"Cumbria","lat":54.5772,"lon":-2.7975,"precision":"region","confidence":"high","note":"county election"}
+{"qid":17016346,"place":"Oxfordshire","lat":51.7612,"lon":-1.2465,"precision":"region","confidence":"high","note":"county election"}
+{"qid":16274886,"place":"Ghent","lat":51.0543,"lon":3.7174,"precision":"city","confidence":"medium","note":"race in Ghent"}
+{"qid":104902315,"place":"Australia","lat":-25.2744,"lon":133.7751,"precision":"country","confidence":"medium","note":"national league finals"}
+{"qid":3775241,"place":"Denain","lat":50.33,"lon":3.395,"precision":"city","confidence":"high","note":"Denain race"}
+{"qid":110588828,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"high","note":"US government site"}
+{"qid":96417275,"place":"Georgia (U.S. state)","lat":32.1656,"lon":-82.9001,"precision":"region","confidence":"high","note":"state election"}
+{"qid":17015304,"place":"Wiltshire","lat":51.3492,"lon":-1.9927,"precision":"region","confidence":"high","note":"county election"}
+{"qid":104223833,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"medium","note":"ASP session at UN"}
+{"qid":3735767,"place":"South Korea","lat":35.9078,"lon":127.7669,"precision":"country","confidence":"high","note":"conscription system"}
+{"qid":4940158,"place":"Bolton","lat":53.5785,"lon":-2.4299,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":4610827,"place":"Estádio Beira-Rio","lat":-30.0654,"lon":-51.2358,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":96359792,"place":"Kansas","lat":38.5266,"lon":-96.7265,"precision":"region","confidence":"high","note":"state legislature election"}
+{"qid":3675953,"place":"Les Herbiers","lat":46.8683,"lon":-1.01,"precision":"city","confidence":"high","note":"race start and finish"}
+{"qid":16243981,"place":"Derry","lat":54.9966,"lon":-7.3086,"precision":"city","confidence":"medium","note":"county team season"}
+{"qid":4610694,"place":"Douala","lat":4.0511,"lon":9.7679,"precision":"city","confidence":"medium","note":"largest city protests"}
+{"qid":16828488,"place":"Tarnovo","lat":43.0757,"lon":25.6172,"precision":"city","confidence":"medium","note":"Grand National Assembly at Tarnovo"}
+{"qid":131399944,"place":"Bessèges","lat":44.293,"lon":4.1,"precision":"city","confidence":"medium","note":"race start Bessèges"}

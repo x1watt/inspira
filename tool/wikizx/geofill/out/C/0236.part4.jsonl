@@ -1,0 +1,50 @@
+{"qid":4654021,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"standard"}
+{"qid":133821376,"place":"Newfoundland and Labrador","lat":53.1355,"lon":-57.6604,"precision":"region","confidence":"high","note":"provincial ridings"}
+{"qid":133236867,"place":"Indomilk Arena","lat":-6.22,"lon":106.59,"precision":"site","confidence":"medium","note":"final venue in Tangerang"}
+{"qid":4611488,"place":"Sydney","lat":-33.8688,"lon":151.2093,"precision":"city","confidence":"low","note":"host city uncertain"}
+{"qid":25349881,"place":"Virginia","lat":37.4316,"lon":-78.6569,"precision":"region","confidence":"high","note":"state ballot"}
+{"qid":11700456,"place":"Connecticut","lat":41.6032,"lon":-73.0877,"precision":"region","confidence":"high","note":"state primary"}
+{"qid":491579,"place":"South Korea","lat":35.9078,"lon":127.7669,"precision":"country","confidence":"high","note":"Korean film"}
+{"qid":4559820,"place":"St. Boniface, Winnipeg","lat":49.8845,"lon":-97.119,"precision":"city","confidence":"medium","note":"winner from St. Boniface"}
+{"qid":96363432,"place":"Washington (state)","lat":47.7511,"lon":-120.7401,"precision":"region","confidence":"high","note":"state Senate election"}
+{"qid":136214273,"place":"Rochford District","lat":51.58,"lon":0.7,"precision":"region","confidence":"medium","note":"district election"}
+{"qid":5041363,"place":"Carlisle, Cumbria","lat":54.8925,"lon":-2.9329,"precision":"city","confidence":"high","note":"city council election"}
+{"qid":123982281,"place":"Lancashire","lat":53.8,"lon":-2.6,"precision":"region","confidence":"high","note":"county election"}
+{"qid":4802017,"place":"Aruba","lat":12.5211,"lon":-69.9683,"precision":"country","confidence":"high","note":"referendum in Aruba"}
+{"qid":130377443,"place":"Osaka Prefectural Gymnasium","lat":34.6663,"lon":135.5124,"precision":"site","confidence":"high","note":"bout venue"}
+{"qid":96075520,"place":"Paramaribo","lat":5.852,"lon":-55.2038,"precision":"city","confidence":"medium","note":"colonial capital"}
+{"qid":16969829,"place":"Christiania","lat":59.9139,"lon":10.7522,"precision":"city","confidence":"low","note":"Norwegian capital, now Oslo"}
+{"qid":24039395,"place":"Oxford","lat":51.752,"lon":-1.2577,"precision":"city","confidence":"high","note":"city council election"}
+{"qid":7569123,"place":"Southampton","lat":50.9097,"lon":-1.4044,"precision":"city","confidence":"high","note":"city council election"}
+{"qid":27958056,"place":"Shropshire","lat":52.71,"lon":-2.75,"precision":"region","confidence":"high","note":"council election"}
+{"qid":114434743,"place":"Martha's Vineyard","lat":41.385,"lon":-70.639,"precision":"region","confidence":"high","note":"migrants flown to island"}
+{"qid":56317809,"place":"Monte Caseros","lat":-30.25,"lon":-57.6333,"precision":"city","confidence":"medium","note":"crash near Monte Caseros"}
+{"qid":7399739,"place":"Rabouni","lat":27.95,"lon":-8.14,"precision":"city","confidence":"low","note":"Sahrawi government seat"}
+{"qid":61863739,"place":"Chittagong","lat":22.3569,"lon":91.7832,"precision":"city","confidence":"low","note":"hijacked flight landed Chittagong"}
+{"qid":3931587,"place":"San Marino","lat":43.9424,"lon":12.4578,"precision":"country","confidence":"high","note":"national referendum"}
+{"qid":5230289,"place":"Daventry District","lat":52.26,"lon":-1.16,"precision":"region","confidence":"medium","note":"district election"}
+{"qid":39058834,"place":"Calderdale","lat":53.72,"lon":-1.86,"precision":"region","confidence":"medium","note":"borough election"}
+{"qid":5182721,"place":"Craven District","lat":53.95,"lon":-2.05,"precision":"region","confidence":"medium","note":"district election"}
+{"qid":55390822,"place":"Derby","lat":52.9225,"lon":-1.4746,"precision":"city","confidence":"high","note":"city council election"}
+{"qid":116909434,"place":"Welwyn Hatfield","lat":51.77,"lon":-0.21,"precision":"region","confidence":"medium","note":"district election"}
+{"qid":7893090,"place":"Tennessee","lat":35.858,"lon":-86.3505,"precision":"region","confidence":"high","note":"state election"}
+{"qid":1822265,"place":"Berlin","lat":52.52,"lon":13.405,"precision":"city","confidence":"medium","note":"German law enacted in Berlin"}
+{"qid":7985695,"place":"West Lancashire","lat":53.59,"lon":-2.88,"precision":"region","confidence":"medium","note":"district election"}
+{"qid":16555664,"place":"Lisbon","lat":38.7223,"lon":-9.1393,"precision":"city","confidence":"high","note":"signed in Lisbon"}
+{"qid":16828420,"place":"Buckinghamshire","lat":51.8,"lon":-0.8,"precision":"region","confidence":"high","note":"county election"}
+{"qid":104855673,"place":"Macau","lat":22.1987,"lon":113.5439,"precision":"country","confidence":"high","note":"referendum in Macau"}
+{"qid":15650878,"place":"Sochi","lat":43.6028,"lon":39.7342,"precision":"city","confidence":"high","note":"Olympics host city"}
+{"qid":17038933,"place":"Qingdao","lat":36.0671,"lon":120.3826,"precision":"city","confidence":"low","note":"landfall in northeastern China"}
+{"qid":8031592,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"list"}
+{"qid":140026939,"place":"Dalymount Park","lat":53.3589,"lon":-6.2742,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":15410696,"place":"Nuuk","lat":64.1814,"lon":-51.6941,"precision":"city","confidence":"medium","note":"Greenland capital"}
+{"qid":21040697,"place":"Bucharest","lat":44.4268,"lon":26.1025,"precision":"city","confidence":"medium","note":"mission in Romania"}
+{"qid":27792218,"place":"Europe","lat":54.526,"lon":15.2551,"precision":"region","confidence":"medium","note":"European races"}
+{"qid":5066466,"place":"N'Djamena","lat":12.1348,"lon":15.0557,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":3060691,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"coin programme"}
+{"qid":2675076,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"furniture"}
+{"qid":6816064,"place":"Skopje","lat":41.9981,"lon":21.4254,"precision":"city","confidence":"high","note":"championships in Skopje"}
+{"qid":104949591,"place":"Washington (state)","lat":47.7511,"lon":-120.7401,"precision":"region","confidence":"high","note":"state Senate election"}
+{"qid":137203736,"place":"University of Oklahoma","lat":35.2058,"lon":-97.4457,"precision":"site","confidence":"high","note":"controversy at OU"}
+{"qid":118191440,"place":"West Lancashire","lat":53.59,"lon":-2.88,"precision":"region","confidence":"medium","note":"borough election"}
+{"qid":106913063,"place":"Ipswich","lat":52.0567,"lon":1.1482,"precision":"city","confidence":"high","note":"borough election"}

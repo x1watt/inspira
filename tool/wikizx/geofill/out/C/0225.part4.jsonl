@@ -1,0 +1,50 @@
+{"qid":111310092,"place":"Emilia-Romagna","lat":44.5959,"lon":11.0,"precision":"region","confidence":"medium","note":"Italian stage race"}
+{"qid":14624926,"place":"Colombia","lat":4.5709,"lon":-74.2973,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":112132221,"place":"West Oxfordshire","lat":51.8,"lon":-1.5,"precision":"region","confidence":"medium","note":"district election"}
+{"qid":39047627,"place":"New York (state)","lat":42.9538,"lon":-75.5268,"precision":"region","confidence":"high","note":"state election"}
+{"qid":5334397,"place":"Ecuador","lat":-1.8312,"lon":-78.1834,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":16930387,"place":"Milan","lat":45.4642,"lon":9.19,"precision":"city","confidence":"medium","note":"Cisalpine capital"}
+{"qid":107304097,"place":"Vietnam","lat":14.0583,"lon":108.2772,"precision":"country","confidence":"low","note":"crash near Vietnam"}
+{"qid":3996117,"place":"Lucerne","lat":47.0502,"lon":8.3093,"precision":"city","confidence":"high","note":"race finish"}
+{"qid":18519149,"place":"Yangon","lat":16.8409,"lon":96.1735,"precision":"city","confidence":"high","note":"National Theatre of Yangon"}
+{"qid":117477025,"place":"Basildon","lat":51.5761,"lon":0.4887,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":1850081,"place":"Flanders","lat":51.0,"lon":4.0,"precision":"region","confidence":"high","note":"Tour of Flanders"}
+{"qid":105752873,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"low","note":"golf qualifying"}
+{"qid":131982297,"place":"Thurrock","lat":51.49,"lon":0.35,"precision":"region","confidence":"medium","note":"borough election"}
+{"qid":7380080,"place":"Runnymede","lat":51.4,"lon":-0.53,"precision":"region","confidence":"medium","note":"borough election"}
+{"qid":6567904,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"character list"}
+{"qid":3775249,"place":"Denain","lat":50.3258,"lon":3.3953,"precision":"city","confidence":"high","note":"race at Denain"}
+{"qid":113993538,"place":"Canton of Zürich","lat":47.4,"lon":8.65,"precision":"region","confidence":"high","note":"cantonal election"}
+{"qid":16879148,"place":"Puerto Rico","lat":18.2208,"lon":-66.5901,"precision":"region","confidence":"high","note":"island election"}
+{"qid":132645428,"place":"Harbin International Convention Exhibition and Sports Center","lat":45.7,"lon":126.75,"precision":"site","confidence":"medium","note":"opening ceremony Harbin"}
+{"qid":17016767,"place":"Pennsylvania","lat":40.9,"lon":-77.8,"precision":"region","confidence":"high","note":"state election"}
+{"qid":6841019,"place":"Mid Sussex","lat":50.97,"lon":-0.13,"precision":"region","confidence":"medium","note":"district election"}
+{"qid":91924736,"place":"Stockport","lat":53.4083,"lon":-2.1494,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":85740254,"place":"Karachi","lat":24.8607,"lon":67.0011,"precision":"city","confidence":"low","note":"Pakistani startup"}
+{"qid":3490343,"place":"Turin","lat":45.0703,"lon":7.6869,"precision":"city","confidence":"high","note":"Olympics in Turin"}
+{"qid":85731921,"place":"Mole Valley","lat":51.22,"lon":-0.33,"precision":"region","confidence":"medium","note":"district election"}
+{"qid":4939626,"place":"La Paz","lat":-16.4897,"lon":-68.1193,"precision":"city","confidence":"medium","note":"National Congress seat"}
+{"qid":8030487,"place":"Wolverhampton","lat":52.587,"lon":-2.1288,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":3722822,"place":"Piedmont","lat":45.0522,"lon":7.5154,"precision":"region","confidence":"high","note":"regional election"}
+{"qid":21188491,"place":"Montserrat","lat":16.7425,"lon":-62.1874,"precision":"country","confidence":"high","note":"territory election"}
+{"qid":19872081,"place":"Chiltern District","lat":51.65,"lon":-0.6,"precision":"region","confidence":"medium","note":"district election"}
+{"qid":131824318,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"medium","note":"Colonna crusade Papal States"}
+{"qid":7842305,"place":"Madrid","lat":40.4168,"lon":-3.7038,"precision":"city","confidence":"high","note":"published in Madrid"}
+{"qid":50820500,"place":"Waregem","lat":50.8883,"lon":3.4278,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":5247553,"place":"Hickory, North Carolina","lat":35.7332,"lon":-81.3412,"precision":"city","confidence":"high","note":"missing in Hickory"}
+{"qid":7196395,"place":"Santiago","lat":-33.4489,"lon":-70.6693,"precision":"city","confidence":"medium","note":"Chilean army scandal"}
+{"qid":18356812,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"high","note":"Congress elections"}
+{"qid":17015266,"place":"Surrey","lat":51.31,"lon":-0.4,"precision":"region","confidence":"medium","note":"county election"}
+{"qid":65082943,"place":"Coventry","lat":52.4068,"lon":-1.5197,"precision":"city","confidence":"high","note":"city council"}
+{"qid":1918180,"place":"Spain","lat":40.4637,"lon":-3.7492,"precision":"country","confidence":"high","note":"Vuelta stages"}
+{"qid":6019916,"place":"Ankara","lat":39.9334,"lon":32.8597,"precision":"city","confidence":"high","note":"Grand National Assembly vote"}
+{"qid":3118413,"place":"France","lat":46.2276,"lon":2.2137,"precision":"country","confidence":"high","note":"nationwide strikes"}
+{"qid":28839187,"place":"Drôme","lat":44.73,"lon":5.15,"precision":"region","confidence":"medium","note":"race in Drome"}
+{"qid":55608331,"place":"Islamabad","lat":33.6844,"lon":73.0479,"precision":"city","confidence":"medium","note":"Pakistani parliament"}
+{"qid":97181174,"place":"European Union","lat":50.8503,"lon":4.3517,"precision":"region","confidence":"low","note":"EU regulation"}
+{"qid":18160061,"place":"United Kingdom","lat":54.0,"lon":-2.0,"precision":"country","confidence":"high","note":"British TV series"}
+{"qid":96369241,"place":"Townsville","lat":-19.259,"lon":146.8169,"precision":"city","confidence":"medium","note":"champions Townsville"}
+{"qid":7852833,"place":"Tunbridge Wells","lat":51.1324,"lon":0.2637,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":25395600,"place":"Madrid","lat":40.4168,"lon":-3.7038,"precision":"city","confidence":"high","note":"Cortes seat"}
+{"qid":13986250,"place":"Qingdao","lat":36.0671,"lon":120.3826,"precision":"city","confidence":"low","note":"Joint Sea 2013 near Peter the Great Gulf"}
+{"qid":14624929,"place":"Colombia","lat":4.5709,"lon":-74.2973,"precision":"country","confidence":"high","note":"nationwide"}

@@ -1,0 +1,50 @@
+{"qid":3000646,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"multi-venue series"}
+{"qid":47005952,"place":"Ashton-under-Lyne","lat":53.489,"lon":-2.095,"precision":"city","confidence":"medium","note":"Tameside seat"}
+{"qid":4348972,"place":"Ninove","lat":50.8333,"lon":4.0333,"precision":"city","confidence":"medium","note":"race finish"}
+{"qid":7891741,"place":"New Hampshire","lat":43.45,"lon":-71.56,"precision":"region","confidence":"low","note":"state election"}
+{"qid":4867530,"place":"Basingstoke","lat":51.2665,"lon":-1.0924,"precision":"city","confidence":"high","note":"borough"}
+{"qid":747105,"place":"Almería","lat":36.8381,"lon":-2.4597,"precision":"city","confidence":"high","note":"race finish"}
+{"qid":27725748,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"journal"}
+{"qid":5261445,"place":"Derby","lat":52.9225,"lon":-1.4746,"precision":"city","confidence":"high","note":"city council"}
+{"qid":59346704,"place":"Haut Var","lat":43.5,"lon":6.5,"precision":"region","confidence":"low","note":"race region"}
+{"qid":3506194,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"bus model"}
+{"qid":1021448,"place":"Hamburg","lat":53.5511,"lon":9.9937,"precision":"city","confidence":"high","note":"city state"}
+{"qid":17015558,"place":"Kentucky","lat":37.8393,"lon":-84.27,"precision":"region","confidence":"low","note":"state election"}
+{"qid":96369718,"place":"Malvern, Worcestershire","lat":52.112,"lon":-2.326,"precision":"city","confidence":"medium","note":"district seat"}
+{"qid":5683820,"place":"Romford","lat":51.5757,"lon":0.183,"precision":"city","confidence":"medium","note":"Havering civic centre"}
+{"qid":30641793,"place":"Iowa","lat":41.878,"lon":-93.0977,"precision":"region","confidence":"low","note":"state election"}
+{"qid":25112342,"place":"Shenzhen","lat":22.5431,"lon":114.0579,"precision":"city","confidence":"high","note":"strike in Shenzhen"}
+{"qid":127273771,"place":"France","lat":46.2276,"lon":2.2137,"precision":"country","confidence":"medium","note":"race ends Nice"}
+{"qid":7541471,"place":"Slough","lat":51.5105,"lon":-0.595,"precision":"city","confidence":"high","note":"borough"}
+{"qid":6658370,"place":"Liverpool","lat":53.4084,"lon":-2.9916,"precision":"city","confidence":"high","note":"city council"}
+{"qid":6084873,"place":"Los Angeles","lat":34.0522,"lon":-118.2437,"precision":"city","confidence":"low","note":"awards typically Los Angeles"}
+{"qid":12072836,"place":"Toronto","lat":43.6532,"lon":-79.3832,"precision":"city","confidence":"medium","note":"published in Toronto"}
+{"qid":55099136,"place":"Adur District","lat":50.8333,"lon":-0.3,"precision":"region","confidence":"medium","note":"district council"}
+{"qid":5385727,"place":"Ilkeston","lat":52.97,"lon":-1.31,"precision":"city","confidence":"medium","note":"Erewash seat"}
+{"qid":30246856,"place":"Lee Valley VeloPark","lat":51.5497,"lon":-0.0174,"precision":"site","confidence":"high","note":"event venue"}
+{"qid":5828256,"place":"Bogota","lat":4.711,"lon":-74.0721,"precision":"city","confidence":"medium","note":"Colombia capital"}
+{"qid":4341090,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"military vehicle"}
+{"qid":18759875,"place":"Hotel Adlon","lat":52.5163,"lon":13.3797,"precision":"site","confidence":"low","note":"infobox Adlon, Helsinki"}
+{"qid":16820767,"place":"Falkland Islands","lat":-51.7963,"lon":-59.5236,"precision":"country","confidence":"high","note":"islands election"}
+{"qid":108044691,"place":"Chelmsford","lat":51.7356,"lon":0.4685,"precision":"city","confidence":"high","note":"borough"}
+{"qid":5516532,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"camogie competition"}
+{"qid":7914874,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"comic strip"}
+{"qid":7380849,"place":"Aldershot","lat":51.248,"lon":-0.758,"precision":"city","confidence":"medium","note":"Rushmoor seat"}
+{"qid":6720046,"place":"Meghna River","lat":23.0,"lon":90.6,"precision":"region","confidence":"medium","note":"capsized in river"}
+{"qid":4916651,"place":"Birmingham","lat":52.4862,"lon":-1.8904,"precision":"city","confidence":"high","note":"city council"}
+{"qid":97360201,"place":"Maryland","lat":39.0458,"lon":-76.6413,"precision":"region","confidence":"low","note":"state election"}
+{"qid":16249036,"place":"Down","lat":54.35,"lon":-5.95,"precision":"region","confidence":"medium","note":"county team"}
+{"qid":131982462,"place":"Thurrock","lat":51.49,"lon":0.35,"precision":"city","confidence":"medium","note":"borough"}
+{"qid":1997675,"place":"Lebedyn","lat":50.5833,"lon":34.4833,"precision":"city","confidence":"high","note":"executions in Lebedyn"}
+{"qid":104859639,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"high","note":"district court"}
+{"qid":97168462,"place":"Sion, Switzerland","lat":46.2293,"lon":7.359,"precision":"city","confidence":"high","note":"Valais capital"}
+{"qid":21061582,"place":"Grantham","lat":52.912,"lon":-0.642,"precision":"city","confidence":"medium","note":"district seat"}
+{"qid":60764505,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"web series"}
+{"qid":5192107,"place":"Havana","lat":23.1136,"lon":-82.3666,"precision":"city","confidence":"medium","note":"Cuba capital"}
+{"qid":6541233,"place":"Monrovia","lat":6.3156,"lon":-10.8074,"precision":"city","confidence":"medium","note":"Liberia capital"}
+{"qid":30326498,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"high","note":"national year"}
+{"qid":3070627,"place":"Montreal","lat":45.5017,"lon":-73.5673,"precision":"city","confidence":"high","note":"festival city"}
+{"qid":7963776,"place":"Walsall","lat":52.586,"lon":-1.982,"precision":"city","confidence":"high","note":"borough"}
+{"qid":16975198,"place":"Atlas Arena","lat":51.7283,"lon":19.4903,"precision":"site","confidence":"high","note":"Arena Lodz final"}
+{"qid":104947755,"place":"Louisiana","lat":30.9843,"lon":-91.9623,"precision":"region","confidence":"low","note":"state election"}
+{"qid":4608742,"place":"Koidu-Sefadu","lat":8.6444,"lon":-10.9708,"precision":"city","confidence":"high","note":"protest town"}

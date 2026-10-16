@@ -1,0 +1,50 @@
+{"qid":5674800,"place":"Hartlepool","lat":54.687,"lon":-1.212,"precision":"city","confidence":"high","note":"borough"}
+{"qid":30638572,"place":"Connecticut","lat":41.6032,"lon":-73.0877,"precision":"region","confidence":"low","note":"state election"}
+{"qid":1968769,"place":"Leeds","lat":53.8008,"lon":-1.5491,"precision":"city","confidence":"medium","note":"race city"}
+{"qid":105356418,"place":"Florence","lat":43.7696,"lon":11.2558,"precision":"city","confidence":"high","note":"race start"}
+{"qid":3464718,"place":"Ottawa","lat":45.4215,"lon":-75.6972,"precision":"city","confidence":"high","note":"club city"}
+{"qid":20981965,"place":"Pretoria","lat":-25.7479,"lon":28.2293,"precision":"city","confidence":"medium","note":"Parliament executive capital"}
+{"qid":125314844,"place":"Wembley Stadium","lat":51.556,"lon":-0.2796,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":11656000,"place":"Manchuria","lat":45.0,"lon":125.0,"precision":"region","confidence":"medium","note":"planned operation area"}
+{"qid":107128691,"place":"Gloucester","lat":51.8642,"lon":-2.238,"precision":"city","confidence":"high","note":"city council"}
+{"qid":48843178,"place":"Missouri","lat":38.5739,"lon":-92.6038,"precision":"region","confidence":"low","note":"state election"}
+{"qid":130546284,"place":"Gyeongui Line","lat":38.0,"lon":126.6,"precision":"region","confidence":"low","note":"rail line near border"}
+{"qid":133844113,"place":"France","lat":46.2276,"lon":2.2137,"precision":"country","confidence":"medium","note":"rugby competition"}
+{"qid":106830472,"place":"Epping Forest District","lat":51.7,"lon":0.1,"precision":"region","confidence":"medium","note":"district council"}
+{"qid":11931864,"place":"Bratislava","lat":48.1486,"lon":17.1077,"precision":"city","confidence":"medium","note":"Slovak capital"}
+{"qid":1815076,"place":"La Seyne-sur-Mer","lat":43.1,"lon":5.8833,"precision":"city","confidence":"medium","note":"built at shipyard"}
+{"qid":3061878,"place":"France","lat":46.2276,"lon":2.2137,"precision":"country","confidence":"medium","note":"French show"}
+{"qid":122662975,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"cancelled championship"}
+{"qid":104859048,"place":"Havant","lat":50.85,"lon":-0.9833,"precision":"city","confidence":"high","note":"borough"}
+{"qid":28448198,"place":"Metropolitan Stadium","lat":44.8458,"lon":-93.2394,"precision":"site","confidence":"high","note":"Bloomington, Minnesota stadium"}
+{"qid":106707598,"place":"Oxford","lat":51.752,"lon":-1.2577,"precision":"city","confidence":"high","note":"city council"}
+{"qid":3755433,"place":"Estella-Lizarra","lat":42.67,"lon":-2.03,"precision":"city","confidence":"high","note":"race start finish"}
+{"qid":7892036,"place":"Tennessee","lat":35.86,"lon":-86.66,"precision":"region","confidence":"low","note":"state election"}
+{"qid":104858239,"place":"Candlestick Park","lat":37.7136,"lon":-122.3862,"precision":"site","confidence":"high","note":"game venue"}
+{"qid":55601612,"place":"Estella-Lizarra","lat":42.67,"lon":-2.03,"precision":"city","confidence":"high","note":"race start finish"}
+{"qid":25105710,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"high","note":"UN meeting"}
+{"qid":18289501,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"railway car"}
+{"qid":6449004,"place":"Kuwait City","lat":29.3759,"lon":47.9774,"precision":"city","confidence":"medium","note":"nationwide election, capital"}
+{"qid":8042590,"place":"Brussels","lat":50.8503,"lon":4.3517,"precision":"city","confidence":"high","note":"festival city"}
+{"qid":11622010,"place":"Wuhu","lat":31.3524,"lon":118.433,"precision":"city","confidence":"high","note":"riot city"}
+{"qid":3533366,"place":"Sesto San Giovanni","lat":45.5333,"lon":9.2333,"precision":"city","confidence":"medium","note":"race finish"}
+{"qid":24039315,"place":"Thurrock","lat":51.49,"lon":0.35,"precision":"city","confidence":"medium","note":"unitary authority"}
+{"qid":17100357,"place":"Arkansas","lat":34.7465,"lon":-92.2896,"precision":"region","confidence":"low","note":"state election"}
+{"qid":30326540,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"high","note":"national year"}
+{"qid":17988707,"place":"Lithuania","lat":55.1694,"lon":23.8813,"precision":"country","confidence":"low","note":"Baltic race"}
+{"qid":136172143,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"high","note":"national qualification"}
+{"qid":108523843,"place":"Reading, Berkshire","lat":51.4543,"lon":-0.9781,"precision":"city","confidence":"medium","note":"festival site Reading"}
+{"qid":7892858,"place":"Mississippi","lat":32.75,"lon":-89.66,"precision":"region","confidence":"low","note":"state election"}
+{"qid":6403994,"place":"Israel","lat":31.0461,"lon":34.8516,"precision":"country","confidence":"high","note":"kibbutzim crisis"}
+{"qid":4996286,"place":"Sofia","lat":42.6977,"lon":23.3219,"precision":"city","confidence":"medium","note":"nationwide election, capital"}
+{"qid":85850124,"place":"Kidderminster","lat":52.388,"lon":-2.249,"precision":"city","confidence":"medium","note":"district seat"}
+{"qid":2635963,"place":"Ninove","lat":50.8333,"lon":4.0333,"precision":"city","confidence":"medium","note":"race finish"}
+{"qid":111395674,"place":"Asturias","lat":43.3614,"lon":-5.8593,"precision":"region","confidence":"high","note":"stage race region"}
+{"qid":115802221,"place":"Mildenhall, Suffolk","lat":52.343,"lon":0.509,"precision":"city","confidence":"medium","note":"district council seat"}
+{"qid":55601666,"place":"Eijsden","lat":50.7792,"lon":5.6978,"precision":"city","confidence":"high","note":"race start finish"}
+{"qid":111323146,"place":"Beijing","lat":39.9042,"lon":116.4074,"precision":"city","confidence":"high","note":"Paralympics host"}
+{"qid":128601897,"place":"Safed","lat":32.9646,"lon":35.496,"precision":"city","confidence":"high","note":"disappeared in Safed"}
+{"qid":132348157,"place":"Saint Pierre and Miquelon","lat":46.8852,"lon":-56.3159,"precision":"region","confidence":"high","note":"colony islands"}
+{"qid":60041586,"place":"Adelaide","lat":-34.9285,"lon":138.6007,"precision":"city","confidence":"high","note":"electorate"}
+{"qid":55605156,"place":"Great Barrier Reef","lat":-18.2861,"lon":147.7,"precision":"region","confidence":"high","note":"survey site"}
+{"qid":117770131,"place":"Cardona","lat":41.914,"lon":1.68,"precision":"city","confidence":"high","note":"combat at Cardona"}

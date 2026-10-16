@@ -1,0 +1,50 @@
+{"qid":109283677,"place":"London Borough of Islington","lat":51.5362,"lon":-0.103,"precision":"region","confidence":"high","note":"borough election"}
+{"qid":5570843,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"global crisis"}
+{"qid":117708397,"place":"Thanet","lat":51.36,"lon":1.39,"precision":"region","confidence":"high","note":"district election"}
+{"qid":39091079,"place":"Cambridge","lat":52.2053,"lon":0.1218,"precision":"city","confidence":"high","note":"city election"}
+{"qid":109354390,"place":"Norfolk, Virginia","lat":36.8508,"lon":-76.2859,"precision":"city","confidence":"high","note":"riot in Norfolk"}
+{"qid":4601572,"place":"Melbourne","lat":-37.8136,"lon":144.9631,"precision":"city","confidence":"high","note":"storm over Melbourne"}
+{"qid":136440218,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"medium","note":"state visit capital"}
+{"qid":48845326,"place":"Indiana","lat":39.8,"lon":-86.25,"precision":"region","confidence":"high","note":"state result"}
+{"qid":20805530,"place":"Wembley","lat":51.556,"lon":-0.2796,"precision":"city","confidence":"medium","note":"held at Wembley"}
+{"qid":7891905,"place":"Oregon","lat":43.9,"lon":-120.5,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7098227,"place":"New Zealand","lat":-41.0,"lon":174.0,"precision":"country","confidence":"high","note":"national election polling"}
+{"qid":108796241,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"global timeline"}
+{"qid":19869998,"place":"London Borough of Waltham Forest","lat":51.5908,"lon":-0.0134,"precision":"region","confidence":"high","note":"borough election"}
+{"qid":4923245,"place":"Blackpool","lat":53.8175,"lon":-3.0357,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":136306470,"place":"Charlotte, North Carolina","lat":35.2271,"lon":-80.8431,"precision":"city","confidence":"medium","note":"men's event host"}
+{"qid":7305542,"place":"Redcar and Cleveland","lat":54.59,"lon":-1.07,"precision":"region","confidence":"high","note":"borough election"}
+{"qid":47057972,"place":"Adelaide","lat":-34.9285,"lon":138.6007,"precision":"city","confidence":"medium","note":"race in South Australia"}
+{"qid":112153198,"place":"Erkrath","lat":51.2237,"lon":6.9071,"precision":"city","confidence":"high","note":"shootdown site"}
+{"qid":56275583,"place":"Alentejo","lat":38.5,"lon":-7.9,"precision":"region","confidence":"high","note":"regional cycle race"}
+{"qid":25221594,"place":"Izmir","lat":38.4237,"lon":27.1428,"precision":"city","confidence":"high","note":"championships in Izmir"}
+{"qid":7891815,"place":"Albany, New York","lat":42.6526,"lon":-73.7562,"precision":"city","confidence":"medium","note":"legislature election"}
+{"qid":6735497,"place":"Maidstone","lat":51.272,"lon":0.529,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":85731217,"place":"BMO Field","lat":43.6332,"lon":-79.4186,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":6815966,"place":"Budva","lat":42.2864,"lon":18.84,"precision":"city","confidence":"high","note":"championship in Budva"}
+{"qid":86728187,"place":"Saitama Stadium 2002","lat":35.9025,"lon":139.7186,"precision":"site","confidence":"low","note":"final venue guess"}
+{"qid":113712723,"place":"Russia","lat":61.524,"lon":105.3188,"precision":"country","confidence":"high","note":"Russian school program"}
+{"qid":6068118,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"diaspora topic"}
+{"qid":25221587,"place":"Izmir","lat":38.4237,"lon":27.1428,"precision":"city","confidence":"high","note":"championships in Izmir"}
+{"qid":5322661,"place":"Taipei","lat":25.033,"lon":121.5654,"precision":"city","confidence":"high","note":"televised in Taipei"}
+{"qid":5666388,"place":"Harrogate","lat":53.9921,"lon":-1.5418,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":16998843,"place":"Newcastle-under-Lyme","lat":53.013,"lon":-2.225,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":5828858,"place":"Quito","lat":-0.1807,"lon":-78.4678,"precision":"city","confidence":"medium","note":"national election capital"}
+{"qid":130685543,"place":"Sacramento, California","lat":38.5816,"lon":-121.4944,"precision":"city","confidence":"high","note":"legislature election"}
+{"qid":20025193,"place":"Hanoi","lat":21.0285,"lon":105.8542,"precision":"city","confidence":"low","note":"national cup"}
+{"qid":16684561,"place":"Cape Town","lat":-33.9249,"lon":18.4241,"precision":"city","confidence":"low","note":"parliament elects president"}
+{"qid":4879131,"place":"Bedford","lat":52.135,"lon":-0.467,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":4128650,"place":"Russia","lat":61.524,"lon":105.3188,"precision":"country","confidence":"high","note":"national elections"}
+{"qid":17147493,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"golf tour"}
+{"qid":18285570,"place":"Quba, Azerbaijan","lat":41.3611,"lon":48.5128,"precision":"city","confidence":"high","note":"festival in Quba"}
+{"qid":7928314,"place":"Vienna","lat":48.2082,"lon":16.3738,"precision":"city","confidence":"high","note":"conference in Vienna"}
+{"qid":17006707,"place":"Georgia (U.S. state)","lat":32.7,"lon":-83.4,"precision":"region","confidence":"high","note":"state result"}
+{"qid":2892661,"place":"Guatemala City","lat":14.6349,"lon":-90.5069,"precision":"city","confidence":"medium","note":"national election capital"}
+{"qid":9370603,"place":"Saint-Hilaire-le-Grand","lat":49.1042,"lon":4.5208,"precision":"city","confidence":"medium","note":"battle location"}
+{"qid":15131419,"place":"Curaçao","lat":12.1696,"lon":-68.99,"precision":"region","confidence":"high","note":"race on Curaçao"}
+{"qid":60519322,"place":"North Carolina","lat":35.5,"lon":-79.4,"precision":"region","confidence":"high","note":"state result"}
+{"qid":5516567,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"camogie competition"}
+{"qid":60519267,"place":"Tennessee","lat":35.86,"lon":-86.66,"precision":"region","confidence":"high","note":"state election"}
+{"qid":122981698,"place":"Brighton","lat":50.8225,"lon":-0.1372,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":124842408,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"yearly overview"}
+{"qid":3607616,"place":"Montgomery, Alabama","lat":32.3792,"lon":-86.3077,"precision":"city","confidence":"high","note":"state legislature bill"}

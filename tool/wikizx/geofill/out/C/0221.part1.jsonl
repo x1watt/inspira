@@ -1,0 +1,50 @@
+{"qid":7354076,"place":"Rochford","lat":51.582,"lon":0.706,"precision":"city","confidence":"medium","note":"council seat"}
+{"qid":4609025,"place":"Midwestern United States","lat":41.5,"lon":-93.0,"precision":"region","confidence":"low","note":"heat wave region"}
+{"qid":110962896,"place":"Madagascar","lat":-18.7669,"lon":46.8691,"precision":"country","confidence":"medium","note":"affected country"}
+{"qid":7891774,"place":"Albany, New York","lat":42.6526,"lon":-73.7562,"precision":"city","confidence":"medium","note":"state legislature elected"}
+{"qid":18208452,"place":"Cairo","lat":30.0444,"lon":31.2357,"precision":"city","confidence":"low","note":"Egyptian cup final"}
+{"qid":5207726,"place":"Hemel Hempstead","lat":51.7526,"lon":-0.469,"precision":"city","confidence":"medium","note":"council seat"}
+{"qid":4825516,"place":"Austria","lat":47.5162,"lon":14.5501,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":21061689,"place":"Bradford","lat":53.796,"lon":-1.7594,"precision":"city","confidence":"medium","note":"council seat"}
+{"qid":129758167,"place":"Caracas","lat":10.4806,"lon":-66.9036,"precision":"city","confidence":"high","note":"capital"}
+{"qid":6732812,"place":"Buttala","lat":6.75,"lon":81.3333,"precision":"city","confidence":"medium","note":"near village"}
+{"qid":117428103,"place":"Letchworth","lat":51.979,"lon":-0.227,"precision":"city","confidence":"low","note":"council seat"}
+{"qid":51267959,"place":"Encounter Bay, South Australia","lat":-35.5833,"lon":138.6,"precision":"city","confidence":"medium","note":"electorate locality"}
+{"qid":125251092,"place":"Knowsley","lat":53.45,"lon":-2.85,"precision":"city","confidence":"medium","note":"borough"}
+{"qid":109974979,"place":"Watford","lat":51.6565,"lon":-0.3903,"precision":"city","confidence":"high","note":"borough"}
+{"qid":5194755,"place":"Curinga","lat":38.8333,"lon":16.3,"precision":"city","confidence":"medium","note":"rail accident near"}
+{"qid":4140580,"place":"Lithuania","lat":55.1694,"lon":23.8813,"precision":"country","confidence":"high","note":"nationwide referendum"}
+{"qid":115804391,"place":"Peterborough","lat":52.5694,"lon":-0.2405,"precision":"city","confidence":"high","note":"city council"}
+{"qid":3114081,"place":"Denain","lat":50.3258,"lon":3.3944,"precision":"city","confidence":"high","note":"race finish"}
+{"qid":132798089,"place":"Daytona International Speedway","lat":29.1853,"lon":-81.0709,"precision":"site","confidence":"high","note":"speedweeks venue"}
+{"qid":24260775,"place":"Texas","lat":31.0,"lon":-100.0,"precision":"country","confidence":"low","note":"state election"}
+{"qid":7891861,"place":"North Dakota","lat":47.5515,"lon":-101.002,"precision":"region","confidence":"low","note":"state election"}
+{"qid":6816123,"place":"Skopje","lat":41.9981,"lon":21.4254,"precision":"city","confidence":"high","note":"championships host"}
+{"qid":21070712,"place":"Lake Ontario","lat":43.7,"lon":-77.9,"precision":"region","confidence":"low","note":"north shore lands"}
+{"qid":17591875,"place":"Switzerland","lat":46.8182,"lon":8.2275,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":91790707,"place":"Holy Roman Empire","lat":50.0,"lon":10.0,"precision":"region","confidence":"low","note":"plague region"}
+{"qid":24039352,"place":"Portsmouth","lat":50.8058,"lon":-1.0872,"precision":"city","confidence":"high","note":"city council"}
+{"qid":5261444,"place":"Derby","lat":52.9225,"lon":-1.4746,"precision":"city","confidence":"high","note":"city council"}
+{"qid":25349448,"place":"Izmir","lat":38.4237,"lon":27.1428,"precision":"city","confidence":"high","note":"host city"}
+{"qid":60773385,"place":"Epping Forest District","lat":51.7,"lon":0.1,"precision":"region","confidence":"medium","note":"district council"}
+{"qid":104842592,"place":"Mississippi","lat":32.75,"lon":-89.66,"precision":"region","confidence":"low","note":"state election"}
+{"qid":4572275,"place":"Estadio Nacional de Chile","lat":-33.465,"lon":-70.61,"precision":"site","confidence":"medium","note":"venue Santiago"}
+{"qid":18002402,"place":"Luzhniki Stadium","lat":55.7158,"lon":37.5537,"precision":"site","confidence":"high","note":"Lenin Central Stadium"}
+{"qid":8029350,"place":"Wokingham","lat":51.4112,"lon":-0.8335,"precision":"city","confidence":"high","note":"borough"}
+{"qid":6550586,"place":"Lincoln, England","lat":53.2307,"lon":-0.5406,"precision":"city","confidence":"high","note":"city council"}
+{"qid":4614235,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"draft no location"}
+{"qid":138717122,"place":"Ajmer","lat":26.4499,"lon":74.6399,"precision":"city","confidence":"high","note":"durbar held at Ajmer"}
+{"qid":3118406,"place":"Gafsa","lat":34.425,"lon":8.7842,"precision":"city","confidence":"high","note":"Gafsa mining basin protests"}
+{"qid":5020916,"place":"California","lat":36.7783,"lon":-119.4179,"precision":"region","confidence":"low","note":"state primary"}
+{"qid":24083552,"place":"Newcastle-under-Lyme","lat":53.012,"lon":-2.226,"precision":"city","confidence":"high","note":"borough"}
+{"qid":16039804,"place":"Pau, Pyrénées-Atlantiques","lat":43.2951,"lon":-0.3708,"precision":"city","confidence":"high","note":"street race"}
+{"qid":5799894,"place":"Palikir","lat":6.9248,"lon":158.161,"precision":"city","confidence":"medium","note":"FSM capital"}
+{"qid":7891997,"place":"South Carolina","lat":33.8361,"lon":-81.1637,"precision":"region","confidence":"low","note":"state election"}
+{"qid":43282051,"place":"Saudi Arabia","lat":23.8859,"lon":45.0792,"precision":"country","confidence":"high","note":"national cup"}
+{"qid":15725627,"place":"Sochi","lat":43.6028,"lon":39.7342,"precision":"city","confidence":"high","note":"Winter Olympics host"}
+{"qid":3489906,"place":"Brussels","lat":50.8503,"lon":4.3517,"precision":"city","confidence":"high","note":"NATO summit"}
+{"qid":7992782,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"song"}
+{"qid":4996273,"place":"Sofia","lat":42.6977,"lon":23.3219,"precision":"city","confidence":"medium","note":"nationwide election, capital"}
+{"qid":56871049,"place":"Monteveglio","lat":44.47,"lon":11.07,"precision":"city","confidence":"medium","note":"race held in Emilia"}
+{"qid":20648746,"place":"Dorchester, Dorset","lat":50.7144,"lon":-2.4395,"precision":"city","confidence":"medium","note":"district council seat"}
+{"qid":1735148,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"internet chess game"}

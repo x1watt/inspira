@@ -1,0 +1,50 @@
+{"qid":55629633,"place":"Cairo","lat":30.0444,"lon":31.2357,"precision":"city","confidence":"medium","note":"mission to Mamluk Cairo"}
+{"qid":24025254,"place":"Chongming District","lat":31.6228,"lon":121.3978,"precision":"region","confidence":"medium","note":"Chongming Island race"}
+{"qid":5137925,"place":"Kandahar","lat":31.6289,"lon":65.7372,"precision":"city","confidence":"low","note":"Afghan war, southern focus"}
+{"qid":6050011,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"medium","note":"ASP session at UN"}
+{"qid":1251352,"place":"Victoria, Seychelles","lat":-4.6191,"lon":55.4513,"precision":"city","confidence":"medium","note":"national capital"}
+{"qid":15336064,"place":"Pyongyang","lat":39.0392,"lon":125.7625,"precision":"city","confidence":"medium","note":"purge in capital"}
+{"qid":7990389,"place":"Weymouth, Dorset","lat":50.6144,"lon":-2.4576,"precision":"city","confidence":"medium","note":"borough council seat"}
+{"qid":5954158,"place":"Tehran","lat":35.6892,"lon":51.389,"precision":"city","confidence":"high","note":"uprising in Tehran"}
+{"qid":16642945,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"global series"}
+{"qid":5614252,"place":"Guatemala City","lat":14.6349,"lon":-90.5069,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":7511455,"place":"Freetown","lat":8.4657,"lon":-13.2317,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":7571139,"place":"London Borough of Southwark","lat":51.5035,"lon":-0.0804,"precision":"region","confidence":"medium","note":"borough"}
+{"qid":4580715,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"worldwide list"}
+{"qid":19869929,"place":"London Borough of Hammersmith and Fulham","lat":51.4927,"lon":-0.2339,"precision":"region","confidence":"medium","note":"borough"}
+{"qid":19787397,"place":"London Borough of Harrow","lat":51.5898,"lon":-0.3346,"precision":"region","confidence":"medium","note":"borough"}
+{"qid":17015392,"place":"Costa Rica","lat":9.7489,"lon":-83.7534,"precision":"country","confidence":"medium","note":"stage race nationwide"}
+{"qid":2682066,"place":"Murcia","lat":37.9922,"lon":-1.1307,"precision":"city","confidence":"medium","note":"race finished in Murcia"}
+{"qid":17591890,"place":"Switzerland","lat":46.8182,"lon":8.2275,"precision":"country","confidence":"medium","note":"national election"}
+{"qid":4627254,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"list of golfers"}
+{"qid":29510289,"place":"Asturias","lat":43.3614,"lon":-5.8593,"precision":"region","confidence":"medium","note":"Asturias race"}
+{"qid":125407614,"place":"Exeter","lat":50.7236,"lon":-3.5275,"precision":"city","confidence":"high","note":"council election"}
+{"qid":28407074,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"qualifying group"}
+{"qid":42530886,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"bidding process"}
+{"qid":51144678,"place":"Plouay","lat":47.9214,"lon":-3.2886,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":22095116,"place":"Colorado Springs, Colorado","lat":38.8339,"lon":-104.8214,"precision":"city","confidence":"medium","note":"Colorado College and Air Force"}
+{"qid":692081,"place":"Vienna","lat":48.2082,"lon":16.3738,"precision":"city","confidence":"medium","note":"national election capital"}
+{"qid":18159754,"place":"Liverpool","lat":53.4084,"lon":-2.9916,"precision":"city","confidence":"high","note":"city council"}
+{"qid":3952319,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"national US campaign"}
+{"qid":17150467,"place":"Basque Country (autonomous community)","lat":43.0,"lon":-2.6,"precision":"region","confidence":"medium","note":"referendum in Basque Country"}
+{"qid":1634039,"place":"Kosovo","lat":42.6026,"lon":20.903,"precision":"country","confidence":"medium","note":"alleged plan for Kosovo"}
+{"qid":24039284,"place":"Kingston upon Hull","lat":53.7676,"lon":-0.3274,"precision":"city","confidence":"high","note":"city council"}
+{"qid":1961337,"place":"Karlsruhe","lat":49.0069,"lon":8.4037,"precision":"city","confidence":"high","note":"Federal Constitutional Court seat"}
+{"qid":109269703,"place":"Howard University","lat":38.9227,"lon":-77.0194,"precision":"site","confidence":"high","note":"protest at Howard"}
+{"qid":5587441,"place":"Gosport","lat":50.795,"lon":-1.124,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":3586666,"place":"Réunion","lat":-21.1151,"lon":55.5364,"precision":"region","confidence":"high","note":"regional election"}
+{"qid":21190840,"place":"Doha","lat":25.2854,"lon":51.531,"precision":"city","confidence":"high","note":"Aspire Academy venue"}
+{"qid":418383,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"comic series"}
+{"qid":2369319,"place":"Fukuoka Dome","lat":33.5952,"lon":130.3622,"precision":"site","confidence":"high","note":"Pool A venue"}
+{"qid":55601723,"place":"Eijsden","lat":50.7783,"lon":5.6844,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":1001246,"place":"Montevideo","lat":-34.9011,"lon":-56.1645,"precision":"city","confidence":"medium","note":"Uruguay capital"}
+{"qid":29094398,"place":"Vermont","lat":44.0,"lon":-72.7,"precision":"region","confidence":"medium","note":"state election"}
+{"qid":7990379,"place":"Weymouth, Dorset","lat":50.6144,"lon":-2.4576,"precision":"city","confidence":"medium","note":"borough council seat"}
+{"qid":124571070,"place":"Porrentruy","lat":47.4167,"lon":7.075,"precision":"city","confidence":"medium","note":"Rauracian Republic capital"}
+{"qid":17382225,"place":"Switzerland","lat":46.8182,"lon":8.2275,"precision":"country","confidence":"medium","note":"national election"}
+{"qid":4597376,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"multi-country rugby competition"}
+{"qid":136298570,"place":"Southend-on-Sea","lat":51.5459,"lon":0.7077,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":6861238,"place":"Milton Keynes","lat":52.0406,"lon":-0.7594,"precision":"city","confidence":"high","note":"council election"}
+{"qid":19875775,"place":"Ottawa","lat":45.4215,"lon":-75.6972,"precision":"city","confidence":"medium","note":"Supreme Court of Canada seat"}
+{"qid":6815971,"place":"Budva","lat":42.2864,"lon":18.84,"precision":"city","confidence":"high","note":"championships in Budva"}
+{"qid":96363028,"place":"Arkansas","lat":34.8,"lon":-92.2,"precision":"region","confidence":"medium","note":"state Senate election"}

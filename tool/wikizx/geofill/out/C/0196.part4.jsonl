@@ -1,0 +1,50 @@
+{"qid":22669640,"place":"Victoria, Seychelles","lat":-4.6191,"lon":55.4513,"precision":"city","confidence":"medium","note":"Seychelles capital"}
+{"qid":110127939,"place":"Solihull","lat":52.413,"lon":-1.778,"precision":"city","confidence":"medium","note":"murdered at home in Solihull"}
+{"qid":109238063,"place":"New Zealand","lat":-40.9006,"lon":174.886,"precision":"country","confidence":"medium","note":"nationwide strike"}
+{"qid":65043963,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"medium","note":"state visit first stop"}
+{"qid":85774313,"place":"Derrylin","lat":54.19,"lon":-7.56,"precision":"city","confidence":"high","note":"abducted near Derrylin"}
+{"qid":85724953,"place":"Harlow","lat":51.766,"lon":0.102,"precision":"city","confidence":"high","note":"Harlow council"}
+{"qid":96369697,"place":"Hartlepool","lat":54.6896,"lon":-1.2125,"precision":"city","confidence":"high","note":"Hartlepool council"}
+{"qid":109608815,"place":"Oldham","lat":53.5409,"lon":-2.1114,"precision":"city","confidence":"high","note":"Oldham council"}
+{"qid":6747372,"place":"Manchester","lat":53.4808,"lon":-2.2426,"precision":"city","confidence":"high","note":"Manchester council"}
+{"qid":16999260,"place":"Jakarta","lat":-6.2088,"lon":106.8456,"precision":"city","confidence":"medium","note":"Indonesian declaration"}
+{"qid":97627794,"place":"Chengdu","lat":30.5728,"lon":104.0668,"precision":"city","confidence":"medium","note":"street in Chengdu"}
+{"qid":7024495,"place":"Managua","lat":12.114,"lon":-86.2362,"precision":"city","confidence":"medium","note":"Nicaragua capital"}
+{"qid":7888921,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"medium","note":"UN General Assembly"}
+{"qid":4587536,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"low","note":"golf tour list"}
+{"qid":1478861,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":4607172,"place":"Angel Stadium of Anaheim","lat":33.8003,"lon":-117.8827,"precision":"site","confidence":"high","note":"pool venue"}
+{"qid":110269849,"place":"Cheltenham","lat":51.8994,"lon":-2.0783,"precision":"city","confidence":"high","note":"Cheltenham council"}
+{"qid":122980957,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":17003222,"place":"Arkansas","lat":35.2,"lon":-91.8,"precision":"region","confidence":"medium","note":"statewide election"}
+{"qid":105742241,"place":"PGA National Resort","lat":26.84,"lon":-80.13,"precision":"site","confidence":"medium","note":"Q School venue"}
+{"qid":125496736,"place":"West Lancashire","lat":53.6,"lon":-2.8,"precision":"region","confidence":"medium","note":"borough council"}
+{"qid":16262893,"place":"Stanford, California","lat":37.4275,"lon":-122.1697,"precision":"city","confidence":"medium","note":"Stanford squash venue"}
+{"qid":4996282,"place":"Sofia","lat":42.6977,"lon":23.3219,"precision":"city","confidence":"medium","note":"Bulgaria capital"}
+{"qid":107128698,"place":"Gloucester","lat":51.8642,"lon":-2.238,"precision":"city","confidence":"high","note":"Gloucester council"}
+{"qid":17100900,"place":"North Dakota","lat":47.5,"lon":-100.5,"precision":"region","confidence":"medium","note":"statewide election"}
+{"qid":60850380,"place":"Varaždin","lat":46.3044,"lon":16.3378,"precision":"city","confidence":"high","note":"second leg at Varteks"}
+{"qid":3587213,"place":"Yaren","lat":-0.5477,"lon":166.9209,"precision":"city","confidence":"medium","note":"Nauru parliament"}
+{"qid":7617562,"place":"Stirling","lat":56.1165,"lon":-3.9369,"precision":"city","confidence":"high","note":"Stirling council"}
+{"qid":4576314,"place":"Kuwait City","lat":29.3759,"lon":47.9774,"precision":"city","confidence":"high","note":"embassy in Kuwait City"}
+{"qid":104804621,"place":"Lede","lat":50.957,"lon":3.983,"precision":"city","confidence":"low","note":"Monsere race"}
+{"qid":96361017,"place":"New Jersey","lat":40.0583,"lon":-74.4057,"precision":"region","confidence":"medium","note":"statewide election"}
+{"qid":122983377,"place":"Berrechid","lat":33.265,"lon":-7.587,"precision":"city","confidence":"high","note":"crash at Berrechid"}
+{"qid":125912976,"place":"Seville","lat":37.3891,"lon":-5.9845,"precision":"city","confidence":"high","note":"congress in Seville"}
+{"qid":140030703,"place":"Philippines","lat":12.8797,"lon":121.774,"precision":"country","confidence":"medium","note":"storm over Philippines"}
+{"qid":28180506,"place":"Vanuatu","lat":-15.3767,"lon":166.9592,"precision":"country","confidence":"medium","note":"cyclone affected Vanuatu"}
+{"qid":5516580,"place":"Ireland","lat":53.1424,"lon":-7.6921,"precision":"country","confidence":"low","note":"camogie competition"}
+{"qid":16828353,"place":"Broxbourne","lat":51.75,"lon":-0.02,"precision":"region","confidence":"medium","note":"Broxbourne borough"}
+{"qid":1015156,"place":"Briviesca","lat":42.5522,"lon":-3.3128,"precision":"city","confidence":"medium","note":"race started in Briviesca"}
+{"qid":2755090,"place":"Limburg (Netherlands)","lat":51.2,"lon":5.9,"precision":"region","confidence":"medium","note":"race in Limburg"}
+{"qid":65067388,"place":"Mendip","lat":51.2,"lon":-2.6,"precision":"region","confidence":"medium","note":"district election"}
+{"qid":84709413,"place":"São Paulo","lat":-23.5505,"lon":-46.6333,"precision":"city","confidence":"high","note":"race in Sao Paulo"}
+{"qid":85795529,"place":"Philadelphia","lat":39.9526,"lon":-75.1652,"precision":"city","confidence":"high","note":"riots in Philadelphia"}
+{"qid":5105162,"place":"Chorley","lat":53.653,"lon":-2.632,"precision":"city","confidence":"high","note":"Chorley council"}
+{"qid":6099587,"place":"Abidjan","lat":5.36,"lon":-4.0083,"precision":"city","confidence":"medium","note":"Ivory Coast capital then"}
+{"qid":106913122,"place":"North Hertfordshire","lat":51.95,"lon":-0.2,"precision":"region","confidence":"medium","note":"district election"}
+{"qid":28448496,"place":"Cuajimalpa","lat":19.35,"lon":-99.3,"precision":"city","confidence":"medium","note":"crash on highway Cuajimalpa"}
+{"qid":20712457,"place":"West Berkshire","lat":51.4,"lon":-1.3,"precision":"region","confidence":"medium","note":"council area"}
+{"qid":5647305,"place":"Spain","lat":40.4637,"lon":-3.7492,"precision":"country","confidence":"medium","note":"Instituto Cervantes event"}
+{"qid":17051048,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":""}
+{"qid":116312240,"place":"Drenthe","lat":52.9,"lon":6.6,"precision":"region","confidence":"medium","note":"Ronde van Drenthe"}

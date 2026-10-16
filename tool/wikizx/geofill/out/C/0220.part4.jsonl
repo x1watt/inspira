@@ -1,0 +1,50 @@
+{"qid":4882523,"place":"Belgium","lat":50.5039,"lon":4.4699,"precision":"country","confidence":"medium","note":"national election"}
+{"qid":5670565,"place":"Shiraz","lat":29.5918,"lon":52.5837,"precision":"city","confidence":"high","note":"newspaper in Fars"}
+{"qid":124219353,"place":"Alpes-Maritimes","lat":43.94,"lon":7.1,"precision":"region","confidence":"high","note":"race in Alpes-Maritimes"}
+{"qid":55099455,"place":"Welling","lat":51.464,"lon":0.109,"precision":"city","confidence":"high","note":"riots near Welling"}
+{"qid":65052887,"place":"Metropolitan Borough of Oldham","lat":53.5409,"lon":-2.1114,"precision":"region","confidence":"high","note":"borough council"}
+{"qid":22948671,"place":"Oman","lat":21.0,"lon":57.0,"precision":"country","confidence":"medium","note":"national election"}
+{"qid":24911298,"place":"Pitcairn Islands","lat":-25.0667,"lon":-130.1,"precision":"region","confidence":"high","note":"referendum on Pitcairn"}
+{"qid":16931198,"place":"Metropolitan Borough of Oldham","lat":53.5409,"lon":-2.1114,"precision":"region","confidence":"high","note":"borough council"}
+{"qid":7826626,"place":"Toronto","lat":43.6532,"lon":-79.3832,"precision":"city","confidence":"high","note":"municipal election"}
+{"qid":96369754,"place":"South Staffordshire","lat":52.6,"lon":-2.18,"precision":"region","confidence":"high","note":"district council"}
+{"qid":3489922,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"high","note":"summit in Paris"}
+{"qid":30598498,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"high","note":"premiered at Donmar Warehouse"}
+{"qid":139760852,"place":"Salford","lat":53.4875,"lon":-2.2901,"precision":"city","confidence":"high","note":"city council"}
+{"qid":7893050,"place":"Pennsylvania","lat":41.0,"lon":-77.5,"precision":"region","confidence":"high","note":"state election"}
+{"qid":55080720,"place":"New Zealand","lat":-41.0,"lon":174.0,"precision":"country","confidence":"high","note":"tour of New Zealand"}
+{"qid":22936270,"place":"Lebanon","lat":33.8547,"lon":35.8623,"precision":"country","confidence":"high","note":"exarchate in Lebanon"}
+{"qid":5219750,"place":"Copenhagen","lat":55.6761,"lon":12.5683,"precision":"city","confidence":"medium","note":"Danish parliament seat"}
+{"qid":3508839,"place":"Czech Republic","lat":49.8175,"lon":15.473,"precision":"country","confidence":"medium","note":"national election"}
+{"qid":2539322,"place":"West Berlin","lat":52.52,"lon":13.405,"precision":"city","confidence":"high","note":"state election"}
+{"qid":104842269,"place":"Maine","lat":45.36,"lon":-69.0,"precision":"region","confidence":"high","note":"state Senate election"}
+{"qid":104948326,"place":"Colorado","lat":39.0,"lon":-105.5,"precision":"region","confidence":"high","note":"state Senate election"}
+{"qid":17515127,"place":"East Dorset","lat":50.8,"lon":-1.95,"precision":"region","confidence":"high","note":"district council"}
+{"qid":105540682,"place":"Leicestershire","lat":52.65,"lon":-1.15,"precision":"region","confidence":"high","note":"county council"}
+{"qid":55636594,"place":"Alabama","lat":32.8,"lon":-86.8,"precision":"region","confidence":"high","note":"state election"}
+{"qid":111956149,"place":"Great Lakes","lat":44.0,"lon":-82.0,"precision":"region","confidence":"medium","note":"eastern Great Lakes snowstorm"}
+{"qid":6747367,"place":"Manchester","lat":53.4808,"lon":-2.2426,"precision":"city","confidence":"high","note":"city council"}
+{"qid":1860166,"place":"Eijsden","lat":50.7765,"lon":5.6845,"precision":"city","confidence":"high","note":"started and finished in Eijsden"}
+{"qid":7891499,"place":"Hawaii","lat":20.7984,"lon":-156.3319,"precision":"region","confidence":"high","note":"state Senate election"}
+{"qid":97188775,"place":"Borough of Halton","lat":53.34,"lon":-2.7,"precision":"region","confidence":"high","note":"borough council"}
+{"qid":6938003,"place":"Florida","lat":27.77,"lon":-81.7,"precision":"region","confidence":"medium","note":"Florida child murder"}
+{"qid":17510955,"place":"Metropolitan Borough of Bolton","lat":53.5785,"lon":-2.4299,"precision":"region","confidence":"high","note":"borough council"}
+{"qid":5828866,"place":"Ecuador","lat":-1.8312,"lon":-78.1834,"precision":"country","confidence":"medium","note":"national election"}
+{"qid":4608538,"place":"Chkhalta","lat":42.9333,"lon":41.1167,"precision":"city","confidence":"medium","note":"helicopter attack on Chkhalta"}
+{"qid":10325205,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"medium","note":"Brazilian protest marches"}
+{"qid":51783979,"place":"Germany","lat":51.0,"lon":10.0,"precision":"country","confidence":"high","note":"German penal law"}
+{"qid":16821783,"place":"Tel Aviv","lat":32.0853,"lon":34.7818,"precision":"city","confidence":"high","note":"bombing in Tel Aviv"}
+{"qid":5744868,"place":"Hertsmere","lat":51.67,"lon":-0.28,"precision":"region","confidence":"high","note":"borough council"}
+{"qid":15917218,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"product"}
+{"qid":42888040,"place":"City of Bradford","lat":53.796,"lon":-1.7594,"precision":"city","confidence":"high","note":"district council"}
+{"qid":124304306,"place":"Atacama Region","lat":-27.5,"lon":-70.25,"precision":"region","confidence":"high","note":"strike in Atacama"}
+{"qid":2869286,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"video game"}
+{"qid":16274866,"place":"Durango, Biscay","lat":43.17,"lon":-2.63,"precision":"city","confidence":"high","note":"race in Durango"}
+{"qid":8023801,"place":"Winchester","lat":51.0632,"lon":-1.3081,"precision":"city","confidence":"high","note":"city council"}
+{"qid":86755357,"place":"Spelthorne","lat":51.43,"lon":-0.45,"precision":"region","confidence":"high","note":"borough council"}
+{"qid":56318037,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"campaign"}
+{"qid":4588858,"place":"Colombia","lat":4.0,"lon":-72.0,"precision":"country","confidence":"medium","note":"national race"}
+{"qid":3587543,"place":"France","lat":46.6034,"lon":1.8883,"precision":"country","confidence":"medium","note":"national election"}
+{"qid":116257556,"place":"Long Beach, California","lat":33.7701,"lon":-118.1937,"precision":"city","confidence":"high","note":"Long Beach State"}
+{"qid":111955674,"place":"Newcastle upon Tyne","lat":54.9783,"lon":-1.6178,"precision":"city","confidence":"high","note":"city council"}
+{"qid":97354218,"place":"Brentwood, Essex","lat":51.621,"lon":0.305,"precision":"city","confidence":"high","note":"borough council"}

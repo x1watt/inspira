@@ -1,0 +1,50 @@
+{"qid":104842379,"place":"Texas","lat":31.0,"lon":-100.0,"precision":"region","confidence":"high","note":"state election"}
+{"qid":137774163,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"low","note":"UK government plan"}
+{"qid":28225900,"place":"Jutland","lat":56.0,"lon":9.5,"precision":"region","confidence":"medium","note":"Aalborg vs Aarhus rivalry"}
+{"qid":13218126,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"bidding process"}
+{"qid":134179805,"place":"Bournemouth","lat":50.7192,"lon":-1.8808,"precision":"city","confidence":"high","note":"borough"}
+{"qid":6670318,"place":"Wembley Arena","lat":51.556,"lon":-0.283,"precision":"site","confidence":"high","note":"conference venue"}
+{"qid":138573631,"place":"United Nations Headquarters","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"high","note":"session at UN HQ"}
+{"qid":7556022,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"eclipse series"}
+{"qid":1214160,"place":"Munich","lat":48.1351,"lon":11.582,"precision":"city","confidence":"medium","note":"exhibition in Munich"}
+{"qid":105747271,"place":"Spain","lat":40.4637,"lon":-3.7492,"precision":"country","confidence":"high","note":"regional elections"}
+{"qid":111973479,"place":"Plymouth","lat":50.3755,"lon":-4.1427,"precision":"city","confidence":"high","note":"city council"}
+{"qid":140003996,"place":"Ostend","lat":51.2154,"lon":2.9287,"precision":"city","confidence":"high","note":"Ostend Film Festival"}
+{"qid":4861052,"place":"London Borough of Barking and Dagenham","lat":51.55,"lon":0.15,"precision":"region","confidence":"high","note":"borough"}
+{"qid":3064475,"place":"Mexico","lat":23.6345,"lon":-102.5528,"precision":"country","confidence":"low","note":"Mexican magazine"}
+{"qid":6603399,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"character list"}
+{"qid":104949551,"place":"Utah","lat":39.32,"lon":-111.0937,"precision":"region","confidence":"high","note":"state election"}
+{"qid":16931317,"place":"London Borough of Hillingdon","lat":51.53,"lon":-0.44,"precision":"region","confidence":"high","note":"borough"}
+{"qid":5527152,"place":"Gateshead","lat":54.9526,"lon":-1.6014,"precision":"city","confidence":"high","note":"borough"}
+{"qid":3985094,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"multi-venue tests"}
+{"qid":111963079,"place":"Reading, Berkshire","lat":51.4543,"lon":-0.9781,"precision":"city","confidence":"high","note":"borough"}
+{"qid":7884056,"place":"Queensland","lat":-20.9176,"lon":142.7028,"precision":"region","confidence":"high","note":"Queensland act"}
+{"qid":37577868,"place":"Alsemberg","lat":50.74,"lon":4.33,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":268233,"place":"Argentina","lat":-38.4161,"lon":-63.6167,"precision":"country","confidence":"high","note":"national pandemic"}
+{"qid":136214272,"place":"Rochford District","lat":51.6,"lon":0.7,"precision":"region","confidence":"high","note":"district"}
+{"qid":112119164,"place":"Rochford District","lat":51.6,"lon":0.7,"precision":"region","confidence":"high","note":"district"}
+{"qid":18167373,"place":"Portugal","lat":39.3999,"lon":-8.2245,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":7098261,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"high","note":"national election"}
+{"qid":17148563,"place":"Suzuka Circuit","lat":34.8431,"lon":136.541,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":6523283,"place":"Cambridge","lat":52.2053,"lon":0.1218,"precision":"city","confidence":"high","note":"rowing races"}
+{"qid":7888931,"place":"United Nations Headquarters","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"high","note":"held at UN HQ"}
+{"qid":3775269,"place":"Plouay","lat":47.9167,"lon":-3.2833,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":53832847,"place":"Cincinnati","lat":39.1031,"lon":-84.512,"precision":"city","confidence":"medium","note":"Sixth Circuit court"}
+{"qid":100256872,"place":"Rajasthan","lat":27.0238,"lon":74.2179,"precision":"region","confidence":"high","note":"killed in Rajasthan"}
+{"qid":800017,"place":"Uruguay","lat":-32.5228,"lon":-55.7658,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":132200792,"place":"Al-Hassan Stadium","lat":32.546,"lon":35.838,"precision":"site","confidence":"high","note":"leg venue"}
+{"qid":1140883,"place":"France","lat":46.2276,"lon":2.2137,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":30326519,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"high","note":"year events"}
+{"qid":125363065,"place":"Ipswich","lat":52.0567,"lon":1.1482,"precision":"city","confidence":"high","note":"borough"}
+{"qid":136090562,"place":"King's Lynn","lat":52.7543,"lon":0.3949,"precision":"city","confidence":"medium","note":"district seat"}
+{"qid":6503054,"place":"Honduras","lat":15.2,"lon":-86.2419,"precision":"country","confidence":"medium","note":"subject of report"}
+{"qid":20709821,"place":"Chicago","lat":41.8781,"lon":-87.6298,"precision":"city","confidence":"high","note":"strike in Chicago"}
+{"qid":122334997,"place":"Arizona","lat":34.2,"lon":-111.7,"precision":"region","confidence":"high","note":"state election"}
+{"qid":5683818,"place":"London Borough of Havering","lat":51.55,"lon":0.22,"precision":"region","confidence":"high","note":"borough"}
+{"qid":7009166,"place":"New Jersey","lat":40.0583,"lon":-74.4057,"precision":"region","confidence":"high","note":"state primary"}
+{"qid":20313115,"place":"Anguilla","lat":18.2206,"lon":-63.0686,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":17477734,"place":"Nowy Dwór Mazowiecki","lat":52.438,"lon":20.716,"precision":"city","confidence":"high","note":"disaster there"}
+{"qid":5365258,"place":"Ellesmere Port","lat":53.279,"lon":-2.897,"precision":"city","confidence":"high","note":"borough"}
+{"qid":96363636,"place":"New Hampshire","lat":43.45,"lon":-71.56,"precision":"region","confidence":"high","note":"state election"}
+{"qid":140243572,"place":"Marble Collegiate Church","lat":40.7452,"lon":-73.9856,"precision":"site","confidence":"high","note":"wedding venue"}
+{"qid":7682495,"place":"Tandridge","lat":51.27,"lon":-0.02,"precision":"region","confidence":"high","note":"district"}

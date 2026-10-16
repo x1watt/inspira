@@ -1,0 +1,50 @@
+{"qid":122333612,"place":"Portland, Oregon","lat":45.5152,"lon":-122.6784,"precision":"city","confidence":"high","note":"city election"}
+{"qid":137783180,"place":"Bor, Serbia","lat":44.0747,"lon":22.0959,"precision":"city","confidence":"high","note":"disappeared near Bor"}
+{"qid":24191525,"place":"United States","lat":39.8,"lon":-98.6,"precision":"country","confidence":"low","note":"multi-state storm"}
+{"qid":113006300,"place":"Canada","lat":56.1,"lon":-106.3,"precision":"country","confidence":"medium","note":"nationwide outage"}
+{"qid":4333893,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"radio series"}
+{"qid":4622745,"place":"United Kingdom","lat":54.0,"lon":-2.0,"precision":"country","confidence":"medium","note":"nationwide strikes"}
+{"qid":1377989,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"student competition"}
+{"qid":4608227,"place":"Argentina","lat":-34.0,"lon":-64.0,"precision":"country","confidence":"medium","note":"stage race"}
+{"qid":131620570,"place":"Indoor Stadium Huamark","lat":13.7561,"lon":100.6218,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":25206220,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"play"}
+{"qid":22810526,"place":"Ireland","lat":53.4,"lon":-8.2,"precision":"country","confidence":"medium","note":"national election polls"}
+{"qid":24039286,"place":"Watford","lat":51.6565,"lon":-0.3903,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":125100697,"place":"North Hertfordshire","lat":51.95,"lon":-0.28,"precision":"region","confidence":"medium","note":"district council"}
+{"qid":39047489,"place":"Connecticut","lat":41.6,"lon":-72.7,"precision":"region","confidence":"high","note":"state election"}
+{"qid":126003335,"place":"Sale, Greater Manchester","lat":53.424,"lon":-2.322,"precision":"city","confidence":"high","note":"municipal borough"}
+{"qid":7097663,"place":"Afghanistan","lat":33.9,"lon":67.7,"precision":"country","confidence":"medium","note":"operation in Afghanistan"}
+{"qid":7146163,"place":"East Coast of the United States","lat":38.0,"lon":-75.0,"precision":"region","confidence":"low","note":"storm affected coast"}
+{"qid":136466744,"place":"Brentwood, Essex","lat":51.621,"lon":0.305,"precision":"city","confidence":"high","note":"district council"}
+{"qid":23020075,"place":"Philippines","lat":12.9,"lon":121.8,"precision":"country","confidence":"medium","note":"nationwide"}
+{"qid":609473,"place":"Belgium","lat":50.6,"lon":4.7,"precision":"country","confidence":"low","note":"Flanders race"}
+{"qid":3728192,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"comic"}
+{"qid":5203329,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"medium","note":"UK political scandal"}
+{"qid":20107645,"place":"Milan","lat":45.4642,"lon":9.19,"precision":"city","confidence":"medium","note":"Lombardia race"}
+{"qid":104842433,"place":"Indiana","lat":39.9,"lon":-86.3,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7571151,"place":"London Borough of Southwark","lat":51.5035,"lon":-0.0804,"precision":"city","confidence":"medium","note":"council election"}
+{"qid":7861276,"place":"Hainan","lat":19.2,"lon":109.7,"precision":"region","confidence":"medium","note":"struck Philippines and Hainan"}
+{"qid":125471722,"place":"Mexico","lat":23.6,"lon":-102.5,"precision":"country","confidence":"medium","note":"national election polls"}
+{"qid":130857768,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"rankings"}
+{"qid":24944923,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"reactions"}
+{"qid":94340654,"place":"Argentina","lat":-34.0,"lon":-64.0,"precision":"country","confidence":"medium","note":"touring exhibition"}
+{"qid":30610123,"place":"Philippines","lat":12.9,"lon":121.8,"precision":"country","confidence":"medium","note":"struck Philippines"}
+{"qid":16932867,"place":"Pitcairn Islands","lat":-25.0667,"lon":-130.1,"precision":"region","confidence":"medium","note":"nationwide"}
+{"qid":264165,"place":"Haiti","lat":18.97,"lon":-72.29,"precision":"country","confidence":"medium","note":"relief mission to Haiti"}
+{"qid":24883584,"place":"Churchill Downs","lat":38.2036,"lon":-85.7702,"precision":"site","confidence":"high","note":"Kentucky Derby venue"}
+{"qid":5972003,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"military system"}
+{"qid":85796876,"place":"United States","lat":39.8,"lon":-98.6,"precision":"country","confidence":"low","note":"national primaries"}
+{"qid":6025806,"place":"Indonesia","lat":-2.5,"lon":118.0,"precision":"country","confidence":"low","note":"reaction by Indonesia"}
+{"qid":116948008,"place":"Bedford","lat":52.1356,"lon":-0.4685,"precision":"city","confidence":"medium","note":"borough council"}
+{"qid":104950093,"place":"New Hampshire","lat":43.7,"lon":-71.6,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7892851,"place":"Minnesota","lat":46.3,"lon":-94.3,"precision":"region","confidence":"high","note":"state election"}
+{"qid":117761151,"place":"Gateshead","lat":54.9527,"lon":-1.6014,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":55600858,"place":"Japan National Stadium (1958)","lat":35.678,"lon":139.713,"precision":"site","confidence":"medium","note":"final venue in Tokyo"}
+{"qid":134896133,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"rankings"}
+{"qid":16974526,"place":"El Monte, California","lat":34.0686,"lon":-118.0276,"precision":"city","confidence":"high","note":"strike in El Monte"}
+{"qid":7059920,"place":"Detroit Metropolitan Wayne County Airport","lat":42.2124,"lon":-83.3534,"precision":"site","confidence":"medium","note":"flight departed Detroit"}
+{"qid":125545488,"place":"Wakefield","lat":53.683,"lon":-1.4977,"precision":"city","confidence":"high","note":"metropolitan district"}
+{"qid":4128659,"place":"Russia","lat":61.5,"lon":105.0,"precision":"country","confidence":"medium","note":"multiple regions"}
+{"qid":19875097,"place":"Lewes District","lat":50.88,"lon":0.01,"precision":"region","confidence":"medium","note":"district council"}
+{"qid":106394103,"place":"Turkey","lat":39.0,"lon":35.0,"precision":"country","confidence":"medium","note":"Turkish data leak"}
+{"qid":4882525,"place":"Belgium","lat":50.6,"lon":4.7,"precision":"country","confidence":"medium","note":"nationwide"}

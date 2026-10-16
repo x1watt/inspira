@@ -1,0 +1,50 @@
+{"qid":19869671,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"medium","note":"no championship held"}
+{"qid":85725472,"place":"Derby","lat":52.9225,"lon":-1.4746,"precision":"city","confidence":"high","note":"city council"}
+{"qid":63977257,"place":"Cambridge","lat":52.2053,"lon":0.1218,"precision":"city","confidence":"high","note":"rowing on the Cam"}
+{"qid":28405323,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"high","note":"NYPD strike"}
+{"qid":85724943,"place":"Derby","lat":52.9225,"lon":-1.4746,"precision":"city","confidence":"high","note":"city council"}
+{"qid":30326529,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"high","note":"national"}
+{"qid":16933169,"place":"Sandwell","lat":52.512,"lon":-2.01,"precision":"region","confidence":"high","note":"borough election"}
+{"qid":140502251,"place":"Lancaster, Lancashire","lat":54.0466,"lon":-2.8007,"precision":"city","confidence":"high","note":"city council"}
+{"qid":5247407,"place":"Dartmoor","lat":50.57,"lon":-3.92,"precision":"region","confidence":"high","note":"drowned on Dartmoor"}
+{"qid":1654441,"place":"Schwerin","lat":53.6355,"lon":11.4012,"precision":"city","confidence":"high","note":"state capital"}
+{"qid":24039340,"place":"Derby","lat":52.9225,"lon":-1.4746,"precision":"city","confidence":"high","note":"city council"}
+{"qid":19756314,"place":"El Gouna","lat":27.3944,"lon":33.6783,"precision":"city","confidence":"high","note":"event at Abu Tig Marina"}
+{"qid":113070629,"place":"Isesaki","lat":36.311,"lon":139.201,"precision":"city","confidence":"medium","note":"peak temperature"}
+{"qid":66363663,"place":"Juliaca","lat":-15.484,"lon":-70.158,"precision":"city","confidence":"medium","note":"crashed near Juliaca"}
+{"qid":48862632,"place":"Ghent","lat":51.0543,"lon":3.7174,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":96367216,"place":"West Dorset","lat":50.75,"lon":-2.65,"precision":"region","confidence":"medium","note":"district election"}
+{"qid":3775804,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"software"}
+{"qid":16241270,"place":"San Juan, Puerto Rico","lat":18.4663,"lon":-66.1057,"precision":"city","confidence":"medium","note":"protest in San Juan"}
+{"qid":39060372,"place":"Alabama","lat":32.3182,"lon":-86.9023,"precision":"region","confidence":"high","note":"state election"}
+{"qid":4898750,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"low","note":"newspaper comic"}
+{"qid":4882520,"place":"Belgium","lat":50.5039,"lon":4.4699,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":19869746,"place":"London Borough of Sutton","lat":51.3618,"lon":-0.1945,"precision":"region","confidence":"high","note":"borough election"}
+{"qid":30598323,"place":"Royal National Theatre","lat":51.5069,"lon":-0.1138,"precision":"site","confidence":"high","note":"play premiere venue"}
+{"qid":51677833,"place":"Vatican City","lat":41.9029,"lon":12.4534,"precision":"city","confidence":"high","note":"papal document"}
+{"qid":97360326,"place":"Delaware","lat":39.1582,"lon":-75.5244,"precision":"region","confidence":"high","note":"state election"}
+{"qid":5123671,"place":"Edinburgh","lat":55.9533,"lon":-3.1883,"precision":"city","confidence":"high","note":"council election"}
+{"qid":130641735,"place":"Aviva Stadium","lat":53.3352,"lon":-6.2285,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":1155294,"place":"Palatinate (region)","lat":49.3,"lon":8.0,"precision":"region","confidence":"medium","note":"Palatine uprising"}
+{"qid":18160464,"place":"Havant","lat":50.8519,"lon":-0.9816,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":48969209,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"astronomical event"}
+{"qid":7855236,"place":"Turkey","lat":38.9637,"lon":35.2433,"precision":"country","confidence":"high","note":"army formation"}
+{"qid":16826960,"place":"Bradford","lat":53.796,"lon":-1.7594,"precision":"city","confidence":"high","note":"city council"}
+{"qid":123524347,"place":"Hong Kong","lat":22.3193,"lon":114.1694,"precision":"region","confidence":"high","note":"race in Hong Kong"}
+{"qid":5348494,"place":"Egypt","lat":26.8206,"lon":30.8025,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":131278025,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"draft"}
+{"qid":5583892,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"high","note":"US service"}
+{"qid":1593523,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"home and away qualifiers"}
+{"qid":5305762,"place":"India","lat":20.5937,"lon":78.9629,"precision":"country","confidence":"high","note":"British India act"}
+{"qid":7283726,"place":"Al-Mushallal","lat":21.7,"lon":39.2,"precision":"region","confidence":"low","note":"near al-Mushallal"}
+{"qid":116245510,"place":"Brooklyn","lat":40.6782,"lon":-73.9442,"precision":"city","confidence":"high","note":"St. Francis College"}
+{"qid":5827480,"place":"Castilla-La Mancha","lat":39.5,"lon":-3.0,"precision":"region","confidence":"high","note":"regional election"}
+{"qid":5615041,"place":"Chechnya","lat":43.4023,"lon":45.7187,"precision":"region","confidence":"high","note":"Second Chechen War"}
+{"qid":17099842,"place":"United Nations Headquarters","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"medium","note":"UN General Assembly"}
+{"qid":6541245,"place":"Liberia","lat":6.4281,"lon":-9.4295,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":6664371,"place":"Sweden","lat":60.1282,"lon":18.6435,"precision":"country","confidence":"high","note":"Swedish local government"}
+{"qid":4763625,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"medium","note":"convention signed in Paris or London"}
+{"qid":1804083,"place":"Hesse","lat":50.6521,"lon":9.1624,"precision":"region","confidence":"high","note":"state election"}
+{"qid":134375974,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"international protests"}
+{"qid":17397532,"place":"Reims","lat":49.2583,"lon":4.0317,"precision":"city","confidence":"high","note":"died in Reims"}
+{"qid":48791480,"place":"Sault Ste. Marie, Michigan","lat":46.4953,"lon":-84.3453,"precision":"city","confidence":"medium","note":"Chicora incident"}

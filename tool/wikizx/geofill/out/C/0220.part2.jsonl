@@ -1,0 +1,50 @@
+{"qid":138748661,"place":"Ireland","lat":53.0,"lon":-8.0,"precision":"country","confidence":"low","note":"series host unclear"}
+{"qid":237294,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"artwork series"}
+{"qid":18701771,"place":"Potiskum","lat":11.7133,"lon":11.078,"precision":"city","confidence":"high","note":"bombing in Potiskum"}
+{"qid":137324043,"place":"Northern Mariana Islands","lat":15.1,"lon":145.7,"precision":"region","confidence":"medium","note":"typhoon affected Marianas"}
+{"qid":7113814,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"video game"}
+{"qid":3681749,"place":"Almería","lat":36.834,"lon":-2.4637,"precision":"city","confidence":"high","note":"race in Almeria"}
+{"qid":65072689,"place":"Lichfield District","lat":52.68,"lon":-1.83,"precision":"region","confidence":"high","note":"district council"}
+{"qid":50365348,"place":"Istria","lat":45.2,"lon":13.9,"precision":"region","confidence":"medium","note":"race in Istria"}
+{"qid":683211,"place":"Switzerland","lat":46.8182,"lon":8.2275,"precision":"country","confidence":"medium","note":"Swiss initiative"}
+{"qid":9094929,"place":"Chiclana de la Frontera","lat":36.419,"lon":-6.146,"precision":"city","confidence":"high","note":"race started in Chiclana"}
+{"qid":7024441,"place":"Nicaragua","lat":12.8654,"lon":-85.2072,"precision":"country","confidence":"medium","note":"national election"}
+{"qid":100606202,"place":"Philippines","lat":12.8797,"lon":121.774,"precision":"country","confidence":"medium","note":"typhoon affected Philippines"}
+{"qid":6392891,"place":"Kenya","lat":-0.0236,"lon":37.9062,"precision":"country","confidence":"medium","note":"colonial election"}
+{"qid":2053225,"place":"Syria","lat":34.8021,"lon":38.9968,"precision":"country","confidence":"medium","note":"national election"}
+{"qid":6648406,"place":"Lithuania","lat":55.1694,"lon":23.8813,"precision":"country","confidence":"medium","note":"Lithuanian EU presidency"}
+{"qid":20711692,"place":"Wembley Arena","lat":51.556,"lon":-0.2795,"precision":"site","confidence":"low","note":"later stages at Wembley"}
+{"qid":7892954,"place":"New York (state)","lat":43.0,"lon":-75.0,"precision":"region","confidence":"high","note":"state election"}
+{"qid":107640149,"place":"Tokyo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"high","note":"Olympics in Tokyo"}
+{"qid":20128118,"place":"Metropolitan Borough of Stockport","lat":53.4083,"lon":-2.1494,"precision":"region","confidence":"high","note":"borough council"}
+{"qid":54817862,"place":"Metropolitan Borough of Knowsley","lat":53.45,"lon":-2.85,"precision":"region","confidence":"high","note":"borough council"}
+{"qid":30740737,"place":"Brussels","lat":50.8503,"lon":4.3517,"precision":"city","confidence":"high","note":"competition in Brussels"}
+{"qid":1979466,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"TV episode"}
+{"qid":56322724,"place":"Valencian Community","lat":39.484,"lon":-0.75,"precision":"region","confidence":"high","note":"race in Valencia region"}
+{"qid":4613702,"place":"Max Bell Centre","lat":51.023,"lon":-114.026,"precision":"site","confidence":"high","note":"held at Max Bell Centre"}
+{"qid":97190243,"place":"Mid Sussex","lat":51.0,"lon":-0.1,"precision":"region","confidence":"high","note":"district council"}
+{"qid":81078805,"place":"Tajikistan","lat":38.861,"lon":71.2761,"precision":"country","confidence":"high","note":"national election"}
+{"qid":18091490,"place":"Borås","lat":57.721,"lon":12.9401,"precision":"city","confidence":"high","note":"group from Borås"}
+{"qid":33520039,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"astronomical event"}
+{"qid":139819015,"place":"Palace of Westminster","lat":51.4994,"lon":-0.1248,"precision":"site","confidence":"high","note":"state opening there"}
+{"qid":268577,"place":"Philippines","lat":12.8797,"lon":121.774,"precision":"country","confidence":"high","note":"Philippine executive order"}
+{"qid":110655894,"place":"Metropolitan Borough of Bury","lat":53.5933,"lon":-2.2966,"precision":"region","confidence":"high","note":"borough council"}
+{"qid":124459599,"place":"Ilirska Bistrica","lat":45.5667,"lon":14.2417,"precision":"city","confidence":"high","note":"currency in Ilirska Bistrica"}
+{"qid":16328960,"place":"Ankara","lat":39.9334,"lon":32.8597,"precision":"city","confidence":"high","note":"hosted by Ankara"}
+{"qid":80588606,"place":"Ireland","lat":53.0,"lon":-8.0,"precision":"country","confidence":"medium","note":"setting in Ireland"}
+{"qid":124415859,"place":"Soldier Field","lat":41.8623,"lon":-87.6167,"precision":"site","confidence":"high","note":"culminated at Soldier Field"}
+{"qid":21714331,"place":"Lisbon","lat":38.7223,"lon":-9.1393,"precision":"city","confidence":"medium","note":"Congress in Lisbon"}
+{"qid":112132235,"place":"Derby","lat":52.9225,"lon":-1.4746,"precision":"city","confidence":"high","note":"city council"}
+{"qid":60821193,"place":"Brabant","lat":50.8,"lon":4.5,"precision":"region","confidence":"low","note":"race starting in Brabant"}
+{"qid":7496223,"place":"Shifnal","lat":52.6667,"lon":-2.375,"precision":"city","confidence":"high","note":"festival in Shifnal"}
+{"qid":24969500,"place":"Aberdeen","lat":57.1497,"lon":-2.0943,"precision":"city","confidence":"high","note":"city council"}
+{"qid":139760663,"place":"Salford","lat":53.4875,"lon":-2.2901,"precision":"city","confidence":"high","note":"city council"}
+{"qid":5615803,"place":"Guildford","lat":51.2362,"lon":-0.5704,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":85724226,"place":"Chichester District","lat":50.84,"lon":-0.78,"precision":"region","confidence":"high","note":"district council"}
+{"qid":18385315,"place":"Bahamas","lat":25.0343,"lon":-77.3963,"precision":"country","confidence":"medium","note":"first elections in territory"}
+{"qid":117039336,"place":"South Africa","lat":-30.5595,"lon":22.9375,"precision":"country","confidence":"high","note":"floods in South Africa"}
+{"qid":28224562,"place":"Queensland","lat":-20.9176,"lon":142.7028,"precision":"region","confidence":"high","note":"Queensland act"}
+{"qid":28840493,"place":"Ghent","lat":51.0543,"lon":3.7174,"precision":"city","confidence":"medium","note":"race in Flanders"}
+{"qid":14264410,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"fish genus"}
+{"qid":16209335,"place":"United States","lat":39.8,"lon":-98.6,"precision":"country","confidence":"low","note":"NBA D-League draft"}
+{"qid":138798925,"place":"Malawi","lat":-13.2543,"lon":34.3015,"precision":"country","confidence":"high","note":"floods in Malawi"}

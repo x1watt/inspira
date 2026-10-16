@@ -1,0 +1,50 @@
+{"qid":140378569,"place":"Tel Rumeida","lat":31.525,"lon":35.1,"precision":"site","confidence":"medium","note":"killed in Tel Rumeida, Hebron"}
+{"qid":24039349,"place":"Hartlepool","lat":54.6896,"lon":-1.2126,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":16734053,"place":"Cape Coast","lat":5.1053,"lon":-1.2466,"precision":"city","confidence":"high","note":"published in Cape Coast"}
+{"qid":5066468,"place":"N'Djamena","lat":12.1348,"lon":15.0557,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":17092724,"place":"Jamaica","lat":18.1096,"lon":-77.2975,"precision":"country","confidence":"medium","note":"stamps of Jamaica"}
+{"qid":106913071,"place":"Ipswich","lat":52.0567,"lon":1.1482,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":19872843,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"low","note":"UK Parliament regulation"}
+{"qid":86678328,"place":"Luxembourg City","lat":49.6116,"lon":6.1319,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":667160,"place":"Switzerland","lat":46.8182,"lon":8.2275,"precision":"country","confidence":"medium","note":"Swiss coins"}
+{"qid":112252504,"place":"Eastleigh","lat":50.9696,"lon":-1.35,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":10845310,"place":"Guangzhou","lat":23.1291,"lon":113.2644,"precision":"city","confidence":"high","note":"Asian Games host"}
+{"qid":17015847,"place":"New Jersey","lat":40.1,"lon":-74.5,"precision":"region","confidence":"medium","note":"state election"}
+{"qid":3722097,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"high","note":"Parliament elected president"}
+{"qid":115801522,"place":"Forest Heath","lat":52.37,"lon":0.56,"precision":"region","confidence":"medium","note":"district council"}
+{"qid":18141653,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"several referendums"}
+{"qid":29055649,"place":"Pamplona","lat":42.8125,"lon":-1.6458,"precision":"city","confidence":"medium","note":"race in Navarre"}
+{"qid":7318045,"place":"South Australia","lat":-34.9285,"lon":138.6007,"precision":"region","confidence":"medium","note":"state stamps"}
+{"qid":137823599,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"promotion year list"}
+{"qid":115802490,"place":"King's Lynn","lat":52.7544,"lon":0.3953,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":2593417,"place":"Zürich","lat":47.3769,"lon":8.5417,"precision":"city","confidence":"high","note":"race in Zürich"}
+{"qid":23782090,"place":"Troyes","lat":48.2973,"lon":4.0744,"precision":"city","confidence":"high","note":"headquarters in Troyes"}
+{"qid":16993979,"place":"Hertsmere","lat":51.69,"lon":-0.29,"precision":"region","confidence":"medium","note":"borough council"}
+{"qid":17092095,"place":"Cape Town","lat":-33.9249,"lon":18.4241,"precision":"city","confidence":"medium","note":"Parliament seat"}
+{"qid":117428078,"place":"North Hertfordshire","lat":51.95,"lon":-0.28,"precision":"region","confidence":"medium","note":"district council"}
+{"qid":17040128,"place":"Worcester, England","lat":52.1936,"lon":-2.2216,"precision":"city","confidence":"high","note":"city council"}
+{"qid":108770909,"place":"Massachusetts","lat":42.4,"lon":-71.8,"precision":"region","confidence":"medium","note":"state elections"}
+{"qid":19880607,"place":"Flushing Meadows-Corona Park","lat":40.7466,"lon":-73.8448,"precision":"site","confidence":"medium","note":"1939 World's Fair site"}
+{"qid":5117184,"place":"Strasbourg","lat":48.5734,"lon":7.7521,"precision":"city","confidence":"medium","note":"ECHR seat"}
+{"qid":5523205,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"poetry series"}
+{"qid":11932755,"place":"Prague","lat":50.0755,"lon":14.4378,"precision":"city","confidence":"medium","note":"Czech capital"}
+{"qid":6816066,"place":"Skopje","lat":41.9981,"lon":21.4254,"precision":"city","confidence":"high","note":"championships in Skopje"}
+{"qid":11954982,"place":"Montjuïc","lat":41.364,"lon":2.1586,"precision":"region","confidence":"medium","note":"race start"}
+{"qid":19870807,"place":"Ashfield, Nottinghamshire","lat":53.1,"lon":-1.25,"precision":"region","confidence":"medium","note":"district council"}
+{"qid":4882524,"place":"Brussels","lat":50.8503,"lon":4.3517,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":16836761,"place":"Ellesmere Port","lat":53.279,"lon":-2.897,"precision":"city","confidence":"high","note":"borough council"}
+{"qid":3776967,"place":"Leuven","lat":50.8798,"lon":4.7005,"precision":"city","confidence":"high","note":"start and finish"}
+{"qid":65060053,"place":"Allerdale","lat":54.7,"lon":-3.3,"precision":"region","confidence":"medium","note":"borough council"}
+{"qid":107128706,"place":"West Lindsey","lat":53.37,"lon":-0.65,"precision":"region","confidence":"medium","note":"district council"}
+{"qid":21184297,"place":"Lake Karapiro","lat":-37.9167,"lon":175.55,"precision":"site","confidence":"low","note":"rowing team venue"}
+{"qid":104947603,"place":"Iowa","lat":42.0,"lon":-93.5,"precision":"region","confidence":"medium","note":"state election"}
+{"qid":96364551,"place":"Bath, Somerset","lat":51.3811,"lon":-2.359,"precision":"city","confidence":"high","note":"city council"}
+{"qid":138267613,"place":"Ethiopia","lat":9.145,"lon":40.4897,"precision":"country","confidence":"medium","note":"immigration from Ethiopia"}
+{"qid":119109771,"place":"Haiti","lat":18.9712,"lon":-72.2852,"precision":"country","confidence":"high","note":"floods across Haiti"}
+{"qid":8011095,"place":"Kyoto","lat":35.0116,"lon":135.7681,"precision":"city","confidence":"medium","note":"Imperial Court conflict"}
+{"qid":487207,"place":"South Korea","lat":35.9078,"lon":127.7669,"precision":"country","confidence":"low","note":"manhwa"}
+{"qid":134376460,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"team list"}
+{"qid":19869729,"place":"London Borough of Havering","lat":51.5812,"lon":0.1837,"precision":"region","confidence":"high","note":"borough"}
+{"qid":124167613,"place":"Soviet Union","lat":55.7558,"lon":37.6173,"precision":"country","confidence":"low","note":"deployed to Eastern Front"}
+{"qid":17021749,"place":"Canada","lat":56.1304,"lon":-106.3468,"precision":"country","confidence":"medium","note":"Canadian program"}
+{"qid":117086074,"place":"Eventfinda Stadium","lat":-36.7885,"lon":174.7449,"precision":"site","confidence":"high","note":"fight at Eventfinda Stadium"}
