@@ -1,0 +1,50 @@
+{"qid":7015997,"place":"Dhaka","lat":23.8103,"lon":90.4125,"precision":"city","confidence":"medium","note":"main venue city"}
+{"qid":7016024,"place":"Johannesburg","lat":-26.2041,"lon":28.0473,"precision":"city","confidence":"low","note":"major venue city"}
+{"qid":7038544,"place":"Dublin","lat":53.3498,"lon":-6.2603,"precision":"city","confidence":"low","note":"national referendum, seat Dublin"}
+{"qid":7077539,"place":"Oddusuddan","lat":9.05,"lon":80.5,"precision":"city","confidence":"medium","note":"town captured"}
+{"qid":7091859,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":""}
+{"qid":7096734,"place":"Erbil","lat":36.1911,"lon":44.0092,"precision":"city","confidence":"low","note":"northern Iraq, Bashur airbase"}
+{"qid":7096772,"place":"Bucharest","lat":44.4268,"lon":26.1025,"precision":"city","confidence":"low","note":"SOE team near Bucharest"}
+{"qid":7096890,"place":"Kampong Thom","lat":12.711,"lon":104.8887,"precision":"city","confidence":"medium","note":"offensive along Route 6"}
+{"qid":7096918,"place":"Baghdad","lat":33.3152,"lon":44.3661,"precision":"city","confidence":"medium","note":"operation in Baghdad"}
+{"qid":7096925,"place":"Khost","lat":33.3395,"lon":69.9204,"precision":"city","confidence":"low","note":"southeastern Afghanistan"}
+{"qid":7096941,"place":"Kabul","lat":34.5553,"lon":69.2075,"precision":"city","confidence":"low","note":"air campaign over Afghanistan"}
+{"qid":7096973,"place":"Kuwait City","lat":29.3759,"lon":47.9774,"precision":"city","confidence":"low","note":"redeployment from Kuwait"}
+{"qid":7096999,"place":"Oslo","lat":59.9139,"lon":10.7522,"precision":"city","confidence":"high","note":"occupation of Oslo"}
+{"qid":7097054,"place":"Kwajalein Atoll","lat":8.7167,"lon":167.7333,"precision":"region","confidence":"medium","note":"Marshall Islands battle"}
+{"qid":7097061,"place":"Phnom Penh","lat":11.5564,"lon":104.9282,"precision":"city","confidence":"low","note":"bombing of Cambodia"}
+{"qid":7097093,"place":"Chhattisgarh","lat":21.2787,"lon":81.8661,"precision":"region","confidence":"medium","note":"centre of Naxalite conflict"}
+{"qid":7097182,"place":"La Macarena, Meta","lat":2.1833,"lon":-73.7833,"precision":"city","confidence":"medium","note":"FARC leader killed there"}
+{"qid":7097183,"place":"Chittagong","lat":22.3569,"lon":91.7832,"precision":"city","confidence":"medium","note":"naval attack on ports"}
+{"qid":7097187,"place":"Vavuniya","lat":8.7514,"lon":80.4971,"precision":"city","confidence":"low","note":"Vanni offensive"}
+{"qid":7097191,"place":"Singapore","lat":1.3521,"lon":103.8198,"precision":"city","confidence":"high","note":"raid on Singapore Harbour"}
+{"qid":7097203,"place":"Kailahun","lat":8.28,"lon":-10.57,"precision":"city","confidence":"medium","note":"rebel-held Kailahun"}
+{"qid":7097262,"place":"Athens","lat":37.9838,"lon":23.7275,"precision":"city","confidence":"high","note":"British landing at Athens"}
+{"qid":7097341,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":""}
+{"qid":7097464,"place":"Singapore","lat":1.3521,"lon":103.8198,"precision":"city","confidence":"high","note":"raid on Singapore Harbour"}
+{"qid":7097530,"place":"Cunene Province","lat":-16.5,"lon":15.5,"precision":"region","confidence":"low","note":"southern Angola raids"}
+{"qid":7097610,"place":"Nile Delta","lat":30.9,"lon":31.0,"precision":"region","confidence":"low","note":"air strikes on Egypt"}
+{"qid":7097619,"place":"Basra","lat":30.5085,"lon":47.7835,"precision":"city","confidence":"medium","note":"UK sector in Iraq"}
+{"qid":7099509,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"low","note":"UK prize"}
+{"qid":7107032,"place":"Oslo","lat":59.9139,"lon":10.7522,"precision":"city","confidence":"high","note":"raid on Oslo"}
+{"qid":7109948,"place":"Massawa","lat":15.6097,"lon":39.4741,"precision":"city","confidence":"low","note":"Ottoman Red Sea base"}
+{"qid":7122662,"place":"Auckland","lat":-36.8485,"lon":174.7633,"precision":"city","confidence":"high","note":"hosted in Auckland"}
+{"qid":7122811,"place":"Algiers","lat":36.7538,"lon":3.0588,"precision":"city","confidence":"medium","note":"French conquest centre"}
+{"qid":7125838,"place":"Dhaka","lat":23.8103,"lon":90.4125,"precision":"city","confidence":"medium","note":"main venue city"}
+{"qid":7125873,"place":"Colombo","lat":6.9271,"lon":79.8612,"precision":"city","confidence":"medium","note":"main venue city"}
+{"qid":7125877,"place":"Colombo","lat":6.9271,"lon":79.8612,"precision":"city","confidence":"medium","note":"main venue city"}
+{"qid":7125879,"place":"Colombo","lat":6.9271,"lon":79.8612,"precision":"city","confidence":"medium","note":"main venue city"}
+{"qid":7125881,"place":"Colombo","lat":6.9271,"lon":79.8612,"precision":"city","confidence":"medium","note":"main venue city"}
+{"qid":7125885,"place":"Harare","lat":-17.8252,"lon":31.0335,"precision":"city","confidence":"medium","note":"main venue city"}
+{"qid":7126801,"place":"Heidelberg","lat":49.4094,"lon":8.6942,"precision":"city","confidence":"low","note":"Palatinate capital"}
+{"qid":7127419,"place":"Tyre","lat":33.2704,"lon":35.2038,"precision":"city","confidence":"low","note":"south Lebanon PLO area"}
+{"qid":7128287,"place":"Manila","lat":14.5995,"lon":120.9842,"precision":"city","confidence":"medium","note":"colonial capital"}
+{"qid":7170963,"place":"Lima","lat":-12.0464,"lon":-77.0428,"precision":"city","confidence":"medium","note":"national census, capital"}
+{"qid":7210015,"place":"Warsaw","lat":52.2297,"lon":21.0122,"precision":"city","confidence":"medium","note":"national census, capital"}
+{"qid":7210206,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":""}
+{"qid":7210337,"place":"Manila","lat":14.5995,"lon":120.9842,"precision":"city","confidence":"low","note":"national capital"}
+{"qid":7225137,"place":"Ankara","lat":39.9334,"lon":32.8597,"precision":"city","confidence":"low","note":"national capital"}
+{"qid":7240622,"place":"Coyoacán","lat":19.35,"lon":-99.162,"precision":"city","confidence":"medium","note":"preparatory school in Coyoacan"}
+{"qid":7253168,"place":"Berlin","lat":52.52,"lon":13.405,"precision":"city","confidence":"low","note":"Prussian state capital"}
+{"qid":7278971,"place":"Berlin","lat":52.52,"lon":13.405,"precision":"city","confidence":"high","note":"objective of the race"}
+{"qid":7288716,"place":"Baghdad","lat":33.3152,"lon":44.3661,"precision":"city","confidence":"medium","note":"insurgency in Baghdad"}

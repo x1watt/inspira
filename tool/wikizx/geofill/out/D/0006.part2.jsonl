@@ -1,0 +1,50 @@
+{"qid":1332594,"place":"Djibouti (city)","lat":11.5886,"lon":43.1456,"precision":"city","confidence":"medium","note":"nationwide, capital"}
+{"qid":1336295,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"low","note":"ordered from Moscow"}
+{"qid":1336847,"place":"Tokyo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"high","note":"fire destroyed Edo"}
+{"qid":1341393,"place":"Singapore","lat":1.3521,"lon":103.8198,"precision":"city","confidence":"high","note":"host city"}
+{"qid":1341517,"place":"Praia","lat":14.933,"lon":-23.5133,"precision":"city","confidence":"medium","note":"nationwide, capital"}
+{"qid":1341655,"place":"Jerusalem","lat":31.7683,"lon":35.2137,"precision":"city","confidence":"high","note":"riots in Jerusalem"}
+{"qid":1343265,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"high","note":"stated in lead"}
+{"qid":1343935,"place":"Spain","lat":40.4637,"lon":-3.7492,"precision":"country","confidence":"high","note":"five Andalusian cities"}
+{"qid":1346666,"place":"Lambach","lat":48.0908,"lon":13.8719,"precision":"city","confidence":"high","note":"battle site"}
+{"qid":1348378,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"high","note":"Broadway award"}
+{"qid":1348785,"place":"Maseru","lat":-29.31,"lon":27.48,"precision":"city","confidence":"low","note":"war in Basutoland"}
+{"qid":1348865,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"high","note":"stated in lead"}
+{"qid":1349751,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"multiple venues"}
+{"qid":1352445,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"multiple venues"}
+{"qid":1355145,"place":"Naples","lat":40.8518,"lon":14.2681,"precision":"city","confidence":"medium","note":"French seized Naples"}
+{"qid":1359729,"place":"France","lat":46.2276,"lon":2.2137,"precision":"country","confidence":"high","note":"national league"}
+{"qid":1363503,"place":"Montenegro","lat":42.7087,"lon":19.3744,"precision":"country","confidence":"high","note":"national league"}
+{"qid":1364075,"place":"Singapore Indoor Stadium","lat":1.3004,"lon":103.8744,"precision":"site","confidence":"high","note":"main venue"}
+{"qid":1365346,"place":"Vinnytsia","lat":49.2331,"lon":28.4682,"precision":"city","confidence":"high","note":"stated host"}
+{"qid":1367585,"place":"Nova Zagora","lat":42.4833,"lon":25.8833,"precision":"city","confidence":"medium","note":"Ezero tell near there"}
+{"qid":1367731,"place":"Hodeidah","lat":14.7978,"lon":42.9545,"precision":"city","confidence":"medium","note":"key Saudi capture"}
+{"qid":1368440,"place":"Tehran","lat":35.6892,"lon":51.389,"precision":"city","confidence":"high","note":"constitutional revolution capital"}
+{"qid":1369417,"place":"Damascus","lat":33.5138,"lon":36.2765,"precision":"city","confidence":"medium","note":"nationwide, capital"}
+{"qid":1369551,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"US tour"}
+{"qid":1370032,"place":"National Stadium, Singapore","lat":1.303,"lon":103.8745,"precision":"site","confidence":"high","note":"ceremony venue"}
+{"qid":1370122,"place":"National Stadium, Singapore","lat":1.303,"lon":103.8745,"precision":"site","confidence":"high","note":"ceremony venue"}
+{"qid":1370514,"place":"Oeiras, Portugal","lat":38.6972,"lon":-9.3017,"precision":"city","confidence":"high","note":"stated location"}
+{"qid":1372308,"place":"Kyoto","lat":35.0116,"lon":135.7681,"precision":"city","confidence":"high","note":"stated location"}
+{"qid":1373706,"place":"Longvek","lat":12.2,"lon":104.8,"precision":"city","confidence":"medium","note":"Cambodian capital fell"}
+{"qid":1374594,"place":"Kazan","lat":55.7887,"lon":49.1221,"precision":"city","confidence":"high","note":"stated host"}
+{"qid":1374599,"place":"Zagreb","lat":45.815,"lon":15.9819,"precision":"city","confidence":"high","note":"stated host"}
+{"qid":1375815,"place":"Faroe Islands","lat":61.8926,"lon":-6.9118,"precision":"country","confidence":"low","note":"league likely Faroese"}
+{"qid":1376093,"place":"Korean Peninsula","lat":37.0,"lon":127.5,"precision":"region","confidence":"high","note":"confederacies in southern Korea"}
+{"qid":1376234,"place":"Sistine Chapel","lat":41.9029,"lon":12.4545,"precision":"site","confidence":"high","note":"conclave venue"}
+{"qid":1377356,"place":"Prague","lat":50.0755,"lon":14.4378,"precision":"city","confidence":"high","note":"stated host"}
+{"qid":1387922,"place":"Ahmići","lat":44.1444,"lon":17.8392,"precision":"city","confidence":"high","note":"village massacre"}
+{"qid":1398308,"place":"Iran","lat":32.4279,"lon":53.688,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":1399567,"place":"Luxembourg City","lat":49.6117,"lon":6.1319,"precision":"city","confidence":"high","note":"stated host"}
+{"qid":1400365,"place":"Palermo","lat":38.1157,"lon":13.3615,"precision":"city","confidence":"medium","note":"1848 revolts began in Palermo"}
+{"qid":1400402,"place":"Constantinople","lat":41.0082,"lon":28.9784,"precision":"city","confidence":"high","note":"recaptured city"}
+{"qid":1401251,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"high","note":"British political scandal"}
+{"qid":1403995,"place":"Santiago","lat":-33.4489,"lon":-70.6693,"precision":"city","confidence":"low","note":"host city guess"}
+{"qid":1407972,"place":"Uganda","lat":1.3733,"lon":32.2903,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":1411126,"place":"Montevideo","lat":-34.9011,"lon":-56.1645,"precision":"city","confidence":"low","note":"host city guess"}
+{"qid":1415566,"place":"Würzburg","lat":49.7944,"lon":9.9294,"precision":"city","confidence":"high","note":"battle site"}
+{"qid":1417847,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"low","note":"worldwide, financial centre"}
+{"qid":1419536,"place":"Manila","lat":14.5995,"lon":120.9842,"precision":"city","confidence":"high","note":"protests in Manila"}
+{"qid":1421431,"place":"Sistine Chapel","lat":41.9029,"lon":12.4545,"precision":"site","confidence":"high","note":"conclave venue"}
+{"qid":1421564,"place":"Faroe Islands","lat":61.8926,"lon":-6.9118,"precision":"country","confidence":"low","note":"league likely Faroese"}
+{"qid":1421857,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"multi-country tournament"}

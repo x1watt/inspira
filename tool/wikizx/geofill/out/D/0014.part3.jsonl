@@ -1,0 +1,50 @@
+{"qid":7985476,"place":"Dhaka","lat":23.8103,"lon":90.4125,"precision":"city","confidence":"medium","note":"main venue city"}
+{"qid":7985519,"place":"Colombo","lat":6.9271,"lon":79.8612,"precision":"city","confidence":"medium","note":"main venue city"}
+{"qid":7985521,"place":"Harare","lat":-17.8252,"lon":31.0335,"precision":"city","confidence":"medium","note":"main venue city"}
+{"qid":7985527,"place":"Colombo","lat":6.9271,"lon":79.8612,"precision":"city","confidence":"medium","note":"main venue city"}
+{"qid":8028129,"place":"Kabul","lat":34.5553,"lon":69.2075,"precision":"city","confidence":"low","note":"US withdrawal from Afghanistan"}
+{"qid":8072040,"place":"Colombo","lat":6.9271,"lon":79.8612,"precision":"city","confidence":"medium","note":"main venue city"}
+{"qid":8072041,"place":"Colombo","lat":6.9271,"lon":79.8612,"precision":"city","confidence":"medium","note":"main venue city"}
+{"qid":8072060,"place":"Harare","lat":-17.8252,"lon":31.0335,"precision":"city","confidence":"medium","note":"Zimbabwe cricket HQ"}
+{"qid":8072063,"place":"Dhaka","lat":23.8103,"lon":90.4125,"precision":"city","confidence":"medium","note":"main venue city"}
+{"qid":8072064,"place":"Dhaka","lat":23.8103,"lon":90.4125,"precision":"city","confidence":"medium","note":"main venue city"}
+{"qid":8072065,"place":"Dhaka","lat":23.8103,"lon":90.4125,"precision":"city","confidence":"medium","note":"main venue city"}
+{"qid":8072066,"place":"Dhaka","lat":23.8103,"lon":90.4125,"precision":"city","confidence":"medium","note":"main venue city"}
+{"qid":8072068,"place":"Dhaka","lat":23.8103,"lon":90.4125,"precision":"city","confidence":"medium","note":"main venue city"}
+{"qid":8096173,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":""}
+{"qid":8247513,"place":"Belize City","lat":17.4995,"lon":-88.1976,"precision":"city","confidence":"high","note":"headquartered in Belize City"}
+{"qid":8256467,"place":"Baghdad","lat":33.3152,"lon":44.3661,"precision":"city","confidence":"medium","note":"bombing centred on Baghdad"}
+{"qid":8264819,"place":"Prague","lat":50.0755,"lon":14.4378,"precision":"city","confidence":"low","note":"CZSO seat"}
+{"qid":8574924,"place":"Rosario, Santa Fe","lat":-32.9442,"lon":-60.6505,"precision":"city","confidence":"medium","note":"rally started in Rosario"}
+{"qid":8659209,"place":"Nantou County","lat":23.9,"lon":120.97,"precision":"region","confidence":"medium","note":"epicentre in Nantou"}
+{"qid":9030108,"place":"Tōhoku region","lat":39.7,"lon":140.9,"precision":"region","confidence":"medium","note":"worst hit northeast Japan"}
+{"qid":9066184,"place":"Monte Carlo","lat":43.7396,"lon":7.4276,"precision":"city","confidence":"medium","note":"rally base"}
+{"qid":9068529,"place":"San Salvador","lat":13.6929,"lon":-89.2182,"precision":"city","confidence":"medium","note":"rebellion in capital"}
+{"qid":9086900,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":""}
+{"qid":9291683,"place":"Genoa","lat":44.4056,"lon":8.9463,"precision":"city","confidence":"high","note":"besieged city"}
+{"qid":9294875,"place":"KwaZulu-Natal","lat":-28.5,"lon":30.9,"precision":"region","confidence":"medium","note":"Zululand region"}
+{"qid":9366875,"place":"Trabzon","lat":41.0027,"lon":39.7168,"precision":"city","confidence":"high","note":"besieged Trebizond"}
+{"qid":9377248,"place":"Tunisia","lat":33.8869,"lon":9.5375,"precision":"country","confidence":"low","note":"unknown site in northern Tunisia"}
+{"qid":9391293,"place":"Andorra la Vella","lat":42.5063,"lon":1.5218,"precision":"city","confidence":"high","note":"host city"}
+{"qid":9676903,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":9676908,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":9676913,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":9676919,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":9676923,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":9676927,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":9676948,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":9676951,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":9676957,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":9676965,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":9676975,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":9676988,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":9677018,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":10035524,"place":"Anqing","lat":30.5254,"lon":117.0632,"precision":"city","confidence":"low","note":"Taiping campaign along Yangtze"}
+{"qid":10271413,"place":"Portugal","lat":39.3999,"lon":-8.2245,"precision":"country","confidence":"medium","note":"nationwide local elections"}
+{"qid":10299256,"place":"Rio de Janeiro","lat":-22.9068,"lon":-43.1729,"precision":"city","confidence":"high","note":"2007 Pan Am Games host"}
+{"qid":10299257,"place":"Rio de Janeiro","lat":-22.9068,"lon":-43.1729,"precision":"city","confidence":"high","note":"2007 Pan Am Games host"}
+{"qid":10348842,"place":"Rio de Janeiro","lat":-22.9068,"lon":-43.1729,"precision":"city","confidence":"high","note":"imperial capital"}
+{"qid":10378709,"place":"Oeiras, Portugal","lat":38.697,"lon":-9.3078,"precision":"city","confidence":"low","note":"final at Estadio Nacional"}
+{"qid":10378710,"place":"Oeiras, Portugal","lat":38.697,"lon":-9.3078,"precision":"city","confidence":"low","note":"final at Estadio Nacional"}
+{"qid":10378711,"place":"Oeiras, Portugal","lat":38.697,"lon":-9.3078,"precision":"city","confidence":"low","note":"final at Estadio Nacional"}
+{"qid":10378712,"place":"Oeiras, Portugal","lat":38.697,"lon":-9.3078,"precision":"city","confidence":"low","note":"final at Estadio Nacional"}

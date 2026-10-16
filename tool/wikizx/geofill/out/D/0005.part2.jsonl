@@ -1,0 +1,50 @@
+{"qid":1000984,"place":"Italy","lat":41.8719,"lon":12.5674,"precision":"country","confidence":"high","note":"toured Italian squares"}
+{"qid":1001860,"place":"Singapore","lat":1.3521,"lon":103.8198,"precision":"city","confidence":"high","note":"host city"}
+{"qid":1003754,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"tour, no single place"}
+{"qid":1004065,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"idea, no location"}
+{"qid":1011547,"place":"The Beverly Hilton","lat":34.0667,"lon":-118.415,"precision":"site","confidence":"medium","note":"usual ceremony venue"}
+{"qid":1017984,"place":"Ilidža","lat":43.83,"lon":18.31,"precision":"city","confidence":"medium","note":"Butmir site near Sarajevo"}
+{"qid":1021160,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"medium","note":"contested capital"}
+{"qid":1021172,"place":"Brazzaville","lat":-4.2634,"lon":15.2429,"precision":"city","confidence":"medium","note":"decisive fighting in capital"}
+{"qid":1021175,"place":"Bouaké","lat":7.6906,"lon":-5.03,"precision":"city","confidence":"medium","note":"rebel stronghold"}
+{"qid":1023260,"place":"Kampala","lat":0.3476,"lon":32.5825,"precision":"city","confidence":"medium","note":"host capital"}
+{"qid":1023264,"place":"Nairobi","lat":-1.2921,"lon":36.8219,"precision":"city","confidence":"medium","note":"host capital"}
+{"qid":1023269,"place":"Kampala","lat":0.3476,"lon":32.5825,"precision":"city","confidence":"medium","note":"host capital"}
+{"qid":1023270,"place":"Dar es Salaam","lat":-6.7924,"lon":39.2083,"precision":"city","confidence":"medium","note":"host capital"}
+{"qid":1023271,"place":"Harare","lat":-17.8252,"lon":31.0335,"precision":"city","confidence":"medium","note":"host capital"}
+{"qid":1023273,"place":"Kampala","lat":0.3476,"lon":32.5825,"precision":"city","confidence":"medium","note":"host capital"}
+{"qid":1023274,"place":"Blantyre","lat":-15.7861,"lon":35.0058,"precision":"city","confidence":"low","note":"host country Malawi"}
+{"qid":1023275,"place":"Addis Ababa","lat":9.03,"lon":38.74,"precision":"city","confidence":"medium","note":"host capital"}
+{"qid":1023276,"place":"Nairobi","lat":-1.2921,"lon":36.8219,"precision":"city","confidence":"medium","note":"host capital"}
+{"qid":1023279,"place":"Kampala","lat":0.3476,"lon":32.5825,"precision":"city","confidence":"medium","note":"host capital"}
+{"qid":1023280,"place":"Dar es Salaam","lat":-6.7924,"lon":39.2083,"precision":"city","confidence":"medium","note":"host capital"}
+{"qid":1023282,"place":"Kampala","lat":0.3476,"lon":32.5825,"precision":"city","confidence":"medium","note":"host capital"}
+{"qid":1023283,"place":"Nairobi","lat":-1.2921,"lon":36.8219,"precision":"city","confidence":"medium","note":"host capital"}
+{"qid":1023284,"place":"Khartoum","lat":15.5007,"lon":32.5599,"precision":"city","confidence":"medium","note":"host capital"}
+{"qid":1023285,"place":"Kigali","lat":-1.9441,"lon":30.0619,"precision":"city","confidence":"medium","note":"host capital"}
+{"qid":1023287,"place":"Kampala","lat":0.3476,"lon":32.5825,"precision":"city","confidence":"medium","note":"host capital"}
+{"qid":1023288,"place":"Kigali","lat":-1.9441,"lon":30.0619,"precision":"city","confidence":"medium","note":"host capital"}
+{"qid":1023289,"place":"Dar es Salaam","lat":-6.7924,"lon":39.2083,"precision":"city","confidence":"medium","note":"host capital"}
+{"qid":1023292,"place":"Khartoum","lat":15.5007,"lon":32.5599,"precision":"city","confidence":"medium","note":"host capital"}
+{"qid":1023295,"place":"Addis Ababa","lat":9.03,"lon":38.74,"precision":"city","confidence":"medium","note":"host capital"}
+{"qid":1023296,"place":"Kigali","lat":-1.9441,"lon":30.0619,"precision":"city","confidence":"medium","note":"host capital"}
+{"qid":1023299,"place":"Kampala","lat":0.3476,"lon":32.5825,"precision":"city","confidence":"medium","note":"host capital"}
+{"qid":1023300,"place":"Nairobi","lat":-1.2921,"lon":36.8219,"precision":"city","confidence":"medium","note":"host capital"}
+{"qid":1023302,"place":"Kampala","lat":0.3476,"lon":32.5825,"precision":"city","confidence":"medium","note":"one host city"}
+{"qid":1025466,"place":"Curia of Pompey","lat":41.8953,"lon":12.4769,"precision":"site","confidence":"high","note":"assassinated in the Curia"}
+{"qid":1025908,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"touring festival"}
+{"qid":1030407,"place":"White City Stadium","lat":51.512,"lon":-0.228,"precision":"site","confidence":"high","note":"1908 Olympic stadium"}
+{"qid":1032061,"place":"Taiwan","lat":23.6978,"lon":120.9605,"precision":"country","confidence":"medium","note":"national league"}
+{"qid":1042214,"place":"White City Stadium","lat":51.512,"lon":-0.228,"precision":"site","confidence":"high","note":"1908 Olympic stadium"}
+{"qid":1042457,"place":"Holmenkollen","lat":59.9638,"lon":10.6667,"precision":"site","confidence":"high","note":"stated venue"}
+{"qid":1044938,"place":"Mexico","lat":23.6345,"lon":-102.5528,"precision":"country","confidence":"high","note":"race across Mexico"}
+{"qid":1044940,"place":"Mexico","lat":23.6345,"lon":-102.5528,"precision":"country","confidence":"high","note":"race across Mexico"}
+{"qid":1046794,"place":"Los Angeles","lat":34.0522,"lon":-118.2437,"precision":"city","confidence":"medium","note":"strike centred in Hollywood"}
+{"qid":1047682,"place":"Qingdao","lat":36.0671,"lon":120.3826,"precision":"city","confidence":"low","note":"Siege of Tsingtao"}
+{"qid":1048750,"place":"Casa Rosada","lat":-34.6083,"lon":-58.3702,"precision":"site","confidence":"high","note":"stated in infobox"}
+{"qid":1049363,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"touring concert"}
+{"qid":1049956,"place":"Budapest","lat":47.4979,"lon":19.0402,"precision":"city","confidence":"low","note":"Buda was contested"}
+{"qid":1050999,"place":"Kyrenia","lat":35.3364,"lon":33.3173,"precision":"city","confidence":"medium","note":"invasion landing point"}
+{"qid":1051173,"place":"Edmonton","lat":53.5461,"lon":-113.4938,"precision":"city","confidence":"high","note":"stated in lead"}
+{"qid":1051194,"place":"Cardiff","lat":51.4816,"lon":-3.1791,"precision":"city","confidence":"medium","note":"hosted in Wales"}
+{"qid":1051320,"place":"Jordan, Hong Kong","lat":22.305,"lon":114.171,"precision":"city","confidence":"high","note":"Nathan Road, Jordan"}

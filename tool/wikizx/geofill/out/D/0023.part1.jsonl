@@ -1,0 +1,50 @@
+{"qid":97667436,"place":"Bangkok","lat":13.7563,"lon":100.5018,"precision":"city","confidence":"high","note":"main protests in Bangkok"}
+{"qid":97704119,"place":"Jerusalem","lat":31.7683,"lon":35.2137,"precision":"city","confidence":"low","note":"conflict focal point"}
+{"qid":97798587,"place":"Jerusalem","lat":31.7683,"lon":35.2137,"precision":"city","confidence":"low","note":"conflict focal point"}
+{"qid":97829060,"place":"Nicosia","lat":35.1856,"lon":33.3823,"precision":"city","confidence":"low","note":"national league"}
+{"qid":97860712,"place":"Tel Aviv","lat":32.0853,"lon":34.7818,"precision":"city","confidence":"medium","note":"main Scud target"}
+{"qid":97889551,"place":"Pristina","lat":42.6629,"lon":21.1655,"precision":"city","confidence":"low","note":"national league"}
+{"qid":97932416,"place":"Bern","lat":46.948,"lon":7.4474,"precision":"city","confidence":"low","note":"national league"}
+{"qid":97956368,"place":"Yerevan","lat":40.1792,"lon":44.4991,"precision":"city","confidence":"low","note":"national league"}
+{"qid":97959492,"place":"Lisbon","lat":38.7223,"lon":-9.1393,"precision":"city","confidence":"low","note":"national cup"}
+{"qid":98073118,"place":"Port of Beirut","lat":33.9017,"lon":35.5186,"precision":"site","confidence":"high","note":"explosion at port"}
+{"qid":98074069,"place":"Baku","lat":40.4093,"lon":49.8671,"precision":"city","confidence":"low","note":"national league"}
+{"qid":98079204,"place":"Johannesburg","lat":-26.2041,"lon":28.0473,"precision":"city","confidence":"low","note":"tour in South Africa"}
+{"qid":98107844,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"low","note":"national league"}
+{"qid":98139791,"place":"Chitwan National Park","lat":27.5,"lon":84.3333,"precision":"region","confidence":"medium","note":"hunt in Chitwan"}
+{"qid":98382953,"place":"Jalan Besar Stadium","lat":1.31,"lon":103.8562,"precision":"site","confidence":"high","note":"venue"}
+{"qid":98508272,"place":"Wellington","lat":-41.2866,"lon":174.7756,"precision":"city","confidence":"low","note":"multinational tournament"}
+{"qid":98640410,"place":"Tomsk","lat":56.4846,"lon":84.9476,"precision":"city","confidence":"medium","note":"poisoned in Tomsk"}
+{"qid":98754976,"place":"Bahrain International Circuit","lat":26.0325,"lon":50.5106,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":99123177,"place":"Zagreb","lat":45.815,"lon":15.9819,"precision":"city","confidence":"low","note":"national cup"}
+{"qid":99196455,"place":"Bogotá","lat":4.711,"lon":-74.0721,"precision":"city","confidence":"high","note":"protests began in Bogotá"}
+{"qid":99197422,"place":"Lisbon","lat":38.7223,"lon":-9.1393,"precision":"city","confidence":"low","note":"national cup"}
+{"qid":99352407,"place":"Monaco","lat":43.7384,"lon":7.4246,"precision":"country","confidence":"medium","note":"rally start in Monaco"}
+{"qid":99391310,"place":"Circuit de Monaco","lat":43.7347,"lon":7.4206,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":99518154,"place":"Bahrain International Circuit","lat":26.0325,"lon":50.5106,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":99613012,"place":"Minneapolis","lat":44.9778,"lon":-93.265,"precision":"city","confidence":"medium","note":"unrest sparked in Minneapolis"}
+{"qid":99703595,"place":"Johannesburg","lat":-26.2041,"lon":28.0473,"precision":"city","confidence":"low","note":"South African competition"}
+{"qid":99710556,"place":"Tindouf","lat":27.6711,"lon":-8.1474,"precision":"city","confidence":"low","note":"Sahrawi camps near Tindouf"}
+{"qid":99932513,"place":"Minsk","lat":53.9006,"lon":27.559,"precision":"city","confidence":"low","note":"national league"}
+{"qid":100151924,"place":"San José, Costa Rica","lat":9.9281,"lon":-84.0907,"precision":"city","confidence":"low","note":"national census"}
+{"qid":100151934,"place":"San José, Costa Rica","lat":9.9281,"lon":-84.0907,"precision":"city","confidence":"low","note":"national census"}
+{"qid":100151947,"place":"San José, Costa Rica","lat":9.9281,"lon":-84.0907,"precision":"city","confidence":"low","note":"national census"}
+{"qid":100151959,"place":"San José, Costa Rica","lat":9.9281,"lon":-84.0907,"precision":"city","confidence":"low","note":"national census"}
+{"qid":100269166,"place":"Lima","lat":-12.0464,"lon":-77.0428,"precision":"city","confidence":"low","note":"national league"}
+{"qid":100626766,"place":"Ghazanchetsots Cathedral","lat":39.7566,"lon":46.7467,"precision":"site","confidence":"high","note":"shelled cathedral"}
+{"qid":100772616,"place":"Dublin","lat":53.3498,"lon":-6.2603,"precision":"city","confidence":"low","note":"national league"}
+{"qid":101011707,"place":"Gqeberha","lat":-33.9608,"lon":25.6022,"precision":"city","confidence":"low","note":"hosted in Gqeberha"}
+{"qid":101105857,"place":"Kabul","lat":34.5553,"lon":69.2075,"precision":"city","confidence":"low","note":"attacks centred on Kabul"}
+{"qid":101279639,"place":"Constantinople","lat":41.0082,"lon":28.9784,"precision":"city","confidence":"high","note":"damaged city walls"}
+{"qid":101904625,"place":"Wellington","lat":-41.2866,"lon":174.7756,"precision":"city","confidence":"low","note":"New Zealand tournament"}
+{"qid":101904653,"place":"Sydney","lat":-33.8688,"lon":151.2093,"precision":"city","confidence":"low","note":"Australian tournament"}
+{"qid":102080577,"place":"Houston","lat":29.7604,"lon":-95.3698,"precision":"city","confidence":"low","note":"US league, no single host"}
+{"qid":102226794,"place":"Reykjavík","lat":64.1466,"lon":-21.9426,"precision":"city","confidence":"low","note":"national league"}
+{"qid":102323954,"place":"Puducherry","lat":11.9416,"lon":79.8083,"precision":"city","confidence":"medium","note":"landfall near Puducherry"}
+{"qid":102439127,"place":"Delhi","lat":28.6139,"lon":77.209,"precision":"city","confidence":"medium","note":"protest sites at Delhi borders"}
+{"qid":102943967,"place":"Trincomalee","lat":8.5874,"lon":81.2152,"precision":"city","confidence":"medium","note":"landfall in Sri Lanka"}
+{"qid":103868530,"place":"Frankfurt","lat":50.1109,"lon":8.6821,"precision":"city","confidence":"low","note":"DFB seat"}
+{"qid":103897500,"place":"Astana","lat":51.1694,"lon":71.4491,"precision":"city","confidence":"low","note":"national league"}
+{"qid":103982508,"place":"Stockholm","lat":59.3293,"lon":18.0686,"precision":"city","confidence":"low","note":"national league"}
+{"qid":104068497,"place":"Oslo","lat":59.9139,"lon":10.7522,"precision":"city","confidence":"low","note":"national league"}
+{"qid":104223937,"place":"Berlin","lat":52.52,"lon":13.405,"precision":"city","confidence":"medium","note":"final in Berlin"}

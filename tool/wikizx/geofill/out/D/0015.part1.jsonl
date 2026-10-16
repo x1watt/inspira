@@ -1,0 +1,50 @@
+{"qid":11908797,"place":"Bosporus","lat":41.05,"lon":29.0383,"precision":"region","confidence":"high","note":"naval battle in the strait"}
+{"qid":11918794,"place":"Madrid","lat":40.4168,"lon":-3.7038,"precision":"city","confidence":"low","note":"national election, capital"}
+{"qid":11918797,"place":"Madrid","lat":40.4168,"lon":-3.7038,"precision":"city","confidence":"low","note":"national election, capital"}
+{"qid":11918798,"place":"Madrid","lat":40.4168,"lon":-3.7038,"precision":"city","confidence":"low","note":"national election, capital"}
+{"qid":11918799,"place":"Madrid","lat":40.4168,"lon":-3.7038,"precision":"city","confidence":"low","note":"national election, capital"}
+{"qid":11969381,"place":"Copenhagen","lat":55.6761,"lon":12.5683,"precision":"city","confidence":"medium","note":"Danish-Norwegian capital"}
+{"qid":11983109,"place":"Aarhus","lat":56.1629,"lon":10.2039,"precision":"city","confidence":"high","note":"exhibition in Aarhus"}
+{"qid":11993901,"place":"Monrovia","lat":6.3156,"lon":-10.8074,"precision":"city","confidence":"high","note":"evacuation from Monrovia"}
+{"qid":12001388,"place":"Skanderborg","lat":56.0386,"lon":9.9275,"precision":"city","confidence":"high","note":"battle near Skanderborg"}
+{"qid":12048808,"place":"Monte Carlo","lat":43.7396,"lon":7.4276,"precision":"city","confidence":"medium","note":"rally base"}
+{"qid":12055176,"place":"Luanda","lat":-8.839,"lon":13.2894,"precision":"city","confidence":"medium","note":"war began in Luanda"}
+{"qid":12061791,"place":"Kyrenia","lat":35.3364,"lon":33.3173,"precision":"city","confidence":"medium","note":"Turkish landing area"}
+{"qid":12139760,"place":"Kyiv","lat":50.4501,"lon":30.5234,"precision":"city","confidence":"medium","note":"Ukrainian SSR capital"}
+{"qid":12145846,"place":"Poltava","lat":49.5883,"lon":34.5514,"precision":"city","confidence":"medium","note":"decisive battle 1709"}
+{"qid":12156323,"place":"Nassau, Bahamas","lat":25.048,"lon":-77.3554,"precision":"city","confidence":"high","note":"host city"}
+{"qid":12181933,"place":"Bucharest","lat":44.4268,"lon":26.1025,"precision":"city","confidence":"medium","note":"national census, capital"}
+{"qid":12184140,"place":"Damascus","lat":33.5138,"lon":36.2765,"precision":"city","confidence":"medium","note":"national vote, capital"}
+{"qid":12184142,"place":"Damascus","lat":33.5138,"lon":36.2765,"precision":"city","confidence":"medium","note":"national vote, capital"}
+{"qid":12190906,"place":"Turkey","lat":38.9637,"lon":35.2433,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":12216248,"place":"Córdoba, Spain","lat":37.8882,"lon":-4.7794,"precision":"city","confidence":"high","note":"besieged city"}
+{"qid":12220922,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"low","note":"UK tour, London"}
+{"qid":12241913,"place":"Khan Yunis","lat":31.3462,"lon":34.3063,"precision":"city","confidence":"high","note":"massacre at Khan Yunis"}
+{"qid":12302518,"place":"Kabul","lat":34.5553,"lon":69.2075,"precision":"city","confidence":"medium","note":"Taliban took Kabul"}
+{"qid":12320550,"place":"Romania","lat":45.9432,"lon":24.9668,"precision":"country","confidence":"medium","note":"host country"}
+{"qid":12320559,"place":"France","lat":46.6034,"lon":1.8883,"precision":"country","confidence":"medium","note":"host country"}
+{"qid":12324595,"place":"Azerbaijan","lat":40.1431,"lon":47.5769,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":12375230,"place":"Turku","lat":60.4518,"lon":22.2666,"precision":"city","confidence":"medium","note":"Swedish-era Finnish capital"}
+{"qid":12375607,"place":"Tartu","lat":58.378,"lon":26.729,"precision":"city","confidence":"low","note":"key 1941 fighting"}
+{"qid":12403527,"place":"Dimona","lat":31.0686,"lon":35.0332,"precision":"city","confidence":"low","note":"bus to Negev nuclear centre"}
+{"qid":12406927,"place":"Al-Aqsa Mosque","lat":31.7761,"lon":35.2358,"precision":"site","confidence":"high","note":"arson at the mosque"}
+{"qid":12408796,"place":"Lebanon","lat":33.8547,"lon":35.8623,"precision":"country","confidence":"low","note":"air strike in Lebanon"}
+{"qid":12504540,"place":"Jakarta","lat":-6.2088,"lon":106.8456,"precision":"city","confidence":"medium","note":"national census, capital"}
+{"qid":12513659,"place":"Jakarta","lat":-6.2088,"lon":106.8456,"precision":"city","confidence":"medium","note":"national census, capital"}
+{"qid":12627441,"place":"Bukit Jalil National Stadium","lat":3.0545,"lon":101.6918,"precision":"site","confidence":"high","note":"venue"}
+{"qid":12627443,"place":"Kuala Lumpur","lat":3.139,"lon":101.6869,"precision":"city","confidence":"high","note":"host city"}
+{"qid":12628886,"place":"Baku","lat":40.4093,"lon":49.8671,"precision":"city","confidence":"high","note":"host city"}
+{"qid":12639252,"place":"Havana","lat":23.1136,"lon":-82.3666,"precision":"city","confidence":"high","note":"host city"}
+{"qid":12640138,"place":"Sarajevo","lat":43.8563,"lon":18.4131,"precision":"city","confidence":"medium","note":"provincial capital"}
+{"qid":12739148,"place":"Bucharest","lat":44.4268,"lon":26.1025,"precision":"city","confidence":"medium","note":"national census, capital"}
+{"qid":12739149,"place":"Chișinău","lat":47.0105,"lon":28.8638,"precision":"city","confidence":"medium","note":"national census, capital"}
+{"qid":12749179,"place":"Belgrade","lat":44.8176,"lon":20.4633,"precision":"city","confidence":"high","note":"bombarded city"}
+{"qid":12755974,"place":"Rahovec","lat":42.3994,"lon":20.6556,"precision":"city","confidence":"high","note":"attack on Orahovac"}
+{"qid":12883578,"place":"Livadeia","lat":38.4361,"lon":22.875,"precision":"city","confidence":"high","note":"siege of Livadeia"}
+{"qid":12981561,"place":"Portugal","lat":39.3999,"lon":-8.2245,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":13107457,"place":"Bucharest","lat":44.4268,"lon":26.1025,"precision":"city","confidence":"medium","note":"2013 Nations Cup host"}
+{"qid":13118487,"place":"Dhaka","lat":23.8103,"lon":90.4125,"precision":"city","confidence":"medium","note":"main venue city"}
+{"qid":13119481,"place":"Colombo","lat":6.9271,"lon":79.8612,"precision":"city","confidence":"medium","note":"main venue city"}
+{"qid":13179199,"place":"Kathmandu","lat":27.7172,"lon":85.324,"precision":"city","confidence":"medium","note":"national census, capital"}
+{"qid":13181045,"place":"Kathmandu","lat":27.7172,"lon":85.324,"precision":"city","confidence":"medium","note":"national census, capital"}
+{"qid":13181113,"place":"Kathmandu","lat":27.7172,"lon":85.324,"precision":"city","confidence":"medium","note":"national census, capital"}

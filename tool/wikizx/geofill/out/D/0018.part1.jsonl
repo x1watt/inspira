@@ -1,0 +1,50 @@
+{"qid":21855886,"place":"Port Vila","lat":-17.7333,"lon":168.3167,"precision":"city","confidence":"medium","note":"final stage in Vanuatu"}
+{"qid":21884170,"place":"Sweden","lat":60.1282,"lon":18.6435,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":21916803,"place":"Switzerland","lat":46.8182,"lon":8.2275,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":22025852,"place":"Las Vegas","lat":36.1699,"lon":-115.1398,"precision":"city","confidence":"high","note":"host city"}
+{"qid":22035598,"place":"Prague","lat":50.0755,"lon":14.4378,"precision":"city","confidence":"high","note":"Arena Sparta"}
+{"qid":22035600,"place":"Minsk","lat":53.9006,"lon":27.559,"precision":"city","confidence":"high","note":"host city"}
+{"qid":22091949,"place":"Dominican Republic","lat":18.7357,"lon":-70.1627,"precision":"country","confidence":"high","note":"nationwide census"}
+{"qid":22091980,"place":"Dominican Republic","lat":18.7357,"lon":-70.1627,"precision":"country","confidence":"high","note":"nationwide census"}
+{"qid":22098313,"place":"Dhaka","lat":23.8103,"lon":90.4125,"precision":"city","confidence":"medium","note":"tour of Bangladesh"}
+{"qid":22632230,"place":"Tena, Ecuador","lat":-0.9889,"lon":-77.8217,"precision":"city","confidence":"high","note":"airport served Tena"}
+{"qid":22668933,"place":"Iceland","lat":64.9631,"lon":-19.0208,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":22681246,"place":"Bahrain International Circuit","lat":26.0325,"lon":50.5106,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":22683328,"place":"France","lat":46.6034,"lon":1.8883,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":22907504,"place":"Deir ez-Zor","lat":35.3359,"lon":40.1408,"precision":"city","confidence":"medium","note":"oil field strikes"}
+{"qid":22935643,"place":"Iraq","lat":33.2232,"lon":43.6793,"precision":"country","confidence":"low","note":"persecution mainly in Iraq"}
+{"qid":22935835,"place":"Cairo","lat":30.0444,"lon":31.2357,"precision":"city","confidence":"low","note":"capital, many attacks"}
+{"qid":23015948,"place":"India","lat":20.5937,"lon":78.9629,"precision":"country","confidence":"medium","note":"host country"}
+{"qid":23019637,"place":"Colombo","lat":6.9271,"lon":79.8612,"precision":"city","confidence":"medium","note":"tour of Sri Lanka"}
+{"qid":23022388,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":""}
+{"qid":23022426,"place":"Italy","lat":41.8719,"lon":12.5674,"precision":"country","confidence":"high","note":"nationwide referendum"}
+{"qid":23024469,"place":"Kuantan","lat":3.8077,"lon":103.326,"precision":"city","confidence":"high","note":"host city"}
+{"qid":23036028,"place":"Libreville","lat":0.4162,"lon":9.4673,"precision":"city","confidence":"medium","note":"host country capital"}
+{"qid":23038154,"place":"Bujumbura","lat":-3.3614,"lon":29.3599,"precision":"city","confidence":"high","note":"coup in capital"}
+{"qid":23039105,"place":"Beijing","lat":39.9042,"lon":116.4074,"precision":"city","confidence":"low","note":"Yuan capital Khanbaliq"}
+{"qid":23043309,"place":"Kuwait","lat":29.3117,"lon":47.4818,"precision":"country","confidence":"medium","note":"Samita outpost in Kuwait"}
+{"qid":23045176,"place":"Circuit de Monaco","lat":43.7347,"lon":7.4206,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":23045179,"place":"Marina Bay Street Circuit","lat":1.2914,"lon":103.864,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":23057728,"place":"Australia","lat":-25.2744,"lon":133.7751,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":23058005,"place":"Harare","lat":-17.8252,"lon":31.0335,"precision":"city","confidence":"medium","note":"tour of Zimbabwe"}
+{"qid":23058204,"place":"South Africa","lat":-30.5595,"lon":22.9375,"precision":"country","confidence":"medium","note":"tour of South Africa"}
+{"qid":23058648,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"mainly in US"}
+{"qid":23138862,"place":"Laos","lat":19.8563,"lon":102.4955,"precision":"country","confidence":"low","note":"Laos Thailand border"}
+{"qid":23140149,"place":"Laos","lat":19.8563,"lon":102.4955,"precision":"country","confidence":"low","note":"Laos Cambodia border"}
+{"qid":23198510,"place":"Tunisia","lat":33.8869,"lon":9.5375,"precision":"country","confidence":"high","note":"insurgency in Tunisia"}
+{"qid":23257919,"place":"Cox's Bazar","lat":21.4272,"lon":92.0058,"precision":"city","confidence":"high","note":"crash off Cox's Bazar Airport"}
+{"qid":23497990,"place":"Spain","lat":40.4637,"lon":-3.7492,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":23503832,"place":"Lleida","lat":41.6176,"lon":0.62,"precision":"city","confidence":"high","note":"siege of Lleida"}
+{"qid":23541421,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":23542788,"place":"Bucharest","lat":44.4268,"lon":26.1025,"precision":"city","confidence":"medium","note":"hosted in Romania"}
+{"qid":23550326,"place":"Manama","lat":26.2285,"lon":50.586,"precision":"city","confidence":"medium","note":"intervention in Bahrain capital"}
+{"qid":23558988,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":23756432,"place":"Cyprus","lat":35.1264,"lon":33.4299,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":23766566,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"high","note":"nationwide census"}
+{"qid":23839262,"place":"Fort Canning Park","lat":1.2952,"lon":103.8468,"precision":"site","confidence":"high","note":"museum in Fort Canning"}
+{"qid":23891380,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":23928065,"place":"North Macedonia","lat":41.6086,"lon":21.7453,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":23929929,"place":"Auckland","lat":-36.8509,"lon":174.7645,"precision":"city","confidence":"low","note":"club tournament, final Auckland"}
+{"qid":23939796,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":23954972,"place":"Laos","lat":19.8563,"lon":102.4955,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":23978207,"place":"Kazakhstan","lat":48.0196,"lon":66.9237,"precision":"country","confidence":"medium","note":"nationwide protests"}

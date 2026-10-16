@@ -1,0 +1,50 @@
+{"qid":796498,"place":"Phnom Penh","lat":11.5564,"lon":104.9282,"precision":"city","confidence":"low","note":"Vietnamese capture of Phnom Penh"}
+{"qid":796632,"place":"Charlestown, Nevis","lat":17.1333,"lon":-62.6167,"precision":"city","confidence":"medium","note":"campus on Nevis"}
+{"qid":798442,"place":"White City Stadium","lat":51.512,"lon":-0.228,"precision":"site","confidence":"high","note":"1908 Olympic stadium"}
+{"qid":798632,"place":"Monte Carlo","lat":43.7384,"lon":7.4246,"precision":"city","confidence":"high","note":"race in Monte Carlo"}
+{"qid":799299,"place":"Jakarta","lat":-6.2088,"lon":106.8456,"precision":"city","confidence":"low","note":"killings began after Jakarta coup attempt"}
+{"qid":803970,"place":"Suntec Singapore Convention and Exhibition Centre","lat":1.2937,"lon":103.8575,"precision":"site","confidence":"high","note":"stated venue"}
+{"qid":807324,"place":"Huda Jama","lat":46.1587,"lon":15.1862,"precision":"site","confidence":"medium","note":"mine site of massacre"}
+{"qid":807824,"place":"Ireland","lat":53.4129,"lon":-8.2439,"precision":"country","confidence":"high","note":"nationwide referendum"}
+{"qid":810310,"place":"Prague","lat":50.0755,"lon":14.4378,"precision":"city","confidence":"high","note":"host city"}
+{"qid":810314,"place":"Helsinki","lat":60.1699,"lon":24.9384,"precision":"city","confidence":"medium","note":"main host city"}
+{"qid":810321,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"medium","note":"final held in Paris"}
+{"qid":810333,"place":"Montevideo","lat":-34.9011,"lon":-56.1645,"precision":"city","confidence":"high","note":"hosted by Montevideo"}
+{"qid":810341,"place":"Athens","lat":37.9838,"lon":23.7275,"precision":"city","confidence":"high","note":"single host city"}
+{"qid":814235,"place":"Leipzig","lat":51.3397,"lon":12.3731,"precision":"city","confidence":"high","note":"Battle of the Nations"}
+{"qid":815100,"place":"Kyoto","lat":35.0116,"lon":135.7681,"precision":"city","confidence":"high","note":"Sanjo Palace in Kyoto"}
+{"qid":815112,"place":"Antioch","lat":36.2,"lon":36.16,"precision":"city","confidence":"high","note":"besieged city"}
+{"qid":815160,"place":"Carthage","lat":36.8528,"lon":10.3233,"precision":"city","confidence":"high","note":"besieged city"}
+{"qid":815171,"place":"Luxembourg City","lat":49.6117,"lon":6.1319,"precision":"city","confidence":"high","note":"besieged fortress"}
+{"qid":815177,"place":"Lisbon","lat":38.7223,"lon":-9.1393,"precision":"city","confidence":"high","note":"besieged city"}
+{"qid":820466,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"high","note":"national league"}
+{"qid":823730,"place":"Torit","lat":4.41,"lon":32.57,"precision":"city","confidence":"medium","note":"war began with Torit mutiny"}
+{"qid":827857,"place":"White City Stadium","lat":51.512,"lon":-0.228,"precision":"site","confidence":"high","note":"1908 Olympic stadium"}
+{"qid":830315,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"high","note":"national cup"}
+{"qid":831707,"place":"Aspire Dome","lat":25.2625,"lon":51.4467,"precision":"site","confidence":"high","note":"stated venue"}
+{"qid":832162,"place":"Singapore","lat":1.3521,"lon":103.8198,"precision":"city","confidence":"high","note":"single host city"}
+{"qid":833229,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"high","note":"national cup"}
+{"qid":835483,"place":"Reykjavík","lat":64.1466,"lon":-21.9426,"precision":"city","confidence":"medium","note":"main host city"}
+{"qid":835881,"place":"Brussels","lat":50.8503,"lon":4.3517,"precision":"city","confidence":"low","note":"Evere airfield among targets"}
+{"qid":836310,"place":"Hong Kong","lat":22.3193,"lon":114.1694,"precision":"city","confidence":"high","note":"riots in Hong Kong"}
+{"qid":839710,"place":"Lidice","lat":50.1431,"lon":14.1903,"precision":"city","confidence":"high","note":"village destroyed"}
+{"qid":839806,"place":"Italy","lat":41.8719,"lon":12.5674,"precision":"country","confidence":"high","note":"national cup"}
+{"qid":839840,"place":"Italy","lat":41.8719,"lon":12.5674,"precision":"country","confidence":"high","note":"national cup"}
+{"qid":840118,"place":"Italy","lat":41.8719,"lon":12.5674,"precision":"country","confidence":"high","note":"national cup"}
+{"qid":840845,"place":"Thailand","lat":15.87,"lon":100.9925,"precision":"country","confidence":"high","note":"national league"}
+{"qid":842357,"place":"Kyoto","lat":35.0116,"lon":135.7681,"precision":"city","confidence":"high","note":"fighting in Kyoto"}
+{"qid":842882,"place":"Jordal Amfi","lat":59.9138,"lon":10.7893,"precision":"site","confidence":"medium","note":"main hockey venue"}
+{"qid":843662,"place":"Clerkenwell","lat":51.5246,"lon":-0.1055,"precision":"city","confidence":"medium","note":"Northampton Institute in Clerkenwell"}
+{"qid":843990,"place":"Pat Sin Leng","lat":22.4931,"lon":114.2078,"precision":"region","confidence":"high","note":"wildfire location"}
+{"qid":846128,"place":"Rotterdam","lat":51.9244,"lon":4.4777,"precision":"city","confidence":"high","note":"host city"}
+{"qid":847780,"place":"White City Stadium","lat":51.512,"lon":-0.228,"precision":"site","confidence":"high","note":"1908 Olympic stadium"}
+{"qid":849563,"place":"Grozny","lat":43.3178,"lon":45.6949,"precision":"city","confidence":"low","note":"Chechnya as conflict centre"}
+{"qid":852088,"place":"Myanmar","lat":21.9162,"lon":95.956,"precision":"country","confidence":"high","note":"nationwide conflict"}
+{"qid":852133,"place":"Ayacucho","lat":-13.1588,"lon":-74.2232,"precision":"city","confidence":"medium","note":"conflict began in Ayacucho"}
+{"qid":852958,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"no clear location"}
+{"qid":854206,"place":"Tehran","lat":35.6892,"lon":51.389,"precision":"city","confidence":"high","note":"main protests"}
+{"qid":855429,"place":"Ligny, Belgium","lat":50.5203,"lon":4.5667,"precision":"city","confidence":"high","note":"battle site"}
+{"qid":855531,"place":"United Kingdom","lat":55.3781,"lon":-3.436,"precision":"country","confidence":"high","note":"nationwide census"}
+{"qid":855639,"place":"Midland, Michigan","lat":43.6156,"lon":-84.2472,"precision":"city","confidence":"high","note":"headquarters"}
+{"qid":856168,"place":"Veracruz, Veracruz","lat":19.1738,"lon":-96.1342,"precision":"city","confidence":"high","note":"blockade of Veracruz"}
+{"qid":856650,"place":"Kuwait City","lat":29.3759,"lon":47.9774,"precision":"city","confidence":"high","note":"invasion of capital"}

@@ -1,0 +1,50 @@
+{"qid":17515503,"place":"Switzerland","lat":46.8182,"lon":8.2275,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":17516215,"place":"Besançon","lat":47.2378,"lon":6.0241,"precision":"city","confidence":"medium","note":"Greco-Roman host city"}
+{"qid":17524892,"place":"Portugal","lat":39.3999,"lon":-8.2245,"precision":"country","confidence":"medium","note":"nationwide cup"}
+{"qid":17624624,"place":"France","lat":46.6034,"lon":1.8883,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":17625873,"place":"Manta, Ecuador","lat":-0.9677,"lon":-80.7089,"precision":"city","confidence":"high","note":"host city"}
+{"qid":17625976,"place":"Andorra","lat":42.5063,"lon":1.5218,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":17631040,"place":"Anjalay Stadium","lat":-20.26,"lon":57.49,"precision":"site","confidence":"medium","note":"main venue"}
+{"qid":17633452,"place":"Guatemala City","lat":14.6349,"lon":-90.5069,"precision":"city","confidence":"medium","note":"federal capital"}
+{"qid":17637508,"place":"Monte Carlo","lat":43.7396,"lon":7.4276,"precision":"city","confidence":"medium","note":"rally base"}
+{"qid":17684684,"place":"Maseru","lat":-29.3167,"lon":27.4833,"precision":"city","confidence":"high","note":"crisis in capital"}
+{"qid":17984356,"place":"Mosul","lat":36.335,"lon":43.1189,"precision":"city","confidence":"medium","note":"defining city of war"}
+{"qid":17984373,"place":"Sinjar","lat":36.32,"lon":41.87,"precision":"city","confidence":"medium","note":"Sinjar offensive"}
+{"qid":17984806,"place":"Dublin","lat":53.3498,"lon":-6.2603,"precision":"city","confidence":"high","note":"main events in Dublin"}
+{"qid":17985232,"place":"Dhaka","lat":23.8103,"lon":90.4125,"precision":"city","confidence":"medium","note":"tour of Bangladesh"}
+{"qid":17985244,"place":"Colombo","lat":6.9271,"lon":79.8612,"precision":"city","confidence":"medium","note":"tour matches in Colombo"}
+{"qid":17986007,"place":"Mandalay","lat":21.975,"lon":96.0836,"precision":"city","confidence":"high","note":"bombed city"}
+{"qid":17991633,"place":"Italy","lat":41.8719,"lon":12.5674,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":17997460,"place":"Indonesia","lat":-0.7893,"lon":113.9213,"precision":"country","confidence":"high","note":"nationwide census"}
+{"qid":17997475,"place":"Indonesia","lat":-0.7893,"lon":113.9213,"precision":"country","confidence":"high","note":"nationwide census"}
+{"qid":18072189,"place":"Dhaka","lat":23.8103,"lon":90.4125,"precision":"city","confidence":"medium","note":"tour of Bangladesh"}
+{"qid":18085509,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":18109207,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":18114171,"place":"Brno","lat":49.1951,"lon":16.6068,"precision":"city","confidence":"high","note":"municipal referendum"}
+{"qid":18121212,"place":"Raqqa","lat":35.9528,"lon":39.0079,"precision":"city","confidence":"low","note":"campaign against ISIL"}
+{"qid":18124960,"place":"Stade de France","lat":48.9245,"lon":2.3601,"precision":"site","confidence":"medium","note":"final venue"}
+{"qid":18126771,"place":"Dhaka","lat":23.8103,"lon":90.4125,"precision":"city","confidence":"medium","note":"tour of Bangladesh"}
+{"qid":18128999,"place":"Barawe","lat":1.113,"lon":44.03,"precision":"city","confidence":"medium","note":"key objective town"}
+{"qid":18159592,"place":"Baghdad","lat":33.3152,"lon":44.3661,"precision":"city","confidence":"low","note":"intervention centred in Iraq"}
+{"qid":18159629,"place":"Baghdad","lat":33.3152,"lon":44.3661,"precision":"city","confidence":"low","note":"intervention centred in Iraq"}
+{"qid":18160935,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":""}
+{"qid":18164528,"place":"Baku","lat":40.4093,"lon":49.8671,"precision":"city","confidence":"medium","note":"capital, nationwide election"}
+{"qid":18204508,"place":"Laos","lat":19.8563,"lon":102.4955,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":18205170,"place":"Varamin","lat":35.325,"lon":51.6472,"precision":"city","confidence":"medium","note":"pass east of Varamin"}
+{"qid":18207247,"place":"Iraq","lat":33.2232,"lon":43.6793,"precision":"country","confidence":"low","note":"UK air operations"}
+{"qid":18208094,"place":"Syria","lat":34.8021,"lon":38.9968,"precision":"country","confidence":"low","note":"Turkish operations in Syria"}
+{"qid":18214240,"place":"Bangui","lat":4.3947,"lon":18.5582,"precision":"city","confidence":"high","note":"coup in Bangui"}
+{"qid":18286103,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"medium","note":"nationwide cup"}
+{"qid":18338011,"place":"Riva, Istanbul","lat":41.1833,"lon":29.2167,"precision":"city","confidence":"medium","note":"production location"}
+{"qid":18348350,"place":"Viti Levu","lat":-17.7134,"lon":178.065,"precision":"region","confidence":"medium","note":"highlands of Viti Levu"}
+{"qid":18348942,"place":"Iceland","lat":64.9631,"lon":-19.0208,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":18348987,"place":"Baku","lat":40.4093,"lon":49.8671,"precision":"city","confidence":"medium","note":"final city"}
+{"qid":18352449,"place":"Tripoli","lat":32.8872,"lon":13.1913,"precision":"city","confidence":"medium","note":"main Italian landing"}
+{"qid":18353087,"place":"Asunción","lat":-25.2637,"lon":-57.5759,"precision":"city","confidence":"high","note":"dictatorship seat"}
+{"qid":18353155,"place":"Zagreb","lat":45.815,"lon":15.9819,"precision":"city","confidence":"medium","note":"capital, nationwide election"}
+{"qid":18359245,"place":"Villa Bologna","lat":35.8944,"lon":14.4445,"precision":"site","confidence":"high","note":"stately home"}
+{"qid":18375265,"place":"Lusaka","lat":-15.3875,"lon":28.3228,"precision":"city","confidence":"medium","note":"capital, nationwide election"}
+{"qid":18375275,"place":"Lomé","lat":6.1319,"lon":1.2228,"precision":"city","confidence":"medium","note":"capital, nationwide election"}
+{"qid":18378719,"place":"Dhaka","lat":23.8103,"lon":90.4125,"precision":"city","confidence":"medium","note":"tour of Bangladesh"}
+{"qid":18379634,"place":"Dhaka","lat":23.8103,"lon":90.4125,"precision":"city","confidence":"medium","note":"tour of Bangladesh"}
+{"qid":18379653,"place":"Harare","lat":-17.8252,"lon":31.0335,"precision":"city","confidence":"medium","note":"tour of Zimbabwe"}

@@ -1,0 +1,50 @@
+{"qid":108127419,"place":"Hamid Karzai International Airport","lat":34.5659,"lon":69.2123,"precision":"site","confidence":"medium","note":"evacuation hub at Kabul airport"}
+{"qid":108131094,"place":"Pyongyang","lat":39.0392,"lon":125.7625,"precision":"city","confidence":"low","note":"capital"}
+{"qid":108167795,"place":"Stade Louis II","lat":43.7275,"lon":7.4153,"precision":"site","confidence":"high","note":"meeting venue"}
+{"qid":108183451,"place":"Galicia","lat":42.575,"lon":-8.1339,"precision":"region","confidence":"low","note":"killing in Galicia"}
+{"qid":108274219,"place":"Hamid Karzai International Airport","lat":34.5659,"lon":69.2123,"precision":"site","confidence":"high","note":"airlift from Kabul airport"}
+{"qid":108523769,"place":"Gyeongbokgung","lat":37.5796,"lon":126.977,"precision":"site","confidence":"high","note":"palace seized"}
+{"qid":108525899,"place":"Zagreb","lat":45.815,"lon":15.9819,"precision":"city","confidence":"high","note":"host city"}
+{"qid":108612847,"place":"Calais","lat":50.9513,"lon":1.8587,"precision":"city","confidence":"low","note":"siege of Calais 1346-47"}
+{"qid":108613521,"place":"Samokov","lat":42.3367,"lon":23.5566,"precision":"city","confidence":"high","note":"host city"}
+{"qid":108733451,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"low","note":"nationwide process"}
+{"qid":108733751,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"high","note":"main protests in Moscow"}
+{"qid":108872459,"place":"Lima","lat":-12.0464,"lon":-77.0428,"precision":"city","confidence":"low","note":"national league"}
+{"qid":108891053,"place":"Beirut","lat":33.8938,"lon":35.5018,"precision":"city","confidence":"high","note":"Tayouneh neighbourhood clashes"}
+{"qid":109105897,"place":"Loutraki","lat":37.9783,"lon":22.9769,"precision":"city","confidence":"high","note":"host town"}
+{"qid":109118336,"place":"Hanoi","lat":21.0285,"lon":105.8542,"precision":"city","confidence":"low","note":"capital"}
+{"qid":109237454,"place":"Algiers","lat":36.7538,"lon":3.0588,"precision":"city","confidence":"high","note":"largest shock hit Algiers"}
+{"qid":109255001,"place":"Astana","lat":51.1694,"lon":71.4491,"precision":"city","confidence":"low","note":"national league"}
+{"qid":109255076,"place":"Tbilisi","lat":41.7151,"lon":44.8271,"precision":"city","confidence":"high","note":"host city"}
+{"qid":109289690,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"league location unclear"}
+{"qid":109305067,"place":"Stockholm","lat":59.3293,"lon":18.0686,"precision":"city","confidence":"low","note":"national league"}
+{"qid":109329439,"place":"Bahrain International Circuit","lat":26.0325,"lon":50.5106,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":109350503,"place":"Frankfurt","lat":50.1109,"lon":8.6821,"precision":"city","confidence":"low","note":"DFB seat"}
+{"qid":109352718,"place":"Dublin","lat":53.3498,"lon":-6.2603,"precision":"city","confidence":"low","note":"national league"}
+{"qid":109423550,"place":"Doha","lat":25.2854,"lon":51.531,"precision":"city","confidence":"medium","note":"host country Qatar"}
+{"qid":109424502,"place":"Bahrain International Circuit","lat":26.0325,"lon":50.5106,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":109424718,"place":"Estadio Manuel Murillo Toro","lat":4.4389,"lon":-75.2322,"precision":"site","confidence":"medium","note":"match venue"}
+{"qid":109425781,"place":"Montevideo","lat":-34.9011,"lon":-56.1645,"precision":"city","confidence":"low","note":"national referendum"}
+{"qid":109535433,"place":"Houston","lat":29.7604,"lon":-95.3698,"precision":"city","confidence":"low","note":"US league, no single host"}
+{"qid":109561777,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"battle site uncertain"}
+{"qid":109563658,"place":"Rio de Janeiro","lat":-22.9068,"lon":-43.1729,"precision":"city","confidence":"low","note":"CBF seat"}
+{"qid":109591284,"place":"Rio de Janeiro","lat":-22.9068,"lon":-43.1729,"precision":"city","confidence":"low","note":"CBF seat"}
+{"qid":109595110,"place":"Kolkata","lat":22.5726,"lon":88.3639,"precision":"city","confidence":"high","note":"raids on Calcutta"}
+{"qid":109658514,"place":"Rabat","lat":34.0209,"lon":-6.8416,"precision":"city","confidence":"low","note":"capital"}
+{"qid":109729533,"place":"Honiara","lat":-9.4333,"lon":159.95,"precision":"city","confidence":"high","note":"riots in Honiara"}
+{"qid":109950200,"place":"Minsk","lat":53.9006,"lon":27.559,"precision":"city","confidence":"low","note":"national league"}
+{"qid":109975831,"place":"London","lat":51.5072,"lon":-0.1276,"precision":"city","confidence":"low","note":"final in London area"}
+{"qid":110070564,"place":"Bahrain International Circuit","lat":26.0325,"lon":50.5106,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":110080535,"place":"Tbilisi","lat":41.7151,"lon":44.8271,"precision":"city","confidence":"low","note":"national league"}
+{"qid":110105461,"place":"Xilin County","lat":24.49,"lon":105.095,"precision":"region","confidence":"low","note":"incident in Xilin"}
+{"qid":110141665,"place":"Oslo","lat":59.9139,"lon":10.7522,"precision":"city","confidence":"low","note":"national league"}
+{"qid":110223540,"place":"Pretoria","lat":-25.7479,"lon":28.2293,"precision":"city","confidence":"low","note":"Stats SA seat"}
+{"qid":110234540,"place":"Madagascar","lat":-18.7669,"lon":46.8691,"precision":"country","confidence":"low","note":"sank off northeast coast"}
+{"qid":110268722,"place":"La Paz","lat":-16.4897,"lon":-68.1193,"precision":"city","confidence":"low","note":"seat of government"}
+{"qid":110270870,"place":"Las Vegas","lat":36.1699,"lon":-115.1398,"precision":"city","confidence":"low","note":"finals city"}
+{"qid":110300621,"place":"Islamabad","lat":33.6844,"lon":73.0479,"precision":"city","confidence":"low","note":"capital"}
+{"qid":110355934,"place":"Póvoa de Santa Iria","lat":38.8573,"lon":-9.0647,"precision":"city","confidence":"high","note":"collision at the station"}
+{"qid":110369355,"place":"Vilnius","lat":54.6872,"lon":25.2797,"precision":"city","confidence":"low","note":"capital"}
+{"qid":110413718,"place":"Almaty","lat":43.222,"lon":76.8512,"precision":"city","confidence":"high","note":"worst unrest in Almaty"}
+{"qid":110458640,"place":"Wellington","lat":-41.2866,"lon":174.7756,"precision":"city","confidence":"low","note":"national census"}
+{"qid":110560472,"place":"Kyiv","lat":50.4501,"lon":30.5234,"precision":"city","confidence":"low","note":"capital"}

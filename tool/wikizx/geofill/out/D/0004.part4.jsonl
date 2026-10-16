@@ -1,0 +1,50 @@
+{"qid":856670,"place":"La Moneda Palace","lat":-33.4427,"lon":-70.6537,"precision":"site","confidence":"high","note":"palace bombed in coup"}
+{"qid":861018,"place":"Stadium Australia","lat":-33.8473,"lon":151.0634,"precision":"site","confidence":"medium","note":"final venue"}
+{"qid":862054,"place":"Beijing","lat":39.9042,"lon":116.4074,"precision":"city","confidence":"high","note":"main talks in Beijing"}
+{"qid":862577,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"high","note":"nationwide census"}
+{"qid":863449,"place":"Guangzhou","lat":23.1291,"lon":113.2644,"precision":"city","confidence":"high","note":"Games host city"}
+{"qid":863582,"place":"Toranomon","lat":35.6667,"lon":139.749,"precision":"city","confidence":"medium","note":"Toranomon intersection, Tokyo"}
+{"qid":867505,"place":"Nicosia","lat":35.1856,"lon":33.3823,"precision":"city","confidence":"medium","note":"railway terminus and HQ"}
+{"qid":869590,"place":"United Kingdom","lat":55.3781,"lon":-3.436,"precision":"country","confidence":"low","note":"UK tour"}
+{"qid":871508,"place":"Prater","lat":48.2167,"lon":16.3956,"precision":"site","confidence":"high","note":"fairground site"}
+{"qid":871937,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"no physical location"}
+{"qid":874784,"place":"Bar, Ukraine","lat":49.0833,"lon":27.6833,"precision":"city","confidence":"high","note":"confederation formed there"}
+{"qid":878102,"place":"Tripoli","lat":32.8872,"lon":13.1913,"precision":"city","confidence":"medium","note":"strikes on Tripoli"}
+{"qid":886480,"place":"Reichstag building","lat":52.5186,"lon":13.3762,"precision":"site","confidence":"high","note":"in front of Reichstag"}
+{"qid":888904,"place":"Beit Guvrin","lat":31.6128,"lon":34.8997,"precision":"city","confidence":"low","note":"battle site uncertain"}
+{"qid":889364,"place":"White City Stadium","lat":51.512,"lon":-0.228,"precision":"site","confidence":"high","note":"1908 Olympic stadium"}
+{"qid":890460,"place":"Basseterre","lat":17.2948,"lon":-62.7261,"precision":"city","confidence":"high","note":"campus in Basseterre"}
+{"qid":894465,"place":"Bosnia and Herzegovina","lat":43.9159,"lon":17.6791,"precision":"country","confidence":"high","note":"national league"}
+{"qid":898487,"place":"Saudi Arabia","lat":23.8859,"lon":45.0792,"precision":"country","confidence":"medium","note":"buildup based in Saudi Arabia"}
+{"qid":899657,"place":"Iraq","lat":33.2232,"lon":43.6793,"precision":"country","confidence":"high","note":"no-fly zones"}
+{"qid":900191,"place":"Bisley, Surrey","lat":51.3033,"lon":-0.66,"precision":"city","confidence":"high","note":"most events at Bisley"}
+{"qid":900808,"place":"Soviet Union","lat":61.524,"lon":105.3188,"precision":"country","confidence":"medium","note":"host country"}
+{"qid":900815,"place":"Norway","lat":60.472,"lon":8.4689,"precision":"country","confidence":"high","note":"host country"}
+{"qid":901743,"place":"Italy","lat":41.8719,"lon":12.5674,"precision":"country","confidence":"high","note":"national cup"}
+{"qid":901813,"place":"Italy","lat":41.8719,"lon":12.5674,"precision":"country","confidence":"high","note":"national cup"}
+{"qid":902042,"place":"Belgrade","lat":44.7866,"lon":20.4489,"precision":"city","confidence":"medium","note":"co-host city"}
+{"qid":902154,"place":"Romania","lat":45.9432,"lon":24.9668,"precision":"country","confidence":"high","note":"host country"}
+{"qid":904495,"place":"Luxembourg City","lat":49.6117,"lon":6.1319,"precision":"city","confidence":"high","note":"besieged fortress"}
+{"qid":908563,"place":"Singapore","lat":1.3521,"lon":103.8198,"precision":"city","confidence":"high","note":"host city"}
+{"qid":908579,"place":"Singapore","lat":1.3521,"lon":103.8198,"precision":"city","confidence":"high","note":"host city"}
+{"qid":908728,"place":"Franco-British Exhibition","lat":51.512,"lon":-0.228,"precision":"site","confidence":"medium","note":"fencing grounds of exhibition"}
+{"qid":909819,"place":"Abidjan","lat":5.36,"lon":-4.0083,"precision":"city","confidence":"medium","note":"main crisis centre"}
+{"qid":910660,"place":"Italy","lat":41.8719,"lon":12.5674,"precision":"country","confidence":"high","note":"national league"}
+{"qid":911233,"place":"İzmir","lat":38.4237,"lon":27.1428,"precision":"city","confidence":"low","note":"Smyrna destruction, defining moment"}
+{"qid":912124,"place":"Heian Shrine","lat":35.016,"lon":135.7826,"precision":"site","confidence":"medium","note":"procession ends there"}
+{"qid":913432,"place":"Mulhouse","lat":47.7508,"lon":7.3359,"precision":"city","confidence":"high","note":"host city"}
+{"qid":913884,"place":"Denmark","lat":56.2639,"lon":9.5018,"precision":"country","confidence":"high","note":"host country"}
+{"qid":916340,"place":"Krugersdorp","lat":-26.1,"lon":27.7667,"precision":"city","confidence":"low","note":"raiders defeated near there"}
+{"qid":917283,"place":"Herning","lat":56.1361,"lon":8.9761,"precision":"city","confidence":"medium","note":"final host city"}
+{"qid":918436,"place":"Nairobi","lat":-1.2921,"lon":36.8219,"precision":"city","confidence":"medium","note":"likely host city"}
+{"qid":918544,"place":"Orgreave","lat":53.4036,"lon":-1.3736,"precision":"city","confidence":"low","note":"Battle of Orgreave"}
+{"qid":918602,"place":"Quirino Grandstand","lat":14.5833,"lon":120.9794,"precision":"site","confidence":"high","note":"ceremony venue"}
+{"qid":920107,"place":"Wavre","lat":50.7167,"lon":4.6,"precision":"city","confidence":"high","note":"battle site"}
+{"qid":921243,"place":"Aomori","lat":40.8244,"lon":140.74,"precision":"city","confidence":"high","note":"played in Aomori"}
+{"qid":922661,"place":"Tripoli","lat":32.8872,"lon":13.1913,"precision":"city","confidence":"medium","note":"main strike target"}
+{"qid":922780,"place":"White City Stadium","lat":51.512,"lon":-0.228,"precision":"site","confidence":"high","note":"1908 Olympic stadium"}
+{"qid":923340,"place":"Kismayo","lat":-0.3582,"lon":42.5454,"precision":"city","confidence":"medium","note":"main objective of operation"}
+{"qid":923995,"place":"Seseña","lat":40.1119,"lon":-3.6969,"precision":"city","confidence":"high","note":"battle site"}
+{"qid":925322,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"album has no location"}
+{"qid":926451,"place":"White City Stadium","lat":51.512,"lon":-0.228,"precision":"site","confidence":"high","note":"1908 Olympic stadium"}
+{"qid":926905,"place":"Baghdad","lat":33.3152,"lon":44.3661,"precision":"city","confidence":"medium","note":"insurgency centre"}

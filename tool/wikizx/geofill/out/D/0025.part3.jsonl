@@ -1,0 +1,50 @@
+{"qid":131545270,"place":"Philadelphia","lat":39.9526,"lon":-75.1652,"precision":"city","confidence":"low","note":"US host city"}
+{"qid":131545271,"place":"Pasadena, California","lat":34.1478,"lon":-118.1445,"precision":"city","confidence":"low","note":"US host city"}
+{"qid":131545272,"place":"Orlando, Florida","lat":28.5384,"lon":-81.3789,"precision":"city","confidence":"low","note":"US host city"}
+{"qid":131546028,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"nationwide league"}
+{"qid":131549751,"place":"Auckland","lat":-36.8509,"lon":174.7645,"precision":"city","confidence":"low","note":"New Zealand competition, Auckland main"}
+{"qid":131550354,"place":"Philadelphia","lat":39.9526,"lon":-75.1652,"precision":"city","confidence":"low","note":"US host city"}
+{"qid":131550355,"place":"Miami","lat":25.7617,"lon":-80.1918,"precision":"city","confidence":"low","note":"US host city"}
+{"qid":131563330,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"nationwide league"}
+{"qid":131583685,"place":"Berat","lat":40.7058,"lon":19.9522,"precision":"city","confidence":"low","note":"Muzaka seat"}
+{"qid":131630211,"place":"Kallang","lat":1.3114,"lon":103.8714,"precision":"city","confidence":"high","note":"Kallang Tennis Hub"}
+{"qid":131632244,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"multi-country competition"}
+{"qid":131673464,"place":"Buenos Aires","lat":-34.6037,"lon":-58.3816,"precision":"city","confidence":"high","note":"film industry centre"}
+{"qid":131686212,"place":"Sanaa","lat":15.3694,"lon":44.191,"precision":"city","confidence":"low","note":"Himyar capital region"}
+{"qid":131742733,"place":"Kukës","lat":42.0767,"lon":20.4219,"precision":"city","confidence":"low","note":"border area fighting"}
+{"qid":131913965,"place":"Bucharest","lat":44.4268,"lon":26.1025,"precision":"city","confidence":"high","note":"protests in capital"}
+{"qid":131986088,"place":"Syriam","lat":16.7667,"lon":96.25,"precision":"city","confidence":"low","note":"Portuguese held Syriam"}
+{"qid":132477617,"place":"Los Angeles","lat":34.0522,"lon":-118.2437,"precision":"city","confidence":"high","note":"protests began in Los Angeles"}
+{"qid":132717502,"place":"Mexico City","lat":19.4326,"lon":-99.1332,"precision":"city","confidence":"medium","note":"clashes began in Mexico City"}
+{"qid":132776772,"place":"Luanda","lat":-8.839,"lon":13.2894,"precision":"city","confidence":"medium","note":"Portuguese base in Angola"}
+{"qid":132830196,"place":"Akora Khattak","lat":33.999,"lon":72.121,"precision":"city","confidence":"high","note":"seminary bombing"}
+{"qid":133289482,"place":"Treviso","lat":45.6669,"lon":12.243,"precision":"city","confidence":"low","note":"hosted in Italy"}
+{"qid":133321437,"place":"Malé","lat":4.1755,"lon":73.5093,"precision":"city","confidence":"medium","note":"Maldivian capital"}
+{"qid":133500997,"place":"Douglas, Isle of Man","lat":54.15,"lon":-4.48,"precision":"city","confidence":"medium","note":"island capital"}
+{"qid":133504289,"place":"Fukuoka","lat":33.5904,"lon":130.4017,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":133521478,"place":"Lyon","lat":45.764,"lon":4.8357,"precision":"city","confidence":"low","note":"Gallic prefecture seat"}
+{"qid":133574091,"place":"Mandalay","lat":21.975,"lon":96.0836,"precision":"city","confidence":"high","note":"epicentre near Mandalay"}
+{"qid":133730427,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"nationwide league"}
+{"qid":133844243,"place":"Jalalabad Airport","lat":34.3994,"lon":70.4986,"precision":"site","confidence":"high","note":"crash site"}
+{"qid":133999044,"place":"Sistine Chapel","lat":41.9029,"lon":12.4545,"precision":"site","confidence":"high","note":"conclave venue"}
+{"qid":134142653,"place":"Abu Dhabi","lat":24.4539,"lon":54.3773,"precision":"city","confidence":"medium","note":"Abu Dhabi royal family plot"}
+{"qid":134178656,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"medium","note":"state visit, Rome main"}
+{"qid":134297729,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"low","note":"host country France"}
+{"qid":134303283,"place":"Salé","lat":34.0531,"lon":-6.7985,"precision":"city","confidence":"high","note":"bombarded city"}
+{"qid":134303579,"place":"Sigatoka","lat":-18.1417,"lon":177.5086,"precision":"city","confidence":"high","note":"Lawaqa Park venue"}
+{"qid":134379167,"place":"Pahalgam","lat":34.0161,"lon":75.315,"precision":"city","confidence":"low","note":"triggered by Pahalgam attack"}
+{"qid":134574119,"place":"Singapore Indoor Stadium","lat":1.3002,"lon":103.8738,"precision":"site","confidence":"high","note":"tournament venue"}
+{"qid":134697017,"place":"Kampala","lat":0.3476,"lon":32.5825,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":134713370,"place":"Cairo","lat":30.0444,"lon":31.2357,"precision":"city","confidence":"low","note":"march assembled in Cairo"}
+{"qid":134877437,"place":"Sharm El Sheikh","lat":27.9158,"lon":34.33,"precision":"city","confidence":"high","note":"pageant venue"}
+{"qid":134932668,"place":"OCBC Aquatic Centre","lat":1.303,"lon":103.875,"precision":"site","confidence":"high","note":"event venue"}
+{"qid":134953597,"place":"Malta Fairs and Conventions Centre","lat":35.8973,"lon":14.4152,"precision":"site","confidence":"high","note":"contest venue"}
+{"qid":134963803,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"nationwide league"}
+{"qid":134995652,"place":"East Rutherford, New Jersey","lat":40.8135,"lon":-74.0745,"precision":"city","confidence":"medium","note":"final at MetLife Stadium"}
+{"qid":135350390,"place":"Fiji","lat":-17.7134,"lon":178.065,"precision":"country","confidence":"low","note":"expedition surveyed Fiji"}
+{"qid":135474658,"place":"Sokoto","lat":13.0622,"lon":5.2339,"precision":"city","confidence":"high","note":"battle at Sokoto"}
+{"qid":135642860,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"nationwide league"}
+{"qid":135666149,"place":"OCBC Aquatic Centre","lat":1.303,"lon":103.875,"precision":"site","confidence":"high","note":"event venue"}
+{"qid":135784007,"place":"Masafer Yatta","lat":31.425,"lon":35.1961,"precision":"region","confidence":"medium","note":"killed near Umm al-Khair"}
+{"qid":135798184,"place":"Bandar Seri Begawan","lat":4.9031,"lon":114.9398,"precision":"city","confidence":"medium","note":"Brunei capital attacked"}
+{"qid":135911622,"place":"Yerevan","lat":40.1792,"lon":44.4991,"precision":"city","confidence":"low","note":"blockade of Armenia"}

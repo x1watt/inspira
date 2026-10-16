@@ -1,0 +1,50 @@
+{"qid":87722485,"place":"Baku","lat":40.4093,"lon":49.8671,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87729500,"place":"Victoria, Seychelles","lat":-4.6191,"lon":55.4513,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87729501,"place":"Windhoek","lat":-22.5609,"lon":17.0658,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87733671,"place":"Doha","lat":25.2854,"lon":51.531,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87739744,"place":"Saint Peter Port","lat":49.456,"lon":-2.535,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87740092,"place":"Saint Helier","lat":49.1868,"lon":-2.1066,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87742064,"place":"Malabo","lat":3.75,"lon":8.7833,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87742085,"place":"Bangui","lat":4.3947,"lon":18.5582,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87742114,"place":"Brazzaville","lat":-4.2634,"lon":15.2429,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87743173,"place":"North Nicosia","lat":35.1856,"lon":33.3823,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87745903,"place":"Dakar","lat":14.7167,"lon":-17.4677,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87766242,"place":"Monrovia","lat":6.3004,"lon":-10.7969,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87770645,"place":"Mogadishu","lat":2.0469,"lon":45.3182,"precision":"city","confidence":"high","note":"first case in Mogadishu"}
+{"qid":87770827,"place":"Dar es Salaam","lat":-6.7924,"lon":39.2083,"precision":"city","confidence":"low","note":"largest city"}
+{"qid":87781572,"place":"Cotonou","lat":6.3703,"lon":2.3912,"precision":"city","confidence":"medium","note":"largest city"}
+{"qid":87814953,"place":"Damascus","lat":33.5138,"lon":36.2765,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87836826,"place":"Dili","lat":-8.5569,"lon":125.5603,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87887813,"place":"Podgorica","lat":42.4304,"lon":19.2594,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87899016,"place":"Banjul","lat":13.4549,"lon":-16.579,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87899022,"place":"Djibouti (city)","lat":11.5721,"lon":43.1456,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87902902,"place":"Bridgetown","lat":13.1132,"lon":-59.5988,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87902950,"place":"Bishkek","lat":42.8746,"lon":74.5698,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87906931,"place":"Tórshavn","lat":62.0097,"lon":-6.7716,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87936974,"place":"San Salvador","lat":13.6929,"lon":-89.2182,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87975745,"place":"Suva","lat":-18.1416,"lon":178.4419,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87976629,"place":"Lusaka","lat":-15.3875,"lon":28.3228,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87976701,"place":"Managua","lat":12.1364,"lon":-86.2514,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87979033,"place":"Port Louis","lat":-20.1609,"lon":57.5012,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":88082534,"place":"Luanda","lat":-8.839,"lon":13.2894,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":88082670,"place":"N'Djamena","lat":12.1348,"lon":15.0557,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":88082693,"place":"Port-au-Prince","lat":18.5944,"lon":-72.3074,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":88082809,"place":"Niamey","lat":13.5116,"lon":2.1254,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":88082922,"place":"Philipsburg, Sint Maarten","lat":18.0237,"lon":-63.0458,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":88137634,"place":"Port Moresby","lat":-9.4438,"lon":147.1803,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":88164033,"place":"Harare","lat":-17.8252,"lon":31.0335,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":88225303,"place":"Antananarivo","lat":-18.8792,"lon":47.5079,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":88263719,"place":"Kampala","lat":0.3476,"lon":32.5825,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":88335426,"place":"Maputo","lat":-25.9692,"lon":32.5732,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":88356648,"place":"Roseau","lat":15.301,"lon":-61.387,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":88371105,"place":"Asmara","lat":15.3229,"lon":38.9251,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":88460663,"place":"Yangon","lat":16.8409,"lon":96.1735,"precision":"city","confidence":"low","note":"largest city"}
+{"qid":88521330,"place":"Vientiane","lat":17.9757,"lon":102.6331,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":88556836,"place":"Bamako","lat":12.6392,"lon":-8.0029,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":88561418,"place":"Belmopan","lat":17.251,"lon":-88.759,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":88568089,"place":"Tripoli","lat":32.8872,"lon":13.1913,"precision":"city","confidence":"high","note":"first case in Tripoli"}
+{"qid":88617000,"place":"Bissau","lat":11.8636,"lon":-15.5977,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":88713785,"place":"St. George's, Grenada","lat":12.0561,"lon":-61.7488,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":88864139,"place":"Basseterre","lat":17.2955,"lon":-62.725,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":89127366,"place":"Freetown","lat":8.4657,"lon":-13.2317,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":89164046,"place":"Gaborone","lat":-24.6282,"lon":25.9231,"precision":"city","confidence":"medium","note":"capital"}

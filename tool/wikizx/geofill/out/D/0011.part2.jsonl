@@ -1,0 +1,50 @@
+{"qid":4330027,"place":"Sderot","lat":31.525,"lon":34.5964,"precision":"city","confidence":"medium","note":"most targeted town"}
+{"qid":4331407,"place":"Odesa","lat":46.4825,"lon":30.7233,"precision":"city","confidence":"high","note":"offensive aimed at Odesa"}
+{"qid":4335241,"place":"Phnom Penh","lat":11.5564,"lon":104.9282,"precision":"city","confidence":"high","note":"evacuation from capital"}
+{"qid":4335258,"place":"Maseru","lat":-29.3167,"lon":27.4833,"precision":"city","confidence":"high","note":"intervention in capital"}
+{"qid":4335260,"place":"Phúc Yên","lat":21.2333,"lon":105.7167,"precision":"city","confidence":"low","note":"air base targeted"}
+{"qid":4347725,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"nationwide elections"}
+{"qid":4350749,"place":"Belarus","lat":53.7098,"lon":27.9534,"precision":"country","confidence":"high","note":"nationwide census"}
+{"qid":4350750,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"high","note":"nationwide census"}
+{"qid":4350759,"place":"Lithuania","lat":55.1694,"lon":23.8813,"precision":"country","confidence":"high","note":"nationwide census"}
+{"qid":4350760,"place":"Lithuania","lat":55.1694,"lon":23.8813,"precision":"country","confidence":"high","note":"nationwide census"}
+{"qid":4350764,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"medium","note":"Soviet capital"}
+{"qid":4350766,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"medium","note":"Soviet capital"}
+{"qid":4350767,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"medium","note":"Soviet capital"}
+{"qid":4350770,"place":"Estonia","lat":58.5953,"lon":25.0136,"precision":"country","confidence":"high","note":"nationwide census"}
+{"qid":4351045,"place":"Lod","lat":31.9515,"lon":34.8957,"precision":"city","confidence":"high","note":"abducted in Lod"}
+{"qid":4366849,"place":"Poland","lat":51.9194,"lon":19.1451,"precision":"country","confidence":"low","note":"border battles"}
+{"qid":4373449,"place":"Russia","lat":61.524,"lon":105.3188,"precision":"country","confidence":"medium","note":"crisis across Russia"}
+{"qid":4381833,"place":"E. T. Joshua Airport","lat":13.1444,"lon":-61.2108,"precision":"site","confidence":"high","note":"airport itself"}
+{"qid":4382075,"place":"Mexico City International Airport","lat":19.4361,"lon":-99.0719,"precision":"site","confidence":"high","note":"hijacked plane landed there"}
+{"qid":4392484,"place":"Tehran","lat":35.6892,"lon":51.389,"precision":"city","confidence":"high","note":"embassy in Tehran"}
+{"qid":4393805,"place":"Tiraspol","lat":46.8403,"lon":29.6433,"precision":"city","confidence":"medium","note":"Transnistrian capital"}
+{"qid":4422669,"place":"Sistine Chapel","lat":41.9029,"lon":12.4545,"precision":"site","confidence":"high","note":"conclave venue"}
+{"qid":4446152,"place":"Kaifeng","lat":34.7973,"lon":114.3076,"precision":"city","confidence":"medium","note":"Song capital fell"}
+{"qid":4462644,"place":"Dzungaria","lat":44.0,"lon":85.0,"precision":"region","confidence":"medium","note":"genocide region"}
+{"qid":4463092,"place":"Dublin","lat":53.3498,"lon":-6.2603,"precision":"city","confidence":"medium","note":"Irish government seat"}
+{"qid":4465891,"place":"Kars","lat":40.6013,"lon":43.0975,"precision":"city","confidence":"low","note":"key battle at Kars"}
+{"qid":4475947,"place":"Belgrade","lat":44.8176,"lon":20.4569,"precision":"city","confidence":"high","note":"RTS building bombed"}
+{"qid":4488927,"place":"Cyrenaica","lat":31.0,"lon":22.0,"precision":"region","confidence":"medium","note":"defining campaign region"}
+{"qid":4499404,"place":"Drancy internment camp","lat":48.9235,"lon":2.4454,"precision":"site","confidence":"medium","note":"main deportation camp"}
+{"qid":4511179,"place":"Santiago","lat":-33.4489,"lon":-70.6693,"precision":"city","confidence":"high","note":"host city"}
+{"qid":4513932,"place":"Nikšić","lat":42.7731,"lon":18.9445,"precision":"city","confidence":"low","note":"key Montenegrin gain"}
+{"qid":4515032,"place":"Dublin","lat":53.3498,"lon":-6.2603,"precision":"city","confidence":"medium","note":"Irish government seat"}
+{"qid":4515158,"place":"Dublin","lat":53.3498,"lon":-6.2603,"precision":"city","confidence":"medium","note":"Irish government seat"}
+{"qid":4526167,"place":"Thailand","lat":15.87,"lon":100.9925,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":4540741,"place":"Apostolic Palace","lat":41.904,"lon":12.4565,"precision":"site","confidence":"medium","note":"conclave venue"}
+{"qid":4541682,"place":"Apostolic Palace","lat":41.904,"lon":12.4565,"precision":"site","confidence":"medium","note":"conclave venue"}
+{"qid":4541853,"place":"Apostolic Palace","lat":41.904,"lon":12.4565,"precision":"site","confidence":"high","note":"conclave venue"}
+{"qid":4542246,"place":"Apostolic Palace","lat":41.904,"lon":12.4565,"precision":"site","confidence":"high","note":"conclave venue"}
+{"qid":4542665,"place":"Apostolic Palace","lat":41.904,"lon":12.4565,"precision":"site","confidence":"high","note":"conclave venue"}
+{"qid":4543188,"place":"Apostolic Palace","lat":41.904,"lon":12.4565,"precision":"site","confidence":"medium","note":"conclave venue"}
+{"qid":4543417,"place":"Madrid","lat":40.4168,"lon":-3.7038,"precision":"city","confidence":"high","note":"bombing in Madrid"}
+{"qid":4546993,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"concert tour"}
+{"qid":4547039,"place":"Manila","lat":14.5995,"lon":120.9842,"precision":"city","confidence":"low","note":"ceremony likely Manila"}
+{"qid":4548624,"place":"Kamakura","lat":35.3192,"lon":139.5467,"precision":"city","confidence":"high","note":"earthquake at Kamakura"}
+{"qid":4548813,"place":"Manila","lat":14.5995,"lon":120.9842,"precision":"city","confidence":"low","note":"ceremony likely Manila"}
+{"qid":4549439,"place":"Manila","lat":14.5995,"lon":120.9842,"precision":"city","confidence":"low","note":"ceremony likely Manila"}
+{"qid":4550011,"place":"Manila","lat":14.5995,"lon":120.9842,"precision":"city","confidence":"low","note":"ceremony likely Manila"}
+{"qid":4550957,"place":"Manila","lat":14.5995,"lon":120.9842,"precision":"city","confidence":"low","note":"ceremony likely Manila"}
+{"qid":4552144,"place":"Manila","lat":14.5995,"lon":120.9842,"precision":"city","confidence":"low","note":"ceremony likely Manila"}
+{"qid":4553250,"place":"Manama","lat":26.2285,"lon":50.586,"precision":"city","confidence":"low","note":"conquest of Bahrain"}

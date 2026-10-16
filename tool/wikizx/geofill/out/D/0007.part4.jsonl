@@ -1,0 +1,50 @@
+{"qid":2163579,"place":"Saint Petersburg","lat":59.9343,"lon":30.3351,"precision":"city","confidence":"low","note":"imperial capital, census HQ"}
+{"qid":2165215,"place":"Baghdad","lat":33.3152,"lon":44.3661,"precision":"city","confidence":"medium","note":"insurgency centred on Baghdad"}
+{"qid":2166222,"place":"Heidelberg","lat":49.3988,"lon":8.6724,"precision":"city","confidence":"low","note":"battle near Heidelberg"}
+{"qid":2191557,"place":"Kyiv","lat":50.4501,"lon":30.5234,"precision":"city","confidence":"low","note":"cup final in Kyiv"}
+{"qid":2196549,"place":"Douala","lat":4.0511,"lon":9.7679,"precision":"city","confidence":"low","note":"final winner Oryx Douala"}
+{"qid":2209841,"place":"Quirinal Palace","lat":41.9009,"lon":12.4872,"precision":"site","confidence":"medium","note":"conclave venue"}
+{"qid":2209960,"place":"Arras","lat":50.291,"lon":2.7775,"precision":"city","confidence":"low","note":"Treaty of Arras 1482"}
+{"qid":2222257,"place":"Białystok","lat":53.1325,"lon":23.1688,"precision":"city","confidence":"high","note":"offensive aimed at Białystok"}
+{"qid":2224419,"place":"San Pietro in Vincoli","lat":41.8935,"lon":12.493,"precision":"site","confidence":"high","note":"election site"}
+{"qid":2225555,"place":"Sark","lat":49.4328,"lon":-2.3583,"precision":"region","confidence":"high","note":"raid on Sark"}
+{"qid":2237014,"place":"Malešov","lat":49.95,"lon":15.2833,"precision":"city","confidence":"high","note":"battle at Malešov"}
+{"qid":2237381,"place":"Ōtsu","lat":35.0045,"lon":135.8686,"precision":"city","confidence":"medium","note":"Awazu in Ōtsu"}
+{"qid":2237461,"place":"Cropredy","lat":52.1083,"lon":-1.32,"precision":"city","confidence":"high","note":"battle at Cropredy"}
+{"qid":2238977,"place":"Saint Helier","lat":49.1858,"lon":-2.11,"precision":"city","confidence":"medium","note":"occupation capital of Jersey"}
+{"qid":2240430,"place":"White City Stadium","lat":51.512,"lon":-0.224,"precision":"site","confidence":"high","note":"1908 Olympics stadium"}
+{"qid":2245808,"place":"Los Angeles","lat":34.0522,"lon":-118.2437,"precision":"city","confidence":"medium","note":"major repatriation drive"}
+{"qid":2247222,"place":"Vienna","lat":48.2082,"lon":16.3738,"precision":"city","confidence":"high","note":"host city"}
+{"qid":2253560,"place":"Taif","lat":21.2703,"lon":40.4158,"precision":"city","confidence":"medium","note":"Saudi host city"}
+{"qid":2259304,"place":"Battle of Crécy","lat":50.2542,"lon":1.8847,"precision":"site","confidence":"low","note":"defining battle of phase"}
+{"qid":2262274,"place":"Johannesburg","lat":-26.2041,"lon":28.0473,"precision":"city","confidence":"high","note":"host city"}
+{"qid":2270683,"place":"Rio de Janeiro","lat":-22.9068,"lon":-43.1729,"precision":"city","confidence":"low","note":"nationwide, no single city"}
+{"qid":2279763,"place":"Santiago","lat":-33.4489,"lon":-70.6693,"precision":"city","confidence":"high","note":"coup attempt in capital"}
+{"qid":2280517,"place":"City of San Marino","lat":43.9367,"lon":12.4473,"precision":"city","confidence":"medium","note":"battle in San Marino"}
+{"qid":2280725,"place":"Hà Tiên","lat":10.3833,"lon":104.4883,"precision":"city","confidence":"medium","note":"Siamese attack on Hà Tiên"}
+{"qid":2281470,"place":"Zakho","lat":37.1444,"lon":42.6811,"precision":"city","confidence":"medium","note":"northern Iraq safe haven"}
+{"qid":2281806,"place":"Jerusalem","lat":31.7683,"lon":35.2137,"precision":"city","confidence":"high","note":"Western Wall riots"}
+{"qid":2287141,"place":"Los Angeles","lat":34.0522,"lon":-118.2437,"precision":"city","confidence":"medium","note":"champion Lakers"}
+{"qid":2289095,"place":"Singapore Indoor Stadium","lat":1.301,"lon":103.8745,"precision":"site","confidence":"high","note":"venue"}
+{"qid":2289105,"place":"Singapore Indoor Stadium","lat":1.301,"lon":103.8745,"precision":"site","confidence":"high","note":"venue"}
+{"qid":2289130,"place":"Singapore","lat":1.3521,"lon":103.8198,"precision":"city","confidence":"high","note":"drill hall in Singapore"}
+{"qid":2289133,"place":"Singapore","lat":1.3521,"lon":103.8198,"precision":"city","confidence":"high","note":"drill hall in Singapore"}
+{"qid":2289135,"place":"Singapore","lat":1.3521,"lon":103.8198,"precision":"city","confidence":"high","note":"held in Singapore"}
+{"qid":2294549,"place":"Rio de Janeiro","lat":-22.9068,"lon":-43.1729,"precision":"city","confidence":"high","note":"proclaimed in Rio"}
+{"qid":2294680,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"concert tour"}
+{"qid":2299590,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"concert tour"}
+{"qid":2301116,"place":"Havana","lat":23.1136,"lon":-82.3666,"precision":"city","confidence":"medium","note":"Cuban crisis, capital"}
+{"qid":2309855,"place":"Los Angeles","lat":34.0522,"lon":-118.2437,"precision":"city","confidence":"medium","note":"champion Lakers"}
+{"qid":2309953,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"medium","note":"champion Knicks"}
+{"qid":2313803,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"low","note":"Soviet league centre"}
+{"qid":2326408,"place":"Los Angeles","lat":34.0522,"lon":-118.2437,"precision":"city","confidence":"medium","note":"champion Lakers"}
+{"qid":2326426,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"medium","note":"champion Bullets"}
+{"qid":2326460,"place":"Oakland, California","lat":37.8044,"lon":-122.2712,"precision":"city","confidence":"medium","note":"champion Warriors"}
+{"qid":2326536,"place":"Portland, Oregon","lat":45.5152,"lon":-122.6784,"precision":"city","confidence":"medium","note":"champion Trail Blazers"}
+{"qid":2327885,"place":"Seattle","lat":47.6062,"lon":-122.3321,"precision":"city","confidence":"medium","note":"champion SuperSonics"}
+{"qid":2327901,"place":"Philadelphia","lat":39.9526,"lon":-75.1652,"precision":"city","confidence":"medium","note":"champion 76ers"}
+{"qid":2327920,"place":"Milwaukee","lat":43.0389,"lon":-87.9065,"precision":"city","confidence":"medium","note":"champion Bucks"}
+{"qid":2327937,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"medium","note":"champion Knicks"}
+{"qid":2331133,"place":"Shibuya Station","lat":35.658,"lon":139.7016,"precision":"site","confidence":"high","note":"near Shibuya Station"}
+{"qid":2342086,"place":"Jakarta","lat":-6.2088,"lon":106.8456,"precision":"city","confidence":"medium","note":"issued from Batavia"}
+{"qid":2348116,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"low","note":"census HQ"}

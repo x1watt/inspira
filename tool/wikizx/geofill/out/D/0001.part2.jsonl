@@ -1,0 +1,50 @@
+{"qid":68969,"place":"Vukovar","lat":45.35,"lon":18.9981,"precision":"city","confidence":"medium","note":"defining battle of Vukovar"}
+{"qid":73140,"place":"Kyoto","lat":35.0116,"lon":135.7681,"precision":"city","confidence":"high","note":"plot in Kyoto"}
+{"qid":73974,"place":"Berlin","lat":52.5189,"lon":13.3652,"precision":"city","confidence":"high","note":"institute in Tiergarten, Berlin"}
+{"qid":74009,"place":"Roseau","lat":15.3,"lon":-61.3833,"precision":"city","confidence":"high","note":"capital taken"}
+{"qid":74281,"place":"Miami Beach, Florida","lat":25.7907,"lon":-80.13,"precision":"city","confidence":"high","note":"pageant at auditorium"}
+{"qid":74302,"place":"Kamianets-Podilskyi","lat":48.6845,"lon":26.5851,"precision":"city","confidence":"low","note":"campaign in Podolia"}
+{"qid":74623,"place":"Vienna","lat":48.2082,"lon":16.3738,"precision":"city","confidence":"medium","note":"siege and relief of Vienna"}
+{"qid":75665,"place":"Thessaly","lat":39.5,"lon":22.0,"precision":"region","confidence":"low","note":"Cynoscephalae decisive battle"}
+{"qid":75756,"place":"Kinshasa","lat":-4.4419,"lon":15.2663,"precision":"city","confidence":"medium","note":"capital of conflict"}
+{"qid":75984,"place":"Buenos Aires","lat":-34.6037,"lon":-58.3816,"precision":"city","confidence":"medium","note":"junta seat"}
+{"qid":76562,"place":"Belgrade","lat":44.7866,"lon":20.4489,"precision":"city","confidence":"high","note":"host city"}
+{"qid":80034,"place":"Constantinople","lat":41.0082,"lon":28.9784,"precision":"city","confidence":"medium","note":"arrests 24 April 1915"}
+{"qid":85125,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"low","note":"ordered from Moscow"}
+{"qid":94414,"place":"Orte, Lazio","lat":42.46,"lon":12.3867,"precision":"city","confidence":"low","note":"battle near Lake Vadimo"}
+{"qid":102920,"place":"Estádio da Luz","lat":38.7527,"lon":-9.1847,"precision":"site","confidence":"medium","note":"final venue"}
+{"qid":107802,"place":"Baghdad","lat":33.3152,"lon":44.3661,"precision":"city","confidence":"high","note":"invasion objective"}
+{"qid":112501,"place":"Kunming","lat":25.0389,"lon":102.7183,"precision":"city","confidence":"medium","note":"Wu Sangui base"}
+{"qid":113619,"place":"Miami","lat":25.7617,"lon":-80.1918,"precision":"city","confidence":"low","note":"champions' city"}
+{"qid":116004,"place":"Shipka Pass","lat":42.75,"lon":25.3167,"precision":"site","confidence":"high","note":"battle at pass"}
+{"qid":117571,"place":"Auschwitz concentration camp","lat":50.0263,"lon":19.2036,"precision":"site","confidence":"medium","note":"main extermination site"}
+{"qid":118645,"place":"Tórshavn","lat":62.0079,"lon":-6.7718,"precision":"city","confidence":"medium","note":"Faroese league"}
+{"qid":122100,"place":"Vyborg","lat":60.709,"lon":28.75,"precision":"city","confidence":"low","note":"major front city"}
+{"qid":124753,"place":"Stade de France","lat":48.9245,"lon":2.3601,"precision":"site","confidence":"medium","note":"final venue"}
+{"qid":126065,"place":"Tehran","lat":35.6892,"lon":51.389,"precision":"city","confidence":"high","note":"capital of revolution"}
+{"qid":126528,"place":"Vatican City","lat":41.9029,"lon":12.4534,"precision":"city","confidence":"high","note":"signed at Vatican"}
+{"qid":127299,"place":"Kolín","lat":50.0281,"lon":15.2003,"precision":"city","confidence":"high","note":"battle at Kolín"}
+{"qid":127751,"place":"Towton","lat":53.83,"lon":-1.26,"precision":"city","confidence":"low","note":"bloodiest battle"}
+{"qid":129053,"place":"Delhi","lat":28.6139,"lon":77.209,"precision":"city","confidence":"low","note":"partition decided in Delhi"}
+{"qid":130783,"place":"Munich","lat":48.1351,"lon":11.582,"precision":"city","confidence":"medium","note":"purge centred in Munich"}
+{"qid":131239,"place":"De Kuip","lat":51.8939,"lon":4.5231,"precision":"site","confidence":"medium","note":"final venue"}
+{"qid":131297,"place":"Kigali","lat":-1.9441,"lon":30.0619,"precision":"city","confidence":"high","note":"capital of genocide"}
+{"qid":133986,"place":"Ljubljana","lat":46.0569,"lon":14.5058,"precision":"city","confidence":"low","note":"final host city"}
+{"qid":137263,"place":"Miami","lat":25.7617,"lon":-80.1918,"precision":"city","confidence":"low","note":"champions' city"}
+{"qid":137920,"place":"Abu Dhabi","lat":24.4539,"lon":54.3773,"precision":"city","confidence":"medium","note":"host city"}
+{"qid":138213,"place":"Beaufort, North Carolina","lat":34.7182,"lon":-76.6638,"precision":"city","confidence":"medium","note":"term coined there"}
+{"qid":139871,"place":"Kyoto","lat":35.0116,"lon":135.7681,"precision":"city","confidence":"high","note":"fighting at palace gate"}
+{"qid":142529,"place":"Algiers","lat":36.7538,"lon":3.0588,"precision":"city","confidence":"medium","note":"capital of conflict"}
+{"qid":143304,"place":"Tehran","lat":35.6892,"lon":51.389,"precision":"city","confidence":"high","note":"protests in Tehran"}
+{"qid":146579,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"concert tour"}
+{"qid":150812,"place":"Warsaw","lat":52.2297,"lon":21.0122,"precision":"city","confidence":"medium","note":"capital besieged"}
+{"qid":151349,"place":"Berlin","lat":52.52,"lon":13.405,"precision":"city","confidence":"high","note":"blockaded city"}
+{"qid":151423,"place":"Berlin","lat":52.52,"lon":13.405,"precision":"city","confidence":"high","note":"held in Berlin"}
+{"qid":151663,"place":"Villalar de los Comuneros","lat":41.7167,"lon":-5.0,"precision":"city","confidence":"medium","note":"decisive battle of Villalar"}
+{"qid":151867,"place":"Munich","lat":48.1351,"lon":11.582,"precision":"city","confidence":"medium","note":"final city"}
+{"qid":152004,"place":"Antofagasta","lat":-23.6509,"lon":-70.3975,"precision":"city","confidence":"medium","note":"war began with occupation"}
+{"qid":152646,"place":"Wyoming","lat":43.0,"lon":-107.5,"precision":"region","confidence":"low","note":"main fossil fields"}
+{"qid":152848,"place":"Dili","lat":-8.5586,"lon":125.5736,"precision":"city","confidence":"high","note":"violence centred in Dili"}
+{"qid":153214,"place":"Luxembourg City","lat":49.6117,"lon":6.1319,"precision":"city","confidence":"medium","note":"capital occupied"}
+{"qid":153992,"place":"Reichstag building","lat":52.5186,"lon":13.3762,"precision":"site","confidence":"high","note":"arson site"}
+{"qid":154288,"place":"Amman","lat":31.9454,"lon":35.9284,"precision":"city","confidence":"medium","note":"capital of conflict"}

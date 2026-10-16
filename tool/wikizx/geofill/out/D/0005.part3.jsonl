@@ -1,0 +1,50 @@
+{"qid":1051670,"place":"Japan","lat":36.2048,"lon":138.2529,"precision":"country","confidence":"high","note":"host country"}
+{"qid":1051687,"place":"Doha","lat":25.2854,"lon":51.531,"precision":"city","confidence":"medium","note":"single host city, Qatar"}
+{"qid":1052332,"place":"Mogadishu","lat":2.0469,"lon":45.3182,"precision":"city","confidence":"medium","note":"conflict centred in capital"}
+{"qid":1053925,"place":"Sint Maarten","lat":18.0425,"lon":-63.0548,"precision":"region","confidence":"medium","note":"campus on Sint Maarten"}
+{"qid":1054050,"place":"Bissau","lat":11.8636,"lon":-15.5977,"precision":"city","confidence":"medium","note":"election in capital region"}
+{"qid":1055522,"place":"Japan","lat":36.2048,"lon":138.2529,"precision":"country","confidence":"high","note":"national highway"}
+{"qid":1058171,"place":"Japan","lat":36.2048,"lon":138.2529,"precision":"country","confidence":"high","note":"national highway"}
+{"qid":1059658,"place":"Budapest","lat":47.4979,"lon":19.0402,"precision":"city","confidence":"medium","note":"occupation centred on capital"}
+{"qid":1060536,"place":"Italy","lat":41.8719,"lon":12.5674,"precision":"country","confidence":"high","note":"national cup"}
+{"qid":1061274,"place":"India","lat":20.5937,"lon":78.9629,"precision":"country","confidence":"high","note":"host country"}
+{"qid":1061315,"place":"Mar del Plata","lat":-38.0055,"lon":-57.5426,"precision":"city","confidence":"high","note":"stated host"}
+{"qid":1061365,"place":"Lahore","lat":31.5497,"lon":74.3436,"precision":"city","confidence":"high","note":"stated host"}
+{"qid":1061372,"place":"Karachi","lat":24.8607,"lon":67.0011,"precision":"city","confidence":"high","note":"stated host"}
+{"qid":1061380,"place":"Karachi","lat":24.8607,"lon":67.0011,"precision":"city","confidence":"high","note":"stated host"}
+{"qid":1061386,"place":"Karachi","lat":24.8607,"lon":67.0011,"precision":"city","confidence":"high","note":"stated host"}
+{"qid":1061387,"place":"Karachi","lat":24.8607,"lon":67.0011,"precision":"city","confidence":"high","note":"stated host"}
+{"qid":1061389,"place":"Perth","lat":-31.9505,"lon":115.8605,"precision":"city","confidence":"high","note":"stated host"}
+{"qid":1061405,"place":"Melbourne","lat":-37.8136,"lon":144.9631,"precision":"city","confidence":"high","note":"stated host"}
+{"qid":1061409,"place":"Kuala Lumpur","lat":3.139,"lon":101.6869,"precision":"city","confidence":"high","note":"stated host"}
+{"qid":1061451,"place":"Auckland","lat":-36.8485,"lon":174.7633,"precision":"city","confidence":"high","note":"stated host"}
+{"qid":1067461,"place":"Holmenkollbakken","lat":59.9636,"lon":10.6672,"precision":"site","confidence":"high","note":"stated venue"}
+{"qid":1070890,"place":"Tbilisi","lat":41.7151,"lon":44.8271,"precision":"city","confidence":"high","note":"coup and fighting in capital"}
+{"qid":1072042,"place":"Mogadishu","lat":2.0469,"lon":45.3182,"precision":"city","confidence":"medium","note":"war centred in capital"}
+{"qid":1072889,"place":"Santiago","lat":-33.4489,"lon":-70.6693,"precision":"city","confidence":"medium","note":"decisive battles near Santiago"}
+{"qid":1073476,"place":"Guangzhou","lat":23.1291,"lon":113.2644,"precision":"city","confidence":"medium","note":"expedition launched from Guangzhou"}
+{"qid":1076902,"place":"Athens","lat":37.9838,"lon":23.7275,"precision":"city","confidence":"medium","note":"Athens besieged"}
+{"qid":1078181,"place":"Ho Chi Minh City","lat":10.7769,"lon":106.7009,"precision":"city","confidence":"high","note":"coup in Saigon"}
+{"qid":1079224,"place":"Kallang Tennis Centre","lat":1.303,"lon":103.873,"precision":"site","confidence":"high","note":"stated venue"}
+{"qid":1087909,"place":"Abidjan","lat":5.36,"lon":-4.0083,"precision":"city","confidence":"high","note":"Gbagbo captured in Abidjan"}
+{"qid":1090872,"place":"Riga","lat":56.9496,"lon":24.1052,"precision":"city","confidence":"low","note":"one of three host cities"}
+{"qid":1091051,"place":"Sarajevo","lat":43.8563,"lon":18.4131,"precision":"city","confidence":"medium","note":"NATO focus in Bosnia"}
+{"qid":1092673,"place":"Florence","lat":43.7696,"lon":11.2558,"precision":"city","confidence":"high","note":"revolt in Florence"}
+{"qid":1093896,"place":"White City Stadium","lat":51.512,"lon":-0.228,"precision":"site","confidence":"high","note":"1908 Olympic stadium"}
+{"qid":1097479,"place":"Moka District","lat":-20.2333,"lon":57.5,"precision":"region","confidence":"medium","note":"campus at Réduit, Moka"}
+{"qid":1100573,"place":"Lithuania","lat":55.1694,"lon":23.8813,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":1103742,"place":"Kuwait City","lat":29.3759,"lon":47.9774,"precision":"city","confidence":"high","note":"single host city"}
+{"qid":1111310,"place":"Los Angeles","lat":34.0522,"lon":-118.2437,"precision":"city","confidence":"medium","note":"ceremony usually in Los Angeles"}
+{"qid":1113316,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"no clear host"}
+{"qid":1114350,"place":"Uruguay","lat":-32.5228,"lon":-55.7658,"precision":"country","confidence":"high","note":"national league"}
+{"qid":1118361,"place":"Uruguay","lat":-32.5228,"lon":-55.7658,"precision":"country","confidence":"high","note":"national league"}
+{"qid":1121549,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"NBA season"}
+{"qid":1122110,"place":"Dushanbe","lat":38.5598,"lon":68.787,"precision":"city","confidence":"medium","note":"war centred in capital"}
+{"qid":1122337,"place":"Salamis Island","lat":37.95,"lon":23.5,"precision":"region","confidence":"medium","note":"decisive naval battle"}
+{"qid":1122422,"place":"Asunción","lat":-25.2637,"lon":-57.5759,"precision":"city","confidence":"medium","note":"fighting for capital"}
+{"qid":1124504,"place":"Colombia","lat":4.5709,"lon":-74.2973,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":1126268,"place":"Deir Yassin","lat":31.7886,"lon":35.1792,"precision":"city","confidence":"high","note":"village attacked"}
+{"qid":1127155,"place":"Singapore","lat":1.3521,"lon":103.8198,"precision":"city","confidence":"high","note":"host city"}
+{"qid":1128936,"place":"Croatia","lat":45.1,"lon":15.2,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":1130017,"place":"Ellis Park Stadium","lat":-26.1975,"lon":28.061,"precision":"site","confidence":"medium","note":"final venue"}
+{"qid":1130071,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"NBA season"}

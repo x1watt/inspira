@@ -2,11 +2,14 @@ import 'dart:math';
 
 import '../models/event.dart';
 import '../models/story.dart';
+import 'wiki_place_repository.dart';
 
-/// A point on the map: an event or a story that happened there.
+/// A point on the map: an event, a story or a Wikipedia article about
+/// something that happened there.
 class MapPlace {
   MapPlace.event(HistoryEvent this.event)
     : story = null,
+      wiki = null,
       id = event.id,
       title = event.title,
       subtitle = [
@@ -20,6 +23,7 @@ class MapPlace {
 
   MapPlace.story(Story this.story)
     : event = null,
+      wiki = null,
       id = story.id,
       title = story.title,
       subtitle = [
@@ -31,34 +35,56 @@ class MapPlace {
       kind = story.kind.id,
       weight = _storyWeight[story.kind.id] ?? 40;
 
+  /// Below every event and story (whose weights are 1 to 100), so the
+  /// app's own content wins a marker cell; better linked articles first.
+  MapPlace.wiki(WikiPlace this.wiki)
+    : event = null,
+      story = null,
+      id = wiki.id,
+      title = wiki.title,
+      subtitle = [
+        wiki.yearLabel,
+        if (wiki.approximate) 'approximate place',
+      ].where((s) => s.isNotEmpty).join(', '),
+      lat = wiki.lat,
+      lon = wiki.lon,
+      kind = 'wiki',
+      weight = -100000 + (wiki.links > 99999 ? 99999 : wiki.links);
+
   static const _storyWeight = {'history': 60, 'study': 40, 'story': 35};
 
   final HistoryEvent? event;
   final Story? story;
+  final WikiPlace? wiki;
   final String id;
   final String title;
   final String subtitle;
   final double lat;
   final double lon;
 
-  /// `event`, `history`, `study` or `story`.
+  /// `event`, `history`, `study`, `story` or `wiki`.
   final String kind;
 
   /// Importance, for which markers to keep when there are too many.
   final int weight;
 }
 
-/// Every event and story with coordinates, for the map and "near me".
-/// About 2000 points: a linear scan takes well under a millisecond, so
-/// there is no spatial index.
+/// Every event, story and Wikipedia place with coordinates, for the map
+/// and "near me". About 22,000 points: a linear scan takes a few
+/// milliseconds after the map stops moving (docs/performance.md, rule 11),
+/// so there is no spatial index.
 class PlaceIndex {
-  PlaceIndex(Iterable<Story> stories, Iterable<HistoryEvent> events)
-    : places = List.unmodifiable([
-        for (final e in events)
-          if (e.hasPlace) MapPlace.event(e),
-        for (final s in stories)
-          if (s.hasPlace) MapPlace.story(s),
-      ]);
+  PlaceIndex(
+    Iterable<Story> stories,
+    Iterable<HistoryEvent> events, [
+    Iterable<WikiPlace> wiki = const [],
+  ]) : places = List.unmodifiable([
+         for (final e in events)
+           if (e.hasPlace) MapPlace.event(e),
+         for (final s in stories)
+           if (s.hasPlace) MapPlace.story(s),
+         for (final w in wiki) MapPlace.wiki(w),
+       ]);
 
   final List<MapPlace> places;
 
@@ -81,11 +107,19 @@ class PlaceIndex {
     int limit = 50,
     double maxKm = double.infinity,
   }) {
-    final all = [
-      for (final p in places)
-        if (km(lat, lon, p.lat, p.lon) case final d when d <= maxKm) (p, d),
-    ]..sort((a, b) => a.$2.compareTo(b.$2));
-    return all.take(limit).toList();
+    // Keeps only the closest [limit], sorted, instead of sorting all.
+    final best = <(MapPlace, double)>[];
+    for (final p in places) {
+      final d = km(lat, lon, p.lat, p.lon);
+      if (d > maxKm || (best.length == limit && d >= best.last.$2)) continue;
+      var i = best.length;
+      while (i > 0 && best[i - 1].$2 > d) {
+        i--;
+      }
+      best.insert(i, (p, d));
+      if (best.length > limit) best.removeLast();
+    }
+    return best;
   }
 
   /// The most important places inside the box, at most one per grid cell

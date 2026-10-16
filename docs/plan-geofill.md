@@ -161,10 +161,8 @@ would, through a prepare step reading that language's ZIM.
 
 ## 8. Later improvements
 
-- Prefer "where it happened" (P276) when an event's own point is within
-  a few km of its country's point (a country centroid, e.g. "India
-  becomes independent" 868 km off).
-- GeoNames for named places without a Wikidata point (section 2).
+- Done (section 10): country centres sent to the model; GeoNames for
+  named places without a Wikidata point.
 - A second opinion on `model-low` answers of the most linked items.
 - More of group C (the 335,325 less linked dated items) if wanted.
 
@@ -186,3 +184,41 @@ low 7,169) and 13,984 ZIM points, 84,469 new points in all. Verified
 events with a point: 99.1% (from 64.5%); `model-high` 93.5% within
 50 km, `model-medium` 82.5%, `model-low` 42.9%. The merge needs little
 memory now (160 MB limit), so it runs next to a busy desktop.
+
+## 10. Country centres, GeoNames and the app map (2026-10-16)
+
+**Country centres.** `bin/geofill_centroids.dart` finds dated items whose
+Wikidata point is only their country (own point within 25 km of the
+country's point, or a location or area that is the country): 6,402,
+of which 5,012 with an English article became group D (26 batches,
+done by the same Sonnet agents, prompted to give the battlefield or
+city). `geofill/centroids.tsv` lists them; the merge lets an answer of
+region precision or better replace the country point: 3,923 replaced.
+
+**GeoNames.** `scripts/geonames_slim.sh allCountries.zip >
+geonames_slim.tsv` keeps 480,252 places (towns of 500 people or more,
+historic sites, areas). With `--geonames`, the merge snaps a named place
+that has no Wikipedia match to the GeoNames place of that name nearest
+the model's coordinates (within 50 km): 1,487 points. Credited in the
+app (Me, Map data), as CC BY 4.0 requires.
+
+Final merge: 83,956 answers; points from the named place's Wikidata
+point 63,298, GeoNames 1,487, model coordinates 10,649; tiers
+model-high 40,434, model-medium 25,893, model-low 8,081, zim 13,984.
+Verified events within 50 km: about 759 of 892 (85%), from about 745;
+99.1% have a point.
+
+**App map.** `bin/export_wikiplaces.dart` writes `assets/wiki_places.json`
+(1 MB): the 20,000 most linked dated event articles with a point,
+leaving out Inspira's own events, people, places, languages,
+organisations, works, elections, low confidence points and points at a
+country, continent or ocean centre (1,960 such points; 53,331 items at
+one). The map shows them as grey globe markers below Inspira's own
+content, with year, Directions and Read on Wikipedia
+(docs/architecture.md, section 5).
+
+Re-run after a new dump, in `tool/wikizx`:
+
+    dart run bin/geofill_centroids.dart ../../build/wiki/en_mini.zx ../../build/wiki/geo.zx geofill
+    dart run bin/geofill_merge.dart ../../build/wiki/geo.zx geofill --geonames ../../build/wiki/geonames/geonames_slim.tsv
+    dart run bin/export_wikiplaces.dart ../../build/wiki/en_mini.zx ../../build/wiki/geo.zx ../../events geofill ../../assets/wiki_places.json

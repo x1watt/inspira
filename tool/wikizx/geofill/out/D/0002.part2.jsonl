@@ -1,0 +1,50 @@
+{"qid":260835,"place":"Istanbul","lat":41.0082,"lon":28.9784,"precision":"city","confidence":"medium","note":"final city"}
+{"qid":266634,"place":"Auckland","lat":-36.8485,"lon":174.7633,"precision":"city","confidence":"medium","note":"final city"}
+{"qid":268850,"place":"White City Stadium","lat":51.51,"lon":-0.226,"precision":"site","confidence":"high","note":"venue"}
+{"qid":270736,"place":"Eden Park","lat":-36.875,"lon":174.7452,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":271176,"place":"Aarhus","lat":56.1629,"lon":10.2039,"precision":"city","confidence":"high","note":"county seat"}
+{"qid":275687,"place":"Doha","lat":25.2854,"lon":51.531,"precision":"city","confidence":"high","note":"final host city"}
+{"qid":276787,"place":"Singapore","lat":1.3521,"lon":103.8198,"precision":"city","confidence":"high","note":"pageant held in Singapore"}
+{"qid":278936,"place":"France","lat":46.6034,"lon":1.8883,"precision":"country","confidence":"high","note":"national league"}
+{"qid":279611,"place":"Goyang","lat":37.6584,"lon":126.832,"precision":"city","confidence":"medium","note":"fortress near Haengju"}
+{"qid":279662,"place":"Guadalajara","lat":20.6597,"lon":-103.3496,"precision":"city","confidence":"low","note":"western Mexico heartland"}
+{"qid":280105,"place":"Circuit de Monaco","lat":43.7347,"lon":7.4206,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":280598,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"races across the country"}
+{"qid":280601,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"races across the country"}
+{"qid":280607,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"races across the country"}
+{"qid":280611,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"races across the country"}
+{"qid":280613,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"races across the country"}
+{"qid":280618,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"races across the country"}
+{"qid":280620,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"races across the country"}
+{"qid":280622,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"races across the country"}
+{"qid":280631,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"races across the country"}
+{"qid":280633,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"races across the country"}
+{"qid":280637,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"races across the country"}
+{"qid":280640,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"races across the country"}
+{"qid":280643,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"races across the country"}
+{"qid":280647,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"races across the country"}
+{"qid":280649,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"races across the country"}
+{"qid":280652,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"races across the country"}
+{"qid":280655,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"races across the country"}
+{"qid":280661,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"races across the country"}
+{"qid":281603,"place":"Faroe Islands","lat":61.8926,"lon":-6.9118,"precision":"country","confidence":"high","note":"national league"}
+{"qid":282135,"place":"Toro, Zamora","lat":41.5253,"lon":-5.3953,"precision":"city","confidence":"low","note":"decisive battle of Toro"}
+{"qid":282320,"place":"N'Djamena","lat":12.1348,"lon":15.0557,"precision":"city","confidence":"medium","note":"French base in Chad"}
+{"qid":283048,"place":"Deutschlandhalle","lat":52.5069,"lon":13.2711,"precision":"site","confidence":"high","note":"venue"}
+{"qid":286474,"place":"Palmiry","lat":52.3167,"lon":20.7833,"precision":"city","confidence":"medium","note":"mass executions site"}
+{"qid":289799,"place":"Japan","lat":36.2048,"lon":138.2529,"precision":"country","confidence":"medium","note":"national series"}
+{"qid":291651,"place":"Dhaka","lat":23.8103,"lon":90.4125,"precision":"city","confidence":"medium","note":"host city"}
+{"qid":291664,"place":"New Delhi","lat":28.6139,"lon":77.209,"precision":"city","confidence":"low","note":"host city"}
+{"qid":298864,"place":"Tolentino","lat":43.2086,"lon":13.2864,"precision":"city","confidence":"medium","note":"decisive battle of Tolentino"}
+{"qid":301426,"place":"Circuit de Monaco","lat":43.7347,"lon":7.4206,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":303074,"place":"France","lat":46.6034,"lon":1.8883,"precision":"country","confidence":"high","note":"national league"}
+{"qid":303507,"place":"Vienna","lat":48.2082,"lon":16.3738,"precision":"city","confidence":"medium","note":"imperial treasury in Vienna"}
+{"qid":311726,"place":"Plains of Abraham","lat":46.8014,"lon":-71.2121,"precision":"site","confidence":"high","note":"battle site"}
+{"qid":312268,"place":"Constantinople","lat":41.0082,"lon":28.9784,"precision":"city","confidence":"high","note":"city besieged"}
+{"qid":313344,"place":"Dortmund","lat":51.5136,"lon":7.4653,"precision":"city","confidence":"low","note":"final city"}
+{"qid":319715,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"high","note":"national league"}
+{"qid":319750,"place":"Hamburg","lat":53.5511,"lon":9.9937,"precision":"city","confidence":"high","note":"fire in Hamburg"}
+{"qid":319859,"place":"Berlin","lat":52.52,"lon":13.405,"precision":"city","confidence":"high","note":"West Berlin project"}
+{"qid":319945,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"high","note":"national league"}
+{"qid":321006,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"high","note":"national league"}
+{"qid":321032,"place":"Florence","lat":43.7696,"lon":11.2558,"precision":"city","confidence":"medium","note":"council seat"}

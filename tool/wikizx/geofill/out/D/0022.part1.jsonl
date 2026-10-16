@@ -1,0 +1,50 @@
+{"qid":85967332,"place":"San Siro","lat":45.4781,"lon":9.124,"precision":"site","confidence":"medium","note":"final in Milan"}
+{"qid":86509170,"place":"Kuala Lumpur","lat":3.139,"lon":101.6869,"precision":"city","confidence":"medium","note":"crisis centred at Istana Negara"}
+{"qid":86597685,"place":"Copenhagen","lat":55.6761,"lon":12.5683,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":86597695,"place":"São Paulo","lat":-23.5505,"lon":-46.6333,"precision":"city","confidence":"medium","note":"first case there"}
+{"qid":86628344,"place":"Mexico City","lat":19.4326,"lon":-99.1332,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":86675924,"place":"Pyongyang","lat":39.0392,"lon":125.7625,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":86717788,"place":"Bern","lat":46.948,"lon":7.4474,"precision":"city","confidence":"low","note":"capital"}
+{"qid":86731582,"place":"Taipei","lat":25.033,"lon":121.5654,"precision":"city","confidence":"medium","note":"league based in Taipei"}
+{"qid":86750805,"place":"Nuuk","lat":64.1835,"lon":-51.7216,"precision":"city","confidence":"medium","note":"capital of Greenland"}
+{"qid":86753409,"place":"Bratislava","lat":48.1486,"lon":17.1077,"precision":"city","confidence":"high","note":"main riots there"}
+{"qid":86756826,"place":"Amsterdam","lat":52.3676,"lon":4.9041,"precision":"city","confidence":"low","note":"capital"}
+{"qid":86757147,"place":"Piercebridge","lat":54.5347,"lon":-1.6758,"precision":"city","confidence":"high","note":"battle at Piercebridge"}
+{"qid":86762191,"place":"Lisbon","lat":38.7223,"lon":-9.1393,"precision":"city","confidence":"low","note":"national league"}
+{"qid":86847911,"place":"Vienna","lat":48.2082,"lon":16.3738,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":86913546,"place":"Jakarta","lat":-6.2088,"lon":106.8456,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":86919406,"place":"Prague","lat":50.0755,"lon":14.4378,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":86948603,"place":"Lisbon","lat":38.7223,"lon":-9.1393,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87058723,"place":"Rabat","lat":34.0209,"lon":-6.8416,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87066621,"place":"Riga","lat":56.9496,"lon":24.1052,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87068864,"place":"Athens","lat":37.9838,"lon":23.7275,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87070975,"place":"Jerusalem","lat":31.7683,"lon":35.2137,"precision":"city","confidence":"low","note":"capital"}
+{"qid":87070999,"place":"Manama","lat":26.2285,"lon":50.586,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87116829,"place":"Cairo","lat":30.0444,"lon":31.2357,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87119811,"place":"Budapest","lat":47.4979,"lon":19.0402,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87121993,"place":"Reykjavík","lat":64.1466,"lon":-21.9426,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87123561,"place":"City of San Marino","lat":43.9424,"lon":12.4578,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87186117,"place":"Riyadh","lat":24.7136,"lon":46.6753,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87186365,"place":"Dublin","lat":53.3498,"lon":-6.2603,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87191204,"place":"Santiago","lat":-33.4489,"lon":-70.6693,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87193778,"place":"Belgrade","lat":44.7866,"lon":20.4489,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87199320,"place":"Ramallah","lat":31.9038,"lon":35.2034,"precision":"city","confidence":"low","note":"Palestinian administrative centre"}
+{"qid":87202921,"place":"Algiers","lat":36.7538,"lon":3.0588,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87204911,"place":"Tallinn","lat":59.437,"lon":24.7536,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87222526,"place":"Vatican City","lat":41.9029,"lon":12.4534,"precision":"country","confidence":"medium","note":"city state"}
+{"qid":87235137,"place":"Buenos Aires","lat":-34.6037,"lon":-58.3816,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87235177,"place":"Kyiv","lat":50.4501,"lon":30.5234,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87243915,"place":"Johannesburg","lat":-26.2041,"lon":28.0473,"precision":"city","confidence":"low","note":"largest city"}
+{"qid":87245450,"place":"Beirut","lat":33.8938,"lon":35.5018,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87250691,"place":"Kuwait City","lat":29.3759,"lon":47.9774,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87250695,"place":"Warsaw","lat":52.2297,"lon":21.0122,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87250713,"place":"Quito","lat":-0.1807,"lon":-78.4678,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87250732,"place":"Zagreb","lat":45.815,"lon":15.9819,"precision":"city","confidence":"high","note":"first case in Zagreb"}
+{"qid":87250752,"place":"Bucharest","lat":44.4268,"lon":26.1025,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87250770,"place":"Sarajevo","lat":43.8563,"lon":18.4131,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87250788,"place":"Minsk","lat":53.9006,"lon":27.559,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87250803,"place":"Wellington","lat":-41.2866,"lon":174.7756,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87250819,"place":"Vaduz","lat":47.141,"lon":9.5209,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87250838,"place":"Vilnius","lat":54.6872,"lon":25.2797,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87250860,"place":"Luxembourg City","lat":49.6116,"lon":6.1319,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87250877,"place":"Monaco","lat":43.7384,"lon":7.4246,"precision":"country","confidence":"medium","note":"city state"}

@@ -1,0 +1,50 @@
+{"qid":3956,"place":"Arganda del Rey","lat":40.3,"lon":-3.4333,"precision":"city","confidence":"medium","note":"battle near Jarama river"}
+{"qid":4218,"place":"Budapest","lat":47.4979,"lon":19.0402,"precision":"city","confidence":"low","note":"Carpathian Basin, no single site"}
+{"qid":4373,"place":"Prague","lat":50.088,"lon":14.4208,"precision":"city","confidence":"medium","note":"White Mountain battle near Prague"}
+{"qid":6334,"place":"Carthage","lat":36.8528,"lon":10.3233,"precision":"city","confidence":"high","note":"siege of Carthage decisive"}
+{"qid":6534,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"high","note":"revolution centred in Paris"}
+{"qid":6743,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"high","note":"protests centred in Paris"}
+{"qid":8729,"place":"Saint Petersburg","lat":59.9343,"lon":30.3351,"precision":"city","confidence":"high","note":"Petrograd revolution centre"}
+{"qid":9623,"place":"Oslo","lat":59.9139,"lon":10.7522,"precision":"city","confidence":"high","note":"host city"}
+{"qid":10158,"place":"Telenor Arena","lat":59.9031,"lon":10.6167,"precision":"site","confidence":"high","note":"venue"}
+{"qid":11264,"place":"Havana","lat":23.1136,"lon":-82.3666,"precision":"city","confidence":"high","note":"revolution victory in Havana"}
+{"qid":13582,"place":"Berlin","lat":52.52,"lon":13.405,"precision":"city","confidence":"high","note":"conference held in Berlin"}
+{"qid":17315,"place":"Bahrain International Circuit","lat":26.0325,"lon":50.5106,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":17319,"place":"Bahrain International Circuit","lat":26.0325,"lon":50.5106,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":17320,"place":"Bahrain International Circuit","lat":26.0325,"lon":50.5106,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":17323,"place":"Bahrain International Circuit","lat":26.0325,"lon":50.5106,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":17325,"place":"Bahrain International Circuit","lat":26.0325,"lon":50.5106,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":17328,"place":"Bahrain International Circuit","lat":26.0325,"lon":50.5106,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":17332,"place":"Bahrain International Circuit","lat":26.0325,"lon":50.5106,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":17334,"place":"Bahrain International Circuit","lat":26.0325,"lon":50.5106,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":17423,"place":"Madrid","lat":40.4168,"lon":-3.7038,"precision":"city","confidence":"medium","note":"law passed in Madrid"}
+{"qid":17447,"place":"Ottawa","lat":45.4215,"lon":-75.6972,"precision":"city","confidence":"medium","note":"federal law in Ottawa"}
+{"qid":17502,"place":"Brasília","lat":-15.7939,"lon":-47.8828,"precision":"city","confidence":"medium","note":"national council in Brasília"}
+{"qid":19288,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"low","note":"Soviet Union, no single site"}
+{"qid":20904,"place":"Nivelles","lat":50.5978,"lon":4.3283,"precision":"city","confidence":"high","note":"race at Nivelles"}
+{"qid":20907,"place":"Nivelles","lat":50.5978,"lon":4.3283,"precision":"city","confidence":"high","note":"race at Nivelles"}
+{"qid":22669,"place":"Kyiv","lat":50.4501,"lon":30.5234,"precision":"city","confidence":"medium","note":"final host city"}
+{"qid":27595,"place":"Prague","lat":50.0755,"lon":14.4378,"precision":"city","confidence":"medium","note":"final city"}
+{"qid":27599,"place":"Limoges","lat":45.8336,"lon":1.2611,"precision":"city","confidence":"medium","note":"final city"}
+{"qid":27900,"place":"Constantinople","lat":41.0082,"lon":28.9784,"precision":"city","confidence":"high","note":"city besieged"}
+{"qid":28365,"place":"Lamia, Greece","lat":38.8997,"lon":22.4344,"precision":"city","confidence":"medium","note":"siege of Lamia defining"}
+{"qid":28380,"place":"Madrid","lat":40.4168,"lon":-3.7038,"precision":"city","confidence":"low","note":"nationwide election"}
+{"qid":29489,"place":"Cairo","lat":30.0444,"lon":31.2357,"precision":"city","confidence":"low","note":"embassy protests in Cairo"}
+{"qid":31944,"place":"Omdurman","lat":15.6445,"lon":32.4777,"precision":"city","confidence":"medium","note":"Mahdist capital, decisive battle"}
+{"qid":33688,"place":"Stuttgart","lat":48.7758,"lon":9.1829,"precision":"city","confidence":"medium","note":"final city"}
+{"qid":36849,"place":"Zagreb","lat":45.815,"lon":15.9819,"precision":"city","confidence":"high","note":"host city"}
+{"qid":36984,"place":"Munich","lat":48.1351,"lon":11.582,"precision":"city","confidence":"medium","note":"final city"}
+{"qid":40439,"place":"Madrid","lat":40.4168,"lon":-3.7038,"precision":"city","confidence":"low","note":"nationwide election"}
+{"qid":43378,"place":"Bucaramanga","lat":7.1193,"lon":-73.1227,"precision":"city","confidence":"low","note":"Palonegro decisive battle nearby"}
+{"qid":46003,"place":"Smolensk","lat":54.7826,"lon":32.0453,"precision":"city","confidence":"low","note":"near Rayevka, Smolensk Oblast"}
+{"qid":46057,"place":"Jerusalem","lat":31.7683,"lon":35.2137,"precision":"city","confidence":"low","note":"revolt across Palestine"}
+{"qid":46083,"place":"Sedan, Ardennes","lat":49.7014,"lon":4.94,"precision":"city","confidence":"medium","note":"decisive battle of Sedan"}
+{"qid":46518,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"concert tour"}
+{"qid":46959,"place":"Tunis","lat":36.8065,"lon":10.1815,"precision":"city","confidence":"medium","note":"capital, uprising peak"}
+{"qid":51660,"place":"Jerusalem","lat":31.7683,"lon":35.2137,"precision":"city","confidence":"medium","note":"city regained by treaty"}
+{"qid":58732,"place":"Grand Harbour","lat":35.8903,"lon":14.5183,"precision":"site","confidence":"medium","note":"siege centred on Grand Harbour"}
+{"qid":59886,"place":"Tokyo","lat":35.6897,"lon":139.6922,"precision":"city","confidence":"high","note":"bombed city"}
+{"qid":60489,"place":"Shkodër","lat":42.0683,"lon":19.5126,"precision":"city","confidence":"medium","note":"siege of Scutari"}
+{"qid":60830,"place":"Lisbon","lat":38.7223,"lon":-9.1393,"precision":"city","confidence":"high","note":"massacre in Lisbon"}
+{"qid":62417,"place":"Turaida Castle","lat":57.1833,"lon":24.85,"precision":"site","confidence":"medium","note":"battle near Turaida castle"}
+{"qid":68475,"place":"Sucre","lat":-19.0196,"lon":-65.2619,"precision":"city","confidence":"medium","note":"1809 junta in Sucre"}

@@ -1,0 +1,50 @@
+{"qid":3299246,"place":"Bandar Seri Begawan","lat":4.8903,"lon":114.9422,"precision":"city","confidence":"medium","note":"revolt began in Brunei Town"}
+{"qid":3305494,"place":"Libreville","lat":0.4162,"lon":9.4673,"precision":"city","confidence":"high","note":"coup in capital"}
+{"qid":3307633,"place":"Toa Payoh","lat":1.3343,"lon":103.8563,"precision":"city","confidence":"high","note":"murder site"}
+{"qid":3312857,"place":"Medemblik","lat":52.7712,"lon":5.107,"precision":"city","confidence":"low","note":"Holland-Frisia frontier fighting"}
+{"qid":3320565,"place":"Luanda","lat":-8.839,"lon":13.2894,"precision":"city","confidence":"high","note":"host city"}
+{"qid":3320566,"place":"Reus","lat":41.1548,"lon":1.1078,"precision":"city","confidence":"high","note":"host city"}
+{"qid":3325002,"place":"Venice","lat":45.4408,"lon":12.3155,"precision":"city","confidence":"high","note":"festival city"}
+{"qid":3349520,"place":"Osowiec Fortress","lat":53.4903,"lon":22.6547,"precision":"site","confidence":"medium","note":"offensive at Osowiec"}
+{"qid":3349532,"place":"Baghdad","lat":33.3152,"lon":44.3661,"precision":"city","confidence":"medium","note":"main insurgent attacks"}
+{"qid":3353317,"place":"Oeiras, Portugal","lat":38.697,"lon":-9.3086,"precision":"city","confidence":"high","note":"host town"}
+{"qid":3354415,"place":"Soweto","lat":-26.2678,"lon":27.8585,"precision":"city","confidence":"low","note":"defining uprising 1976"}
+{"qid":3354643,"place":"Ancona","lat":43.6158,"lon":13.5189,"precision":"city","confidence":"low","note":"east coast raids"}
+{"qid":3354747,"place":"Zouérat","lat":22.7333,"lon":-12.4667,"precision":"city","confidence":"medium","note":"intervention site"}
+{"qid":3356013,"place":"Santiago","lat":-33.4489,"lon":-70.6693,"precision":"city","confidence":"low","note":"probable host"}
+{"qid":3369579,"place":"White City Stadium","lat":51.5128,"lon":-0.225,"precision":"site","confidence":"high","note":"1908 Olympic stadium"}
+{"qid":3373971,"place":"Ferrara","lat":44.8381,"lon":11.6198,"precision":"city","confidence":"high","note":"struck Ferrara"}
+{"qid":3376121,"place":"Iași","lat":47.1585,"lon":27.6014,"precision":"city","confidence":"low","note":"Iași pogrom"}
+{"qid":3381219,"place":"Châu Đốc","lat":10.7,"lon":105.1167,"precision":"city","confidence":"low","note":"war fought in Mekong delta"}
+{"qid":3394874,"place":"Boeotia","lat":38.4,"lon":23.1,"precision":"region","confidence":"medium","note":"battle near Petra"}
+{"qid":3403859,"place":"St. George's, Grenada","lat":12.0561,"lon":-61.7488,"precision":"city","confidence":"high","note":"capital captured"}
+{"qid":3407496,"place":"Islamic Museum, Jerusalem","lat":31.7761,"lon":35.2348,"precision":"site","confidence":"high","note":"museum at Al-Aqsa"}
+{"qid":3411181,"place":"Bangui","lat":4.3947,"lon":18.5582,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":3429528,"place":"Skanderborg Municipality","lat":56.036,"lon":9.925,"precision":"region","confidence":"medium","note":"abbey near Voerladegård"}
+{"qid":3429692,"place":"Huambo","lat":-12.7761,"lon":15.7392,"precision":"city","confidence":"high","note":"battle in city"}
+{"qid":3432033,"place":"Sjursøya","lat":59.8881,"lon":10.7547,"precision":"site","confidence":"high","note":"accident site"}
+{"qid":3434218,"place":"San José, Costa Rica","lat":9.9281,"lon":-84.0907,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":3434323,"place":"Skenderaj","lat":42.7456,"lon":20.7889,"precision":"city","confidence":"medium","note":"massacre near Izbica"}
+{"qid":3435524,"place":"Prekaz","lat":42.7656,"lon":20.7389,"precision":"site","confidence":"medium","note":"attack on Jashari compound"}
+{"qid":3438672,"place":"Skenderaj","lat":42.7456,"lon":20.7889,"precision":"city","confidence":"medium","note":"Likošane and Ćirez near Skenderaj"}
+{"qid":3439107,"place":"Ljubljana","lat":46.0569,"lon":14.5058,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":3443990,"place":"Novi Sad","lat":45.2671,"lon":19.8335,"precision":"city","confidence":"high","note":"host city"}
+{"qid":3447267,"place":"Freetown","lat":8.4657,"lon":-13.2317,"precision":"city","confidence":"low","note":"capital"}
+{"qid":3454840,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"low","note":"UK government seat"}
+{"qid":3461001,"place":"Cathedral of St. Michael and St. Gudula","lat":50.8477,"lon":4.36,"precision":"site","confidence":"medium","note":"alleged host desecration church"}
+{"qid":3468382,"place":"Nepal","lat":28.3949,"lon":84.124,"precision":"country","confidence":"medium","note":"nationwide census"}
+{"qid":3468911,"place":"Tamsalu","lat":59.1583,"lon":26.0944,"precision":"city","confidence":"low","note":"nearest town"}
+{"qid":3485863,"place":"Constantinople","lat":41.0082,"lon":28.9784,"precision":"city","confidence":"high","note":"besieged city"}
+{"qid":3485966,"place":"Namur","lat":50.4674,"lon":4.872,"precision":"city","confidence":"high","note":"besieged city"}
+{"qid":3485968,"place":"Namur","lat":50.4674,"lon":4.872,"precision":"city","confidence":"high","note":"besieged city"}
+{"qid":3488959,"place":"Poltava","lat":49.5883,"lon":34.5514,"precision":"city","confidence":"medium","note":"defining moment Poltava"}
+{"qid":3489949,"place":"Headquarters of NATO","lat":50.877,"lon":4.426,"precision":"site","confidence":"medium","note":"NATO HQ Brussels"}
+{"qid":3489950,"place":"Headquarters of NATO","lat":50.877,"lon":4.426,"precision":"site","confidence":"high","note":"held at NATO HQ"}
+{"qid":3493159,"place":"Kutná Hora","lat":49.9484,"lon":15.268,"precision":"city","confidence":"high","note":"battle at Kutná Hora"}
+{"qid":3494750,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"concert tour"}
+{"qid":3497465,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"concert tour"}
+{"qid":3505902,"place":"Kuantan","lat":3.8077,"lon":103.326,"precision":"city","confidence":"high","note":"host city"}
+{"qid":3510387,"place":"Kom Ombo","lat":24.45,"lon":32.9333,"precision":"city","confidence":"low","note":"Sebilian sites near Kom Ombo"}
+{"qid":3513971,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"nationwide competition"}
+{"qid":3514845,"place":"Johannesburg","lat":-26.2041,"lon":28.0473,"precision":"city","confidence":"high","note":"host city"}
+{"qid":3533885,"place":"Sharjah","lat":25.3463,"lon":55.4209,"precision":"city","confidence":"high","note":"host city"}

@@ -1,0 +1,50 @@
+{"qid":125635269,"place":"Dublin","lat":53.3498,"lon":-6.2603,"precision":"city","confidence":"low","note":"seat of Irish government"}
+{"qid":125693967,"place":"Antananarivo","lat":-18.8792,"lon":47.5079,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":125727666,"place":"Singapore Indoor Stadium","lat":1.3002,"lon":103.8738,"precision":"site","confidence":"high","note":"tournament venue"}
+{"qid":125731078,"place":"Brisbane","lat":-27.4698,"lon":153.0251,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":125843663,"place":"Diyatalawa","lat":6.8283,"lon":80.963,"precision":"city","confidence":"high","note":"crash site"}
+{"qid":126017034,"place":"Tokyo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"high","note":"executions in Edo"}
+{"qid":126030972,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"nationwide league"}
+{"qid":126146864,"place":"Nowy Sącz","lat":49.6218,"lon":20.6971,"precision":"city","confidence":"high","note":"pageant host city"}
+{"qid":126284675,"place":"Seoul","lat":37.5665,"lon":126.978,"precision":"city","confidence":"low","note":"balloons landed around Seoul"}
+{"qid":126285237,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"high","note":"abducted in Rome"}
+{"qid":126305705,"place":"Kampala","lat":0.3476,"lon":32.5825,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":126371929,"place":"Cairo","lat":30.0444,"lon":31.2357,"precision":"city","confidence":"medium","note":"Fatimid seat"}
+{"qid":126415661,"place":"Tangier","lat":35.7595,"lon":-5.834,"precision":"city","confidence":"low","note":"Moroccan coast naval pressure"}
+{"qid":126478370,"place":"Tbilisi","lat":41.7151,"lon":44.8271,"precision":"city","confidence":"low","note":"floods hit Georgia and Armenia"}
+{"qid":126688785,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"nationwide competition"}
+{"qid":126946643,"place":"Belgrade","lat":44.7866,"lon":20.4489,"precision":"city","confidence":"low","note":"championships host city"}
+{"qid":127109665,"place":"Pasir Panjang Terminal","lat":1.2553,"lon":103.7849,"precision":"site","confidence":"high","note":"collision site"}
+{"qid":127273725,"place":"Jerusalem","lat":31.7683,"lon":35.2137,"precision":"city","confidence":"low","note":"general strike in Palestine"}
+{"qid":127378229,"place":"Dhaka","lat":23.8103,"lon":90.4125,"precision":"city","confidence":"high","note":"protests centred in Dhaka"}
+{"qid":127963148,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"nationwide census"}
+{"qid":128135642,"place":"Haret Hreik","lat":33.8544,"lon":35.5117,"precision":"city","confidence":"high","note":"airstrike location"}
+{"qid":128397648,"place":"Caracas","lat":10.4806,"lon":-66.9036,"precision":"city","confidence":"high","note":"capital, crisis centre"}
+{"qid":128585861,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"nationwide league"}
+{"qid":128765438,"place":"Chicago","lat":41.8781,"lon":-87.6298,"precision":"city","confidence":"medium","note":"tornado outbreak near Chicago"}
+{"qid":128987504,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"multi-host tournament"}
+{"qid":129000522,"place":"Brussels","lat":50.8503,"lon":4.3517,"precision":"city","confidence":"high","note":"siege of Brussels"}
+{"qid":129254766,"place":"Bahrain Fort","lat":26.2336,"lon":50.5214,"precision":"site","confidence":"low","note":"Portuguese defeat at Bahrain"}
+{"qid":129539494,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"unclear subject"}
+{"qid":129820301,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"nationwide cup"}
+{"qid":130162540,"place":"Caracas","lat":10.4806,"lon":-66.9036,"precision":"city","confidence":"medium","note":"nationwide blackouts"}
+{"qid":130260925,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"medium","note":"protests in capital"}
+{"qid":130314422,"place":"Beirut","lat":33.8938,"lon":35.5018,"precision":"city","confidence":"medium","note":"attacks mainly in Lebanon"}
+{"qid":130354504,"place":"Beirut","lat":33.8938,"lon":35.5018,"precision":"city","confidence":"medium","note":"airstrikes across Lebanon"}
+{"qid":130374882,"place":"Haret Hreik","lat":33.8514,"lon":35.5039,"precision":"city","confidence":"high","note":"strike location"}
+{"qid":130393724,"place":"Dublin","lat":53.3498,"lon":-6.2603,"precision":"city","confidence":"low","note":"league based in Dublin"}
+{"qid":130395387,"place":"Sorocaba","lat":-23.5015,"lon":-47.4526,"precision":"city","confidence":"high","note":"host city"}
+{"qid":130419078,"place":"Dahieh","lat":33.8573,"lon":35.5144,"precision":"city","confidence":"medium","note":"strike in Dahieh"}
+{"qid":130469015,"place":"Odaisseh","lat":33.25,"lon":35.5,"precision":"city","confidence":"high","note":"village battle"}
+{"qid":130485065,"place":"Oranjestad, Aruba","lat":12.5186,"lon":-70.0358,"precision":"city","confidence":"medium","note":"strike centred in Oranjestad"}
+{"qid":130520296,"place":"Kampar Regency","lat":0.3,"lon":101.1,"precision":"region","confidence":"low","note":"Campar site in Sumatra"}
+{"qid":130601631,"place":"Trondheim","lat":63.4305,"lon":10.3951,"precision":"city","confidence":"low","note":"Lade near Trondheim"}
+{"qid":130641941,"place":"Milan","lat":45.4642,"lon":9.19,"precision":"city","confidence":"low","note":"host country Italy"}
+{"qid":130648555,"place":"Amadora","lat":38.7538,"lon":-9.2306,"precision":"city","confidence":"high","note":"killing site"}
+{"qid":130741931,"place":"Perth","lat":-31.9505,"lon":115.8605,"precision":"city","confidence":"medium","note":"first Test in Perth"}
+{"qid":131292867,"place":"Nowy Sącz","lat":49.6218,"lon":20.6971,"precision":"city","confidence":"high","note":"pageant host city"}
+{"qid":131302592,"place":"Vang Vieng","lat":18.923,"lon":102.448,"precision":"city","confidence":"high","note":"hostel in Vang Vieng"}
+{"qid":131380778,"place":"Seoul","lat":37.5665,"lon":126.978,"precision":"city","confidence":"high","note":"martial law declared in Seoul"}
+{"qid":131545267,"place":"Miami","lat":25.7617,"lon":-80.1918,"precision":"city","confidence":"low","note":"US host city"}
+{"qid":131545268,"place":"Seattle","lat":47.6062,"lon":-122.3321,"precision":"city","confidence":"low","note":"US host city"}
+{"qid":131545269,"place":"Orlando, Florida","lat":28.5384,"lon":-81.3789,"precision":"city","confidence":"low","note":"US host city"}

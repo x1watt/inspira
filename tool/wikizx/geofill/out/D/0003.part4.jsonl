@@ -1,0 +1,50 @@
+{"qid":643911,"place":"France","lat":46.6034,"lon":1.8883,"precision":"country","confidence":"high","note":"national league"}
+{"qid":644063,"place":"White City Stadium","lat":51.51,"lon":-0.226,"precision":"site","confidence":"high","note":"venue"}
+{"qid":644228,"place":"Karachi","lat":24.8607,"lon":67.0011,"precision":"city","confidence":"high","note":"host city"}
+{"qid":644651,"place":"White City Stadium","lat":51.51,"lon":-0.226,"precision":"site","confidence":"high","note":"venue"}
+{"qid":644766,"place":"White City Stadium","lat":51.51,"lon":-0.226,"precision":"site","confidence":"high","note":"venue"}
+{"qid":644790,"place":"White City Stadium","lat":51.51,"lon":-0.226,"precision":"site","confidence":"high","note":"venue"}
+{"qid":645417,"place":"White City Stadium","lat":51.51,"lon":-0.226,"precision":"site","confidence":"high","note":"venue"}
+{"qid":647114,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"idea, no location"}
+{"qid":647239,"place":"Bujumbura","lat":-3.3614,"lon":29.3599,"precision":"city","confidence":"medium","note":"capital of conflict"}
+{"qid":647475,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"medium","note":"final city"}
+{"qid":648582,"place":"Santa Monica, California","lat":34.0195,"lon":-118.4912,"precision":"city","confidence":"low","note":"ceremony held there"}
+{"qid":650110,"place":"Montevideo","lat":-34.9011,"lon":-56.1645,"precision":"city","confidence":"medium","note":"league based in Montevideo"}
+{"qid":650286,"place":"Accor Arena","lat":48.8386,"lon":2.3786,"precision":"site","confidence":"high","note":"venue in Paris"}
+{"qid":650364,"place":"Suntec Singapore Convention and Exhibition Centre","lat":1.2936,"lon":103.859,"precision":"site","confidence":"high","note":"venue"}
+{"qid":653113,"place":"Suntec Singapore Convention and Exhibition Centre","lat":1.2936,"lon":103.859,"precision":"site","confidence":"high","note":"venue"}
+{"qid":654193,"place":"Ukraine","lat":48.3794,"lon":31.1656,"precision":"country","confidence":"high","note":"national cup"}
+{"qid":654777,"place":"Beirut","lat":33.8938,"lon":35.5018,"precision":"city","confidence":"high","note":"raid on Beirut"}
+{"qid":656151,"place":"Faroe Islands","lat":61.8926,"lon":-6.9118,"precision":"country","confidence":"high","note":"national league"}
+{"qid":656649,"place":"Santa Monica, California","lat":34.0195,"lon":-118.4912,"precision":"city","confidence":"low","note":"ceremony held there"}
+{"qid":657055,"place":"Larissa","lat":39.639,"lon":22.4191,"precision":"city","confidence":"low","note":"Thessaly front"}
+{"qid":660763,"place":"Apostolic Palace","lat":41.904,"lon":12.4546,"precision":"site","confidence":"high","note":"conclave venue"}
+{"qid":666536,"place":"Sistine Chapel","lat":41.9029,"lon":12.4545,"precision":"site","confidence":"high","note":"conclave venue"}
+{"qid":666778,"place":"Prague","lat":50.0755,"lon":14.4378,"precision":"city","confidence":"high","note":"city uprising"}
+{"qid":668441,"place":"Switzerland","lat":46.8182,"lon":8.2275,"precision":"country","confidence":"high","note":"national league"}
+{"qid":668459,"place":"Switzerland","lat":46.8182,"lon":8.2275,"precision":"country","confidence":"high","note":"national league"}
+{"qid":668742,"place":"Tolna County","lat":46.5,"lon":18.5,"precision":"region","confidence":"low","note":"type site Lengyel in Hungary"}
+{"qid":669336,"place":"Montevideo","lat":-34.9011,"lon":-56.1645,"precision":"city","confidence":"medium","note":"league based in Montevideo"}
+{"qid":669702,"place":"Switzerland","lat":46.8182,"lon":8.2275,"precision":"country","confidence":"high","note":"national league"}
+{"qid":670037,"place":"Switzerland","lat":46.8182,"lon":8.2275,"precision":"country","confidence":"high","note":"national league"}
+{"qid":670047,"place":"Switzerland","lat":46.8182,"lon":8.2275,"precision":"country","confidence":"high","note":"national league"}
+{"qid":670073,"place":"Switzerland","lat":46.8182,"lon":8.2275,"precision":"country","confidence":"high","note":"national league"}
+{"qid":670697,"place":"Peru","lat":-9.19,"lon":-75.0152,"precision":"country","confidence":"high","note":"national census"}
+{"qid":671984,"place":"Cortaillod","lat":46.95,"lon":6.85,"precision":"city","confidence":"high","note":"type site"}
+{"qid":672223,"place":"Queen's Club","lat":51.49,"lon":-0.2067,"precision":"site","confidence":"high","note":"venue"}
+{"qid":674259,"place":"Italy","lat":41.8719,"lon":12.5674,"precision":"country","confidence":"high","note":"national league"}
+{"qid":674823,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"high","note":"national series"}
+{"qid":675796,"place":"Monte Carlo","lat":43.7396,"lon":7.4276,"precision":"city","confidence":"medium","note":"rally based in Monte Carlo"}
+{"qid":676856,"place":"Mexico","lat":23.6345,"lon":-102.5528,"precision":"country","confidence":"high","note":"national league"}
+{"qid":676878,"place":"Meiringen","lat":46.7267,"lon":8.1876,"precision":"city","confidence":"high","note":"resort host"}
+{"qid":677316,"place":"Ascoli Piceno","lat":42.8536,"lon":13.5749,"precision":"city","confidence":"medium","note":"war began at Asculum"}
+{"qid":677781,"place":"Montevideo","lat":-34.9011,"lon":-56.1645,"precision":"city","confidence":"medium","note":"league based in Montevideo"}
+{"qid":677946,"place":"Kuala Lumpur","lat":3.139,"lon":101.6869,"precision":"city","confidence":"high","note":"host city"}
+{"qid":678227,"place":"Fleurus","lat":50.4833,"lon":4.55,"precision":"city","confidence":"high","note":"battle at Fleurus"}
+{"qid":681702,"place":"Sörenberg","lat":46.81,"lon":8.03,"precision":"city","confidence":"high","note":"battle at Sörenberg"}
+{"qid":682452,"place":"Valletta","lat":35.8989,"lon":14.5146,"precision":"city","confidence":"medium","note":"island under siege, capital"}
+{"qid":682482,"place":"Lappeenranta","lat":61.0587,"lon":28.1887,"precision":"city","confidence":"low","note":"Villmanstrand battle"}
+{"qid":682636,"place":"Berlin","lat":52.52,"lon":13.405,"precision":"city","confidence":"high","note":"host city"}
+{"qid":683341,"place":"Milan","lat":45.4642,"lon":9.19,"precision":"city","confidence":"medium","note":"Bicocca battle near Milan"}
+{"qid":683479,"place":"Austria","lat":47.5162,"lon":14.5501,"precision":"country","confidence":"high","note":"national league"}
+{"qid":685934,"place":"Estadio Azteca","lat":19.3029,"lon":-99.1505,"precision":"site","confidence":"medium","note":"final venue"}

@@ -1,5 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:inspira/data/place_index.dart';
+import 'package:inspira/data/wiki_place_repository.dart';
 import 'package:inspira/models/event.dart';
 import 'package:inspira/models/story.dart';
 
@@ -70,5 +71,47 @@ void main() {
     // Lisbon and Porto share a 45 degree cell; one marker stays.
     expect(index.inBox(30, -20, 50, 0, cell: 45).length, 1);
     expect(index.inBox(30, -20, 50, 0, cell: 1).length, 2);
+  });
+
+  group('Wikipedia places', () {
+    final wiki = parseWikiPlaces(
+      '{"places": [["Siege of Lisbon", 1147, 38.71, -9.13, 0, 120], '
+      '["Battle of Aljubarrota", 1385, 39.6, -8.85, 1, 300], '
+      '["Battle of Actium", -31, 38.95, 20.74, 0, 900]]}',
+    );
+    final withWiki = PlaceIndex(
+      [_story('story-lisbon', lat: 38.7139, lon: -9.1394)],
+      const [],
+      wiki,
+    );
+
+    test('parse fields, BC years and links', () {
+      expect(wiki.length, 3);
+      expect(wiki[1].approximate, isTrue);
+      expect(wiki[2].yearLabel, '31 BC');
+      expect(wiki[0].url, 'https://en.wikipedia.org/wiki/Siege_of_Lisbon');
+      expect(withWiki.places.last.kind, 'wiki');
+    });
+
+    test('the own story of the app wins a marker cell over an article', () {
+      final one = withWiki.inBox(30, -20, 50, 0, cell: 45);
+      expect(one.single.id, 'story-lisbon');
+      // Among articles the better linked one wins.
+      final arts = PlaceIndex(
+        const [],
+        const [],
+        wiki,
+      ).inBox(30, -20, 50, 0, cell: 45);
+      expect(arts.single.title, 'Battle of Aljubarrota');
+    });
+
+    test('nearest keeps only the closest, in order', () {
+      final near = withWiki.nearest(38.7, -9.1, limit: 2);
+      expect(near.map((n) => n.$1.id), [
+        'wiki-Siege of Lisbon',
+        'story-lisbon',
+      ]);
+      expect(near[0].$2 <= near[1].$2, isTrue);
+    });
   });
 }

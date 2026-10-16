@@ -1,0 +1,50 @@
+{"qid":1514908,"place":"Santiago de Cuba","lat":20.0247,"lon":-75.8219,"precision":"city","confidence":"medium","note":"decisive 1898 battles"}
+{"qid":1516968,"place":"Apostolic Palace","lat":41.9038,"lon":12.454,"precision":"site","confidence":"high","note":"conclave venue"}
+{"qid":1518358,"place":"Sistine Chapel","lat":41.9029,"lon":12.4545,"precision":"site","confidence":"high","note":"conclave venue"}
+{"qid":1519107,"place":"Kabul","lat":34.5553,"lon":69.2075,"precision":"city","confidence":"medium","note":"conflict centred in capital"}
+{"qid":1527128,"place":"Iceland","lat":64.9631,"lon":-19.0208,"precision":"country","confidence":"high","note":"national league"}
+{"qid":1540737,"place":"Tétouan","lat":35.5785,"lon":-5.3684,"precision":"city","confidence":"medium","note":"Spanish took Tétouan"}
+{"qid":1542222,"place":"Beirut","lat":33.8938,"lon":35.5018,"precision":"city","confidence":"high","note":"mainly in Beirut"}
+{"qid":1545405,"place":"Waikato","lat":-37.7,"lon":175.3,"precision":"region","confidence":"medium","note":"main theatre of the wars"}
+{"qid":1551546,"place":"Philippines","lat":12.8797,"lon":121.774,"precision":"country","confidence":"high","note":"nationwide insurgency"}
+{"qid":1553256,"place":"Nicaragua","lat":12.8654,"lon":-85.2072,"precision":"country","confidence":"low","note":"civil war nationwide"}
+{"qid":1560122,"place":"Andorra la Vella","lat":42.5063,"lon":1.5218,"precision":"city","confidence":"medium","note":"Andorran league"}
+{"qid":1560445,"place":"Montreal","lat":45.5017,"lon":-73.5673,"precision":"city","confidence":"medium","note":"rebellions centred near Montreal"}
+{"qid":1565685,"place":"Luxembourg City","lat":49.6117,"lon":6.1319,"precision":"city","confidence":"high","note":"stated in lead"}
+{"qid":1567216,"place":"India","lat":20.5937,"lon":78.9629,"precision":"country","confidence":"high","note":"host country"}
+{"qid":1568407,"place":"Hinterzarten","lat":47.9042,"lon":8.1058,"precision":"city","confidence":"high","note":"season opening venue"}
+{"qid":1569276,"place":"Suva","lat":-18.1416,"lon":178.4419,"precision":"city","confidence":"medium","note":"host country Fiji"}
+{"qid":1569328,"place":"Maiduguri","lat":11.8333,"lon":13.15,"precision":"city","confidence":"high","note":"insurgency centre"}
+{"qid":1573486,"place":"Warsaw Chopin Airport","lat":52.1657,"lon":20.9671,"precision":"site","confidence":"high","note":"crash near airport"}
+{"qid":1578884,"place":"China","lat":35.8617,"lon":104.1954,"precision":"country","confidence":"high","note":"nationwide census"}
+{"qid":1579090,"place":"Bujumbura","lat":-3.3614,"lon":29.3599,"precision":"city","confidence":"medium","note":"nationwide, capital"}
+{"qid":1580704,"place":"Lomé","lat":6.1725,"lon":1.2314,"precision":"city","confidence":"medium","note":"nationwide, capital"}
+{"qid":1592910,"place":"United Kingdom","lat":55.3781,"lon":-3.436,"precision":"country","confidence":"high","note":"affected the UK"}
+{"qid":1604816,"place":"Vilnius","lat":54.6872,"lon":25.2797,"precision":"city","confidence":"medium","note":"war over Vilnius"}
+{"qid":1605083,"place":"Slovenia","lat":46.1512,"lon":14.9955,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":1605130,"place":"Slovenia","lat":46.1512,"lon":14.9955,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":1606186,"place":"Slovenia","lat":46.1512,"lon":14.9955,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":1607581,"place":"Slovenia","lat":46.1512,"lon":14.9955,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":1607964,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"high","note":"national league"}
+{"qid":1612417,"place":"Fleurus","lat":50.4833,"lon":4.55,"precision":"city","confidence":"high","note":"battle site"}
+{"qid":1612814,"place":"Cusco","lat":-13.532,"lon":-71.9675,"precision":"city","confidence":"high","note":"battle site"}
+{"qid":1626382,"place":"Venezuela","lat":6.4238,"lon":-66.5897,"precision":"country","confidence":"high","note":"national topic"}
+{"qid":1628162,"place":"Dili","lat":-8.5586,"lon":125.5736,"precision":"city","confidence":"medium","note":"nationwide, capital"}
+{"qid":1628984,"place":"Antananarivo","lat":-18.8792,"lon":47.5079,"precision":"city","confidence":"high","note":"crisis in capital"}
+{"qid":1630982,"place":"Rochor","lat":1.3118,"lon":103.8549,"precision":"city","confidence":"high","note":"hotel site in Rochor"}
+{"qid":1632491,"place":"Dakar","lat":14.7167,"lon":-17.4677,"precision":"city","confidence":"medium","note":"protests in capital"}
+{"qid":1634086,"place":"North Macedonia","lat":41.6086,"lon":21.7453,"precision":"country","confidence":"high","note":"national league"}
+{"qid":1634186,"place":"Ireland","lat":53.4129,"lon":-8.2439,"precision":"country","confidence":"high","note":"national league"}
+{"qid":1634613,"place":"Malé","lat":4.1755,"lon":73.5093,"precision":"city","confidence":"high","note":"coup attempt in capital"}
+{"qid":1637884,"place":"Central Province, Kenya","lat":-0.6,"lon":37.0,"precision":"region","confidence":"medium","note":"famine in central Kenya"}
+{"qid":1639203,"place":"Tamsalu","lat":59.1583,"lon":26.0917,"precision":"city","confidence":"high","note":"parish seat"}
+{"qid":1641168,"place":"Wanderers Stadium","lat":-26.1318,"lon":28.0597,"precision":"site","confidence":"medium","note":"final venue"}
+{"qid":1642290,"place":"Fleurus","lat":50.4833,"lon":4.55,"precision":"city","confidence":"high","note":"battle site"}
+{"qid":1651036,"place":"France","lat":46.2276,"lon":2.2137,"precision":"country","confidence":"high","note":"national league"}
+{"qid":1653215,"place":"Shanghai","lat":31.2304,"lon":121.4737,"precision":"city","confidence":"high","note":"stated in lead"}
+{"qid":1661131,"place":"Santa Monica, California","lat":34.0195,"lon":-118.4912,"precision":"city","confidence":"medium","note":"ceremony on Santa Monica beach"}
+{"qid":1661262,"place":"India","lat":20.5937,"lon":78.9629,"precision":"country","confidence":"high","note":"host country"}
+{"qid":1662330,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"high","note":"stated in infobox"}
+{"qid":1662504,"place":"Cassinga","lat":-15.1167,"lon":16.0667,"precision":"city","confidence":"medium","note":"main raid at Cassinga"}
+{"qid":1666929,"place":"Dili","lat":-8.5586,"lon":125.5736,"precision":"city","confidence":"medium","note":"deployment in Dili"}
+{"qid":1672404,"place":"Iran","lat":32.4279,"lon":53.688,"precision":"country","confidence":"high","note":"nationwide election"}

@@ -1,0 +1,50 @@
+{"qid":3534278,"place":"Kingston, Jamaica","lat":17.9712,"lon":-76.7936,"precision":"city","confidence":"low","note":"co-host Jamaica"}
+{"qid":3534279,"place":"Tegucigalpa","lat":14.0723,"lon":-87.1921,"precision":"city","confidence":"low","note":"co-host Honduras"}
+{"qid":3534283,"place":"San José, Costa Rica","lat":9.9281,"lon":-84.0907,"precision":"city","confidence":"low","note":"co-host Costa Rica"}
+{"qid":3534286,"place":"Kingston, Jamaica","lat":17.9712,"lon":-76.7936,"precision":"city","confidence":"low","note":"co-host Jamaica"}
+{"qid":3535291,"place":"England","lat":52.3555,"lon":-1.1743,"precision":"country","confidence":"low","note":"host unclear"}
+{"qid":3535337,"place":"Berlin","lat":52.52,"lon":13.405,"precision":"city","confidence":"medium","note":"before Berlin Olympics"}
+{"qid":3535339,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"high","note":"played in Paris"}
+{"qid":3535345,"place":"Utrecht","lat":52.0907,"lon":5.1214,"precision":"city","confidence":"low","note":"first European Cup"}
+{"qid":3535383,"place":"Sydney","lat":-33.8688,"lon":151.2093,"precision":"city","confidence":"low","note":"Australian host"}
+{"qid":3535392,"place":"Apia","lat":-13.8333,"lon":-171.7667,"precision":"city","confidence":"low","note":"Samoa host"}
+{"qid":3535393,"place":"Nouméa","lat":-22.2758,"lon":166.458,"precision":"city","confidence":"low","note":"New Caledonia host"}
+{"qid":3535469,"place":"Johannesburg","lat":-26.2041,"lon":28.0473,"precision":"city","confidence":"low","note":"South Africa tour"}
+{"qid":3535480,"place":"Durban","lat":-29.8587,"lon":31.0218,"precision":"city","confidence":"medium","note":"series decided in Durban"}
+{"qid":3540595,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"host unknown"}
+{"qid":3540596,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"host unknown"}
+{"qid":3540598,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"host unknown"}
+{"qid":3540599,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"host unknown"}
+{"qid":3540600,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"host unknown"}
+{"qid":3540601,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"host unknown"}
+{"qid":3540603,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"host unknown"}
+{"qid":3540604,"place":"Toulouse","lat":43.6047,"lon":1.4442,"precision":"city","confidence":"medium","note":"Midi-Pyrénées near Toulouse"}
+{"qid":3540606,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"host unknown"}
+{"qid":3540607,"place":"Netherlands","lat":52.1326,"lon":5.2913,"precision":"country","confidence":"medium","note":"played in Netherlands"}
+{"qid":3540608,"place":"A Coruña","lat":43.3623,"lon":-8.4115,"precision":"city","confidence":"high","note":"venues around A Coruña"}
+{"qid":3543909,"place":"Czech Republic","lat":49.8175,"lon":15.473,"precision":"country","confidence":"medium","note":"nationwide poisonings"}
+{"qid":3544842,"place":"Singapore Indoor Stadium","lat":1.3003,"lon":103.875,"precision":"site","confidence":"medium","note":"host venue"}
+{"qid":3545916,"place":"Istanbul","lat":41.0082,"lon":28.9784,"precision":"city","confidence":"high","note":"Ottoman capital"}
+{"qid":3560385,"place":"Damascus","lat":33.5138,"lon":36.2765,"precision":"city","confidence":"high","note":"coup in capital"}
+{"qid":3562309,"place":"Battle of the Eurymedon","lat":36.8833,"lon":31.1667,"precision":"site","confidence":"low","note":"defining battle"}
+{"qid":3567222,"place":"Athens","lat":37.9838,"lon":23.7275,"precision":"city","confidence":"high","note":"Pacifico's house in Athens"}
+{"qid":3570456,"place":"Dublin","lat":53.3498,"lon":-6.2603,"precision":"city","confidence":"medium","note":"Irish government seat"}
+{"qid":3571426,"place":"Albarracín","lat":40.4075,"lon":-1.4414,"precision":"city","confidence":"high","note":"besieged town"}
+{"qid":3583039,"place":"Aarhus","lat":56.1572,"lon":10.2107,"precision":"city","confidence":"high","note":"fell at Aarhus"}
+{"qid":3597907,"place":"Basildon","lat":51.5761,"lon":0.4887,"precision":"city","confidence":"low","note":"band origin"}
+{"qid":3604457,"place":"Aleppo","lat":36.2021,"lon":37.1343,"precision":"city","confidence":"low","note":"revolt began in Aleppo"}
+{"qid":3609019,"place":"Dar es Salaam","lat":-6.7924,"lon":39.2083,"precision":"city","confidence":"high","note":"host city"}
+{"qid":3622772,"place":"Chalcis","lat":38.4636,"lon":23.5997,"precision":"city","confidence":"high","note":"besieged city"}
+{"qid":3625057,"place":"Tokyo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"high","note":"played in Tokyo"}
+{"qid":3625061,"place":"Colombo","lat":6.9271,"lon":79.8612,"precision":"city","confidence":"high","note":"played in Colombo"}
+{"qid":3625063,"place":"Taipei","lat":25.033,"lon":121.5654,"precision":"city","confidence":"high","note":"played in Taipei"}
+{"qid":3625064,"place":"Singapore","lat":1.3521,"lon":103.8198,"precision":"city","confidence":"high","note":"played in Singapore"}
+{"qid":3625065,"place":"Fukuoka","lat":33.5904,"lon":130.4017,"precision":"city","confidence":"high","note":"played in Fukuoka"}
+{"qid":3625068,"place":"Hong Kong","lat":22.3193,"lon":114.1694,"precision":"city","confidence":"high","note":"played in Hong Kong"}
+{"qid":3625069,"place":"Colombo","lat":6.9271,"lon":79.8612,"precision":"city","confidence":"high","note":"played in Colombo"}
+{"qid":3625070,"place":"Kuala Lumpur","lat":3.139,"lon":101.6869,"precision":"city","confidence":"high","note":"played in Kuala Lumpur"}
+{"qid":3625071,"place":"Taipei","lat":25.033,"lon":121.5654,"precision":"city","confidence":"high","note":"played in Taipei"}
+{"qid":3625430,"place":"Mirandola","lat":44.8869,"lon":11.0661,"precision":"city","confidence":"high","note":"besieged town"}
+{"qid":3625432,"place":"Mirandola","lat":44.8869,"lon":11.0661,"precision":"city","confidence":"high","note":"besieged town"}
+{"qid":3625481,"place":"Genoa","lat":44.4056,"lon":8.9463,"precision":"city","confidence":"high","note":"besieged city"}
+{"qid":3625516,"place":"Ravenna","lat":44.4184,"lon":12.2035,"precision":"city","confidence":"high","note":"besieged city"}

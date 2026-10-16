@@ -1,0 +1,50 @@
+{"qid":1814745,"place":"Jaffna","lat":9.6615,"lon":80.0255,"precision":"city","confidence":"medium","note":"northern war centre"}
+{"qid":1818062,"place":"Singapore","lat":1.3521,"lon":103.8198,"precision":"city","confidence":"high","note":"host city"}
+{"qid":1823040,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"medium","note":"hosted in France, final Paris"}
+{"qid":1825052,"place":"Rio de Janeiro","lat":-22.9068,"lon":-43.1729,"precision":"city","confidence":"low","note":"nationwide, no single city"}
+{"qid":1829224,"place":"Grez-Doiceau","lat":50.7425,"lon":4.6991,"precision":"city","confidence":"high","note":"crash at Pécrot village"}
+{"qid":1837704,"place":"Constantinople","lat":41.0082,"lon":28.9784,"precision":"city","confidence":"medium","note":"Ottoman capital"}
+{"qid":1839761,"place":"Catania","lat":37.5079,"lon":15.083,"precision":"city","confidence":"high","note":"host city"}
+{"qid":1849818,"place":"Edgcote","lat":52.1,"lon":-1.24,"precision":"city","confidence":"medium","note":"battle near Edgcote"}
+{"qid":1851212,"place":"São Tomé Island","lat":0.3365,"lon":6.7273,"precision":"region","confidence":"medium","note":"Batepá village on island"}
+{"qid":1854213,"place":"Copenhagen","lat":55.6761,"lon":12.5683,"precision":"city","confidence":"low","note":"pageant location uncertain"}
+{"qid":1854672,"place":"Venlo","lat":51.3704,"lon":6.1724,"precision":"city","confidence":"high","note":"siege of Venlo"}
+{"qid":1855150,"place":"Kigali","lat":-1.9441,"lon":30.0619,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":1859259,"place":"Ankara","lat":39.9334,"lon":32.8597,"precision":"city","confidence":"high","note":"coup in capital"}
+{"qid":1859432,"place":"Varna Necropolis","lat":43.2,"lon":27.9,"precision":"site","confidence":"medium","note":"type site"}
+{"qid":1860257,"place":"Drogheda","lat":53.7179,"lon":-6.3561,"precision":"city","confidence":"medium","note":"defining Drogheda sack 1649"}
+{"qid":1861882,"place":"New Delhi","lat":28.6139,"lon":77.209,"precision":"city","confidence":"low","note":"census headquarters"}
+{"qid":1878803,"place":"Ramallah","lat":31.9038,"lon":35.2034,"precision":"city","confidence":"high","note":"lynching in Ramallah"}
+{"qid":1885246,"place":"Barcelona","lat":41.3851,"lon":2.1734,"precision":"city","confidence":"high","note":"clashes in Barcelona"}
+{"qid":1886212,"place":"Rössen","lat":51.3167,"lon":11.95,"precision":"city","confidence":"medium","note":"named after Rössen necropolis"}
+{"qid":1887494,"place":"Uji, Kyoto","lat":34.8844,"lon":135.7997,"precision":"city","confidence":"high","note":"battle at Uji"}
+{"qid":1887848,"place":"Valletta","lat":35.8989,"lon":14.5146,"precision":"city","confidence":"low","note":"national league"}
+{"qid":1888178,"place":"Bishkek","lat":42.8746,"lon":74.5698,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":1907402,"place":"Karantina, Beirut","lat":33.8869,"lon":35.5131,"precision":"city","confidence":"high","note":"massacre site"}
+{"qid":1907407,"place":"Tamines","lat":50.43,"lon":4.58,"precision":"city","confidence":"high","note":"massacre in Tamines"}
+{"qid":1907554,"place":"Evin Prison","lat":35.7936,"lon":51.3856,"precision":"site","confidence":"medium","note":"Tehran prison, key site"}
+{"qid":1913209,"place":"Ruiselede","lat":51.05,"lon":3.3833,"precision":"city","confidence":"medium","note":"near Thielt"}
+{"qid":1915188,"place":"Moengo","lat":5.6167,"lon":-54.4,"precision":"city","confidence":"medium","note":"eastern Suriname fighting"}
+{"qid":1921184,"place":"Loppem Castle","lat":51.1167,"lon":3.1,"precision":"site","confidence":"medium","note":"meetings at Loppem castle"}
+{"qid":1924575,"place":"Brussels","lat":50.8503,"lon":4.3517,"precision":"city","confidence":"high","note":"siege of Brussels"}
+{"qid":1929123,"place":"Mount Scopus","lat":31.7944,"lon":35.2431,"precision":"site","confidence":"high","note":"convoy attacked at Scopus"}
+{"qid":1931877,"place":"Havana","lat":23.1136,"lon":-82.3666,"precision":"city","confidence":"low","note":"deployment in Cuba"}
+{"qid":1935163,"place":"Ho Chi Minh City","lat":10.7769,"lon":106.7009,"precision":"city","confidence":"high","note":"Saigon coup attempt"}
+{"qid":1935555,"place":"Chișinău","lat":47.0105,"lon":28.8638,"precision":"city","confidence":"high","note":"council met in Chișinău"}
+{"qid":1937970,"place":"Vaduz","lat":47.141,"lon":9.5209,"precision":"city","confidence":"medium","note":"Liechtenstein host"}
+{"qid":1960733,"place":"Monrovia","lat":6.3156,"lon":-10.8074,"precision":"city","confidence":"medium","note":"capital, fighting centre"}
+{"qid":1970159,"place":"Grenada","lat":12.1165,"lon":-61.679,"precision":"country","confidence":"medium","note":"naval battle off Grenada"}
+{"qid":1972096,"place":"Grozny","lat":43.3178,"lon":45.6949,"precision":"city","confidence":"high","note":"battle for Grozny"}
+{"qid":1976830,"place":"Kyiv","lat":50.4501,"lon":30.5234,"precision":"city","confidence":"medium","note":"census nationwide, capital"}
+{"qid":1980081,"place":"Kabul","lat":34.5553,"lon":69.2075,"precision":"city","confidence":"high","note":"civil war in Kabul"}
+{"qid":1980780,"place":"White City Stadium","lat":51.512,"lon":-0.224,"precision":"site","confidence":"high","note":"1908 Olympics stadium"}
+{"qid":1984406,"place":"Oslo","lat":59.9139,"lon":10.7522,"precision":"city","confidence":"medium","note":"final held in Oslo"}
+{"qid":1989341,"place":"Tbilisi","lat":41.7151,"lon":44.8271,"precision":"city","confidence":"medium","note":"programme based in Tbilisi"}
+{"qid":1993171,"place":"Cairo","lat":30.0444,"lon":31.2357,"precision":"city","confidence":"high","note":"revolution centred in Cairo"}
+{"qid":1993476,"place":"Führerbunker","lat":52.5125,"lon":13.3811,"precision":"site","confidence":"high","note":"suicide in bunker"}
+{"qid":1993848,"place":"Cuito Cuanavale","lat":-15.1667,"lon":19.1667,"precision":"city","confidence":"medium","note":"defining battle of war"}
+{"qid":1998777,"place":"Montevideo","lat":-34.9011,"lon":-56.1645,"precision":"city","confidence":"low","note":"host uncertain"}
+{"qid":2002975,"place":"Kathmandu","lat":27.7172,"lon":85.324,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":2015343,"place":"Cairo","lat":30.0444,"lon":31.2357,"precision":"city","confidence":"high","note":"riots in Cairo"}
+{"qid":2019678,"place":"Quirinal Palace","lat":41.9009,"lon":12.4872,"precision":"site","confidence":"high","note":"conclave venue"}
+{"qid":2021855,"place":"Sarajevo","lat":43.8563,"lon":18.4131,"precision":"city","confidence":"low","note":"national league"}

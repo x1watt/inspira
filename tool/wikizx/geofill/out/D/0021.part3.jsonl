@@ -1,0 +1,50 @@
+{"qid":74108697,"place":"Valencia","lat":39.4699,"lon":-0.3763,"precision":"city","confidence":"high","note":"Estadio Betero"}
+{"qid":74109700,"place":"Hamburg","lat":53.5511,"lon":9.9937,"precision":"city","confidence":"high","note":"Club an der Alster"}
+{"qid":74109802,"place":"Lismore, New South Wales","lat":-28.8133,"lon":153.2772,"precision":"city","confidence":"high","note":"Lismore Hockey Centre"}
+{"qid":74109817,"place":"Tokyo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"high","note":"Oi Hockey Stadium"}
+{"qid":74109920,"place":"Santiago","lat":-33.4489,"lon":-70.6693,"precision":"city","confidence":"high","note":"Prince of Wales Country Club"}
+{"qid":74109934,"place":"Santiago","lat":-33.4489,"lon":-70.6693,"precision":"city","confidence":"high","note":"Prince of Wales Country Club"}
+{"qid":74111092,"place":"Munich","lat":48.1351,"lon":11.582,"precision":"city","confidence":"high","note":"Munchner SportClub"}
+{"qid":74114498,"place":"Tokyo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"high","note":"Oi Hockey Stadium"}
+{"qid":74120436,"place":"Australia","lat":-25.2744,"lon":133.7751,"precision":"country","confidence":"medium","note":"national league across states"}
+{"qid":74121280,"place":"Australia","lat":-25.2744,"lon":133.7751,"precision":"country","confidence":"medium","note":"league across eight cities"}
+{"qid":74121814,"place":"Mendoza, Argentina","lat":-32.8895,"lon":-68.8458,"precision":"city","confidence":"high","note":"scheduled in Mendoza"}
+{"qid":74122275,"place":"Gold Coast, Queensland","lat":-28.0167,"lon":153.4,"precision":"city","confidence":"high","note":"Keith Hunt Park"}
+{"qid":74122379,"place":"Wellington","lat":-41.2866,"lon":174.7756,"precision":"city","confidence":"high","note":"National Hockey Stadium"}
+{"qid":74122858,"place":"Sydney","lat":-33.8688,"lon":151.2093,"precision":"city","confidence":"low","note":"finals city unclear"}
+{"qid":74124908,"place":"Kakamigahara, Gifu","lat":35.3986,"lon":136.8486,"precision":"city","confidence":"high","note":"scheduled host"}
+{"qid":74124934,"place":"Taldykorgan","lat":45.0156,"lon":78.3739,"precision":"city","confidence":"high","note":"held in Taldykorgan"}
+{"qid":74137021,"place":"Seoul","lat":37.5665,"lon":126.978,"precision":"city","confidence":"medium","note":"Mnet based in Seoul"}
+{"qid":74457482,"place":"La Paz","lat":-16.4897,"lon":-68.1193,"precision":"city","confidence":"high","note":"crisis centred in La Paz"}
+{"qid":74540496,"place":"Kazakhstan","lat":48.0196,"lon":66.9237,"precision":"country","confidence":"medium","note":"national league"}
+{"qid":74657476,"place":"Bahrain International Circuit","lat":26.0325,"lon":50.5106,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":74672837,"place":"Republic of Ireland","lat":53.1424,"lon":-7.6921,"precision":"country","confidence":"medium","note":"national league"}
+{"qid":75124149,"place":"Lautoka","lat":-17.6167,"lon":177.45,"precision":"city","confidence":"high","note":"Churchill Park"}
+{"qid":75818107,"place":"Cambodia","lat":12.5657,"lon":104.991,"precision":"country","confidence":"medium","note":"national league"}
+{"qid":76412544,"place":"Spain","lat":40.4637,"lon":-3.7492,"precision":"country","confidence":"medium","note":"national league"}
+{"qid":76460073,"place":"Peru","lat":-9.19,"lon":-75.0152,"precision":"country","confidence":"medium","note":"national league"}
+{"qid":76497723,"place":"Colombo","lat":6.9271,"lon":79.8612,"precision":"city","confidence":"medium","note":"tour in Sri Lanka"}
+{"qid":76497751,"place":"Colombo","lat":6.9271,"lon":79.8612,"precision":"city","confidence":"low","note":"tour in Sri Lanka"}
+{"qid":76761944,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"medium","note":"national league"}
+{"qid":77458574,"place":"Urmia","lat":37.5527,"lon":45.0761,"precision":"city","confidence":"low","note":"Ottoman incursion in Urmia area"}
+{"qid":77569543,"place":"Iraq","lat":33.2232,"lon":43.6793,"precision":"country","confidence":"medium","note":"strikes on PMF bases"}
+{"qid":77927099,"place":"Belarus","lat":53.7098,"lon":27.9534,"precision":"country","confidence":"medium","note":"national league"}
+{"qid":78329541,"place":"Culebra, Puerto Rico","lat":18.3,"lon":-65.28,"precision":"region","confidence":"low","note":"naval battle off West Kay"}
+{"qid":78435146,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"medium","note":"national league"}
+{"qid":79373548,"place":"Visayas","lat":11.0,"lon":124.0,"precision":"region","confidence":"medium","note":"typhoon crossed central Philippines"}
+{"qid":80550133,"place":"Hong Kong","lat":22.3193,"lon":114.1694,"precision":"city","confidence":"high","note":"events in Hong Kong"}
+{"qid":81607808,"place":"Harare","lat":-17.8252,"lon":31.0335,"precision":"city","confidence":"medium","note":"tour in Zimbabwe"}
+{"qid":81722501,"place":"Windsor, Berkshire","lat":51.4839,"lon":-0.6044,"precision":"city","confidence":"medium","note":"Windsor royal base"}
+{"qid":81877191,"place":"Tehran","lat":35.6892,"lon":51.389,"precision":"city","confidence":"high","note":"protests centred in Tehran"}
+{"qid":82016549,"place":"Monte Carlo","lat":43.7396,"lon":7.4276,"precision":"city","confidence":"high","note":"start and finish Monaco"}
+{"qid":83225502,"place":"Drogheda","lat":53.7179,"lon":-6.3561,"precision":"city","confidence":"medium","note":"killed in Drogheda"}
+{"qid":83347039,"place":"Russia","lat":61.524,"lon":105.3188,"precision":"country","confidence":"high","note":"nationwide vote"}
+{"qid":83872291,"place":"Japan","lat":36.2048,"lon":138.2529,"precision":"country","confidence":"high","note":"national pandemic"}
+{"qid":83872398,"place":"South Korea","lat":35.9078,"lon":127.7669,"precision":"country","confidence":"high","note":"national pandemic"}
+{"qid":83873057,"place":"Vietnam","lat":14.0583,"lon":108.2772,"precision":"country","confidence":"high","note":"national pandemic"}
+{"qid":83873387,"place":"Singapore","lat":1.3521,"lon":103.8198,"precision":"city","confidence":"high","note":"city-state"}
+{"qid":83873548,"place":"Australia","lat":-25.2744,"lon":133.7751,"precision":"country","confidence":"high","note":"national pandemic"}
+{"qid":83873566,"place":"Thailand","lat":15.87,"lon":100.9925,"precision":"country","confidence":"high","note":"national pandemic"}
+{"qid":83873573,"place":"Nepal","lat":28.3949,"lon":84.124,"precision":"country","confidence":"high","note":"national pandemic"}
+{"qid":83873577,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"high","note":"national pandemic"}
+{"qid":83873580,"place":"Canada","lat":56.1304,"lon":-106.3468,"precision":"country","confidence":"high","note":"national pandemic"}

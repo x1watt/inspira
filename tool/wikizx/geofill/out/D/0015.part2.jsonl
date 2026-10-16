@@ -1,0 +1,50 @@
+{"qid":13181798,"place":"Kathmandu","lat":27.7172,"lon":85.324,"precision":"city","confidence":"medium","note":"national census, capital"}
+{"qid":13183512,"place":"Kathmandu","lat":27.7172,"lon":85.324,"precision":"city","confidence":"medium","note":"national census, capital"}
+{"qid":13217972,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":""}
+{"qid":13376491,"place":"Ukraine","lat":48.3794,"lon":31.1656,"precision":"country","confidence":"medium","note":"nationwide cup"}
+{"qid":13405484,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":13410316,"place":"Gezi Park","lat":41.0369,"lon":28.9858,"precision":"site","confidence":"high","note":"protests began at Gezi Park"}
+{"qid":13414773,"place":"Nantou County","lat":23.9,"lon":120.97,"precision":"region","confidence":"medium","note":"epicentre in Nantou"}
+{"qid":13415375,"place":"Ulaanbaatar","lat":47.8864,"lon":106.9057,"precision":"city","confidence":"medium","note":"national election, capital"}
+{"qid":13420243,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":13435464,"place":"Luxembourg City","lat":49.6117,"lon":6.1319,"precision":"city","confidence":"medium","note":"invasion of the capital"}
+{"qid":13449461,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"high","note":"Tony Awards in New York"}
+{"qid":13513029,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":""}
+{"qid":13534532,"place":"Kolašin","lat":42.8225,"lon":19.5183,"precision":"city","confidence":"high","note":"crash near Kolašin"}
+{"qid":13548784,"place":"Mineirinho Arena","lat":-19.8619,"lon":-43.9708,"precision":"site","confidence":"high","note":"event venue"}
+{"qid":13581717,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":13582222,"place":"Taiwan","lat":23.6978,"lon":120.9605,"precision":"country","confidence":"medium","note":"league in Taiwan"}
+{"qid":13599277,"place":"Tuzla","lat":44.5384,"lon":18.6671,"precision":"city","confidence":"low","note":"eastern Bosnia operation"}
+{"qid":13831504,"place":"Harare","lat":-17.8252,"lon":31.0335,"precision":"city","confidence":"medium","note":"main venue city"}
+{"qid":13848007,"place":"France","lat":46.6034,"lon":1.8883,"precision":"country","confidence":"medium","note":"nationwide cup"}
+{"qid":13976195,"place":"Port Moresby","lat":-9.4438,"lon":147.1803,"precision":"city","confidence":"high","note":"Lloyd Robson Oval"}
+{"qid":14016881,"place":"Italy","lat":41.8719,"lon":12.5674,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":14050451,"place":"Port Louis","lat":-20.1609,"lon":57.5012,"precision":"city","confidence":"low","note":"held in Mauritius"}
+{"qid":14089220,"place":"Switzerland","lat":46.8182,"lon":8.2275,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":14096556,"place":"Montenegro","lat":42.7087,"lon":19.3744,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":14096682,"place":"North Macedonia","lat":41.6086,"lon":21.7453,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":14124291,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":""}
+{"qid":14347048,"place":"Cologne","lat":50.9375,"lon":6.9603,"precision":"city","confidence":"low","note":"cup final city"}
+{"qid":14454865,"place":"Portugal","lat":39.3999,"lon":-8.2245,"precision":"country","confidence":"medium","note":"nationwide cup"}
+{"qid":14507087,"place":"Oeiras, Portugal","lat":38.697,"lon":-9.3078,"precision":"city","confidence":"low","note":"final at Estadio Nacional"}
+{"qid":14508702,"place":"Madrid","lat":40.4168,"lon":-3.7038,"precision":"city","confidence":"low","note":"national election, capital"}
+{"qid":14573935,"place":"Barueri","lat":-23.5106,"lon":-46.8761,"precision":"city","confidence":"high","note":"Ginasio Jose Correa"}
+{"qid":14600590,"place":"Malta","lat":35.9375,"lon":14.3754,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":14602161,"place":"Vienna","lat":48.2082,"lon":16.3738,"precision":"city","confidence":"high","note":"host city"}
+{"qid":14602163,"place":"Lausanne","lat":46.5197,"lon":6.6323,"precision":"city","confidence":"high","note":"host city"}
+{"qid":14602174,"place":"Athens","lat":37.9838,"lon":23.7275,"precision":"city","confidence":"high","note":"host city"}
+{"qid":14602213,"place":"Cambrai","lat":50.1757,"lon":3.2347,"precision":"city","confidence":"high","note":"host city"}
+{"qid":14623332,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":14634138,"place":"Harare","lat":-17.8252,"lon":31.0335,"precision":"city","confidence":"medium","note":"main venue city"}
+{"qid":14746872,"place":"Daraa","lat":32.6189,"lon":36.1021,"precision":"city","confidence":"medium","note":"uprising began in Daraa"}
+{"qid":14874259,"place":"Nicoll Highway","lat":1.3025,"lon":103.8658,"precision":"site","confidence":"high","note":"tunnel collapse site"}
+{"qid":14914376,"place":"Lisbon","lat":38.7223,"lon":-9.1393,"precision":"city","confidence":"high","note":"university in Lisbon"}
+{"qid":14923283,"place":"Dhaka","lat":23.8103,"lon":90.4125,"precision":"city","confidence":"medium","note":"main venue city"}
+{"qid":14949612,"place":"Italy","lat":41.8719,"lon":12.5674,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":14949613,"place":"Italy","lat":41.8719,"lon":12.5674,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":15027452,"place":"Johannesburg","lat":-26.2041,"lon":28.0473,"precision":"city","confidence":"low","note":"major venue city"}
+{"qid":15043071,"place":"Nairobi","lat":-1.2921,"lon":36.8219,"precision":"city","confidence":"high","note":"host city"}
+{"qid":15043438,"place":"Merkers-Kieselbach","lat":50.8,"lon":10.1,"precision":"city","confidence":"low","note":"salt mine near Merkers"}
+{"qid":15080410,"place":"Camarate","lat":38.8045,"lon":-9.1255,"precision":"city","confidence":"high","note":"crash at Camarate"}
+{"qid":15145562,"place":"Zagreb","lat":45.815,"lon":15.9819,"precision":"city","confidence":"medium","note":"national referendum, capital"}
+{"qid":15197077,"place":"Algiers","lat":36.7538,"lon":3.0588,"precision":"city","confidence":"medium","note":"national election, capital"}

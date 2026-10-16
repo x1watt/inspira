@@ -94,6 +94,14 @@ all events into `assets/events.json`, all sorted oldest first. Run it after any 
 
 The app never reads `quotes/` or `stories/` directly.
 
+`assets/wiki_places.json` is written by `tool/wikizx/bin/export_wikiplaces.dart`
+from the offline Wikipedia work (`docs/plan-offline-wikipedia.md`,
+`docs/plan-geofill.md`): the 20,000 most linked dated English Wikipedia
+articles about events that have a place, as `[title, year, lat, lon,
+approximate, links]`. Inspira's own events, people, places, languages,
+organisations, works, elections, low confidence points and points that
+are only a country, continent or ocean are left out.
+
 ### Images
 
 `assets/images.json` lists the bundled pictures, written by
@@ -124,7 +132,8 @@ always shows the same picture.
 | `lib/data/progress_store.dart` | XP, levels, daily goal, streak and freezes, quiz review boxes, feed affinity, seen and read ids; one JSON value in `shared_preferences` |
 | `lib/data/quiz_generator.dart` | questions made from the data: who said this, what is the lesson, what did the study show, when did it happen, what happened on this day |
 | `lib/data/feed_engine.dart` | the endless feed: which card comes next |
-| `lib/data/place_index.dart` | events and stories with coordinates: closest to a point, most important inside a box |
+| `lib/data/wiki_place_repository.dart` | loads `assets/wiki_places.json`: Wikipedia events with a place, for the map |
+| `lib/data/place_index.dart` | events, stories and Wikipedia places with coordinates: closest to a point, most important inside a box |
 | `lib/app_scope.dart` | `AppData` (everything loaded at startup) in an `InheritedWidget`, inserted by `MaterialApp.builder` above the Navigator so pushed routes see it |
 | `lib/screens/` | Feed (home), Quiz (the feed in quiz mode), Quotes (categories, list with search), Stories (story of the day, categories, list with kind filter and search), Map (events and stories around the user on OpenStreetMap tiles, closest listed by distance, a sheet with the full text and directions), On this day (events of a calendar day, ranked by weight, with Wikipedia and map links; arrows and a calendar change the day), Favorites and Me (streak, goal, levels, credits), opened from the map, calendar, star and person buttons at the top (`TopActions`) so the bottom bar has four tabs, single quote, single story |
 | `lib/widgets/` | feed pages (quote, story, event, quiz), `EventDetails` (shared by the event card and On this day) with the action rail, `ArtBackground`, `Confetti`, `QuoteCard`, `StoryCard`, `ItemActions`, quote and story tiles and lists |
@@ -209,8 +218,11 @@ everything else stays offline.
   no location plugin, or permission denied) the map starts on the world
   and the list measures from the map center.
 - Markers: the 200 most important places inside the view (events by
-  weight, then history, study, story), recomputed 200 ms after the map
-  stops moving.
+  weight, then history, study, story, then Wikipedia places by incoming
+  links, so Inspira's own content wins a marker cell), recomputed 200 ms
+  after the map stops moving.
+- Wikipedia places (grey globe) open a sheet with the year, a note when
+  the place is approximate, Directions and Read on Wikipedia.
 - The sheet under the map lists the 50 closest places with distance.
 - A place opens a sheet with its picture, the whole text, and Directions
   (a Google Maps directions link, which opens the maps app on phones).

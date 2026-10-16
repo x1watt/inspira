@@ -1,0 +1,50 @@
+{"qid":87250897,"place":"Skopje","lat":41.9981,"lon":21.4254,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87250913,"place":"Tbilisi","lat":41.7151,"lon":44.8271,"precision":"city","confidence":"high","note":"first case in Tbilisi"}
+{"qid":87250948,"place":"Ljubljana","lat":46.0569,"lon":14.5058,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87343682,"place":"Tunis","lat":36.8065,"lon":10.1815,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87405199,"place":"Oslo","lat":59.9139,"lon":10.7522,"precision":"city","confidence":"low","note":"national league"}
+{"qid":87412028,"place":"Bandar Seri Begawan","lat":4.8903,"lon":114.9422,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87450756,"place":"Tirana","lat":41.3275,"lon":19.8187,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87454162,"place":"Muscat, Oman","lat":23.588,"lon":58.3829,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87477462,"place":"San José, Costa Rica","lat":9.9281,"lon":-84.0907,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87477841,"place":"Panama City","lat":8.9824,"lon":-79.5199,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87480220,"place":"La Paz","lat":-16.4897,"lon":-68.1193,"precision":"city","confidence":"medium","note":"seat of government"}
+{"qid":87486535,"place":"Sofia","lat":42.6977,"lon":23.3219,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87540454,"place":"Dhaka","lat":23.8103,"lon":90.4125,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87563855,"place":"Santo Domingo","lat":18.4861,"lon":-69.9312,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87580938,"place":"Nicosia","lat":35.1856,"lon":33.3823,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87587760,"place":"Valletta","lat":35.8989,"lon":14.5146,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87587763,"place":"Lima","lat":-12.0464,"lon":-77.0428,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87589123,"place":"Asunción","lat":-25.2637,"lon":-57.5759,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87589148,"place":"Amman","lat":31.9454,"lon":35.9284,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87589392,"place":"Tegucigalpa","lat":14.0723,"lon":-87.1921,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87590993,"place":"Havana","lat":23.1136,"lon":-82.3666,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87592982,"place":"Chișinău","lat":47.0105,"lon":28.8638,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87610822,"place":"Kingston, Jamaica","lat":17.9712,"lon":-76.7928,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87648634,"place":"Yerevan","lat":40.1792,"lon":44.4991,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87651970,"place":"Conakry","lat":9.6412,"lon":-13.5784,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87651995,"place":"Almaty","lat":43.222,"lon":76.8512,"precision":"city","confidence":"low","note":"largest city"}
+{"qid":87652000,"place":"Karachi","lat":24.8607,"lon":67.0011,"precision":"city","confidence":"low","note":"first cases in Karachi"}
+{"qid":87652010,"place":"Caracas","lat":10.4806,"lon":-66.9036,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87655119,"place":"Pristina","lat":42.6629,"lon":21.1655,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87657486,"place":"Khartoum","lat":15.5007,"lon":32.5599,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87659698,"place":"Georgetown, Guyana","lat":6.8013,"lon":-58.1551,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87662819,"place":"Lomé","lat":6.1319,"lon":1.2228,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87664046,"place":"Paramaribo","lat":5.852,"lon":-55.2038,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87665038,"place":"Addis Ababa","lat":9.032,"lon":38.7469,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87665364,"place":"Ouagadougou","lat":12.3714,"lon":-1.5197,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87687648,"place":"Kingstown","lat":13.1587,"lon":-61.2248,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87694131,"place":"Port of Spain","lat":10.6549,"lon":-61.5019,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87704267,"place":"Abidjan","lat":5.36,"lon":-4.0083,"precision":"city","confidence":"medium","note":"largest city"}
+{"qid":87705884,"place":"Nairobi","lat":-1.2921,"lon":36.8219,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87706558,"place":"Kinshasa","lat":-4.4419,"lon":15.2663,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87707727,"place":"Castries","lat":14.0101,"lon":-60.9875,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87708331,"place":"St. John's, Antigua and Barbuda","lat":17.1175,"lon":-61.8456,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87708719,"place":"Oranjestad, Aruba","lat":12.5186,"lon":-70.0358,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87709760,"place":"Willemstad, Curaçao","lat":12.1224,"lon":-68.8824,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87709900,"place":"Nouakchott","lat":18.0735,"lon":-15.9582,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87709973,"place":"Mbabane","lat":-26.3054,"lon":31.1367,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87714704,"place":"Kigali","lat":-1.9441,"lon":30.0619,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87715166,"place":"Thimphu","lat":27.4728,"lon":89.639,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87715843,"place":"Andorra la Vella","lat":42.5063,"lon":1.5218,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":87718451,"place":"Lagos","lat":6.5244,"lon":3.3792,"precision":"city","confidence":"medium","note":"first case in Lagos"}

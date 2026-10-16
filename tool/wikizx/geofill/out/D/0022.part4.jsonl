@@ -1,0 +1,50 @@
+{"qid":89193856,"place":"Bujumbura","lat":-3.3614,"lon":29.3599,"precision":"city","confidence":"medium","note":"largest city"}
+{"qid":89194084,"place":"Jerusalem","lat":31.7683,"lon":35.2137,"precision":"city","confidence":"medium","note":"Knesset seat"}
+{"qid":89277064,"place":"Yaren District","lat":-0.5477,"lon":166.9209,"precision":"city","confidence":"medium","note":"de facto capital"}
+{"qid":89285378,"place":"Lilongwe","lat":-13.9626,"lon":33.7741,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":89413165,"place":"Hargeisa","lat":9.56,"lon":44.065,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":89560617,"place":"Juba","lat":4.8594,"lon":31.5713,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":89598747,"place":"São Tomé","lat":0.3365,"lon":6.7273,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":89695985,"place":"Aden","lat":12.7855,"lon":45.0187,"precision":"city","confidence":"low","note":"interim capital"}
+{"qid":89806028,"place":"Laayoune","lat":27.1253,"lon":-13.1625,"precision":"city","confidence":"low","note":"largest city"}
+{"qid":89872880,"place":"Stepanakert","lat":39.8153,"lon":46.7519,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":90137185,"place":"Sukhumi","lat":43.0015,"lon":41.0234,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":90410569,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"online controversy"}
+{"qid":92455639,"place":"Amsterdam","lat":52.3676,"lon":4.9041,"precision":"city","confidence":"low","note":"national league"}
+{"qid":92604658,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"low","note":"national league"}
+{"qid":92672936,"place":"Balbriggan","lat":53.6128,"lon":-6.1828,"precision":"city","confidence":"high","note":"shot dead in Balbriggan"}
+{"qid":92922210,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"low","note":"national league"}
+{"qid":94698304,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"low","note":"national league"}
+{"qid":94939968,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"low","note":"national league"}
+{"qid":94952213,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"low","note":"national league"}
+{"qid":95468404,"place":"Frankfurt","lat":50.1109,"lon":8.6821,"precision":"city","confidence":"low","note":"DFB seat"}
+{"qid":95965839,"place":"Minneapolis","lat":44.9778,"lon":-93.265,"precision":"city","confidence":"high","note":"protests began in Minneapolis"}
+{"qid":96062055,"place":"Wellington","lat":-41.2866,"lon":174.7756,"precision":"city","confidence":"low","note":"New Zealand tournament"}
+{"qid":96064754,"place":"Sydney","lat":-33.8688,"lon":151.2093,"precision":"city","confidence":"low","note":"Australian tournament"}
+{"qid":96142047,"place":"Jerusalem","lat":31.7683,"lon":35.2137,"precision":"city","confidence":"high","note":"killed in Old City"}
+{"qid":96359684,"place":"Newgate Prison","lat":51.5151,"lon":-0.1017,"precision":"site","confidence":"high","note":"crowd crush at Newgate"}
+{"qid":96360561,"place":"Curepipe","lat":-20.3164,"lon":57.5258,"precision":"city","confidence":"high","note":"riots began in Curepipe"}
+{"qid":96362206,"place":"Wellington","lat":-41.2866,"lon":174.7756,"precision":"city","confidence":"low","note":"national census"}
+{"qid":96370686,"place":"Frankfurt","lat":50.1109,"lon":8.6821,"precision":"city","confidence":"low","note":"DFB seat"}
+{"qid":96370687,"place":"Sydney","lat":-33.8688,"lon":151.2093,"precision":"city","confidence":"low","note":"Australian league"}
+{"qid":96370770,"place":"Frankfurt","lat":50.1109,"lon":8.6821,"precision":"city","confidence":"low","note":"DFB seat"}
+{"qid":96370814,"place":"Skopje","lat":41.9981,"lon":21.4254,"precision":"city","confidence":"low","note":"national league"}
+{"qid":96382092,"place":"Johannesburg","lat":-26.2041,"lon":28.0473,"precision":"city","confidence":"low","note":"planned tour in South Africa"}
+{"qid":96399865,"place":"Topoľčany","lat":48.5628,"lon":18.1736,"precision":"city","confidence":"medium","note":"Topoľčany pogrom 1945"}
+{"qid":96464006,"place":"Vienna","lat":48.2082,"lon":16.3738,"precision":"city","confidence":"low","note":"national league"}
+{"qid":96811730,"place":"Sarajevo","lat":43.8563,"lon":18.4131,"precision":"city","confidence":"low","note":"national league"}
+{"qid":96973897,"place":"Frankfurt","lat":50.1109,"lon":8.6821,"precision":"city","confidence":"low","note":"DFB seat"}
+{"qid":96973950,"place":"Johannesburg","lat":-26.2041,"lon":28.0473,"precision":"city","confidence":"low","note":"tour in South Africa"}
+{"qid":97192063,"place":"Belgrade","lat":44.7866,"lon":20.4489,"precision":"city","confidence":"low","note":"national league"}
+{"qid":97208561,"place":"Bratislava","lat":48.1486,"lon":17.1077,"precision":"city","confidence":"low","note":"national league"}
+{"qid":97208898,"place":"Sofia","lat":42.6977,"lon":23.3219,"precision":"city","confidence":"high","note":"main protests in Sofia"}
+{"qid":97286236,"place":"Tallinn","lat":59.437,"lon":24.7536,"precision":"city","confidence":"low","note":"national census"}
+{"qid":97353708,"place":"Vientiane","lat":17.9757,"lon":102.6331,"precision":"city","confidence":"low","note":"national league"}
+{"qid":97355567,"place":"Harare","lat":-17.8252,"lon":31.0335,"precision":"city","confidence":"medium","note":"tour in Zimbabwe"}
+{"qid":97357872,"place":"Minneapolis","lat":44.9778,"lon":-93.265,"precision":"city","confidence":"medium","note":"murder in Minneapolis"}
+{"qid":97384381,"place":"Minsk","lat":53.9006,"lon":27.559,"precision":"city","confidence":"high","note":"main protests in Minsk"}
+{"qid":97453233,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"low","note":"French series"}
+{"qid":97513255,"place":"Baku","lat":40.4093,"lon":49.8671,"precision":"city","confidence":"high","note":"major protests in Baku"}
+{"qid":97515986,"place":"Tirana","lat":41.3275,"lon":19.8187,"precision":"city","confidence":"low","note":"national league"}
+{"qid":97652388,"place":"Algiers","lat":36.7538,"lon":3.0588,"precision":"city","confidence":"low","note":"national referendum"}
+{"qid":97664140,"place":"Tbilisi","lat":41.7151,"lon":44.8271,"precision":"city","confidence":"high","note":"protests in Tbilisi"}

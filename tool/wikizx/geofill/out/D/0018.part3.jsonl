@@ -1,0 +1,49 @@
+{"qid":25091620,"place":"Oxford","lat":51.752,"lon":-1.2577,"precision":"city","confidence":"medium","note":"first conference at Oxford"}
+{"qid":25221201,"place":"Singapore","lat":1.3521,"lon":103.8198,"precision":"city","confidence":"high","note":"OCBC Arena"}
+{"qid":25226812,"place":"Myanmar","lat":21.9162,"lon":95.956,"precision":"country","confidence":"low","note":"insurgency across Burma"}
+{"qid":25226943,"place":"Atalanti","lat":38.65,"lon":23.0167,"precision":"city","confidence":"high","note":"earthquake in Locris"}
+{"qid":25230647,"place":"Buenos Aires","lat":-34.6037,"lon":-58.3816,"precision":"city","confidence":"medium","note":"formed in Argentina"}
+{"qid":25294981,"place":"Santiago","lat":-33.4489,"lon":-70.6693,"precision":"city","confidence":"high","note":"host city"}
+{"qid":25350039,"place":"Ukraine","lat":48.3794,"lon":31.1656,"precision":"country","confidence":"medium","note":"nationwide cup"}
+{"qid":25389869,"place":"Tunisia","lat":33.8869,"lon":9.5375,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":25390380,"place":"Switzerland","lat":46.8182,"lon":8.2275,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":25395767,"place":"Tiraspol","lat":46.8403,"lon":29.6433,"precision":"city","confidence":"medium","note":"Transnistria capital"}
+{"qid":25400259,"place":"Switzerland","lat":46.8182,"lon":8.2275,"precision":"country","confidence":"medium","note":"host country"}
+{"qid":25408219,"place":"Nassau, Bahamas","lat":25.0478,"lon":-77.3554,"precision":"city","confidence":"high","note":"host city"}
+{"qid":25408640,"place":"Altice Arena","lat":38.7685,"lon":-9.0946,"precision":"site","confidence":"high","note":"contest venue"}
+{"qid":25439300,"place":"Albania","lat":41.1533,"lon":20.1683,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":25440406,"place":"Portugal","lat":39.3999,"lon":-8.2245,"precision":"country","confidence":"medium","note":"nationwide cup"}
+{"qid":25440697,"place":"Montenegro","lat":42.7087,"lon":19.3744,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":25464104,"place":"Yogyakarta","lat":-7.7956,"lon":110.3695,"precision":"city","confidence":"high","note":"sack of Yogyakarta"}
+{"qid":25480094,"place":"Kakamigahara","lat":35.4,"lon":136.85,"precision":"city","confidence":"high","note":"host city"}
+{"qid":25499064,"place":"Duga Resa","lat":45.45,"lon":15.5,"precision":"city","confidence":"high","note":"battle near Duga Resa"}
+{"qid":25830931,"place":"Dhaka","lat":23.8103,"lon":90.4125,"precision":"city","confidence":"low","note":"JSD insurgency centre"}
+{"qid":26791910,"place":"Dhaka","lat":23.8103,"lon":90.4125,"precision":"city","confidence":"medium","note":"tour of Bangladesh"}
+{"qid":26799687,"place":"Belgrade","lat":44.7866,"lon":20.4489,"precision":"city","confidence":"medium","note":"decisive siege 1717"}
+{"qid":26840027,"place":"Colombia","lat":4.5709,"lon":-74.2973,"precision":"country","confidence":"high","note":"nationwide referendum"}
+{"qid":27245760,"place":"Myanmar","lat":21.9162,"lon":95.956,"precision":"country","confidence":"medium","note":"cross-border strike"}
+{"qid":27510011,"place":"Tokyo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"low","note":"fan meetings in Japan"}
+{"qid":27518122,"place":"Uganda","lat":1.3733,"lon":32.2903,"precision":"country","confidence":"medium","note":"host country"}
+{"qid":27627985,"place":"Longvek","lat":11.8,"lon":104.7667,"precision":"city","confidence":"low","note":"Cambodian capital then"}
+{"qid":27628409,"place":"Linzi District","lat":36.8,"lon":118.3,"precision":"city","confidence":"low","note":"Qi capital"}
+{"qid":27630354,"place":"Norway","lat":60.472,"lon":8.4689,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":27630508,"place":"Kirkop","lat":35.8433,"lon":14.4856,"precision":"city","confidence":"high","note":"crash near Kirkop"}
+{"qid":27676456,"place":"Jerusalem","lat":31.7683,"lon":35.2137,"precision":"city","confidence":"low","note":"conflict centre"}
+{"qid":27704716,"place":"Portugal","lat":39.3999,"lon":-8.2245,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":27704786,"place":"Russia","lat":61.524,"lon":105.3188,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":27704793,"place":"Norway","lat":60.472,"lon":8.4689,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":27794967,"place":"India","lat":20.5937,"lon":78.9629,"precision":"country","confidence":"high","note":"nationwide measure"}
+{"qid":27913984,"place":"Bir al-Abed","lat":31.0167,"lon":33.05,"precision":"city","confidence":"high","note":"checkpoint attack"}
+{"qid":27950053,"place":"Peru","lat":-9.19,"lon":-75.0152,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":27961694,"place":"United Kingdom","lat":55.3781,"lon":-3.436,"precision":"country","confidence":"high","note":"nationwide referendum"}
+{"qid":27997889,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":28036153,"place":"Zambia","lat":-13.1339,"lon":27.8493,"precision":"country","confidence":"high","note":"nationwide census"}
+{"qid":28043757,"place":"Bucharest","lat":44.4268,"lon":26.1025,"precision":"city","confidence":"medium","note":"hosted in Romania"}
+{"qid":28053248,"place":"Malta International Airport","lat":35.8575,"lon":14.4775,"precision":"site","confidence":"high","note":"forced landing site"}
+{"qid":28055345,"place":"Morocco","lat":31.7917,"lon":-7.0926,"precision":"country","confidence":"low","note":"North African tournament"}
+{"qid":28062036,"place":"Turkey","lat":38.9637,"lon":35.2433,"precision":"country","confidence":"high","note":"nationwide referendum"}
+{"qid":28128022,"place":"Dhaka","lat":23.8103,"lon":90.4125,"precision":"city","confidence":"medium","note":"tour of Bangladesh"}
+{"qid":28128023,"place":"Colombo","lat":6.9271,"lon":79.8612,"precision":"city","confidence":"medium","note":"tour of Sri Lanka"}
+{"qid":28128024,"place":"Colombo","lat":6.9271,"lon":79.8612,"precision":"city","confidence":"medium","note":"tour of Sri Lanka"}
+{"qid":28128034,"place":"Lambaré","lat":-25.35,"lon":-57.65,"precision":"city","confidence":"high","note":"host city"}
+{"qid":28128103,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"nationwide league"}

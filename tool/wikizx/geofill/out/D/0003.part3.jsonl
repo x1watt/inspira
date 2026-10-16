@@ -1,0 +1,50 @@
+{"qid":596313,"place":"Dhaka","lat":23.8103,"lon":90.4125,"precision":"city","confidence":"medium","note":"host city"}
+{"qid":598421,"place":"Faroe Islands","lat":61.8926,"lon":-6.9118,"precision":"country","confidence":"high","note":"national league"}
+{"qid":598774,"place":"Riga","lat":56.9496,"lon":24.1052,"precision":"city","confidence":"low","note":"Livonian campaign, Kircholm nearby"}
+{"qid":600402,"place":"France","lat":46.6034,"lon":1.8883,"precision":"country","confidence":"low","note":"Europe-wide, famous in France"}
+{"qid":601025,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"medium","note":"final city"}
+{"qid":601635,"place":"Peru","lat":-9.19,"lon":-75.0152,"precision":"country","confidence":"high","note":"national league"}
+{"qid":602041,"place":"Belgrade","lat":44.7866,"lon":20.4489,"precision":"city","confidence":"low","note":"champion city"}
+{"qid":603062,"place":"Zhongshan","lat":22.5176,"lon":113.3926,"precision":"city","confidence":"low","note":"final stage city"}
+{"qid":603532,"place":"Singapore","lat":1.3521,"lon":103.8198,"precision":"city","confidence":"high","note":"host city"}
+{"qid":604245,"place":"Bosnia and Herzegovina","lat":43.9159,"lon":17.6791,"precision":"country","confidence":"high","note":"national league"}
+{"qid":604866,"place":"Barcelona","lat":41.3874,"lon":2.1686,"precision":"city","confidence":"medium","note":"host city"}
+{"qid":604900,"place":"White City Stadium","lat":51.51,"lon":-0.226,"precision":"site","confidence":"high","note":"venue"}
+{"qid":605174,"place":"Nicosia","lat":35.1856,"lon":33.3823,"precision":"city","confidence":"medium","note":"host city"}
+{"qid":607257,"place":"Asmara","lat":15.3229,"lon":38.9251,"precision":"city","confidence":"medium","note":"capital of Eritrea"}
+{"qid":607945,"place":"Addis Ababa","lat":9.032,"lon":38.7469,"precision":"city","confidence":"high","note":"host city"}
+{"qid":609443,"place":"United Kingdom","lat":55.3781,"lon":-3.436,"precision":"country","confidence":"high","note":"national census"}
+{"qid":609946,"place":"Belmopan","lat":17.251,"lon":-88.759,"precision":"city","confidence":"high","note":"library in Belmopan"}
+{"qid":610851,"place":"Jerusalem","lat":31.7683,"lon":35.2137,"precision":"city","confidence":"high","note":"riots in Jerusalem"}
+{"qid":611071,"place":"Faya-Largeau","lat":17.9257,"lon":19.1041,"precision":"city","confidence":"low","note":"northern Chad front"}
+{"qid":613481,"place":"Oslo","lat":59.9139,"lon":10.7522,"precision":"city","confidence":"high","note":"host city"}
+{"qid":616704,"place":"France","lat":46.6034,"lon":1.8883,"precision":"country","confidence":"high","note":"national league"}
+{"qid":616846,"place":"Havana","lat":23.1136,"lon":-82.3666,"precision":"city","confidence":"medium","note":"siege of Havana"}
+{"qid":616939,"place":"Alexandria","lat":31.2001,"lon":29.9187,"precision":"city","confidence":"low","note":"bombardment and landing"}
+{"qid":617108,"place":"Japan","lat":36.2048,"lon":138.2529,"precision":"country","confidence":"medium","note":"national series"}
+{"qid":617409,"place":"Buenos Aires","lat":-34.6037,"lon":-58.3816,"precision":"city","confidence":"medium","note":"May Revolution"}
+{"qid":618281,"place":"Abu Dhabi","lat":24.4194,"lon":54.4469,"precision":"city","confidence":"high","note":"library in Abu Dhabi"}
+{"qid":620965,"place":"Château de Saint-Cloud","lat":48.8444,"lon":2.22,"precision":"site","confidence":"high","note":"coup staged there"}
+{"qid":622059,"place":"Panagyurishte","lat":42.5,"lon":24.1833,"precision":"city","confidence":"medium","note":"uprising centre"}
+{"qid":622649,"place":"Luxembourg City","lat":49.6117,"lon":6.1319,"precision":"city","confidence":"high","note":"signed in Luxembourg"}
+{"qid":623757,"place":"Gyeongbokgung","lat":37.5796,"lon":126.977,"precision":"site","confidence":"high","note":"palace where she died"}
+{"qid":624248,"place":"Kuwait City","lat":29.3759,"lon":47.9774,"precision":"city","confidence":"high","note":"host city"}
+{"qid":624249,"place":"Beirut","lat":33.8938,"lon":35.5018,"precision":"city","confidence":"high","note":"host city"}
+{"qid":624255,"place":"Baghdad","lat":33.3152,"lon":44.3661,"precision":"city","confidence":"high","note":"host city"}
+{"qid":625021,"place":"Malé","lat":4.1755,"lon":73.5093,"precision":"city","confidence":"high","note":"library in Malé"}
+{"qid":625218,"place":"Aragon","lat":41.5976,"lon":-0.9057,"precision":"region","confidence":"medium","note":"campaign in Aragon"}
+{"qid":625387,"place":"Jonava","lat":55.0833,"lon":24.2833,"precision":"city","confidence":"high","note":"library in Jonava"}
+{"qid":626006,"place":"Belgrade","lat":44.7866,"lon":20.4489,"precision":"city","confidence":"low","note":"capital invaded"}
+{"qid":629474,"place":"Zayed Sports City Stadium","lat":24.4167,"lon":54.4583,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":630783,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"high","note":"election in Rome"}
+{"qid":630922,"place":"Manama","lat":26.2397,"lon":50.5917,"precision":"city","confidence":"high","note":"Hoora, Manama"}
+{"qid":632663,"place":"Aden","lat":12.7855,"lon":45.0187,"precision":"city","confidence":"low","note":"southern Yemen centre"}
+{"qid":636264,"place":"Brussels","lat":50.8503,"lon":4.3517,"precision":"city","confidence":"high","note":"city bombarded"}
+{"qid":636992,"place":"Santa Monica, California","lat":34.0195,"lon":-118.4912,"precision":"city","confidence":"low","note":"ceremony held there"}
+{"qid":638761,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"high","note":"Ardeatine caves outside Rome"}
+{"qid":639394,"place":"Berlin","lat":52.52,"lon":13.405,"precision":"city","confidence":"high","note":"host city"}
+{"qid":640607,"place":"Belgrade","lat":44.7866,"lon":20.4489,"precision":"city","confidence":"high","note":"October 5 events in Belgrade"}
+{"qid":640770,"place":"University of East Anglia","lat":52.6219,"lon":1.2393,"precision":"site","confidence":"high","note":"CRU server hacked"}
+{"qid":641185,"place":"Phnom Penh","lat":11.5564,"lon":104.9282,"precision":"city","confidence":"low","note":"Cambodia theatre"}
+{"qid":641205,"place":"Baghdad","lat":33.3152,"lon":44.3661,"precision":"city","confidence":"high","note":"coup in Baghdad"}
+{"qid":641479,"place":"Kyiv","lat":50.4501,"lon":30.5234,"precision":"city","confidence":"low","note":"uprising across Ukraine"}

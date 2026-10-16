@@ -160,6 +160,18 @@ class ProfileScreen extends StatelessWidget {
                 ),
               ),
             ),
+            const Card(
+              elevation: 0,
+              child: ListTile(
+                leading: Icon(Icons.public_rounded),
+                title: Text('Map data'),
+                subtitle: Text(
+                  'Wikipedia places from Wikidata (CC0) and Wikipedia; some '
+                  'points from GeoNames (geonames.org, CC BY 4.0). Map tiles '
+                  'from OpenStreetMap contributors and Esri.',
+                ),
+              ),
+            ),
           ],
         );
       },

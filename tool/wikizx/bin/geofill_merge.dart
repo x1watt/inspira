@@ -3,7 +3,11 @@
 // 'model-medium' or 'model-low'), only for items that have no Wikidata
 // point. Safe to rerun: earlier fill rows are removed first.
 //
-//   dart run bin/geofill_merge.dart geo.zx geofill
+// Items in geofill/centroids.tsv (bin/geofill_centroids.dart) have a
+// Wikidata point that is only their country: a model answer of region
+// precision or better replaces it.
+//
+//   dart run bin/geofill_merge.dart geo.zx geofill [--geonames geonames_slim.tsv]
 import 'dart:convert';
 import 'dart:io';
 
@@ -28,18 +32,34 @@ void main(List<String> args) {
   print('removed $removed earlier fill rows');
 
   final has = db.sql.prepare('SELECT 1 FROM point WHERE qid = ?');
+  final drop = db.sql.prepare('DELETE FROM point WHERE qid = ?');
+  final centroids = <int>{};
+  final cf = File('$dir/centroids.tsv');
+  if (cf.existsSync()) {
+    for (final l in cf.readAsLinesSync().skip(1)) {
+      if (l.isNotEmpty) centroids.add(int.parse(l));
+    }
+  }
   final insert = db.sql.prepare('INSERT INTO point VALUES (?, ?, ?, ?, ?, NULL)');
   final counts = <String, int>{};
   final seen = <int>{};
-  void put(int q, double lat, double lon, String tier, int? via) {
-    if (!seen.add(q) || has.select([q]).isNotEmpty) return;
+  void put(int q, double lat, double lon, String tier, int? via,
+      {bool replace = false}) {
+    if (!seen.add(q)) return;
+    if (has.select([q]).isNotEmpty) {
+      if (!replace) return;
+      drop.execute([q]);
+      counts['replaced country'] = (counts['replaced country'] ?? 0) + 1;
+    }
     insert.execute([q, lat, lon, tier, via]);
     counts[tier] = (counts[tier] ?? 0) + 1;
   }
 
   // Model answers first (they are read, not guessed from a page), then
   // the ZIM coordinates for the rest.
-  final resolver = PlaceResolver(db);
+  final gi = args.indexOf('--geonames');
+  final resolver = PlaceResolver(db,
+      gazetteer: gi < 0 ? null : Gazetteer(args[gi + 1]));
   db.sql.execute('BEGIN');
   final out = Directory('$dir/out');
   final files = out.existsSync()
@@ -59,6 +79,7 @@ void main(List<String> args) {
     }
   }
   var answers = 0, skipped = 0;
+  final sources = <String, int>{};
   for (final f in files) {
     for (final l in f.readAsLinesSync()) {
       if (l.trim().isEmpty) continue;
@@ -77,7 +98,11 @@ void main(List<String> args) {
       if (o['precision'] == 'none') continue;
       final c = resolver.choose(o);
       if (c == null) continue;
-      put(o['qid'] as int, c.lat, c.lon, 'model-${o['confidence']}', c.via);
+      final q = o['qid'] as int;
+      sources[c.source] = (sources[c.source] ?? 0) + 1;
+      put(q, c.lat, c.lon, 'model-${o['confidence']}', c.via,
+          replace: centroids.contains(q) &&
+              const {'site', 'city', 'region'}.contains(o['precision']));
     }
   }
   final zims = Directory(dir)
@@ -91,7 +116,7 @@ void main(List<String> args) {
     }
   }
   db.sql.execute('COMMIT');
-  print('${files.length} answer files, $answers answers ($skipped bad lines); added $counts');
+  print('${files.length} answer files, $answers answers ($skipped bad lines); added $counts; point from $sources');
   db.fold();
   db.close();
 }

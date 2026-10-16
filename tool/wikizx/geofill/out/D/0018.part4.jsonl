@@ -1,0 +1,50 @@
+{"qid":28128312,"place":"Dhaka","lat":23.8103,"lon":90.4125,"precision":"city","confidence":"medium","note":"tour of Bangladesh"}
+{"qid":28129092,"place":"Laos","lat":19.8563,"lon":102.4955,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":28135433,"place":"Australia","lat":-25.2744,"lon":133.7751,"precision":"country","confidence":"high","note":"nationwide census"}
+{"qid":28153965,"place":"Yokohama","lat":35.4437,"lon":139.638,"precision":"city","confidence":"medium","note":"first cricket in Japan"}
+{"qid":28162741,"place":"Canada","lat":56.1304,"lon":-106.3468,"precision":"country","confidence":"high","note":"nationwide census"}
+{"qid":28162861,"place":"Mdina","lat":35.8861,"lon":14.4036,"precision":"city","confidence":"high","note":"Melite is Mdina"}
+{"qid":28172108,"place":"Indian Museum","lat":22.5581,"lon":88.3508,"precision":"site","confidence":"high","note":"exhibition grounds"}
+{"qid":28180869,"place":"New Zealand","lat":-40.9006,"lon":174.886,"precision":"country","confidence":"high","note":"nationwide census"}
+{"qid":28200359,"place":"Bahrain International Circuit","lat":26.0325,"lon":50.5106,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":28216518,"place":"Medina","lat":24.4709,"lon":39.6122,"precision":"city","confidence":"high","note":"siege of Medina"}
+{"qid":28219513,"place":"Cambodia","lat":12.5657,"lon":104.991,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":28219990,"place":"Valletta","lat":35.8989,"lon":14.5146,"precision":"city","confidence":"high","note":"crush at Valletta convent"}
+{"qid":28220514,"place":"Northern Cyprus","lat":35.2,"lon":33.3,"precision":"country","confidence":"medium","note":"nationwide election"}
+{"qid":28222139,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"medium","note":"main attacks in Paris"}
+{"qid":28232932,"place":"Canada","lat":56.1304,"lon":-106.3468,"precision":"country","confidence":"high","note":"nationwide census"}
+{"qid":28233262,"place":"Canada","lat":56.1304,"lon":-106.3468,"precision":"country","confidence":"high","note":"nationwide census"}
+{"qid":28234538,"place":"Bouaké","lat":7.6906,"lon":-5.0303,"precision":"city","confidence":"medium","note":"mutiny began in Bouaké"}
+{"qid":28361452,"place":"Kazakhstan","lat":48.0196,"lon":66.9237,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":28398113,"place":"Banjul","lat":13.4549,"lon":-16.579,"precision":"city","confidence":"medium","note":"crisis in capital"}
+{"qid":28401723,"place":"Dominican Republic","lat":18.7357,"lon":-70.1627,"precision":"country","confidence":"high","note":"nationwide census"}
+{"qid":28403867,"place":"Europe","lat":50.0,"lon":10.0,"precision":"none","confidence":"low","note":""}
+{"qid":28444896,"place":"Banjul","lat":13.4549,"lon":-16.579,"precision":"city","confidence":"medium","note":"intervention in capital"}
+{"qid":28446836,"place":"Auckland","lat":-36.8509,"lon":174.7645,"precision":"city","confidence":"low","note":"club tournament, final Auckland"}
+{"qid":28448011,"place":"Monte Carlo","lat":43.7396,"lon":7.4276,"precision":"city","confidence":"medium","note":"rally base"}
+{"qid":28448016,"place":"Monte Carlo","lat":43.7396,"lon":7.4276,"precision":"city","confidence":"medium","note":"rally base"}
+{"qid":28448039,"place":"Monte Carlo","lat":43.7396,"lon":7.4276,"precision":"city","confidence":"medium","note":"rally base"}
+{"qid":28448291,"place":"Perth","lat":-31.9505,"lon":115.8605,"precision":"city","confidence":"high","note":"host city"}
+{"qid":28448497,"place":"Kakamigahara","lat":35.4,"lon":136.85,"precision":"city","confidence":"high","note":"host city"}
+{"qid":28448627,"place":"Republic of Ireland","lat":53.4129,"lon":-8.2439,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":28448957,"place":"Philippines","lat":12.8797,"lon":121.774,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":28449107,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"medium","note":"nationwide cup"}
+{"qid":28449191,"place":"Darwin, Northern Territory","lat":-12.4634,"lon":130.8456,"precision":"city","confidence":"high","note":"host city"}
+{"qid":28450521,"place":"Monte Carlo","lat":43.7396,"lon":7.4276,"precision":"city","confidence":"medium","note":"rally base"}
+{"qid":28457135,"place":"Tooley Street","lat":51.504,"lon":-0.083,"precision":"site","confidence":"high","note":"fire at Cotton's Wharf"}
+{"qid":28470126,"place":"Belarus","lat":53.7098,"lon":27.9534,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":28485502,"place":"Caracas","lat":10.4806,"lon":-66.9036,"precision":"city","confidence":"medium","note":"capital, crisis centre"}
+{"qid":28495980,"place":"Republic of Ireland","lat":53.4129,"lon":-8.2439,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":28501135,"place":"Zaragoza","lat":41.6488,"lon":-0.8891,"precision":"city","confidence":"high","note":"conquest of Zaragoza"}
+{"qid":28545049,"place":"Iceland","lat":64.9631,"lon":-19.0208,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":28662627,"place":"Santiago","lat":-33.4489,"lon":-70.6693,"precision":"city","confidence":"high","note":"host city"}
+{"qid":28663297,"place":"Montevideo","lat":-34.9011,"lon":-56.1645,"precision":"city","confidence":"high","note":"host city"}
+{"qid":28663299,"place":"Rio de Janeiro","lat":-22.9068,"lon":-43.1729,"precision":"city","confidence":"high","note":"host city"}
+{"qid":28747719,"place":"Circuit de Monaco","lat":43.7347,"lon":7.4206,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":28802892,"place":"Abu Dhabi","lat":24.4539,"lon":54.3773,"precision":"city","confidence":"high","note":"race in Abu Dhabi"}
+{"qid":28803127,"place":"New Zealand","lat":-40.9006,"lon":174.886,"precision":"country","confidence":"high","note":"nationwide census"}
+{"qid":28803920,"place":"Georgia (country)","lat":42.3154,"lon":43.3569,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":28854795,"place":"Bulgaria","lat":42.7339,"lon":25.4858,"precision":"country","confidence":"high","note":"nationwide census"}
+{"qid":28878253,"place":"Morocco","lat":31.7917,"lon":-7.0926,"precision":"country","confidence":"high","note":"nationwide census"}
+{"qid":28943028,"place":"Melbourne","lat":-37.8136,"lon":144.9631,"precision":"city","confidence":"low","note":"High Court seat then"}
+{"qid":28945599,"place":"Tskhinvali","lat":42.2242,"lon":43.9689,"precision":"city","confidence":"medium","note":"capital, nationwide election"}

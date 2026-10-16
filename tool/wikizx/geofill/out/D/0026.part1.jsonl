@@ -1,0 +1,12 @@
+{"qid":139929226,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"multi-city circuit"}
+{"qid":139934329,"place":"Harare","lat":-17.8252,"lon":31.0335,"precision":"city","confidence":"medium","note":"tour based in Zimbabwe"}
+{"qid":139997951,"place":"Pfaffenthal","lat":49.6158,"lon":6.1317,"precision":"city","confidence":"high","note":"explosion site"}
+{"qid":140299318,"place":"Queen Elizabeth Stadium, Hong Kong","lat":22.2745,"lon":114.1745,"precision":"site","confidence":"high","note":"championship venue"}
+{"qid":140382720,"place":"Monaco","lat":43.7384,"lon":7.4246,"precision":"city","confidence":"high","note":"bombing in Monaco"}
+{"qid":140459544,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"low","note":"conferences in France"}
+{"qid":140461630,"place":"Luxembourg City","lat":49.6117,"lon":6.1319,"precision":"city","confidence":"high","note":"church explosion"}
+{"qid":140620069,"place":"France","lat":46.2276,"lon":2.2137,"precision":"country","confidence":"medium","note":"nationwide wildfires"}
+{"qid":140771613,"place":"Tulcea","lat":45.1717,"lon":28.7983,"precision":"city","confidence":"low","note":"drone debris near Danube"}
+{"qid":141529623,"place":"Vienna","lat":48.2082,"lon":16.3738,"precision":"city","confidence":"low","note":"Austro-Hungarian manoeuvres"}
+{"qid":141532625,"place":"Mandu, Madhya Pradesh","lat":22.3572,"lon":75.3928,"precision":"city","confidence":"high","note":"siege of Mandu"}
+{"qid":141615137,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"low","note":"protests in France"}

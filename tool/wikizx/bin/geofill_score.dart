@@ -3,6 +3,7 @@
 // Wikidata leaves without a point) against the verified coordinates.
 //
 //   dart run bin/geofill_score.dart geo.zx ../../events answers.jsonl [more ...]
+//       [--geonames geonames_slim.tsv]
 //
 // "combined" is what geofill_merge.dart keeps: the Wikidata point of the
 // named place when it is within 100 km of the model's coordinates, else
@@ -16,7 +17,9 @@ import 'package:wikizx/geofill.dart';
 
 void main(List<String> args) {
   final geo = ZxDatabase.open(args[0], readOnly: true);
-  final resolver = PlaceResolver(geo);
+  final gi = args.indexOf('--geonames');
+  final resolver = PlaceResolver(geo,
+      gazetteer: gi < 0 ? null : Gazetteer(args[gi + 1]));
   final truth = <int, (double, double, String)>{};
   for (final f in Directory(args[1]).listSync(recursive: true)) {
     if (f is! File || !f.path.endsWith('.json')) continue;
@@ -31,7 +34,11 @@ void main(List<String> args) {
   }
   final answers = <int, Map>{};
   var bad = 0;
-  for (final f in args.skip(2)) {
+  final files = [
+    for (var i = 2; i < args.length; i++)
+      if (args[i] != '--geonames' && (i == 0 || args[i - 1] != '--geonames')) args[i]
+  ];
+  for (final f in files) {
     for (final l in File(f).readAsLinesSync()) {
       if (l.trim().isEmpty) continue;
       try {

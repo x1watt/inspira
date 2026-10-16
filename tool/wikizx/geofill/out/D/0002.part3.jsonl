@@ -1,0 +1,50 @@
+{"qid":321780,"place":"Sukhumi","lat":43.0015,"lon":41.0234,"precision":"city","confidence":"medium","note":"Abkhaz capital, war centre"}
+{"qid":326885,"place":"Portugal","lat":39.3999,"lon":-8.2245,"precision":"country","confidence":"medium","note":"national cup"}
+{"qid":327291,"place":"Amsterdam","lat":52.3676,"lon":4.9041,"precision":"city","confidence":"medium","note":"host city"}
+{"qid":328271,"place":"Berlin","lat":52.52,"lon":13.405,"precision":"city","confidence":"high","note":"seat of power"}
+{"qid":329535,"place":"Berlin","lat":52.52,"lon":13.405,"precision":"city","confidence":"high","note":"host city"}
+{"qid":329541,"place":"Cologne","lat":50.9375,"lon":6.9603,"precision":"city","confidence":"high","note":"Kölner Stadtwald"}
+{"qid":329544,"place":"Berlin","lat":52.52,"lon":13.405,"precision":"city","confidence":"high","note":"host city"}
+{"qid":329679,"place":"Khalifa International Stadium","lat":25.2631,"lon":51.4481,"precision":"site","confidence":"high","note":"main venue"}
+{"qid":331498,"place":"Switzerland","lat":46.8182,"lon":8.2275,"precision":"country","confidence":"high","note":"national league"}
+{"qid":339607,"place":"Tokyo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"medium","note":"final host city"}
+{"qid":349875,"place":"Lisbon","lat":38.7073,"lon":-9.2156,"precision":"city","confidence":"high","note":"embassy attack"}
+{"qid":367892,"place":"Montevideo","lat":-34.9011,"lon":-56.1645,"precision":"city","confidence":"medium","note":"league based in Montevideo"}
+{"qid":368453,"place":"Kyoto","lat":35.0116,"lon":135.7681,"precision":"city","confidence":"low","note":"route starts in Kyoto"}
+{"qid":368632,"place":"Monte Carlo","lat":43.7396,"lon":7.4276,"precision":"city","confidence":"high","note":"host city"}
+{"qid":369560,"place":"Baghdad","lat":33.3475,"lon":44.335,"precision":"city","confidence":"high","note":"city besieged"}
+{"qid":370821,"place":"Montenegro","lat":42.7087,"lon":19.3744,"precision":"country","confidence":"high","note":"national league"}
+{"qid":371397,"place":"Circuit de Monaco","lat":43.7347,"lon":7.4206,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":372708,"place":"Dar es Salaam","lat":-6.7924,"lon":39.2083,"precision":"city","confidence":"high","note":"host city"}
+{"qid":373781,"place":"Plymouth, Indiana","lat":41.3434,"lon":-86.3097,"precision":"city","confidence":"medium","note":"march began near Plymouth"}
+{"qid":374122,"place":"Autódromo do Estoril","lat":38.7506,"lon":-9.3939,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":376052,"place":"Buenos Aires","lat":-34.6037,"lon":-58.3816,"precision":"city","confidence":"medium","note":"final host city"}
+{"qid":379076,"place":"South Africa","lat":-30.5595,"lon":22.9375,"precision":"country","confidence":"high","note":"tour of South Africa"}
+{"qid":383984,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"high","note":"national league"}
+{"qid":385676,"place":"Kyoto","lat":35.0116,"lon":135.7681,"precision":"city","confidence":"high","note":"fighting centred in Kyoto"}
+{"qid":386366,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"concert tour"}
+{"qid":387220,"place":"Circuit de Monaco","lat":43.7347,"lon":7.4206,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":387729,"place":"Switzerland","lat":46.8182,"lon":8.2275,"precision":"country","confidence":"high","note":"national league"}
+{"qid":391194,"place":"Iceland","lat":64.9631,"lon":-19.0208,"precision":"country","confidence":"high","note":"national league"}
+{"qid":391449,"place":"Montevideo","lat":-34.9011,"lon":-56.1645,"precision":"city","confidence":"medium","note":"league based in Montevideo"}
+{"qid":392565,"place":"Las Vegas","lat":36.1699,"lon":-115.1398,"precision":"city","confidence":"low","note":"ceremony venue city"}
+{"qid":392601,"place":"Springfield, Massachusetts","lat":42.1015,"lon":-72.5898,"precision":"city","confidence":"medium","note":"armory attack at Springfield"}
+{"qid":399482,"place":"Constantinople","lat":41.0082,"lon":28.9784,"precision":"city","confidence":"high","note":"city besieged"}
+{"qid":400099,"place":"Montevideo","lat":-34.9011,"lon":-56.1645,"precision":"city","confidence":"medium","note":"league based in Montevideo"}
+{"qid":402096,"place":"Dili","lat":-8.5586,"lon":125.5736,"precision":"city","confidence":"high","note":"force based in Dili"}
+{"qid":405076,"place":"Kyoto","lat":35.0116,"lon":135.7681,"precision":"city","confidence":"low","note":"route starts in Kyoto"}
+{"qid":417694,"place":"Circuit de Monaco","lat":43.7347,"lon":7.4206,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":417729,"place":"Circuit de Monaco","lat":43.7347,"lon":7.4206,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":417760,"place":"Circuit de Monaco","lat":43.7347,"lon":7.4206,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":417784,"place":"Circuit de Monaco","lat":43.7347,"lon":7.4206,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":417811,"place":"Circuit de Monaco","lat":43.7347,"lon":7.4206,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":417837,"place":"Circuit de Monaco","lat":43.7347,"lon":7.4206,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":417860,"place":"Circuit de Monaco","lat":43.7347,"lon":7.4206,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":417885,"place":"Circuit de Monaco","lat":43.7347,"lon":7.4206,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":418027,"place":"Circuit de Monaco","lat":43.7347,"lon":7.4206,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":418271,"place":"Circuit de Monaco","lat":43.7347,"lon":7.4206,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":418296,"place":"Circuit de Monaco","lat":43.7347,"lon":7.4206,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":418323,"place":"Circuit de Monaco","lat":43.7347,"lon":7.4206,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":419295,"place":"Circuit de Monaco","lat":43.7347,"lon":7.4206,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":419312,"place":"Circuit de Monaco","lat":43.7347,"lon":7.4206,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":419331,"place":"Circuit de Monaco","lat":43.7347,"lon":7.4206,"precision":"site","confidence":"high","note":"race venue"}

@@ -1,0 +1,50 @@
+{"qid":200855,"place":"Kahlenberg","lat":48.2764,"lon":16.3342,"precision":"site","confidence":"high","note":"battle at Kahlenberg near Vienna"}
+{"qid":201185,"place":"Sydney","lat":-33.8688,"lon":151.2093,"precision":"city","confidence":"high","note":"host city"}
+{"qid":201684,"place":"New York Stock Exchange","lat":40.7069,"lon":-74.0113,"precision":"site","confidence":"medium","note":"crash on Wall Street"}
+{"qid":202328,"place":"Canberra","lat":-35.2809,"lon":149.13,"precision":"city","confidence":"high","note":"host city"}
+{"qid":203254,"place":"Villa Louvigny","lat":49.6103,"lon":6.1264,"precision":"site","confidence":"high","note":"venue"}
+{"qid":204133,"place":"Žalgiris Arena","lat":54.8909,"lon":23.9142,"precision":"site","confidence":"medium","note":"final venue"}
+{"qid":204134,"place":"Tébessa","lat":35.4042,"lon":8.1242,"precision":"city","confidence":"low","note":"type site Bir el Ater nearby"}
+{"qid":206715,"place":"Thebes, Egypt","lat":25.7188,"lon":32.6573,"precision":"city","confidence":"low","note":"Theban dynasties"}
+{"qid":207815,"place":"Oslo Spektrum","lat":59.9127,"lon":10.7525,"precision":"site","confidence":"high","note":"venue"}
+{"qid":208199,"place":"Beirut","lat":33.8938,"lon":35.5018,"precision":"city","confidence":"high","note":"massacre in Beirut camps"}
+{"qid":208484,"place":"Beirut","lat":33.8938,"lon":35.5018,"precision":"city","confidence":"high","note":"capital, war centre"}
+{"qid":209846,"place":"Luxembourg City","lat":49.6117,"lon":6.1319,"precision":"city","confidence":"high","note":"venue city"}
+{"qid":209965,"place":"Ziguinchor","lat":12.5833,"lon":-16.2719,"precision":"city","confidence":"medium","note":"Casamance main city"}
+{"qid":210005,"place":"Sana'a","lat":15.3694,"lon":44.191,"precision":"city","confidence":"medium","note":"capital, protest centre"}
+{"qid":210160,"place":"Tašmajdan Sports Centre","lat":44.8112,"lon":20.4713,"precision":"site","confidence":"medium","note":"venue"}
+{"qid":210714,"place":"Benghazi","lat":32.1194,"lon":20.0868,"precision":"city","confidence":"medium","note":"intervention began there"}
+{"qid":211231,"place":"Cologne","lat":50.9375,"lon":6.9603,"precision":"city","confidence":"medium","note":"final host city"}
+{"qid":211352,"place":"Cologne","lat":50.9375,"lon":6.9603,"precision":"city","confidence":"medium","note":"final host city"}
+{"qid":211438,"place":"Istanbul","lat":41.0082,"lon":28.9784,"precision":"city","confidence":"medium","note":"final host city"}
+{"qid":211855,"place":"Tampere","lat":61.4978,"lon":23.761,"precision":"city","confidence":"medium","note":"decisive battle"}
+{"qid":212658,"place":"Gdańsk","lat":54.352,"lon":18.6466,"precision":"city","confidence":"low","note":"siege of Danzig"}
+{"qid":213394,"place":"Colombo","lat":6.9271,"lon":79.8612,"precision":"city","confidence":"low","note":"conflict began there"}
+{"qid":214426,"place":"Mexico City","lat":19.4326,"lon":-99.1332,"precision":"city","confidence":"medium","note":"capital, revolution centre"}
+{"qid":215112,"place":"Pretoria","lat":-25.7479,"lon":28.2293,"precision":"city","confidence":"low","note":"Boer capital"}
+{"qid":215231,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"high","note":"city burned"}
+{"qid":217656,"place":"Montevideo","lat":-34.9011,"lon":-56.1645,"precision":"city","confidence":"medium","note":"league based in Montevideo"}
+{"qid":217658,"place":"Montevideo","lat":-34.9011,"lon":-56.1645,"precision":"city","confidence":"medium","note":"league based in Montevideo"}
+{"qid":218675,"place":"Madrid","lat":40.4168,"lon":-3.7038,"precision":"city","confidence":"low","note":"nationwide election"}
+{"qid":218832,"place":"Cologne","lat":50.9375,"lon":6.9603,"precision":"city","confidence":"medium","note":"final host city"}
+{"qid":219470,"place":"Tbilisi","lat":41.7151,"lon":44.8271,"precision":"city","confidence":"high","note":"capital, parliament storming"}
+{"qid":220231,"place":"Maracanã Stadium","lat":-22.9122,"lon":-43.2302,"precision":"site","confidence":"medium","note":"final venue"}
+{"qid":220984,"place":"Guangzhou","lat":23.1291,"lon":113.2644,"precision":"city","confidence":"low","note":"Canton, war origin"}
+{"qid":223732,"place":"Tel Aviv","lat":32.0853,"lon":34.7818,"precision":"city","confidence":"high","note":"proclaimed in Tel Aviv"}
+{"qid":224923,"place":"Osaka","lat":34.6937,"lon":135.5023,"precision":"city","confidence":"medium","note":"final host city"}
+{"qid":225663,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"high","note":"national league"}
+{"qid":233352,"place":"Chaeronea","lat":38.495,"lon":22.8475,"precision":"city","confidence":"high","note":"battle at Chaeronea"}
+{"qid":233594,"place":"Kappel am Albis","lat":47.24,"lon":8.4833,"precision":"city","confidence":"high","note":"battle at Kappel"}
+{"qid":239060,"place":"Aqaba","lat":29.5321,"lon":35.0063,"precision":"city","confidence":"medium","note":"key capture of Aqaba"}
+{"qid":242864,"place":"Manama","lat":26.2285,"lon":50.586,"precision":"city","confidence":"high","note":"Pearl Roundabout protests"}
+{"qid":243620,"place":"Mogadishu","lat":2.0469,"lon":45.3182,"precision":"city","confidence":"medium","note":"capital, war centre"}
+{"qid":244926,"place":"Tokyo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"high","note":"coup attempt in Tokyo"}
+{"qid":252100,"place":"Zagreb","lat":45.815,"lon":15.9819,"precision":"city","confidence":"medium","note":"final city"}
+{"qid":252298,"place":"Budapest","lat":47.4979,"lon":19.0402,"precision":"city","confidence":"medium","note":"Romanian army took Budapest"}
+{"qid":252727,"place":"Circuit de Monaco","lat":43.7347,"lon":7.4206,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":252754,"place":"Santa Monica, California","lat":34.0195,"lon":-118.4912,"precision":"city","confidence":"low","note":"ceremony held there"}
+{"qid":253077,"place":"Suntec Singapore Convention and Exhibition Centre","lat":1.2936,"lon":103.859,"precision":"site","confidence":"high","note":"venue"}
+{"qid":253684,"place":"Cairo","lat":30.0444,"lon":31.2357,"precision":"city","confidence":"medium","note":"Battle of the Pyramids"}
+{"qid":257724,"place":"Addis Ababa","lat":9.032,"lon":38.7469,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":258349,"place":"Misano World Circuit","lat":43.9628,"lon":12.684,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":260376,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"high","note":"national league"}

@@ -1,0 +1,50 @@
+{"qid":171956,"place":"Circuit de Monaco","lat":43.7347,"lon":7.4206,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":172856,"place":"Circuit de Monaco","lat":43.7347,"lon":7.4206,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":172908,"place":"Circuit de Monaco","lat":43.7347,"lon":7.4206,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":172924,"place":"Circuit de Monaco","lat":43.7347,"lon":7.4206,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":173051,"place":"Circuit de Monaco","lat":43.7347,"lon":7.4206,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":173257,"place":"Circuit de Monaco","lat":43.7347,"lon":7.4206,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":173266,"place":"Circuit de Monaco","lat":43.7347,"lon":7.4206,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":173729,"place":"Circuit de Monaco","lat":43.7347,"lon":7.4206,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":179417,"place":"Circuit de Monaco","lat":43.7347,"lon":7.4206,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":172927,"place":"Marina Bay Street Circuit","lat":1.2914,"lon":103.8639,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":172939,"place":"Marina Bay Street Circuit","lat":1.2914,"lon":103.8639,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":173166,"place":"Marina Bay Street Circuit","lat":1.2914,"lon":103.8639,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":179338,"place":"Marina Bay Street Circuit","lat":1.2914,"lon":103.8639,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":172831,"place":"Parc des Princes","lat":48.8414,"lon":2.253,"precision":"site","confidence":"medium","note":"final venue"}
+{"qid":173457,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"high","note":"affair centred in Paris"}
+{"qid":173857,"place":"Vilnius","lat":54.6872,"lon":25.2797,"precision":"city","confidence":"medium","note":"capital, nationwide election"}
+{"qid":174253,"place":"Boeotia","lat":38.35,"lon":23.0,"precision":"region","confidence":"medium","note":"battle at Tegyra near Orchomenus"}
+{"qid":175801,"place":"Batán Grande","lat":-6.4833,"lon":-79.7,"precision":"city","confidence":"medium","note":"type site of culture"}
+{"qid":176557,"place":"Darwin, Northern Territory","lat":-12.4634,"lon":130.8456,"precision":"city","confidence":"medium","note":"bombed first and most"}
+{"qid":177258,"place":"Sistine Chapel","lat":41.9029,"lon":12.4545,"precision":"site","confidence":"high","note":"conclave venue"}
+{"qid":177859,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"low","note":"alliance, no single site"}
+{"qid":181183,"place":"Montevideo","lat":-34.9011,"lon":-56.1645,"precision":"city","confidence":"medium","note":"league based in Montevideo"}
+{"qid":181188,"place":"Montevideo","lat":-34.9011,"lon":-56.1645,"precision":"city","confidence":"medium","note":"league based in Montevideo"}
+{"qid":181289,"place":"Daejeon","lat":36.3504,"lon":127.3845,"precision":"city","confidence":"low","note":"major massacre site"}
+{"qid":182196,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"medium","note":"final city"}
+{"qid":182201,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"medium","note":"final city"}
+{"qid":182205,"place":"Estadio Santiago Bernabéu","lat":40.4531,"lon":-3.6883,"precision":"site","confidence":"medium","note":"final venue"}
+{"qid":182386,"place":"Brussels","lat":50.8503,"lon":4.3517,"precision":"city","confidence":"medium","note":"final city"}
+{"qid":182770,"place":"Parc des Princes","lat":48.8414,"lon":2.253,"precision":"site","confidence":"medium","note":"final venue"}
+{"qid":182817,"place":"Prague","lat":50.0755,"lon":14.4378,"precision":"city","confidence":"high","note":"revolution centred in Prague"}
+{"qid":182865,"place":"Kabul","lat":34.5553,"lon":69.2075,"precision":"city","confidence":"medium","note":"capital of war"}
+{"qid":183674,"place":"Ellis Park Stadium","lat":-26.1983,"lon":28.0608,"precision":"site","confidence":"medium","note":"final venue"}
+{"qid":184963,"place":"Tokyo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"medium","note":"shogunate seat Edo"}
+{"qid":186356,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"medium","note":"federal government seat"}
+{"qid":187301,"place":"Niamey","lat":13.5116,"lon":2.1254,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":187650,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"medium","note":"directed from Moscow"}
+{"qid":188200,"place":"Vienna","lat":48.2082,"lon":16.3738,"precision":"city","confidence":"high","note":"held in Vienna"}
+{"qid":188548,"place":"Belgrade","lat":44.7866,"lon":20.4489,"precision":"city","confidence":"medium","note":"final city"}
+{"qid":189266,"place":"Volgograd","lat":48.708,"lon":44.5133,"precision":"city","confidence":"medium","note":"Stalingrad defining battle"}
+{"qid":189571,"place":"Stade de France","lat":48.9245,"lon":2.3601,"precision":"site","confidence":"medium","note":"final venue"}
+{"qid":194869,"place":"Cape Town","lat":-33.9249,"lon":18.4241,"precision":"city","confidence":"medium","note":"host city"}
+{"qid":194876,"place":"Padua","lat":45.4064,"lon":11.8768,"precision":"city","confidence":"low","note":"final city"}
+{"qid":194880,"place":"Santa Monica Pier","lat":34.0092,"lon":-118.4973,"precision":"site","confidence":"high","note":"ceremony site"}
+{"qid":194882,"place":"Buenos Aires","lat":-34.6037,"lon":-58.3816,"precision":"city","confidence":"medium","note":"host city"}
+{"qid":194914,"place":"Tokyo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"medium","note":"host city"}
+{"qid":194934,"place":"Vannes","lat":47.6582,"lon":-2.7608,"precision":"city","confidence":"low","note":"final city"}
+{"qid":195775,"place":"Japan","lat":36.2048,"lon":138.2529,"precision":"country","confidence":"medium","note":"national series"}
+{"qid":196099,"place":"Japan","lat":36.2048,"lon":138.2529,"precision":"country","confidence":"medium","note":"national series"}
+{"qid":200485,"place":"Battle, East Sussex","lat":50.917,"lon":0.4875,"precision":"city","confidence":"medium","note":"Battle of Hastings site"}
+{"qid":200716,"place":"Chaeronea","lat":38.495,"lon":22.8475,"precision":"city","confidence":"high","note":"battle at Chaeronea"}

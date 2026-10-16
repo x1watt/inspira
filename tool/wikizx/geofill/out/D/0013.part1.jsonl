@@ -1,0 +1,50 @@
+{"qid":5378485,"place":"Dhaka","lat":23.8103,"lon":90.4125,"precision":"city","confidence":"medium","note":"main venue city"}
+{"qid":5378519,"place":"Johannesburg","lat":-26.2041,"lon":28.0473,"precision":"city","confidence":"low","note":"major venue city"}
+{"qid":5378536,"place":"Harare","lat":-17.8252,"lon":31.0335,"precision":"city","confidence":"medium","note":"capital, main venue"}
+{"qid":5378537,"place":"Harare","lat":-17.8252,"lon":31.0335,"precision":"city","confidence":"medium","note":"capital, main venue"}
+{"qid":5384794,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"medium","note":"national government seat"}
+{"qid":5397216,"place":"Eschwege Airfield","lat":51.1986,"lon":10.0242,"precision":"site","confidence":"high","note":"airfield at Eschwege"}
+{"qid":5403538,"place":"Tigray Region","lat":13.5,"lon":39.0,"precision":"region","confidence":"low","note":"northern Ethiopia front"}
+{"qid":5411545,"place":"San Sebastián","lat":43.3183,"lon":-1.9812,"precision":"city","confidence":"high","note":"held in San Sebastián"}
+{"qid":5420235,"place":"Victoria and Albert Museum","lat":51.4966,"lon":-0.1722,"precision":"site","confidence":"medium","note":"South Kensington Museum, now V&A"}
+{"qid":5432163,"place":"Tirana","lat":41.3275,"lon":19.8187,"precision":"city","confidence":"high","note":"student protests in capital"}
+{"qid":5439864,"place":"Yerevan","lat":40.1792,"lon":44.4991,"precision":"city","confidence":"medium","note":"uprising began in Yerevan"}
+{"qid":5446836,"place":"San José, Costa Rica","lat":9.9333,"lon":-84.0833,"precision":"city","confidence":"medium","note":"Montes de Oca, San José"}
+{"qid":5447028,"place":"Indianapolis","lat":39.7684,"lon":-86.1581,"precision":"city","confidence":"high","note":"host city"}
+{"qid":5447029,"place":"Havana","lat":23.1136,"lon":-82.3666,"precision":"city","confidence":"high","note":"host city"}
+{"qid":5447036,"place":"Mar del Plata","lat":-38.0055,"lon":-57.5426,"precision":"city","confidence":"high","note":"host city"}
+{"qid":5447049,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":""}
+{"qid":5447051,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":""}
+{"qid":5447443,"place":"Dublin","lat":53.3498,"lon":-6.2603,"precision":"city","confidence":"low","note":"national referendum, seat Dublin"}
+{"qid":5447458,"place":"Dublin","lat":53.3498,"lon":-6.2603,"precision":"city","confidence":"low","note":"national referendum, seat Dublin"}
+{"qid":5448029,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"high","note":"1908 Olympics in London"}
+{"qid":5453424,"place":"Beijing","lat":39.9042,"lon":116.4074,"precision":"city","confidence":"medium","note":"national census, capital"}
+{"qid":5457361,"place":"Battle of Fleurus (1794)","lat":50.4833,"lon":4.55,"precision":"site","confidence":"low","note":"defining battle of campaign"}
+{"qid":5466119,"place":"Dhaka","lat":23.8103,"lon":90.4125,"precision":"city","confidence":"medium","note":"played in Dhaka"}
+{"qid":5473116,"place":"Manama","lat":26.2285,"lon":50.586,"precision":"city","confidence":"high","note":"forum in Bahrain capital"}
+{"qid":5475980,"place":"Dublin","lat":53.3498,"lon":-6.2603,"precision":"city","confidence":"low","note":"national referendum, seat Dublin"}
+{"qid":5484545,"place":"Caracas","lat":10.4806,"lon":-66.9036,"precision":"city","confidence":"medium","note":"overthrew government in capital"}
+{"qid":5491236,"place":"Helsinki","lat":60.1699,"lon":24.9384,"precision":"city","confidence":"medium","note":"national strike, capital"}
+{"qid":5505869,"place":"Djibouti (city)","lat":11.5721,"lon":43.1456,"precision":"city","confidence":"low","note":"liberation movement base"}
+{"qid":5510712,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"medium","note":"Senate seat"}
+{"qid":5517740,"place":"Ampara","lat":7.2975,"lon":81.682,"precision":"city","confidence":"low","note":"Gal Oya riots"}
+{"qid":5542452,"place":"Sydney","lat":-33.8688,"lon":151.2093,"precision":"city","confidence":"low","note":"Australian tour main city"}
+{"qid":5558443,"place":"Villa de Los Santos","lat":7.9333,"lon":-80.4167,"precision":"city","confidence":"medium","note":"first call for independence"}
+{"qid":5560439,"place":"Kigali","lat":-1.9441,"lon":30.0619,"precision":"city","confidence":"high","note":"Gikondo mission church"}
+{"qid":5601909,"place":"Athens","lat":37.9838,"lon":23.7275,"precision":"city","confidence":"medium","note":"national census, capital"}
+{"qid":5647565,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"low","note":"chain started in New York"}
+{"qid":5666619,"place":"Harrow, London","lat":51.5806,"lon":-0.342,"precision":"city","confidence":"high","note":"near Harrow"}
+{"qid":5676916,"place":"Caracas","lat":10.4806,"lon":-66.9036,"precision":"city","confidence":"medium","note":"revolution decided at capital"}
+{"qid":5692265,"place":"Santiago","lat":-33.4489,"lon":-70.6693,"precision":"city","confidence":"high","note":"host city"}
+{"qid":5708744,"place":"Nashville, Tennessee","lat":36.1627,"lon":-86.7816,"precision":"city","confidence":"low","note":"tour home base"}
+{"qid":5722426,"place":"Eisenach","lat":50.9747,"lon":10.3222,"precision":"city","confidence":"high","note":"battle at Eisenach"}
+{"qid":5757406,"place":"Mexico City","lat":19.4326,"lon":-99.1332,"precision":"city","confidence":"low","note":"home market tour"}
+{"qid":5760517,"place":"Santiago","lat":-33.4489,"lon":-70.6693,"precision":"city","confidence":"medium","note":"census, capital"}
+{"qid":5760522,"place":"San José, Costa Rica","lat":9.9333,"lon":-84.0833,"precision":"city","confidence":"medium","note":"census, capital"}
+{"qid":5760524,"place":"San José, Costa Rica","lat":9.9333,"lon":-84.0833,"precision":"city","confidence":"medium","note":"census, capital"}
+{"qid":5760527,"place":"San José, Costa Rica","lat":9.9333,"lon":-84.0833,"precision":"city","confidence":"medium","note":"census, capital"}
+{"qid":5760530,"place":"San José, Costa Rica","lat":9.9333,"lon":-84.0833,"precision":"city","confidence":"medium","note":"census, capital"}
+{"qid":5783527,"place":"San Salvador","lat":13.6929,"lon":-89.2182,"precision":"city","confidence":"low","note":"conquest of Cuscatlan"}
+{"qid":5783531,"place":"Comayagua","lat":14.45,"lon":-87.65,"precision":"city","confidence":"low","note":"colonial centre of Honduras"}
+{"qid":5784367,"place":"Havana","lat":23.1136,"lon":-82.3666,"precision":"city","confidence":"medium","note":"conspiracy centred in Havana"}
+{"qid":5785227,"place":"Budapest","lat":47.4979,"lon":19.0402,"precision":"city","confidence":"high","note":"revolutions in capital"}

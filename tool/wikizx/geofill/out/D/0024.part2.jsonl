@@ -1,0 +1,50 @@
+{"qid":112125501,"place":"Luxembourg City","lat":49.6116,"lon":6.1319,"precision":"city","confidence":"low","note":"national league"}
+{"qid":112183292,"place":"Gazprom Arena","lat":59.9728,"lon":30.2216,"precision":"site","confidence":"medium","note":"match venue"}
+{"qid":112183502,"place":"Tehran","lat":35.6892,"lon":51.389,"precision":"city","confidence":"low","note":"national league"}
+{"qid":112212827,"place":"Bratislava","lat":48.1486,"lon":17.1077,"precision":"city","confidence":"low","note":"national league"}
+{"qid":112226998,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"low","note":"national league"}
+{"qid":112228106,"place":"Tirana","lat":41.3275,"lon":19.8187,"precision":"city","confidence":"low","note":"national league"}
+{"qid":112252577,"place":"Copenhagen","lat":55.6761,"lon":12.5683,"precision":"city","confidence":"low","note":"national league"}
+{"qid":112252806,"place":"Amsterdam","lat":52.3676,"lon":4.9041,"precision":"city","confidence":"low","note":"national league"}
+{"qid":112274444,"place":"Kolkata","lat":22.5726,"lon":88.3639,"precision":"city","confidence":"medium","note":"main host city"}
+{"qid":112317313,"place":"Kandy","lat":7.2906,"lon":80.6337,"precision":"city","confidence":"low","note":"tour in Sri Lanka"}
+{"qid":112427699,"place":"Gedaref","lat":14.0348,"lon":35.384,"precision":"city","confidence":"low","note":"battle near Sudan border"}
+{"qid":112444202,"place":"Belgrade","lat":44.7866,"lon":20.4489,"precision":"city","confidence":"low","note":"national league"}
+{"qid":112585278,"place":"Quito","lat":-0.1807,"lon":-78.4678,"precision":"city","confidence":"high","note":"protests centred on Quito"}
+{"qid":112614223,"place":"Tokyo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"low","note":"government policy"}
+{"qid":112695273,"place":"Oslo","lat":59.9139,"lon":10.7522,"precision":"city","confidence":"high","note":"shooting in central Oslo"}
+{"qid":112731003,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"wiki project page"}
+{"qid":112744803,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"low","note":"national league"}
+{"qid":112788907,"place":"Mount Rainier","lat":46.8523,"lon":-121.7603,"precision":"site","confidence":"medium","note":"Arnold sighting near Rainier"}
+{"qid":112800304,"place":"Ethiopia","lat":9.145,"lon":40.4897,"precision":"country","confidence":"low","note":"nationwide violence"}
+{"qid":112811959,"place":"Singapore","lat":1.3521,"lon":103.8198,"precision":"city","confidence":"high","note":"city state"}
+{"qid":112840164,"place":"Leipzig","lat":51.3397,"lon":12.3731,"precision":"city","confidence":"low","note":"invasion of Saxony"}
+{"qid":112872027,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"low","note":"national league"}
+{"qid":112892602,"place":"Chongqing","lat":29.4316,"lon":106.9123,"precision":"city","confidence":"low","note":"likely host city"}
+{"qid":112912030,"place":"Wavre","lat":50.7167,"lon":4.6,"precision":"city","confidence":"medium","note":"host city in Belgium"}
+{"qid":112913355,"place":"Baku","lat":40.4093,"lon":49.8671,"precision":"city","confidence":"low","note":"national league"}
+{"qid":112939451,"place":"Amsterdam","lat":52.3676,"lon":4.9041,"precision":"city","confidence":"low","note":"early Dutch cases"}
+{"qid":112964316,"place":"Yerevan","lat":40.1792,"lon":44.4991,"precision":"city","confidence":"low","note":"national league"}
+{"qid":112972647,"place":"Skopje","lat":41.9981,"lon":21.4254,"precision":"city","confidence":"high","note":"protests in Skopje"}
+{"qid":113003188,"place":"Skopje","lat":41.9981,"lon":21.4254,"precision":"city","confidence":"low","note":"national league"}
+{"qid":113012450,"place":"Papakura","lat":-37.0667,"lon":174.9433,"precision":"city","confidence":"medium","note":"hosted in Papakura"}
+{"qid":113111862,"place":"Sarajevo","lat":43.8563,"lon":18.4131,"precision":"city","confidence":"low","note":"national league"}
+{"qid":113130810,"place":"Ljubljana","lat":46.0569,"lon":14.5058,"precision":"city","confidence":"low","note":"national league"}
+{"qid":113150365,"place":"Nowy Sącz","lat":49.6247,"lon":20.697,"precision":"city","confidence":"high","note":"held in Nowy Sącz"}
+{"qid":113349849,"place":"Bridgetown","lat":13.1132,"lon":-59.5988,"precision":"city","confidence":"medium","note":"action at Carlisle Bay"}
+{"qid":113393353,"place":"Singapore Indoor Stadium","lat":1.3008,"lon":103.8745,"precision":"site","confidence":"medium","note":"finals venue"}
+{"qid":113461764,"place":"Brielle","lat":51.9017,"lon":4.1631,"precision":"city","confidence":"medium","note":"capture of Brielle 1572"}
+{"qid":113482445,"place":"Seoul","lat":37.5665,"lon":126.978,"precision":"city","confidence":"high","note":"floods in Seoul"}
+{"qid":113535552,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"low","note":"national cup"}
+{"qid":113642740,"place":"Rio de Janeiro","lat":-22.9068,"lon":-43.1729,"precision":"city","confidence":"low","note":"CBF seat"}
+{"qid":113651454,"place":"Tokyo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"low","note":"tour start"}
+{"qid":113715480,"place":"Lisbon","lat":38.7223,"lon":-9.1393,"precision":"city","confidence":"low","note":"national cup"}
+{"qid":113758052,"place":"Accra","lat":5.6037,"lon":-0.187,"precision":"city","confidence":"low","note":"linked to Accra games"}
+{"qid":113883811,"place":"Lima","lat":-12.0464,"lon":-77.0428,"precision":"city","confidence":"low","note":"national league"}
+{"qid":113884570,"place":"Bahrain International Circuit","lat":26.0325,"lon":50.5106,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":114024839,"place":"Delhi","lat":28.6139,"lon":77.209,"precision":"city","confidence":"medium","note":"conquest of Delhi"}
+{"qid":114033326,"place":"Valletta","lat":35.8989,"lon":14.5146,"precision":"city","confidence":"high","note":"held in Valletta"}
+{"qid":114042570,"place":"St. John's, Antigua and Barbuda","lat":17.1175,"lon":-61.8456,"precision":"city","confidence":"low","note":"capital"}
+{"qid":114042579,"place":"St. John's, Antigua and Barbuda","lat":17.1175,"lon":-61.8456,"precision":"city","confidence":"low","note":"capital"}
+{"qid":114071665,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"low","note":"national decree"}
+{"qid":114152717,"place":"Lisbon","lat":38.7223,"lon":-9.1393,"precision":"city","confidence":"low","note":"national cup"}

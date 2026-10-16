@@ -1,0 +1,50 @@
+{"qid":3056596,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"medium","note":"congresses met in Moscow"}
+{"qid":3062439,"place":"Battle of Isly","lat":34.7,"lon":-1.9,"precision":"site","confidence":"medium","note":"decisive battle near Oujda"}
+{"qid":3067683,"place":"Costa Rica National Stadium (1924)","lat":9.9364,"lon":-84.1078,"precision":"site","confidence":"high","note":"stadium in La Sabana"}
+{"qid":3072443,"place":"Philadelphia","lat":39.9526,"lon":-75.1652,"precision":"city","confidence":"medium","note":"champion Warriors"}
+{"qid":3073537,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"abstract concept"}
+{"qid":3076650,"place":"Victoria, Seychelles","lat":-4.6191,"lon":55.4513,"precision":"city","confidence":"high","note":"played in Victoria"}
+{"qid":3082702,"place":"Salvador, Bahia","lat":-12.9714,"lon":-38.5014,"precision":"city","confidence":"medium","note":"Bahia fighting decisive"}
+{"qid":3083198,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"concert tour"}
+{"qid":3089540,"place":"Minsk","lat":53.9045,"lon":27.5615,"precision":"city","confidence":"low","note":"offensive aimed at Minsk"}
+{"qid":3090571,"place":"Kyoto","lat":35.0116,"lon":135.7681,"precision":"city","confidence":"high","note":"siege at Hōjūji Palace"}
+{"qid":3100540,"place":"Punjab, India","lat":31.1471,"lon":75.3412,"precision":"region","confidence":"medium","note":"Green Revolution heartland"}
+{"qid":3107014,"place":"Luxembourg Airport","lat":49.6233,"lon":6.2044,"precision":"site","confidence":"high","note":"crash at airport"}
+{"qid":3113894,"place":"Circuit de Monaco","lat":43.7347,"lon":7.4206,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":3113897,"place":"Circuit de Monaco","lat":43.7347,"lon":7.4206,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":3113900,"place":"Circuit de Monaco","lat":43.7347,"lon":7.4206,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":3113901,"place":"Circuit de Monaco","lat":43.7347,"lon":7.4206,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":3113903,"place":"Circuit de Monaco","lat":43.7347,"lon":7.4206,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":3113905,"place":"Circuit de Monaco","lat":43.7347,"lon":7.4206,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":3113906,"place":"Circuit de Monaco","lat":43.7347,"lon":7.4206,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":3118963,"place":"Birao","lat":10.29,"lon":22.79,"precision":"city","confidence":"medium","note":"northeast rebel fighting"}
+{"qid":3119006,"place":"Bago, Myanmar","lat":17.335,"lon":96.481,"precision":"city","confidence":"medium","note":"Lower Burma, Pegu"}
+{"qid":3119017,"place":"Kampala","lat":0.3476,"lon":32.5825,"precision":"city","confidence":"low","note":"war ended in Kampala"}
+{"qid":3119385,"place":"Mejorada del Campo","lat":40.39,"lon":-3.49,"precision":"city","confidence":"high","note":"crash site"}
+{"qid":3128892,"place":"Mexico City","lat":19.4326,"lon":-99.1332,"precision":"city","confidence":"medium","note":"political centre"}
+{"qid":3147018,"place":"Dublin","lat":53.3498,"lon":-6.2603,"precision":"city","confidence":"medium","note":"referendum nationwide, capital"}
+{"qid":3151731,"place":"Mexico City","lat":19.4326,"lon":-99.1332,"precision":"city","confidence":"low","note":"conflict nationwide"}
+{"qid":3181408,"place":"Constantinople","lat":41.0082,"lon":28.9784,"precision":"city","confidence":"high","note":"siege of city"}
+{"qid":3182543,"place":"Riga","lat":56.9496,"lon":24.1052,"precision":"city","confidence":"high","note":"coup in capital"}
+{"qid":3207434,"place":"Tehran","lat":35.6892,"lon":51.389,"precision":"city","confidence":"medium","note":"nationwide, capital"}
+{"qid":3240480,"place":"Mumbai","lat":19.076,"lon":72.8777,"precision":"city","confidence":"medium","note":"planned host, cancelled"}
+{"qid":3269455,"place":"Tripoli","lat":32.8872,"lon":13.1913,"precision":"city","confidence":"low","note":"operation over Libya"}
+{"qid":3270393,"place":"Warsaw","lat":52.2297,"lon":21.0122,"precision":"city","confidence":"medium","note":"crash at Kabaty Woods"}
+{"qid":3271831,"place":"Suva Reka","lat":42.37,"lon":20.82,"precision":"city","confidence":"high","note":"massacre in town"}
+{"qid":3275284,"place":"Fushimi Castle","lat":34.9392,"lon":135.7743,"precision":"site","confidence":"high","note":"siege of castle"}
+{"qid":3276427,"place":"Kiyomizu-dera","lat":34.9949,"lon":135.785,"precision":"site","confidence":"medium","note":"announced at temple"}
+{"qid":3280731,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"list of rebellions"}
+{"qid":3281392,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"concert DVD"}
+{"qid":3281525,"place":"Coimbra","lat":40.2033,"lon":-8.4103,"precision":"city","confidence":"low","note":"final four host"}
+{"qid":3282633,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"concert DVD"}
+{"qid":3285835,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"pageant host unknown"}
+{"qid":3285836,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"pageant host unknown"}
+{"qid":3285838,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"pageant host unknown"}
+{"qid":3285839,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"pageant host unknown"}
+{"qid":3286392,"place":"Salvador, Bahia","lat":-12.9714,"lon":-38.5014,"precision":"city","confidence":"high","note":"recapture of Bahia"}
+{"qid":3292092,"place":"Doha","lat":25.2854,"lon":51.531,"precision":"city","confidence":"high","note":"host city"}
+{"qid":3292097,"place":"Doha","lat":25.2854,"lon":51.531,"precision":"city","confidence":"high","note":"host city"}
+{"qid":3294727,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"high","note":"1908 Olympics host"}
+{"qid":3298730,"place":"Rio de Janeiro","lat":-22.9068,"lon":-43.1729,"precision":"city","confidence":"low","note":"nationwide, no single city"}
+{"qid":3298759,"place":"Port-au-Prince","lat":18.5944,"lon":-72.3074,"precision":"city","confidence":"high","note":"marines landed there"}
+{"qid":3298829,"place":"Seoul","lat":37.5665,"lon":126.978,"precision":"city","confidence":"medium","note":"SM Entertainment concerts"}

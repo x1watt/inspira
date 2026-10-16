@@ -8,6 +8,7 @@ import 'data/image_repository.dart';
 import 'data/progress_store.dart';
 import 'data/quote_repository.dart';
 import 'data/story_repository.dart';
+import 'data/wiki_place_repository.dart';
 import 'screens/categories_screen.dart';
 import 'screens/feed_screen.dart';
 import 'screens/stories_screen.dart';
@@ -33,13 +34,15 @@ class _InspiraAppState extends State<InspiraApp> {
   late final Future<AppData> _load = widget.load?.call() ?? _loadAll();
 
   static Future<AppData> _loadAll() async {
-    final (quotes, stories, events, favorites, images, progress) = await (
+    final (quotes, stories, events, favorites, images, progress, wiki) =
+        await (
       QuoteRepository.load(rootBundle),
       StoryRepository.load(rootBundle),
       EventRepository.load(rootBundle),
       FavoritesStore.load(),
       ImageRepository.load(rootBundle),
       ProgressStore.load(),
+      WikiPlaceRepository.load(rootBundle),
     ).wait;
     return AppData(
       quotes: quotes,
@@ -48,6 +51,7 @@ class _InspiraAppState extends State<InspiraApp> {
       images: images,
       progress: progress,
       events: events,
+      wikiPlaces: wiki,
     );
   }
 

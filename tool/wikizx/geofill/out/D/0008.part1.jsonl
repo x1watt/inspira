@@ -1,0 +1,50 @@
+{"qid":2352036,"place":"Islamabad","lat":33.6844,"lon":73.0479,"precision":"city","confidence":"high","note":"coup at PM Secretariat"}
+{"qid":2356791,"place":"Montevideo","lat":-34.9011,"lon":-56.1645,"precision":"city","confidence":"medium","note":"conquest culminating at Montevideo"}
+{"qid":2363837,"place":"Cordillera del Cóndor","lat":-3.95,"lon":-78.3,"precision":"region","confidence":"low","note":"Cenepa War area"}
+{"qid":2366778,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"low","note":"census HQ"}
+{"qid":2375531,"place":"Rio de Janeiro","lat":-22.9068,"lon":-43.1729,"precision":"city","confidence":"low","note":"nationwide, no single city"}
+{"qid":2382436,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"low","note":"national league"}
+{"qid":2383159,"place":"Addis Ababa","lat":9.032,"lon":38.7469,"precision":"city","confidence":"low","note":"conquests from Shewa"}
+{"qid":2384151,"place":"Ankara","lat":39.9334,"lon":32.8597,"precision":"city","confidence":"low","note":"national league"}
+{"qid":2398589,"place":"Cusco","lat":-13.5319,"lon":-71.9675,"precision":"city","confidence":"high","note":"siege of Cusco"}
+{"qid":2399287,"place":"Apostolic Palace","lat":41.904,"lon":12.454,"precision":"site","confidence":"high","note":"conclave venue"}
+{"qid":2399312,"place":"Montevideo","lat":-34.9011,"lon":-56.1645,"precision":"city","confidence":"medium","note":"Uruguayan league"}
+{"qid":2400878,"place":"Santa Monica Pier","lat":34.0094,"lon":-118.4973,"precision":"site","confidence":"medium","note":"ceremony site"}
+{"qid":2403418,"place":"Belgrade","lat":44.7866,"lon":20.4489,"precision":"city","confidence":"high","note":"coup in Belgrade"}
+{"qid":2406834,"place":"Virginia Beach, Virginia","lat":36.8529,"lon":-75.978,"precision":"city","confidence":"high","note":"host city"}
+{"qid":2408221,"place":"Apostolic Palace","lat":41.904,"lon":12.454,"precision":"site","confidence":"medium","note":"conclave venue"}
+{"qid":2411088,"place":"Milan","lat":45.4642,"lon":9.19,"precision":"city","confidence":"medium","note":"final held in Milan"}
+{"qid":2418042,"place":"Belgrade","lat":44.825,"lon":20.419,"precision":"site","confidence":"high","note":"embassy bombed"}
+{"qid":2419855,"place":"Kyiv","lat":50.4501,"lon":30.5234,"precision":"city","confidence":"medium","note":"war over Kyiv"}
+{"qid":2436640,"place":"Stockholm","lat":59.3293,"lon":18.0686,"precision":"city","confidence":"high","note":"host city"}
+{"qid":2441248,"place":"Lisbon","lat":38.7223,"lon":-9.1393,"precision":"city","confidence":"low","note":"Russian fleet blockaded at Lisbon"}
+{"qid":2442442,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"high","note":"Broadway awards"}
+{"qid":2442882,"place":"Kyiv","lat":50.4501,"lon":30.5234,"precision":"city","confidence":"low","note":"culture on middle Dnieper"}
+{"qid":2448354,"place":"Quirinal Palace","lat":41.9009,"lon":12.4872,"precision":"site","confidence":"high","note":"conclave venue"}
+{"qid":2455046,"place":"Lima","lat":-12.0464,"lon":-77.0428,"precision":"city","confidence":"medium","note":"census nationwide, capital"}
+{"qid":2456916,"place":"Alexandria","lat":31.2001,"lon":29.9187,"precision":"city","confidence":"high","note":"attempt on Alexandria"}
+{"qid":2460861,"place":"Lima","lat":-12.0464,"lon":-77.0428,"precision":"city","confidence":"high","note":"culture in Lima"}
+{"qid":2461485,"place":"Aden","lat":12.7855,"lon":45.0187,"precision":"city","confidence":"medium","note":"siege of Aden defining"}
+{"qid":2465522,"place":"Luxembourg City","lat":49.6116,"lon":6.1319,"precision":"city","confidence":"high","note":"host city"}
+{"qid":2465567,"place":"Nouakchott","lat":18.0735,"lon":-15.9582,"precision":"city","confidence":"high","note":"coup in capital"}
+{"qid":2465835,"place":"Coimbra","lat":40.2033,"lon":-8.4103,"precision":"city","confidence":"low","note":"final four host"}
+{"qid":2466441,"place":"Montreal","lat":45.5017,"lon":-73.5673,"precision":"city","confidence":"medium","note":"Patriote centre"}
+{"qid":2466608,"place":"Budapest","lat":47.4979,"lon":19.0402,"precision":"city","confidence":"high","note":"host city"}
+{"qid":2466618,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"high","note":"host city"}
+{"qid":2467248,"place":"Granada","lat":37.1773,"lon":-3.5986,"precision":"city","confidence":"high","note":"surrender of Granada"}
+{"qid":2469058,"place":"Harare","lat":-17.8252,"lon":31.0335,"precision":"city","confidence":"low","note":"policy centre, capital"}
+{"qid":2470611,"place":"Kyiv","lat":50.4501,"lon":30.5234,"precision":"city","confidence":"low","note":"Cossack Hetmanate core"}
+{"qid":2470942,"place":"Melbourne","lat":-37.8136,"lon":144.9631,"precision":"city","confidence":"high","note":"final city"}
+{"qid":2472593,"place":"St. Peter's Square","lat":41.9022,"lon":12.4568,"precision":"site","confidence":"high","note":"shooting site"}
+{"qid":2479557,"place":"Santa Monica Pier","lat":34.0094,"lon":-118.4973,"precision":"site","confidence":"medium","note":"ceremony site"}
+{"qid":2479606,"place":"Kyiv","lat":50.4501,"lon":30.5234,"precision":"city","confidence":"medium","note":"war over Kyiv"}
+{"qid":2481288,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"music release"}
+{"qid":2483730,"place":"Vaduz","lat":47.141,"lon":9.5209,"precision":"city","confidence":"medium","note":"Liechtenstein host"}
+{"qid":2493468,"place":"Smolensk","lat":54.7826,"lon":32.0453,"precision":"city","confidence":"low","note":"campaign over Smolensk region"}
+{"qid":2493908,"place":"Valletta","lat":35.8989,"lon":14.5146,"precision":"city","confidence":"high","note":"siege of Malta"}
+{"qid":2497690,"place":"Ronaldsway","lat":54.085,"lon":-4.63,"precision":"city","confidence":"high","note":"battle site"}
+{"qid":2499361,"place":"Kyiv","lat":50.4501,"lon":30.5234,"precision":"city","confidence":"low","note":"cup final in Kyiv"}
+{"qid":2501743,"place":"Saint Helier","lat":49.1858,"lon":-2.11,"precision":"city","confidence":"high","note":"battle in St Helier"}
+{"qid":2502349,"place":"Almere Castle","lat":52.3482,"lon":5.2474,"precision":"site","confidence":"high","note":"castle site"}
+{"qid":2503056,"place":"Kyiv","lat":50.4501,"lon":30.5234,"precision":"city","confidence":"high","note":"siege of Kyiv"}
+{"qid":2503870,"place":"Montevideo","lat":-34.9011,"lon":-56.1645,"precision":"city","confidence":"medium","note":"Uruguayan league"}

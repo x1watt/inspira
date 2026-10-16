@@ -1,0 +1,50 @@
+{"qid":5786474,"place":"Estadio Gran Parque Central","lat":-34.8928,"lon":-56.1636,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":5794586,"place":"Brittany","lat":48.2,"lon":-3.0,"precision":"region","confidence":"low","note":"Armorican region"}
+{"qid":5808489,"place":"Bogotá","lat":4.711,"lon":-74.0721,"precision":"city","confidence":"medium","note":"Gran Colombia capital"}
+{"qid":5835762,"place":"Tegucigalpa","lat":14.0723,"lon":-87.1921,"precision":"city","confidence":"low","note":"Honduran capital"}
+{"qid":5853279,"place":"Chimbote","lat":-9.0853,"lon":-78.5783,"precision":"city","confidence":"low","note":"raids on Peruvian coast"}
+{"qid":5853813,"place":"Mexico City","lat":19.4326,"lon":-99.1332,"precision":"city","confidence":"low","note":"Mexican band recording"}
+{"qid":5871318,"place":"Madrid","lat":40.4168,"lon":-3.7038,"precision":"city","confidence":"high","note":"Spanish think tank"}
+{"qid":5875679,"place":"Kuala Lumpur","lat":3.139,"lon":101.6869,"precision":"city","confidence":"high","note":"1998 Games host"}
+{"qid":5876827,"place":"Tehran","lat":35.6892,"lon":51.389,"precision":"city","confidence":"low","note":"missile attacks on cities"}
+{"qid":5882515,"place":"Caracas","lat":10.4806,"lon":-66.9036,"precision":"city","confidence":"high","note":"coup attempt in capital"}
+{"qid":5887712,"place":"La Paz","lat":-16.4897,"lon":-68.1193,"precision":"city","confidence":"medium","note":"seat of Federal War"}
+{"qid":5900156,"place":"Lima","lat":-12.0464,"lon":-77.0428,"precision":"city","confidence":"medium","note":"Peruvian capital"}
+{"qid":5915169,"place":"Asunción","lat":-25.2637,"lon":-57.5759,"precision":"city","confidence":"high","note":"May 1811 revolution"}
+{"qid":5918523,"place":"Caracas","lat":10.4806,"lon":-66.9036,"precision":"city","confidence":"low","note":"insurrection in Caracas region"}
+{"qid":5918526,"place":"Tacna","lat":-18.0056,"lon":-70.2483,"precision":"city","confidence":"high","note":"rebellion in Tacna"}
+{"qid":5945069,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"low","note":"held in varying German cities"}
+{"qid":5967634,"place":"Happy Valley Racecourse","lat":22.272,"lon":114.1822,"precision":"site","confidence":"high","note":"fire at racecourse"}
+{"qid":5975039,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"low","note":"ITV anniversary event"}
+{"qid":5986345,"place":"Pachacamac","lat":-12.25,"lon":-76.9,"precision":"site","confidence":"medium","note":"Ichma capital centre"}
+{"qid":5997763,"place":"Ilford","lat":51.5588,"lon":0.0685,"precision":"city","confidence":"high","note":"crash at Ilford"}
+{"qid":6021291,"place":"Istanbul","lat":41.0082,"lon":28.9784,"precision":"city","confidence":"medium","note":"Ottoman capital"}
+{"qid":6021990,"place":"Dhaka","lat":23.8103,"lon":90.4125,"precision":"city","confidence":"medium","note":"main venue city"}
+{"qid":6022007,"place":"Dhaka","lat":23.8103,"lon":90.4125,"precision":"city","confidence":"medium","note":"main venue city"}
+{"qid":6022102,"place":"Johannesburg","lat":-26.2041,"lon":28.0473,"precision":"city","confidence":"low","note":"major venue city"}
+{"qid":6022115,"place":"Colombo","lat":6.9271,"lon":79.8612,"precision":"city","confidence":"medium","note":"main venue city"}
+{"qid":6022117,"place":"Colombo","lat":6.9271,"lon":79.8612,"precision":"city","confidence":"medium","note":"main venue city"}
+{"qid":6022123,"place":"Colombo","lat":6.9271,"lon":79.8612,"precision":"city","confidence":"medium","note":"main venue city"}
+{"qid":6022138,"place":"Colombo","lat":6.9271,"lon":79.8612,"precision":"city","confidence":"medium","note":"main venue city"}
+{"qid":6022142,"place":"Colombo","lat":6.9271,"lon":79.8612,"precision":"city","confidence":"medium","note":"main venue city"}
+{"qid":6022180,"place":"Harare","lat":-17.8252,"lon":31.0335,"precision":"city","confidence":"medium","note":"main venue city"}
+{"qid":6022183,"place":"Harare","lat":-17.8252,"lon":31.0335,"precision":"city","confidence":"medium","note":"main venue city"}
+{"qid":6022577,"place":"Jaffna","lat":9.6615,"lon":80.0255,"precision":"city","confidence":"medium","note":"main IPKF theatre"}
+{"qid":6024972,"place":"Indira Gandhi Memorial Hospital","lat":4.1734,"lon":73.5014,"precision":"site","confidence":"high","note":"hospital in Malé"}
+{"qid":6041446,"place":"San Cristóbal, Dominican Republic","lat":18.4167,"lon":-70.1167,"precision":"city","confidence":"high","note":"institute in San Cristóbal"}
+{"qid":6051642,"place":"Istanbul","lat":41.0082,"lon":28.9784,"precision":"city","confidence":"high","note":"earthquake struck Istanbul"}
+{"qid":6055181,"place":"Manama","lat":26.2285,"lon":50.586,"precision":"city","confidence":"medium","note":"uprising in Bahrain capital"}
+{"qid":6059597,"place":"Algiers","lat":36.7538,"lon":3.0588,"precision":"city","confidence":"high","note":"target city"}
+{"qid":6059644,"place":"Gozo","lat":36.0444,"lon":14.2512,"precision":"region","confidence":"high","note":"island invaded"}
+{"qid":6067814,"place":"Baghdad","lat":33.3152,"lon":44.3661,"precision":"city","confidence":"high","note":"surge aimed at Baghdad"}
+{"qid":6067924,"place":"Fallujah","lat":33.35,"lon":43.7833,"precision":"city","confidence":"medium","note":"key battles at Fallujah"}
+{"qid":6067932,"place":"Basra","lat":30.5085,"lon":47.7835,"precision":"city","confidence":"medium","note":"Mahdi Army clashes in Basra"}
+{"qid":6068132,"place":"Baghdad","lat":33.3152,"lon":44.3661,"precision":"city","confidence":"low","note":"insurgency centred on Baghdad"}
+{"qid":6068163,"place":"Istanbul","lat":41.0082,"lon":28.9784,"precision":"city","confidence":"medium","note":"Ottoman capital"}
+{"qid":6071452,"place":"Dhaka","lat":23.8103,"lon":90.4125,"precision":"city","confidence":"medium","note":"main venue city"}
+{"qid":6071461,"place":"Harare","lat":-17.8252,"lon":31.0335,"precision":"city","confidence":"medium","note":"main venue city"}
+{"qid":6084870,"place":"Suceava","lat":47.6514,"lon":26.2556,"precision":"city","confidence":"medium","note":"Moldavian capital"}
+{"qid":6103117,"place":"Ankara","lat":39.9334,"lon":32.8597,"precision":"city","confidence":"medium","note":"national census, capital"}
+{"qid":6107175,"place":"Montevideo","lat":-34.9011,"lon":-56.1645,"precision":"city","confidence":"low","note":"government of Batlle"}
+{"qid":6123725,"place":"Tegucigalpa","lat":14.0723,"lon":-87.1921,"precision":"city","confidence":"medium","note":"Honduran capital"}
+{"qid":6142990,"place":"San Salvador","lat":13.6929,"lon":-89.2182,"precision":"city","confidence":"high","note":"earthquake struck San Salvador"}

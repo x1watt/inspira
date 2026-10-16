@@ -8,6 +8,7 @@ import 'package:latlong2/latlong.dart';
 
 import '../app_scope.dart';
 import '../data/place_index.dart';
+import '../data/wiki_place_repository.dart';
 import '../models/story.dart';
 import '../widgets/event_details.dart';
 import '../widgets/person_sheet.dart';
@@ -280,6 +281,7 @@ const _kindStyle = {
   'history': (Icons.account_balance_rounded, Color(0xFF42A5F5), 'History'),
   'study': (Icons.science_rounded, Color(0xFF66BB6A), 'Study'),
   'story': (Icons.auto_stories_rounded, Color(0xFFAB47BC), 'Story'),
+  'wiki': (Icons.public_rounded, Color(0xFF90A4AE), 'Wikipedia'),
 };
 
 class _PlaceMarker extends StatelessWidget {
@@ -460,10 +462,12 @@ class _PlaceSheet extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final scope = AppScope.of(context);
-    final event = place.event, story = place.story;
+    final event = place.event, story = place.story, wiki = place.wiki;
     final art = event != null
         ? scope.images.artForEvent(event)
-        : scope.images.artForStory(story!);
+        : story != null
+        ? scope.images.artForStory(story)
+        : null;
     final directions =
         'https://www.google.com/maps/dir/?api=1&destination=${place.lat},${place.lon}';
     return DraggableScrollableSheet(
@@ -497,6 +501,12 @@ class _PlaceSheet extends StatelessWidget {
                   km == null ? 'Directions' : 'Directions, ${_distance(km!)}',
                 ),
               ),
+              if (wiki != null)
+                OutlinedButton.icon(
+                  onPressed: () => openLink(context, wiki.url),
+                  icon: const Icon(Icons.menu_book_rounded),
+                  label: const Text('Read on Wikipedia'),
+                ),
               if (story != null)
                 OutlinedButton.icon(
                   onPressed: () => Navigator.of(context).push(
@@ -516,12 +526,36 @@ class _PlaceSheet extends StatelessWidget {
               nowYear: DateTime.now().year,
               mapLink: false,
             )
+          else if (story != null)
+            ..._story(context, story)
           else
-            ..._story(context, story!),
+            ..._wiki(context, wiki!),
         ],
       ),
     );
   }
+
+  List<Widget> _wiki(BuildContext context, WikiPlace w) => [
+    Text(
+      w.title,
+      style: Theme.of(context).textTheme.headlineSmall
+          ?.copyWith(color: Colors.white, fontWeight: FontWeight.w700),
+    ),
+    const SizedBox(height: 4),
+    if (w.yearLabel.isNotEmpty)
+      Text(
+        w.yearLabel,
+        style: const TextStyle(color: Colors.white70, fontSize: 13),
+      ),
+    const SizedBox(height: 12),
+    Text(
+      w.approximate
+          ? 'The place is approximate: only the area where it happened is known.'
+          : 'The place where it happened, from Wikidata, Wikipedia and '
+                'GeoNames.',
+      style: _body,
+    ),
+  ];
 
   List<Widget> _story(BuildContext context, Story s) => [
     Text(

@@ -1,0 +1,50 @@
+{"qid":16335811,"place":"Damascus","lat":33.5138,"lon":36.2765,"precision":"city","confidence":"medium","note":"capital, election held nationwide"}
+{"qid":16335962,"place":"France","lat":46.6034,"lon":1.8883,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":16374553,"place":"Ruisi","lat":41.9333,"lon":44.2167,"precision":"city","confidence":"low","note":"synod at Ruisi"}
+{"qid":16408935,"place":"Estonia","lat":58.5953,"lon":25.0136,"precision":"country","confidence":"high","note":"nationwide census"}
+{"qid":16509565,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":16516636,"place":"Barquisimeto","lat":10.0678,"lon":-69.3467,"precision":"city","confidence":"high","note":"host city"}
+{"qid":16516638,"place":"Montevideo","lat":-34.9011,"lon":-56.1645,"precision":"city","confidence":"high","note":"host city"}
+{"qid":16534924,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":16536082,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":""}
+{"qid":16570067,"place":"Kuala Lumpur","lat":3.139,"lon":101.6869,"precision":"city","confidence":"high","note":"host city"}
+{"qid":16573193,"place":"Santo Domingo","lat":18.4861,"lon":-69.9312,"precision":"city","confidence":"medium","note":"capital, defining city"}
+{"qid":16577781,"place":"Zagreb","lat":45.815,"lon":15.9819,"precision":"city","confidence":"medium","note":"final in Zagreb"}
+{"qid":16589302,"place":"Warsaw","lat":52.2297,"lon":21.0122,"precision":"city","confidence":"high","note":"riot in Warsaw"}
+{"qid":16592222,"place":"Switzerland","lat":46.8182,"lon":8.2275,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":16593711,"place":"Punta del Este","lat":-34.9496,"lon":-54.95,"precision":"city","confidence":"high","note":"host city"}
+{"qid":16600574,"place":"Spain","lat":40.4637,"lon":-3.7492,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":16600755,"place":"Shanghai","lat":31.2304,"lon":121.4737,"precision":"city","confidence":"high","note":"host city"}
+{"qid":16609485,"place":"Santiago","lat":-33.4489,"lon":-70.6693,"precision":"city","confidence":"high","note":"host city"}
+{"qid":16621994,"place":"Spain","lat":40.4637,"lon":-3.7492,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":16624209,"place":"Buenos Aires","lat":-34.6037,"lon":-58.3816,"precision":"city","confidence":"medium","note":"start city"}
+{"qid":16639899,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"low","note":"North American tour"}
+{"qid":16641465,"place":"Nanjing","lat":32.0603,"lon":118.7969,"precision":"city","confidence":"high","note":"2014 Youth Olympics host"}
+{"qid":16660303,"place":"Madrid","lat":40.4168,"lon":-3.7038,"precision":"city","confidence":"high","note":"Park Manzanares"}
+{"qid":16662495,"place":"Luxembourg Findel Airport","lat":49.6233,"lon":6.2044,"precision":"site","confidence":"high","note":"crash site"}
+{"qid":16674509,"place":"Buenos Aires","lat":-34.6037,"lon":-58.3816,"precision":"city","confidence":"medium","note":"capital, naval revolt"}
+{"qid":16684585,"place":"France","lat":46.6034,"lon":1.8883,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":16685943,"place":"Algiers","lat":36.7538,"lon":3.0588,"precision":"city","confidence":"high","note":"coup in capital"}
+{"qid":16711319,"place":"Kiev","lat":50.4501,"lon":30.5234,"precision":"city","confidence":"high","note":"city census"}
+{"qid":16724471,"place":"Montenegro","lat":42.7087,"lon":19.3744,"precision":"country","confidence":"medium","note":"war in Montenegro"}
+{"qid":16733826,"place":"Lungi, Sierra Leone","lat":8.6167,"lon":-13.2,"precision":"city","confidence":"low","note":"near Lungi"}
+{"qid":16738664,"place":"Philippines","lat":12.8797,"lon":121.774,"precision":"country","confidence":"medium","note":"national history"}
+{"qid":16744146,"place":"Portugal","lat":39.3999,"lon":-8.2245,"precision":"country","confidence":"medium","note":"nationwide league"}
+{"qid":16820694,"place":"Yerevan","lat":40.1792,"lon":44.4991,"precision":"city","confidence":"medium","note":"Tsitsernakaberd commemoration"}
+{"qid":16821418,"place":"Pakistan","lat":30.3753,"lon":69.3451,"precision":"country","confidence":"high","note":"nationwide bombings"}
+{"qid":16821645,"place":"Bolivia","lat":-16.2902,"lon":-63.5887,"precision":"country","confidence":"high","note":"nationwide census"}
+{"qid":16822203,"place":"North Korea","lat":40.3399,"lon":127.5101,"precision":"country","confidence":"high","note":"nationwide census"}
+{"qid":16822547,"place":"Nicosia","lat":35.1856,"lon":33.3823,"precision":"city","confidence":"high","note":"hospital in Nicosia"}
+{"qid":16822621,"place":"Dutch East Indies","lat":-6.2088,"lon":106.8456,"precision":"region","confidence":"low","note":"Batavia-based competition"}
+{"qid":16823059,"place":"North Korea","lat":40.3399,"lon":127.5101,"precision":"country","confidence":"high","note":"nationwide census"}
+{"qid":16823171,"place":"Port Moresby","lat":-9.4438,"lon":147.1803,"precision":"city","confidence":"high","note":"Lloyd Robson Oval"}
+{"qid":16823194,"place":"Portugal","lat":39.3999,"lon":-8.2245,"precision":"country","confidence":"medium","note":"nationwide cup"}
+{"qid":16823223,"place":"Bolivia","lat":-16.2902,"lon":-63.5887,"precision":"country","confidence":"high","note":"nationwide census"}
+{"qid":16823372,"place":"Kazan","lat":55.7887,"lon":49.1221,"precision":"city","confidence":"high","note":"host city"}
+{"qid":16823458,"place":"Dakar","lat":14.7167,"lon":-17.4677,"precision":"city","confidence":"high","note":"host city"}
+{"qid":16823976,"place":"Praia","lat":14.9331,"lon":-23.5133,"precision":"city","confidence":"medium","note":"national stadium in Praia"}
+{"qid":16824430,"place":"Boston","lat":42.3601,"lon":-71.0589,"precision":"city","confidence":"low","note":"war began near Boston"}
+{"qid":16825556,"place":"Nyeri","lat":-0.4167,"lon":36.95,"precision":"city","confidence":"medium","note":"Kimathi captured near Nyeri"}
+{"qid":16826827,"place":"Nicosia","lat":35.1856,"lon":33.3823,"precision":"city","confidence":"low","note":"ambush near Nicosia"}
+{"qid":16828720,"place":"Singapore","lat":1.3521,"lon":103.8198,"precision":"city","confidence":"high","note":"host city"}
+{"qid":16835057,"place":"Italy","lat":41.8719,"lon":12.5674,"precision":"country","confidence":"medium","note":"nationwide league"}

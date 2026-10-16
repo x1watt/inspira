@@ -1,0 +1,50 @@
+{"qid":2022818,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"low","note":"campaign relieved Moscow region"}
+{"qid":2026272,"place":"Baghdad","lat":33.3152,"lon":44.3661,"precision":"city","confidence":"low","note":"offensive around Baghdad region"}
+{"qid":2026406,"place":"Basra","lat":30.5085,"lon":47.7804,"precision":"city","confidence":"low","note":"southern Iraq no-fly zone"}
+{"qid":2026446,"place":"Algiers","lat":36.7538,"lon":3.0588,"precision":"city","confidence":"high","note":"port assault at Algiers"}
+{"qid":2026486,"place":"Port-au-Prince","lat":18.5944,"lon":-72.3074,"precision":"city","confidence":"high","note":"intervention in capital"}
+{"qid":2026496,"place":"Lebanon","lat":33.8547,"lon":35.8623,"precision":"country","confidence":"medium","note":"attack on southern Lebanon"}
+{"qid":2026616,"place":"Grand Harbour","lat":35.8997,"lon":14.5222,"precision":"site","confidence":"high","note":"raid on harbour"}
+{"qid":2033011,"place":"Oslo","lat":59.9139,"lon":10.7522,"precision":"city","confidence":"high","note":"championships in Oslo"}
+{"qid":2034717,"place":"Coimbra","lat":40.2033,"lon":-8.4103,"precision":"city","confidence":"low","note":"final four host"}
+{"qid":2039029,"place":"Bucharest","lat":44.4268,"lon":26.1025,"precision":"city","confidence":"low","note":"culture near Bucharest"}
+{"qid":2040698,"place":"Kyiv","lat":50.4501,"lon":30.5234,"precision":"city","confidence":"low","note":"cup final in Kyiv"}
+{"qid":2042088,"place":"Kyiv","lat":50.4501,"lon":30.5234,"precision":"city","confidence":"low","note":"cup final in Kyiv"}
+{"qid":2050460,"place":"Reykjavík","lat":64.1466,"lon":-21.9426,"precision":"city","confidence":"high","note":"occupation centred on capital"}
+{"qid":2052787,"place":"Boston","lat":42.3601,"lon":-71.0589,"precision":"city","confidence":"high","note":"host city"}
+{"qid":2053324,"place":"Coimbra","lat":40.2033,"lon":-8.4103,"precision":"city","confidence":"low","note":"final four host"}
+{"qid":2069434,"place":"Nicosia","lat":35.1856,"lon":33.3823,"precision":"city","confidence":"high","note":"coup at presidential palace"}
+{"qid":2070808,"place":"Jilava Prison","lat":44.3367,"lon":26.0883,"precision":"site","confidence":"medium","note":"massacre in prison"}
+{"qid":2071090,"place":"Baghdad","lat":33.2972,"lon":44.2808,"precision":"city","confidence":"high","note":"Amiriyah shelter"}
+{"qid":2071436,"place":"Dublin","lat":53.3498,"lon":-6.2603,"precision":"city","confidence":"medium","note":"referendum nationwide, capital"}
+{"qid":2072172,"place":"Nauru","lat":-0.5228,"lon":166.9315,"precision":"country","confidence":"high","note":"island occupation"}
+{"qid":2073399,"place":"Montevideo","lat":-34.9011,"lon":-56.1645,"precision":"city","confidence":"low","note":"host uncertain"}
+{"qid":2073506,"place":"Rio de Janeiro","lat":-22.9068,"lon":-43.1729,"precision":"city","confidence":"low","note":"nationwide, no single city"}
+{"qid":2074023,"place":"Mineirinho Arena","lat":-19.8672,"lon":-43.9703,"precision":"site","confidence":"high","note":"venue"}
+{"qid":2075750,"place":"Los Angeles","lat":34.0522,"lon":-118.2437,"precision":"city","confidence":"medium","note":"finals involved Lakers"}
+{"qid":2080965,"place":"Iraq","lat":33.2232,"lon":43.6793,"precision":"country","confidence":"low","note":"battle in Mesopotamia"}
+{"qid":2081446,"place":"Ulaanbaatar","lat":47.8864,"lon":106.9057,"precision":"city","confidence":"medium","note":"revolution in Niislel Khüree"}
+{"qid":2086153,"place":"Katamon","lat":31.76,"lon":35.22,"precision":"city","confidence":"high","note":"hotel bombing in Katamon"}
+{"qid":2086498,"place":"Lincoln, England","lat":53.2344,"lon":-0.5388,"precision":"city","confidence":"medium","note":"decisive battle of Lincoln"}
+{"qid":2087151,"place":"Naples","lat":40.8518,"lon":14.2681,"precision":"city","confidence":"low","note":"Italian war theatre"}
+{"qid":2088157,"place":"Kharkiv","lat":49.9935,"lon":36.2304,"precision":"city","confidence":"low","note":"deception covering Kharkiv front"}
+{"qid":2090770,"place":"Coimbra","lat":40.2033,"lon":-8.4103,"precision":"city","confidence":"low","note":"final four host"}
+{"qid":2091916,"place":"Mexico City","lat":19.4326,"lon":-99.1332,"precision":"city","confidence":"medium","note":"war decided over capital"}
+{"qid":2092950,"place":"Constantinople","lat":41.0082,"lon":28.9784,"precision":"city","confidence":"medium","note":"Ottoman capital"}
+{"qid":2094032,"place":"Damascus","lat":33.5138,"lon":36.2765,"precision":"city","confidence":"high","note":"battle for Damascus"}
+{"qid":2095711,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"medium","note":"census bureau capital"}
+{"qid":2095768,"place":"Khe Sanh","lat":16.6333,"lon":106.7333,"precision":"city","confidence":"low","note":"operation from Khe Sanh into Laos"}
+{"qid":2098731,"place":"Mongolia","lat":46.8625,"lon":103.8467,"precision":"country","confidence":"medium","note":"culture across Mongolia"}
+{"qid":2105495,"place":"Battle of Aljubarrota","lat":39.5806,"lon":-8.9972,"precision":"site","confidence":"medium","note":"decisive battle"}
+{"qid":2109242,"place":"Giants Stadium","lat":40.8128,"lon":-74.0742,"precision":"site","confidence":"low","note":"final tour concert"}
+{"qid":2114485,"place":"Skopje","lat":41.9981,"lon":21.4254,"precision":"city","confidence":"low","note":"national league"}
+{"qid":2117932,"place":"Prague","lat":50.0755,"lon":14.4378,"precision":"city","confidence":"high","note":"championships in Prague"}
+{"qid":2118311,"place":"Belgrade","lat":44.7866,"lon":20.4489,"precision":"city","confidence":"high","note":"coup in Belgrade"}
+{"qid":2118879,"place":"Haliartus","lat":38.3791,"lon":23.0878,"precision":"city","confidence":"high","note":"battle at Haliartus"}
+{"qid":2121710,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"medium","note":"census bureau capital"}
+{"qid":2133515,"place":"Almere","lat":52.3508,"lon":5.2647,"precision":"city","confidence":"high","note":"host city"}
+{"qid":2139988,"place":"Asmara","lat":15.3229,"lon":38.9251,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":2143253,"place":"Tel El Kebir","lat":30.5333,"lon":31.6667,"precision":"city","confidence":"medium","note":"decisive battle at Tel el-Kebir"}
+{"qid":2153295,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"ocean research program"}
+{"qid":2153719,"place":"Stuttgart","lat":48.7758,"lon":9.1829,"precision":"city","confidence":"high","note":"freestyle host"}
+{"qid":2154068,"place":"Vienna","lat":48.2082,"lon":16.3738,"precision":"city","confidence":"high","note":"fire in Vienna"}

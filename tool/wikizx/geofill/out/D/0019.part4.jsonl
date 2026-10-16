@@ -1,0 +1,50 @@
+{"qid":42904706,"place":"Beirut","lat":33.8938,"lon":35.5018,"precision":"city","confidence":"medium","note":"Hariri resigned in Riyadh, dispute Beirut"}
+{"qid":42954685,"place":"Serbia","lat":44.0165,"lon":21.0059,"precision":"country","confidence":"medium","note":"national league"}
+{"qid":42955162,"place":"Peru","lat":-9.19,"lon":-75.0152,"precision":"country","confidence":"medium","note":"national league"}
+{"qid":42956199,"place":"Kazakhstan","lat":48.0196,"lon":66.9237,"precision":"country","confidence":"medium","note":"national league"}
+{"qid":43284487,"place":"South Korea","lat":35.9078,"lon":127.7669,"precision":"country","confidence":"medium","note":"national league"}
+{"qid":43371742,"place":"Italy","lat":41.8719,"lon":12.5674,"precision":"country","confidence":"medium","note":"national league"}
+{"qid":44708523,"place":"Béziers","lat":43.3441,"lon":3.2158,"precision":"city","confidence":"medium","note":"2018 U20 Championship in France"}
+{"qid":45310814,"place":"Morocco","lat":31.7917,"lon":-7.0926,"precision":"country","confidence":"low","note":"host unclear"}
+{"qid":45313299,"place":"Republic of Ireland","lat":53.1424,"lon":-7.6921,"precision":"country","confidence":"medium","note":"national league"}
+{"qid":46113164,"place":"Gold Coast, Queensland","lat":-28.0167,"lon":153.4,"precision":"city","confidence":"high","note":"2018 Commonwealth Games host"}
+{"qid":46290590,"place":"Mindanao","lat":7.5,"lon":125.0,"precision":"region","confidence":"medium","note":"deadliest strike in Mindanao"}
+{"qid":46553760,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"North American league"}
+{"qid":46919792,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"medium","note":"national league"}
+{"qid":46999835,"place":"Tehran","lat":35.6892,"lon":51.389,"precision":"city","confidence":"medium","note":"protests spread, Tehran centre"}
+{"qid":47005221,"place":"Bahrain International Circuit","lat":26.0325,"lon":50.5106,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":47011791,"place":"Georgia (country)","lat":42.3154,"lon":43.3569,"precision":"country","confidence":"medium","note":"national league"}
+{"qid":47015896,"place":"Baghdad","lat":33.3152,"lon":44.3661,"precision":"city","confidence":"medium","note":"capital of Iraq"}
+{"qid":47069612,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"medium","note":"national league"}
+{"qid":47086854,"place":"Luxor","lat":25.6872,"lon":32.6396,"precision":"city","confidence":"high","note":"crash near Luxor"}
+{"qid":47449119,"place":"Iceland","lat":64.9631,"lon":-19.0208,"precision":"country","confidence":"medium","note":"national league"}
+{"qid":47451451,"place":"Monte Carlo","lat":43.7396,"lon":7.4276,"precision":"city","confidence":"high","note":"start and finish Monaco"}
+{"qid":47465655,"place":"Barclays Center","lat":40.6826,"lon":-73.9754,"precision":"site","confidence":"high","note":"league finals venue"}
+{"qid":47489345,"place":"Tehran","lat":35.6892,"lon":51.389,"precision":"city","confidence":"medium","note":"Enghelab Street protests"}
+{"qid":47507972,"place":"Portugal","lat":39.3999,"lon":-8.2245,"precision":"country","confidence":"medium","note":"national cup"}
+{"qid":47809167,"place":"Jerusalem","lat":31.7683,"lon":35.2137,"precision":"city","confidence":"medium","note":"conflict focal city"}
+{"qid":47821882,"place":"Las Vegas","lat":36.1699,"lon":-115.1398,"precision":"city","confidence":"high","note":"Las Vegas Sevens"}
+{"qid":47839685,"place":"Ariel, Israel","lat":32.1058,"lon":35.1692,"precision":"city","confidence":"high","note":"Ariel Junction"}
+{"qid":48187184,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"national league"}
+{"qid":48311119,"place":"Circuit de Monaco","lat":43.7347,"lon":7.4206,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":48469986,"place":"Belarus","lat":53.7098,"lon":27.9534,"precision":"country","confidence":"medium","note":"national league"}
+{"qid":48619060,"place":"Gold Coast, Queensland","lat":-28.0167,"lon":153.4,"precision":"city","confidence":"high","note":"2018 Commonwealth Games host"}
+{"qid":48727485,"place":"Vatican City","lat":41.9022,"lon":12.4539,"precision":"city","confidence":"high","note":"synod met in Rome"}
+{"qid":48728821,"place":"Clementi MRT station","lat":1.3153,"lon":103.7652,"precision":"site","confidence":"high","note":"accident at station"}
+{"qid":48728952,"place":"Joo Koon MRT station","lat":1.3277,"lon":103.6784,"precision":"site","confidence":"high","note":"collision at station"}
+{"qid":48731349,"place":"Dhaka","lat":23.8103,"lon":90.4125,"precision":"city","confidence":"low","note":"tour in Bangladesh"}
+{"qid":48731351,"place":"Dhaka","lat":23.8103,"lon":90.4125,"precision":"city","confidence":"low","note":"tour in Bangladesh"}
+{"qid":48734658,"place":"Pyongyang","lat":39.0392,"lon":125.7625,"precision":"city","confidence":"medium","note":"major bombing target"}
+{"qid":48755899,"place":"England","lat":52.3555,"lon":-1.1743,"precision":"country","confidence":"medium","note":"rugby cup competition"}
+{"qid":48773685,"place":"Luhansk","lat":48.574,"lon":39.3078,"precision":"city","confidence":"high","note":"LPR capital"}
+{"qid":48790310,"place":"Pokhara","lat":28.2096,"lon":83.9856,"precision":"city","confidence":"high","note":"crashed near Pokhara"}
+{"qid":48790679,"place":"Colombia","lat":4.5709,"lon":-74.2973,"precision":"country","confidence":"high","note":"national census"}
+{"qid":48796268,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"medium","note":"host country"}
+{"qid":48796441,"place":"Lima","lat":-12.0464,"lon":-77.0428,"precision":"city","confidence":"medium","note":"Peru host, likely Lima"}
+{"qid":48798609,"place":"Philippines","lat":12.8797,"lon":121.774,"precision":"country","confidence":"medium","note":"national league"}
+{"qid":48807087,"place":"Republic of Ireland","lat":53.1424,"lon":-7.6921,"precision":"country","confidence":"medium","note":"national league"}
+{"qid":48834129,"place":"Switzerland","lat":46.8182,"lon":8.2275,"precision":"country","confidence":"medium","note":"national league"}
+{"qid":48834319,"place":"Switzerland","lat":46.8182,"lon":8.2275,"precision":"country","confidence":"medium","note":"national league"}
+{"qid":48835425,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"medium","note":"national cup"}
+{"qid":48835486,"place":"Switzerland","lat":46.8182,"lon":8.2275,"precision":"country","confidence":"medium","note":"national league"}
+{"qid":48836045,"place":"Switzerland","lat":46.8182,"lon":8.2275,"precision":"country","confidence":"medium","note":"national league"}

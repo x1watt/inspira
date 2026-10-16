@@ -1,0 +1,50 @@
+{"qid":4621095,"place":"Marrakesh","lat":31.6295,"lon":-7.9811,"precision":"city","confidence":"low","note":"Moroccan host"}
+{"qid":4621097,"place":"Puerto Vallarta","lat":20.6534,"lon":-105.2253,"precision":"city","confidence":"high","note":"host city"}
+{"qid":4621517,"place":"Taipei","lat":25.033,"lon":121.5654,"precision":"city","confidence":"low","note":"Taiwan league"}
+{"qid":4621680,"place":"Vientiane","lat":17.9757,"lon":102.6331,"precision":"city","confidence":"medium","note":"Lao league centred on capital"}
+{"qid":4621824,"place":"Johannesburg","lat":-26.2041,"lon":28.0473,"precision":"city","confidence":"high","note":"host city"}
+{"qid":4622783,"place":"Holly, Colorado","lat":38.0522,"lon":-102.1243,"precision":"city","confidence":"medium","note":"source farm of cantaloupes"}
+{"qid":4622913,"place":"Poznań","lat":52.4064,"lon":16.9252,"precision":"city","confidence":"high","note":"host city"}
+{"qid":4623107,"place":"Beijing","lat":39.9042,"lon":116.4074,"precision":"city","confidence":"medium","note":"crackdown centred on capital"}
+{"qid":4626006,"place":"Vientiane","lat":17.9757,"lon":102.6331,"precision":"city","confidence":"medium","note":"Lao league centred on capital"}
+{"qid":4626656,"place":"Colombo","lat":6.9271,"lon":79.8612,"precision":"city","confidence":"medium","note":"host in Sri Lanka"}
+{"qid":4627123,"place":"Manila","lat":14.5995,"lon":120.9842,"precision":"city","confidence":"low","note":"Philippine league"}
+{"qid":4627302,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"host unknown"}
+{"qid":4629141,"place":"Sydney","lat":-33.8688,"lon":151.2093,"precision":"city","confidence":"medium","note":"deciding Test in Sydney"}
+{"qid":4629167,"place":"Phnom Penh","lat":11.5564,"lon":104.9282,"precision":"city","confidence":"medium","note":"Cambodian league"}
+{"qid":4629517,"place":"Vientiane","lat":17.9757,"lon":102.6331,"precision":"city","confidence":"medium","note":"Lao league centred on capital"}
+{"qid":4629590,"place":"Brampton","lat":43.7315,"lon":-79.7624,"precision":"city","confidence":"high","note":"host city"}
+{"qid":4629865,"place":"Montevideo","lat":-34.9011,"lon":-56.1645,"precision":"city","confidence":"low","note":"probable host"}
+{"qid":4629988,"place":"Manila","lat":14.5995,"lon":120.9842,"precision":"city","confidence":"low","note":"Philippine league"}
+{"qid":4630162,"place":"Bosnia and Herzegovina","lat":43.9159,"lon":17.6791,"precision":"country","confidence":"high","note":"nationwide census"}
+{"qid":4630219,"place":"Hamad Aquatic Centre","lat":25.2636,"lon":51.4412,"precision":"site","confidence":"high","note":"stated venue"}
+{"qid":4630361,"place":"Lyon","lat":45.764,"lon":4.8357,"precision":"city","confidence":"medium","note":"final host city"}
+{"qid":4630741,"place":"Manila","lat":14.5995,"lon":120.9842,"precision":"city","confidence":"low","note":"ceremony likely Manila"}
+{"qid":4631098,"place":"Manila","lat":14.5995,"lon":120.9842,"precision":"city","confidence":"low","note":"ceremony likely Manila"}
+{"qid":4631621,"place":"Manila","lat":14.5995,"lon":120.9842,"precision":"city","confidence":"low","note":"ceremony likely Manila"}
+{"qid":4631952,"place":"Manila","lat":14.5995,"lon":120.9842,"precision":"city","confidence":"low","note":"ceremony likely Manila"}
+{"qid":4632252,"place":"Manila","lat":14.5995,"lon":120.9842,"precision":"city","confidence":"low","note":"ceremony likely Manila"}
+{"qid":4632595,"place":"Manila","lat":14.5995,"lon":120.9842,"precision":"city","confidence":"low","note":"ceremony likely Manila"}
+{"qid":4632931,"place":"Manila","lat":14.5995,"lon":120.9842,"precision":"city","confidence":"low","note":"ceremony likely Manila"}
+{"qid":4634589,"place":"Manila","lat":14.5995,"lon":120.9842,"precision":"city","confidence":"low","note":"ceremony likely Manila"}
+{"qid":4634824,"place":"Manila","lat":14.5995,"lon":120.9842,"precision":"city","confidence":"low","note":"ceremony likely Manila"}
+{"qid":4635062,"place":"Manila","lat":14.5995,"lon":120.9842,"precision":"city","confidence":"low","note":"ceremony likely Manila"}
+{"qid":4642581,"place":"Mandatory Palestine","lat":31.5,"lon":35.0,"precision":"country","confidence":"medium","note":"posted across Palestine"}
+{"qid":4644022,"place":"Manila","lat":14.5995,"lon":120.9842,"precision":"city","confidence":"low","note":"ceremony likely Manila"}
+{"qid":4645347,"place":"Manila","lat":14.5995,"lon":120.9842,"precision":"city","confidence":"low","note":"ceremony likely Manila"}
+{"qid":4646545,"place":"Manila","lat":14.5995,"lon":120.9842,"precision":"city","confidence":"low","note":"ceremony likely Manila"}
+{"qid":4671621,"place":"Damascus","lat":33.5138,"lon":36.2765,"precision":"city","confidence":"high","note":"battle for Damascus"}
+{"qid":4677308,"place":"Haiphong","lat":20.8449,"lon":106.6881,"precision":"city","confidence":"low","note":"naval action off north coast"}
+{"qid":4689185,"place":"Harare","lat":-17.8252,"lon":31.0335,"precision":"city","confidence":"low","note":"match in Zimbabwe"}
+{"qid":4698322,"place":"Baghdad","lat":33.3152,"lon":44.3661,"precision":"city","confidence":"low","note":"air war over Iraq"}
+{"qid":4699923,"place":"Apostolic Palace","lat":41.904,"lon":12.4565,"precision":"site","confidence":"high","note":"conclave venue"}
+{"qid":4702067,"place":"Apostolic Palace","lat":41.904,"lon":12.4565,"precision":"site","confidence":"high","note":"conclave venue"}
+{"qid":4702678,"place":"Apostolic Palace","lat":41.904,"lon":12.4565,"precision":"site","confidence":"high","note":"conclave venue"}
+{"qid":4709163,"place":"Kaçanik","lat":42.2297,"lon":21.26,"precision":"city","confidence":"low","note":"decisive Kaçanik fighting"}
+{"qid":4713368,"place":"Ham, London","lat":51.435,"lon":-0.3086,"precision":"city","confidence":"high","note":"Alcott House in Ham"}
+{"qid":4749956,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"concert tour"}
+{"qid":4789379,"place":"Buenos Aires","lat":-34.6037,"lon":-58.3816,"precision":"city","confidence":"medium","note":"nationwide, government seat"}
+{"qid":4790210,"place":"Aramoun","lat":33.7747,"lon":35.4953,"precision":"city","confidence":"medium","note":"crash site"}
+{"qid":4795451,"place":"Arochukwu","lat":5.3833,"lon":7.9167,"precision":"city","confidence":"medium","note":"Aro centre"}
+{"qid":4808507,"place":"Belgrade","lat":44.8176,"lon":20.4569,"precision":"city","confidence":"high","note":"shot in Belgrade"}
+{"qid":4808518,"place":"Rosa-Luxemburg-Platz","lat":52.5276,"lon":13.4106,"precision":"site","confidence":"medium","note":"shot at Bülowplatz"}

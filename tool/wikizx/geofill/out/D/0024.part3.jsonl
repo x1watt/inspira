@@ -1,0 +1,50 @@
+{"qid":114388673,"place":"Singapore","lat":1.3521,"lon":103.8198,"precision":"city","confidence":"high","note":"held in Singapore"}
+{"qid":114458236,"place":"St. John's, Antigua and Barbuda","lat":17.1175,"lon":-61.8456,"precision":"city","confidence":"low","note":"capital"}
+{"qid":114666814,"place":"Dhaka","lat":23.8103,"lon":90.4125,"precision":"city","confidence":"medium","note":"capital hit first"}
+{"qid":114774395,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"low","note":"national decree"}
+{"qid":114834825,"place":"Rio de Janeiro","lat":-22.9068,"lon":-43.1729,"precision":"city","confidence":"low","note":"CBF seat"}
+{"qid":114987322,"place":"Baghdad","lat":33.3152,"lon":44.3661,"precision":"city","confidence":"low","note":"national cup"}
+{"qid":115141924,"place":"Rio de Janeiro","lat":-22.9068,"lon":-43.1729,"precision":"city","confidence":"low","note":"CBF seat"}
+{"qid":115152324,"place":"Galle","lat":6.0535,"lon":80.221,"precision":"city","confidence":"medium","note":"Tests at Galle"}
+{"qid":115152781,"place":"Sher-e-Bangla National Cricket Stadium","lat":23.8069,"lon":90.3667,"precision":"site","confidence":"medium","note":"Test in Mirpur Dhaka"}
+{"qid":115286397,"place":"Oslo","lat":59.9139,"lon":10.7522,"precision":"city","confidence":"low","note":"national league"}
+{"qid":115287889,"place":"Johannesburg","lat":-26.2041,"lon":28.0473,"precision":"city","confidence":"low","note":"multi-host tournament"}
+{"qid":115429985,"place":"Kyiv","lat":50.4501,"lon":30.5234,"precision":"city","confidence":"low","note":"capital among targets"}
+{"qid":115438612,"place":"São Tomé","lat":0.3365,"lon":6.7273,"precision":"city","confidence":"high","note":"coup attempt in capital"}
+{"qid":115468992,"place":"Shanghai","lat":31.2304,"lon":121.4737,"precision":"city","confidence":"medium","note":"Wulumuqi Road protests"}
+{"qid":115473369,"place":"Bahrain International Circuit","lat":26.0325,"lon":50.5106,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":115479698,"place":"Circuit de Monaco","lat":43.7347,"lon":7.4206,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":115570873,"place":"Hamilton, New Zealand","lat":-37.787,"lon":175.2793,"precision":"city","confidence":"low","note":"NZ competition"}
+{"qid":115651756,"place":"Lima","lat":-12.0464,"lon":-77.0428,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":115688047,"place":"Saint Helier","lat":49.1868,"lon":-2.1066,"precision":"city","confidence":"high","note":"explosion in St Helier"}
+{"qid":115715680,"place":"Jakarta","lat":-6.2088,"lon":106.8456,"precision":"city","confidence":"low","note":"colonial capital Batavia"}
+{"qid":115756050,"place":"Madrid","lat":40.4168,"lon":-3.7038,"precision":"city","confidence":"medium","note":"judiciary seat"}
+{"qid":115786162,"place":"Frankfurt","lat":50.1109,"lon":8.6821,"precision":"city","confidence":"low","note":"league hub"}
+{"qid":115800692,"place":"St. John's, Antigua and Barbuda","lat":17.1175,"lon":-61.8456,"precision":"city","confidence":"low","note":"capital"}
+{"qid":115821592,"place":"Reykjavík","lat":64.1466,"lon":-21.9426,"precision":"city","confidence":"low","note":"national league"}
+{"qid":115866912,"place":"Tokelau","lat":-9.2,"lon":-171.8484,"precision":"country","confidence":"low","note":"territory"}
+{"qid":115908056,"place":"Las Vegas","lat":36.1699,"lon":-115.1398,"precision":"city","confidence":"low","note":"finals city"}
+{"qid":116025258,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"low","note":"national league"}
+{"qid":116153174,"place":"Dublin","lat":53.3498,"lon":-6.2603,"precision":"city","confidence":"low","note":"national league"}
+{"qid":116169630,"place":"Estadio Atanasio Girardot","lat":6.2565,"lon":-75.59,"precision":"site","confidence":"medium","note":"match venue"}
+{"qid":116205343,"place":"Pokhara","lat":28.2096,"lon":83.9856,"precision":"city","confidence":"high","note":"crashed near Pokhara"}
+{"qid":116207113,"place":"Kuwait City","lat":29.3759,"lon":47.9774,"precision":"city","confidence":"medium","note":"host country Kuwait"}
+{"qid":116257508,"place":"Cairo","lat":30.0444,"lon":31.2357,"precision":"city","confidence":"low","note":"host Egypt"}
+{"qid":116311875,"place":"Bogotá","lat":4.711,"lon":-74.0721,"precision":"city","confidence":"low","note":"national league"}
+{"qid":116448085,"place":"Paarl","lat":-33.7342,"lon":18.9621,"precision":"city","confidence":"medium","note":"venue in Paarl"}
+{"qid":116687096,"place":"Dhaka","lat":23.8103,"lon":90.4125,"precision":"city","confidence":"low","note":"tour in Bangladesh"}
+{"qid":116745078,"place":"Wellington","lat":-41.2866,"lon":174.7756,"precision":"city","confidence":"low","note":"national census"}
+{"qid":116776698,"place":"Montevideo","lat":-34.9011,"lon":-56.1645,"precision":"city","confidence":"low","note":"capital"}
+{"qid":116783960,"place":"Tal Afar","lat":36.3759,"lon":42.4506,"precision":"city","confidence":"medium","note":"main Turkmen city attacked"}
+{"qid":116867222,"place":"Beit Rima","lat":32.0411,"lon":35.1311,"precision":"city","confidence":"high","note":"raid on Beit Rima"}
+{"qid":116919990,"place":"Huwara","lat":32.1503,"lon":35.2606,"precision":"city","confidence":"high","note":"attack in Huwara"}
+{"qid":116973707,"place":"Bar, Montenegro","lat":42.0931,"lon":19.1003,"precision":"city","confidence":"medium","note":"blockade of Montenegrin coast"}
+{"qid":116973880,"place":"Zagreb","lat":45.815,"lon":15.9819,"precision":"city","confidence":"low","note":"capital"}
+{"qid":116998560,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"low","note":"national league"}
+{"qid":117217691,"place":"Madrid","lat":40.4168,"lon":-3.7038,"precision":"city","confidence":"low","note":"national legislation"}
+{"qid":117247388,"place":"Guadalajara, Spain","lat":40.6333,"lon":-3.1667,"precision":"city","confidence":"medium","note":"host city"}
+{"qid":117247452,"place":"Guadalajara, Spain","lat":40.6333,"lon":-3.1667,"precision":"city","confidence":"medium","note":"host city"}
+{"qid":117247538,"place":"Guadalajara, Spain","lat":40.6333,"lon":-3.1667,"precision":"city","confidence":"medium","note":"host city"}
+{"qid":117247687,"place":"Guadalajara, Spain","lat":40.6333,"lon":-3.1667,"precision":"city","confidence":"medium","note":"host city"}
+{"qid":117247714,"place":"Guadalajara, Spain","lat":40.6333,"lon":-3.1667,"precision":"city","confidence":"medium","note":"host city"}
+{"qid":117247766,"place":"Guadalajara, Spain","lat":40.6333,"lon":-3.1667,"precision":"city","confidence":"medium","note":"host city"}
