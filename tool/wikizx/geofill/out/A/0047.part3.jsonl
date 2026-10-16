@@ -1,0 +1,50 @@
+{"qid":10543736,"place":"Oslo","lat":59.9139,"lon":10.7522,"precision":"city","confidence":"medium","note":"Charles XII took Christiania"}
+{"qid":23864377,"place":"Gwangju","lat":35.1595,"lon":126.8526,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":3896001,"place":"Palais omnisports de Paris-Bercy","lat":48.8386,"lon":2.3786,"precision":"site","confidence":"high","note":"venue in Paris"}
+{"qid":119744398,"place":"Plaza Mayor, Valladolid","lat":41.652,"lon":-4.7286,"precision":"site","confidence":"high","note":"venue in Valladolid"}
+{"qid":3895996,"place":"Palais omnisports de Paris-Bercy","lat":48.8386,"lon":2.3786,"precision":"site","confidence":"high","note":"venue in Paris"}
+{"qid":127592472,"place":"Lüdenscheid","lat":51.2192,"lon":7.6297,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":127501170,"place":"Liberec","lat":50.7663,"lon":15.0543,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":23908695,"place":"Savannah, Georgia","lat":32.0809,"lon":-81.0912,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":127601060,"place":"City of San Marino","lat":43.9424,"lon":12.4578,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":127961814,"place":"San (river)","lat":50.0,"lon":22.5,"precision":"region","confidence":"low","note":"battle along the San river"}
+{"qid":23928424,"place":"Taipei","lat":25.033,"lon":121.5654,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":2903204,"place":"Olympiahalle","lat":48.1745,"lon":11.5516,"precision":"site","confidence":"high","note":"venue in Munich"}
+{"qid":15205981,"place":"Fuzhou","lat":26.0745,"lon":119.2965,"precision":"city","confidence":"medium","note":"race based in Fuzhou"}
+{"qid":16969854,"place":"Melbourne","lat":-37.8136,"lon":144.9631,"precision":"city","confidence":"high","note":"exhibition match in Melbourne"}
+{"qid":2798433,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"resolution has no location"}
+{"qid":3875376,"place":"Sydney","lat":-33.8688,"lon":151.2093,"precision":"city","confidence":"high","note":"White City Stadium event"}
+{"qid":119661638,"place":"Toulouse","lat":43.6047,"lon":1.4442,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":30638312,"place":"Athens, Georgia","lat":33.9519,"lon":-83.3576,"precision":"city","confidence":"high","note":"hosted at University of Georgia"}
+{"qid":127780238,"place":"Figueira da Foz","lat":40.15,"lon":-8.8667,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":127691360,"place":"Evansville, Indiana","lat":37.9716,"lon":-87.5711,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":18397391,"place":"Inverell","lat":-29.7753,"lon":151.1129,"precision":"city","confidence":"medium","note":"race finishes at Inverell"}
+{"qid":127327137,"place":"Chicago","lat":41.8781,"lon":-87.6298,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":20253364,"place":"Vyborg","lat":60.7092,"lon":28.7528,"precision":"city","confidence":"high","note":"battle at Vyborg"}
+{"qid":24046077,"place":"Ostrava","lat":49.8209,"lon":18.2625,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":24046193,"place":"Busan","lat":35.1796,"lon":129.0756,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":24046199,"place":"Qarshi","lat":38.8606,"lon":65.7891,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":15902443,"place":"Chengdu","lat":30.5728,"lon":104.0668,"precision":"city","confidence":"medium","note":"Later Shu capital conquered"}
+{"qid":127643722,"place":"El Espinar","lat":40.7208,"lon":-4.2358,"precision":"city","confidence":"medium","note":"Villa de El Espinar event"}
+{"qid":10947771,"place":"Nanjing","lat":32.0603,"lon":118.7969,"precision":"city","confidence":"medium","note":"Southern Tang capital fell"}
+{"qid":118874984,"place":"Marbella","lat":36.5101,"lon":-4.8825,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":117443035,"place":"Vidin","lat":43.99,"lon":22.88,"precision":"city","confidence":"low","note":"battle near Vidin"}
+{"qid":154051,"place":"Marburg","lat":50.8019,"lon":8.7667,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":225457,"place":"Tunisia","lat":34.0,"lon":9.0,"precision":"country","confidence":"high","note":"race in Tunisia"}
+{"qid":140077876,"place":"San Miguel de Tucumán","lat":-26.8083,"lon":-65.2176,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":30638223,"place":"Athens, Georgia","lat":33.9519,"lon":-83.3576,"precision":"city","confidence":"high","note":"hosted at University of Georgia"}
+{"qid":125672043,"place":"Raetia","lat":47.0,"lon":10.5,"precision":"region","confidence":"low","note":"campaign in Raetia and Noricum"}
+{"qid":30638633,"place":"South Bend, Indiana","lat":41.6764,"lon":-86.252,"precision":"city","confidence":"high","note":"hosted at Notre Dame"}
+{"qid":3353396,"place":"Bol, Croatia","lat":43.2614,"lon":16.6544,"precision":"city","confidence":"high","note":"tournament host town"}
+{"qid":30638602,"place":"Stanford, California","lat":37.4241,"lon":-122.1661,"precision":"city","confidence":"high","note":"hosted at Stanford University"}
+{"qid":30638599,"place":"Tallahassee, Florida","lat":30.4383,"lon":-84.2807,"precision":"city","confidence":"high","note":"hosted at Florida State"}
+{"qid":3534331,"place":"Devonshire Park","lat":50.764,"lon":0.28,"precision":"site","confidence":"high","note":"Eastbourne tournament venue"}
+{"qid":30638062,"place":"Athens, Georgia","lat":33.9519,"lon":-83.3576,"precision":"city","confidence":"high","note":"hosted at University of Georgia"}
+{"qid":30635975,"place":"Gainesville, Florida","lat":29.6516,"lon":-82.3248,"precision":"city","confidence":"high","note":"hosted at University of Florida"}
+{"qid":24233847,"place":"Cape Peninsula","lat":-34.25,"lon":18.45,"precision":"region","confidence":"medium","note":"fires across Cape Peninsula"}
+{"qid":28450260,"place":"Stanford, California","lat":37.4241,"lon":-122.1661,"precision":"city","confidence":"high","note":"hosted at Stanford University"}
+{"qid":3387911,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"resolution has no location"}
+{"qid":24259879,"place":"Mayflower Hotel (Washington, D.C.)","lat":38.9054,"lon":-77.0405,"precision":"site","confidence":"high","note":"bee held at Mayflower Hotel"}
+{"qid":24259880,"place":"Mayflower Hotel (Washington, D.C.)","lat":38.9054,"lon":-77.0405,"precision":"site","confidence":"high","note":"bee held at Mayflower Hotel"}
+{"qid":24259932,"place":"Mayflower Hotel (Washington, D.C.)","lat":38.9054,"lon":-77.0405,"precision":"site","confidence":"high","note":"bee held at Mayflower Hotel"}
+{"qid":24259933,"place":"Mayflower Hotel (Washington, D.C.)","lat":38.9054,"lon":-77.0405,"precision":"site","confidence":"high","note":"bee held at Mayflower Hotel"}

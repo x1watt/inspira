@@ -1,0 +1,50 @@
+{"qid":4613692,"place":"Oracle Park","lat":37.7786,"lon":-122.3893,"precision":"site","confidence":"high","note":"game at AT&T Park"}
+{"qid":24262085,"place":"Manchester","lat":53.4808,"lon":-2.2426,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":4157127,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"high","note":"trial held in Moscow"}
+{"qid":24269318,"place":"Mestre","lat":45.49,"lon":12.23,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":127502452,"place":"Camping World Stadium","lat":28.5392,"lon":-81.4025,"precision":"site","confidence":"high","note":"game at Camping World Stadium"}
+{"qid":127502366,"place":"Teslić","lat":44.6064,"lon":17.8586,"precision":"city","confidence":"high","note":"assault on Teslić"}
+{"qid":4584443,"place":"Sun Devil Stadium","lat":33.4264,"lon":-111.9325,"precision":"site","confidence":"high","note":"game at Sun Devil Stadium"}
+{"qid":141302287,"place":"Miami Beach Convention Center","lat":25.7967,"lon":-80.133,"precision":"site","confidence":"high","note":"tournament venue"}
+{"qid":127501129,"place":"Gotland","lat":57.5,"lon":18.5,"precision":"region","confidence":"high","note":"invasion of Gotland"}
+{"qid":127433525,"place":"Honolulu","lat":21.3069,"lon":-157.8583,"precision":"city","confidence":"high","note":"bowl host city"}
+{"qid":24204785,"place":"Bordeaux","lat":44.8378,"lon":-0.5792,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":28450315,"place":"Gainesville, Florida","lat":29.6516,"lon":-82.3248,"precision":"city","confidence":"high","note":"hosted at University of Florida"}
+{"qid":327056,"place":"Germany","lat":51.0,"lon":10.0,"precision":"country","confidence":"medium","note":"outbreak focused in northern Germany"}
+{"qid":24525733,"place":"Orlando, Florida","lat":28.5384,"lon":-81.3789,"precision":"city","confidence":"high","note":"Citrus Bowl host city"}
+{"qid":3775335,"place":"Palais des Sports de Gerland","lat":45.7283,"lon":4.8294,"precision":"site","confidence":"medium","note":"venue in Lyon"}
+{"qid":28450539,"place":"Los Angeles","lat":34.0522,"lon":-118.2437,"precision":"city","confidence":"high","note":"hosted at UCLA"}
+{"qid":24577218,"place":"Caltanissetta","lat":37.49,"lon":14.06,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":24577538,"place":"Lyon","lat":45.764,"lon":4.8357,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":4584451,"place":"Anaheim, California","lat":33.8366,"lon":-117.9143,"precision":"city","confidence":"high","note":"Freedom Bowl host city"}
+{"qid":141302230,"place":"Cancún","lat":21.1619,"lon":-86.8515,"precision":"city","confidence":"high","note":"Rafa Nadal Academy event"}
+{"qid":24637386,"place":"Poprad","lat":49.0614,"lon":20.2979,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":24637389,"place":"Perugia","lat":43.1107,"lon":12.3908,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":3756007,"place":"Belgrade","lat":44.7866,"lon":20.4489,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":29470895,"place":"Austin, Texas","lat":30.2672,"lon":-97.7431,"precision":"city","confidence":"high","note":"hosted at University of Texas"}
+{"qid":3782682,"place":"International Tennis Hall of Fame","lat":41.4833,"lon":-71.3103,"precision":"site","confidence":"high","note":"Newport Casino venue"}
+{"qid":30635615,"place":"Oklahoma City","lat":35.4676,"lon":-97.5164,"precision":"city","confidence":"high","note":"hosted in Oklahoma City"}
+{"qid":30638222,"place":"Athens, Georgia","lat":33.9519,"lon":-83.3576,"precision":"city","confidence":"high","note":"hosted at University of Georgia"}
+{"qid":24887962,"place":"Marburg","lat":50.8019,"lon":8.7667,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":127425082,"place":"Amon G. Carter Stadium","lat":32.7095,"lon":-97.368,"precision":"site","confidence":"high","note":"game at Amon G. Carter Stadium"}
+{"qid":24895352,"place":"Milan","lat":45.4642,"lon":9.19,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":4677395,"place":"Matanzas, Cuba","lat":23.0411,"lon":-81.5775,"precision":"city","confidence":"low","note":"off coast east of Matanzas"}
+{"qid":140077526,"place":"Lyon","lat":45.764,"lon":4.8357,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":10922831,"place":"Central Asia","lat":43.0,"lon":68.0,"precision":"region","confidence":"low","note":"campaign against Western Turks"}
+{"qid":3786406,"place":"Carson, California","lat":33.8317,"lon":-118.282,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":127019078,"place":"Pozoblanco","lat":38.3786,"lon":-4.8483,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":127017228,"place":"Amersfoort","lat":52.1561,"lon":5.3878,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":127417196,"place":"Nassau, Bahamas","lat":25.0443,"lon":-77.3504,"precision":"city","confidence":"high","note":"Bahamas Bowl host city"}
+{"qid":4603256,"place":"Georgia Dome","lat":33.7578,"lon":-84.4008,"precision":"site","confidence":"high","note":"game at Georgia Dome"}
+{"qid":30638217,"place":"Los Angeles","lat":34.0522,"lon":-118.2437,"precision":"city","confidence":"high","note":"hosted at UCLA"}
+{"qid":30638211,"place":"Athens, Georgia","lat":33.9519,"lon":-83.3576,"precision":"city","confidence":"high","note":"hosted at University of Georgia"}
+{"qid":926955,"place":"Nottingham","lat":52.9548,"lon":-1.1581,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":30638206,"place":"South Bend, Indiana","lat":41.6764,"lon":-86.252,"precision":"city","confidence":"high","note":"hosted at Notre Dame"}
+{"qid":4606699,"place":"New Orleans","lat":29.9511,"lon":-90.0715,"precision":"city","confidence":"high","note":"bowl host city"}
+{"qid":3799729,"place":"Coral Springs, Florida","lat":26.2712,"lon":-80.2706,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":30638202,"place":"Athens, Georgia","lat":33.9519,"lon":-83.3576,"precision":"city","confidence":"high","note":"hosted at University of Georgia"}
+{"qid":28450541,"place":"Athens, Georgia","lat":33.9519,"lon":-83.3576,"precision":"city","confidence":"high","note":"hosted at University of Georgia"}
+{"qid":30635091,"place":"Athens, Georgia","lat":33.9519,"lon":-83.3576,"precision":"city","confidence":"high","note":"hosted at University of Georgia"}
+{"qid":30635611,"place":"Athens, Georgia","lat":33.9519,"lon":-83.3576,"precision":"city","confidence":"high","note":"hosted at University of Georgia"}
+{"qid":139568217,"place":"Wiesbaden","lat":50.0782,"lon":8.2398,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":30644701,"place":"East Lansing, Michigan","lat":42.737,"lon":-84.4839,"precision":"city","confidence":"high","note":"hosted at Michigan State"}

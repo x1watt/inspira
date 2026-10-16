@@ -1,0 +1,50 @@
+{"qid":2179277,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"resolution, no location"}
+{"qid":4579842,"place":"San Diego","lat":32.7157,"lon":-117.1611,"precision":"city","confidence":"high","note":"played in San Diego"}
+{"qid":132125468,"place":"New Delhi","lat":28.6139,"lon":77.209,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":6023927,"place":"Indianapolis","lat":39.7684,"lon":-86.1581,"precision":"city","confidence":"high","note":"strike in Indianapolis"}
+{"qid":132175298,"place":"Mavinga","lat":-15.8167,"lon":20.35,"precision":"city","confidence":"low","note":"offensive toward Mavinga"}
+{"qid":5600021,"place":"Marshall, Texas","lat":32.5449,"lon":-94.3674,"precision":"city","confidence":"medium","note":"strike centered at Marshall"}
+{"qid":3946593,"place":"Seoul","lat":37.5665,"lon":126.978,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":132175182,"place":"Buôn Ma Thuột","lat":12.6667,"lon":108.05,"precision":"city","confidence":"medium","note":"rebellion began at Ban Me Thuot"}
+{"qid":132175049,"place":"Manama","lat":26.2235,"lon":50.5876,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":18148193,"place":"Aloha Stadium","lat":21.3736,"lon":-157.9317,"precision":"site","confidence":"medium","note":"Aloha Bowl venue in Honolulu"}
+{"qid":18681372,"place":"Cotton Bowl (stadium)","lat":32.7794,"lon":-96.76,"precision":"site","confidence":"high","note":"played at Cotton Bowl"}
+{"qid":140437937,"place":"Trieste","lat":45.6495,"lon":13.7768,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":18681374,"place":"Ford Field","lat":42.34,"lon":-83.0456,"precision":"site","confidence":"high","note":"Quick Lane Bowl venue"}
+{"qid":18681669,"place":"Navy–Marine Corps Memorial Stadium","lat":38.9858,"lon":-76.5078,"precision":"site","confidence":"high","note":"named in lead"}
+{"qid":18690403,"place":"Yankee Stadium","lat":40.8296,"lon":-73.9262,"precision":"site","confidence":"high","note":"named in lead"}
+{"qid":3776351,"place":"Pingguo, Guangxi","lat":23.32,"lon":107.59,"precision":"city","confidence":"medium","note":"tournament host city"}
+{"qid":4584638,"place":"Atlanta–Fulton County Stadium","lat":33.735,"lon":-84.3894,"precision":"site","confidence":"high","note":"named in lead"}
+{"qid":141304323,"place":"Tarragona","lat":41.1189,"lon":1.2445,"precision":"city","confidence":"medium","note":"tournament host city"}
+{"qid":18705820,"place":"Orlando, Florida","lat":28.5383,"lon":-81.3792,"precision":"city","confidence":"high","note":"Citrus Bowl in Orlando"}
+{"qid":18705823,"place":"Aloha Stadium","lat":21.3736,"lon":-157.9317,"precision":"site","confidence":"medium","note":"Aloha Bowl venue in Honolulu"}
+{"qid":18705825,"place":"Sun Bowl (stadium)","lat":31.7708,"lon":-106.5086,"precision":"site","confidence":"medium","note":"Sun Bowl venue in El Paso"}
+{"qid":18705827,"place":"San Diego","lat":32.7157,"lon":-117.1611,"precision":"city","confidence":"high","note":"played in San Diego"}
+{"qid":3600842,"place":"Shrewsbury","lat":52.7073,"lon":-2.7541,"precision":"city","confidence":"high","note":"tournament host town"}
+{"qid":18708227,"place":"Sun Devil Stadium","lat":33.4264,"lon":-111.9325,"precision":"site","confidence":"high","note":"named in lead"}
+{"qid":4573687,"place":"Orlando, Florida","lat":28.5383,"lon":-81.3792,"precision":"city","confidence":"high","note":"named in lead"}
+{"qid":18710289,"place":"Happy Valley, South Australia","lat":-35.0667,"lon":138.5667,"precision":"city","confidence":"medium","note":"tournament host suburb"}
+{"qid":18712678,"place":"Hard Rock Stadium","lat":25.958,"lon":-80.2389,"precision":"site","confidence":"medium","note":"Miami Gardens bowl venue"}
+{"qid":18712689,"place":"Hard Rock Stadium","lat":25.958,"lon":-80.2389,"precision":"site","confidence":"high","note":"Pro Player Stadium, named in lead"}
+{"qid":18712691,"place":"Jacksonville, Florida","lat":30.3322,"lon":-81.6557,"precision":"city","confidence":"high","note":"Gator Bowl in Jacksonville"}
+{"qid":18712706,"place":"Independence Stadium","lat":32.5367,"lon":-93.7064,"precision":"site","confidence":"high","note":"named in lead"}
+{"qid":132128632,"place":"Cancún","lat":21.1619,"lon":-86.8515,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":93723,"place":"Bangkok","lat":13.7563,"lon":100.5018,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":3816075,"place":"Kolding","lat":55.4904,"lon":9.4722,"precision":"city","confidence":"high","note":"tournament host town"}
+{"qid":4611745,"place":"Legion Field","lat":33.5081,"lon":-86.84,"precision":"site","confidence":"high","note":"named in lead"}
+{"qid":132015272,"place":"Tenerife","lat":28.2916,"lon":-16.6291,"precision":"region","confidence":"medium","note":"island host"}
+{"qid":4016387,"place":"Madison Square Garden","lat":40.7505,"lon":-73.9934,"precision":"site","confidence":"high","note":"named in lead"}
+{"qid":131920212,"place":"Brisbane","lat":-27.4698,"lon":153.0251,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":131920208,"place":"Lille","lat":50.6292,"lon":3.0573,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":4606814,"place":"San Diego","lat":32.7157,"lon":-117.1611,"precision":"city","confidence":"high","note":"played in San Diego"}
+{"qid":141304182,"place":"Palacio de Deportes José María Martín Carpena","lat":36.6772,"lon":-4.46,"precision":"site","confidence":"medium","note":"venue in Málaga"}
+{"qid":868398,"place":"Singapore","lat":1.3521,"lon":103.8198,"precision":"country","confidence":"medium","note":"observed nationwide in Singapore"}
+{"qid":123521174,"place":"United Kingdom","lat":55.3781,"lon":-3.436,"precision":"country","confidence":"medium","note":"nationwide protests"}
+{"qid":18748799,"place":"Cotton Bowl (stadium)","lat":32.7794,"lon":-96.76,"precision":"site","confidence":"medium","note":"Cotton Bowl in Dallas"}
+{"qid":18748805,"place":"El Paso, Texas","lat":31.7619,"lon":-106.485,"precision":"city","confidence":"high","note":"Sun Bowl in El Paso"}
+{"qid":18748806,"place":"Cotton Bowl (stadium)","lat":32.7794,"lon":-96.76,"precision":"site","confidence":"high","note":"named in lead"}
+{"qid":65071317,"place":"Beytüşşebap","lat":37.5733,"lon":43.17,"precision":"city","confidence":"medium","note":"rebellion began in Beytüşşebap"}
+{"qid":18748809,"place":"Cotton Bowl (stadium)","lat":32.7794,"lon":-96.76,"precision":"site","confidence":"high","note":"named in lead"}
+{"qid":18748814,"place":"Cotton Bowl (stadium)","lat":32.7794,"lon":-96.76,"precision":"site","confidence":"medium","note":"Cotton Bowl in Dallas"}
+{"qid":18748815,"place":"Sun Devil Stadium","lat":33.4264,"lon":-111.9325,"precision":"site","confidence":"high","note":"named in lead"}
+{"qid":18748816,"place":"Sun Devil Stadium","lat":33.4264,"lon":-111.9325,"precision":"site","confidence":"high","note":"named in lead"}

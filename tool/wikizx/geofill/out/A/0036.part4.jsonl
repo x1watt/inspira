@@ -1,0 +1,50 @@
+{"qid":111655357,"place":"Windhoek","lat":-22.5609,"lon":17.0658,"precision":"city","confidence":"medium","note":"tournament held in Namibia"}
+{"qid":105227656,"place":"Smart Araneta Coliseum","lat":14.6205,"lon":121.053,"precision":"site","confidence":"medium","note":"artists and organizers venue"}
+{"qid":3534558,"place":"Bogotá","lat":4.711,"lon":-74.0721,"precision":"city","confidence":"high","note":"host city"}
+{"qid":111633221,"place":"Munich","lat":48.1351,"lon":11.582,"precision":"city","confidence":"high","note":"MTTC Iphitos"}
+{"qid":105337365,"place":"Biella","lat":45.5667,"lon":8.05,"precision":"city","confidence":"high","note":"host city"}
+{"qid":27953734,"place":"Jamsil Students' Gymnasium","lat":37.5156,"lon":127.0728,"precision":"site","confidence":"medium","note":"draft held there"}
+{"qid":105393636,"place":"Myanmar","lat":21.9162,"lon":95.956,"precision":"country","confidence":"high","note":"national holiday"}
+{"qid":111582556,"place":"Tallahassee, Florida","lat":30.4383,"lon":-84.2807,"precision":"city","confidence":"high","note":"host city"}
+{"qid":111579636,"place":"Aguascalientes","lat":21.8853,"lon":-102.2916,"precision":"city","confidence":"high","note":"host city"}
+{"qid":105488689,"place":"Potchefstroom","lat":-26.7145,"lon":27.097,"precision":"city","confidence":"high","note":"host city"}
+{"qid":111526059,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"medium","note":"UN General Assembly session"}
+{"qid":3354660,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"low","note":"support for 1964 coup"}
+{"qid":5626720,"place":"Gothenburg","lat":57.7089,"lon":11.9746,"precision":"city","confidence":"high","note":"Scandinavium arena"}
+{"qid":2306515,"place":"Stuttgart","lat":48.7758,"lon":9.1829,"precision":"city","confidence":"high","note":"Hanns-Martin-Schleyer-Halle"}
+{"qid":611864,"place":"Trentino","lat":46.068,"lon":11.121,"precision":"region","confidence":"high","note":"race in Trentino"}
+{"qid":5748699,"place":"Antofagasta","lat":-23.6509,"lon":-70.3975,"precision":"city","confidence":"medium","note":"off coast of Antofagasta"}
+{"qid":111337041,"place":"Pereira, Colombia","lat":4.8133,"lon":-75.6961,"precision":"city","confidence":"high","note":"host city"}
+{"qid":106608639,"place":"Kanchanaburi","lat":14.0228,"lon":99.5328,"precision":"city","confidence":"low","note":"western Siam campaign"}
+{"qid":105678486,"place":"Saint Petersburg","lat":59.9343,"lon":30.3351,"precision":"city","confidence":"high","note":"host city"}
+{"qid":111154538,"place":"Concepción, Chile","lat":-36.827,"lon":-73.0503,"precision":"city","confidence":"high","note":"host city"}
+{"qid":97179038,"place":"Kyiv","lat":50.4501,"lon":30.5234,"precision":"city","confidence":"high","note":"award presented in Kyiv"}
+{"qid":111181243,"place":"Seoul","lat":37.5665,"lon":126.978,"precision":"city","confidence":"high","note":"draft in Seoul"}
+{"qid":111169294,"place":"Astana","lat":51.1694,"lon":71.4491,"precision":"city","confidence":"high","note":"Nur-Sultan is Astana"}
+{"qid":111165812,"place":"Rabat","lat":34.0209,"lon":-6.8416,"precision":"city","confidence":"high","note":"adopted in Rabat"}
+{"qid":7097673,"place":"Arabian Sea","lat":15.0,"lon":65.0,"precision":"region","confidence":"medium","note":"rescue at sea"}
+{"qid":111144297,"place":"Roseto degli Abruzzi","lat":42.6833,"lon":14.0167,"precision":"city","confidence":"high","note":"host city"}
+{"qid":110975945,"place":"Turin","lat":45.0703,"lon":7.6869,"precision":"city","confidence":"high","note":"host city"}
+{"qid":110976645,"place":"Las Palmas de Gran Canaria","lat":28.1235,"lon":-15.4363,"precision":"city","confidence":"high","note":"host city"}
+{"qid":51779942,"place":"Baku","lat":40.4093,"lon":49.8671,"precision":"city","confidence":"medium","note":"battle in Binagadi, Baku"}
+{"qid":110915546,"place":"Forlì","lat":44.2227,"lon":12.0407,"precision":"city","confidence":"high","note":"host city"}
+{"qid":105972957,"place":"St Neots","lat":52.229,"lon":-0.265,"precision":"city","confidence":"high","note":"skirmish at St Neots"}
+{"qid":105973158,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"virtual ceremony"}
+{"qid":110866347,"place":"Doha","lat":25.2854,"lon":51.531,"precision":"city","confidence":"high","note":"Khalifa tennis complex"}
+{"qid":4174742,"place":"Yelets","lat":52.6236,"lon":38.5017,"precision":"city","confidence":"medium","note":"offensive near Yelets"}
+{"qid":106012731,"place":"Sunrise, Florida","lat":26.167,"lon":-80.121,"precision":"city","confidence":"medium","note":"arena in Sunrise"}
+{"qid":110877098,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"high","note":"Paramount Theater, New York"}
+{"qid":66424314,"place":"United Arab Emirates","lat":23.4241,"lon":53.8478,"precision":"country","confidence":"high","note":"tournament in UAE"}
+{"qid":18191541,"place":"Jamsil Students' Gymnasium","lat":37.5156,"lon":127.0728,"precision":"site","confidence":"medium","note":"draft held there"}
+{"qid":110801082,"place":"Jamsil Students' Gymnasium","lat":37.5156,"lon":127.0728,"precision":"site","confidence":"medium","note":"draft held there"}
+{"qid":15233563,"place":"Sharjah (city)","lat":25.3463,"lon":55.4209,"precision":"city","confidence":"medium","note":"stage race in Sharjah"}
+{"qid":106344301,"place":"Dhaka","lat":23.8103,"lon":90.4125,"precision":"city","confidence":"medium","note":"protests mainly in Dhaka"}
+{"qid":12927731,"place":"Kathmandu","lat":27.7172,"lon":85.324,"precision":"city","confidence":"medium","note":"Newari festival"}
+{"qid":105834566,"place":"Canada","lat":56.1304,"lon":-106.3468,"precision":"country","confidence":"high","note":"nationwide protests"}
+{"qid":181612,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"medium","note":"ancient Roman festival"}
+{"qid":110517184,"place":"Blumenau","lat":-26.9194,"lon":-49.0661,"precision":"city","confidence":"high","note":"host city"}
+{"qid":3401388,"place":"Stara Zagora","lat":42.4258,"lon":25.6345,"precision":"city","confidence":"high","note":"uprising in Stara Zagora"}
+{"qid":110496031,"place":"The Beverly Hilton","lat":34.0668,"lon":-118.4132,"precision":"site","confidence":"high","note":"ceremony at Beverly Hilton"}
+{"qid":110453723,"place":"Tokyo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"high","note":"New National Theatre Tokyo"}
+{"qid":31728133,"place":"Khulna","lat":22.8456,"lon":89.5403,"precision":"city","confidence":"low","note":"Shiromoni, Khulna"}
+{"qid":3536822,"place":"Lhasa","lat":29.65,"lon":91.1,"precision":"city","confidence":"high","note":"signed in Lhasa"}

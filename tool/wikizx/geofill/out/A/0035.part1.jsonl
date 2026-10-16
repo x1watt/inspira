@@ -1,0 +1,50 @@
+{"qid":60287056,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"online rivalry"}
+{"qid":1373933,"place":"Portland, Victoria","lat":-38.3456,"lon":141.6044,"precision":"city","confidence":"low","note":"Gunditjmara country, southwestern Victoria"}
+{"qid":60521773,"place":"Da Nang","lat":16.0544,"lon":108.2022,"precision":"city","confidence":"high","note":"tournament host"}
+{"qid":122066902,"place":"Collonge-Bellerive","lat":46.2667,"lon":6.2,"precision":"city","confidence":"high","note":"tournament host"}
+{"qid":122015544,"place":"Prague","lat":50.0755,"lon":14.4378,"precision":"city","confidence":"high","note":"tournament host"}
+{"qid":7809744,"place":"India","lat":20.5937,"lon":78.9629,"precision":"country","confidence":"high","note":"held across India"}
+{"qid":6093122,"place":"Libya","lat":26.3351,"lon":17.2283,"precision":"country","confidence":"medium","note":"camps across Libya"}
+{"qid":60527710,"place":"Imperial Theatre (Saint John)","lat":45.2733,"lon":-66.0633,"precision":"site","confidence":"medium","note":"held at Imperial Theatre"}
+{"qid":60558106,"place":"Columbus, Ohio","lat":39.9612,"lon":-82.9988,"precision":"city","confidence":"medium","note":"Columbus Challenger host"}
+{"qid":3636533,"place":"Palermo","lat":38.1157,"lon":13.3615,"precision":"city","confidence":"low","note":"near Palermo, Sicily"}
+{"qid":47509863,"place":"Australia","lat":-25.2744,"lon":133.7751,"precision":"country","confidence":"high","note":"race held in Australia"}
+{"qid":331553,"place":"Geneva","lat":46.2044,"lon":6.1432,"precision":"city","confidence":"medium","note":"negotiated in Geneva and Marrakesh"}
+{"qid":117859803,"place":"National Congress of Brazil","lat":-15.7998,"lon":-47.8645,"precision":"site","confidence":"high","note":"inquiry held there"}
+{"qid":6133239,"place":"Sulaymaniyah","lat":35.5613,"lon":45.4375,"precision":"city","confidence":"low","note":"southeast of Sulaymaniyah"}
+{"qid":7799004,"place":"Louisville, Kentucky","lat":38.2527,"lon":-85.7585,"precision":"city","confidence":"high","note":"airshow in Louisville"}
+{"qid":60768811,"place":"Frisco, Texas","lat":33.1507,"lon":-96.8236,"precision":"city","confidence":"high","note":"game in Frisco"}
+{"qid":60769196,"place":"Chattanooga, Tennessee","lat":35.0456,"lon":-85.3097,"precision":"city","confidence":"high","note":"game in Chattanooga"}
+{"qid":4601253,"place":"Dallas","lat":32.7767,"lon":-96.797,"precision":"city","confidence":"high","note":"Cotton Bowl, Dallas"}
+{"qid":60769835,"place":"Frisco, Texas","lat":33.1507,"lon":-96.8236,"precision":"city","confidence":"high","note":"game in Frisco"}
+{"qid":60775746,"place":"Lalru","lat":30.4833,"lon":76.8,"precision":"city","confidence":"medium","note":"near Lalru, Punjab"}
+{"qid":28059571,"place":"Panama City","lat":8.9824,"lon":-79.5199,"precision":"city","confidence":"high","note":"coup in Panama City"}
+{"qid":7784828,"place":"Singapore","lat":1.3521,"lon":103.8198,"precision":"city","confidence":"high","note":"held in Singapore"}
+{"qid":85726324,"place":"Lagos","lat":6.5244,"lon":3.3792,"precision":"city","confidence":"medium","note":"Orkar coup, Lagos"}
+{"qid":4601244,"place":"Charlotte, North Carolina","lat":35.2271,"lon":-80.8431,"precision":"city","confidence":"high","note":"game in Charlotte"}
+{"qid":60785711,"place":"Suntec Singapore Convention and Exhibition Centre","lat":1.2937,"lon":103.8586,"precision":"site","confidence":"high","note":"venue named in lead"}
+{"qid":3774731,"place":"Circuit de Spa-Francorchamps","lat":50.4372,"lon":5.9714,"precision":"site","confidence":"high","note":"race at Spa"}
+{"qid":120598768,"place":"Salinas, Ecuador","lat":-2.2167,"lon":-80.95,"precision":"city","confidence":"high","note":"tournament host"}
+{"qid":121286882,"place":"Augsburg","lat":48.3705,"lon":10.8978,"precision":"city","confidence":"high","note":"tournament host"}
+{"qid":7656036,"place":"Swift Current, Saskatchewan","lat":50.2881,"lon":-107.7939,"precision":"city","confidence":"medium","note":"bus crash near Swift Current"}
+{"qid":4620534,"place":"Bolivia","lat":-16.2902,"lon":-63.5887,"precision":"country","confidence":"high","note":"nationwide protests"}
+{"qid":120851322,"place":"Três Lagoas","lat":-20.7511,"lon":-51.6783,"precision":"city","confidence":"high","note":"battle at Três Lagoas"}
+{"qid":61685108,"place":"Bangkok","lat":13.7563,"lon":100.5018,"precision":"city","confidence":"high","note":"tournament host"}
+{"qid":61745142,"place":"Bangkok","lat":13.7563,"lon":100.5018,"precision":"city","confidence":"high","note":"tournament host"}
+{"qid":61750081,"place":"Cuernavaca","lat":18.9186,"lon":-99.2342,"precision":"city","confidence":"high","note":"tournament host"}
+{"qid":61605353,"place":"Cúcuta","lat":7.8939,"lon":-72.5078,"precision":"city","confidence":"low","note":"aid staged at Colombian border"}
+{"qid":120897530,"place":"Banja Luka","lat":44.7722,"lon":17.191,"precision":"city","confidence":"high","note":"tournament host"}
+{"qid":120920298,"place":"Meerbusch","lat":51.2667,"lon":6.6833,"precision":"city","confidence":"high","note":"tournament host"}
+{"qid":6440773,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"religious observance"}
+{"qid":3353776,"place":"Sopot","lat":54.4418,"lon":18.5601,"precision":"city","confidence":"high","note":"tournament host"}
+{"qid":5082747,"place":"Boston","lat":42.3601,"lon":-71.0589,"precision":"city","confidence":"high","note":"murder in Boston"}
+{"qid":62619712,"place":"Sophia Antipolis","lat":43.6167,"lon":7.05,"precision":"city","confidence":"high","note":"Mouratoglou Academy venue"}
+{"qid":16958997,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"high","note":"convention signed in Paris"}
+{"qid":63138016,"place":"Dothan, Alabama","lat":31.2232,"lon":-85.3905,"precision":"city","confidence":"high","note":"tournament host"}
+{"qid":63226424,"place":"Cascais","lat":38.6979,"lon":-9.4215,"precision":"city","confidence":"high","note":"tournament host"}
+{"qid":7605762,"place":"Pittsburgh","lat":40.4406,"lon":-79.9959,"precision":"city","confidence":"low","note":"steel industry centre"}
+{"qid":4600649,"place":"Huddersfield","lat":53.6458,"lon":-1.785,"precision":"city","confidence":"high","note":"match in Huddersfield"}
+{"qid":4600533,"place":"Orlando, Florida","lat":28.5384,"lon":-81.3789,"precision":"city","confidence":"high","note":"game in Orlando"}
+{"qid":4600514,"place":"Old Trafford","lat":53.4631,"lon":-2.2913,"precision":"site","confidence":"high","note":"Grand Final at Old Trafford"}
+{"qid":63678021,"place":"Bonita Springs, Florida","lat":26.3398,"lon":-81.7787,"precision":"city","confidence":"high","note":"tournament host"}
+{"qid":30635090,"place":"Athens, Georgia","lat":33.9519,"lon":-83.3576,"precision":"city","confidence":"high","note":"held at Univ. of Georgia"}

@@ -1,0 +1,50 @@
+{"qid":2592413,"place":"Headquarters of the United Nations","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"medium","note":"adopted at UN headquarters"}
+{"qid":2551213,"place":"Saint-Malo","lat":48.6493,"lon":-2.0257,"precision":"city","confidence":"high","note":"race around Saint-Malo"}
+{"qid":18015246,"place":"Shanghai","lat":31.2304,"lon":121.4737,"precision":"city","confidence":"high","note":"host city"}
+{"qid":133252252,"place":"Antalya","lat":36.8969,"lon":30.7133,"precision":"city","confidence":"high","note":"host city"}
+{"qid":18018614,"place":"Banja Luka","lat":44.7722,"lon":17.191,"precision":"city","confidence":"high","note":"host city"}
+{"qid":18019023,"place":"Biella","lat":45.5667,"lon":8.05,"precision":"city","confidence":"high","note":"host city"}
+{"qid":739139,"place":"Fergana","lat":40.3864,"lon":71.7864,"precision":"city","confidence":"high","note":"host city"}
+{"qid":4611549,"place":"Nissan Stadium","lat":36.1664,"lon":-86.7713,"precision":"site","confidence":"high","note":"played at LP Field"}
+{"qid":3416016,"place":"Brands Hatch","lat":51.3569,"lon":0.2631,"precision":"site","confidence":"high","note":"race at Brands Hatch"}
+{"qid":2453061,"place":"Smolensk","lat":54.7826,"lon":32.0453,"precision":"city","confidence":"medium","note":"crash near Smolensk"}
+{"qid":18108347,"place":"Sibiu","lat":45.7983,"lon":24.1256,"precision":"city","confidence":"high","note":"host city"}
+{"qid":18109274,"place":"Jadavpur University","lat":22.4985,"lon":88.3714,"precision":"site","confidence":"medium","note":"protests at university in Kolkata"}
+{"qid":3981278,"place":"Tashkent","lat":41.2995,"lon":69.2401,"precision":"city","confidence":"high","note":"host city"}
+{"qid":124752626,"place":"Zadar","lat":44.1194,"lon":15.2314,"precision":"city","confidence":"high","note":"host city"}
+{"qid":132888390,"place":"Phoenix, Arizona","lat":33.4484,"lon":-112.074,"precision":"city","confidence":"medium","note":"host city"}
+{"qid":2063789,"place":"Hønefoss","lat":60.1681,"lon":10.2564,"precision":"city","confidence":"medium","note":"race near Hønefoss"}
+{"qid":4584411,"place":"Masaryk Circuit","lat":49.205,"lon":16.445,"precision":"site","confidence":"high","note":"venue named"}
+{"qid":133247425,"place":"Punta Cana","lat":18.582,"lon":-68.4055,"precision":"city","confidence":"high","note":"host city"}
+{"qid":18124267,"place":"Porto Alegre","lat":-30.0346,"lon":-51.2177,"precision":"city","confidence":"high","note":"host city"}
+{"qid":18124855,"place":"Circuit de Monaco","lat":43.7347,"lon":7.4206,"precision":"site","confidence":"high","note":"venue named"}
+{"qid":18127875,"place":"Pereira, Risaralda","lat":4.8133,"lon":-75.6961,"precision":"city","confidence":"high","note":"host city"}
+{"qid":3114174,"place":"Filderstadt","lat":48.6594,"lon":9.22,"precision":"city","confidence":"high","note":"host city"}
+{"qid":126923288,"place":"Theatro Municipal (Rio de Janeiro)","lat":-22.9094,"lon":-43.1756,"precision":"site","confidence":"high","note":"ceremony at Theatro Municipal"}
+{"qid":132888431,"place":"Santiago","lat":-33.4489,"lon":-70.6693,"precision":"city","confidence":"high","note":"host city"}
+{"qid":132888480,"place":"Hersonissos","lat":35.32,"lon":25.38,"precision":"city","confidence":"high","note":"host town"}
+{"qid":18151399,"place":"Massachusetts","lat":42.4072,"lon":-71.3824,"precision":"region","confidence":"low","note":"mainly Massachusetts"}
+{"qid":18162699,"place":"Lyncestis","lat":40.7,"lon":21.4,"precision":"region","confidence":"low","note":"ancient Lyncus region"}
+{"qid":4579271,"place":"San Diego","lat":32.7157,"lon":-117.1611,"precision":"city","confidence":"high","note":"played in San Diego"}
+{"qid":132891317,"place":"Headquarters of the United Nations","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"medium","note":"adopted at UN headquarters"}
+{"qid":18186619,"place":"Tiburon, California","lat":37.8735,"lon":-122.4567,"precision":"city","confidence":"high","note":"host town"}
+{"qid":124696819,"place":"Santiago","lat":-33.4489,"lon":-70.6693,"precision":"city","confidence":"high","note":"host city"}
+{"qid":7908750,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"Hindu holy day, no place"}
+{"qid":3883577,"place":"Rennes","lat":48.1173,"lon":-1.6778,"precision":"city","confidence":"high","note":"host city"}
+{"qid":140478301,"place":"Circolo Antico Tiro a Volo","lat":41.889,"lon":12.465,"precision":"site","confidence":"low","note":"venue named in Rome"}
+{"qid":612506,"place":"Tiburon, California","lat":37.8735,"lon":-122.4567,"precision":"city","confidence":"high","note":"host town"}
+{"qid":132744635,"place":"Hersonissos","lat":35.32,"lon":25.38,"precision":"city","confidence":"high","note":"host town"}
+{"qid":18210813,"place":"Bosanska Krajina","lat":44.8,"lon":16.5,"precision":"region","confidence":"medium","note":"uprising in Bosanska Krajina"}
+{"qid":612494,"place":"Tiburon, California","lat":37.8735,"lon":-122.4567,"precision":"city","confidence":"high","note":"host town"}
+{"qid":132821202,"place":"Uman","lat":48.75,"lon":30.2167,"precision":"city","confidence":"high","note":"siege of Uman"}
+{"qid":3946596,"place":"Seoul","lat":37.5665,"lon":126.978,"precision":"city","confidence":"high","note":"host city"}
+{"qid":2736125,"place":"Headquarters of the United Nations","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"medium","note":"adopted at UN headquarters"}
+{"qid":2373474,"place":"SAP Center","lat":37.3328,"lon":-121.9012,"precision":"site","confidence":"high","note":"San Jose Arena venue"}
+{"qid":3979001,"place":"SAP Center","lat":37.3328,"lon":-121.9012,"precision":"site","confidence":"high","note":"San Jose Arena venue"}
+{"qid":130237317,"place":"Catania","lat":37.5079,"lon":15.083,"precision":"city","confidence":"medium","note":"Saint Agatha feast in Catania"}
+{"qid":3815984,"place":"Knoxville, Tennessee","lat":35.9606,"lon":-83.9207,"precision":"city","confidence":"high","note":"host city"}
+{"qid":18202243,"place":"Cali","lat":3.4516,"lon":-76.532,"precision":"city","confidence":"high","note":"host city"}
+{"qid":132798144,"place":"Uman","lat":48.75,"lon":30.2167,"precision":"city","confidence":"high","note":"siege of Uman"}
+{"qid":2080484,"place":"Headquarters of the United Nations","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"medium","note":"adopted at UN headquarters"}
+{"qid":654501,"place":"Headquarters of the United Nations","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"medium","note":"adopted at UN headquarters"}
+{"qid":18341486,"place":"Traralgon","lat":-38.195,"lon":146.54,"precision":"city","confidence":"high","note":"host town"}

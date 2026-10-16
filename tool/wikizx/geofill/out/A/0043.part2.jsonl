@@ -1,0 +1,50 @@
+{"qid":3631848,"place":"Sarajevo","lat":43.8563,"lon":18.4131,"precision":"city","confidence":"high","note":"host city"}
+{"qid":17377052,"place":"Binghamton, New York","lat":42.0987,"lon":-75.918,"precision":"city","confidence":"high","note":"host city"}
+{"qid":12084509,"place":"Vapniarka","lat":48.5333,"lon":28.75,"precision":"city","confidence":"medium","note":"battle near the railway station"}
+{"qid":1371336,"place":"Kłodzko","lat":50.4344,"lon":16.6619,"precision":"city","confidence":"low","note":"place of origin"}
+{"qid":3650016,"place":"Calabasas, California","lat":34.1573,"lon":-118.6384,"precision":"city","confidence":"high","note":"host city"}
+{"qid":716688,"place":"Nantes","lat":47.2184,"lon":-1.5536,"precision":"city","confidence":"high","note":"host city"}
+{"qid":140518583,"place":"Bunschoten","lat":52.2425,"lon":5.3736,"precision":"city","confidence":"high","note":"host town"}
+{"qid":124834420,"place":"São Leopoldo","lat":-29.7603,"lon":-51.1472,"precision":"city","confidence":"high","note":"host city"}
+{"qid":4629379,"place":"EverBank Stadium","lat":30.3239,"lon":-81.6373,"precision":"site","confidence":"high","note":"played at EverBank Field"}
+{"qid":17444703,"place":"Segovia","lat":40.9429,"lon":-4.1088,"precision":"city","confidence":"high","note":"host city"}
+{"qid":124814510,"place":"Girona","lat":41.9794,"lon":2.8214,"precision":"city","confidence":"high","note":"host city"}
+{"qid":17450316,"place":"Cortina d'Ampezzo","lat":46.5369,"lon":12.1357,"precision":"city","confidence":"high","note":"host town"}
+{"qid":17420945,"place":"Liberec","lat":50.7663,"lon":15.0543,"precision":"city","confidence":"high","note":"host city"}
+{"qid":124804729,"place":"Naples","lat":40.8518,"lon":14.2681,"precision":"city","confidence":"high","note":"host city"}
+{"qid":133305933,"place":"Albania","lat":41.0,"lon":20.0,"precision":"country","confidence":"low","note":"campaigns across Albania"}
+{"qid":140517755,"place":"Granby, Quebec","lat":45.4,"lon":-72.7333,"precision":"city","confidence":"high","note":"host city"}
+{"qid":17483913,"place":"City of San Marino","lat":43.9424,"lon":12.4578,"precision":"city","confidence":"high","note":"host city"}
+{"qid":141305856,"place":"Giza","lat":30.0131,"lon":31.2089,"precision":"city","confidence":"medium","note":"host city"}
+{"qid":17488078,"place":"Prague","lat":50.0755,"lon":14.4378,"precision":"city","confidence":"high","note":"host city"}
+{"qid":133249596,"place":"Zadar","lat":44.1194,"lon":15.2314,"precision":"city","confidence":"high","note":"host city"}
+{"qid":141305579,"place":"Allianz Cloud","lat":45.4781,"lon":9.2594,"precision":"site","confidence":"high","note":"venue named"}
+{"qid":17502029,"place":"Wake Forest University","lat":36.134,"lon":-80.277,"precision":"site","confidence":"medium","note":"venue named"}
+{"qid":17501657,"place":"Cordenons","lat":46.0118,"lon":12.6893,"precision":"city","confidence":"high","note":"host town"}
+{"qid":141305438,"place":"Rotterdam Ahoy","lat":51.8819,"lon":4.4881,"precision":"site","confidence":"high","note":"venue named"}
+{"qid":4121347,"place":"Headquarters of the United Nations","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"medium","note":"adopted at UN headquarters"}
+{"qid":17508342,"place":"Mayflower Hotel (Washington, D.C.)","lat":38.905,"lon":-77.0408,"precision":"site","confidence":"high","note":"held at Mayflower Hotel"}
+{"qid":17508353,"place":"Mayflower Hotel (Washington, D.C.)","lat":38.905,"lon":-77.0408,"precision":"site","confidence":"high","note":"held at Mayflower Hotel"}
+{"qid":17508699,"place":"Grand Hyatt Washington","lat":38.8992,"lon":-77.0233,"precision":"site","confidence":"high","note":"held at Grand Hyatt"}
+{"qid":17508706,"place":"Grand Hyatt Washington","lat":38.8992,"lon":-77.0233,"precision":"site","confidence":"high","note":"held at Grand Hyatt"}
+{"qid":17509667,"place":"Ushant","lat":48.4667,"lon":-5.09,"precision":"region","confidence":"medium","note":"action off Ushant"}
+{"qid":652084,"place":"Guangzhou","lat":23.1291,"lon":113.2644,"precision":"city","confidence":"high","note":"host city"}
+{"qid":3981275,"place":"Tashkent","lat":41.2995,"lon":69.2401,"precision":"city","confidence":"high","note":"host city"}
+{"qid":17510978,"place":"Hard Rock Stadium","lat":25.958,"lon":-80.2389,"precision":"site","confidence":"high","note":"played at Joe Robbie Stadium"}
+{"qid":17512017,"place":"Brighton","lat":50.8225,"lon":-0.1372,"precision":"city","confidence":"high","note":"festival in Brighton"}
+{"qid":17514067,"place":"Hard Rock Stadium","lat":25.958,"lon":-80.2389,"precision":"site","confidence":"high","note":"played at Sun Life Stadium"}
+{"qid":141305073,"place":"Shanghai","lat":31.2304,"lon":121.4737,"precision":"city","confidence":"high","note":"host city"}
+{"qid":3635091,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"Hindu observance, no single place"}
+{"qid":16987217,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"US race, no stated location"}
+{"qid":3977062,"place":"Yuba City, California","lat":39.1404,"lon":-121.6169,"precision":"city","confidence":"high","note":"host city"}
+{"qid":905416,"place":"Kusong","lat":39.9833,"lon":125.2167,"precision":"city","confidence":"medium","note":"battle at Kuju"}
+{"qid":141304977,"place":"Castello Düsseldorf","lat":51.223,"lon":6.748,"precision":"site","confidence":"medium","note":"venue named"}
+{"qid":17644444,"place":"Islamabad","lat":33.6844,"lon":73.0479,"precision":"city","confidence":"high","note":"march to Islamabad"}
+{"qid":141304793,"place":"Stade Roland Garros","lat":48.847,"lon":2.2495,"precision":"site","confidence":"high","note":"venue named"}
+{"qid":141304719,"place":"Palacio de Deportes de la Comunidad de Madrid","lat":40.4244,"lon":-3.6717,"precision":"site","confidence":"high","note":"venue named"}
+{"qid":17682914,"place":"Saint-Rémy-de-Provence","lat":43.7889,"lon":4.8319,"precision":"city","confidence":"high","note":"host town"}
+{"qid":17682920,"place":"Genoa","lat":44.4056,"lon":8.9463,"precision":"city","confidence":"high","note":"host city"}
+{"qid":4566057,"place":"Tulane Stadium","lat":29.938,"lon":-90.12,"precision":"site","confidence":"medium","note":"1947 Sugar Bowl venue"}
+{"qid":4872580,"place":"Rakkestad","lat":59.425,"lon":11.3917,"precision":"city","confidence":"medium","note":"skirmishes at Rakkestad"}
+{"qid":3627431,"place":"Astana","lat":51.1694,"lon":71.4491,"precision":"city","confidence":"high","note":"host city"}
+{"qid":17985504,"place":"Aloha Stadium","lat":21.3731,"lon":-157.9261,"precision":"site","confidence":"high","note":"Aloha Bowl venue"}

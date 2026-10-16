@@ -1,0 +1,50 @@
+{"qid":20798010,"place":"Portorož","lat":45.5144,"lon":13.5911,"precision":"city","confidence":"high","note":"host town"}
+{"qid":21040119,"place":"Banja Luka","lat":44.7722,"lon":17.191,"precision":"city","confidence":"high","note":"host city"}
+{"qid":20798007,"place":"Liberec","lat":50.7663,"lon":15.0543,"precision":"city","confidence":"high","note":"host city"}
+{"qid":494394,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"observance day"}
+{"qid":24083591,"place":"Republic of Ireland","lat":53.4129,"lon":-8.2439,"precision":"country","confidence":"medium","note":"tournament in Ireland"}
+{"qid":26268594,"place":"Qizhong Forest Sports City Arena","lat":31.0392,"lon":121.2205,"precision":"site","confidence":"high","note":"Shanghai Masters venue"}
+{"qid":4547827,"place":"Tamaracouta Scout Reserve","lat":45.75,"lon":-74.01,"precision":"site","confidence":"low","note":"jamboree site"}
+{"qid":25377937,"place":"Ağrı","lat":39.7191,"lon":43.0503,"precision":"city","confidence":"high","note":"host city"}
+{"qid":26268563,"place":"Biella","lat":45.5667,"lon":8.05,"precision":"city","confidence":"high","note":"host city"}
+{"qid":27181855,"place":"Monterrey","lat":25.6866,"lon":-100.3161,"precision":"city","confidence":"high","note":"host city"}
+{"qid":4121641,"place":"United Nations Headquarters","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"medium","note":"Security Council adopted"}
+{"qid":120669969,"place":"Amstelveen","lat":52.3081,"lon":4.8642,"precision":"city","confidence":"high","note":"host city"}
+{"qid":12229254,"place":"Transjordan (region)","lat":31.5,"lon":36.0,"precision":"region","confidence":"low","note":"raids on Transjordan"}
+{"qid":6394401,"place":"Celaya","lat":20.5235,"lon":-100.8157,"precision":"city","confidence":"high","note":"battle at Celaya"}
+{"qid":5722207,"place":"Colima","lat":19.2452,"lon":-103.7241,"precision":"region","confidence":"low","note":"canyon near Nevado de Colima"}
+{"qid":4608164,"place":"Camping World Stadium","lat":28.5392,"lon":-81.4025,"precision":"site","confidence":"high","note":"Citrus Bowl stadium"}
+{"qid":2370821,"place":"United Nations Headquarters","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"medium","note":"Security Council adopted"}
+{"qid":5723007,"place":"Tacubaya","lat":19.402,"lon":-99.187,"precision":"city","confidence":"medium","note":"battle at Tacubaya"}
+{"qid":5722862,"place":"Salamanca, Guanajuato","lat":20.5711,"lon":-101.195,"precision":"city","confidence":"high","note":"battle at Salamanca"}
+{"qid":4593882,"place":"Tampa, Florida","lat":27.9506,"lon":-82.4572,"precision":"city","confidence":"high","note":"Outback Bowl host"}
+{"qid":4603079,"place":"Nissan Stadium","lat":36.1665,"lon":-86.7713,"precision":"site","confidence":"high","note":"The Coliseum in Nashville"}
+{"qid":125866585,"place":"Yerevan","lat":40.1792,"lon":44.4991,"precision":"city","confidence":"medium","note":"main protests in Yerevan"}
+{"qid":27516301,"place":"Suzhou","lat":31.2989,"lon":120.5853,"precision":"city","confidence":"high","note":"host city"}
+{"qid":27517385,"place":"Pune","lat":18.5204,"lon":73.8567,"precision":"city","confidence":"high","note":"host city"}
+{"qid":27229738,"place":"Accor Arena","lat":48.8386,"lon":2.3786,"precision":"site","confidence":"high","note":"Bercy venue"}
+{"qid":140001256,"place":"Circuit de Spa-Francorchamps","lat":50.4372,"lon":5.9714,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":126113042,"place":"Muzaffarabad","lat":34.37,"lon":73.4711,"precision":"city","confidence":"medium","note":"protests in AJK capital"}
+{"qid":126011671,"place":"Vicenza","lat":45.5455,"lon":11.5354,"precision":"city","confidence":"high","note":"host city"}
+{"qid":126011668,"place":"Little Rock, Arkansas","lat":34.7465,"lon":-92.2896,"precision":"city","confidence":"high","note":"host city"}
+{"qid":4593902,"place":"Georgia Dome","lat":33.7574,"lon":-84.4008,"precision":"site","confidence":"medium","note":"Atlanta venue then"}
+{"qid":79032029,"place":"Eibar","lat":43.1847,"lon":-2.4731,"precision":"city","confidence":"high","note":"race in Eibar"}
+{"qid":2037219,"place":"Val-d'Oise","lat":49.05,"lon":2.1,"precision":"region","confidence":"medium","note":"race in Val-d'Oise"}
+{"qid":4570800,"place":"Posillipo","lat":40.8102,"lon":14.2077,"precision":"city","confidence":"medium","note":"Posillipo circuit Naples"}
+{"qid":884161,"place":"Tsarskoye Selo","lat":59.7167,"lon":30.3944,"precision":"city","confidence":"high","note":"signed there"}
+{"qid":27779389,"place":"Bogotá","lat":4.711,"lon":-74.0721,"precision":"city","confidence":"high","note":"host city"}
+{"qid":25377957,"place":"Porto Alegre","lat":-30.0346,"lon":-51.2177,"precision":"city","confidence":"high","note":"host city"}
+{"qid":25377935,"place":"Pereira, Colombia","lat":4.8133,"lon":-75.6961,"precision":"city","confidence":"high","note":"host city"}
+{"qid":21051482,"place":"Sibiu","lat":45.7983,"lon":24.1256,"precision":"city","confidence":"high","note":"host city"}
+{"qid":126009467,"place":"Kurume","lat":33.3192,"lon":130.5083,"precision":"city","confidence":"high","note":"host city"}
+{"qid":126009271,"place":"Gifu","lat":35.4233,"lon":136.7607,"precision":"city","confidence":"high","note":"host city"}
+{"qid":114666,"place":"Bangkok","lat":13.7563,"lon":100.5018,"precision":"city","confidence":"high","note":"host city"}
+{"qid":118719868,"place":"Grado, Friuli-Venezia Giulia","lat":45.6783,"lon":13.3911,"precision":"city","confidence":"high","note":"host town"}
+{"qid":126009175,"place":"Grado, Friuli-Venezia Giulia","lat":45.6783,"lon":13.3911,"precision":"city","confidence":"high","note":"host town"}
+{"qid":122229511,"place":"Vienna","lat":48.2082,"lon":16.3738,"precision":"city","confidence":"high","note":"host city"}
+{"qid":2489791,"place":"United Nations Headquarters","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"medium","note":"Security Council adopted"}
+{"qid":125997052,"place":"Dras","lat":34.4289,"lon":75.7547,"precision":"city","confidence":"medium","note":"battle near Dras"}
+{"qid":27962841,"place":"Camping World Stadium","lat":28.5392,"lon":-81.4025,"precision":"site","confidence":"medium","note":"Tangerine Bowl stadium site"}
+{"qid":644580,"place":"Palais des Sports de Gerland","lat":45.728,"lon":4.831,"precision":"site","confidence":"medium","note":"venue in Lyon"}
+{"qid":22021920,"place":"Chase Field","lat":33.4453,"lon":-112.0667,"precision":"site","confidence":"high","note":"Cactus Bowl venue"}
+{"qid":22023111,"place":"Liberty Bowl Memorial Stadium","lat":35.1211,"lon":-89.9772,"precision":"site","confidence":"high","note":"game venue"}

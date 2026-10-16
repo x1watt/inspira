@@ -1,0 +1,50 @@
+{"qid":134498011,"place":"Mankot","lat":32.55,"lon":75.9,"precision":"city","confidence":"low","note":"siege of Mankot fort"}
+{"qid":134452346,"place":"Skopje","lat":41.9981,"lon":21.4254,"precision":"city","confidence":"high","note":"host city"}
+{"qid":16972032,"place":"Albertsons Stadium","lat":43.6024,"lon":-116.196,"precision":"site","confidence":"high","note":"game at Bronco Stadium"}
+{"qid":16972755,"place":"Allianz Stadium (Sydney)","lat":-33.8886,"lon":151.225,"precision":"site","confidence":"medium","note":"held in Sydney"}
+{"qid":134466744,"place":"Tokyo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"high","note":"Tokyo street circuit"}
+{"qid":16973588,"place":"Sam Boyd Stadium","lat":36.0925,"lon":-115.0286,"precision":"site","confidence":"medium","note":"game in Whitney, Nevada"}
+{"qid":16974160,"place":"Navy-Marine Corps Memorial Stadium","lat":38.9855,"lon":-76.4897,"precision":"site","confidence":"high","note":"game at stadium"}
+{"qid":16974570,"place":"Gaylord Family Oklahoma Memorial Stadium","lat":35.2058,"lon":-97.4424,"precision":"site","confidence":"high","note":"game at Owen Field"}
+{"qid":133407187,"place":"Arakan","lat":20.15,"lon":93.5,"precision":"region","confidence":"medium","note":"conquest of Arakan"}
+{"qid":16974683,"place":"University Stadium (Albuquerque)","lat":35.0814,"lon":-106.6228,"precision":"site","confidence":"high","note":"game at University Stadium"}
+{"qid":16975247,"place":"Raymond James Stadium","lat":27.9759,"lon":-82.5033,"precision":"site","confidence":"high","note":"game at stadium"}
+{"qid":134359540,"place":"Zagreb","lat":45.815,"lon":15.9819,"precision":"city","confidence":"high","note":"host city"}
+{"qid":125762970,"place":"Bonita Springs, Florida","lat":26.3398,"lon":-81.7787,"precision":"city","confidence":"high","note":"host city"}
+{"qid":16986732,"place":"Madison Square Garden","lat":40.7505,"lon":-73.9934,"precision":"site","confidence":"medium","note":"ceremony at MSG theater"}
+{"qid":130349143,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"festival nationwide"}
+{"qid":134229866,"place":"Santos, São Paulo","lat":-23.9608,"lon":-46.3336,"precision":"city","confidence":"high","note":"host city"}
+{"qid":134229859,"place":"Francavilla al Mare","lat":42.4167,"lon":14.2833,"precision":"city","confidence":"high","note":"host city"}
+{"qid":744709,"place":"Recife","lat":-8.0476,"lon":-34.877,"precision":"city","confidence":"high","note":"host city"}
+{"qid":22935922,"place":"Nagaur","lat":27.202,"lon":73.733,"precision":"city","confidence":"medium","note":"battle of Nagaur"}
+{"qid":5983638,"place":"Denver","lat":39.7392,"lon":-104.9903,"precision":"city","confidence":"high","note":"host city"}
+{"qid":134029653,"place":"Porto Alegre","lat":-30.0346,"lon":-51.2177,"precision":"city","confidence":"high","note":"host city"}
+{"qid":5722773,"place":"Florida Department","lat":-34.1,"lon":-56.2167,"precision":"region","confidence":"low","note":"Santa Lucia Chico River, Florida"}
+{"qid":134070507,"place":"Crisler Center","lat":42.2664,"lon":-83.7561,"precision":"site","confidence":"high","note":"held at Crisler Center"}
+{"qid":125549971,"place":"Oeiras, Portugal","lat":38.6939,"lon":-9.3017,"precision":"city","confidence":"high","note":"host city"}
+{"qid":134029654,"place":"Aix-en-Provence","lat":43.5297,"lon":5.4474,"precision":"city","confidence":"high","note":"host city"}
+{"qid":4604723,"place":"Raymond James Stadium","lat":27.9759,"lon":-82.5033,"precision":"site","confidence":"medium","note":"bowl in Tampa"}
+{"qid":133883824,"place":"Abidjan","lat":5.36,"lon":-4.0083,"precision":"city","confidence":"high","note":"host city"}
+{"qid":133932128,"place":"San Miguel de Tucumán","lat":-26.8083,"lon":-65.2176,"precision":"city","confidence":"high","note":"host city"}
+{"qid":133887518,"place":"Sanaa","lat":15.3694,"lon":44.191,"precision":"city","confidence":"medium","note":"coup in North Yemen capital"}
+{"qid":133829598,"place":"Tallahassee, Florida","lat":30.4383,"lon":-84.2807,"precision":"city","confidence":"high","note":"host city"}
+{"qid":133829378,"place":"Busan","lat":35.1796,"lon":129.0756,"precision":"city","confidence":"high","note":"host city"}
+{"qid":133776431,"place":"Madrid","lat":40.4168,"lon":-3.7038,"precision":"city","confidence":"high","note":"host city"}
+{"qid":133776434,"place":"Sarasota, Florida","lat":27.3364,"lon":-82.5307,"precision":"city","confidence":"high","note":"host city"}
+{"qid":2343070,"place":"United Nations Headquarters","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"medium","note":"Security Council sits in New York"}
+{"qid":17016158,"place":"Mercia","lat":52.6,"lon":-1.8,"precision":"region","confidence":"low","note":"origin Mercia, England"}
+{"qid":133473383,"place":"Menorca","lat":39.9496,"lon":4.11,"precision":"region","confidence":"high","note":"host island"}
+{"qid":17018883,"place":"Miami","lat":25.7617,"lon":-80.1918,"precision":"city","confidence":"high","note":"marathon in Miami"}
+{"qid":17027751,"place":"Gaza City","lat":31.5017,"lon":34.4668,"precision":"city","confidence":"low","note":"near Gaza"}
+{"qid":133473339,"place":"Cuernavaca","lat":18.9186,"lon":-99.2216,"precision":"city","confidence":"high","note":"host city"}
+{"qid":133473187,"place":"Campinas","lat":-22.9099,"lon":-47.0626,"precision":"city","confidence":"high","note":"host city"}
+{"qid":17055683,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"varies each year"}
+{"qid":17068168,"place":"Naypyidaw","lat":19.7633,"lon":96.0785,"precision":"city","confidence":"high","note":"summit in Nay Pyi Taw"}
+{"qid":17081205,"place":"Music Museum (Philippines)","lat":14.6044,"lon":121.0356,"precision":"site","confidence":"low","note":"Greenhills, San Juan venue"}
+{"qid":17089753,"place":"Arad, Romania","lat":46.1866,"lon":21.3123,"precision":"city","confidence":"high","note":"host city"}
+{"qid":133539618,"place":"Basavakalyan","lat":17.87,"lon":76.95,"precision":"city","confidence":"high","note":"battle at Kalyani"}
+{"qid":3128909,"place":"United Nations Headquarters","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"medium","note":"Security Council sits in New York"}
+{"qid":17148434,"place":"Košice","lat":48.7164,"lon":21.2611,"precision":"city","confidence":"high","note":"host city"}
+{"qid":2115269,"place":"Geneva","lat":46.2044,"lon":6.1432,"precision":"city","confidence":"high","note":"signed in Geneva"}
+{"qid":17166994,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"medium","note":"protests in several cities"}
+{"qid":1844296,"place":"United Nations Headquarters","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"medium","note":"Security Council sits in New York"}

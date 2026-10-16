@@ -1,0 +1,50 @@
+{"qid":15111841,"place":"Traralgon","lat":-38.195,"lon":146.54,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":4024936,"place":"Cordenons","lat":45.9833,"lon":12.7,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":4603929,"place":"Alamodome","lat":29.417,"lon":-98.4786,"precision":"site","confidence":"high","note":"game at Alamodome"}
+{"qid":4603468,"place":"John Smith's Stadium","lat":53.6542,"lon":-1.7684,"precision":"site","confidence":"high","note":"Alfred McAlpine Stadium, Huddersfield"}
+{"qid":4607327,"place":"Sentul International Circuit","lat":-6.5372,"lon":106.8689,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":23132878,"place":"Mayflower Hotel (Washington, D.C.)","lat":38.9054,"lon":-77.0405,"precision":"site","confidence":"high","note":"bee held at Mayflower Hotel"}
+{"qid":23133797,"place":"Jirisan","lat":35.3367,"lon":127.7306,"precision":"region","confidence":"medium","note":"operation in Jirisan mountains"}
+{"qid":129254769,"place":"Eko Hotels and Suites","lat":6.4281,"lon":3.4219,"precision":"site","confidence":"medium","note":"prize ceremony venue"}
+{"qid":129254706,"place":"Dobrich","lat":43.5667,"lon":27.8333,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":23138951,"place":"Laos","lat":18.2,"lon":104.0,"precision":"country","confidence":"low","note":"southern Laos offensive"}
+{"qid":3353637,"place":"Munich","lat":48.1351,"lon":11.582,"precision":"city","confidence":"high","note":"MTTC Iphitos in Munich"}
+{"qid":23139015,"place":"Mekong","lat":18.0,"lon":103.0,"precision":"region","confidence":"low","note":"along the Mekong, Thai-Laos"}
+{"qid":30639117,"place":"Athens, Georgia","lat":33.9519,"lon":-83.3576,"precision":"city","confidence":"high","note":"hosted at University of Georgia"}
+{"qid":4584041,"place":"Wigan","lat":53.5448,"lon":-2.6318,"precision":"city","confidence":"high","note":"game played at Wigan"}
+{"qid":4603327,"place":"El Paso, Texas","lat":31.7619,"lon":-106.485,"precision":"city","confidence":"high","note":"Sun Bowl host city"}
+{"qid":128033511,"place":"Grodzisk Mazowiecki","lat":52.1086,"lon":20.6256,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":15143126,"place":"Lima","lat":-12.0464,"lon":-77.0428,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":19692581,"place":"Valea Argovei","lat":44.2,"lon":26.6,"precision":"city","confidence":"low","note":"battle at Obilesti"}
+{"qid":30639114,"place":"Gainesville, Florida","lat":29.6516,"lon":-82.3248,"precision":"city","confidence":"high","note":"hosted at University of Florida"}
+{"qid":323839,"place":"Dortmund","lat":51.5136,"lon":7.4653,"precision":"city","confidence":"high","note":"race held in Dortmund"}
+{"qid":13479613,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":4645361,"place":"Varsity Stadium (Toronto)","lat":43.6663,"lon":-79.3989,"precision":"site","confidence":"high","note":"game at Varsity Stadium"}
+{"qid":23584428,"place":"Shenzhen","lat":22.5431,"lon":114.0579,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":30639113,"place":"Stanford, California","lat":37.4241,"lon":-122.1661,"precision":"city","confidence":"high","note":"hosted at Stanford University"}
+{"qid":23647089,"place":"San Luis Potosí","lat":22.1565,"lon":-100.9855,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":4613574,"place":"Greenville, North Carolina","lat":35.6127,"lon":-77.3664,"precision":"city","confidence":"high","note":"game at East Carolina"}
+{"qid":21040090,"place":"Genoa","lat":44.4056,"lon":8.9463,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":20797862,"place":"Recanati","lat":43.4,"lon":13.55,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":128579677,"place":"Šabac","lat":44.75,"lon":19.7,"precision":"city","confidence":"high","note":"siege of Šabac"}
+{"qid":4607321,"place":"Beijing","lat":39.9042,"lon":116.4074,"precision":"city","confidence":"high","note":"street circuit race"}
+{"qid":4613608,"place":"Dallas","lat":32.7767,"lon":-96.797,"precision":"city","confidence":"high","note":"Cotton Bowl host city"}
+{"qid":127693050,"place":"Lincoln, Nebraska","lat":40.8136,"lon":-96.7026,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":4584294,"place":"Honolulu","lat":21.3069,"lon":-157.8583,"precision":"city","confidence":"high","note":"Aloha Bowl host city"}
+{"qid":127867971,"place":"Bogotá","lat":4.711,"lon":-74.0721,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":4653395,"place":"Regent Theatre, Melbourne","lat":-37.815,"lon":144.9694,"precision":"site","confidence":"high","note":"awards venue"}
+{"qid":141302741,"place":"Doha","lat":25.2854,"lon":51.531,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":4605273,"place":"Durban","lat":-29.8587,"lon":31.0218,"precision":"city","confidence":"high","note":"street circuit race"}
+{"qid":4593325,"place":"San Antonio","lat":29.4241,"lon":-98.4936,"precision":"city","confidence":"high","note":"Alamo Bowl host city"}
+{"qid":7963177,"place":"Sillon industriel","lat":50.45,"lon":4.4,"precision":"region","confidence":"low","note":"industrial belt of Wallonia"}
+{"qid":30638657,"place":"Malibu, California","lat":34.0259,"lon":-118.7798,"precision":"city","confidence":"high","note":"hosted at Pepperdine"}
+{"qid":23749174,"place":"Le Gosier, Guadeloupe","lat":16.2058,"lon":-61.495,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":4018976,"place":"Wembley Arena","lat":51.556,"lon":-0.2796,"precision":"site","confidence":"high","note":"venue in London"}
+{"qid":4584402,"place":"Cotton Bowl (stadium)","lat":32.7792,"lon":-96.76,"precision":"site","confidence":"high","note":"game at the Cotton Bowl"}
+{"qid":23795318,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"high","note":"campaign based in Washington"}
+{"qid":141302697,"place":"Santiago","lat":-33.4489,"lon":-70.6693,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":128218442,"place":"Gualcince","lat":14.17,"lon":-88.7,"precision":"city","confidence":"medium","note":"capitulation at Gualcince"}
+{"qid":5166252,"place":"Geneva","lat":46.2044,"lon":6.1432,"precision":"city","confidence":"high","note":"signed in Geneva"}
+{"qid":701555,"place":"Saxony","lat":51.0,"lon":13.4,"precision":"region","confidence":"high","note":"race in Saxony"}
+{"qid":23839150,"place":"Sarasota, Florida","lat":27.3364,"lon":-82.5307,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":4444772,"place":"Grodno","lat":53.6694,"lon":23.8131,"precision":"city","confidence":"high","note":"battle at Grodno"}

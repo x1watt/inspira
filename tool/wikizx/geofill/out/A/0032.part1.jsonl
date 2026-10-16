@@ -1,0 +1,50 @@
+{"qid":131725136,"place":"Punta del Este","lat":-34.9667,"lon":-54.95,"precision":"city","confidence":"high","note":"host city"}
+{"qid":131725134,"place":"Quimper","lat":47.996,"lon":-4.102,"precision":"city","confidence":"high","note":"host city"}
+{"qid":131807523,"place":"San Antonio","lat":29.4241,"lon":-98.4936,"precision":"city","confidence":"medium","note":"Tech Port venue in San Antonio"}
+{"qid":19059490,"place":"Charlotte, North Carolina","lat":35.2271,"lon":-80.8431,"precision":"city","confidence":"high","note":"game host city"}
+{"qid":130718083,"place":"Carrasco Lawn Tennis Club","lat":-34.889,"lon":-56.055,"precision":"site","confidence":"medium","note":"venue in Montevideo"}
+{"qid":19359017,"place":"Kolkata","lat":22.5726,"lon":88.3639,"precision":"city","confidence":"high","note":"host city"}
+{"qid":131719232,"place":"Tigre, Buenos Aires","lat":-34.426,"lon":-58.5797,"precision":"city","confidence":"high","note":"host city"}
+{"qid":921777,"place":"Saguenay, Quebec","lat":48.428,"lon":-71.068,"precision":"city","confidence":"high","note":"race held in Saguenay"}
+{"qid":19429062,"place":"Kabul","lat":34.5553,"lon":69.2075,"precision":"city","confidence":"medium","note":"main UK base in Afghanistan"}
+{"qid":131696516,"place":"Pristina","lat":42.6629,"lon":21.1655,"precision":"city","confidence":"medium","note":"Kosovo capital, political center"}
+{"qid":19599919,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"high","note":"held in Washington"}
+{"qid":19599922,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"high","note":"held in Washington"}
+{"qid":19599925,"place":"Mayflower Hotel (Washington, D.C.)","lat":38.905,"lon":-77.0407,"precision":"site","confidence":"high","note":"held at Mayflower Hotel"}
+{"qid":19599947,"place":"Grand Hyatt Washington","lat":38.8994,"lon":-77.0242,"precision":"site","confidence":"high","note":"held at Grand Hyatt"}
+{"qid":19599957,"place":"Grand Hyatt Washington","lat":38.8994,"lon":-77.0242,"precision":"site","confidence":"high","note":"held at Grand Hyatt"}
+{"qid":123004034,"place":"Anapa","lat":44.895,"lon":37.3167,"precision":"city","confidence":"high","note":"fortress of Anapa"}
+{"qid":19646370,"place":"Kuching","lat":1.5535,"lon":110.3593,"precision":"city","confidence":"medium","note":"Sarawak state capital"}
+{"qid":2257014,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"Security Council resolution, Kashmir ceasefire"}
+{"qid":131586741,"place":"Nonthaburi","lat":13.8621,"lon":100.5144,"precision":"city","confidence":"high","note":"host city"}
+{"qid":3632018,"place":"Munich","lat":48.1351,"lon":11.582,"precision":"city","confidence":"high","note":"host city"}
+{"qid":6791889,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"festival across Tamil Nadu"}
+{"qid":664170,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"Security Council resolution"}
+{"qid":2674674,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"medium","note":"Roman festival centered in Rome"}
+{"qid":131549776,"place":"Prekaz","lat":42.7681,"lon":20.8147,"precision":"city","confidence":"medium","note":"Jashari compound village"}
+{"qid":2400535,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"Security Council resolution"}
+{"qid":19796103,"place":"Batman, Turkey","lat":37.8812,"lon":41.1351,"precision":"city","confidence":"high","note":"host city"}
+{"qid":4604539,"place":"Malé","lat":4.1755,"lon":73.5093,"precision":"city","confidence":"high","note":"unrest centered in Malé"}
+{"qid":5683600,"place":"Havelock Road","lat":6.8878,"lon":79.865,"precision":"city","confidence":"medium","note":"bombing on Havelock Road, Colombo"}
+{"qid":19817343,"place":"Mediacorp TV Theatre","lat":1.2987,"lon":103.7872,"precision":"site","confidence":"medium","note":"ceremony venue in Singapore"}
+{"qid":3107661,"place":"La Spezia","lat":44.1025,"lon":9.8241,"precision":"city","confidence":"low","note":"race in Lunigiana region"}
+{"qid":131470944,"place":"Andhra Pradesh","lat":15.9129,"lon":79.74,"precision":"region","confidence":"low","note":"battle location unclear"}
+{"qid":19882342,"place":"Khanapur, Sangli","lat":17.25,"lon":74.6667,"precision":"city","confidence":"low","note":"near Khanapur"}
+{"qid":974545,"place":"Neiva","lat":2.9273,"lon":-75.2819,"precision":"city","confidence":"medium","note":"festival held in Neiva"}
+{"qid":19863588,"place":"El Paso, Texas","lat":31.7619,"lon":-106.485,"precision":"city","confidence":"high","note":"Sun Bowl host city"}
+{"qid":19863762,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"high","note":"held in Washington"}
+{"qid":124736100,"place":"Trnava","lat":48.3774,"lon":17.5883,"precision":"city","confidence":"high","note":"host city"}
+{"qid":131443210,"place":"Silistra","lat":44.1172,"lon":27.2606,"precision":"city","confidence":"medium","note":"near Silistra"}
+{"qid":19866420,"place":"Lucas Oil Stadium","lat":39.7601,"lon":-86.1639,"precision":"site","confidence":"high","note":"game at Lucas Oil Stadium"}
+{"qid":19866426,"place":"Joan C. Edwards Stadium","lat":38.421,"lon":-82.4283,"precision":"site","confidence":"high","note":"game at Joan C. Edwards Stadium"}
+{"qid":19866597,"place":"Orlando, Florida","lat":28.5384,"lon":-81.3789,"precision":"city","confidence":"high","note":"bowl host city"}
+{"qid":19866931,"place":"Cotton Bowl (stadium)","lat":32.7792,"lon":-96.76,"precision":"site","confidence":"medium","note":"played in Dallas Cotton Bowl"}
+{"qid":19866939,"place":"Cotton Bowl (stadium)","lat":32.7792,"lon":-96.76,"precision":"site","confidence":"medium","note":"played in Dallas Cotton Bowl"}
+{"qid":19866961,"place":"Cotton Bowl (stadium)","lat":32.7792,"lon":-96.76,"precision":"site","confidence":"high","note":"played at the Cotton Bowl"}
+{"qid":2996023,"place":"Persian Gulf","lat":27.0,"lon":51.0,"precision":"region","confidence":"low","note":"naval deployment in the Gulf"}
+{"qid":19868126,"place":"Sun Devil Stadium","lat":33.4265,"lon":-111.9325,"precision":"site","confidence":"high","note":"played at Sun Devil Stadium"}
+{"qid":19870109,"place":"Kuwait City","lat":29.3759,"lon":47.9774,"precision":"city","confidence":"medium","note":"evacuation from Kuwait"}
+{"qid":4604528,"place":"Boise, Idaho","lat":43.615,"lon":-116.2023,"precision":"city","confidence":"high","note":"hosted in Boise"}
+{"qid":30589065,"place":"Empire City Mall","lat":3.1617,"lon":101.6086,"precision":"site","confidence":"medium","note":"ice arena in Damansara"}
+{"qid":20723509,"place":"Budapest","lat":47.4979,"lon":19.0402,"precision":"city","confidence":"medium","note":"meet held in Budapest"}
+{"qid":19875943,"place":"Anaheim, California","lat":33.8366,"lon":-117.9143,"precision":"city","confidence":"high","note":"Freedom Bowl host city"}
