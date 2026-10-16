@@ -1,0 +1,50 @@
+{"qid":110282221,"place":"Sud de France Arena","lat":43.605,"lon":3.919,"precision":"site","confidence":"high","note":"venue in Montpellier"}
+{"qid":56291306,"place":"Zagreb","lat":45.815,"lon":15.9819,"precision":"city","confidence":"high","note":"host city"}
+{"qid":106284661,"place":"Parsa District","lat":27.1,"lon":84.8,"precision":"region","confidence":"medium","note":"battle at Alau, Parsa"}
+{"qid":138565662,"place":"San Salvador","lat":13.6929,"lon":-89.2182,"precision":"city","confidence":"high","note":"coup in capital"}
+{"qid":115694524,"place":"Nonthaburi","lat":13.8591,"lon":100.5217,"precision":"city","confidence":"high","note":"host city"}
+{"qid":85722990,"place":"Messina","lat":38.1938,"lon":15.554,"precision":"city","confidence":"high","note":"street circuit"}
+{"qid":109409670,"place":"Bandar Seri Begawan","lat":4.8903,"lon":114.9401,"precision":"city","confidence":"high","note":"host capital"}
+{"qid":56291278,"place":"Szczecin","lat":53.4285,"lon":14.5528,"precision":"city","confidence":"high","note":"host city"}
+{"qid":56291033,"place":"Landisville, Pennsylvania","lat":40.097,"lon":-76.421,"precision":"city","confidence":"medium","note":"host town"}
+{"qid":122683075,"place":"Caldas da Rainha","lat":39.4031,"lon":-9.137,"precision":"city","confidence":"high","note":"host city"}
+{"qid":85722954,"place":"Messina","lat":38.1938,"lon":15.554,"precision":"city","confidence":"high","note":"street circuit"}
+{"qid":56290436,"place":"Metz","lat":49.1193,"lon":6.1757,"precision":"city","confidence":"high","note":"host city"}
+{"qid":4606633,"place":"Ford Field","lat":42.34,"lon":-83.0456,"precision":"site","confidence":"high","note":"game venue"}
+{"qid":85722868,"place":"Messina","lat":38.1938,"lon":15.554,"precision":"city","confidence":"high","note":"street circuit"}
+{"qid":115694550,"place":"Oeiras, Portugal","lat":38.697,"lon":-9.309,"precision":"city","confidence":"high","note":"host city"}
+{"qid":2287083,"place":"Alblasserwaard","lat":51.86,"lon":4.7,"precision":"region","confidence":"medium","note":"race region"}
+{"qid":14165168,"place":"Recanati","lat":43.4,"lon":13.55,"precision":"city","confidence":"high","note":"host town"}
+{"qid":122705631,"place":"Kokernag","lat":33.55,"lon":75.3,"precision":"city","confidence":"medium","note":"encounter location"}
+{"qid":115694680,"place":"Tigre, Buenos Aires","lat":-34.426,"lon":-58.5797,"precision":"city","confidence":"high","note":"host city"}
+{"qid":1667887,"place":"Nouméa","lat":-22.2711,"lon":166.438,"precision":"city","confidence":"high","note":"host city"}
+{"qid":122761439,"place":"Bodleian Library","lat":51.7541,"lon":-1.2543,"precision":"site","confidence":"medium","note":"manuscripts kept in Oxford"}
+{"qid":56277062,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"online activity"}
+{"qid":3787947,"place":"St. Pölten","lat":48.2047,"lon":15.6256,"precision":"city","confidence":"high","note":"host city"}
+{"qid":10341144,"place":"Rio de Janeiro","lat":-22.9068,"lon":-43.1729,"precision":"city","confidence":"low","note":"advance toward Rio"}
+{"qid":56275594,"place":"Sam Boyd Stadium","lat":36.083,"lon":-115.01,"precision":"site","confidence":"medium","note":"game venue Whitney"}
+{"qid":56275584,"place":"Albertsons Stadium","lat":43.602,"lon":-116.196,"precision":"site","confidence":"high","note":"Boise game venue"}
+{"qid":108121614,"place":"Collonge-Bellerive","lat":46.265,"lon":6.2,"precision":"city","confidence":"high","note":"host town"}
+{"qid":56275578,"place":"Honolulu","lat":21.3069,"lon":-157.8583,"precision":"city","confidence":"high","note":"game host city"}
+{"qid":56275563,"place":"Ford Field","lat":42.34,"lon":-83.0456,"precision":"site","confidence":"high","note":"game venue"}
+{"qid":112624716,"place":"Málaga","lat":36.7213,"lon":-4.4214,"precision":"city","confidence":"high","note":"host city"}
+{"qid":112624818,"place":"Troyes","lat":48.2973,"lon":4.0744,"precision":"city","confidence":"high","note":"host city"}
+{"qid":56275558,"place":"Chase Field","lat":33.4455,"lon":-112.0667,"precision":"site","confidence":"high","note":"game venue"}
+{"qid":56275557,"place":"Yankee Stadium","lat":40.8296,"lon":-73.9262,"precision":"site","confidence":"high","note":"Pinstripe Bowl venue"}
+{"qid":85202305,"place":"Koblenz","lat":50.3569,"lon":7.589,"precision":"city","confidence":"high","note":"host city"}
+{"qid":2418200,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"low","note":"UN Security Council seat"}
+{"qid":56275370,"place":"Nissan Stadium","lat":36.1665,"lon":-86.7713,"precision":"site","confidence":"high","note":"game venue"}
+{"qid":85314173,"place":"Drummondville","lat":45.8838,"lon":-72.484,"precision":"city","confidence":"high","note":"host city"}
+{"qid":56275369,"place":"San Diego","lat":32.7157,"lon":-117.1611,"precision":"city","confidence":"high","note":"game host city"}
+{"qid":4871972,"place":"Dzierzgoń","lat":53.925,"lon":19.343,"precision":"city","confidence":"low","note":"near Dzierzgoń River"}
+{"qid":7852362,"place":"Tulsa, Oklahoma","lat":36.154,"lon":-95.9928,"precision":"city","confidence":"high","note":"race in Tulsa"}
+{"qid":56275333,"place":"Annapolis, Maryland","lat":38.9784,"lon":-76.4922,"precision":"city","confidence":"high","note":"game host city"}
+{"qid":12580455,"place":"Seoul","lat":37.5665,"lon":126.978,"precision":"city","confidence":"high","note":"draft in Seoul"}
+{"qid":4871935,"place":"Ojo Caliente, New Mexico","lat":36.303,"lon":-106.056,"precision":"city","confidence":"medium","note":"battle near Ojo Caliente"}
+{"qid":139565270,"place":"Aix-en-Provence","lat":43.5297,"lon":5.4474,"precision":"city","confidence":"high","note":"host city"}
+{"qid":108113410,"place":"Pune","lat":18.5204,"lon":73.8567,"precision":"city","confidence":"high","note":"held in Pune"}
+{"qid":3866685,"place":"Viña del Mar","lat":-33.0153,"lon":-71.55,"precision":"city","confidence":"high","note":"host city"}
+{"qid":122414131,"place":"Bogotá","lat":4.711,"lon":-74.0721,"precision":"city","confidence":"high","note":"host city"}
+{"qid":56255312,"place":"Manacor","lat":39.5696,"lon":3.2093,"precision":"city","confidence":"high","note":"host town"}
+{"qid":56254633,"place":"Como","lat":45.8081,"lon":9.0852,"precision":"city","confidence":"high","note":"host city"}
+{"qid":122436528,"place":"Braga","lat":41.5454,"lon":-8.4265,"precision":"city","confidence":"high","note":"host city"}

@@ -1,0 +1,50 @@
+{"qid":3974578,"place":"Stowe, Vermont","lat":44.4654,"lon":-72.6874,"precision":"city","confidence":"high","note":"tournament host town"}
+{"qid":114736977,"place":"Yokohama","lat":35.4437,"lon":139.638,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":114736856,"place":"Guayaquil","lat":-2.171,"lon":-79.9224,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":55457253,"place":"Managua","lat":12.1364,"lon":-86.2514,"precision":"city","confidence":"high","note":"movement created in Managua"}
+{"qid":109570533,"place":"Khost","lat":33.3395,"lon":69.9204,"precision":"city","confidence":"medium","note":"talks held in Khost"}
+{"qid":112072578,"place":"Saint-Gaudens","lat":43.1086,"lon":0.7231,"precision":"city","confidence":"high","note":"tournament host town"}
+{"qid":121365721,"place":"Newcastle, New South Wales","lat":-32.9283,"lon":151.7817,"precision":"city","confidence":"high","note":"street circuit race"}
+{"qid":121365739,"place":"Palladium Times Square","lat":40.758,"lon":-73.9855,"precision":"site","confidence":"medium","note":"ceremony venue"}
+{"qid":104858345,"place":"Cairo","lat":30.0444,"lon":31.2357,"precision":"city","confidence":"high","note":"held in Cairo"}
+{"qid":139411344,"place":"Gwangju","lat":35.1595,"lon":126.8526,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":84098520,"place":"Punta del Este","lat":-34.95,"lon":-54.95,"precision":"city","confidence":"medium","note":"ceremony in Punta del Este"}
+{"qid":121083809,"place":"Grodzisk Mazowiecki","lat":52.1086,"lon":20.6361,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":112034725,"place":"Troisdorf","lat":50.8156,"lon":7.1553,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":4872366,"place":"Arghandab River","lat":31.5,"lon":65.5,"precision":"region","confidence":"low","note":"near Arghandab River"}
+{"qid":114944922,"place":"Poitiers","lat":46.5802,"lon":0.3404,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":121084091,"place":"Todi","lat":42.7833,"lon":12.4,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":3030055,"place":"Panjwayi District","lat":31.55,"lon":65.45,"precision":"region","confidence":"medium","note":"operation in Panjwaii district"}
+{"qid":121084326,"place":"Winnipeg","lat":49.8951,"lon":-97.1384,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":3837660,"place":"Louisville, Kentucky","lat":38.2527,"lon":-85.7585,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":112034827,"place":"Vicenza","lat":45.5455,"lon":11.5354,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":112109302,"place":"Ilsan","lat":37.6584,"lon":126.77,"precision":"city","confidence":"medium","note":"KINTEX in Ilsan"}
+{"qid":112114870,"place":"Kyocera Dome Osaka","lat":34.6694,"lon":135.4761,"precision":"site","confidence":"high","note":"venue named in lead"}
+{"qid":61685538,"place":"Cherbourg-Octeville","lat":49.6337,"lon":-1.6222,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":11680679,"place":"Salinas, Ecuador","lat":-2.2167,"lon":-80.9667,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":1478359,"place":"Jilib","lat":0.49,"lon":42.79,"precision":"city","confidence":"medium","note":"battle near Jilib"}
+{"qid":114857499,"place":"Roanne","lat":46.0347,"lon":4.0722,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":114863665,"place":"Montevideo","lat":-34.9011,"lon":-56.1645,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":114863500,"place":"Knoxville, Tennessee","lat":35.9606,"lon":-83.9207,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":28667174,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"low","note":"Russian holiday, capital"}
+{"qid":71828102,"place":"Traralgon","lat":-38.195,"lon":146.54,"precision":"city","confidence":"high","note":"tournament host town"}
+{"qid":39081010,"place":"Lurín","lat":-12.2744,"lon":-76.8706,"precision":"city","confidence":"medium","note":"battle on Lurín River"}
+{"qid":4872349,"place":"Xinjiang","lat":41.0,"lon":85.0,"precision":"region","confidence":"low","note":"battle at Sekes Tash"}
+{"qid":112118961,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":88216374,"place":"United Kingdom","lat":54.0,"lon":-2.0,"precision":"country","confidence":"high","note":"UK-wide operation"}
+{"qid":104852008,"place":"Chiriquí Province","lat":8.43,"lon":-82.43,"precision":"region","confidence":"high","note":"insurgency in Chiriquí"}
+{"qid":121323556,"place":"Lima","lat":-12.0464,"lon":-77.0428,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":112109712,"place":"Little Rock, Arkansas","lat":34.7465,"lon":-92.2896,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":112109710,"place":"Prostějov","lat":49.4719,"lon":17.1128,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":112109711,"place":"Poznań","lat":52.4064,"lon":16.9252,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":4279451,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"observed across India"}
+{"qid":87365441,"place":"Astana","lat":51.1694,"lon":71.4491,"precision":"city","confidence":"high","note":"Nur-Sultan is Astana"}
+{"qid":104849178,"place":"Río Bueno","lat":-40.3333,"lon":-72.95,"precision":"city","confidence":"medium","note":"battle at Bueno River"}
+{"qid":139499692,"place":"La Bisbal d'Empordà","lat":41.96,"lon":3.0383,"precision":"city","confidence":"high","note":"tournament host town"}
+{"qid":106488974,"place":"Charlottesville, Virginia","lat":38.0293,"lon":-78.4767,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":87269883,"place":"Potchefstroom","lat":-26.7145,"lon":27.097,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":112143865,"place":"Prague","lat":50.0755,"lon":14.4378,"precision":"city","confidence":"high","note":"French captured Prague"}
+{"qid":3888630,"place":"Los Angeles Tennis Club","lat":34.0719,"lon":-118.3922,"precision":"site","confidence":"high","note":"venue named in lead"}
+{"qid":23641794,"place":"La Vega, Dominican Republic","lat":19.221,"lon":-70.529,"precision":"city","confidence":"medium","note":"rebellion began at La Vega"}
+{"qid":61505991,"place":"Buenos Aires","lat":-34.6037,"lon":-58.3816,"precision":"city","confidence":"high","note":"tournament host city"}
+{"qid":1245830,"place":"New York City","lat":40.7499,"lon":-73.9683,"precision":"city","confidence":"medium","note":"UN Security Council seat"}

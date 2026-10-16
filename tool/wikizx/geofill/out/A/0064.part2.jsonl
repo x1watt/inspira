@@ -1,0 +1,50 @@
+{"qid":28449120,"place":"Raymond James Stadium","lat":27.9759,"lon":-82.5033,"precision":"site","confidence":"high","note":"game at stadium"}
+{"qid":28448980,"place":"Hard Rock Stadium","lat":25.958,"lon":-80.2389,"precision":"site","confidence":"high","note":"game at stadium"}
+{"qid":28448938,"place":"Jacksonville, Florida","lat":30.3322,"lon":-81.6557,"precision":"city","confidence":"high","note":"bowl in Jacksonville"}
+{"qid":2493694,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"rotating venues"}
+{"qid":2670535,"place":"United Nations Headquarters","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"medium","note":"adopted at UN"}
+{"qid":7882590,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"manuscript, no location"}
+{"qid":54933256,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"low","note":"US federal observance"}
+{"qid":5420930,"place":"Medina","lat":24.4686,"lon":39.6142,"precision":"city","confidence":"low","note":"Khadirah near Medina region"}
+{"qid":121365613,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":28447864,"place":"Savannah, Georgia","lat":32.0809,"lon":-81.0912,"precision":"city","confidence":"high","note":"race in Savannah"}
+{"qid":5465289,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"high","note":"adopted in London"}
+{"qid":123560608,"place":"Anapa","lat":44.895,"lon":37.316,"precision":"city","confidence":"medium","note":"near Anapa"}
+{"qid":123550791,"place":"Bitung","lat":1.4404,"lon":125.1217,"precision":"city","confidence":"high","note":"clash in Bitung"}
+{"qid":28444698,"place":"Balboa Stadium","lat":32.7241,"lon":-117.1219,"precision":"site","confidence":"high","note":"stadium in San Diego"}
+{"qid":4614244,"place":"Circuit de Nevers Magny-Cours","lat":46.8642,"lon":3.1636,"precision":"site","confidence":"high","note":"circuit"}
+{"qid":28428139,"place":"Australia","lat":-25.2744,"lon":133.7751,"precision":"country","confidence":"medium","note":"nationwide awards"}
+{"qid":5420932,"place":"Medina","lat":24.4686,"lon":39.6142,"precision":"city","confidence":"low","note":"Batn Edam near Medina"}
+{"qid":24233484,"place":"Circuito de Jerez","lat":36.7083,"lon":-6.0342,"precision":"site","confidence":"high","note":"circuit"}
+{"qid":28407818,"place":"Balboa Stadium","lat":32.7241,"lon":-117.1219,"precision":"site","confidence":"high","note":"stadium in San Diego"}
+{"qid":28407815,"place":"Agatu","lat":7.4,"lon":7.9667,"precision":"region","confidence":"medium","note":"Agatu, Benue State"}
+{"qid":4571038,"place":"Aintree Motor Racing Circuit","lat":53.477,"lon":-2.946,"precision":"site","confidence":"high","note":"circuit"}
+{"qid":28407486,"place":"Norwich","lat":52.6309,"lon":1.2974,"precision":"city","confidence":"high","note":"festival in Norwich"}
+{"qid":125554002,"place":"Caracas","lat":10.4806,"lon":-66.9036,"precision":"city","confidence":"high","note":"signed in Caracas"}
+{"qid":28406626,"place":"Houston","lat":29.7604,"lon":-95.3698,"precision":"city","confidence":"high","note":"ceremony in Houston"}
+{"qid":123532588,"place":"Jangseong County","lat":35.3,"lon":126.78,"precision":"region","confidence":"medium","note":"battle at Hwangryong River"}
+{"qid":4562396,"place":"Phillip Island","lat":-38.4871,"lon":145.2311,"precision":"region","confidence":"high","note":"Phillip Island circuit"}
+{"qid":28406294,"place":"Navy-Marine Corps Memorial Stadium","lat":38.9854,"lon":-76.5081,"precision":"site","confidence":"high","note":"game at stadium"}
+{"qid":28404113,"place":"Arena of Stars","lat":3.4231,"lon":101.7938,"precision":"site","confidence":"medium","note":"venue"}
+{"qid":123524164,"place":"Gerald J. Ford Stadium","lat":32.8403,"lon":-96.7822,"precision":"site","confidence":"high","note":"game at stadium"}
+{"qid":113495610,"place":"Pitnak","lat":41.35,"lon":60.28,"precision":"city","confidence":"medium","note":"battle at Pitnak"}
+{"qid":28232861,"place":"Oldpark","lat":54.62,"lon":-5.948,"precision":"city","confidence":"medium","note":"Oldpark Road, Belfast"}
+{"qid":28455981,"place":"India","lat":20.5937,"lon":78.9629,"precision":"country","confidence":"medium","note":"tri-series in India"}
+{"qid":139940512,"place":"Novotel Manila Araneta City","lat":14.6204,"lon":121.053,"precision":"site","confidence":"medium","note":"venue"}
+{"qid":123515836,"place":"Wawel Castle","lat":50.054,"lon":19.9355,"precision":"site","confidence":"high","note":"siege of castle"}
+{"qid":5354122,"place":"Eldorado do Carajás","lat":-6.1056,"lon":-49.3586,"precision":"city","confidence":"high","note":"massacre on PA-150"}
+{"qid":55137550,"place":"Liberia","lat":6.4281,"lon":-9.4295,"precision":"country","confidence":"low","note":"Port Cresson in Liberia"}
+{"qid":28231787,"place":"Independence Stadium","lat":32.5362,"lon":-93.7091,"precision":"site","confidence":"high","note":"game at stadium"}
+{"qid":3401311,"place":"Leskovac","lat":42.9981,"lon":21.9461,"precision":"city","confidence":"medium","note":"near Leskovac"}
+{"qid":55137808,"place":"Phước Vĩnh","lat":11.6,"lon":106.8,"precision":"region","confidence":"low","note":"north of Phuoc Vinh"}
+{"qid":28231782,"place":"Arrowhead Stadium","lat":39.0489,"lon":-94.4839,"precision":"site","confidence":"high","note":"game at stadium"}
+{"qid":28226004,"place":"Portugal","lat":39.3999,"lon":-8.2245,"precision":"country","confidence":"medium","note":"varies by year"}
+{"qid":55138187,"place":"Quảng Trị Province","lat":16.75,"lon":107.2,"precision":"region","confidence":"medium","note":"northwest Quang Tri"}
+{"qid":28225510,"place":"Bogra","lat":24.8465,"lon":89.3773,"precision":"city","confidence":"high","note":"Bogra Cantonment mutiny"}
+{"qid":28224693,"place":"Central Sulawesi","lat":-1.43,"lon":121.4456,"precision":"region","confidence":"medium","note":"coast of Central Celebes"}
+{"qid":2782371,"place":"United Nations Headquarters","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"medium","note":"adopted at UN"}
+{"qid":28224657,"place":"Central Sulawesi","lat":-1.43,"lon":121.4456,"precision":"region","confidence":"medium","note":"Central Celebes"}
+{"qid":19870621,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"held online"}
+{"qid":17182411,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"held online"}
+{"qid":4626249,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"held online"}
+{"qid":16224863,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"held online"}

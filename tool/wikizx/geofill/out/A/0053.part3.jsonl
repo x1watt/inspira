@@ -1,0 +1,50 @@
+{"qid":120598905,"place":"Astana","lat":51.1694,"lon":71.4491,"precision":"city","confidence":"high","note":"host city"}
+{"qid":16190947,"place":"Odessa","lat":46.4825,"lon":30.7233,"precision":"city","confidence":"high","note":"uprising in Odessa"}
+{"qid":261042,"place":"Bergamo","lat":45.6983,"lon":9.6773,"precision":"city","confidence":"high","note":"host city"}
+{"qid":614089,"place":"Sydney","lat":-33.8688,"lon":151.2093,"precision":"city","confidence":"high","note":"Sydney Superdome event"}
+{"qid":30635082,"place":"Los Angeles Tennis Center","lat":34.0722,"lon":-118.4465,"precision":"site","confidence":"medium","note":"UCLA venue"}
+{"qid":3607733,"place":"Caesars Palace","lat":36.1162,"lon":-115.1745,"precision":"site","confidence":"high","note":"venue named"}
+{"qid":3929663,"place":"Seattle","lat":47.6062,"lon":-122.3321,"precision":"city","confidence":"medium","note":"Seattle Center Arena event"}
+{"qid":107439604,"place":"International Tennis Hall of Fame","lat":41.4818,"lon":-71.3091,"precision":"site","confidence":"high","note":"venue named"}
+{"qid":111937742,"place":"Irapuato","lat":20.6767,"lon":-101.3563,"precision":"city","confidence":"high","note":"host city"}
+{"qid":120499034,"place":"Zug","lat":47.1724,"lon":8.5176,"precision":"city","confidence":"high","note":"host city"}
+{"qid":63859420,"place":"Lisbon","lat":38.7223,"lon":-9.1393,"precision":"city","confidence":"high","note":"host city"}
+{"qid":111937789,"place":"Arcadia, California","lat":34.1397,"lon":-118.0353,"precision":"city","confidence":"high","note":"host city"}
+{"qid":111937927,"place":"Canberra","lat":-35.2809,"lon":149.13,"precision":"city","confidence":"high","note":"host city"}
+{"qid":63840129,"place":"Gwangju","lat":35.1595,"lon":126.8526,"precision":"city","confidence":"high","note":"host city"}
+{"qid":111938243,"place":"Canberra","lat":-35.2809,"lon":149.13,"precision":"city","confidence":"high","note":"host city"}
+{"qid":106731158,"place":"Heilbronn","lat":49.1427,"lon":9.2109,"precision":"city","confidence":"high","note":"host city"}
+{"qid":63825191,"place":"Heilbronn","lat":49.1427,"lon":9.2109,"precision":"city","confidence":"high","note":"host city"}
+{"qid":4574683,"place":"Camping World Stadium","lat":28.5392,"lon":-81.4026,"precision":"site","confidence":"medium","note":"Tangerine Bowl stadium site"}
+{"qid":114258290,"place":"Calama","lat":-22.4667,"lon":-68.9333,"precision":"city","confidence":"high","note":"race near Calama"}
+{"qid":111938766,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"rotating venues"}
+{"qid":110326728,"place":"Forlì","lat":44.2227,"lon":12.0407,"precision":"city","confidence":"high","note":"host city"}
+{"qid":11770502,"place":"Dnipro","lat":48.4647,"lon":35.0462,"precision":"city","confidence":"low","note":"march began at Katerynoslav"}
+{"qid":3298032,"place":"Festhalle Frankfurt","lat":50.1103,"lon":8.6486,"precision":"site","confidence":"high","note":"singles venue"}
+{"qid":106643299,"place":"Biella","lat":45.5667,"lon":8.05,"precision":"city","confidence":"high","note":"host city"}
+{"qid":114049136,"place":"Parma","lat":44.8015,"lon":10.3279,"precision":"city","confidence":"high","note":"host city"}
+{"qid":2232054,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"resolution without location"}
+{"qid":114049361,"place":"Campinas","lat":-22.9099,"lon":-47.0626,"precision":"city","confidence":"high","note":"host city"}
+{"qid":63815428,"place":"Spain","lat":40.4637,"lon":-3.7492,"precision":"country","confidence":"low","note":"held in Spain"}
+{"qid":114048840,"place":"Mouilleron-le-Captif","lat":46.6989,"lon":-1.4747,"precision":"city","confidence":"high","note":"host town"}
+{"qid":63678325,"place":"Cagnes-sur-Mer","lat":43.6644,"lon":7.1486,"precision":"city","confidence":"high","note":"host city"}
+{"qid":140932341,"place":"Mecca","lat":21.3891,"lon":39.8579,"precision":"city","confidence":"high","note":"signed in Mecca"}
+{"qid":114049310,"place":"Villena","lat":38.6339,"lon":-0.8658,"precision":"city","confidence":"high","note":"host town"}
+{"qid":138701831,"place":"Split, Croatia","lat":43.5081,"lon":16.4402,"precision":"city","confidence":"high","note":"host city"}
+{"qid":109229862,"place":"Tororo","lat":0.6928,"lon":34.1808,"precision":"city","confidence":"low","note":"eastern Uganda operations"}
+{"qid":63658208,"place":"Geneva","lat":46.2044,"lon":6.1432,"precision":"city","confidence":"high","note":"host city"}
+{"qid":1331081,"place":"Mérida, Yucatán","lat":20.9674,"lon":-89.5926,"precision":"city","confidence":"high","note":"agreed in Mérida"}
+{"qid":63565819,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"high","note":"host city"}
+{"qid":63562542,"place":"Shymkent","lat":42.3417,"lon":69.5901,"precision":"city","confidence":"high","note":"host city"}
+{"qid":63533349,"place":"Busan","lat":35.1796,"lon":129.0756,"precision":"city","confidence":"high","note":"host city"}
+{"qid":4618000,"place":"Albuquerque, New Mexico","lat":35.0844,"lon":-106.6504,"precision":"city","confidence":"high","note":"game at University Stadium"}
+{"qid":63532589,"place":"Aix-en-Provence","lat":43.5297,"lon":5.4474,"precision":"city","confidence":"high","note":"host city"}
+{"qid":114049588,"place":"Gwangju","lat":35.1595,"lon":126.8526,"precision":"city","confidence":"high","note":"host city"}
+{"qid":63434932,"place":"Ostrava","lat":49.8209,"lon":18.2625,"precision":"city","confidence":"high","note":"host city"}
+{"qid":114049587,"place":"Tiburon, California","lat":37.8735,"lon":-122.4566,"precision":"city","confidence":"high","note":"host city"}
+{"qid":107407070,"place":"Braunschweig","lat":52.2689,"lon":10.5268,"precision":"city","confidence":"high","note":"host city"}
+{"qid":109237337,"place":"Nantes","lat":47.2184,"lon":-1.5536,"precision":"city","confidence":"high","note":"host city"}
+{"qid":111942932,"place":"Sri Lanka","lat":7.8731,"lon":80.7718,"precision":"country","confidence":"medium","note":"national prize"}
+{"qid":107336630,"place":"Contrexéville","lat":48.1833,"lon":5.8963,"precision":"city","confidence":"high","note":"host town"}
+{"qid":109253040,"place":"Capo Teulada","lat":38.8667,"lon":8.65,"precision":"region","confidence":"medium","note":"race at Capo Teulada"}
+{"qid":111949402,"place":"Coventry Building Society Arena","lat":52.4488,"lon":-1.4985,"precision":"site","confidence":"high","note":"ceremony venue"}

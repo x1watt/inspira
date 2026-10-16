@@ -1,0 +1,50 @@
+{"qid":50335531,"place":"Santiago","lat":-33.4489,"lon":-70.6693,"precision":"city","confidence":"high","note":"host city"}
+{"qid":124000788,"place":"Oeiras, Portugal","lat":38.697,"lon":-9.301,"precision":"city","confidence":"high","note":"host city"}
+{"qid":16307717,"place":"Bangkok","lat":13.7563,"lon":100.5018,"precision":"city","confidence":"high","note":"coup in Siamese capital"}
+{"qid":98923131,"place":"Prostějov","lat":49.4719,"lon":17.1128,"precision":"city","confidence":"high","note":"host city"}
+{"qid":117844301,"place":"Mauthausen","lat":48.2431,"lon":14.5019,"precision":"city","confidence":"high","note":"host town"}
+{"qid":98923125,"place":"Aix-en-Provence","lat":43.5297,"lon":5.4474,"precision":"city","confidence":"high","note":"host city"}
+{"qid":5188263,"place":"Belize","lat":17.1899,"lon":-88.4976,"precision":"country","confidence":"medium","note":"race held in Belize"}
+{"qid":113115857,"place":"Atlanta","lat":33.749,"lon":-84.388,"precision":"city","confidence":"high","note":"Atlantic Station"}
+{"qid":117815632,"place":"Prague","lat":50.0755,"lon":14.4378,"precision":"city","confidence":"high","note":"host city"}
+{"qid":124000794,"place":"Buenos Aires","lat":-34.6037,"lon":-58.3816,"precision":"city","confidence":"high","note":"host city"}
+{"qid":4158294,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"national holiday"}
+{"qid":119459316,"place":"Biarritz","lat":43.4832,"lon":-1.5586,"precision":"city","confidence":"high","note":"host city"}
+{"qid":141285424,"place":"Giza","lat":30.0131,"lon":31.2089,"precision":"city","confidence":"medium","note":"NewGiza venue"}
+{"qid":7399509,"place":"Illizi","lat":26.5,"lon":8.4833,"precision":"city","confidence":"low","note":"abductions in Algerian Sahara"}
+{"qid":117844300,"place":"Busan","lat":35.1796,"lon":129.0756,"precision":"city","confidence":"high","note":"host city"}
+{"qid":4597630,"place":"Ladd-Peebles Stadium","lat":30.688,"lon":-88.113,"precision":"site","confidence":"medium","note":"Mobile bowl venue"}
+{"qid":117844407,"place":"Francavilla al Mare","lat":42.4192,"lon":14.2917,"precision":"city","confidence":"high","note":"host town"}
+{"qid":3895994,"place":"Accor Arena","lat":48.8386,"lon":2.3786,"precision":"site","confidence":"high","note":"Palais omnisports de Paris-Bercy"}
+{"qid":50176596,"place":"Yokohama","lat":35.4437,"lon":139.638,"precision":"city","confidence":"high","note":"host city"}
+{"qid":50172957,"place":"Punta del Este","lat":-34.95,"lon":-54.95,"precision":"city","confidence":"high","note":"host city"}
+{"qid":4000477,"place":"Tunis","lat":36.8065,"lon":10.1815,"precision":"city","confidence":"high","note":"host city"}
+{"qid":10829783,"place":"Nuits-Saint-Georges","lat":47.1361,"lon":4.9514,"precision":"city","confidence":"high","note":"battle location"}
+{"qid":113127662,"place":"Stockholm","lat":59.3293,"lon":18.0686,"precision":"city","confidence":"high","note":"Swedish Academy announces"}
+{"qid":11657014,"place":"Hōfu","lat":34.0511,"lon":131.5667,"precision":"city","confidence":"high","note":"host city"}
+{"qid":2287840,"place":"Ba Dinh Square","lat":21.0369,"lon":105.835,"precision":"site","confidence":"medium","note":"declaration read in Hanoi"}
+{"qid":118310293,"place":"Bordeaux","lat":44.8378,"lon":-0.5792,"precision":"city","confidence":"high","note":"host city"}
+{"qid":16955837,"place":"Fortress of Louisbourg","lat":45.8873,"lon":-59.9992,"precision":"site","confidence":"medium","note":"captured off Louisbourg"}
+{"qid":3883452,"place":"Tarragona","lat":41.1189,"lon":1.2445,"precision":"city","confidence":"high","note":"host city"}
+{"qid":124255631,"place":"The Beverly Hilton","lat":34.0667,"lon":-118.4141,"precision":"site","confidence":"high","note":"ceremony venue"}
+{"qid":124079126,"place":"Tenerife","lat":28.2916,"lon":-16.6291,"precision":"region","confidence":"high","note":"host island"}
+{"qid":124097848,"place":"Buenos Aires","lat":-34.6037,"lon":-58.3816,"precision":"city","confidence":"high","note":"host city"}
+{"qid":48980337,"place":"Anatolia","lat":39.0,"lon":35.0,"precision":"region","confidence":"low","note":"fought mostly in Asia Minor"}
+{"qid":124097849,"place":"Indian Wells, California","lat":33.7175,"lon":-116.3411,"precision":"city","confidence":"high","note":"host city"}
+{"qid":48965937,"place":"Dubai Autodrome","lat":25.0489,"lon":55.2386,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":108423097,"place":"Cassis","lat":43.2147,"lon":5.5392,"precision":"city","confidence":"high","note":"host town"}
+{"qid":3987748,"place":"Jersey","lat":49.2144,"lon":-2.1312,"precision":"region","confidence":"high","note":"host island"}
+{"qid":48964973,"place":"Cuernavaca","lat":18.9186,"lon":-99.2342,"precision":"city","confidence":"high","note":"host city"}
+{"qid":118310952,"place":"Turin","lat":45.0703,"lon":7.6869,"precision":"city","confidence":"high","note":"host city"}
+{"qid":111320715,"place":"Lugano","lat":46.0037,"lon":8.9511,"precision":"city","confidence":"high","note":"host city"}
+{"qid":118312417,"place":"Oeiras, Portugal","lat":38.697,"lon":-9.301,"precision":"city","confidence":"high","note":"host city"}
+{"qid":30014900,"place":"Tal Afar","lat":36.3711,"lon":42.4492,"precision":"city","confidence":"medium","note":"main target of offensive"}
+{"qid":111344455,"place":"Oeiras, Portugal","lat":38.697,"lon":-9.301,"precision":"city","confidence":"high","note":"host city"}
+{"qid":48964968,"place":"Kyoto","lat":35.0116,"lon":135.7681,"precision":"city","confidence":"high","note":"host city"}
+{"qid":124079125,"place":"Nonthaburi","lat":13.8591,"lon":100.5217,"precision":"city","confidence":"high","note":"host city"}
+{"qid":124296592,"place":"Toronto","lat":43.6532,"lon":-79.3832,"precision":"city","confidence":"low","note":"Canadian capital in 1858"}
+{"qid":98736436,"place":"Cordenons","lat":45.9833,"lon":12.7,"precision":"city","confidence":"high","note":"host town"}
+{"qid":107413447,"place":"Anif","lat":47.7414,"lon":13.0725,"precision":"city","confidence":"high","note":"host town"}
+{"qid":98736421,"place":"Ostrava","lat":49.8209,"lon":18.2625,"precision":"city","confidence":"high","note":"host city"}
+{"qid":113134365,"place":"Stockholm","lat":59.3293,"lon":18.0686,"precision":"city","confidence":"high","note":"Swedish Academy announces"}
+{"qid":48852270,"place":"Coatbridge","lat":55.8618,"lon":-4.026,"precision":"city","confidence":"high","note":"championship venue"}

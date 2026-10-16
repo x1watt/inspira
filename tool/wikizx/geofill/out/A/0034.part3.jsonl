@@ -1,0 +1,50 @@
+{"qid":12443615,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"text, no location"}
+{"qid":5350624,"place":"Delta State","lat":5.704,"lon":5.9339,"precision":"region","confidence":"medium","note":"uprisings in Delta State"}
+{"qid":51885211,"place":"Guadalajara","lat":20.6597,"lon":-103.3496,"precision":"city","confidence":"high","note":"tournament location"}
+{"qid":51886033,"place":"Budapest","lat":47.4979,"lon":19.0402,"precision":"city","confidence":"high","note":"tournament location"}
+{"qid":51923961,"place":"Istanbul","lat":41.0082,"lon":28.9784,"precision":"city","confidence":"high","note":"tournament location"}
+{"qid":51974489,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"international observance"}
+{"qid":85789184,"place":"Manipur","lat":24.817,"lon":93.9368,"precision":"region","confidence":"medium","note":"Meitei festival in Manipur"}
+{"qid":112872090,"place":"Beirut","lat":33.8938,"lon":35.5018,"precision":"city","confidence":"medium","note":"coup attempt in capital"}
+{"qid":1923223,"place":"Baltimore","lat":39.2904,"lon":-76.6122,"precision":"city","confidence":"high","note":"draft in Baltimore"}
+{"qid":52770565,"place":"Qarshi","lat":38.8606,"lon":65.7891,"precision":"city","confidence":"high","note":"tournament location"}
+{"qid":52774323,"place":"Gimcheon","lat":36.1398,"lon":128.1136,"precision":"city","confidence":"high","note":"tournament location"}
+{"qid":5353672,"place":"Librazhd","lat":41.1833,"lon":20.3167,"precision":"city","confidence":"medium","note":"manuscript origin Librazhd"}
+{"qid":27963750,"place":"Nakhon Si Thammarat","lat":8.4304,"lon":99.9631,"precision":"city","confidence":"low","note":"festival in Southern Thailand"}
+{"qid":54366325,"place":"Mestre","lat":45.49,"lon":12.238,"precision":"city","confidence":"high","note":"tournament location"}
+{"qid":16959569,"place":"Imus, Cavite","lat":14.4297,"lon":120.9367,"precision":"city","confidence":"high","note":"image venerated in Imus"}
+{"qid":5412467,"place":"Strasbourg","lat":48.5734,"lon":7.7521,"precision":"city","confidence":"high","note":"signed in Strasbourg"}
+{"qid":123600242,"place":"Trnava","lat":48.3774,"lon":17.5872,"precision":"city","confidence":"high","note":"tournament location"}
+{"qid":6979570,"place":"United Kingdom","lat":54.0,"lon":-2.0,"precision":"country","confidence":"medium","note":"nationwide strike"}
+{"qid":54886910,"place":"Manchester","lat":53.4808,"lon":-2.2426,"precision":"city","confidence":"high","note":"tournament location"}
+{"qid":19429115,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"medium","note":"signed in Washington"}
+{"qid":123569893,"place":"Givet","lat":50.1333,"lon":4.8317,"precision":"city","confidence":"high","note":"bombardment of Givet"}
+{"qid":123437492,"place":"Maspalomas","lat":27.76,"lon":-15.586,"precision":"city","confidence":"high","note":"tournament location"}
+{"qid":55075755,"place":"L'Aquila","lat":42.3498,"lon":13.3995,"precision":"city","confidence":"high","note":"tournament location"}
+{"qid":55076929,"place":"Blois","lat":47.5861,"lon":1.3359,"precision":"city","confidence":"high","note":"tournament location"}
+{"qid":7522992,"place":"Singapore","lat":1.3521,"lon":103.8198,"precision":"country","confidence":"high","note":"national plan"}
+{"qid":55088338,"place":"Antalya","lat":36.8969,"lon":30.7133,"precision":"city","confidence":"high","note":"tournament location"}
+{"qid":123517557,"place":"Yas Marina Circuit","lat":24.4672,"lon":54.6031,"precision":"site","confidence":"high","note":"race at Yas Marina Circuit"}
+{"qid":123489012,"place":"Valencia","lat":39.4699,"lon":-0.3763,"precision":"city","confidence":"high","note":"tournament location"}
+{"qid":11526599,"place":"Tokyo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"low","note":"Toho studio in Tokyo"}
+{"qid":123481921,"place":"Avalon Hollywood","lat":34.1021,"lon":-118.3267,"precision":"site","confidence":"high","note":"ceremony at The Avalon"}
+{"qid":5420950,"place":"Medina","lat":24.4672,"lon":39.6111,"precision":"city","confidence":"low","note":"expedition near Medina"}
+{"qid":123372788,"place":"Brasília","lat":-15.7939,"lon":-47.8828,"precision":"city","confidence":"high","note":"tournament location"}
+{"qid":55286607,"place":"Marburg","lat":50.8019,"lon":8.7667,"precision":"city","confidence":"high","note":"tournament location"}
+{"qid":8187830,"place":"Dakhla, Western Sahara","lat":23.6848,"lon":-15.957,"precision":"city","confidence":"low","note":"Bay of Cintra area"}
+{"qid":55389800,"place":"Indian Harbour Beach, Florida","lat":28.1472,"lon":-80.5886,"precision":"city","confidence":"high","note":"tournament location"}
+{"qid":5425945,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"various venues"}
+{"qid":5434552,"place":"Vladivostok","lat":43.1155,"lon":131.8855,"precision":"city","confidence":"low","note":"Far Eastern front, key city"}
+{"qid":123246456,"place":"Danderyd Municipality","lat":59.398,"lon":18.03,"precision":"city","confidence":"high","note":"tournament location"}
+{"qid":55392019,"place":"Des Moines, Iowa","lat":41.5868,"lon":-93.625,"precision":"city","confidence":"high","note":"game in Des Moines"}
+{"qid":2890668,"place":"Souk Ahras","lat":36.2864,"lon":7.9511,"precision":"city","confidence":"low","note":"Algeria-Tunisia border fighting"}
+{"qid":123358419,"place":"Mali","lat":17.5707,"lon":-3.9962,"precision":"country","confidence":"low","note":"Noukouma, Mali"}
+{"qid":6976864,"place":"Mugello Circuit","lat":43.9975,"lon":11.3719,"precision":"site","confidence":"high","note":"race at Mugello Circuit"}
+{"qid":123203895,"place":"Lima","lat":-12.0464,"lon":-77.0428,"precision":"city","confidence":"high","note":"tournament location"}
+{"qid":2496734,"place":"Havana","lat":23.1136,"lon":-82.3666,"precision":"city","confidence":"high","note":"protest on Malecon"}
+{"qid":55589694,"place":"Scheveningen","lat":52.1083,"lon":4.2733,"precision":"city","confidence":"high","note":"tournament location"}
+{"qid":727244,"place":"Iraq","lat":33.2232,"lon":43.6793,"precision":"country","confidence":"medium","note":"troops in central-south Iraq"}
+{"qid":55600337,"place":"Mumbai","lat":19.076,"lon":72.8777,"precision":"city","confidence":"high","note":"ceremony at Dome, Mumbai"}
+{"qid":21211064,"place":"Douglas, Isle of Man","lat":54.15,"lon":-4.48,"precision":"city","confidence":"high","note":"TT based in Douglas"}
+{"qid":5447472,"place":"Fifth Avenue","lat":40.7757,"lon":-73.964,"precision":"site","confidence":"medium","note":"race on Fifth Avenue"}
+{"qid":123094718,"place":"Ismaning","lat":48.2256,"lon":11.6728,"precision":"city","confidence":"high","note":"tournament location"}

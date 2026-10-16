@@ -1,0 +1,50 @@
+{"qid":3961770,"place":"Singapore","lat":1.3521,"lon":103.8198,"precision":"country","confidence":"high","note":"host city-state"}
+{"qid":3353416,"place":"Brisbane","lat":-27.4698,"lon":153.0251,"precision":"city","confidence":"high","note":"host city"}
+{"qid":3968700,"place":"Athens","lat":37.9838,"lon":23.7275,"precision":"city","confidence":"high","note":"host city"}
+{"qid":133883825,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"high","note":"host city"}
+{"qid":133929801,"place":"Savannah, Georgia","lat":32.0809,"lon":-81.0912,"precision":"city","confidence":"high","note":"host city"}
+{"qid":133929596,"place":"Gwangju","lat":35.1595,"lon":126.8526,"precision":"city","confidence":"high","note":"host city"}
+{"qid":133896539,"place":"Gaza City","lat":31.5017,"lon":34.4668,"precision":"city","confidence":"high","note":"offensive in Shuja'iyya"}
+{"qid":140544770,"place":"Palermo","lat":38.1157,"lon":13.3615,"precision":"city","confidence":"high","note":"host city"}
+{"qid":3981281,"place":"Tashkent","lat":41.2995,"lon":69.2401,"precision":"city","confidence":"high","note":"host city"}
+{"qid":133829465,"place":"Oeiras, Portugal","lat":38.697,"lon":-9.3017,"precision":"city","confidence":"high","note":"host city"}
+{"qid":132798579,"place":"Oeiras, Portugal","lat":38.697,"lon":-9.3017,"precision":"city","confidence":"high","note":"host city"}
+{"qid":133850436,"place":"Yogyakarta","lat":-7.7956,"lon":110.3695,"precision":"city","confidence":"low","note":"Siluk in Yogyakarta Sultanate"}
+{"qid":113408279,"place":"Ruse, Bulgaria","lat":43.8356,"lon":25.9657,"precision":"city","confidence":"medium","note":"Rassowa near Ruse"}
+{"qid":131753803,"place":"Bar, Ukraine","lat":49.0733,"lon":27.6733,"precision":"city","confidence":"high","note":"siege of Bar"}
+{"qid":3883138,"place":"Nantes","lat":47.2184,"lon":-1.5536,"precision":"city","confidence":"high","note":"host city"}
+{"qid":3999441,"place":"Cremona","lat":45.1332,"lon":10.0227,"precision":"city","confidence":"high","note":"host city"}
+{"qid":133822045,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"high","note":"nationwide protests"}
+{"qid":141306638,"place":"Palau Sant Jordi","lat":41.3637,"lon":2.1527,"precision":"site","confidence":"high","note":"venue named"}
+{"qid":133776430,"place":"Mexico City","lat":19.4326,"lon":-99.1332,"precision":"city","confidence":"high","note":"host city"}
+{"qid":3883190,"place":"Joué-lès-Tours","lat":47.35,"lon":0.6667,"precision":"city","confidence":"high","note":"host town"}
+{"qid":133776433,"place":"Monza","lat":45.5845,"lon":9.2744,"precision":"city","confidence":"high","note":"host city"}
+{"qid":3961772,"place":"Singapore","lat":1.3521,"lon":103.8198,"precision":"country","confidence":"high","note":"host city-state"}
+{"qid":716630,"place":"Limoges","lat":45.8336,"lon":1.2611,"precision":"city","confidence":"high","note":"host city"}
+{"qid":4578737,"place":"Liberty Bowl Memorial Stadium","lat":35.1211,"lon":-89.9778,"precision":"site","confidence":"high","note":"stadium named"}
+{"qid":17014234,"place":"Adygea","lat":44.6,"lon":40.1,"precision":"region","confidence":"medium","note":"race in Adygea"}
+{"qid":3883257,"place":"Joué-lès-Tours","lat":47.35,"lon":0.6667,"precision":"city","confidence":"high","note":"host town"}
+{"qid":133730440,"place":"Antalya","lat":36.8969,"lon":30.7133,"precision":"city","confidence":"high","note":"host city"}
+{"qid":3980726,"place":"Tampere","lat":61.4978,"lon":23.761,"precision":"city","confidence":"high","note":"host city"}
+{"qid":3987446,"place":"Scheveningen","lat":52.1083,"lon":4.2667,"precision":"city","confidence":"high","note":"host district"}
+{"qid":4626969,"place":"Cotton Bowl (stadium)","lat":32.7797,"lon":-96.7597,"precision":"site","confidence":"high","note":"stadium named"}
+{"qid":3994396,"place":"León, Guanajuato","lat":21.125,"lon":-101.686,"precision":"city","confidence":"high","note":"host city"}
+{"qid":17036086,"place":"Hubei","lat":30.9756,"lon":112.2707,"precision":"region","confidence":"medium","note":"western Hubei operation"}
+{"qid":4611412,"place":"Sam Boyd Stadium","lat":36.0872,"lon":-115.01,"precision":"site","confidence":"medium","note":"Whitney, Nevada stadium"}
+{"qid":4570410,"place":"Naples","lat":40.8518,"lon":14.2681,"precision":"city","confidence":"high","note":"Posillipo Circuit"}
+{"qid":2159189,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"resolution"}
+{"qid":17062255,"place":"Florence","lat":43.7696,"lon":11.2558,"precision":"city","confidence":"high","note":"played in Florence"}
+{"qid":387398,"place":"Tunis","lat":36.8065,"lon":10.1815,"precision":"city","confidence":"high","note":"host city"}
+{"qid":17068444,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"festival"}
+{"qid":17069706,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"religious observance"}
+{"qid":17072049,"place":"KwaZulu-Natal","lat":-28.5305,"lon":30.8958,"precision":"region","confidence":"medium","note":"Maqongqo Hills"}
+{"qid":133694598,"place":"Harare","lat":-17.8252,"lon":31.0335,"precision":"city","confidence":"low","note":"Zimbabwe nationwide, likely Harare"}
+{"qid":2276372,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"resolution"}
+{"qid":17080179,"place":"Capital Hilton","lat":38.9027,"lon":-77.0376,"precision":"site","confidence":"high","note":"venue named"}
+{"qid":4004680,"place":"Prostějov","lat":49.4719,"lon":17.1128,"precision":"city","confidence":"high","note":"host city"}
+{"qid":15138133,"place":"Bogotá","lat":4.711,"lon":-74.0721,"precision":"city","confidence":"high","note":"host city"}
+{"qid":133578862,"place":"Donalsonville, Georgia","lat":31.0405,"lon":-84.8799,"precision":"city","confidence":"high","note":"murders there"}
+{"qid":17098307,"place":"Prostějov","lat":49.4719,"lon":17.1128,"precision":"city","confidence":"high","note":"host city"}
+{"qid":1375074,"place":"Knoxville, Tennessee","lat":35.9606,"lon":-83.9207,"precision":"city","confidence":"high","note":"host city"}
+{"qid":3999437,"place":"Cremona","lat":45.1332,"lon":10.0227,"precision":"city","confidence":"high","note":"host city"}
+{"qid":16740371,"place":"Fürth","lat":49.4772,"lon":10.9886,"precision":"city","confidence":"high","note":"host city"}

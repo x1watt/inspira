@@ -1,0 +1,50 @@
+{"qid":3876645,"place":"Winnetka, Illinois","lat":42.1081,"lon":-87.7359,"precision":"city","confidence":"high","note":"host city"}
+{"qid":4577189,"place":"Liberty Bowl Memorial Stadium","lat":35.1211,"lon":-89.9772,"precision":"site","confidence":"high","note":"played at stadium"}
+{"qid":124292827,"place":"Cleveland","lat":41.4993,"lon":-81.6944,"precision":"city","confidence":"high","note":"host city"}
+{"qid":138498449,"place":"Kigali","lat":-1.9441,"lon":30.0619,"precision":"city","confidence":"high","note":"host city"}
+{"qid":139815037,"place":"Tampa, Florida","lat":27.9506,"lon":-82.4572,"precision":"city","confidence":"high","note":"murdered in Tampa"}
+{"qid":3353752,"place":"Singapore","lat":1.3521,"lon":103.8198,"precision":"country","confidence":"high","note":"host city-state"}
+{"qid":74118902,"place":"Templeton, California","lat":35.5547,"lon":-120.704,"precision":"city","confidence":"high","note":"host city"}
+{"qid":74118886,"place":"Valencia","lat":39.4699,"lon":-0.3763,"precision":"city","confidence":"high","note":"host city"}
+{"qid":3786641,"place":"Hong Kong","lat":22.3193,"lon":114.1694,"precision":"city","confidence":"high","note":"host city"}
+{"qid":2414553,"place":"Singapore","lat":1.3521,"lon":103.8198,"precision":"country","confidence":"high","note":"host city-state"}
+{"qid":74118874,"place":"Caldas da Rainha","lat":39.4036,"lon":-9.1342,"precision":"city","confidence":"high","note":"host city"}
+{"qid":6086281,"place":"Honduras","lat":14.8,"lon":-86.6,"precision":"country","confidence":"low","note":"civil war across Honduras"}
+{"qid":677295,"place":"Qizhong Forest Sports City Arena","lat":31.0392,"lon":121.3703,"precision":"site","confidence":"high","note":"venue"}
+{"qid":74118008,"place":"Saint-Malo","lat":48.6493,"lon":-2.0257,"precision":"city","confidence":"high","note":"host city"}
+{"qid":47763822,"place":"Dallas","lat":32.7767,"lon":-96.797,"precision":"city","confidence":"high","note":"host city"}
+{"qid":2990958,"place":"Putra World Trade Centre","lat":3.1668,"lon":101.6934,"precision":"site","confidence":"medium","note":"main venue in Kuala Lumpur"}
+{"qid":141287106,"place":"Dubai Duty Free Tennis Stadium","lat":25.2447,"lon":55.3009,"precision":"site","confidence":"high","note":"venue"}
+{"qid":113213640,"place":"Boston","lat":42.3601,"lon":-71.0589,"precision":"city","confidence":"high","note":"riot in Boston"}
+{"qid":74117035,"place":"Meitar","lat":31.3292,"lon":34.9236,"precision":"city","confidence":"medium","note":"host town"}
+{"qid":124301532,"place":"Piracicaba","lat":-22.7253,"lon":-47.6492,"precision":"city","confidence":"high","note":"host city"}
+{"qid":111396519,"place":"Sanremo","lat":43.8159,"lon":7.776,"precision":"city","confidence":"high","note":"host city"}
+{"qid":97332695,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"online event"}
+{"qid":47514349,"place":"Dallas","lat":32.7767,"lon":-96.797,"precision":"city","confidence":"high","note":"host city"}
+{"qid":74116609,"place":"Montreux","lat":46.4312,"lon":6.9107,"precision":"city","confidence":"high","note":"host city"}
+{"qid":16679088,"place":"Rotorua","lat":-38.1368,"lon":176.2497,"precision":"city","confidence":"high","note":"event based in Rotorua"}
+{"qid":47511562,"place":"Sun Bowl Stadium","lat":31.7708,"lon":-106.5057,"precision":"site","confidence":"high","note":"played at stadium"}
+{"qid":74116595,"place":"Zagreb","lat":45.815,"lon":15.9819,"precision":"city","confidence":"high","note":"host city"}
+{"qid":47507828,"place":"Alamodome","lat":29.417,"lon":-98.4786,"precision":"site","confidence":"high","note":"played at Alamodome"}
+{"qid":27684043,"place":"Colombia","lat":4.5709,"lon":-74.2973,"precision":"country","confidence":"medium","note":"national stage race"}
+{"qid":107021584,"place":"Little Rock, Arkansas","lat":34.7465,"lon":-92.2896,"precision":"city","confidence":"high","note":"host city"}
+{"qid":3353586,"place":"Carson, California","lat":33.8317,"lon":-118.282,"precision":"city","confidence":"high","note":"host city"}
+{"qid":47487886,"place":"Nassau Veterans Memorial Coliseum","lat":40.7228,"lon":-73.59,"precision":"site","confidence":"high","note":"venue"}
+{"qid":4601538,"place":"Sam Boyd Stadium","lat":36.0922,"lon":-115.0108,"precision":"site","confidence":"medium","note":"Las Vegas Bowl venue"}
+{"qid":3968692,"place":"Athens","lat":37.9838,"lon":23.7275,"precision":"city","confidence":"high","note":"host city"}
+{"qid":113245164,"place":"Stockholm","lat":59.3293,"lon":18.0686,"precision":"city","confidence":"high","note":"prize announced in Stockholm"}
+{"qid":113245264,"place":"Stockholm","lat":59.3293,"lon":18.0686,"precision":"city","confidence":"high","note":"prize announced in Stockholm"}
+{"qid":47467357,"place":"Jockey Club Brasileiro","lat":-22.9764,"lon":-43.2243,"precision":"site","confidence":"high","note":"venue"}
+{"qid":113288856,"place":"Olomouc","lat":49.5938,"lon":17.2509,"precision":"city","confidence":"high","note":"host city"}
+{"qid":7932494,"place":"Stamford, Connecticut","lat":41.0534,"lon":-73.5387,"precision":"city","confidence":"high","note":"hosted by Stamford Yacht Club"}
+{"qid":113288903,"place":"Stockholm","lat":59.3293,"lon":18.0686,"precision":"city","confidence":"high","note":"prize announced in Stockholm"}
+{"qid":74116583,"place":"Changsha","lat":28.2282,"lon":112.9388,"precision":"city","confidence":"high","note":"host city"}
+{"qid":111396357,"place":"Salinas, Ecuador","lat":-2.2167,"lon":-80.95,"precision":"city","confidence":"high","note":"host city"}
+{"qid":2065500,"place":"Phillip Island Grand Prix Circuit","lat":-38.5022,"lon":145.2297,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":111396092,"place":"Oeiras, Portugal","lat":38.697,"lon":-9.309,"precision":"city","confidence":"high","note":"host city"}
+{"qid":111396604,"place":"Mexico City","lat":19.4326,"lon":-99.1332,"precision":"city","confidence":"high","note":"host city"}
+{"qid":111396359,"place":"Murcia","lat":37.9922,"lon":-1.1307,"precision":"city","confidence":"high","note":"host city"}
+{"qid":74116344,"place":"Lucas Oil Stadium","lat":39.7601,"lon":-86.1639,"precision":"site","confidence":"high","note":"played at stadium"}
+{"qid":3353817,"place":"Tashkent","lat":41.2995,"lon":69.2401,"precision":"city","confidence":"high","note":"host city"}
+{"qid":3534912,"place":"Oklahoma City","lat":35.4676,"lon":-97.5164,"precision":"city","confidence":"high","note":"host city"}
+{"qid":74116190,"place":"Charlotte, North Carolina","lat":35.2271,"lon":-80.8431,"precision":"city","confidence":"high","note":"host city"}

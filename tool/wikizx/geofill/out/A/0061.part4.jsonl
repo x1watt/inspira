@@ -1,0 +1,50 @@
+{"qid":124409017,"place":"Lebanon","lat":33.8547,"lon":35.8623,"precision":"country","confidence":"low","note":"conflict across Lebanon"}
+{"qid":46993762,"place":"Cotton Bowl (stadium)","lat":32.7792,"lon":-96.7598,"precision":"site","confidence":"medium","note":"played at Cotton Bowl"}
+{"qid":124334216,"place":"Chennai","lat":13.0827,"lon":80.2707,"precision":"city","confidence":"high","note":"host city"}
+{"qid":46939676,"place":"Aloha Stadium","lat":21.3731,"lon":-157.9308,"precision":"site","confidence":"high","note":"played at Aloha Stadium"}
+{"qid":46927572,"place":"Ladd-Peebles Stadium","lat":30.6853,"lon":-88.1186,"precision":"site","confidence":"high","note":"played at stadium"}
+{"qid":73526170,"place":"Kobe","lat":34.6901,"lon":135.1956,"precision":"city","confidence":"high","note":"host city"}
+{"qid":3876649,"place":"Winnetka, Illinois","lat":42.1081,"lon":-87.7359,"precision":"city","confidence":"high","note":"host city"}
+{"qid":3959502,"place":"Kyoto","lat":35.0116,"lon":135.7681,"precision":"city","confidence":"high","note":"host city"}
+{"qid":3534617,"place":"Buenos Aires","lat":-34.6037,"lon":-58.3816,"precision":"city","confidence":"high","note":"host city"}
+{"qid":73513090,"place":"Knoxville, Tennessee","lat":35.9606,"lon":-83.9207,"precision":"city","confidence":"high","note":"host city"}
+{"qid":113430856,"place":"Stockholm","lat":59.3293,"lon":18.0686,"precision":"city","confidence":"high","note":"prize announced in Stockholm"}
+{"qid":107016001,"place":"Ethiopia","lat":9.145,"lon":40.4897,"precision":"country","confidence":"low","note":"battle site in northwest Ethiopia"}
+{"qid":6123592,"place":"Peru","lat":-9.19,"lon":-75.0152,"precision":"country","confidence":"low","note":"campaign in southern Peru"}
+{"qid":46599261,"place":"Albertsons Stadium","lat":43.6026,"lon":-116.1964,"precision":"site","confidence":"high","note":"played at stadium"}
+{"qid":4017728,"place":"Commack, New York","lat":40.8429,"lon":-73.2929,"precision":"city","confidence":"high","note":"host town"}
+{"qid":73490718,"place":"Bratislava","lat":48.1486,"lon":17.1077,"precision":"city","confidence":"high","note":"host city"}
+{"qid":1576166,"place":"City of Arts and Sciences","lat":39.4543,"lon":-0.3504,"precision":"site","confidence":"medium","note":"venue in Valencia"}
+{"qid":12958150,"place":"Montenegro","lat":42.7087,"lon":19.3744,"precision":"country","confidence":"low","note":"policies in Montenegro and Herzegovina"}
+{"qid":4571943,"place":"Autodromo di Pergusa","lat":37.5148,"lon":14.3124,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":4285637,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"ancient text"}
+{"qid":46498705,"place":"Tropicana Field","lat":27.7683,"lon":-82.6534,"precision":"site","confidence":"high","note":"played at Tropicana Field"}
+{"qid":46498682,"place":"Cramton Bowl","lat":32.3786,"lon":-86.2967,"precision":"site","confidence":"high","note":"played at Cramton Bowl"}
+{"qid":105515913,"place":"Concepción, Chile","lat":-36.827,"lon":-73.0503,"precision":"city","confidence":"high","note":"host city"}
+{"qid":72701083,"place":"Guayaquil","lat":-2.171,"lon":-79.9224,"precision":"city","confidence":"high","note":"host city"}
+{"qid":97358315,"place":"Slavonia","lat":45.3,"lon":18.0,"precision":"region","confidence":"medium","note":"campaign in Slavonia"}
+{"qid":6870112,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"manuscript, no location"}
+{"qid":139855818,"place":"Narela","lat":28.8527,"lon":77.0929,"precision":"city","confidence":"medium","note":"battle near Narela"}
+{"qid":46238545,"place":"University Stadium (Albuquerque)","lat":35.0828,"lon":-106.6203,"precision":"site","confidence":"medium","note":"Dreamstyle Stadium"}
+{"qid":113356844,"place":"City of San Marino","lat":43.9424,"lon":12.4578,"precision":"city","confidence":"high","note":"host city"}
+{"qid":113357056,"place":"Chicago","lat":41.8781,"lon":-87.6298,"precision":"city","confidence":"high","note":"host city"}
+{"qid":72697720,"place":"Eckental","lat":49.5436,"lon":11.2111,"precision":"city","confidence":"high","note":"host town"}
+{"qid":5104269,"place":"Odisha","lat":20.9517,"lon":85.0985,"precision":"region","confidence":"low","note":"Kalinga is modern Odisha"}
+{"qid":45915037,"place":"Mercedes-Benz Superdome","lat":29.9511,"lon":-90.0812,"precision":"site","confidence":"high","note":"played at Superdome"}
+{"qid":3782696,"place":"International Tennis Hall of Fame","lat":41.4811,"lon":-71.3086,"precision":"site","confidence":"high","note":"venue in Newport"}
+{"qid":5102951,"place":"Iraq","lat":33.2232,"lon":43.6793,"precision":"country","confidence":"low","note":"bombings across Iraq"}
+{"qid":4601391,"place":"Fort Worth, Texas","lat":32.7555,"lon":-97.3308,"precision":"city","confidence":"high","note":"host city"}
+{"qid":8001127,"place":"Rothrock State Forest","lat":40.7,"lon":-77.75,"precision":"region","confidence":"medium","note":"race in state forests"}
+{"qid":37839667,"place":"Kuala Lumpur","lat":3.139,"lon":101.6869,"precision":"city","confidence":"high","note":"SEA Games host city"}
+{"qid":72690478,"place":"Charlottesville, Virginia","lat":38.0293,"lon":-78.4767,"precision":"city","confidence":"high","note":"host city"}
+{"qid":68616890,"place":"T-Mobile Arena","lat":36.1029,"lon":-115.1784,"precision":"site","confidence":"low","note":"first draft night venue"}
+{"qid":16345711,"place":"Sylhet","lat":24.8949,"lon":91.8687,"precision":"city","confidence":"medium","note":"rebellion in Sylhet region"}
+{"qid":3644953,"place":"Bristol","lat":51.4545,"lon":-2.5879,"precision":"city","confidence":"high","note":"host city"}
+{"qid":8003048,"place":"Oklahoma City","lat":35.4676,"lon":-97.5164,"precision":"city","confidence":"high","note":"host city"}
+{"qid":113358092,"place":"Lima","lat":-12.0464,"lon":-77.0428,"precision":"city","confidence":"high","note":"host city"}
+{"qid":4601614,"place":"Nashville, Tennessee","lat":36.1627,"lon":-86.7816,"precision":"city","confidence":"high","note":"host city"}
+{"qid":42886513,"place":"Củ Chi District","lat":11.0,"lon":106.5,"precision":"region","confidence":"low","note":"Hau Nghia area"}
+{"qid":3842878,"place":"Madrid","lat":40.4168,"lon":-3.7038,"precision":"city","confidence":"high","note":"host city"}
+{"qid":4516669,"place":"Chita, Zabaykalsky Krai","lat":52.0339,"lon":113.5011,"precision":"city","confidence":"medium","note":"operations around Chita"}
+{"qid":113357489,"place":"Meerbusch","lat":51.2606,"lon":6.6828,"precision":"city","confidence":"high","note":"host city"}
+{"qid":8057784,"place":"Chagai District","lat":28.9,"lon":64.6,"precision":"region","confidence":"medium","note":"nuclear tests site"}
