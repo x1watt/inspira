@@ -1,0 +1,50 @@
+{"qid":18701880,"place":"Germany","lat":51.0,"lon":10.0,"precision":"country","confidence":"high","note":"German series"}
+{"qid":131394384,"place":"Melbourne","lat":-37.8136,"lon":144.9631,"precision":"city","confidence":"high","note":"Victoria league"}
+{"qid":48407973,"place":"Hedmark","lat":61.0,"lon":11.5,"precision":"region","confidence":"high","note":"county"}
+{"qid":6975026,"place":"Queensland","lat":-22.5,"lon":144.0,"precision":"region","confidence":"high","note":"state league"}
+{"qid":410779,"place":"Florida","lat":28.0,"lon":-82.0,"precision":"region","confidence":"medium","note":"route in Florida"}
+{"qid":12494831,"place":"Sydney","lat":-33.8688,"lon":151.2093,"precision":"city","confidence":"medium","note":"NSW league"}
+{"qid":7059795,"place":"Northumberland County, New South Wales","lat":-32.9,"lon":151.7,"precision":"region","confidence":"medium","note":"county"}
+{"qid":814935,"place":"Ankara","lat":39.9334,"lon":32.8597,"precision":"city","confidence":"medium","note":"Turkey capital"}
+{"qid":6520020,"place":"Leinster","lat":53.0,"lon":-7.0,"precision":"region","confidence":"high","note":"province"}
+{"qid":1437637,"place":"Europe","lat":50.0,"lon":10.0,"precision":"region","confidence":"low","note":"international"}
+{"qid":48409548,"place":"Nord-Trøndelag","lat":64.3,"lon":12.0,"precision":"region","confidence":"high","note":"county"}
+{"qid":4816770,"place":"North Carolina","lat":35.5,"lon":-80.0,"precision":"region","confidence":"medium","note":"route"}
+{"qid":25004793,"place":"Ohio","lat":40.25,"lon":-82.8,"precision":"region","confidence":"medium","note":"route in Ohio"}
+{"qid":2944426,"place":"Central Tablelands","lat":-33.4,"lon":149.5,"precision":"region","confidence":"medium","note":"region"}
+{"qid":48408821,"place":"Oslo","lat":59.9139,"lon":10.7522,"precision":"city","confidence":"high","note":"capital"}
+{"qid":16985912,"place":"Georgia (U.S. state)","lat":33.9,"lon":-83.5,"precision":"region","confidence":"medium","note":"route in Georgia"}
+{"qid":48409062,"place":"Sogn og Fjordane","lat":61.4,"lon":6.5,"precision":"region","confidence":"high","note":"former county"}
+{"qid":698206,"place":"Yeongnam","lat":35.8,"lon":128.7,"precision":"region","confidence":"medium","note":"southeast Korea"}
+{"qid":48406947,"place":"Akershus","lat":59.95,"lon":11.2,"precision":"region","confidence":"high","note":"county"}
+{"qid":22095949,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"US series"}
+{"qid":3312285,"place":"Gampaha","lat":7.084,"lon":79.999,"precision":"city","confidence":"medium","note":"district seat"}
+{"qid":16984865,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"American series"}
+{"qid":48408698,"place":"Oppland","lat":61.0,"lon":9.5,"precision":"region","confidence":"high","note":"county"}
+{"qid":6361697,"place":"Kandy","lat":7.2906,"lon":80.6337,"precision":"city","confidence":"high","note":"district seat"}
+{"qid":6784376,"place":"Massachusetts","lat":42.36,"lon":-71.8,"precision":"region","confidence":"high","note":"state colleges"}
+{"qid":619248,"place":"Thomond","lat":52.7,"lon":-8.8,"precision":"region","confidence":"medium","note":"clan region"}
+{"qid":316340,"place":"Hesse","lat":50.6,"lon":9.0,"precision":"region","confidence":"high","note":"state league"}
+{"qid":16985890,"place":"Arkansas","lat":35.0,"lon":-92.5,"precision":"region","confidence":"medium","note":"route in Arkansas"}
+{"qid":137822072,"place":"San José Province","lat":9.9333,"lon":-84.0833,"precision":"region","confidence":"high","note":"province"}
+{"qid":6066799,"place":"Iran","lat":32.0,"lon":53.0,"precision":"country","confidence":"high","note":"national league"}
+{"qid":6735950,"place":"Thiruvananthapuram","lat":8.5241,"lon":76.9366,"precision":"city","confidence":"medium","note":"starts there"}
+{"qid":48409687,"place":"Vest-Agder","lat":58.5,"lon":7.0,"precision":"region","confidence":"high","note":"former county"}
+{"qid":878642,"place":"Baden-Württemberg","lat":48.6616,"lon":9.3501,"precision":"region","confidence":"high","note":"state league"}
+{"qid":920397,"place":"Paraná (state)","lat":-24.89,"lon":-51.55,"precision":"region","confidence":"high","note":"state league"}
+{"qid":738682,"place":"Aalst, Belgium","lat":50.936,"lon":4.0356,"precision":"city","confidence":"low","note":"main town"}
+{"qid":975886,"place":"Pará","lat":-3.98,"lon":-52.25,"precision":"region","confidence":"high","note":"state league"}
+{"qid":3243684,"place":"India","lat":22.0,"lon":79.0,"precision":"country","confidence":"medium","note":"India mainly"}
+{"qid":2389438,"place":"Philippines","lat":12.8797,"lon":121.774,"precision":"country","confidence":"high","note":"islands"}
+{"qid":654476,"place":"Armenia","lat":40.0,"lon":45.0,"precision":"country","confidence":"high","note":"Armenian cross-stones"}
+{"qid":693835,"place":"Belgrade","lat":44.8176,"lon":20.4633,"precision":"city","confidence":"medium","note":"Serbia capital"}
+{"qid":130283188,"place":"Sydney","lat":-33.8688,"lon":151.2093,"precision":"city","confidence":"high","note":"metropolitan area"}
+{"qid":316686,"place":"Berlin","lat":52.52,"lon":13.405,"precision":"city","confidence":"low","note":"northeast Germany"}
+{"qid":3986320,"place":"Kurunegala","lat":7.4863,"lon":80.3647,"precision":"city","confidence":"high","note":"district seat"}
+{"qid":5763447,"place":"Hills District, New South Wales","lat":-33.75,"lon":151.0,"precision":"region","confidence":"high","note":"region"}
+{"qid":5208850,"place":"Dahisar","lat":19.25,"lon":72.86,"precision":"city","confidence":"medium","note":"river in Dahisar"}
+{"qid":27064339,"place":"West Bengal","lat":23.0,"lon":87.8,"precision":"region","confidence":"medium","note":"highway"}
+{"qid":25043045,"place":"Ikeja","lat":6.6018,"lon":3.3515,"precision":"city","confidence":"medium","note":"state seat"}
+{"qid":124823367,"place":"South Australia","lat":-34.9285,"lon":138.6007,"precision":"region","confidence":"medium","note":"state league"}
+{"qid":48407243,"place":"Aust-Agder","lat":58.8,"lon":8.0,"precision":"region","confidence":"high","note":"former county"}
+{"qid":3250537,"place":"Kimmeridge","lat":50.61,"lon":-2.13,"precision":"city","confidence":"medium","note":"named for village"}

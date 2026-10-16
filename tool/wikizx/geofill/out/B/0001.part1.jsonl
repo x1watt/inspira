@@ -1,0 +1,50 @@
+{"qid":16849664,"place":"Iowa","lat":42.075,"lon":-93.5,"precision":"region","confidence":"high","note":"state"}
+{"qid":7669202,"place":"Melbourne","lat":-37.8136,"lon":144.9631,"precision":"city","confidence":"medium","note":"based in Melbourne"}
+{"qid":6841065,"place":"Carmarthen","lat":51.8576,"lon":-4.3122,"precision":"city","confidence":"low","note":"HQ Carmarthen"}
+{"qid":2841722,"place":"St Asaph","lat":53.2583,"lon":-3.4421,"precision":"city","confidence":"low","note":"HQ St Asaph"}
+{"qid":337487,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"caste cluster"}
+{"qid":5261700,"place":"Derbyshire","lat":52.93,"lon":-1.5,"precision":"region","confidence":"high","note":"county"}
+{"qid":945048,"place":"Le Mans","lat":48.0061,"lon":0.1996,"precision":"city","confidence":"low","note":"ACO base"}
+{"qid":8268,"place":"Frankfurt","lat":50.1109,"lon":8.6821,"precision":"city","confidence":"medium","note":"ECB seat"}
+{"qid":793457,"place":"Iran","lat":32.0,"lon":53.0,"precision":"country","confidence":"high","note":"national league"}
+{"qid":794564,"place":"Europe","lat":50.0,"lon":10.0,"precision":"region","confidence":"low","note":"mostly Europe"}
+{"qid":1348155,"place":"São Paulo (state)","lat":-22.0,"lon":-49.0,"precision":"region","confidence":"high","note":"state league"}
+{"qid":3028539,"place":"Bergen","lat":60.3913,"lon":5.3221,"precision":"city","confidence":"high","note":"diocese seat"}
+{"qid":11841,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"folk tale"}
+{"qid":2919361,"place":"Indonesia","lat":-2.5,"lon":118.0,"precision":"country","confidence":"medium","note":"largest part"}
+{"qid":765749,"place":"Rio de Janeiro","lat":-22.9068,"lon":-43.1729,"precision":"city","confidence":"high","note":"state league"}
+{"qid":82337,"place":"Isle of Portland","lat":50.55,"lon":-2.44,"precision":"region","confidence":"high","note":"quarried there"}
+{"qid":20963720,"place":"Alentejo","lat":38.57,"lon":-7.91,"precision":"region","confidence":"high","note":"region"}
+{"qid":1852347,"place":"Melbourne","lat":-37.8136,"lon":144.9631,"precision":"city","confidence":"high","note":"Victoria league"}
+{"qid":929341,"place":"Sydney","lat":-33.8688,"lon":151.2093,"precision":"city","confidence":"medium","note":"NSW league"}
+{"qid":1261053,"place":"China","lat":35.0,"lon":103.0,"precision":"country","confidence":"medium","note":"origin"}
+{"qid":17100528,"place":"Italy","lat":42.8333,"lon":12.8333,"precision":"country","confidence":"high","note":"national series"}
+{"qid":6273553,"place":"Southern Sydney","lat":-34.0,"lon":151.1,"precision":"region","confidence":"medium","note":"region"}
+{"qid":15735,"place":"Bavaria","lat":48.95,"lon":11.4,"precision":"region","confidence":"high","note":"state league"}
+{"qid":1142361,"place":"Indonesia","lat":-2.5,"lon":118.0,"precision":"country","confidence":"high","note":"islands"}
+{"qid":340179,"place":"Bavaria","lat":48.95,"lon":11.4,"precision":"region","confidence":"high","note":"state league"}
+{"qid":44810,"place":"Pacific Northwest","lat":46.0,"lon":-122.0,"precision":"region","confidence":"medium","note":"said to inhabit"}
+{"qid":290760,"place":"Quebec","lat":52.0,"lon":-71.0,"precision":"region","confidence":"high","note":"Quebec body"}
+{"qid":913771,"place":"British Columbia","lat":53.7267,"lon":-127.6476,"precision":"region","confidence":"high","note":"mostly BC"}
+{"qid":1517523,"place":"North Atlantic","lat":null,"lon":null,"precision":"none","confidence":"low","note":"rock assemblage"}
+{"qid":10881724,"place":"Iran","lat":32.0,"lon":53.0,"precision":"country","confidence":"high","note":"national league"}
+{"qid":1131953,"place":"Sydney","lat":-33.8688,"lon":151.2093,"precision":"city","confidence":"high","note":"Sydney competition"}
+{"qid":1887849,"place":"Rio Grande do Sul","lat":-30.0,"lon":-53.0,"precision":"region","confidence":"high","note":"state league"}
+{"qid":2950715,"place":"France","lat":46.6,"lon":2.3,"precision":"country","confidence":"high","note":"national series"}
+{"qid":555836,"place":"Duisburg","lat":51.4344,"lon":6.7623,"precision":"city","confidence":"high","note":"association based there"}
+{"qid":48408145,"place":"Hordaland","lat":60.3,"lon":6.0,"precision":"region","confidence":"high","note":"former county"}
+{"qid":7568892,"place":"South West Tasmania","lat":-43.0,"lon":146.0,"precision":"region","confidence":"high","note":"region"}
+{"qid":28219950,"place":"Dubai","lat":25.2048,"lon":55.2708,"precision":"city","confidence":"low","note":"UAE series"}
+{"qid":3239254,"place":"Punjab","lat":31.0,"lon":75.0,"precision":"region","confidence":"medium","note":"origin"}
+{"qid":3112571,"place":"Hobart","lat":-42.8821,"lon":147.3272,"precision":"city","confidence":"high","note":"capital"}
+{"qid":628286,"place":"Pernambuco","lat":-8.38,"lon":-37.9,"precision":"region","confidence":"high","note":"state league"}
+{"qid":48408553,"place":"Nordland","lat":67.0,"lon":15.0,"precision":"region","confidence":"high","note":"county"}
+{"qid":731877,"place":"Minas Gerais","lat":-18.5,"lon":-44.5,"precision":"region","confidence":"high","note":"state league"}
+{"qid":48408247,"place":"Møre og Romsdal","lat":62.5,"lon":7.5,"precision":"region","confidence":"high","note":"county"}
+{"qid":913840,"place":"Alberta","lat":55.0,"lon":-115.0,"precision":"region","confidence":"high","note":"Alberta league"}
+{"qid":48409456,"place":"Trondheim","lat":63.4305,"lon":10.3951,"precision":"city","confidence":"low","note":"Sør-Trøndelag centre"}
+{"qid":7927324,"place":"Melbourne","lat":-37.8136,"lon":144.9631,"precision":"city","confidence":"high","note":"Victoria league"}
+{"qid":7059002,"place":"North Shore, Sydney","lat":-33.8,"lon":151.2,"precision":"region","confidence":"medium","note":"north shore"}
+{"qid":129628,"place":"Himalayas","lat":28.0,"lon":86.0,"precision":"region","confidence":"medium","note":"said to inhabit"}
+{"qid":48408938,"place":"Rogaland","lat":59.0,"lon":6.0,"precision":"region","confidence":"high","note":"county"}
+{"qid":2445948,"place":"Interstate 44 in Missouri","lat":37.9,"lon":-92.0,"precision":"region","confidence":"medium","note":"route"}

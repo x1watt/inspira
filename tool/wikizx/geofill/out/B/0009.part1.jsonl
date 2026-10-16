@@ -1,0 +1,50 @@
+{"qid":1413800,"place":"Nepal","lat":28.3949,"lon":84.124,"precision":"country","confidence":"medium","note":"country-wide church"}
+{"qid":19876872,"place":"Portsmouth, Virginia","lat":36.8354,"lon":-76.2983,"precision":"city","confidence":"high","note":"freeway in Portsmouth"}
+{"qid":5296781,"place":"South Carolina","lat":33.8361,"lon":-81.1637,"precision":"region","confidence":"medium","note":"formation in South Carolina"}
+{"qid":5327868,"place":"New England","lat":42.0,"lon":-72.5,"precision":"region","confidence":"low","note":"formation in New England"}
+{"qid":28185650,"place":"Grenada, Mississippi","lat":33.769,"lon":-89.8084,"precision":"city","confidence":"medium","note":"western terminus Grenada"}
+{"qid":1050842,"place":"Cathedral Peak (California)","lat":37.8467,"lon":-119.4213,"precision":"site","confidence":"medium","note":"type locality"}
+{"qid":28185809,"place":"Benton County, Tennessee","lat":36.0,"lon":-88.1,"precision":"region","confidence":"medium","note":"runs through Benton County"}
+{"qid":6825900,"place":"Nayarit","lat":21.8,"lon":-105.0,"precision":"region","confidence":"medium","note":"highway within Nayarit"}
+{"qid":28185923,"place":"Monroe County, Arkansas","lat":34.7,"lon":-91.2,"precision":"region","confidence":"medium","note":"route in Monroe County"}
+{"qid":7603307,"place":"Kilimanoor","lat":8.7667,"lon":76.8667,"precision":"city","confidence":"medium","note":"starts in Kilimanoor"}
+{"qid":6825780,"place":"Mexico","lat":23.6,"lon":-102.5,"precision":"country","confidence":"low","note":"long highway corridor"}
+{"qid":28224691,"place":"Cumbria","lat":54.6,"lon":-2.7,"precision":"region","confidence":"medium","note":"northwest England strata"}
+{"qid":4740592,"place":"Baden","lat":48.0,"lon":8.0,"precision":"region","confidence":"low","note":"Südbaden region league"}
+{"qid":16982200,"place":"Jasper County, Georgia","lat":33.3,"lon":-83.7,"precision":"region","confidence":"medium","note":"central Georgia byway"}
+{"qid":16981593,"place":"Dexter, Maine","lat":45.0214,"lon":-69.2917,"precision":"city","confidence":"medium","note":"starts in Dexter"}
+{"qid":7603309,"place":"Ayoor","lat":8.9,"lon":76.8667,"precision":"city","confidence":"medium","note":"starts in Ayoor"}
+{"qid":15128480,"place":"Tepoztlán","lat":18.9853,"lon":-99.0944,"precision":"city","confidence":"medium","note":"Tepoztlán to Cuernavaca"}
+{"qid":6825813,"place":"Tuxtepec","lat":18.0833,"lon":-96.1167,"precision":"city","confidence":"medium","note":"south of Tuxtepec"}
+{"qid":6986672,"place":"Appalachian Mountains","lat":38.0,"lon":-80.0,"precision":"region","confidence":"low","note":"bedrock unit across states"}
+{"qid":5353837,"place":"Alborz","lat":36.0,"lon":52.0,"precision":"region","confidence":"medium","note":"Alborz range"}
+{"qid":7603313,"place":"Palakkad","lat":10.7867,"lon":76.6548,"precision":"city","confidence":"medium","note":"starts in Palakkad"}
+{"qid":30591003,"place":"West Virginia","lat":38.6,"lon":-80.6,"precision":"region","confidence":"low","note":"planned pipeline start"}
+{"qid":30594284,"place":"Yosemite National Park","lat":37.8651,"lon":-119.5383,"precision":"region","confidence":"medium","note":"found in Yosemite"}
+{"qid":30598257,"place":"West Bengal","lat":22.9868,"lon":87.855,"precision":"region","confidence":"medium","note":"state highway"}
+{"qid":6825824,"place":"Tizimín","lat":21.1428,"lon":-88.15,"precision":"city","confidence":"medium","note":"Tizimín to Mérida"}
+{"qid":30609030,"place":"West Bengal","lat":22.9868,"lon":87.855,"precision":"region","confidence":"medium","note":"state highway"}
+{"qid":30639950,"place":"Avalon Peninsula","lat":47.0,"lon":-53.0,"precision":"region","confidence":"medium","note":"Avalon peninsula outcrop"}
+{"qid":5355192,"place":"Karratha","lat":-20.7364,"lon":116.8461,"precision":"city","confidence":"low","note":"northwest Pilbara district"}
+{"qid":30640017,"place":"South Bass Island","lat":41.65,"lon":-82.8167,"precision":"site","confidence":"medium","note":"type locality"}
+{"qid":30640018,"place":"St. Ignace, Michigan","lat":45.8669,"lon":-84.7227,"precision":"city","confidence":"medium","note":"named for St. Ignace"}
+{"qid":30640038,"place":"Michigan","lat":44.3,"lon":-85.6,"precision":"region","confidence":"low","note":"formation in Michigan"}
+{"qid":30640045,"place":"Michigan","lat":44.3,"lon":-85.6,"precision":"region","confidence":"low","note":"formation in Michigan"}
+{"qid":30640074,"place":"Saginaw, Michigan","lat":43.4195,"lon":-83.9508,"precision":"city","confidence":"low","note":"Saginaw Basin"}
+{"qid":30640391,"place":"Weverton, Maryland","lat":39.3406,"lon":-77.6722,"precision":"city","confidence":"low","note":"named for Weverton"}
+{"qid":30640397,"place":"Elbrook, Virginia","lat":37.3,"lon":-79.9,"precision":"region","confidence":"low","note":"Appalachian formation"}
+{"qid":30640398,"place":"Waynesboro, Pennsylvania","lat":39.7559,"lon":-77.5772,"precision":"city","confidence":"medium","note":"named for Waynesboro"}
+{"qid":30640438,"place":"West Virginia","lat":38.6,"lon":-80.6,"precision":"region","confidence":"low","note":"formation in West Virginia"}
+{"qid":30640481,"place":"Huntersville, West Virginia","lat":38.1,"lon":-80.0,"precision":"city","confidence":"low","note":"named for Huntersville"}
+{"qid":6825774,"place":"Michapa","lat":18.6,"lon":-99.0,"precision":"region","confidence":"low","note":"Michapa to Amacuzac"}
+{"qid":30640747,"place":"Avalon Peninsula","lat":47.0,"lon":-53.0,"precision":"region","confidence":"medium","note":"Avalon Zone Newfoundland"}
+{"qid":6825777,"place":"Jiménez, Tamaulipas","lat":27.1333,"lon":-98.4833,"precision":"city","confidence":"medium","note":"starts at Jiménez"}
+{"qid":15128493,"place":"Campeche","lat":19.0,"lon":-90.3,"precision":"region","confidence":"medium","note":"within Campeche"}
+{"qid":30640907,"place":"Heart's Content, Newfoundland and Labrador","lat":47.8833,"lon":-53.3667,"precision":"city","confidence":"medium","note":"named for Heart's Content"}
+{"qid":6825878,"place":"Mexico","lat":23.6,"lon":-102.5,"precision":"country","confidence":"low","note":"long highway corridor"}
+{"qid":30640921,"place":"Cape Ballard","lat":46.6,"lon":-52.9,"precision":"city","confidence":"medium","note":"named for Cape Ballard"}
+{"qid":30640922,"place":"Cappahayden","lat":46.8,"lon":-52.9,"precision":"city","confidence":"medium","note":"named for Cappahayden"}
+{"qid":30640926,"place":"Ferryland","lat":47.0236,"lon":-52.8736,"precision":"city","confidence":"medium","note":"Ferryland Head"}
+{"qid":6825842,"place":"Chichihualco","lat":17.6544,"lon":-99.6833,"precision":"city","confidence":"medium","note":"spur from Chichihualco"}
+{"qid":30644347,"place":"Crab Orchard, Kentucky","lat":37.4631,"lon":-84.5033,"precision":"city","confidence":"medium","note":"named for Crab Orchard"}
+{"qid":6825843,"place":"Tierra Colorada","lat":17.1667,"lon":-99.5333,"precision":"city","confidence":"medium","note":"Cruz Grande to Tierra Colorada"}

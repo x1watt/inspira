@@ -1,0 +1,50 @@
+{"qid":24882932,"place":"Smith County, Tennessee","lat":36.25,"lon":-85.95,"precision":"region","confidence":"medium","note":"Smith and Macon Counties"}
+{"qid":2487087,"place":"Cattaraugus County, New York","lat":42.24,"lon":-78.66,"precision":"region","confidence":"medium","note":"Cattaraugus County"}
+{"qid":2487650,"place":"Dutchess County, New York","lat":41.76,"lon":-73.74,"precision":"region","confidence":"medium","note":"Dutchess County"}
+{"qid":131320056,"place":"Canton of Glarus","lat":46.98,"lon":9.07,"precision":"region","confidence":"high","note":"Glarus Alps"}
+{"qid":25006144,"place":"South Carolina","lat":33.8361,"lon":-81.1637,"precision":"region","confidence":"low","note":"rural South Carolina"}
+{"qid":16423164,"place":"Norðurland vestra","lat":65.5,"lon":-20.0,"precision":"region","confidence":"medium","note":"northwestern Iceland"}
+{"qid":30640916,"place":"Newfoundland","lat":48.5,"lon":-56.0,"precision":"region","confidence":"medium","note":"Newfoundland"}
+{"qid":25006165,"place":"Fair Play, South Carolina","lat":34.5,"lon":-82.99,"precision":"city","confidence":"medium","note":"connects Fair Play, Oakway"}
+{"qid":3025280,"place":"Vidzeme","lat":57.5,"lon":25.5,"precision":"region","confidence":"high","note":"Vidzeme region"}
+{"qid":2487664,"place":"Chautauqua County, New York","lat":42.3,"lon":-79.4,"precision":"region","confidence":"medium","note":"Chautauqua County"}
+{"qid":25006222,"place":"Branchville, South Carolina","lat":33.25,"lon":-80.82,"precision":"city","confidence":"medium","note":"connects Branchville and Bowman"}
+{"qid":60786380,"place":"Imphal","lat":24.817,"lon":93.9368,"precision":"city","confidence":"medium","note":"Greater Imphal area"}
+{"qid":25006256,"place":"Santee, South Carolina","lat":33.49,"lon":-80.48,"precision":"city","confidence":"medium","note":"Santee area"}
+{"qid":25006278,"place":"Westminster, South Carolina","lat":34.664,"lon":-83.097,"precision":"city","confidence":"medium","note":"connects Westminster and Anderson"}
+{"qid":134127109,"place":"Parnaíba Basin","lat":-6.0,"lon":-43.0,"precision":"region","confidence":"medium","note":"Parnaiba Basin"}
+{"qid":134376270,"place":"Prayagraj","lat":25.4358,"lon":81.8463,"precision":"city","confidence":"medium","note":"Allahabad district"}
+{"qid":5124893,"place":"Midland Valley","lat":56.0,"lon":-4.0,"precision":"region","confidence":"medium","note":"Midland Valley of Scotland"}
+{"qid":115376592,"place":"Santiago, Chile","lat":-33.4489,"lon":-70.6693,"precision":"city","confidence":"medium","note":"Santiago district"}
+{"qid":115376595,"place":"Santiago, Chile","lat":-33.4489,"lon":-70.6693,"precision":"city","confidence":"medium","note":"Santiago district"}
+{"qid":25006680,"place":"South Carolina","lat":33.8361,"lon":-81.1637,"precision":"region","confidence":"low","note":"rural South Carolina"}
+{"qid":25006714,"place":"South Carolina","lat":33.8361,"lon":-81.1637,"precision":"region","confidence":"low","note":"rural South Carolina"}
+{"qid":25006723,"place":"Central Arkansas","lat":34.8,"lon":-92.3,"precision":"region","confidence":"low","note":"Central Arkansas"}
+{"qid":115376604,"place":"Los Lagos Region","lat":-41.9,"lon":-72.8,"precision":"region","confidence":"medium","note":"Los Lagos district"}
+{"qid":16156835,"place":"Ridgeland, South Carolina","lat":32.4807,"lon":-80.9776,"precision":"city","confidence":"medium","note":"connects Ridgeland"}
+{"qid":134622153,"place":"Wabasso, Florida","lat":27.75,"lon":-80.44,"precision":"city","confidence":"medium","note":"Wabasso Road"}
+{"qid":5132174,"place":"Staithes","lat":54.5593,"lon":-0.7878,"precision":"city","confidence":"medium","note":"cliffs near Staithes"}
+{"qid":16243011,"place":"Appalachian Mountains","lat":36.0,"lon":-82.0,"precision":"region","confidence":"medium","note":"southern Appalachians"}
+{"qid":135234369,"place":"Kentucky","lat":37.5,"lon":-85.3,"precision":"region","confidence":"low","note":"exposures in Kentucky"}
+{"qid":135263773,"place":"Chicago","lat":41.8781,"lon":-87.6298,"precision":"city","confidence":"high","note":"Chicago ward"}
+{"qid":135285618,"place":"Noxapater, Mississippi","lat":33.0,"lon":-89.06,"precision":"city","confidence":"medium","note":"western terminus Noxapater"}
+{"qid":27064345,"place":"West Bengal","lat":22.9868,"lon":87.855,"precision":"region","confidence":"low","note":"West Bengal highway"}
+{"qid":13618787,"place":"Wharton, Texas","lat":29.3116,"lon":-96.1027,"precision":"city","confidence":"medium","note":"begins in Wharton"}
+{"qid":1580755,"place":"Miri, Malaysia","lat":4.3995,"lon":113.9914,"precision":"city","confidence":"high","note":"diocese seat Miri"}
+{"qid":877907,"place":"Villarrica, Paraguay","lat":-25.75,"lon":-56.4333,"precision":"city","confidence":"high","note":"diocese seat Villarrica"}
+{"qid":875209,"place":"Ruteng","lat":-8.6136,"lon":120.47,"precision":"city","confidence":"high","note":"diocese in Ruteng"}
+{"qid":875943,"place":"San Vicente, El Salvador","lat":13.64,"lon":-88.7833,"precision":"city","confidence":"high","note":"diocese seat San Vicente"}
+{"qid":1025375,"place":"Belgium","lat":50.5039,"lon":4.4699,"precision":"country","confidence":"low","note":"Belgium and France"}
+{"qid":426006,"place":"Fengxiang County","lat":34.52,"lon":107.4,"precision":"city","confidence":"medium","note":"Fengxiang Shaanxi"}
+{"qid":16948874,"place":"Bor, South Sudan","lat":6.209,"lon":31.56,"precision":"city","confidence":"medium","note":"south of Bor"}
+{"qid":871990,"place":"Cologne","lat":50.9375,"lon":6.9603,"precision":"city","confidence":"low","note":"western Germany"}
+{"qid":28179341,"place":"West Bengal","lat":22.9868,"lon":87.855,"precision":"region","confidence":"low","note":"West Bengal highway"}
+{"qid":6624464,"place":"Hawaii","lat":20.7967,"lon":-156.3319,"precision":"region","confidence":"medium","note":"Hawaiian Islands"}
+{"qid":420451,"place":"Ujjain","lat":23.1765,"lon":75.7885,"precision":"city","confidence":"medium","note":"cathedral at Ujjain"}
+{"qid":132891363,"place":"Minneapolis","lat":44.9778,"lon":-93.265,"precision":"city","confidence":"high","note":"downtown Minneapolis"}
+{"qid":620436,"place":"Tabuk, Kalinga","lat":17.41,"lon":121.44,"precision":"city","confidence":"high","note":"vicariate seat Tabuk"}
+{"qid":831261,"place":"Spokane County, Washington","lat":47.62,"lon":-117.4,"precision":"region","confidence":"medium","note":"Spokane and Pend Oreille"}
+{"qid":28185897,"place":"Southwest Arkansas","lat":33.5,"lon":-93.5,"precision":"region","confidence":"low","note":"southwest Arkansas"}
+{"qid":136436532,"place":"Cebu City","lat":10.3157,"lon":123.8854,"precision":"city","confidence":"high","note":"Cebu City and Mandaue"}
+{"qid":6772217,"place":"Dives-sur-Mer","lat":49.28,"lon":-0.1,"precision":"city","confidence":"medium","note":"Marnes de Dives"}
+{"qid":16970486,"place":"Cambridge, Vermont","lat":44.64,"lon":-72.88,"precision":"city","confidence":"medium","note":"VT 15 in Cambridge"}

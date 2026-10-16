@@ -1,0 +1,50 @@
+{"qid":7169746,"place":"Pooncarie, New South Wales","lat":-33.3833,"lon":142.5667,"precision":"city","confidence":"medium","note":"near Pooncarie"}
+{"qid":4952319,"place":"Coleambally, New South Wales","lat":-34.801,"lon":145.878,"precision":"city","confidence":"medium","note":"contains Coleambally"}
+{"qid":51882218,"place":"Pernambuco","lat":-8.38,"lon":-37.86,"precision":"region","confidence":"high","note":"state league"}
+{"qid":18217403,"place":"Maryland","lat":38.9784,"lon":-76.4922,"precision":"region","confidence":"medium","note":"Maryland and Virginia"}
+{"qid":18158408,"place":"Maryland","lat":39.0458,"lon":-76.6413,"precision":"region","confidence":"low","note":"multi-state group"}
+{"qid":2355183,"place":"Leelanau County, Michigan","lat":44.88,"lon":-85.99,"precision":"region","confidence":"high","note":"Sleeping Bear Dunes"}
+{"qid":8067592,"place":"Buryatia","lat":53.0,"lon":109.0,"precision":"region","confidence":"high","note":"Buryatia"}
+{"qid":17515264,"place":"Canadian Rockies","lat":51.4,"lon":-116.0,"precision":"region","confidence":"medium","note":"Western Canada"}
+{"qid":6879384,"place":"Mississippi","lat":32.3547,"lon":-89.3985,"precision":"region","confidence":"low","note":"Mississippi lowlands"}
+{"qid":16982590,"place":"Central Valley (California)","lat":37.0,"lon":-120.0,"precision":"region","confidence":"medium","note":"Great Valley"}
+{"qid":7075649,"place":"Ocala, Florida","lat":29.1872,"lon":-82.1401,"precision":"city","confidence":"high","note":"near Ocala"}
+{"qid":4943772,"place":"New South Wales","lat":-31.0,"lon":145.5,"precision":"region","confidence":"low","note":"county location unclear"}
+{"qid":18155418,"place":"Mississippi Embayment","lat":35.0,"lon":-90.0,"precision":"region","confidence":"medium","note":"Mississippi Embayment"}
+{"qid":7986027,"place":"West Moreton","lat":-27.6,"lon":152.3,"precision":"region","confidence":"medium","note":"region itself"}
+{"qid":7975444,"place":"Waverley, Victoria","lat":-37.9,"lon":145.1,"precision":"region","confidence":"low","note":"Melbourne southeast"}
+{"qid":60753146,"place":"Manipur","lat":24.817,"lon":93.9368,"precision":"region","confidence":"medium","note":"Manipur"}
+{"qid":5732502,"place":"Anatolia","lat":37.5,"lon":30.5,"precision":"region","confidence":"medium","note":"southwestern Anatolia"}
+{"qid":5957313,"place":"Iran","lat":32.0,"lon":53.0,"precision":"country","confidence":"medium","note":"Iranian decoration"}
+{"qid":5223912,"place":"Manilla, New South Wales","lat":-30.75,"lon":150.7167,"precision":"city","confidence":"medium","note":"includes Manilla"}
+{"qid":2487119,"place":"New York (state)","lat":42.9,"lon":-75.5,"precision":"region","confidence":"low","note":"central New York"}
+{"qid":17510602,"place":"Maine","lat":44.0,"lon":-70.8,"precision":"region","confidence":"low","note":"southwestern Maine"}
+{"qid":131345245,"place":"Brisbane","lat":-27.4698,"lon":153.0251,"precision":"city","confidence":"high","note":"Brisbane league"}
+{"qid":7603264,"place":"Telangana","lat":18.1,"lon":79.5,"precision":"region","confidence":"medium","note":"northern Telangana"}
+{"qid":85752443,"place":"Poland","lat":53.0,"lon":16.0,"precision":"country","confidence":"low","note":"Baltic coast Poland"}
+{"qid":7675960,"place":"Canada","lat":58.0,"lon":-95.0,"precision":"country","confidence":"medium","note":"subarctic Canada"}
+{"qid":130485088,"place":"Mithila","lat":26.5,"lon":86.0,"precision":"region","confidence":"medium","note":"Mithila region"}
+{"qid":7650567,"place":"Florida","lat":29.5,"lon":-82.5,"precision":"region","confidence":"medium","note":"North Florida"}
+{"qid":130382148,"place":"Wadi El Hitan","lat":29.27,"lon":30.04,"precision":"site","confidence":"medium","note":"Wadi al Hitan"}
+{"qid":1582127,"place":"Linz","lat":48.3069,"lon":14.2858,"precision":"city","confidence":"medium","note":"Linz district"}
+{"qid":278475,"place":"New Orleans","lat":29.9511,"lon":-90.0715,"precision":"city","confidence":"high","note":"killer in New Orleans"}
+{"qid":6984145,"place":"South Carolina","lat":34.0,"lon":-81.0,"precision":"region","confidence":"low","note":"state highway"}
+{"qid":2355126,"place":"Hancock, Michigan","lat":47.1269,"lon":-88.5827,"precision":"city","confidence":"medium","note":"Hancock to Calumet"}
+{"qid":7603302,"place":"Kerala","lat":9.95,"lon":76.3,"precision":"region","confidence":"low","note":"Palarivattom to Thekkady"}
+{"qid":1032273,"place":"Canada","lat":55.0,"lon":-110.0,"precision":"country","confidence":"low","note":"Western Canada boreal"}
+{"qid":68925808,"place":"Mississippi","lat":32.7,"lon":-89.7,"precision":"region","confidence":"low","note":"state highway"}
+{"qid":121297182,"place":"London Borough of Havering","lat":51.55,"lon":0.2,"precision":"region","confidence":"high","note":"Havering area"}
+{"qid":836964,"place":"Pierce County, Washington","lat":46.8,"lon":-122.0,"precision":"region","confidence":"medium","note":"Pierce County"}
+{"qid":25006168,"place":"South Carolina","lat":33.5,"lon":-81.7,"precision":"region","confidence":"low","note":"state highway"}
+{"qid":124518412,"place":"Gaborone","lat":-24.6282,"lon":25.9231,"precision":"city","confidence":"high","note":"Gaborone constituency"}
+{"qid":25006078,"place":"Camden, South Carolina","lat":34.2463,"lon":-80.607,"precision":"city","confidence":"low","note":"starts at Camden"}
+{"qid":123677508,"place":"London Borough of Croydon","lat":51.3714,"lon":-0.0977,"precision":"region","confidence":"high","note":"Croydon area"}
+{"qid":7603310,"place":"Guruvayur","lat":10.5947,"lon":76.0403,"precision":"city","confidence":"medium","note":"starts in Guruvayoor"}
+{"qid":620355,"place":"Jolo, Sulu","lat":6.05,"lon":121.0,"precision":"city","confidence":"medium","note":"seat at Jolo"}
+{"qid":74870,"place":"Robertson County, Tennessee","lat":36.53,"lon":-86.87,"precision":"region","confidence":"high","note":"Bell family area"}
+{"qid":123162877,"place":"London Borough of Redbridge","lat":51.59,"lon":0.08,"precision":"region","confidence":"high","note":"Redbridge area"}
+{"qid":123776863,"place":"Benin City","lat":6.335,"lon":5.6037,"precision":"city","confidence":"medium","note":"Edo seat of government"}
+{"qid":25006035,"place":"Orangeburg, South Carolina","lat":33.4918,"lon":-80.8556,"precision":"city","confidence":"low","note":"Orangeburg highway"}
+{"qid":7603314,"place":"Perinthalmanna","lat":10.976,"lon":76.226,"precision":"city","confidence":"medium","note":"ends at Perinthalmanna"}
+{"qid":123125641,"place":"London Borough of Hackney","lat":51.545,"lon":-0.0553,"precision":"region","confidence":"high","note":"Hackney area"}
+{"qid":19872068,"place":"Tasmania","lat":-41.8,"lon":146.5,"precision":"region","confidence":"medium","note":"central Tasmania"}

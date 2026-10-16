@@ -1,0 +1,50 @@
+{"qid":55316929,"place":"South Portland, Maine","lat":43.6415,"lon":-70.2409,"precision":"city","confidence":"high","note":"road in South Portland"}
+{"qid":4693148,"place":"South Carolina","lat":33.8361,"lon":-81.1637,"precision":"region","confidence":"medium","note":"apparition in South Carolina"}
+{"qid":55624145,"place":"Ermington, New South Wales","lat":-33.817,"lon":151.0517,"precision":"city","confidence":"medium","note":"municipality area"}
+{"qid":56062943,"place":"Meadville, Mississippi","lat":31.4768,"lon":-90.8984,"precision":"city","confidence":"high","note":"highway starts at Meadville"}
+{"qid":3848716,"place":"England","lat":52.5,"lon":-1.5,"precision":"country","confidence":"medium","note":"lowland England ecoregion"}
+{"qid":18158423,"place":"Ohio","lat":40.4,"lon":-82.8,"precision":"region","confidence":"medium","note":"formation in Ohio"}
+{"qid":56276788,"place":"Buckinghamshire","lat":51.8,"lon":-0.8,"precision":"region","confidence":"medium","note":"inlier in Buckinghamshire"}
+{"qid":56277830,"place":"Brassington","lat":53.0951,"lon":-1.6794,"precision":"city","confidence":"medium","note":"Bees' Nest Pit near Brassington"}
+{"qid":56283854,"place":"Carriere, Mississippi","lat":30.6238,"lon":-89.6528,"precision":"city","confidence":"medium","note":"highway started at Carriere"}
+{"qid":4861261,"place":"Chitral District","lat":35.85,"lon":71.78,"precision":"region","confidence":"low","note":"cryptid of Chitral area"}
+{"qid":56291137,"place":"Mackenzie Mountains","lat":64.0,"lon":-130.0,"precision":"region","confidence":"medium","note":"formation in Mackenzie Mountains"}
+{"qid":56473975,"place":"Asir Province","lat":18.2,"lon":42.5,"precision":"region","confidence":"high","note":"art of Asir"}
+{"qid":24009843,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"medium","note":"killings in Moscow"}
+{"qid":55616420,"place":"Simojovel","lat":17.1333,"lon":-92.7167,"precision":"city","confidence":"medium","note":"formation at Simojovel"}
+{"qid":3532948,"place":"Baffin Island","lat":68.0,"lon":-70.0,"precision":"region","confidence":"high","note":"ecoregion on Baffin Island"}
+{"qid":5364294,"place":"Batu Pahat District","lat":1.85,"lon":102.93,"precision":"region","confidence":"medium","note":"mukim in district"}
+{"qid":5367837,"place":"Birmingham, Alabama","lat":33.5186,"lon":-86.8104,"precision":"city","confidence":"high","note":"expressway in Birmingham"}
+{"qid":13534399,"place":"Conway County, Arkansas","lat":35.25,"lon":-92.7,"precision":"region","confidence":"high","note":"highway in county"}
+{"qid":60762536,"place":"Idyllwild-Pine Cove, California","lat":33.7461,"lon":-116.7164,"precision":"city","confidence":"high","note":"serves Idyllwild"}
+{"qid":60768430,"place":"Ravenstonedale","lat":54.4333,"lon":-2.4333,"precision":"city","confidence":"medium","note":"named after Ravenstonedale"}
+{"qid":18158639,"place":"Michigan","lat":44.3,"lon":-85.6,"precision":"region","confidence":"medium","note":"formation in Michigan"}
+{"qid":18158654,"place":"New York (state)","lat":42.9,"lon":-75.5,"precision":"region","confidence":"medium","note":"formation in New York"}
+{"qid":60785499,"place":"Harrington Park, New South Wales","lat":-34.0,"lon":150.7,"precision":"city","confidence":"high","note":"community in Harrington Park"}
+{"qid":60785990,"place":"Everton, Arkansas","lat":36.1561,"lon":-93.1349,"precision":"city","confidence":"medium","note":"named after Everton"}
+{"qid":7603340,"place":"Pali district","lat":25.77,"lon":73.33,"precision":"region","confidence":"high","note":"highway in Pali district"}
+{"qid":985330,"place":"Fishers, Indiana","lat":39.9568,"lon":-86.0134,"precision":"city","confidence":"high","note":"road near Fishers"}
+{"qid":4931127,"place":"Mission, Kansas","lat":39.0278,"lon":-94.6558,"precision":"city","confidence":"high","note":"ran through Mission"}
+{"qid":15632543,"place":"Ogbojo","lat":5.7,"lon":-0.15,"precision":"city","confidence":"medium","note":"town in Adentan"}
+{"qid":18210613,"place":"Transcaucasia","lat":41.0,"lon":45.0,"precision":"region","confidence":"low","note":"region of formation"}
+{"qid":18153974,"place":"Key Largo","lat":25.0865,"lon":-80.4473,"precision":"city","confidence":"medium","note":"exposed on Florida Keys"}
+{"qid":18155378,"place":"Miami","lat":25.7617,"lon":-80.1918,"precision":"city","confidence":"medium","note":"southeast Florida limestone"}
+{"qid":2435678,"place":"Louisiana","lat":30.9843,"lon":-91.9623,"precision":"region","confidence":"low","note":"state highway"}
+{"qid":18217291,"place":"Appalachia","lat":37.0,"lon":-81.0,"precision":"region","confidence":"low","note":"Appalachian outcrop"}
+{"qid":18390846,"place":"Kansas","lat":38.5,"lon":-98.0,"precision":"region","confidence":"low","note":"exposure through Kansas"}
+{"qid":18217363,"place":"Socastee, South Carolina","lat":33.6924,"lon":-78.9906,"precision":"city","confidence":"medium","note":"named after Socastee"}
+{"qid":65062804,"place":"Northeastern United States","lat":42.0,"lon":-73.0,"precision":"region","confidence":"high","note":"conference region"}
+{"qid":65063452,"place":"Windsor, California","lat":38.5471,"lon":-122.8164,"precision":"city","confidence":"medium","note":"serves Windsor area"}
+{"qid":65071209,"place":"Duluth, Minnesota","lat":46.7867,"lon":-92.1005,"precision":"city","confidence":"high","note":"city fire department"}
+{"qid":65080859,"place":"Windsor, New South Wales","lat":-33.6167,"lon":150.8167,"precision":"city","confidence":"high","note":"municipality of Windsor"}
+{"qid":65081954,"place":"Kansas","lat":38.5,"lon":-98.0,"precision":"region","confidence":"low","note":"state highway"}
+{"qid":18217505,"place":"Georgia (U.S. state)","lat":32.65,"lon":-83.43,"precision":"region","confidence":"medium","note":"formation in Georgia"}
+{"qid":65082304,"place":"Kansas","lat":38.5,"lon":-98.0,"precision":"region","confidence":"low","note":"state highway"}
+{"qid":65082317,"place":"Kansas","lat":39.3,"lon":-95.7,"precision":"region","confidence":"low","note":"northeast Kansas highway"}
+{"qid":65083328,"place":"Kansas","lat":37.5,"lon":-98.5,"precision":"region","confidence":"low","note":"state highway"}
+{"qid":65083993,"place":"Kanopolis, Kansas","lat":38.7164,"lon":-98.1553,"precision":"city","confidence":"high","note":"southern terminus Kanopolis"}
+{"qid":65084322,"place":"Greenwood County, Kansas","lat":37.88,"lon":-96.23,"precision":"region","confidence":"high","note":"entirely in county"}
+{"qid":65084614,"place":"Hoxie, Kansas","lat":39.3558,"lon":-100.4396,"precision":"city","confidence":"medium","note":"terminus north of Hoxie"}
+{"qid":65088763,"place":"Riverina","lat":-34.8,"lon":146.5,"precision":"region","confidence":"medium","note":"legend of Riverina"}
+{"qid":1179430,"place":"Tarra River","lat":8.5,"lon":-72.9,"precision":"region","confidence":"low","note":"alleged sighting near Tarra"}
+{"qid":6078461,"place":"Tamil Nadu","lat":11.1271,"lon":78.6569,"precision":"region","confidence":"medium","note":"community in Tamil Nadu"}

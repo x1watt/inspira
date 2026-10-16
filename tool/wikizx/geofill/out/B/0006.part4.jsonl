@@ -1,0 +1,50 @@
+{"qid":9676209,"place":"Manaus","lat":-3.119,"lon":-60.0217,"precision":"city","confidence":"medium","note":"Amazonas federation seat"}
+{"qid":16970569,"place":"Lincoln County, Maine","lat":44.08,"lon":-69.5,"precision":"region","confidence":"medium","note":"southern Lincoln"}
+{"qid":137187878,"place":"Mahmora","lat":26.95,"lon":94.3,"precision":"city","confidence":"low","note":"Mahmora, Sivasagar"}
+{"qid":137187879,"place":"Borkhola","lat":24.85,"lon":92.6,"precision":"city","confidence":"low","note":"Borkhola, Karimganj"}
+{"qid":12987571,"place":"Erode","lat":11.341,"lon":77.7172,"precision":"city","confidence":"medium","note":"connects Erode and Attur"}
+{"qid":7249880,"place":"Bavaria","lat":48.7904,"lon":11.4979,"precision":"region","confidence":"high","note":"Bayernliga Bavaria"}
+{"qid":21044546,"place":"Charnwood Forest","lat":52.7,"lon":-1.3,"precision":"region","confidence":"medium","note":"Charnwood, Leicestershire"}
+{"qid":18152635,"place":"West Virginia","lat":38.5976,"lon":-80.4549,"precision":"region","confidence":"medium","note":"formation in West Virginia"}
+{"qid":3889421,"place":"Sahara","lat":23.0,"lon":13.0,"precision":"region","confidence":"medium","note":"Sahara ecoregion"}
+{"qid":138004627,"place":"Alajuela Province","lat":10.2,"lon":-84.4,"precision":"region","confidence":"medium","note":"Alajuela province"}
+{"qid":16973835,"place":"Knox County, Ohio","lat":40.4,"lon":-82.42,"precision":"region","confidence":"medium","note":"Knox and Holmes Counties"}
+{"qid":138026002,"place":"Heredia Province","lat":10.39,"lon":-84.05,"precision":"region","confidence":"medium","note":"Heredia province"}
+{"qid":138030964,"place":"Puntarenas Province","lat":9.97,"lon":-84.83,"precision":"region","confidence":"medium","note":"Puntarenas province"}
+{"qid":16973846,"place":"Monroe County, Ohio","lat":39.72,"lon":-81.1,"precision":"region","confidence":"medium","note":"Monroe County"}
+{"qid":12783461,"place":"Novo Mesto","lat":45.804,"lon":15.1689,"precision":"city","confidence":"high","note":"Novo Mesto constituency"}
+{"qid":138799054,"place":"Bolivia","lat":-17.0,"lon":-64.0,"precision":"country","confidence":"low","note":"Bolivia formation"}
+{"qid":138940998,"place":"Altiplano","lat":-17.0,"lon":-68.0,"precision":"region","confidence":"low","note":"Bolivian Altiplano"}
+{"qid":6127760,"place":"Tripura","lat":23.7457,"lon":91.7468,"precision":"region","confidence":"high","note":"Tripura clan"}
+{"qid":16975051,"place":"Gatlinburg, Tennessee","lat":35.7143,"lon":-83.5102,"precision":"city","confidence":"high","note":"bypass around Gatlinburg"}
+{"qid":140517845,"place":"Inner Mongolia","lat":44.0935,"lon":113.9448,"precision":"region","confidence":"medium","note":"Inner Mongolia"}
+{"qid":7988534,"place":"Great Plains","lat":42.0,"lon":-101.0,"precision":"region","confidence":"low","note":"US western grasslands"}
+{"qid":16983010,"place":"Dallas","lat":32.7767,"lon":-96.797,"precision":"city","confidence":"medium","note":"Dallas-Fort Worth highway"}
+{"qid":141539179,"place":"New South Wales","lat":-32.0,"lon":150.0,"precision":"region","confidence":"low","note":"eastern Australia"}
+{"qid":7877075,"place":"Tripoli, Libya","lat":32.8872,"lon":13.1913,"precision":"city","confidence":"medium","note":"collected in Tripoli"}
+{"qid":19867651,"place":"Manhattan, Kansas","lat":39.1836,"lon":-96.5717,"precision":"city","confidence":"medium","note":"north of Manhattan"}
+{"qid":19867763,"place":"Cambridge, Vermont","lat":44.64,"lon":-72.88,"precision":"city","confidence":"medium","note":"begins in Cambridge"}
+{"qid":113361419,"place":"Hauraki Plains","lat":-37.3,"lon":175.5,"precision":"region","confidence":"medium","note":"Hauraki rift"}
+{"qid":113449823,"place":"Sambia Peninsula","lat":54.95,"lon":20.0,"precision":"region","confidence":"medium","note":"Sambian Peninsula"}
+{"qid":2862221,"place":"Snowtown, South Australia","lat":-33.7833,"lon":138.2167,"precision":"city","confidence":"high","note":"bodies found in Snowtown"}
+{"qid":17034305,"place":"Victoria (Australia)","lat":-37.8,"lon":145.4,"precision":"region","confidence":"low","note":"Silvan Province electorate"}
+{"qid":19882205,"place":"Bagh, Madhya Pradesh","lat":22.36,"lon":74.83,"precision":"city","confidence":"high","note":"originating in Bagh"}
+{"qid":17510721,"place":"Strong, Maine","lat":44.81,"lon":-70.22,"precision":"city","confidence":"medium","note":"begins in Strong"}
+{"qid":7635515,"place":"Suining","lat":30.5333,"lon":105.5933,"precision":"city","confidence":"medium","note":"named for Suining"}
+{"qid":746198,"place":"Crete","lat":35.2401,"lon":24.8093,"precision":"region","confidence":"high","note":"Cretan Bull"}
+{"qid":1665203,"place":"Cafayate","lat":-26.073,"lon":-65.976,"precision":"city","confidence":"high","note":"prelature seat Cafayate"}
+{"qid":17511874,"place":"Ariège (department)","lat":42.93,"lon":1.4,"precision":"region","confidence":"medium","note":"Ariège"}
+{"qid":13114988,"place":"Ambalapuzha","lat":9.38,"lon":76.37,"precision":"city","confidence":"medium","note":"starts in Ambalapuzha"}
+{"qid":54933039,"place":"Mississippi","lat":32.75,"lon":-89.66,"precision":"region","confidence":"low","note":"southwestern Mississippi"}
+{"qid":19875879,"place":"Richford, Vermont","lat":44.9936,"lon":-72.672,"precision":"city","confidence":"high","note":"within Richford"}
+{"qid":17513299,"place":"South Carolina","lat":33.8361,"lon":-81.1637,"precision":"region","confidence":"medium","note":"formation in South Carolina"}
+{"qid":113946557,"place":"Firth of Thames","lat":-37.05,"lon":175.4,"precision":"region","confidence":"medium","note":"Firth of Thames"}
+{"qid":113954202,"place":"Hauraki Plains","lat":-37.3,"lon":175.5,"precision":"region","confidence":"medium","note":"Hauraki rift east side"}
+{"qid":17514874,"place":"New York (state)","lat":42.9538,"lon":-75.5268,"precision":"region","confidence":"medium","note":"formation in New York"}
+{"qid":2487973,"place":"Bennington, Vermont","lat":42.8781,"lon":-73.1968,"precision":"city","confidence":"high","note":"bypass of Bennington"}
+{"qid":17515486,"place":"Rhode Island","lat":41.7,"lon":-71.5,"precision":"region","confidence":"low","note":"Rhode Island to Massachusetts"}
+{"qid":5168791,"place":"Arizona","lat":34.29,"lon":-111.66,"precision":"region","confidence":"high","note":"Arizona copper mining"}
+{"qid":679574,"place":"Sumatra","lat":-0.5897,"lon":101.3431,"precision":"region","confidence":"high","note":"Sumatran forests"}
+{"qid":96406066,"place":"Dhofar Governorate","lat":17.0,"lon":54.1,"precision":"region","confidence":"medium","note":"Oman and Yemen coast"}
+{"qid":6495062,"place":"Spokane, Washington","lat":47.6588,"lon":-117.426,"precision":"city","confidence":"medium","note":"eastern Washington"}
+{"qid":6435836,"place":"Thailand","lat":15.87,"lon":100.9925,"precision":"country","confidence":"high","note":"Thai folklore"}

@@ -1,0 +1,50 @@
+{"qid":555716,"place":"Congo Basin","lat":-1.0,"lon":22.0,"precision":"region","confidence":"medium","note":"Congo River Basin"}
+{"qid":85816475,"place":"Sichuan Basin","lat":30.5,"lon":105.0,"precision":"region","confidence":"medium","note":"stratigraphy of Sichuan Basin"}
+{"qid":16427893,"place":"Suðurland","lat":63.9,"lon":-20.5,"precision":"region","confidence":"medium","note":"southern Iceland"}
+{"qid":10541717,"place":"Jämtland County","lat":63.17,"lon":14.64,"precision":"region","confidence":"high","note":"county"}
+{"qid":7603311,"place":"Chavakkad","lat":10.58,"lon":76.03,"precision":"city","confidence":"medium","note":"starts in Chavakkad"}
+{"qid":7603315,"place":"Kozhikode","lat":11.2588,"lon":75.7804,"precision":"city","confidence":"medium","note":"starts in Kozhikode"}
+{"qid":1412688,"place":"Buenos Aires","lat":-34.6037,"lon":-58.3816,"precision":"city","confidence":"high","note":"typical of Buenos Aires"}
+{"qid":5491386,"place":"Hillston, New South Wales","lat":-33.4833,"lon":145.5333,"precision":"city","confidence":"medium","note":"north-west of Hillston"}
+{"qid":18150503,"place":"San Joaquin Valley","lat":36.6,"lon":-120.0,"precision":"region","confidence":"high","note":"San Joaquin Valley"}
+{"qid":18151070,"place":"Florida","lat":27.8,"lon":-81.7,"precision":"region","confidence":"medium","note":"geologic formation in Florida"}
+{"qid":30680932,"place":"West Gippsland","lat":-38.15,"lon":145.9,"precision":"region","confidence":"medium","note":"West Gippsland region"}
+{"qid":18154023,"place":"Maine","lat":45.25,"lon":-69.25,"precision":"region","confidence":"low","note":"state route in Maine"}
+{"qid":5339061,"place":"Alberta","lat":53.9333,"lon":-116.5765,"precision":"region","confidence":"medium","note":"Alberta"}
+{"qid":7091703,"place":"Windsor, New York","lat":42.08,"lon":-75.64,"precision":"city","confidence":"medium","note":"near Windsor"}
+{"qid":18155142,"place":"Ohio","lat":40.4167,"lon":-82.9071,"precision":"region","confidence":"medium","note":"formation in Ohio"}
+{"qid":104538985,"place":"Arkansas","lat":34.75,"lon":-92.29,"precision":"region","confidence":"low","note":"southeast Arkansas highway"}
+{"qid":104554709,"place":"North Little Rock, Arkansas","lat":34.7695,"lon":-92.2671,"precision":"city","confidence":"medium","note":"segment in North Little Rock"}
+{"qid":104816976,"place":"Benton, Arkansas","lat":34.5645,"lon":-92.5868,"precision":"city","confidence":"medium","note":"begins in Benton"}
+{"qid":3032626,"place":"Estonia","lat":58.6,"lon":25.0,"precision":"country","confidence":"low","note":"electoral district"}
+{"qid":18155604,"place":"New Jersey","lat":40.0583,"lon":-74.4057,"precision":"region","confidence":"medium","note":"mainly New Jersey"}
+{"qid":18155761,"place":"New York (state)","lat":42.9538,"lon":-75.5268,"precision":"region","confidence":"medium","note":"formation in New York"}
+{"qid":18158195,"place":"Virginia","lat":37.4316,"lon":-78.6569,"precision":"region","confidence":"medium","note":"group in Virginia"}
+{"qid":107008085,"place":"Rajasthan","lat":27.0238,"lon":74.2179,"precision":"region","confidence":"low","note":"Rajput clan"}
+{"qid":204753,"place":"Bali","lat":-8.3405,"lon":115.092,"precision":"region","confidence":"high","note":"Balinese culture"}
+{"qid":18158464,"place":"North Carolina","lat":35.7596,"lon":-79.0193,"precision":"region","confidence":"medium","note":"formation in North Carolina"}
+{"qid":3402164,"place":"Riga","lat":56.9496,"lon":24.1052,"precision":"city","confidence":"high","note":"Riga constituency"}
+{"qid":7148772,"place":"Maryland","lat":39.0458,"lon":-76.6413,"precision":"region","confidence":"low","note":"Atlantic coastal plain"}
+{"qid":18344526,"place":"Coahuila","lat":27.0587,"lon":-101.7068,"precision":"region","confidence":"medium","note":"La Caja area"}
+{"qid":18344531,"place":"Coahuila","lat":27.0587,"lon":-101.7068,"precision":"region","confidence":"low","note":"multi-state, Coahuila"}
+{"qid":108528796,"place":"Sharkey County, Mississippi","lat":32.88,"lon":-90.81,"precision":"region","confidence":"medium","note":"Sharkey County segment"}
+{"qid":7603342,"place":"Kappad","lat":11.38,"lon":75.72,"precision":"city","confidence":"medium","note":"starts in Kappad"}
+{"qid":5355675,"place":"Bunbury, Western Australia","lat":-33.3271,"lon":115.6414,"precision":"city","confidence":"low","note":"Leschenault area"}
+{"qid":6406837,"place":"Hatfield, New South Wales","lat":-33.98,"lon":143.8,"precision":"city","confidence":"medium","note":"Hatfield located there"}
+{"qid":109312590,"place":"Meridian, Mississippi","lat":32.3643,"lon":-88.7037,"precision":"city","confidence":"medium","note":"begins in Meridian"}
+{"qid":6825901,"place":"Mexico","lat":23.6345,"lon":-102.5528,"precision":"country","confidence":"low","note":"federal highway"}
+{"qid":6825902,"place":"Mexico","lat":23.6345,"lon":-102.5528,"precision":"country","confidence":"low","note":"federal highway"}
+{"qid":6825837,"place":"Mexico","lat":23.6345,"lon":-102.5528,"precision":"country","confidence":"low","note":"federal highway"}
+{"qid":7603347,"place":"Kayamkulam","lat":9.1748,"lon":76.5013,"precision":"city","confidence":"medium","note":"starts in Kayamkulam"}
+{"qid":5177743,"place":"Suffolk County, New York","lat":40.94,"lon":-72.68,"precision":"region","confidence":"medium","note":"eastern Suffolk County"}
+{"qid":19581200,"place":"Lincoln County, Maine","lat":44.08,"lon":-69.5,"precision":"region","confidence":"medium","note":"Lincoln County"}
+{"qid":5028306,"place":"Aracaju","lat":-10.9472,"lon":-37.0731,"precision":"city","confidence":"medium","note":"Sergipe federation seat"}
+{"qid":9685467,"place":"Palmas, Tocantins","lat":-10.184,"lon":-48.3336,"precision":"city","confidence":"medium","note":"Tocantins federation seat"}
+{"qid":18474429,"place":"Cuiabá","lat":-15.6014,"lon":-56.0979,"precision":"city","confidence":"medium","note":"Mato Grosso federation seat"}
+{"qid":19581390,"place":"Phippsburg, Maine","lat":43.82,"lon":-69.82,"precision":"city","confidence":"high","note":"in Phippsburg"}
+{"qid":19796034,"place":"Brasília","lat":-15.7939,"lon":-47.8828,"precision":"city","confidence":"medium","note":"Federal District"}
+{"qid":7317542,"place":"Switzerland","lat":46.8182,"lon":8.2275,"precision":"country","confidence":"medium","note":"Jura, Switzerland"}
+{"qid":60745420,"place":"Chandauli district","lat":25.27,"lon":83.27,"precision":"region","confidence":"medium","note":"Chandauli district"}
+{"qid":108086850,"place":"Manipur","lat":24.6637,"lon":93.9063,"precision":"region","confidence":"medium","note":"Meitei mythology"}
+{"qid":7387142,"place":"Kochi","lat":9.9312,"lon":76.2673,"precision":"city","confidence":"high","note":"road in Kochi"}
+{"qid":112610100,"place":"Marikina","lat":14.6507,"lon":121.1029,"precision":"city","confidence":"high","note":"district for Marikina"}

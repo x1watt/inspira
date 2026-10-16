@@ -1,0 +1,50 @@
+{"qid":13602112,"place":"McCormick, South Carolina","lat":33.9118,"lon":-82.2862,"precision":"city","confidence":"medium","note":"starts near McCormick"}
+{"qid":108907850,"place":"Amory, Mississippi","lat":33.984,"lon":-88.4881,"precision":"city","confidence":"medium","note":"starts near Amory"}
+{"qid":108934001,"place":"Mississippi","lat":31.3,"lon":-89.8,"precision":"region","confidence":"low","note":"southern Mississippi highway"}
+{"qid":109286440,"place":"Bolivar County, Mississippi","lat":33.8,"lon":-90.9,"precision":"region","confidence":"low","note":"Mississippi Delta highway"}
+{"qid":6984352,"place":"Chesterfield County, South Carolina","lat":34.64,"lon":-80.15,"precision":"region","confidence":"medium","note":"entirely in Chesterfield County"}
+{"qid":109537815,"place":"McComb, Mississippi","lat":31.2438,"lon":-90.4532,"precision":"city","confidence":"medium","note":"near McComb"}
+{"qid":109539205,"place":"Walnut Grove, Mississippi","lat":32.5918,"lon":-89.4467,"precision":"city","confidence":"medium","note":"western segment near Walnut Grove"}
+{"qid":109571000,"place":"Copiah County, Mississippi","lat":31.87,"lon":-90.45,"precision":"region","confidence":"medium","note":"Copiah and Simpson counties"}
+{"qid":109667690,"place":"Leake County, Mississippi","lat":32.75,"lon":-89.52,"precision":"region","confidence":"medium","note":"mostly in Leake County"}
+{"qid":110065972,"place":"Franklin County, Arkansas","lat":35.5,"lon":-93.9,"precision":"region","confidence":"medium","note":"Franklin County highway"}
+{"qid":2505529,"place":"Amarillo, Texas","lat":35.222,"lon":-101.8313,"precision":"city","confidence":"medium","note":"former highway from Amarillo"}
+{"qid":6035531,"place":"Hyderabad, India","lat":17.385,"lon":78.4867,"precision":"city","confidence":"high","note":"ring road in Hyderabad"}
+{"qid":13618925,"place":"Egypt, Texas","lat":29.4,"lon":-96.2,"precision":"city","confidence":"medium","note":"begins at Egypt"}
+{"qid":5656664,"place":"Pennsylvania","lat":40.9,"lon":-77.8,"precision":"region","confidence":"low","note":"unit in Pennsylvania and New Jersey"}
+{"qid":8027195,"place":"Wisconsin","lat":44.6,"lon":-89.9,"precision":"region","confidence":"low","note":"state highway statewide"}
+{"qid":5708997,"place":"Hells Canyon","lat":45.2,"lon":-116.7,"precision":"region","confidence":"medium","note":"northeast Oregon byway"}
+{"qid":2267546,"place":"Kortrijk","lat":50.8279,"lon":3.2649,"precision":"city","confidence":"high","note":"named after Kortrijk"}
+{"qid":112672950,"place":"Sergipe","lat":-10.5,"lon":-37.3,"precision":"region","confidence":"medium","note":"Sergipe-Alagoas Basin"}
+{"qid":16973908,"place":"Jamestown, Ohio","lat":39.6528,"lon":-83.7364,"precision":"city","confidence":"medium","note":"starts in Jamestown"}
+{"qid":8070822,"place":"Inner Mongolia","lat":40.8,"lon":111.7,"precision":"region","confidence":"low","note":"formation in Inner Mongolia"}
+{"qid":7403025,"place":"Tamil Nadu","lat":11.1271,"lon":78.6569,"precision":"region","confidence":"medium","note":"community in Tamil Nadu"}
+{"qid":4865031,"place":"Barstow, California","lat":34.8986,"lon":-117.0228,"precision":"city","confidence":"high","note":"near Barstow"}
+{"qid":6164732,"place":"Tiraque Municipality","lat":-17.4,"lon":-65.7,"precision":"region","confidence":"low","note":"river in Tiraque"}
+{"qid":2188181,"place":"Kallanai","lat":10.8333,"lon":78.8167,"precision":"site","confidence":"medium","note":"starts at Kallanai"}
+{"qid":16345168,"place":"Kolkata","lat":22.5726,"lon":88.3639,"precision":"city","confidence":"high","note":"festival in Kolkata"}
+{"qid":5435995,"place":"New South Wales","lat":-32.0,"lon":147.0,"precision":"region","confidence":"low","note":"cadastral county NSW"}
+{"qid":116029910,"place":"Mon, Nagaland","lat":26.7,"lon":95.0,"precision":"city","confidence":"medium","note":"largest city Mon"}
+{"qid":116730171,"place":"Arica y Parinacota Region","lat":-18.5,"lon":-69.5,"precision":"region","confidence":"medium","note":"formation in the region"}
+{"qid":107669439,"place":"Manipur","lat":24.817,"lon":93.9368,"precision":"region","confidence":"medium","note":"Meitei folktale"}
+{"qid":7392276,"place":"São Paulo (state)","lat":-22.2,"lon":-48.7,"precision":"region","confidence":"low","note":"state highway"}
+{"qid":117336658,"place":"Arkansas","lat":34.8,"lon":-92.2,"precision":"region","confidence":"low","note":"Arkansas state highway"}
+{"qid":6738513,"place":"Punjab, Pakistan","lat":31.0,"lon":72.0,"precision":"region","confidence":"low","note":"tribe in Punjab and Rajasthan"}
+{"qid":5788719,"place":"San Cristóbal, Táchira","lat":7.7669,"lon":-72.225,"precision":"city","confidence":"medium","note":"flows by San Cristóbal"}
+{"qid":118955346,"place":"Paraná, Entre Ríos","lat":-31.7333,"lon":-60.5333,"precision":"city","confidence":"medium","note":"Entre Ríos formation"}
+{"qid":118994553,"place":"Karnataka","lat":15.3173,"lon":75.7139,"precision":"region","confidence":"low","note":"highway across Karnataka"}
+{"qid":5060373,"place":"Kazakhstan","lat":48.0,"lon":66.9,"precision":"country","confidence":"low","note":"Kazakhstan and Uzbekistan desert"}
+{"qid":18214760,"place":"Brittany","lat":48.2,"lon":-2.9,"precision":"region","confidence":"medium","note":"Upper Brittany folklore"}
+{"qid":123058733,"place":"London Borough of Tower Hamlets","lat":51.515,"lon":-0.02,"precision":"city","confidence":"medium","note":"GLC division"}
+{"qid":123112319,"place":"Harrow, London","lat":51.58,"lon":-0.342,"precision":"city","confidence":"medium","note":"GLC division"}
+{"qid":123144335,"place":"Wembley","lat":51.556,"lon":-0.2796,"precision":"city","confidence":"low","note":"Brent GLC division"}
+{"qid":123162921,"place":"Stratford, London","lat":51.5416,"lon":0.0033,"precision":"city","confidence":"low","note":"Newham GLC division"}
+{"qid":123171239,"place":"Walthamstow","lat":51.586,"lon":-0.019,"precision":"city","confidence":"low","note":"Waltham Forest GLC division"}
+{"qid":123180048,"place":"Bexleyheath","lat":51.4549,"lon":0.1505,"precision":"city","confidence":"low","note":"Bexley GLC division"}
+{"qid":123190338,"place":"New York (state)","lat":42.9,"lon":-75.5,"precision":"region","confidence":"low","note":"multi-state shale"}
+{"qid":123190830,"place":"Ealing","lat":51.513,"lon":-0.305,"precision":"city","confidence":"medium","note":"GLC division"}
+{"qid":5617565,"place":"Baja California Peninsula","lat":27.0,"lon":-112.5,"precision":"region","confidence":"medium","note":"Gulf of California coast"}
+{"qid":5436341,"place":"Myrtle Beach, South Carolina","lat":33.6891,"lon":-78.8867,"precision":"city","confidence":"high","note":"in Myrtle Beach"}
+{"qid":11797418,"place":"Częstochowa","lat":50.7963,"lon":19.1203,"precision":"city","confidence":"medium","note":"constituency in Częstochowa"}
+{"qid":123663451,"place":"Uxbridge","lat":51.5468,"lon":-0.4783,"precision":"city","confidence":"low","note":"Hillingdon GLC division"}
+{"qid":123663453,"place":"Hounslow","lat":51.4668,"lon":-0.3615,"precision":"city","confidence":"medium","note":"Hounslow GLC division"}

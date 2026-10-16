@@ -1,0 +1,50 @@
+{"qid":22073124,"place":"Lyman, South Carolina","lat":34.9487,"lon":-82.1171,"precision":"city","confidence":"medium","note":"highway starts at Lyman"}
+{"qid":65042875,"place":"Dumfries","lat":55.0701,"lon":-3.6052,"precision":"city","confidence":"low","note":"Dumfries Basin"}
+{"qid":65042931,"place":"Dumfries and Galloway","lat":55.07,"lon":-3.95,"precision":"region","confidence":"low","note":"Southern Scotland"}
+{"qid":5097607,"place":"Chilapa de Álvarez","lat":17.5919,"lon":-99.1783,"precision":"city","confidence":"medium","note":"river named for Chilapa"}
+{"qid":18154034,"place":"Randolph, Maine","lat":44.2351,"lon":-69.7747,"precision":"city","confidence":"high","note":"western terminus at Randolph"}
+{"qid":65062664,"place":"Auckland","lat":-36.8485,"lon":174.7633,"precision":"city","confidence":"medium","note":"exposed around Auckland"}
+{"qid":65064619,"place":"Lower North Shore, Sydney","lat":-33.83,"lon":151.2,"precision":"region","confidence":"low","note":"Lower North Shore local area"}
+{"qid":7574380,"place":"Black Hills","lat":44.0,"lon":-103.7,"precision":"region","confidence":"medium","note":"originally described there"}
+{"qid":65082233,"place":"Hoxie, Kansas","lat":39.3547,"lon":-100.4388,"precision":"city","confidence":"medium","note":"terminus north of Hoxie"}
+{"qid":65082239,"place":"Meade, Kansas","lat":37.2853,"lon":-100.3396,"precision":"city","confidence":"medium","note":"Meade County highway"}
+{"qid":65082274,"place":"Cherokee County, Kansas","lat":37.17,"lon":-94.85,"precision":"region","confidence":"medium","note":"entirely in Cherokee County"}
+{"qid":65082413,"place":"Scott City, Kansas","lat":38.4822,"lon":-100.9065,"precision":"city","confidence":"medium","note":"terminus near Scott City"}
+{"qid":65083956,"place":"Midway, Kansas","lat":38.85,"lon":-99.3,"precision":"city","confidence":"low","note":"southern terminus at Midway"}
+{"qid":13573322,"place":"Bangor, Maine","lat":44.8012,"lon":-68.7778,"precision":"city","confidence":"low","note":"northeast of Bangor"}
+{"qid":18154037,"place":"Hancock County, Maine","lat":44.5,"lon":-68.4,"precision":"region","confidence":"medium","note":"in Hancock County"}
+{"qid":22073542,"place":"Sumner County, Tennessee","lat":36.47,"lon":-86.46,"precision":"region","confidence":"high","note":"entirely in Sumner County"}
+{"qid":5430160,"place":"Fairfax County, Virginia","lat":38.8462,"lon":-77.3064,"precision":"region","confidence":"high","note":"serves Fairfax County"}
+{"qid":5259930,"place":"West Singhbhum district","lat":22.55,"lon":85.8,"precision":"region","confidence":"medium","note":"flows through West Singhbhum"}
+{"qid":18154347,"place":"Tennessee","lat":35.86,"lon":-86.66,"precision":"region","confidence":"low","note":"multi-state formation"}
+{"qid":75348172,"place":"Virginia","lat":37.4316,"lon":-78.6569,"precision":"region","confidence":"low","note":"discontinuous segments statewide"}
+{"qid":620409,"place":"Requena, Peru","lat":-5.0639,"lon":-73.8522,"precision":"city","confidence":"medium","note":"vicariate seat Requena"}
+{"qid":2354443,"place":"Grand Rapids, Michigan","lat":42.9634,"lon":-85.6681,"precision":"city","confidence":"medium","note":"beltline around Grand Rapids"}
+{"qid":2354357,"place":"Mackinaw City, Michigan","lat":45.7836,"lon":-84.7276,"precision":"city","confidence":"low","note":"Nicolet Street Mackinaw"}
+{"qid":18154352,"place":"New Jersey","lat":40.0583,"lon":-74.4057,"precision":"region","confidence":"medium","note":"formation in New Jersey"}
+{"qid":2353500,"place":"Arenac County, Michigan","lat":44.04,"lon":-84.0,"precision":"region","confidence":"medium","note":"Sterling to Prescott"}
+{"qid":85772629,"place":"Edwardsville, Kansas","lat":39.06,"lon":-94.83,"precision":"city","confidence":"medium","note":"southern terminus Edwardsville"}
+{"qid":85772635,"place":"Beloit, Kansas","lat":39.4561,"lon":-98.1081,"precision":"city","confidence":"medium","note":"western terminus in Beloit"}
+{"qid":2354540,"place":"St. Ignace, Michigan","lat":45.8669,"lon":-84.728,"precision":"city","confidence":"high","note":"entirely in St. Ignace"}
+{"qid":85772649,"place":"Morris County, Kansas","lat":38.68,"lon":-96.65,"precision":"region","confidence":"high","note":"entirely in Morris County"}
+{"qid":85772650,"place":"Linn County, Kansas","lat":38.2,"lon":-94.72,"precision":"region","confidence":"high","note":"entirely in Linn County"}
+{"qid":85772674,"place":"Mount Hope, Kansas","lat":37.8728,"lon":-97.6692,"precision":"city","confidence":"medium","note":"western terminus near Mount Hope"}
+{"qid":2353543,"place":"Missaukee County, Michigan","lat":44.33,"lon":-85.09,"precision":"region","confidence":"high","note":"rural Missaukee County"}
+{"qid":875873,"place":"San Marcos, San Marcos","lat":14.9667,"lon":-91.7894,"precision":"city","confidence":"medium","note":"diocese seat"}
+{"qid":2778850,"place":"Greece","lat":39.0742,"lon":21.8243,"precision":"country","confidence":"medium","note":"Greek folklore creature"}
+{"qid":85795221,"place":"Turpan","lat":42.9513,"lon":89.1895,"precision":"city","confidence":"low","note":"Turpan-Hami Basin"}
+{"qid":85800473,"place":"Maryland","lat":39.0458,"lon":-76.6413,"precision":"region","confidence":"low","note":"Maryland, Pennsylvania, Delaware"}
+{"qid":85802337,"place":"Queensland","lat":-27.4698,"lon":153.0251,"precision":"region","confidence":"low","note":"southern Queensland pipeline"}
+{"qid":18154358,"place":"Virginia","lat":37.4316,"lon":-78.6569,"precision":"region","confidence":"medium","note":"formation in Virginia"}
+{"qid":85805902,"place":"Gibson, Tennessee","lat":35.9967,"lon":-88.915,"precision":"city","confidence":"medium","note":"connects Fruitland with Gibson"}
+{"qid":85805906,"place":"New Hope, Tennessee","lat":35.03,"lon":-85.61,"precision":"city","confidence":"low","note":"entirely in New Hope"}
+{"qid":85805908,"place":"McKenzie, Tennessee","lat":36.1303,"lon":-88.5206,"precision":"city","confidence":"medium","note":"Carroll County highway"}
+{"qid":18154436,"place":"Ohio","lat":40.4173,"lon":-82.9071,"precision":"region","confidence":"medium","note":"formation in Ohio"}
+{"qid":85805910,"place":"Milan, Tennessee","lat":35.9201,"lon":-88.755,"precision":"city","confidence":"high","note":"entirely in Milan"}
+{"qid":85805911,"place":"McLemoresville, Tennessee","lat":36.0617,"lon":-88.5997,"precision":"city","confidence":"medium","note":"Carroll County connector"}
+{"qid":3053950,"place":"Gulf of St. Lawrence","lat":48.0,"lon":-62.0,"precision":"region","confidence":"low","note":"ecoregion around the gulf"}
+{"qid":2354877,"place":"Howell, Michigan","lat":42.6073,"lon":-83.9294,"precision":"city","confidence":"high","note":"spur from Howell"}
+{"qid":23134039,"place":"Saskatchewan","lat":52.9399,"lon":-106.4509,"precision":"region","confidence":"low","note":"main extent Saskatchewan"}
+{"qid":85810355,"place":"Shimonoseki","lat":33.9578,"lon":130.9414,"precision":"city","confidence":"medium","note":"distributed in Shimonoseki"}
+{"qid":4300632,"place":"Bukit Timah","lat":1.3294,"lon":103.8021,"precision":"region","confidence":"medium","note":"legend in Bukit Timah forest"}
+{"qid":2355050,"place":"Eaton Rapids, Michigan","lat":42.5081,"lon":-84.6564,"precision":"city","confidence":"high","note":"starts at Eaton Rapids"}

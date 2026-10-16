@@ -1,0 +1,50 @@
+{"qid":122864124,"place":"Dhaka","lat":23.8103,"lon":90.4125,"precision":"city","confidence":"medium","note":"Bangladesh league, Dhaka"}
+{"qid":124881691,"place":"Serowe","lat":-22.3875,"lon":26.7108,"precision":"city","confidence":"medium","note":"Serowe constituency"}
+{"qid":7603326,"place":"Kayamkulam","lat":9.175,"lon":76.5,"precision":"city","confidence":"medium","note":"starts at Kayamkulam"}
+{"qid":5516337,"place":"North India","lat":27.0,"lon":79.0,"precision":"region","confidence":"medium","note":"North India caste"}
+{"qid":16156626,"place":"Timmonsville, South Carolina","lat":34.1335,"lon":-79.9406,"precision":"city","confidence":"high","note":"serves Timmonsville"}
+{"qid":25006389,"place":"Aiken County, South Carolina","lat":33.54,"lon":-81.64,"precision":"region","confidence":"medium","note":"Aiken County"}
+{"qid":7603331,"place":"Bilara","lat":26.18,"lon":73.71,"precision":"city","confidence":"medium","note":"starts at Bilara"}
+{"qid":2505810,"place":"Lubbock, Texas","lat":33.5779,"lon":-101.8552,"precision":"city","confidence":"high","note":"Lubbock beltway"}
+{"qid":128792323,"place":"Bhubaneswar","lat":20.2961,"lon":85.8245,"precision":"city","confidence":"high","note":"Bhubaneswar constituency"}
+{"qid":18154912,"place":"Maryland","lat":39.0458,"lon":-76.6413,"precision":"region","confidence":"low","note":"multi-state formation"}
+{"qid":129900269,"place":"New Hyde Park, New York","lat":40.7351,"lon":-73.6879,"precision":"city","confidence":"medium","note":"New Hyde Park to Kings Point"}
+{"qid":25006554,"place":"Mount Pleasant, South Carolina","lat":32.8323,"lon":-79.8284,"precision":"city","confidence":"medium","note":"Mount Pleasant to Isle of Palms"}
+{"qid":15841989,"place":"Styria","lat":47.25,"lon":15.15,"precision":"region","confidence":"medium","note":"Upper Styria"}
+{"qid":16156574,"place":"Wake County, North Carolina","lat":35.79,"lon":-78.65,"precision":"region","confidence":"medium","note":"Wake County"}
+{"qid":85811737,"place":"Manipur","lat":24.817,"lon":93.9368,"precision":"region","confidence":"medium","note":"Meitei folktale"}
+{"qid":79272365,"place":"Beedeville, Arkansas","lat":35.33,"lon":-91.03,"precision":"city","confidence":"medium","note":"near Beedeville"}
+{"qid":2138532,"place":"Upper Austria","lat":48.0,"lon":13.9,"precision":"region","confidence":"medium","note":"Traunviertel"}
+{"qid":18154385,"place":"Lexington, Kentucky","lat":38.0406,"lon":-84.5037,"precision":"city","confidence":"medium","note":"Bluegrass region"}
+{"qid":25006678,"place":"Aiken County, South Carolina","lat":33.54,"lon":-81.64,"precision":"region","confidence":"medium","note":"Aiken and Lexington"}
+{"qid":2138513,"place":"Lower Austria","lat":48.1,"lon":15.2,"precision":"region","confidence":"medium","note":"Mostviertel"}
+{"qid":18614640,"place":"Larecaja Province","lat":-15.5,"lon":-68.4,"precision":"region","confidence":"medium","note":"Larecaja Province"}
+{"qid":16156816,"place":"Florence, South Carolina","lat":34.1954,"lon":-79.7626,"precision":"city","confidence":"medium","note":"bypass east of Florence"}
+{"qid":2933646,"place":"Allegheny Mountains","lat":38.5,"lon":-80.0,"precision":"region","confidence":"medium","note":"Allegheny Mountains"}
+{"qid":7603250,"place":"Barmer district","lat":25.75,"lon":71.4,"precision":"region","confidence":"low","note":"Chawa to Amritia"}
+{"qid":24521750,"place":"Camperdown, New South Wales","lat":-33.889,"lon":151.174,"precision":"city","confidence":"high","note":"Sydney municipality"}
+{"qid":16423162,"place":"Northeastern Iceland","lat":65.68,"lon":-18.1,"precision":"region","confidence":"medium","note":"Northeast Iceland"}
+{"qid":7851766,"place":"Mizoram","lat":23.1645,"lon":92.9376,"precision":"region","confidence":"medium","note":"river in Mizoram"}
+{"qid":30639963,"place":"Newfoundland","lat":48.5,"lon":-56.0,"precision":"region","confidence":"medium","note":"Eastern Newfoundland"}
+{"qid":25199097,"place":"Arkansas","lat":33.5,"lon":-91.5,"precision":"region","confidence":"low","note":"Lower Arkansas Delta"}
+{"qid":17077689,"place":"Jiangxi","lat":27.614,"lon":115.7221,"precision":"region","confidence":"medium","note":"Jiangxi Province"}
+{"qid":7433131,"place":"Swabia (Bavaria)","lat":48.37,"lon":10.9,"precision":"region","confidence":"medium","note":"Bavarian Swabia"}
+{"qid":7971353,"place":"Wasatch Range","lat":40.5,"lon":-111.5,"precision":"region","confidence":"medium","note":"Wasatch and Uinta"}
+{"qid":7330796,"place":"Casino, New South Wales","lat":-28.86,"lon":153.05,"precision":"city","confidence":"medium","note":"includes South Casino"}
+{"qid":7987200,"place":"Westbury, Wiltshire","lat":51.261,"lon":-2.185,"precision":"city","confidence":"medium","note":"named after Westbury"}
+{"qid":18125472,"place":"London Basin","lat":51.5,"lon":-0.1,"precision":"region","confidence":"medium","note":"London Basin"}
+{"qid":54933075,"place":"Oklahoma","lat":35.5,"lon":-97.5,"precision":"region","confidence":"medium","note":"Oklahoma toll road"}
+{"qid":8044793,"place":"Qujing","lat":25.49,"lon":103.797,"precision":"city","confidence":"medium","note":"Xitun village, Qujing"}
+{"qid":7994610,"place":"Narrabri","lat":-30.3228,"lon":149.7822,"precision":"city","confidence":"medium","note":"Narrabri at centre"}
+{"qid":18158269,"place":"Oriskany Falls, New York","lat":43.1451,"lon":-75.4629,"precision":"city","confidence":"medium","note":"type locality"}
+{"qid":8024139,"place":"Broken Hill","lat":-31.9539,"lon":141.4539,"precision":"city","confidence":"low","note":"west NSW county"}
+{"qid":6773875,"place":"New Jersey","lat":40.0583,"lon":-74.4057,"precision":"region","confidence":"medium","note":"New Jersey and Delaware"}
+{"qid":4858504,"place":"Aligarh district","lat":27.88,"lon":78.07,"precision":"region","confidence":"medium","note":"Aligarh district"}
+{"qid":8040305,"place":"Wyoming Basin","lat":42.0,"lon":-108.0,"precision":"region","confidence":"medium","note":"Wyoming Basin"}
+{"qid":8034028,"place":"New South Wales","lat":-30.0,"lon":146.5,"precision":"region","confidence":"low","note":"county location unclear"}
+{"qid":2487367,"place":"Quogue, New York","lat":40.8153,"lon":-72.602,"precision":"city","confidence":"medium","note":"starts in Quogue"}
+{"qid":131440977,"place":"Armenia","lat":40.0691,"lon":45.0382,"precision":"country","confidence":"medium","note":"accession process"}
+{"qid":4763488,"place":"Iran","lat":32.0,"lon":53.0,"precision":"country","confidence":"medium","note":"Iran diocese"}
+{"qid":3848125,"place":"Northeastern Brazil","lat":-8.0,"lon":-40.0,"precision":"region","confidence":"medium","note":"northeast Brazil"}
+{"qid":19608400,"place":"Paraíba","lat":-7.12,"lon":-36.72,"precision":"region","confidence":"high","note":"Brazilian state league"}
+{"qid":39046972,"place":"Hays, Kansas","lat":38.8792,"lon":-99.3268,"precision":"city","confidence":"medium","note":"Fort Hays bluffs"}
