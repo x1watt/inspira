@@ -1,0 +1,135 @@
+# Wikidata types (P31) whose items group C leaves out: low value for a
+# historical map (seasons, TV, lists, calendar pages, elections, taxa).
+# One per line, text after the id is only a label. Edit and rerun
+# geofill_prepare.dart --groups C to rebuild group C.
+Q27020041	sports season
+Q5398426	television series
+Q18340514	events in a specific year or time period
+Q26895936	American football team season
+Q46190676	tennis event
+Q13406463	Wikimedia list article
+Q40231	public election
+Q1539532	sports season of a sports club
+Q15416	television program
+Q46135307	nation at sport competition
+Q47150325	calendar day of a given year
+Q26887310	association football team season
+Q4167836	Wikimedia category
+Q114609228	recurring sporting event edition
+Q26213387	Olympic delegation
+Q15261477	gubernatorial election
+Q26896697	baseball team season
+Q23038290	fossil taxon
+Q4504495	award ceremony
+Q3464665	television series season
+Q1656682	planned event
+Q51031626	sport competition at a multi-sport event
+Q1057954	by-election
+Q117467246	animated television series
+Q41298	magazine
+Q1573906	concert tour
+Q46195901	Paralympics delegation
+Q21198342	manga series
+Q152450	municipal election
+Q35718073	nation in the Eurovision Song Contest
+Q137424753	list of participants in sport tournament
+Q2122052	qualification event
+Q15280243	mayoral election
+Q577	year
+Q35823051	nation at the World Athletics Championships
+Q1259759	miniseries
+Q16521	taxon
+Q18536594	Olympic sporting event
+Q63952888	anime television series
+Q62391930	beauty pageant edition
+Q17317604	professional wrestling event
+Q2618461	legislative election
+Q13406554	sports competition
+Q7864918	UK Parliamentary by-election
+Q26894053	basketball team season
+Q47018478	calendar month of a given year
+Q29964144	year BC
+Q24397514	United States House of Representatives election
+Q50846468	sports tour
+Q506240	television film
+Q6508670	leadership election
+Q53945096	group during sports competition
+Q15238777	legislative term
+Q1079023	championship
+Q11424	film
+Q53642685	Canadian football team season
+Q19571328	electoral result
+Q858439	presidential election
+Q3186692	calendar year
+Q21170330	tennis qualification event
+Q24634210	podcast show
+Q50393057	Paralympic sporting event
+Q43109	referendum
+Q47345468	tennis tournament edition
+Q526877	web series
+Q98645843	Wikimedia music-related list
+Q76853179	group of elections
+Q2515494	constitutional referendum
+Q39911	decade
+Q101246533	rally edition
+Q53534649	cycling team season
+Q1555508	radio program
+Q84491920	Youth Olympic sporting event
+Q8142	currency
+Q15275719	recurring event
+Q1002697	periodical
+Q27787439	film festival edition
+Q53538476	cricket team season
+Q1478437	association football competition
+Q99441966	Wikimedia list of elections by year
+Q44235	lunar eclipse
+Q47358534	tennis tour edition
+Q11514315	historical period
+Q21089304	honours list
+Q618779	award
+Q111046447	Electoral results for the districts of New South Wales
+Q14406742	comic book series
+Q80096233	Wikimedia information list
+Q1358344	news program
+Q2089242	pool play
+Q27968055	recurring event edition
+Q115915866	award ceremony edition
+Q28089258	knockout stage
+Q18536800	mixed martial arts event
+Q26466721	special election to the United States House of Representatives
+Q40434727	team rivalry in sports
+Q53538403	Australian rules football team season
+Q24706	Japanese era name
+Q868291	playoffs
+Q99904310	Wikimedia list of fellows of the Royal Society by election year
+Q500834	tournament
+Q12322522	municipal election in Denmark
+Q28004539	regional election in Italy
+Q21246076	rowing event
+Q15221623	bilateral relation
+Q476068	Act of Congress in the United States
+Q100269041	anime television series season
+Q17299750	snooker tournament
+Q669262	primary election
+Q756721	Atlantic hurricane season
+Q63981919	sport rivalry
+Q3297186	limited series
+Q1021073	local referendum
+Q26279994	nation at the Mediterranean Games
+Q887604	The Boat Race
+Q18608583	recurring sporting event
+Q1076105	general election
+Q66010158	month starting on Sunday
+Q66010119	month starting on Monday
+Q66010132	month starting on Wednesday
+Q66010139	month starting on Thursday
+Q66010153	month starting on Saturday
+Q66010148	month starting on Friday
+Q66010126	month starting on Tuesday
+Q47465437	player season
+Q14204246	Wikimedia project page
+Q18336255	New Zealand statute
+Q3231690	car model
+Q55135234	zone
+Q130387189	rugby league team season
+Q1128324	European Parliament election

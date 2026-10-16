@@ -56,7 +56,11 @@ void main(List<String> args) {
   String pc(int a, int b) => '${(100 * a / max(b, 1)).toStringAsFixed(1)}%';
   print('$n verified events with coordinates');
   var got = 0;
-  for (final t in ['own', 'location', 'headquarters', 'terrain', 'area', 'none']) {
+  for (final t in [
+    'own', 'location', 'headquarters', 'terrain', 'area', // Wikidata
+    'model-high', 'model-medium', 'model-low', 'zim', // geofill_merge.dart
+    'none',
+  ]) {
     final v = tiers[t];
     if (v == null) continue;
     if (t != 'none') got += v.$1;

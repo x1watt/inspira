@@ -1,0 +1,317 @@
+{"qid":19902208,"place":"Vienna","lat":48.2082,"lon":16.3738,"precision":"city","confidence":"medium","note":"Francis II abdicated in Vienna"}
+{"qid":3042723,"place":"Bangkok","lat":13.7563,"lon":100.5018,"precision":"city","confidence":"high","note":"signed in Bangkok"}
+{"qid":8018,"place":"Hippo Regius","lat":36.8997,"lon":7.7650,"precision":"site","confidence":"high","note":"bishop and died there"}
+{"qid":66323076,"place":"New Delhi","lat":28.6139,"lon":77.2090,"precision":"city","confidence":"medium","note":"decision announced in Parliament, Delhi"}
+{"qid":128601735,"place":"Ganabhaban","lat":23.7640,"lon":90.4090,"precision":"site","confidence":"medium","note":"PM residence in Dhaka"}
+{"qid":1992677,"place":"August Kranti Maidan","lat":18.9633,"lon":72.8095,"precision":"site","confidence":"high","note":"Gowalia Tank Maidan, Mumbai"}
+{"qid":4818171,"place":"Tehran","lat":35.6892,"lon":51.3890,"precision":"city","confidence":"medium","note":"Majlis established in Tehran"}
+{"qid":16422,"place":"New Orleans","lat":29.9511,"lon":-90.0715,"precision":"city","confidence":"high","note":"city most devastated"}
+{"qid":2492380,"place":"Dili","lat":-8.5569,"lon":125.5603,"precision":"city","confidence":"medium","note":"UN mission base in East Timor"}
+{"qid":133536,"place":"Geneva","lat":46.2044,"lon":6.1432,"precision":"city","confidence":"high","note":"adopted in Geneva 1949"}
+{"qid":1420512,"place":"Camp David","lat":39.6481,"lon":-77.4650,"precision":"site","confidence":"medium","note":"decided at Camp David, announced from White House"}
+{"qid":982588,"place":"Mont Blanc","lat":45.8326,"lon":6.8652,"precision":"site","confidence":"high","note":"first ascent summit"}
+{"qid":51673,"place":"Alexandria","lat":31.2001,"lon":29.9187,"precision":"city","confidence":"medium","note":"died in Alexandria 30 BC"}
+{"qid":179744,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"high","note":"Daguerre introduced it in Paris"}
+{"qid":205304,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"medium","note":"passed by Congress"}
+{"qid":1517650,"place":"Helsinki","lat":60.1699,"lon":24.9384,"precision":"city","confidence":"medium","note":"Torvalds began it at University of Helsinki"}
+{"qid":4583,"place":"Prinsengracht 263","lat":52.3752,"lon":4.8840,"precision":"site","confidence":"medium","note":"Secret Annex hiding place, Amsterdam"}
+{"qid":2007314,"place":"Karachi","lat":24.8607,"lon":67.0011,"precision":"city","confidence":"medium","note":"capital at independence"}
+{"qid":487420,"place":"Westminster","lat":51.4995,"lon":-0.1248,"precision":"site","confidence":"medium","note":"Parliament in Westminster"}
+{"qid":466,"place":"CERN","lat":46.2330,"lon":6.0557,"precision":"site","confidence":"high","note":"Berners-Lee invented Web at CERN"}
+{"qid":417610,"place":"Gravelines","lat":50.9866,"lon":2.1288,"precision":"city","confidence":"high","note":"battle off Gravelines 1588"}
+{"qid":597506,"place":"Saint Petersburg","lat":59.9343,"lon":30.3351,"precision":"city","confidence":"low","note":"First Partition treaty signed in St Petersburg"}
+{"qid":163900,"place":"Sancian Island","lat":21.9833,"lon":112.7833,"precision":"site","confidence":"medium","note":"died on Shangchuan Island"}
+{"qid":7247434,"place":"National Archives of Singapore","lat":1.2954,"lon":103.8492,"precision":"site","confidence":"medium","note":"document held there"}
+{"qid":274365,"place":"Yangon","lat":16.8409,"lon":96.1735,"precision":"city","confidence":"high","note":"protests centered in Rangoon"}
+{"qid":202712,"place":"Boca Raton, Florida","lat":26.3683,"lon":-80.1289,"precision":"city","confidence":"high","note":"developed by IBM in Boca Raton"}
+{"qid":48485,"place":"Gale (Martian crater)","lat":-5.4000,"lon":137.8000,"precision":"site","confidence":"high","note":"landing site Bradbury Landing"}
+{"qid":1785439,"place":"Hudson River","lat":41.7000,"lon":-73.9400,"precision":"region","confidence":"medium","note":"operated New York to Albany"}
+{"qid":622365,"place":"Reims","lat":49.2583,"lon":4.0317,"precision":"city","confidence":"medium","note":"first surrender signed at Reims"}
+{"qid":40852,"place":"Berkeley, Gloucestershire","lat":51.6910,"lon":-2.4570,"precision":"city","confidence":"high","note":"Jenner's home and vaccination work"}
+{"qid":47246047,"place":"Kennedy Space Center Launch Complex 39A","lat":28.6082,"lon":-80.6041,"precision":"site","confidence":"high","note":"launch site"}
+{"qid":129864,"place":"Meerut","lat":28.9845,"lon":77.7064,"precision":"city","confidence":"high","note":"rebellion began at Meerut"}
+{"qid":315937,"place":"Tungasuca","lat":-14.2000,"lon":-71.3500,"precision":"city","confidence":"medium","note":"rebellion began at Tungasuca"}
+{"qid":835934,"place":"Worms, Germany","lat":49.6320,"lon":8.3597,"precision":"city","confidence":"high","note":"diet held at Worms"}
+{"qid":7991578,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"disambiguation page"}
+{"qid":160211,"place":"Quai d'Orsay","lat":48.8630,"lon":2.3200,"precision":"site","confidence":"medium","note":"declared at French foreign ministry, Paris"}
+{"qid":12214,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"global concept"}
+{"qid":38867,"place":"Malibu, California","lat":34.0259,"lon":-118.7798,"precision":"city","confidence":"medium","note":"Hughes Research Laboratories, Malibu"}
+{"qid":7226,"place":"Rouen","lat":49.4432,"lon":1.0993,"precision":"city","confidence":"high","note":"burned at Rouen"}
+{"qid":7328,"place":"Calicut","lat":11.2588,"lon":75.7804,"precision":"city","confidence":"medium","note":"arrival in Kozhikode 1498"}
+{"qid":4567715,"place":"Mount Everest","lat":27.9881,"lon":86.9250,"precision":"site","confidence":"high","note":"summit reached"}
+{"qid":1519167,"place":"Rio de Janeiro","lat":-22.9068,"lon":-43.1729,"precision":"city","confidence":"medium","note":"signed in imperial capital"}
+{"qid":875738,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"medium","note":"Supreme Court decision"}
+{"qid":152314,"place":"Irrawaddy Delta","lat":16.5000,"lon":95.0000,"precision":"region","confidence":"high","note":"storm surge landfall region"}
+{"qid":11989,"place":"Theater am Kärntnertor","lat":48.2038,"lon":16.3697,"precision":"site","confidence":"high","note":"premiere venue"}
+{"qid":183140,"place":"Antarctica","lat":-80.0000,"lon":0.0000,"precision":"region","confidence":"low","note":"ozone hole over south pole"}
+{"qid":206015,"place":"Théâtre des Champs-Élysées","lat":48.8663,"lon":2.3040,"precision":"site","confidence":"high","note":"premiere venue"}
+{"qid":7240397,"place":"10 Downing Street","lat":51.5034,"lon":-0.1276,"precision":"site","confidence":"high","note":"PM residence"}
+{"qid":3235334,"place":"New York City","lat":40.7128,"lon":-74.0060,"precision":"city","confidence":"high","note":"1997 deciding rematch"}
+{"qid":5432165,"place":"Merdeka Palace","lat":-6.1700,"lon":106.8230,"precision":"site","confidence":"medium","note":"resigned in Jakarta"}
+{"qid":193515,"place":"Edinburgh","lat":55.9533,"lon":-3.1883,"precision":"city","confidence":"low","note":"Scottish Parliament ratified in Edinburgh"}
+{"qid":24815,"place":"Hollywood","lat":34.0928,"lon":-118.3287,"precision":"city","confidence":"medium","note":"filmed in Hollywood studios"}
+{"qid":1255896,"place":"South Africa","lat":-30.5595,"lon":22.9375,"precision":"country","confidence":"high","note":"national election"}
+{"qid":335987,"place":"Vatican City","lat":41.9029,"lon":12.4534,"precision":"city","confidence":"medium","note":"issued by Leo XIII"}
+{"qid":939784,"place":"Roosevelt Field","lat":40.7400,"lon":-73.6000,"precision":"site","confidence":"medium","note":"takeoff point of flight"}
+{"qid":8690,"place":"Beijing","lat":39.9042,"lon":116.4074,"precision":"city","confidence":"medium","note":"launched in Beijing"}
+{"qid":1129096,"place":"Royal Castle, Warsaw","lat":52.2480,"lon":21.0150,"precision":"site","confidence":"high","note":"adopted by Sejm there"}
+{"qid":56045,"place":"Bonn","lat":50.7374,"lon":7.0982,"precision":"city","confidence":"high","note":"adopted in Bonn"}
+{"qid":494235,"place":"Mogao Caves","lat":40.1400,"lon":94.8100,"precision":"site","confidence":"high","note":"found at Dunhuang"}
+{"qid":41178,"place":"Addis Ababa","lat":9.0300,"lon":38.7400,"precision":"city","confidence":"medium","note":"capital of his reign"}
+{"qid":12989672,"place":"Tuileries Palace","lat":48.8634,"lon":2.3300,"precision":"site","confidence":"medium","note":"Convention met at Tuileries, Paris"}
+{"qid":32037,"place":"Crab Nebula","lat":22.0145,"lon":-5.9286,"precision":"none","confidence":"low","note":"celestial object; observed from Earth"}
+{"qid":4007169,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"medium","note":"Pasteur first vaccine, Paris"}
+{"qid":78454,"place":"Delft","lat":52.0116,"lon":4.3571,"precision":"city","confidence":"high","note":"assassinated in Delft"}
+{"qid":179577,"place":"Cajamarca","lat":-7.1638,"lon":-78.5003,"precision":"city","confidence":"high","note":"captured and executed there"}
+{"qid":6541120,"place":"Monrovia","lat":6.3005,"lon":-10.7969,"precision":"city","confidence":"high","note":"convention at Monrovia"}
+{"qid":43977,"place":"Konstanz","lat":47.6779,"lon":9.1732,"precision":"city","confidence":"high","note":"burned at Council of Constance"}
+{"qid":80880,"place":"Bangkok","lat":13.7563,"lon":100.5018,"precision":"city","confidence":"high","note":"crisis began with baht float"}
+{"qid":402,"place":"CERN","lat":46.2330,"lon":6.0557,"precision":"site","confidence":"high","note":"discovered at LHC"}
+{"qid":2436825,"place":"Melilla","lat":35.2923,"lon":-2.9381,"precision":"city","confidence":"medium","note":"coup began in Melilla, Morocco"}
+{"qid":2481148,"place":"Luoyang","lat":34.6197,"lon":112.4540,"precision":"city","confidence":"high","note":"capital sacked"}
+{"qid":3885257,"place":"Palazzo Venezia","lat":41.8967,"lon":12.4822,"precision":"site","confidence":"high","note":"Grand Council meeting venue"}
+{"qid":159575,"place":"Noyon","lat":49.5810,"lon":2.9980,"precision":"city","confidence":"high","note":"elected and crowned at Noyon"}
+{"qid":1520743,"place":"Ottawa","lat":45.4215,"lon":-75.6972,"precision":"city","confidence":"medium","note":"capital of new Dominion"}
+{"qid":5333520,"place":"New Delhi","lat":28.6139,"lon":77.2090,"precision":"city","confidence":"medium","note":"policy made by Union government"}
+{"qid":887098,"place":"Dover","lat":51.1279,"lon":1.3134,"precision":"city","confidence":"medium","note":"Channel flight landed at Dover"}
+{"qid":7169780,"place":"Uraga, Kanagawa","lat":35.2500,"lon":139.7167,"precision":"city","confidence":"high","note":"black ships arrived at Uraga"}
+{"qid":234027,"place":"Oldham","lat":53.5409,"lon":-2.1114,"precision":"city","confidence":"high","note":"born at Oldham General Hospital"}
+{"qid":8413,"place":"Constantinople","lat":41.0082,"lon":28.9784,"precision":"city","confidence":"medium","note":"founded as new capital"}
+{"qid":171433,"place":"Roslin Institute","lat":55.8606,"lon":-3.2058,"precision":"site","confidence":"high","note":"cloned at Roslin"}
+{"qid":7321,"place":"Quebec City","lat":46.8139,"lon":-71.2080,"precision":"city","confidence":"medium","note":"Stadacona visited by Cartier"}
+{"qid":585962,"place":"White House","lat":38.8977,"lon":-77.0365,"precision":"site","confidence":"medium","note":"Signed by Johnson at the White House"}
+{"qid":49107,"place":"White House","lat":38.8977,"lon":-77.0365,"precision":"site","confidence":"high","note":"Signing ceremony on the South Lawn"}
+{"qid":4198739,"place":"Fairchild Semiconductor","lat":37.4023,"lon":-122.1125,"precision":"city","confidence":"low","note":"Noyce planar IC 1960, Mountain View area"}
+{"qid":672556,"place":"Spanish Embassy in Beijing","lat":39.9060,"lon":116.4350,"precision":"city","confidence":"low","note":"Signed at Spanish legation, Beijing"}
+{"qid":1225170,"place":"Homonhon","lat":10.7300,"lon":125.7200,"precision":"site","confidence":"low","note":"Arrival in Philippines; Magellan died at Mactan"}
+{"qid":296269,"place":"Cusco","lat":-13.5320,"lon":-71.9675,"precision":"city","confidence":"high","note":"Executed in the main square of Cusco"}
+{"qid":591623,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"Book, no physical location"}
+{"qid":5064,"place":"Theater auf der Wieden","lat":48.1990,"lon":16.3680,"precision":"site","confidence":"medium","note":"Premiere at Freihaus-Theater, Vienna"}
+{"qid":1548600,"place":"Ipiranga Museum","lat":-23.5855,"lon":-46.6097,"precision":"site","confidence":"medium","note":"Cry of Ipiranga, Sao Paulo"}
+{"qid":1310914,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"high","note":"Papal bull issued in Rome"}
+{"qid":7742,"place":"Palace of Versailles","lat":48.8049,"lon":2.1204,"precision":"site","confidence":"high","note":"Court seat and place of death"}
+{"qid":6722675,"place":"Chengde Mountain Resort","lat":40.9930,"lon":117.9330,"precision":"site","confidence":"medium","note":"Audience with Qianlong at Jehol"}
+{"qid":1423,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"medium","note":"Ruled from Rome, assassinated in his palace"}
+{"qid":3269580,"place":"Lehman Brothers","lat":40.7614,"lon":-73.9776,"precision":"city","confidence":"low","note":"HQ in New York City"}
+{"qid":1434166,"place":"Independence Hall","lat":39.9489,"lon":-75.1500,"precision":"site","confidence":"high","note":"Stated in lead"}
+{"qid":22683173,"place":"LIGO Hanford Observatory","lat":46.4551,"lon":-119.4077,"precision":"site","confidence":"low","note":"Detected at Hanford and Livingston"}
+{"qid":3447247,"place":"Wellington","lat":-41.2866,"lon":174.7756,"precision":"city","confidence":"medium","note":"Assent by governor in capital"}
+{"qid":1643006,"place":"Jakarta","lat":-6.2088,"lon":106.8456,"precision":"city","confidence":"high","note":"Generals killed in Jakarta"}
+{"qid":1398,"place":"Brindisi","lat":40.6327,"lon":17.9418,"precision":"city","confidence":"high","note":"Died at Brundisium"}
+{"qid":7427168,"place":"Riyadh","lat":24.7136,"lon":46.6753,"precision":"city","confidence":"medium","note":"Decree issued by king; celebrated in capital"}
+{"qid":125414,"place":"Pelusium","lat":31.0400,"lon":32.5500,"precision":"site","confidence":"medium","note":"Killed on landing in Egypt"}
+{"qid":5656897,"place":"Guatemala City","lat":14.6349,"lon":-90.5069,"precision":"city","confidence":"medium","note":"Proclaimed at Guatemala City palace"}
+{"qid":154439,"place":"Worms, Germany","lat":49.6320,"lon":8.3650,"precision":"city","confidence":"high","note":"Signed at Worms"}
+{"qid":194279,"place":"Transvaal Colony","lat":-26.2041,"lon":28.0473,"precision":"region","confidence":"medium","note":"Law applied in Transvaal; Johannesburg protests"}
+{"qid":48469,"place":"Cape Canaveral Space Launch Complex 41","lat":28.5836,"lon":-80.5828,"precision":"site","confidence":"high","note":"Launch site in infobox"}
+{"qid":1223685,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"medium","note":"Letter to Academie in Paris"}
+{"qid":27906,"place":"Nuremberg","lat":49.4521,"lon":11.0767,"precision":"city","confidence":"high","note":"Reichstag session at Nuremberg Rally"}
+{"qid":58784,"place":"Hamburg","lat":53.5511,"lon":9.9937,"precision":"city","confidence":"high","note":"Published in Hamburg"}
+{"qid":130601,"place":"Ravenna","lat":44.4184,"lon":12.2035,"precision":"city","confidence":"medium","note":"Deposed at Ravenna"}
+{"qid":182323,"place":"Piquette Avenue Plant","lat":42.3690,"lon":-83.0670,"precision":"site","confidence":"medium","note":"Original Model T production site, Detroit"}
+{"qid":80811,"place":"Baikonur Cosmodrome","lat":45.9200,"lon":63.3420,"precision":"site","confidence":"high","note":"Launch site"}
+{"qid":177524,"place":"University of California, Los Angeles","lat":34.0689,"lon":-118.4452,"precision":"site","confidence":"medium","note":"First node, first message 1969"}
+{"qid":676555,"place":"Assisi","lat":43.0707,"lon":12.6196,"precision":"city","confidence":"high","note":"Born, lived and died near Assisi"}
+{"qid":512443,"place":"Palace of Fontainebleau","lat":48.4020,"lon":2.7005,"precision":"site","confidence":"high","note":"Edict signed at Fontainebleau"}
+{"qid":7250,"place":"Chang'an","lat":34.2650,"lon":108.9540,"precision":"city","confidence":"high","note":"Killed in Chang'an during its fall"}
+{"qid":43522,"place":"Delft","lat":52.0116,"lon":4.3571,"precision":"city","confidence":"high","note":"Lived and worked in Delft"}
+{"qid":47616,"place":"Menlo Park, New Jersey","lat":40.5568,"lon":-74.3290,"precision":"city","confidence":"low","note":"Edison's practical bulb 1879"}
+{"qid":76468,"place":"Middelburg","lat":51.4988,"lon":3.6110,"precision":"city","confidence":"medium","note":"Spectacle-maker in Middelburg"}
+{"qid":465087,"place":"Warner Theatre (New York City)","lat":40.7590,"lon":-73.9845,"precision":"site","confidence":"low","note":"Premiere at Warner Theatre, Broadway"}
+{"qid":5809,"place":"La Higuera","lat":-18.7400,"lon":-64.2300,"precision":"city","confidence":"high","note":"Executed at La Higuera, Bolivia"}
+{"qid":9738,"place":"Luoyang","lat":34.6197,"lon":112.4540,"precision":"city","confidence":"medium","note":"Ruled from Luoyang, died there"}
+{"qid":803181,"place":"Ankara","lat":39.9334,"lon":32.8597,"precision":"city","confidence":"high","note":"Republic proclaimed in Ankara"}
+{"qid":378417,"place":"Jiuquan Satellite Launch Center","lat":40.9580,"lon":100.2910,"precision":"site","confidence":"high","note":"Launch site"}
+{"qid":316817,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"Global economic event"}
+{"qid":174640,"place":"Peenemünde Army Research Center","lat":54.1640,"lon":13.7740,"precision":"site","confidence":"high","note":"V-2 development and test site"}
+{"qid":715197,"place":"Singapore","lat":1.3521,"lon":103.8198,"precision":"city","confidence":"high","note":"Government founded in Singapore"}
+{"qid":2047143,"place":"Calcutta","lat":22.5726,"lon":88.3639,"precision":"city","confidence":"medium","note":"Capital of Bengal Presidency, protests"}
+{"qid":157506,"place":"Wittenberg","lat":51.8667,"lon":12.6500,"precision":"city","confidence":"high","note":"Posted at Castle Church, Wittenberg"}
+{"qid":169789,"place":"St. Peter's Basilica","lat":41.9022,"lon":12.4539,"precision":"site","confidence":"high","note":"Stated in lead"}
+{"qid":242309,"place":"Observatoire de Haute-Provence","lat":43.9319,"lon":5.7131,"precision":"site","confidence":"high","note":"Discovery site OHP"}
+{"qid":455037,"place":"Highland Park Ford Plant","lat":42.4060,"lon":-83.0980,"precision":"site","confidence":"low","note":"Moving assembly line 1913"}
+{"qid":83476,"place":"Edington","lat":51.2730,"lon":-2.0900,"precision":"city","confidence":"low","note":"Battle of Edington defining victory"}
+{"qid":1137478,"place":"Cupertino, California","lat":37.3230,"lon":-122.0322,"precision":"city","confidence":"medium","note":"Apple headquarters"}
+{"qid":741304,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"high","note":"Published in L'Aurore, Paris"}
+{"qid":480,"place":"Madrid","lat":40.4168,"lon":-3.7038,"precision":"city","confidence":"medium","note":"Published in Madrid"}
+{"qid":696785,"place":"Beijing","lat":39.9042,"lon":116.4074,"precision":"city","confidence":"medium","note":"Presented to Yuan Shikai in Beijing"}
+{"qid":1059215,"place":"Prague","lat":50.0755,"lon":14.4378,"precision":"city","confidence":"low","note":"Federal capital"}
+{"qid":596,"place":"Palermo Astronomical Observatory","lat":38.1100,"lon":13.3560,"precision":"site","confidence":"high","note":"Discovery site"}
+{"qid":1409,"place":"Palatine Hill","lat":41.8892,"lon":12.4876,"precision":"site","confidence":"medium","note":"Assassinated at Palatine games"}
+{"qid":1405,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"medium","note":"Seat of reign; died in Nola"}
+{"qid":108532624,"place":"Gandamak","lat":34.3500,"lon":70.2000,"precision":"site","confidence":"medium","note":"Last stand near Gandamak"}
+{"qid":391358,"place":"White House","lat":38.8977,"lon":-77.0365,"precision":"site","confidence":"high","note":"Issued by Lincoln"}
+{"qid":300950,"place":"Supreme Court of the United States","lat":38.8906,"lon":-77.0044,"precision":"site","confidence":"high","note":"Decided by the Supreme Court"}
+{"qid":9957,"place":"Nanjing","lat":32.0603,"lon":118.7969,"precision":"city","confidence":"high","note":"Ming capital under Hongwu"}
+{"qid":4068786,"place":"Palace of Westminster","lat":51.4994,"lon":-0.1248,"precision":"site","confidence":"medium","note":"Held at Westminster"}
+{"qid":477108,"place":"Constitution Hall (India)","lat":28.6170,"lon":77.2090,"precision":"site","confidence":"low","note":"Constituent Assembly met in New Delhi"}
+{"qid":7996,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"high","note":"Seat of reign and death"}
+{"qid":1001,"place":"New Delhi","lat":28.6139,"lon":77.2090,"precision":"city","confidence":"medium","note":"Assassinated at Birla House"}
+{"qid":2881842,"place":"Antarctic Circle","lat":-66.5633,"lon":0.0000,"precision":"region","confidence":"low","note":"Defining first crossing of Antarctic Circle"}
+{"qid":1419429,"place":"Sydney Cove","lat":-33.8610,"lon":151.2110,"precision":"site","confidence":"medium","note":"Settlement founded 26 January 1788"}
+{"qid":151826,"place":"Königsberg","lat":54.7104,"lon":20.4522,"precision":"city","confidence":"high","note":"Crowned King in Prussia 1701"}
+{"qid":3099902,"place":"Glasgow","lat":55.8642,"lon":-4.2518,"precision":"city","confidence":"medium","note":"Worked at University of Glasgow"}
+{"qid":8707,"place":"Kyoto","lat":35.0116,"lon":135.7681,"precision":"city","confidence":"medium","note":"Imperial court proclaimed restoration"}
+{"qid":3203,"place":"Padua","lat":45.4064,"lon":11.8768,"precision":"city","confidence":"medium","note":"Galileo observed them in Padua"}
+{"qid":16609395,"place":"Red Square","lat":55.7539,"lon":37.6208,"precision":"site","confidence":"high","note":"Funeral and mausoleum"}
+{"qid":4684105,"place":"Berlin","lat":52.5200,"lon":13.4050,"precision":"city","confidence":"medium","note":"Appointed chancellor in Berlin"}
+{"qid":46696,"place":"Milan","lat":45.4642,"lon":9.1900,"precision":"city","confidence":"medium","note":"Died in Milan"}
+{"qid":4916,"place":"Frankfurt","lat":50.1109,"lon":8.6821,"precision":"city","confidence":"medium","note":"European Central Bank seat"}
+{"qid":3310872,"place":"Sydney","lat":-33.8688,"lon":151.2093,"precision":"city","confidence":"low","note":"Federation proclaimed at Centennial Park"}
+{"qid":170583,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"low","note":"Published in London by Egerton"}
+{"qid":133544,"place":"Helensburgh","lat":56.0100,"lon":-4.7330,"precision":"city","confidence":"medium","note":"Born and buried at Helensburgh"}
+{"qid":935025,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"Disambiguation page"}
+{"qid":438156,"place":"Cape Horn","lat":-55.9833,"lon":-67.2667,"precision":"site","confidence":"medium","note":"Rounded Cape Horn, defining moment"}
+{"qid":3178839,"place":"Tahiti","lat":-17.6509,"lon":-149.4260,"precision":"region","confidence":"medium","note":"Transit of Venus observed in Tahiti"}
+{"qid":598496,"place":"Arbroath Abbey","lat":56.5589,"lon":-2.5817,"precision":"site","confidence":"high","note":"Letter written at Arbroath Abbey"}
+{"qid":806498,"place":"Chittagong District","lat":22.3569,"lon":91.7832,"precision":"region","confidence":"high","note":"Landfall in Chittagong district"}
+{"qid":379111,"place":"St. Thomas Church, Leipzig","lat":51.3397,"lon":12.3731,"precision":"site","confidence":"medium","note":"Premiered at Thomaskirche Leipzig"}
+{"qid":182524,"place":"Baikonur Cosmodrome","lat":45.9203,"lon":63.3422,"precision":"site","confidence":"high","note":"Launch site"}
+{"qid":10069,"place":"Beijing","lat":39.9042,"lon":116.4074,"precision":"city","confidence":"high","note":"Suicide at Beijing, end of Ming"}
+{"qid":4745451,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"high","note":"Congress declared war in Washington"}
+{"qid":128742,"place":"Sofia","lat":42.6977,"lon":23.3219,"precision":"city","confidence":"high","note":"Issued at Serdica"}
+{"qid":319383,"place":"Midtown Manhattan","lat":40.7549,"lon":-73.9840,"precision":"region","confidence":"medium","note":"First call from Manhattan sidewalk"}
+{"qid":207732,"place":"Dublin","lat":53.3498,"lon":-6.2603,"precision":"city","confidence":"high","note":"Premiere in Dublin"}
+{"qid":834673,"place":"Kennedy Space Center Launch Complex 39","lat":28.6272,"lon":-80.6208,"precision":"site","confidence":"high","note":"Launched from LC-39B"}
+{"qid":2732400,"place":"Richmond Palace","lat":51.4613,"lon":-0.3037,"precision":"site","confidence":"low","note":"Elizabeth I died at Richmond Palace"}
+{"qid":321531,"place":"Jerusalem","lat":31.7683,"lon":35.2137,"precision":"city","confidence":"high","note":"Trial held in Jerusalem"}
+{"qid":17091707,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"medium","note":"Metre defined in revolutionary Paris"}
+{"qid":217543,"place":"Kennedy Space Center Launch Complex 39","lat":28.6081,"lon":-80.6041,"precision":"site","confidence":"high","note":"Launched from LC-39A"}
+{"qid":243375,"place":"Easter Island","lat":-27.1127,"lon":-109.3497,"precision":"region","confidence":"high","note":"Discovered Easter Island 1722"}
+{"qid":6803111,"place":"San Diego Zoo","lat":32.7353,"lon":-117.1490,"precision":"site","confidence":"high","note":"Video filmed at San Diego Zoo"}
+{"qid":23702848,"place":"Panama City","lat":8.9824,"lon":-79.5199,"precision":"city","confidence":"medium","note":"Mossack Fonseca was based there"}
+{"qid":555797,"place":"Bataan","lat":14.6417,"lon":120.4818,"precision":"region","confidence":"medium","note":"March began at Mariveles, Bataan"}
+{"qid":208958,"place":"Belfast","lat":54.5973,"lon":-5.9301,"precision":"city","confidence":"high","note":"Signed in Belfast"}
+{"qid":179788,"place":"Nantes","lat":47.2184,"lon":-1.5536,"precision":"city","confidence":"high","note":"Signed at Nantes 1598"}
+{"qid":1210346,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"medium","note":"Compiled and published in London"}
+{"qid":231923,"place":"Lincoln Memorial","lat":38.8893,"lon":-77.0502,"precision":"site","confidence":"high","note":"1939 Easter concert at Lincoln Memorial"}
+{"qid":1895685,"place":"Cavendish Laboratory","lat":52.2108,"lon":0.0917,"precision":"site","confidence":"medium","note":"Work done at Cavendish, Cambridge"}
+{"qid":1519099,"place":"Pittsburgh","lat":40.4406,"lon":-79.9959,"precision":"city","confidence":"low","note":"Salk developed vaccine at Pittsburgh"}
+{"qid":174432,"place":"Porto Seguro","lat":-16.4435,"lon":-39.0643,"precision":"city","confidence":"medium","note":"Landfall in Brazil 1500"}
+{"qid":193155,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"medium","note":"Treaty signed in Paris"}
+{"qid":105180889,"place":"Naypyidaw","lat":19.7633,"lon":96.0785,"precision":"city","confidence":"high","note":"Coup began in Naypyidaw"}
+{"qid":157082,"place":"Strasbourg","lat":48.5734,"lon":7.7521,"precision":"city","confidence":"high","note":"Oaths sworn at Strasbourg"}
+{"qid":1265674,"place":"Nicomedia","lat":40.7650,"lon":29.9400,"precision":"city","confidence":"medium","note":"First edict issued from Nicomedia"}
+{"qid":766456,"place":"Vatican City","lat":41.9029,"lon":12.4534,"precision":"country","confidence":"medium","note":"Papal bull issued in Rome"}
+{"qid":724008,"place":"Mantua","lat":45.1564,"lon":10.7914,"precision":"city","confidence":"high","note":"Court performance at Mantua"}
+{"qid":3042914,"place":"Radcliffe Infirmary","lat":51.7609,"lon":-1.2650,"precision":"site","confidence":"high","note":"Treated at Radcliffe Infirmary, Oxford"}
+{"qid":2159918,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"high","note":"Signed by Roosevelt in Washington"}
+{"qid":2170072,"place":"Santiago de Querétaro","lat":20.5888,"lon":-100.3899,"precision":"city","confidence":"high","note":"Drafted and approved at Querétaro"}
+{"qid":36330,"place":"Campo de' Fiori","lat":41.8956,"lon":12.4722,"precision":"site","confidence":"high","note":"Burned at the stake in Rome"}
+{"qid":355,"place":"Harvard University","lat":42.3770,"lon":-71.1167,"precision":"site","confidence":"medium","note":"Founded in Harvard dorm room"}
+{"qid":3042938,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"high","note":"National Convention sat in Paris"}
+{"qid":5421194,"place":"Brno","lat":49.1951,"lon":16.6068,"precision":"city","confidence":"high","note":"Mendel's work at Brno monastery"}
+{"qid":40591,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"high","note":"Published in London"}
+{"qid":174085,"place":"Cape York Peninsula","lat":-12.5000,"lon":142.5000,"precision":"region","confidence":"medium","note":"First European landing in Australia"}
+{"qid":3966451,"place":"Benin City","lat":6.3350,"lon":5.6037,"precision":"city","confidence":"high","note":"City captured in 1897"}
+{"qid":8023,"place":"Qunu","lat":-31.7833,"lon":28.6167,"precision":"city","confidence":"medium","note":"Resting place village"}
+{"qid":2583161,"place":"Cairo","lat":30.0444,"lon":31.2357,"precision":"city","confidence":"high","note":"Declared for Egypt, in Cairo"}
+{"qid":43915,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"medium","note":"Crowned emperor in Rome 962"}
+{"qid":1257878,"place":"Thessaloniki","lat":40.6401,"lon":22.9444,"precision":"city","confidence":"high","note":"Issued at Thessalonica"}
+{"qid":8597,"place":"Fatehpur Sikri","lat":27.0940,"lon":77.6679,"precision":"city","confidence":"low","note":"Akbar's capital; born in Umerkot"}
+{"qid":2750283,"place":"Kealakekua Bay","lat":19.4803,"lon":-155.9262,"precision":"site","confidence":"high","note":"Cook killed at Kealakekua Bay"}
+{"qid":1274389,"place":"EDSA","lat":14.6091,"lon":121.0520,"precision":"site","confidence":"high","note":"Protests along EDSA, Metro Manila"}
+{"qid":7462,"place":"Kaifeng","lat":34.7973,"lon":114.3078,"precision":"city","confidence":"medium","note":"Northern Song capital Bianjing"}
+{"qid":1165372,"place":"Grand Kremlin Palace","lat":55.7510,"lon":37.6159,"precision":"site","confidence":"medium","note":"20th Congress session in Moscow Kremlin"}
+{"qid":20124,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"high","note":"Published by John Murray, London"}
+{"qid":554280,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"Astronomical object, no earthly location"}
+{"qid":5858325,"place":"Havana","lat":23.1136,"lon":-82.3666,"precision":"city","confidence":"high","note":"Negotiations held in Havana"}
+{"qid":1332014,"place":"Gülhane Park","lat":41.0131,"lon":28.9814,"precision":"site","confidence":"high","note":"Proclaimed in Gülhane Park"}
+{"qid":43107,"place":"Split, Croatia","lat":43.5081,"lon":16.4402,"precision":"city","confidence":"medium","note":"Retired to Diocletian's Palace, Split"}
+{"qid":3809270,"place":"Ankara","lat":39.9334,"lon":32.8597,"precision":"city","confidence":"high","note":"Assembly abolished sultanate in Ankara"}
+{"qid":42188,"place":"Tasmania","lat":-42.0000,"lon":146.5000,"precision":"region","confidence":"low","note":"Discovered Tasmania 1642"}
+{"qid":15136651,"place":"Tacloban","lat":11.2444,"lon":125.0039,"precision":"city","confidence":"high","note":"Worst devastation at Tacloban"}
+{"qid":331785,"place":"Baikonur Cosmodrome","lat":45.9650,"lon":63.3050,"precision":"site","confidence":"medium","note":"Launched from Baikonur 1998"}
+{"qid":273711,"place":"Berlin","lat":52.5200,"lon":13.4050,"precision":"city","confidence":"medium","note":"Einstein presented 1915 field equations in Berlin"}
+{"qid":868502,"place":"Provincetown Harbor","lat":42.0500,"lon":-70.1833,"precision":"site","confidence":"high","note":"Signed aboard Mayflower at Cape Cod"}
+{"qid":193751,"place":"Annonay","lat":45.2392,"lon":4.6700,"precision":"city","confidence":"high","note":"Home town of the brothers"}
+{"qid":60827595,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"medium","note":"DeepMind headquartered in London"}
+{"qid":846795,"place":"Flushing Meadows-Corona Park","lat":40.7466,"lon":-73.8456,"precision":"site","confidence":"medium","note":"General Assembly vote held at Flushing Meadows"}
+{"qid":42013,"place":"Jerusalem","lat":31.7683,"lon":35.2137,"precision":"city","confidence":"high","note":"Sadat addressed the Knesset"}
+{"qid":187152,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"high","note":"Letter issued in London"}
+{"qid":836386,"place":"Independence Square, Kyiv","lat":50.4501,"lon":30.5234,"precision":"site","confidence":"high","note":"Protests centered on Maidan"}
+{"qid":34777,"place":"Würzburg","lat":49.7913,"lon":9.9534,"precision":"city","confidence":"high","note":"Röntgen discovered X-rays there"}
+{"qid":1121487,"place":"Barcelona","lat":41.3874,"lon":2.1686,"precision":"city","confidence":"medium","note":"Issued by Charles V at Barcelona"}
+{"qid":1335777,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"high","note":"Passed by Parliament in Westminster"}
+{"qid":151060,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"high","note":"Enacted in Paris 1804"}
+{"qid":663273,"place":"Pavia","lat":45.1847,"lon":9.1582,"precision":"city","confidence":"medium","note":"Volta worked at University of Pavia"}
+{"qid":1421412,"place":"Cádiz","lat":36.5271,"lon":-6.2886,"precision":"city","confidence":"high","note":"Ratified by Cortes of Cádiz"}
+{"qid":207637,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"high","note":"Signed into law in Washington"}
+{"qid":8581,"place":"Battle of Hattin","lat":32.8100,"lon":35.4500,"precision":"site","confidence":"medium","note":"Defining victory, capture of Jerusalem nearby"}
+{"qid": 130971, "place": "Berlin", "lat": 52.52, "lon": 13.405, "precision": "city", "confidence": "low", "note": "Koch's discovery in Berlin"}
+{"qid": 770832, "place": "Palace of Westminster", "lat": 51.4994, "lon": -0.1248, "precision": "site", "confidence": "high", "note": "UK Parliament passed it"}
+{"qid": 310218, "place": "Kroll Opera House", "lat": 52.5186, "lon": 13.3727, "precision": "site", "confidence": "high", "note": "Reichstag met there for the vote"}
+{"qid": 13443401, "place": "Boston", "lat": 42.3601, "lon": -71.0589, "precision": "city", "confidence": "low", "note": "Bell's telephone work in Boston"}
+{"qid": 1800631, "place": "Greater Iqbal Park", "lat": 31.5917, "lon": 74.3107, "precision": "site", "confidence": "high", "note": "Formerly Minto Park, Lahore"}
+{"qid": 30487, "place": "Novodevichy Cemetery", "lat": 55.7261, "lon": 37.5547, "precision": "site", "confidence": "medium", "note": "Burial place"}
+{"qid": 3922436, "place": "Palazzo Carignano", "lat": 45.0679, "lon": 7.6853, "precision": "site", "confidence": "medium", "note": "Parliament of Sardinia seat in Turin"}
+{"qid": 1192212, "place": "Saint Petersburg", "lat": 59.9343, "lon": 30.3351, "precision": "city", "confidence": "medium", "note": "Manifesto signed in imperial capital"}
+{"qid": 2222, "place": "Brunswick, Maine", "lat": 43.9145, "lon": -69.9653, "precision": "city", "confidence": "medium", "note": "Stowe wrote it there"}
+{"qid": 2604, "place": "St. Peter's Basilica", "lat": 41.9022, "lon": 12.4539, "precision": "site", "confidence": "medium", "note": "Burial place"}
+{"qid": 239344, "place": "Dandi, Gujarat", "lat": 20.887, "lon": 72.8056, "precision": "city", "confidence": "medium", "note": "March ended at Dandi"}
+{"qid": 2823577, "place": "Seimas Palace", "lat": 54.6892, "lon": 25.265, "precision": "site", "confidence": "medium", "note": "Supreme Council met in Vilnius"}
+{"qid": 485547, "place": "Red Fort", "lat": 28.6562, "lon": 77.241, "precision": "site", "confidence": "low", "note": "Mughal seat during reign"}
+{"qid": 171375, "place": "United States Capitol", "lat": 38.8899, "lon": -77.0091, "precision": "site", "confidence": "high", "note": "Speech to Congress"}
+{"qid": 2161196, "place": "Mexico City", "lat": 19.4326, "lon": -99.1332, "precision": "city", "confidence": "high", "note": "Decree announced from capital"}
+{"qid": 14277, "place": "Slough", "lat": 51.5105, "lon": -0.595, "precision": "city", "confidence": "low", "note": "Lived and buried near Slough"}
+{"qid": 1393866, "place": "CERN", "lat": 46.233, "lon": 6.0557, "precision": "site", "confidence": "high", "note": "Web invented at CERN"}
+{"qid": 131002, "place": "Baghdad", "lat": 33.3152, "lon": 44.3661, "precision": "city", "confidence": "high", "note": "Abbasid capital"}
+{"qid": 182546, "place": "Auburn, Massachusetts", "lat": 42.1945, "lon": -71.8356, "precision": "city", "confidence": "high", "note": "First liquid-fueled rocket launch"}
+{"qid": 2670007, "place": "Lisbon", "lat": 38.7223, "lon": -9.1393, "precision": "city", "confidence": "high", "note": "Court departed from Lisbon"}
+{"qid": 233562, "place": "London", "lat": 51.5074, "lon": -0.1278, "precision": "city", "confidence": "low", "note": "Published in London"}
+{"qid": 9438, "place": "Fossanova Abbey", "lat": 41.4733, "lon": 13.2022, "precision": "site", "confidence": "medium", "note": "Died there"}
+{"qid": 192868, "place": "Mashhad", "lat": 36.2605, "lon": 59.6168, "precision": "city", "confidence": "low", "note": "Nader Shah's capital"}
+{"qid": 18529918, "place": "Westminster Hall", "lat": 51.4998, "lon": -0.1262, "precision": "site", "confidence": "medium", "note": "Court of King's Bench sat there"}
+{"qid": 208460, "place": "London", "lat": 51.5074, "lon": -0.1278, "precision": "city", "confidence": "low", "note": "Published in London"}
+{"qid": 4576, "place": "Washington, D.C.", "lat": 38.9072, "lon": -77.0369, "precision": "city", "confidence": "high", "note": "US government enacted it"}
+{"qid": 33941, "place": "Paris", "lat": 48.8566, "lon": 2.3522, "precision": "city", "confidence": "low", "note": "Proclaimed Augustus at Lutetia"}
+{"qid": 917709, "place": "Forbidden City", "lat": 39.9163, "lon": 116.3972, "precision": "site", "confidence": "medium", "note": "Guangxu Emperor's reform edicts"}
+{"qid": 42761, "place": "Watergate complex", "lat": 38.8999, "lon": -77.0551, "precision": "site", "confidence": "high", "note": "Break-in site"}
+{"qid": 231693, "place": "Taj Mahal", "lat": 27.1751, "lon": 78.0421, "precision": "site", "confidence": "high", "note": "Her tomb"}
+{"qid": 1413, "place": "Rome", "lat": 41.9028, "lon": 12.4964, "precision": "city", "confidence": "high", "note": "Imperial capital"}
+{"qid": 1383604, "place": "Washington, D.C.", "lat": 38.9072, "lon": -77.0369, "precision": "city", "confidence": "high", "note": "Signed by Roosevelt at White House"}
+{"qid": 1848208, "place": "Rome", "lat": 41.9028, "lon": 12.4964, "precision": "city", "confidence": "high", "note": "Papal bull issued in Rome"}
+{"qid": 269668, "place": "Baikonur Cosmodrome", "lat": 45.965, "lon": 63.305, "precision": "site", "confidence": "high", "note": "Launch site"}
+{"qid": 192446, "place": "United States", "lat": 39.8283, "lon": -98.5795, "precision": "country", "confidence": "low", "note": "International, mainly US-led"}
+{"qid": 514818, "place": "University of Manchester", "lat": 53.4668, "lon": -2.2339, "precision": "site", "confidence": "high", "note": "Built at Victoria University"}
+{"qid": 2120252, "place": "Ananta Samakhom Throne Hall", "lat": 13.7678, "lon": 100.5128, "precision": "site", "confidence": "medium", "note": "Coup proclaimed there"}
+{"qid": 2517983, "place": "Rome", "lat": 41.9028, "lon": 12.4964, "precision": "city", "confidence": "high", "note": "Inquisition trials in Rome"}
+{"qid": 9683, "place": "Chang'an", "lat": 34.2667, "lon": 108.95, "precision": "city", "confidence": "high", "note": "Tang capital"}
+{"qid": 69772, "place": "Aguinaldo Shrine", "lat": 14.4128, "lon": 120.9017, "precision": "site", "confidence": "high", "note": "Proclaimed at Aguinaldo house, Kawit"}
+{"qid": 4553059, "place": "Point Venus", "lat": -17.4975, "lon": -149.4947, "precision": "site", "confidence": "high", "note": "Observation site in Tahiti"}
+{"qid": 19866992, "place": "United States Supreme Court Building", "lat": 38.8906, "lon": -77.0044, "precision": "site", "confidence": "high", "note": "Supreme Court decision"}
+{"qid": 1454324, "place": "Kliptown", "lat": -26.265, "lon": 27.887, "precision": "city", "confidence": "medium", "note": "Adopted at Congress of the People"}
+{"qid": 17310682, "place": null, "lat": null, "lon": null, "precision": "none", "confidence": "low", "note": "No single physical location"}
+{"qid": 239505, "place": "Raigad Fort", "lat": 18.2342, "lon": 73.44, "precision": "site", "confidence": "high", "note": "Coronation site and capital"}
+{"qid": 2081121, "place": "Kinshasa", "lat": -4.4419, "lon": 15.2663, "precision": "city", "confidence": "high", "note": "Origin of pandemic HIV-1 M"}
+{"qid": 12519, "place": "Runnymede", "lat": 51.4442, "lon": -0.5622, "precision": "site", "confidence": "high", "note": "Sealed there"}
+{"qid": 51497, "place": "Bern", "lat": 46.948, "lon": 7.4474, "precision": "city", "confidence": "high", "note": "Einstein worked at patent office"}
+{"qid": 79789, "place": "Aachen", "lat": 50.7753, "lon": 6.0839, "precision": "city", "confidence": "low", "note": "Coronation city, Barbarossa's seat"}
+{"qid": 688605, "place": "Wright Brothers National Memorial", "lat": 36.0136, "lon": -75.6678, "precision": "site", "confidence": "medium", "note": "First flight at Kill Devil Hills"}
+{"qid": 87719492, "place": "Coventry", "lat": 52.4068, "lon": -1.5197, "precision": "city", "confidence": "medium", "note": "First vaccination at Coventry hospital"}
+{"qid": 2875, "place": "Culver City, California", "lat": 34.0211, "lon": -118.3965, "precision": "city", "confidence": "low", "note": "Selznick studio production"}
+{"qid": 320930, "place": "Luoyang", "lat": 34.6197, "lon": 112.454, "precision": "city", "confidence": "medium", "note": "Capital of Cao Wei"}
+{"qid": 7519, "place": "Karakorum", "lat": 47.1986, "lon": 102.8225, "precision": "city", "confidence": "medium", "note": "Built capital of his empire"}
+{"qid": 2335216, "place": "Bell Labs", "lat": 40.6838, "lon": -74.4004, "precision": "site", "confidence": "high", "note": "Murray Hill demonstration"}
+{"qid": 47359, "place": "Kyoto", "lat": 35.0116, "lon": 135.7681, "precision": "city", "confidence": "high", "note": "Adopted in Kyoto"}
+{"qid": 181026, "place": "United States Capitol", "lat": 38.8899, "lon": -77.0091, "precision": "site", "confidence": "high", "note": "Address to Congress"}
+{"qid": 186447, "place": "Guiana Space Centre", "lat": 5.2322, "lon": -52.7693, "precision": "site", "confidence": "high", "note": "Launch site"}
+{"qid": 5099981, "place": "Doha", "lat": 25.2854, "lon": 51.531, "precision": "city", "confidence": "high", "note": "Ministerial Conference admitted China"}
+{"qid": 219447, "place": "Palace of Westminster", "lat": 51.4994, "lon": -0.1248, "precision": "site", "confidence": "high", "note": "Passed by English Parliament"}
+{"qid": 212986, "place": "Berlin", "lat": 52.52, "lon": 13.405, "precision": "city", "confidence": "medium", "note": "Quantum theory developed in Berlin"}
+{"qid": 719883, "place": "Palace of Westminster", "lat": 51.4994, "lon": -0.1248, "precision": "site", "confidence": "high", "note": "UK Parliament act"}
+{"qid": 1434, "place": "Rome", "lat": 41.9028, "lon": 12.4964, "precision": "city", "confidence": "high", "note": "Ruled from Rome"}
+{"qid": 192236, "place": "Canterbury Cathedral", "lat": 51.2797, "lon": 1.0829, "precision": "site", "confidence": "high", "note": "Murdered there"}
+{"qid": 184201, "place": "Kennedy Space Center Launch Complex 39A", "lat": 28.6082, "lon": -80.6041, "precision": "site", "confidence": "high", "note": "Launch site"}
+{"qid": 1128, "place": "Paris", "lat": 48.8566, "lon": 2.3522, "precision": "city", "confidence": "medium", "note": "Discovered by the Curies in Paris"}
+{"qid": 3044, "place": "Aachen", "lat": 50.7753, "lon": 6.0839, "precision": "city", "confidence": "high", "note": "Charlemagne's capital and burial"}
+{"qid": 5115965, "place": "Plaza de Mayo", "lat": -34.6084, "lon": -58.3731, "precision": "site", "confidence": "medium", "note": "Main protest square, Buenos Aires"}
+{"qid": 671479, "place": "Great Hall of the People", "lat": 39.9053, "lon": 116.3913, "precision": "site", "confidence": "high", "note": "Signing venue"}
+{"qid": 36488, "place": "Sasso Marconi", "lat": 44.4003, "lon": 11.2494, "precision": "city", "confidence": "low", "note": "Burial place near Villa Griffone"}
+{"qid": 1205521, "place": "Beijing", "lat": 39.9042, "lon": 116.4074, "precision": "city", "confidence": "high", "note": "Plenary session launched reforms"}
+{"qid": 1994771, "place": "House of the Estates", "lat": 60.1685, "lon": 24.9528, "precision": "site", "confidence": "medium", "note": "Parliament met in Helsinki"}
+{"qid": 4887658, "place": "Kolkata", "lat": 22.5726, "lon": 88.3639, "precision": "city", "confidence": "high", "note": "Issued in Calcutta"}
+{"qid": 41921, "place": "Montgomery, Alabama", "lat": 32.3668, "lon": -86.3, "precision": "city", "confidence": "high", "note": "Bus incident"}
+{"qid": 1872054, "place": "Groote Schuur Hospital", "lat": -33.9419, "lon": 18.464, "precision": "site", "confidence": "high", "note": "Transplant performed there"}
+{"qid": 7813, "place": "Palais de Chaillot", "lat": 48.8626, "lon": 2.2877, "precision": "site", "confidence": "high", "note": "Adopted there"}
+{"qid": 1541, "place": "Rome", "lat": 41.9028, "lon": 12.4964, "precision": "city", "confidence": "low", "note": "Career centered in Rome"}
