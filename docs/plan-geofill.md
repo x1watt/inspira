@@ -1,6 +1,6 @@
 # Plan: filling missing locations with a language model
 
-Status: ready to run (prepared 2026-10-16). Any model or person can do
+Status: done for the 2026-10 dumps (2026-10-16), see section 9. Any model or person can do
 the work in small batches, stop at any time and resume later; progress
 lives only in files, never in a conversation.
 
@@ -167,3 +167,22 @@ would, through a prepare step reading that language's ZIM.
 - GeoNames for named places without a Wikidata point (section 2).
 - A second opinion on `model-low` answers of the most linked items.
 - More of group C (the 335,325 less linked dated items) if wanted.
+
+## 9. Result of the first run (2026-10-16)
+
+All 396 batches answered by Claude Sonnet agents (20 at a time, 3
+batches each, about 60k tokens and 1.5 minutes per batch): 78,944
+answers. Typos in qids (about 1 batch in 8) were fixed by
+`geofill/repair.py`.
+
+| Group | Answers | high / medium / low | site / city / region / country / none |
+|---|---|---|---|
+| A events | 25,107 | 14,003 / 7,781 / 3,323 | 7,010 / 12,030 / 2,437 / 1,346 / 2,284 |
+| B places | 5,258 | 1,049 / 2,929 / 1,280 | 75 / 2,136 / 2,808 / 219 / 20 |
+| C dated items | 48,262 | 29,517 / 15,207 / 3,538 | 3,321 / 20,326 / 9,805 / 8,713 / 6,097 |
+
+Merged into `geo.zx`: 70,485 model points (high 38,934, medium 24,382,
+low 7,169) and 13,984 ZIM points, 84,469 new points in all. Verified
+events with a point: 99.1% (from 64.5%); `model-high` 93.5% within
+50 km, `model-medium` 82.5%, `model-low` 42.9%. The merge needs little
+memory now (160 MB limit), so it runs next to a busy desktop.

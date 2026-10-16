@@ -18,7 +18,7 @@ const fillTiers = ['zim', 'model-high', 'model-medium', 'model-low'];
 void main(List<String> args) {
   final db = ZxDatabase.open(args[0],
       options: ZxDbStoreOptions(
-          durable: false, threads: 4, memoryLimit: 512 << 20, pageCacheBytes: 64 << 20));
+          durable: false, threads: 2, memoryLimit: 160 << 20, pageCacheBytes: 24 << 20));
   final dir = args[1];
   db.sql.execute('BEGIN');
   final removed = db.sql
