@@ -1,0 +1,50 @@
+{"qid":2822794,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"high","note":"signed in New York"}
+{"qid":4117896,"place":"Manama","lat":26.2235,"lon":50.5876,"precision":"city","confidence":"medium","note":"uprising in Bahrain"}
+{"qid":2258636,"place":"Palermo","lat":38.1157,"lon":13.3615,"precision":"city","confidence":"medium","note":"Sicilian Mafia center"}
+{"qid":4637464,"place":"Varsity Stadium","lat":43.667,"lon":-79.397,"precision":"site","confidence":"high","note":"game venue"}
+{"qid":4611723,"place":"Market! Market!","lat":14.5496,"lon":121.0558,"precision":"site","confidence":"high","note":"draft venue"}
+{"qid":7228810,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"high","note":"march on Washington"}
+{"qid":4569991,"place":"Boston","lat":42.3601,"lon":-71.0589,"precision":"city","confidence":"high","note":"draft held in Boston"}
+{"qid":4603182,"place":"Glorietta","lat":14.551,"lon":121.025,"precision":"site","confidence":"medium","note":"draft venue Makati"}
+{"qid":389853,"place":"Montevideo","lat":-34.9011,"lon":-56.1645,"precision":"city","confidence":"high","note":"coup in capital"}
+{"qid":4604724,"place":"Cainta","lat":14.578,"lon":121.1222,"precision":"city","confidence":"medium","note":"Sta. Lucia East Grand Mall"}
+{"qid":7573442,"place":"Veracruz","lat":19.1738,"lon":-96.1342,"precision":"city","confidence":"low","note":"Spanish landing attempts"}
+{"qid":18207243,"place":"Iraq","lat":33.2232,"lon":43.6793,"precision":"country","confidence":"medium","note":"operation in Iraq and Syria"}
+{"qid":1773491,"place":"Port Egmont","lat":-51.35,"lon":-60.05,"precision":"site","confidence":"medium","note":"British settlement seized"}
+{"qid":327632,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"low","note":"UN observance"}
+{"qid":123562530,"place":"Tauranga","lat":-37.6878,"lon":176.1651,"precision":"city","confidence":"high","note":"held in Tauranga"}
+{"qid":2600719,"place":"Yonkers, New York","lat":40.9312,"lon":-73.8988,"precision":"city","confidence":"high","note":"marathon in Yonkers"}
+{"qid":10511142,"place":"Stockholm","lat":59.3293,"lon":18.0686,"precision":"city","confidence":"high","note":"coup in Stockholm"}
+{"qid":12128040,"place":"Kyiv","lat":50.4501,"lon":30.5234,"precision":"city","confidence":"medium","note":"uprising against Hetman"}
+{"qid":1200928,"place":"Prachuap Khiri Khan","lat":11.8126,"lon":99.7957,"precision":"city","confidence":"medium","note":"main landing site"}
+{"qid":4608483,"place":"State Farm Stadium","lat":33.5276,"lon":-112.2626,"precision":"site","confidence":"high","note":"Glendale, Arizona"}
+{"qid":1051969,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"no single place"}
+{"qid":99647251,"place":"Dolby Theatre","lat":34.102,"lon":-118.3407,"precision":"site","confidence":"high","note":"ceremony venue"}
+{"qid":1809578,"place":"Venezuela","lat":6.4238,"lon":-66.5897,"precision":"country","confidence":"high","note":"race in Venezuela"}
+{"qid":11030407,"place":"Munster","lat":52.3,"lon":-8.7,"precision":"region","confidence":"medium","note":"main theatre of rebellion"}
+{"qid":1520145,"place":"Geneva","lat":46.2044,"lon":6.1432,"precision":"city","confidence":"high","note":"adopted in Geneva"}
+{"qid":7148030,"place":"Windsor, Ontario","lat":42.3149,"lon":-83.0364,"precision":"city","confidence":"low","note":"Battle of Windsor"}
+{"qid":57116,"place":"Boston","lat":42.3601,"lon":-71.0589,"precision":"city","confidence":"low","note":"first vigil in San Francisco"}
+{"qid":56295813,"place":"Dalian","lat":38.914,"lon":121.6147,"precision":"city","confidence":"high","note":"held in Dalian"}
+{"qid":3002755,"place":"Place de la Concorde","lat":48.8656,"lon":2.3212,"precision":"site","confidence":"high","note":"demonstration site"}
+{"qid":2440782,"place":"Kooyong Stadium","lat":-37.826,"lon":145.035,"precision":"site","confidence":"high","note":"tournament venue"}
+{"qid":1334580,"place":"Basque Country (autonomous community)","lat":43.0,"lon":-2.5,"precision":"region","confidence":"high","note":"race in Basque Country"}
+{"qid":1716388,"place":"Athens","lat":37.9838,"lon":23.7275,"precision":"city","confidence":"high","note":"coup in Athens"}
+{"qid":1747530,"place":"Colombia","lat":4.5709,"lon":-74.2973,"precision":"country","confidence":"high","note":"conquest of Colombia"}
+{"qid":3331223,"place":"Adrianople","lat":41.6771,"lon":26.5557,"precision":"city","confidence":"low","note":"Battle of Adrianople 378"}
+{"qid":702250,"place":"Kiel","lat":54.3233,"lon":10.1228,"precision":"city","confidence":"high","note":"mutiny in Kiel"}
+{"qid":3549892,"place":"Pathum Thani","lat":14.0208,"lon":100.525,"precision":"city","confidence":"high","note":"Queen Sirikit Sport Centre"}
+{"qid":25387089,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"various venues"}
+{"qid":925931,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"low","note":"Security Council seat"}
+{"qid":1131379,"place":"Province of Pisa","lat":43.7167,"lon":10.4,"precision":"region","confidence":"medium","note":"race in Pisa province"}
+{"qid":1316065,"place":"Libya","lat":26.3351,"lon":17.2283,"precision":"country","confidence":"high","note":"operation in Libya"}
+{"qid":4499395,"place":"Riga","lat":56.9496,"lon":24.1052,"precision":"city","confidence":"medium","note":"Riga ghetto massacres"}
+{"qid":121833146,"place":"Market! Market!","lat":14.5496,"lon":121.0558,"precision":"site","confidence":"high","note":"draft venue"}
+{"qid":3354417,"place":"Thailand","lat":15.87,"lon":100.9925,"precision":"country","confidence":"low","note":"border raids in Thailand"}
+{"qid":122687887,"place":"Toronto","lat":43.6532,"lon":-79.3832,"precision":"city","confidence":"high","note":"draft held in Toronto"}
+{"qid":384281,"place":"Kooyong Stadium","lat":-37.826,"lon":145.035,"precision":"site","confidence":"high","note":"tournament venue"}
+{"qid":48733969,"place":"Dhaka","lat":23.8103,"lon":90.4125,"precision":"city","confidence":"high","note":"coup in capital"}
+{"qid":4641810,"place":"Exhibition Stadium","lat":43.633,"lon":-79.417,"precision":"site","confidence":"high","note":"CNE Stadium"}
+{"qid":133801404,"place":"Wrocław","lat":51.1079,"lon":17.0385,"precision":"city","confidence":"high","note":"held in Wrocław"}
+{"qid":120674539,"place":"KSPO Dome","lat":37.5189,"lon":127.1272,"precision":"site","confidence":"high","note":"venue"}
+{"qid":17109394,"place":"Oriental Hotel (Lagos)","lat":6.4281,"lon":3.4219,"precision":"site","confidence":"low","note":"ceremony venue"}

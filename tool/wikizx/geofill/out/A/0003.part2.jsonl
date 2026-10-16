@@ -1,0 +1,50 @@
+{"qid":1235413,"place":"Slovenia","lat":46.1512,"lon":14.9955,"precision":"country","confidence":"high","note":"race across Slovenia"}
+{"qid":132541461,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"medium","note":"most attacks in Paris"}
+{"qid":431678,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"holiday"}
+{"qid":2168169,"place":"Headquarters of the United Nations","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"medium","note":"adopted at UN"}
+{"qid":64876,"place":"Lebanon","lat":33.8547,"lon":35.8623,"precision":"country","confidence":"high","note":"occupation of Lebanon"}
+{"qid":1420526,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"medium","note":"movement across Brazil"}
+{"qid":2557059,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"rotating venues"}
+{"qid":65146482,"place":"Bristol, Connecticut","lat":41.6736,"lon":-72.9493,"precision":"city","confidence":"low","note":"virtual, ESPN studios"}
+{"qid":595545,"place":"Hungary","lat":47.1625,"lon":19.5033,"precision":"country","confidence":"high","note":"war in Hungary"}
+{"qid":2120129,"place":"Valencian Community","lat":39.484,"lon":-0.7533,"precision":"region","confidence":"high","note":"race in Valencian Community"}
+{"qid":136402196,"place":"Sharm El Sheikh","lat":27.9158,"lon":34.33,"precision":"city","confidence":"low","note":"signing summit location"}
+{"qid":532261,"place":"Detroit","lat":42.3314,"lon":-83.0458,"precision":"city","confidence":"high","note":"held in Detroit"}
+{"qid":2671645,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"festival"}
+{"qid":16153443,"place":"Theatre Royal, Drury Lane","lat":51.513,"lon":-0.1203,"precision":"site","confidence":"high","note":"ceremony venue"}
+{"qid":4643514,"place":"Lansdowne Park","lat":45.3982,"lon":-75.6836,"precision":"site","confidence":"high","note":"played there"}
+{"qid":734828,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"high","note":"held in New York"}
+{"qid":16240553,"place":"State Farm Stadium","lat":33.5276,"lon":-112.2626,"precision":"site","confidence":"high","note":"played at stadium in Glendale"}
+{"qid":277655,"place":"Stade Roland Garros","lat":48.847,"lon":2.253,"precision":"site","confidence":"high","note":"venue"}
+{"qid":116763813,"place":"Toronto","lat":43.6532,"lon":-79.3832,"precision":"city","confidence":"high","note":"held in Toronto"}
+{"qid":23712863,"place":"Brasília","lat":-15.7939,"lon":-47.8828,"precision":"city","confidence":"high","note":"Congress in capital"}
+{"qid":311773,"place":"Auschwitz concentration camp","lat":50.0345,"lon":19.1783,"precision":"site","confidence":"low","note":"best known Sonderkommando site"}
+{"qid":183186,"place":"France","lat":46.6034,"lon":1.8883,"precision":"country","confidence":"high","note":"race in France"}
+{"qid":1103825,"place":"Almería","lat":36.834,"lon":-2.4637,"precision":"city","confidence":"high","note":"race in Almería"}
+{"qid":521328,"place":"All England Lawn Tennis and Croquet Club","lat":51.4344,"lon":-0.2142,"precision":"site","confidence":"high","note":"venue"}
+{"qid":20805621,"place":"Worthing","lat":50.8148,"lon":-0.3728,"precision":"city","confidence":"medium","note":"men's event in Worthing"}
+{"qid":1107771,"place":"Royal Society","lat":51.5069,"lon":-0.1316,"precision":"site","confidence":"low","note":"awarding body in London"}
+{"qid":1982745,"place":"Barcelona","lat":41.3874,"lon":2.1686,"precision":"city","confidence":"low","note":"revolution centered in Catalonia"}
+{"qid":125146196,"place":"KeyBank Center","lat":42.875,"lon":-78.8764,"precision":"site","confidence":"high","note":"held there"}
+{"qid":1346487,"place":"Athens","lat":37.9838,"lon":23.7275,"precision":"city","confidence":"low","note":"political conflict in capital"}
+{"qid":135745844,"place":"T-Mobile Arena","lat":36.1029,"lon":-115.1784,"precision":"site","confidence":"medium","note":"final in Las Vegas"}
+{"qid":192373,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"observance"}
+{"qid":3118368,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"nationwide strike"}
+{"qid":2153651,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"various venues"}
+{"qid":1770490,"place":"The Cenotaph, Whitehall","lat":51.5051,"lon":-0.126,"precision":"site","confidence":"low","note":"national ceremony site"}
+{"qid":19576837,"place":"Toronto","lat":43.6532,"lon":-79.3832,"precision":"city","confidence":"high","note":"held in Toronto"}
+{"qid":2733574,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"high","note":"held in New York"}
+{"qid":139845,"place":"Deccan Plateau","lat":18.0,"lon":77.0,"precision":"region","confidence":"low","note":"wars across the Deccan"}
+{"qid":513691,"place":"Dunkirk","lat":51.0343,"lon":2.3768,"precision":"city","confidence":"high","note":"race based in Dunkirk"}
+{"qid":5166678,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"naval convoys at sea"}
+{"qid":3119021,"place":"Australia","lat":-25.2744,"lon":133.7751,"precision":"country","confidence":"high","note":"rugby league conflict"}
+{"qid":505799,"place":"Denmark","lat":56.2639,"lon":9.5018,"precision":"country","confidence":"high","note":"race in Denmark"}
+{"qid":4645138,"place":"Olympic Stadium (Montreal)","lat":45.5579,"lon":-73.5516,"precision":"site","confidence":"medium","note":"held in Montreal"}
+{"qid":64214281,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"observance"}
+{"qid":122960965,"place":"Niger","lat":17.6078,"lon":8.0817,"precision":"country","confidence":"medium","note":"insurgency in Niger"}
+{"qid":3349216,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"festival"}
+{"qid":4643687,"place":"BC Place","lat":49.2768,"lon":-123.1119,"precision":"site","confidence":"high","note":"played at stadium"}
+{"qid":2366683,"place":"Roosevelt Hotel (New York City)","lat":40.7549,"lon":-73.9783,"precision":"site","confidence":"medium","note":"Roosevelt Hotel"}
+{"qid":701398,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"festival"}
+{"qid":618048,"place":"Sofia","lat":42.6977,"lon":23.3219,"precision":"city","confidence":"high","note":"coup in capital"}
+{"qid":4114552,"place":"Islamabad","lat":33.6844,"lon":73.0479,"precision":"city","confidence":"medium","note":"coup at PM Secretariat"}
