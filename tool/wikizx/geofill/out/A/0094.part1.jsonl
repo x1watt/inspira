@@ -1,0 +1,50 @@
+{"qid":18434192,"place":"Circuit de Spa-Francorchamps","lat":50.4372,"lon":5.9714,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":6352460,"place":"Marina Bay Street Circuit","lat":1.2914,"lon":103.8639,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":118903137,"place":"Kish Island","lat":26.5333,"lon":53.9833,"precision":"region","confidence":"low","note":"adjacent to Kish Island"}
+{"qid":1413505,"place":"Autodromo Enzo e Dino Ferrari","lat":44.3439,"lon":11.7167,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":118903830,"place":"Pantages Theatre (Hollywood)","lat":34.1019,"lon":-118.3262,"precision":"site","confidence":"medium","note":"ceremony venue"}
+{"qid":4600469,"place":"San Jose, California","lat":37.3382,"lon":-121.8863,"precision":"city","confidence":"high","note":"bowl game city"}
+{"qid":118904070,"place":"Akora Khattak","lat":33.9,"lon":72.1,"precision":"city","confidence":"medium","note":"battle at Akora"}
+{"qid":118904150,"place":"Banda Aceh","lat":5.5483,"lon":95.3238,"precision":"city","confidence":"medium","note":"battle in Aceh city"}
+{"qid":118904261,"place":"Araçariguama","lat":-23.4375,"lon":-47.0617,"precision":"city","confidence":"high","note":"case location"}
+{"qid":3703656,"place":"St. Jakobshalle","lat":47.5339,"lon":7.6253,"precision":"site","confidence":"high","note":"tournament venue"}
+{"qid":118904435,"place":"Recife","lat":-8.0476,"lon":-34.877,"precision":"city","confidence":"medium","note":"case in Recife"}
+{"qid":118904561,"place":"The Peninsula Manila","lat":14.5547,"lon":121.0244,"precision":"site","confidence":"high","note":"ceremony venue"}
+{"qid":118904674,"place":"The Peninsula Manila","lat":14.5547,"lon":121.0244,"precision":"site","confidence":"high","note":"ceremony venue"}
+{"qid":118904737,"place":"Mogadishu","lat":2.0469,"lon":45.3182,"precision":"city","confidence":"high","note":"hotel siege in Mogadishu"}
+{"qid":118904889,"place":"Curitiba","lat":-25.4284,"lon":-49.2733,"precision":"city","confidence":"high","note":"found at bus station"}
+{"qid":118904968,"place":"Bonifacio Global City","lat":14.5503,"lon":121.0508,"precision":"city","confidence":"medium","note":"events place in BGC"}
+{"qid":20021113,"place":"Circuit de Monaco","lat":43.7347,"lon":7.4206,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":6803509,"place":"Scotland","lat":56.4907,"lon":-4.2026,"precision":"country","confidence":"medium","note":"Scottish universities tradition"}
+{"qid":118906017,"place":"Syria","lat":34.8021,"lon":38.9968,"precision":"country","confidence":"low","note":"campaign aimed at Syria"}
+{"qid":3862364,"place":"Monterrey","lat":25.6866,"lon":-100.3161,"precision":"city","confidence":"high","note":"tournament city"}
+{"qid":118906124,"place":"Westin Bonaventure Hotel","lat":34.0531,"lon":-118.2565,"precision":"site","confidence":"high","note":"ceremony venue"}
+{"qid":118906200,"place":"Circuit de Monaco","lat":43.7347,"lon":7.4206,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":117830749,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"medium","note":"ceremony in New York"}
+{"qid":66778659,"place":"Kondengui Central Prison","lat":3.8914,"lon":11.5314,"precision":"site","confidence":"medium","note":"first riot site"}
+{"qid":112701749,"place":"Berkeley, California","lat":37.8715,"lon":-122.273,"precision":"city","confidence":"high","note":"shot near Berkeley"}
+{"qid":7592831,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"custom day"}
+{"qid":5375463,"place":"Jiangxi","lat":28.674,"lon":115.91,"precision":"region","confidence":"medium","note":"Northeastern Jiangxi"}
+{"qid":118947082,"place":"Supreme Court of Pakistan","lat":33.7287,"lon":73.1018,"precision":"site","confidence":"medium","note":"protest outside court"}
+{"qid":113265083,"place":"TVB City","lat":22.3053,"lon":114.2593,"precision":"site","confidence":"medium","note":"TVB studio"}
+{"qid":5375461,"place":"Hunan","lat":27.6104,"lon":111.7088,"precision":"region","confidence":"low","note":"border region approximate"}
+{"qid":109040451,"place":"Amman","lat":31.9454,"lon":35.9284,"precision":"city","confidence":"medium","note":"centre near Amman"}
+{"qid":119039604,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"online ceremony"}
+{"qid":119039634,"place":"Gibson Amphitheatre","lat":34.1403,"lon":-118.3523,"precision":"site","confidence":"medium","note":"ceremony venue"}
+{"qid":66765154,"place":"Trento","lat":46.0748,"lon":11.1217,"precision":"city","confidence":"medium","note":"battle near Tridentum"}
+{"qid":66744487,"place":"Salt Lake City","lat":40.7608,"lon":-111.891,"precision":"city","confidence":"high","note":"murder in Salt Lake City"}
+{"qid":6574664,"place":"West Bank","lat":31.9522,"lon":35.2332,"precision":"region","confidence":"medium","note":"attacks in West Bank"}
+{"qid":119084682,"place":"São Gabriel, Rio Grande do Sul","lat":-30.3361,"lon":-54.3214,"precision":"city","confidence":"high","note":"death in São Gabriel"}
+{"qid":66707351,"place":"Alexandra, New Zealand","lat":-45.25,"lon":169.3833,"precision":"city","confidence":"high","note":"hunt around Alexandra"}
+{"qid":66678165,"place":"Gran Canaria","lat":27.96,"lon":-15.6,"precision":"region","confidence":"low","note":"most severe fires there"}
+{"qid":321938,"place":"Bonn","lat":50.7374,"lon":7.0982,"precision":"city","confidence":"high","note":"signed in Bonn"}
+{"qid":6764780,"place":"Lafayette, Indiana","lat":40.4167,"lon":-86.8753,"precision":"city","confidence":"high","note":"event location"}
+{"qid":30755046,"place":"Tucson, Arizona","lat":32.2226,"lon":-110.9747,"precision":"city","confidence":"high","note":"race in Tucson"}
+{"qid":6102405,"place":"Puebla, Puebla","lat":19.0414,"lon":-98.2063,"precision":"city","confidence":"high","note":"rebellion in Puebla"}
+{"qid":6756880,"place":"Canberra","lat":-35.2809,"lon":149.13,"precision":"city","confidence":"medium","note":"national capital march"}
+{"qid":6756796,"place":"Karachi","lat":24.8607,"lon":67.0011,"precision":"city","confidence":"high","note":"bombing in Karachi"}
+{"qid":119131472,"place":"Circuit de Barcelona-Catalunya","lat":41.57,"lon":2.2611,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":691562,"place":"Canton of Jura","lat":47.35,"lon":7.15,"precision":"region","confidence":"low","note":"race in Jura"}
+{"qid":119145721,"place":"Altria Theater","lat":37.5469,"lon":-77.4519,"precision":"site","confidence":"high","note":"shooting after graduation"}
+{"qid":20949761,"place":"Waterloo, Belgium","lat":50.7153,"lon":4.3992,"precision":"city","confidence":"medium","note":"defining moment at Waterloo"}
+{"qid":119199371,"place":"Fada N'gourma","lat":12.0614,"lon":0.3586,"precision":"city","confidence":"low","note":"near Bougui, Est Region"}

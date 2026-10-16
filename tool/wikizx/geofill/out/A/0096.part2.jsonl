@@ -1,0 +1,50 @@
+{"qid":60524447,"place":"Worthing","lat":50.8148,"lon":-0.3714,"precision":"city","confidence":"high","note":"riot in Worthing"}
+{"qid":60524440,"place":"Quảng Đức Province","lat":12.0,"lon":107.7,"precision":"region","confidence":"medium","note":"Quang Duc Province"}
+{"qid":121992214,"place":"Second Thomas Shoal","lat":9.7167,"lon":115.8667,"precision":"site","confidence":"high","note":"standoff at shoal"}
+{"qid":60524418,"place":"Narbonne","lat":43.1839,"lon":3.0033,"precision":"city","confidence":"high","note":"near Narbonne"}
+{"qid":60524408,"place":"Hồng Ngự","lat":10.8,"lon":105.35,"precision":"city","confidence":"medium","note":"Hong Ngu"}
+{"qid":60524387,"place":"Lake Maggiore","lat":45.95,"lon":8.6,"precision":"region","confidence":"medium","note":"near Lake Maggiore"}
+{"qid":60524383,"place":"Nghệ An province","lat":19.2,"lon":104.9,"precision":"region","confidence":"medium","note":"Ba Dau in Nghe An"}
+{"qid":6937853,"place":"Bellevue, Idaho","lat":43.4635,"lon":-114.2603,"precision":"city","confidence":"high","note":"home in Bellevue"}
+{"qid":60524377,"place":"Aegina","lat":37.7467,"lon":23.4286,"precision":"city","confidence":"medium","note":"island of Aegina"}
+{"qid":6092758,"place":"Turin","lat":45.0703,"lon":7.6869,"precision":"city","confidence":"high","note":"Turin event"}
+{"qid":29025124,"place":"Andhra Pradesh","lat":15.9129,"lon":79.74,"precision":"region","confidence":"high","note":"statewide protests"}
+{"qid":55087119,"place":"Milicz","lat":51.5256,"lon":17.2733,"precision":"city","confidence":"medium","note":"Barycz Valley race"}
+{"qid":43422869,"place":"Baku","lat":40.4093,"lon":49.8671,"precision":"city","confidence":"medium","note":"Azerbaijan capital"}
+{"qid":60169948,"place":"Hengyang","lat":26.8934,"lon":112.5719,"precision":"city","confidence":"medium","note":"Mishui near Hengyang"}
+{"qid":122166785,"place":"Kishtwar","lat":33.3113,"lon":75.7677,"precision":"city","confidence":"medium","note":"Sarthal, Kishtwar district"}
+{"qid":122166884,"place":"Florida, Buenos Aires","lat":-34.5333,"lon":-58.5,"precision":"city","confidence":"medium","note":"apartment in Florida"}
+{"qid":122166887,"place":"Leskovik","lat":40.15,"lon":20.6,"precision":"city","confidence":"high","note":"battle in Leskovik"}
+{"qid":122166917,"place":"LA Plaza de Cultura y Artes","lat":34.0578,"lon":-118.2364,"precision":"site","confidence":"medium","note":"ceremony venue"}
+{"qid":122181958,"place":"Universal Amphitheatre","lat":34.1386,"lon":-118.3534,"precision":"site","confidence":"high","note":"ceremony venue"}
+{"qid":60154597,"place":"Toledo, Ohio","lat":41.6528,"lon":-83.5379,"precision":"city","confidence":"high","note":"plot against Toledo synagogues"}
+{"qid":1112779,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"various venues"}
+{"qid":17622022,"place":"Marseille","lat":43.2965,"lon":5.3698,"precision":"city","confidence":"medium","note":"Marseille station bomb"}
+{"qid":12861418,"place":"Tao-Klarjeti","lat":40.8,"lon":41.5,"precision":"region","confidence":"medium","note":"invasion region"}
+{"qid":59820097,"place":"Neo Faliro","lat":37.9472,"lon":23.6653,"precision":"city","confidence":"high","note":"Skai TV HQ"}
+{"qid":19672644,"place":"Kathmandu","lat":27.7172,"lon":85.324,"precision":"city","confidence":"medium","note":"Tin Dhara school Kathmandu"}
+{"qid":12410553,"place":"Cairo","lat":30.0444,"lon":31.2357,"precision":"city","confidence":"high","note":"bus attack in Cairo"}
+{"qid":5037072,"place":"Gulf of Guinea","lat":0.0,"lon":3.0,"precision":"region","confidence":"low","note":"off West Africa"}
+{"qid":108265918,"place":"Heroes' Acre","lat":-17.8,"lon":31.03,"precision":"site","confidence":"low","note":"national shrine Harare"}
+{"qid":122199160,"place":"North Waziristan District","lat":32.5,"lon":70.0,"precision":"region","confidence":"medium","note":"Shawwal tehsil"}
+{"qid":122199286,"place":"Grand Ole Opry House","lat":36.2069,"lon":-86.6925,"precision":"site","confidence":"high","note":"ceremony venue"}
+{"qid":122199376,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"observance"}
+{"qid":122199411,"place":"Spring Hill, Queensland","lat":-27.4637,"lon":153.0242,"precision":"city","confidence":"high","note":"Boundary Street shooting"}
+{"qid":122205788,"place":"Monza Circuit","lat":45.6156,"lon":9.2811,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":96373632,"place":"Skopje","lat":41.9981,"lon":21.4254,"precision":"city","confidence":"high","note":"Bit Pazar in Skopje"}
+{"qid":3774869,"place":"Hockenheimring","lat":49.3278,"lon":8.5658,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":122212489,"place":"Colón, Panama","lat":9.3547,"lon":-79.9008,"precision":"city","confidence":"medium","note":"near Gatun, Aspinwall"}
+{"qid":3774788,"place":"Autodromo Enzo e Dino Ferrari","lat":44.3439,"lon":11.7167,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":122212622,"place":"Autódromo Oscar y Juan Gálvez","lat":-34.6944,"lon":-58.4636,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":122226880,"place":"IJsselmeer","lat":52.75,"lon":5.3,"precision":"region","confidence":"medium","note":"battle on frozen lake"}
+{"qid":6014574,"place":"Yangzhou","lat":32.3942,"lon":119.4127,"precision":"city","confidence":"medium","note":"Guangling is Yangzhou"}
+{"qid":6013130,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"campaign"}
+{"qid":104830467,"place":"Tripoli, Libya","lat":32.8872,"lon":13.1913,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":2625914,"place":"Fort Campbell","lat":36.66,"lon":-87.47,"precision":"site","confidence":"high","note":"barracks at Fort Campbell"}
+{"qid":30633767,"place":"Pandi, Bulacan","lat":14.8667,"lon":120.95,"precision":"city","confidence":"high","note":"housing occupation in Pandi"}
+{"qid":6006184,"place":"Manila","lat":14.5995,"lon":120.9842,"precision":"city","confidence":"medium","note":"House of Representatives, Quezon City"}
+{"qid":5987373,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"state holiday"}
+{"qid":122332941,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"high","note":"nationwide strike"}
+{"qid":122346600,"place":"Philadelphia","lat":39.9526,"lon":-75.1652,"precision":"city","confidence":"high","note":"shooting in Philadelphia"}
+{"qid":5953962,"place":"Gereshk","lat":31.8,"lon":64.57,"precision":"city","confidence":"medium","note":"Hyderabad village Gerishk"}
+{"qid":4572027,"place":"Syracuse, Sicily","lat":37.0755,"lon":15.2866,"precision":"city","confidence":"medium","note":"Syracuse Circuit"}

@@ -1,0 +1,50 @@
+{"qid":120488013,"place":"Orientale Province","lat":2.5,"lon":27.0,"precision":"region","confidence":"low","note":"northeastern Orientale, defining place unclear"}
+{"qid":65042342,"place":"Turkey","lat":39.0,"lon":35.0,"precision":"country","confidence":"medium","note":"race in Turkey"}
+{"qid":120498103,"place":"St. Joseph, Missouri","lat":39.7675,"lon":-94.8467,"precision":"city","confidence":"high","note":"murder location"}
+{"qid":97286381,"place":"Haanja","lat":57.7167,"lon":27.05,"precision":"city","confidence":"medium","note":"rally based at Haanja"}
+{"qid":3891819,"place":"La Spezia","lat":44.1025,"lon":9.8241,"precision":"city","confidence":"high","note":"Gulf of La Spezia"}
+{"qid":30638940,"place":"University of Texas at Austin","lat":30.2849,"lon":-97.7341,"precision":"site","confidence":"high","note":"hosted at UT Austin"}
+{"qid":65042341,"place":"Israel","lat":31.5,"lon":34.8,"precision":"country","confidence":"medium","note":"race in Israel"}
+{"qid":65042340,"place":"Turkey","lat":39.0,"lon":35.0,"precision":"country","confidence":"medium","note":"race in Turkey"}
+{"qid":65040950,"place":"Wales","lat":52.3,"lon":-3.7,"precision":"country","confidence":"medium","note":"mountain race across Wales"}
+{"qid":120535346,"place":"Orientale Province","lat":2.5,"lon":27.0,"precision":"region","confidence":"low","note":"northern Orientale"}
+{"qid":65040311,"place":"Lienchiang County","lat":26.16,"lon":119.95,"precision":"region","confidence":"medium","note":"forum in Lienchiang"}
+{"qid":26869635,"place":"Zwevegem","lat":50.81,"lon":3.3333,"precision":"city","confidence":"medium","note":"race in Zwevegem"}
+{"qid":64876858,"place":"Grove City, Ohio","lat":39.8814,"lon":-83.093,"precision":"city","confidence":"high","note":"murder at Scioto Grove park"}
+{"qid":64875986,"place":"Gadchiroli","lat":20.1849,"lon":80.003,"precision":"city","confidence":"high","note":"landmine blast near Gadchiroli"}
+{"qid":16538171,"place":"North Macedonia","lat":41.6,"lon":21.7,"precision":"country","confidence":"medium","note":"national championships"}
+{"qid":6512222,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"manuscript"}
+{"qid":6512220,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"manuscript"}
+{"qid":6512217,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"manuscript"}
+{"qid":120568971,"place":"Greenwich Village","lat":40.7336,"lon":-74.0027,"precision":"city","confidence":"high","note":"lynching in Greenwich Village"}
+{"qid":17176936,"place":"Curaçao","lat":12.1696,"lon":-68.99,"precision":"country","confidence":"medium","note":"national championships"}
+{"qid":120629484,"place":"Ufa","lat":54.7388,"lon":55.9721,"precision":"city","confidence":"high","note":"siege of Ufa"}
+{"qid":16538256,"place":"Lebanon","lat":33.85,"lon":35.86,"precision":"country","confidence":"medium","note":"national championships"}
+{"qid":6512215,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"manuscript"}
+{"qid":6512214,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"manuscript"}
+{"qid":2954801,"place":"Cuba","lat":21.5,"lon":-79.5,"precision":"country","confidence":"medium","note":"national championships"}
+{"qid":16538167,"place":"Jamaica","lat":18.1,"lon":-77.3,"precision":"country","confidence":"medium","note":"national championships"}
+{"qid":50281020,"place":"Ichtegem","lat":51.0993,"lon":3.0231,"precision":"city","confidence":"medium","note":"race near Ichtegem"}
+{"qid":4873064,"place":"Minicoy","lat":8.2833,"lon":73.05,"precision":"region","confidence":"medium","note":"off Minicoy Island"}
+{"qid":120643495,"place":"Westernville, New York","lat":43.3128,"lon":-75.3738,"precision":"city","confidence":"high","note":"shooting in Westernville"}
+{"qid":4834183,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"Hindu festival"}
+{"qid":16538271,"place":"El Salvador","lat":13.7,"lon":-88.9,"precision":"country","confidence":"medium","note":"national championships"}
+{"qid":6512211,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"manuscript"}
+{"qid":7546971,"place":"Burlington, Iowa","lat":40.8078,"lon":-91.1126,"precision":"city","confidence":"high","note":"race in Burlington"}
+{"qid":120663920,"place":"Hazarajat","lat":34.5,"lon":66.5,"precision":"region","confidence":"medium","note":"region of Hazarajat"}
+{"qid":2955088,"place":"Georgia (country)","lat":42.3,"lon":43.4,"precision":"country","confidence":"medium","note":"national championships"}
+{"qid":120664229,"place":"FAU Stadium","lat":26.3708,"lon":-80.1017,"precision":"site","confidence":"high","note":"played at FAU Stadium"}
+{"qid":60848282,"place":"British Virgin Islands","lat":18.4207,"lon":-64.64,"precision":"country","confidence":"medium","note":"national championships"}
+{"qid":16538109,"place":"South Korea","lat":36.5,"lon":127.9,"precision":"country","confidence":"medium","note":"national championships"}
+{"qid":6512210,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"manuscript"}
+{"qid":3114004,"place":"Kyalami","lat":-25.9986,"lon":28.0689,"precision":"site","confidence":"high","note":"Kyalami circuit"}
+{"qid":6512208,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"manuscript"}
+{"qid":6512207,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"manuscript"}
+{"qid":6512206,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"manuscript"}
+{"qid":6512204,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"manuscript"}
+{"qid":4963933,"place":"United Nations Headquarters","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"medium","note":"adopted at UN Security Council"}
+{"qid":15881244,"place":"United Nations Headquarters","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"medium","note":"adopted at UN Security Council"}
+{"qid":15881247,"place":"United Nations Headquarters","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"medium","note":"adopted at UN Security Council"}
+{"qid":120690376,"place":"World Trade Centre, Singapore","lat":1.2644,"lon":103.8216,"precision":"site","confidence":"medium","note":"WTC Harbour Pavilion"}
+{"qid":11110863,"place":"Beijing","lat":39.9042,"lon":116.4074,"precision":"city","confidence":"medium","note":"Qing imperial archive, Beijing"}
+{"qid":16531707,"place":"Bir Lehlou","lat":26.1167,"lon":-9.65,"precision":"city","confidence":"low","note":"Lebouirate near Bir Lehlou"}

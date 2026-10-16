@@ -1,0 +1,50 @@
+{"qid":6869803,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"manuscript, no location"}
+{"qid":43080192,"place":"Detroit","lat":42.3314,"lon":-83.0458,"precision":"city","confidence":"high","note":"riots in Detroit"}
+{"qid":2170342,"place":"Sint-Niklaas","lat":51.165,"lon":4.1437,"precision":"city","confidence":"high","note":"race in Sint-Niklaas"}
+{"qid":63976572,"place":"Venezuela","lat":7.0,"lon":-66.0,"precision":"country","confidence":"high","note":"race in Venezuela"}
+{"qid":6869793,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"manuscript, no location"}
+{"qid":118148264,"place":"Parachinar","lat":33.8996,"lon":70.1006,"precision":"city","confidence":"high","note":"school shooting in Parachinar"}
+{"qid":24525568,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"nationwide strike"}
+{"qid":7400052,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"international memorandum"}
+{"qid":118525806,"place":"Zhob District","lat":31.34,"lon":69.45,"precision":"region","confidence":"medium","note":"attack in Zhob district"}
+{"qid":68441465,"place":"Strathnairn","lat":57.4,"lon":-4.15,"precision":"region","confidence":"medium","note":"battle at Daltullich"}
+{"qid":118593928,"place":"Amritsar","lat":31.634,"lon":74.8723,"precision":"city","confidence":"medium","note":"battle near Amritsar"}
+{"qid":60851885,"place":"Nilgiris district","lat":11.4,"lon":76.7,"precision":"region","confidence":"medium","note":"tour in the Nilgiris"}
+{"qid":61943965,"place":"Cape Winelands District Municipality","lat":-33.7,"lon":19.5,"precision":"region","confidence":"medium","note":"race in Cape Winelands"}
+{"qid":7413449,"place":"San Bernardino, California","lat":34.1083,"lon":-117.2898,"precision":"city","confidence":"high","note":"riot in San Bernardino"}
+{"qid":118654966,"place":"North Waziristan District","lat":32.3,"lon":70.0,"precision":"region","confidence":"medium","note":"checkpoint bombing in North Waziristan"}
+{"qid":118676327,"place":"Dublin","lat":53.3498,"lon":-6.2603,"precision":"city","confidence":"medium","note":"protests mainly in Dublin"}
+{"qid":116044905,"place":"Smyrna, Delaware","lat":39.2998,"lon":-75.6046,"precision":"city","confidence":"medium","note":"remains found in Smyrna"}
+{"qid":6869787,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"manuscript, no location"}
+{"qid":4599065,"place":"Oruzgan Province","lat":32.9,"lon":66.0,"precision":"region","confidence":"low","note":"Sayyd Alma Kalay near Arghandab"}
+{"qid":6869150,"place":"Illinois","lat":40.0,"lon":-89.0,"precision":"region","confidence":"low","note":"northern Illinois, southern Wisconsin"}
+{"qid":7414186,"place":"San Francisco","lat":37.7749,"lon":-122.4194,"precision":"city","confidence":"high","note":"strike in San Francisco"}
+{"qid":7432254,"place":"Umatilla National Forest","lat":46.0,"lon":-117.8,"precision":"region","confidence":"medium","note":"began in School Canyon"}
+{"qid":11106003,"place":"Huguang","lat":27.5,"lon":111.5,"precision":"region","confidence":"low","note":"southern Huguang"}
+{"qid":118469345,"place":"Peshawar","lat":34.0151,"lon":71.5249,"precision":"city","confidence":"high","note":"blast on Ring Road"}
+{"qid":7633294,"place":"Heglig","lat":9.95,"lon":29.4,"precision":"city","confidence":"medium","note":"Heglig Crisis defining place"}
+{"qid":6867999,"place":"Minneapolis","lat":44.9778,"lon":-93.265,"precision":"city","confidence":"high","note":"marathon in Minneapolis"}
+{"qid":118780319,"place":"Circuit de Monaco","lat":43.7347,"lon":7.4206,"precision":"site","confidence":"high","note":"round at Circuit de Monaco"}
+{"qid":67604119,"place":"Barents Sea","lat":72.0,"lon":35.0,"precision":"region","confidence":"medium","note":"shot down over Barents Sea"}
+{"qid":118833547,"place":"Songshan Cultural and Creative Park","lat":25.0436,"lon":121.5603,"precision":"site","confidence":"high","note":"draft held there"}
+{"qid":154005,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"tradition, no single place"}
+{"qid":19947071,"place":"Circuit de Barcelona-Catalunya","lat":41.57,"lon":2.2611,"precision":"site","confidence":"high","note":"race at Circuit de Catalunya"}
+{"qid":118874931,"place":"Hazara Division","lat":34.15,"lon":73.22,"precision":"region","confidence":"medium","note":"expedition into Hazara"}
+{"qid":118875336,"place":"Tamesguida","lat":36.2,"lon":2.8,"precision":"city","confidence":"medium","note":"offensive at Tamesguida"}
+{"qid":118875453,"place":"Ghardaïa","lat":32.4909,"lon":3.6735,"precision":"city","confidence":"high","note":"raid near Ghardaïa"}
+{"qid":65047082,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"nationwide event"}
+{"qid":118875678,"place":"Sétif Province","lat":36.2,"lon":5.4,"precision":"region","confidence":"medium","note":"offensive in Sétif Province"}
+{"qid":55695682,"place":"Kinmen","lat":24.4493,"lon":118.3767,"precision":"region","confidence":"high","note":"agreement at Kinmen"}
+{"qid":7442129,"place":"Seattle","lat":47.6062,"lon":-122.3321,"precision":"city","confidence":"high","note":"marathon in Seattle"}
+{"qid":6809772,"place":"Mehrabpur","lat":27.8333,"lon":68.4167,"precision":"city","confidence":"medium","note":"derailment near Mehrabpur"}
+{"qid":118896134,"place":"Goodwood Circuit","lat":50.8586,"lon":-0.7519,"precision":"site","confidence":"high","note":"race at Goodwood"}
+{"qid":118896802,"place":"Nowshera","lat":34.0153,"lon":71.9747,"precision":"city","confidence":"medium","note":"Ramkani near Nowshera"}
+{"qid":118897693,"place":"Junior juz","lat":48.0,"lon":57.0,"precision":"region","confidence":"low","note":"territory of Junior Jüz"}
+{"qid":64165291,"place":"Taiyuan","lat":37.8706,"lon":112.5489,"precision":"city","confidence":"high","note":"race in Taiyuan"}
+{"qid":118899378,"place":"Patiala","lat":30.3398,"lon":76.3869,"precision":"city","confidence":"low","note":"Mardanpur in Patiala state"}
+{"qid":118899564,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"high","note":"held in Washington D.C."}
+{"qid":118900149,"place":"Benue State","lat":7.3369,"lon":8.7404,"precision":"region","confidence":"high","note":"attacks in Guma LGA"}
+{"qid":12580651,"place":"Seoul","lat":37.5665,"lon":126.978,"precision":"city","confidence":"medium","note":"protests centered in Seoul"}
+{"qid":118900393,"place":"Rio de Janeiro","lat":-22.9068,"lon":-43.1729,"precision":"city","confidence":"high","note":"murder in Rio de Janeiro"}
+{"qid":118901060,"place":"Durban","lat":-29.8587,"lon":31.0218,"precision":"city","confidence":"high","note":"marathon in Durban"}
+{"qid":118901097,"place":"North Kivu","lat":-1.67,"lon":29.22,"precision":"region","confidence":"medium","note":"village of Masambo"}

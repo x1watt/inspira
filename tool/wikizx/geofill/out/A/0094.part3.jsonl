@@ -1,0 +1,50 @@
+{"qid":65117889,"place":"Richmond, Virginia","lat":37.5407,"lon":-77.436,"precision":"city","confidence":"high","note":"walkout in Richmond"}
+{"qid":65117762,"place":"Virginia Beach, Virginia","lat":36.8529,"lon":-75.978,"precision":"city","confidence":"medium","note":"Princess Anne County"}
+{"qid":65117330,"place":"Guileje","lat":11.5667,"lon":-14.85,"precision":"city","confidence":"low","note":"Guileje Corridor ambush"}
+{"qid":11494847,"place":"Nagakute, Aichi","lat":35.1833,"lon":137.05,"precision":"city","confidence":"high","note":"incident in Nagakute"}
+{"qid":119716590,"place":"Sitra","lat":26.155,"lon":50.62,"precision":"city","confidence":"high","note":"restaurant attack in Sitra"}
+{"qid":119770716,"place":"Kabardino-Balkaria","lat":43.4,"lon":43.6,"precision":"region","confidence":"low","note":"Malka River area"}
+{"qid":119039509,"place":"California","lat":36.7783,"lon":-119.4179,"precision":"region","confidence":"low","note":"murder in California"}
+{"qid":29025192,"place":"Satkhira","lat":22.7185,"lon":89.0705,"precision":"city","confidence":"high","note":"bombings in Satkhira"}
+{"qid":46715773,"place":"United Nations Headquarters","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"medium","note":"council seat"}
+{"qid":65087534,"place":"Rock Creek Park","lat":38.97,"lon":-77.05,"precision":"site","confidence":"high","note":"tournament venue"}
+{"qid":65087151,"place":"Holdingford, Minnesota","lat":45.7258,"lon":-94.4731,"precision":"city","confidence":"medium","note":"marathon start"}
+{"qid":65085851,"place":"Rochester, Minnesota","lat":44.0121,"lon":-92.4802,"precision":"city","confidence":"high","note":"marathon city"}
+{"qid":65085833,"place":"Mankato, Minnesota","lat":44.1636,"lon":-93.9994,"precision":"city","confidence":"high","note":"marathon city"}
+{"qid":119806378,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"high","note":"NYC truckers strike"}
+{"qid":7499101,"place":"Shishou","lat":29.7167,"lon":112.4,"precision":"city","confidence":"high","note":"riot in Shishou"}
+{"qid":65085025,"place":"Lapu-Lapu City","lat":10.3103,"lon":123.9494,"precision":"city","confidence":"high","note":"body found there"}
+{"qid":65084212,"place":"Maputo","lat":-25.9692,"lon":32.5732,"precision":"city","confidence":"high","note":"naval operations at Maputo"}
+{"qid":119840515,"place":"Ma'alot-Tarshiha","lat":33.0167,"lon":35.2706,"precision":"city","confidence":"high","note":"hotel attack in Ma'alot"}
+{"qid":65082800,"place":"London","lat":51.5072,"lon":-0.1276,"precision":"city","confidence":"medium","note":"produced in London"}
+{"qid":119840897,"place":"Jupiter, Florida","lat":26.9342,"lon":-80.0942,"precision":"city","confidence":"medium","note":"murder in Abacoa, Jupiter"}
+{"qid":65082609,"place":"Baghlan Province","lat":36.1,"lon":68.7,"precision":"region","confidence":"medium","note":"attack in Baghlan"}
+{"qid":65078467,"place":"Orange Walk Town","lat":18.0833,"lon":-88.5667,"precision":"city","confidence":"high","note":"battle at Orange Walk"}
+{"qid":65077966,"place":"Shenzhen Gymnasium","lat":22.5344,"lon":114.111,"precision":"site","confidence":"high","note":"event venue"}
+{"qid":119854740,"place":"Atatürk Airport","lat":40.9769,"lon":28.8146,"precision":"site","confidence":"high","note":"Yeşilköy Airport attack"}
+{"qid":117824767,"place":"Hpapun District","lat":17.8,"lon":97.45,"precision":"region","confidence":"low","note":"Thee Mu Hta in Hpapun"}
+{"qid":65077958,"place":"Shenzhen","lat":22.5431,"lon":114.0579,"precision":"city","confidence":"medium","note":"Bao'an Sports Center"}
+{"qid":65076683,"place":"Spin Boldak","lat":31.0053,"lon":66.3961,"precision":"city","confidence":"low","note":"Adi Ghar mountains nearby"}
+{"qid":7506999,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"no single location"}
+{"qid":2025531,"place":"United Nations Headquarters","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"medium","note":"council seat"}
+{"qid":65070954,"place":"Cordis, Auckland","lat":-36.8509,"lon":174.7676,"precision":"site","confidence":"medium","note":"awards venue"}
+{"qid":7507967,"place":"Gali District","lat":42.63,"lon":41.73,"precision":"region","confidence":"low","note":"Sida village in Gali"}
+{"qid":6512284,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"manuscript, no place"}
+{"qid":6512283,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"manuscript, no place"}
+{"qid":6512266,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"manuscript, no place"}
+{"qid":120023909,"place":"Pidie Regency","lat":5.1,"lon":96.1,"precision":"region","confidence":"low","note":"Pedir in Sumatra"}
+{"qid":6512264,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"manuscript, no place"}
+{"qid":6512263,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"manuscript, no place"}
+{"qid":119128885,"place":"Uruzgan Province","lat":32.9333,"lon":66.6333,"precision":"region","confidence":"medium","note":"battle in Uruzgan"}
+{"qid":65068341,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"high","note":"outbreak centered in NYC"}
+{"qid":6512260,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"manuscript, no place"}
+{"qid":120069217,"place":"Stroudsburg, Pennsylvania","lat":40.9868,"lon":-75.1946,"precision":"city","confidence":"high","note":"lynched at Stroudsburg"}
+{"qid":6512259,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"manuscript, no place"}
+{"qid":3878949,"place":"Retford Gamston Airport","lat":53.2803,"lon":-0.9486,"precision":"site","confidence":"high","note":"race venue"}
+{"qid":6512257,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"manuscript, no place"}
+{"qid":6512256,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"manuscript, no place"}
+{"qid":6512255,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"manuscript, no place"}
+{"qid":6512253,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"manuscript, no place"}
+{"qid":6512251,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"manuscript, no place"}
+{"qid":65066321,"place":"Wynwood","lat":25.801,"lon":-80.199,"precision":"city","confidence":"medium","note":"riot in Wynwood"}
+{"qid":65065735,"place":"Cassel, Nord","lat":50.8,"lon":2.4833,"precision":"city","confidence":"high","note":"battle at Cassel"}

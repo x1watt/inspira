@@ -1,0 +1,50 @@
+{"qid":5420963,"place":"Jurash","lat":18.2,"lon":42.52,"precision":"city","confidence":"low","note":"target of expedition"}
+{"qid":75186595,"place":"Salmossi","lat":14.5833,"lon":-0.0167,"precision":"city","confidence":"low","note":"village attacked"}
+{"qid":55138724,"place":"Kon Tum Province","lat":14.6,"lon":107.9,"precision":"region","confidence":"low","note":"Hill 1338 area"}
+{"qid":65233227,"place":"Monza Circuit","lat":45.6156,"lon":9.2811,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":65233436,"place":"Hungaroring","lat":47.5789,"lon":19.2486,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":65233380,"place":"Nürburgring","lat":50.3356,"lon":6.9475,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":123481446,"place":"Gwadar District","lat":25.1264,"lon":62.3225,"precision":"region","confidence":"medium","note":"ambush in district"}
+{"qid":55138354,"place":"Ochakiv","lat":46.6167,"lon":31.55,"precision":"city","confidence":"medium","note":"action off Ochakov"}
+{"qid":55138333,"place":"Anapa","lat":44.8947,"lon":37.3161,"precision":"city","confidence":"medium","note":"action off Anapa"}
+{"qid":55137807,"place":"Saigon","lat":10.7769,"lon":106.7009,"precision":"city","confidence":"low","note":"around Saigon"}
+{"qid":123501602,"place":"Braxton, Mississippi","lat":31.906,"lon":-89.984,"precision":"city","confidence":"medium","note":"torture in Braxton"}
+{"qid":123501412,"place":"Chervlyonnaya","lat":43.4,"lon":45.25,"precision":"city","confidence":"low","note":"plantation near Chervlyonnaya"}
+{"qid":7882587,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"manuscript"}
+{"qid":24453885,"place":"Salzburgring","lat":47.8217,"lon":13.1764,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":3774932,"place":"Circuito del Jarama","lat":40.6128,"lon":-3.5856,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":16927657,"place":"San Francisco","lat":37.7749,"lon":-122.4194,"precision":"city","confidence":"medium","note":"protests mainly in San Francisco"}
+{"qid":3774896,"place":"Automotodrom Grobnik","lat":45.4958,"lon":14.5303,"precision":"site","confidence":"medium","note":"Rijeka circuit"}
+{"qid":65231891,"place":"Circuit de Spa-Francorchamps","lat":50.4372,"lon":5.9714,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":24436853,"place":"TT Circuit Assen","lat":52.9622,"lon":6.5236,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":493211,"place":"Busan","lat":35.1796,"lon":129.0756,"precision":"city","confidence":"medium","note":"Japanese settlements riot, Busan area"}
+{"qid":5420949,"place":"Mayfah","lat":null,"lon":null,"precision":"none","confidence":"low","note":"unclear location"}
+{"qid":123532627,"place":"Jeonju","lat":35.8242,"lon":127.148,"precision":"city","confidence":"high","note":"siege of Jeonju"}
+{"qid":3114538,"place":"Autódromo do Estoril","lat":38.7506,"lon":-9.3942,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":3774793,"place":"Monza Circuit","lat":45.6156,"lon":9.2811,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":3774894,"place":"Automotodrom Grobnik","lat":45.4958,"lon":14.5303,"precision":"site","confidence":"medium","note":"Rijeka circuit"}
+{"qid":24091067,"place":"Donington Park","lat":52.8306,"lon":-1.3753,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":7882588,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"manuscript"}
+{"qid":117405183,"place":"Ccano","lat":-12.9,"lon":-73.9,"precision":"city","confidence":"low","note":"massacre village"}
+{"qid":3114432,"place":"Circuit de Nevers Magny-Cours","lat":46.8642,"lon":3.1636,"precision":"site","confidence":"high","note":"Bugatti Circuit"}
+{"qid":24195952,"place":"Salzburgring","lat":47.8217,"lon":13.1764,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":123561120,"place":"Gongju","lat":36.4556,"lon":127.119,"precision":"city","confidence":"medium","note":"retreat from Gongju"}
+{"qid":123561966,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"resolution"}
+{"qid":65231986,"place":"Monza Circuit","lat":45.6156,"lon":9.2811,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":65231945,"place":"Circuit de Barcelona-Catalunya","lat":41.57,"lon":2.2611,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":65232032,"place":"Circuit de Monaco","lat":43.7347,"lon":7.4206,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":65232114,"place":"Hungaroring","lat":47.5789,"lon":19.2486,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":65232058,"place":"Circuit de Nevers Magny-Cours","lat":46.8642,"lon":3.1636,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":65232080,"place":"Hockenheimring","lat":49.3278,"lon":8.5658,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":3114535,"place":"Circuito del Jarama","lat":40.6128,"lon":-3.5856,"precision":"site","confidence":"medium","note":"per infobox venue"}
+{"qid":7882589,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"manuscript"}
+{"qid":17135563,"place":"Basque Country (autonomous community)","lat":43.0,"lon":-2.75,"precision":"region","confidence":"medium","note":"human chain across Basque Country"}
+{"qid":65231965,"place":"Nürburgring","lat":50.3356,"lon":6.9475,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":65231928,"place":"Silverstone Circuit","lat":52.0733,"lon":-1.0147,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":65232095,"place":"Autodromo Enzo e Dino Ferrari","lat":44.3439,"lon":11.7167,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":54954302,"place":"Military Park (Newark)","lat":40.7389,"lon":-74.1711,"precision":"site","confidence":"medium","note":"festival venue"}
+{"qid":73273577,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"nationwide strike"}
+{"qid":56290074,"place":"Coventry","lat":52.4068,"lon":-1.5197,"precision":"city","confidence":"medium","note":"centered in Coventry"}
+{"qid":5420925,"place":"Al-Ghaba","lat":null,"lon":null,"precision":"none","confidence":"low","note":"unclear location"}
+{"qid":5420050,"place":"Bay of Biscay","lat":45.0,"lon":-4.0,"precision":"region","confidence":"medium","note":"exercise in Bay of Biscay"}
+{"qid":122292274,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"nationwide strike"}
