@@ -1,0 +1,50 @@
+{"qid":112607735,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"high","note":"hearings in Capitol"}
+{"qid":4969804,"place":"British Columbia","lat":53.7267,"lon":-127.6476,"precision":"region","confidence":"high","note":"provincial election"}
+{"qid":7891554,"place":"Iowa","lat":42.0,"lon":-93.5,"precision":"region","confidence":"high","note":"state election"}
+{"qid":28221150,"place":"Wyoming","lat":43.0,"lon":-107.5,"precision":"region","confidence":"high","note":"state election"}
+{"qid":1766371,"place":"Japan","lat":36.2048,"lon":138.2529,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":58216521,"place":"Ecuador","lat":-3.5,"lon":-78.5,"precision":"region","confidence":"medium","note":"highlands Ecuador and Peru"}
+{"qid":1495145,"place":"Estonia","lat":58.5953,"lon":25.0136,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":97704102,"place":"Culver Studios","lat":34.01,"lon":-118.395,"precision":"site","confidence":"high","note":"production location"}
+{"qid":16825157,"place":"Zomba, Malawi","lat":-15.386,"lon":35.3188,"precision":"city","confidence":"medium","note":"then capital"}
+{"qid":2916954,"place":"Israel","lat":31.0461,"lon":34.8516,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":136379735,"place":"Japan","lat":36.2048,"lon":138.2529,"precision":"country","confidence":"low","note":"NPB playoffs"}
+{"qid":133821422,"place":"Budapest","lat":47.4979,"lon":19.0402,"precision":"city","confidence":"high","note":"Parliament vote"}
+{"qid":56400478,"place":"Finland","lat":61.9241,"lon":25.7482,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":28129175,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"medium","note":"UK honours"}
+{"qid":5307035,"place":"Scotland","lat":56.4907,"lon":-4.2026,"precision":"country","confidence":"high","note":"Highland dress ban"}
+{"qid":24039426,"place":"United Kingdom","lat":54.0,"lon":-2.0,"precision":"country","confidence":"medium","note":"banknote"}
+{"qid":1450633,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"medium","note":"electoral college"}
+{"qid":7893103,"place":"Utah","lat":39.321,"lon":-111.0937,"precision":"region","confidence":"high","note":"state election"}
+{"qid":120739437,"place":"Dublin","lat":53.3498,"lon":-6.2603,"precision":"city","confidence":"medium","note":"RTE headquarters"}
+{"qid":138567529,"place":"King Abdullah Sports City","lat":21.6217,"lon":39.1244,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":7842466,"place":"Trinidad and Tobago","lat":10.6918,"lon":-61.2225,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":105883815,"place":"Montenegro","lat":42.7087,"lon":19.3744,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":12739658,"place":"Bucharest","lat":44.4268,"lon":26.1025,"precision":"city","confidence":"high","note":"contest host city"}
+{"qid":12283670,"place":"Sofia","lat":42.6977,"lon":23.3219,"precision":"city","confidence":"medium","note":"Bulgarian capital"}
+{"qid":683075,"place":"Aquileia","lat":45.7699,"lon":13.3707,"precision":"city","confidence":"high","note":"council at Aquileia"}
+{"qid":10339878,"place":"Rio de Janeiro","lat":-22.9068,"lon":-43.1729,"precision":"city","confidence":"low","note":"Brazilian magazine"}
+{"qid":2980690,"place":"Liechtenstein","lat":47.166,"lon":9.5554,"precision":"country","confidence":"high","note":"national law"}
+{"qid":7724526,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"medium","note":"UK government"}
+{"qid":1131519,"place":"Bărăgan Plain","lat":44.6,"lon":27.0,"precision":"region","confidence":"high","note":"deportation destination"}
+{"qid":23303543,"place":"Ohio","lat":40.4,"lon":-82.8,"precision":"region","confidence":"high","note":"state primary"}
+{"qid":104876226,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"literary movement"}
+{"qid":3139214,"place":"Galicia (Spain)","lat":42.575,"lon":-8.1339,"precision":"region","confidence":"high","note":"regional election"}
+{"qid":6059081,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"low","note":"brand"}
+{"qid":132175654,"place":"Konya","lat":37.8746,"lon":32.4932,"precision":"city","confidence":"low","note":"Turkey, venue uncertain"}
+{"qid":2704261,"place":"Madrid","lat":40.4168,"lon":-3.7038,"precision":"city","confidence":"medium","note":"Spanish government"}
+{"qid":77998663,"place":"Madagascar","lat":-18.7669,"lon":46.8691,"precision":"country","confidence":"medium","note":"landfall Madagascar"}
+{"qid":56275876,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"low","note":"German navy class"}
+{"qid":311497,"place":"San Luis Province","lat":-33.0,"lon":-66.0,"precision":"region","confidence":"medium","note":"fossils in Argentina"}
+{"qid":6543990,"place":"Liechtenstein","lat":47.166,"lon":9.5554,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":7892170,"place":"Oklahoma","lat":35.5,"lon":-97.5,"precision":"region","confidence":"high","note":"state election"}
+{"qid":986408,"place":"Hong Kong Academy for Performing Arts","lat":22.2794,"lon":114.1727,"precision":"site","confidence":"high","note":"ceremony venue"}
+{"qid":1434524,"place":"United Kingdom","lat":54.0,"lon":-2.0,"precision":"country","confidence":"medium","note":"UK miniseries"}
+{"qid":7893070,"place":"Rhode Island","lat":41.7,"lon":-71.5,"precision":"region","confidence":"high","note":"state election"}
+{"qid":17462,"place":"Reykjavik","lat":64.1466,"lon":-21.9426,"precision":"city","confidence":"medium","note":"Althing passed law"}
+{"qid":133971515,"place":"First Direct Arena","lat":53.7967,"lon":-1.5473,"precision":"site","confidence":"high","note":"venue"}
+{"qid":1879030,"place":"Ukraine","lat":48.3794,"lon":31.1656,"precision":"country","confidence":"high","note":"national entry"}
+{"qid":7826655,"place":"Toronto","lat":43.6532,"lon":-79.3832,"precision":"city","confidence":"high","note":"municipal election"}
+{"qid":13728366,"place":"Bhutan","lat":27.5142,"lon":90.4336,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":7284681,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"low","note":"cartoon series"}
+{"qid":119703363,"place":"Ak Bars Arena","lat":55.82,"lon":49.153,"precision":"site","confidence":"high","note":"Kazan venue"}

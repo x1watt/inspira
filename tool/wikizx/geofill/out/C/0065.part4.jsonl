@@ -1,0 +1,50 @@
+{"qid":2139747,"place":"The Hague","lat":52.0705,"lon":4.3007,"precision":"city","confidence":"medium","note":"Dutch government seat"}
+{"qid":1148320,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"astronomical event, global"}
+{"qid":7892718,"place":"Colorado","lat":39.0,"lon":-105.5,"precision":"region","confidence":"high","note":"state election"}
+{"qid":934936,"place":"Mongolia","lat":46.8625,"lon":103.8467,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":4855482,"place":"Bangladesh","lat":23.685,"lon":90.3563,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":115828586,"place":"Lohja","lat":60.25,"lon":24.0667,"precision":"city","confidence":"high","note":"Kisakallio, Lohja"}
+{"qid":6516026,"place":"Leeds","lat":53.8008,"lon":-1.5491,"precision":"city","confidence":"high","note":"city council election"}
+{"qid":19689874,"place":"Redwood City, California","lat":37.4852,"lon":-122.2364,"precision":"city","confidence":"high","note":"The Sports House"}
+{"qid":106959424,"place":"Palace of Westminster","lat":51.4994,"lon":-0.1248,"precision":"site","confidence":"high","note":"Parliament opening"}
+{"qid":15676137,"place":"Sudan","lat":12.8628,"lon":30.2176,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":7994928,"place":"White House","lat":38.8977,"lon":-77.0365,"precision":"site","confidence":"high","note":"Washington controversy"}
+{"qid":5665286,"place":"Harrisburg, Pennsylvania","lat":40.2732,"lon":-76.8867,"precision":"city","confidence":"high","note":"federal court trial"}
+{"qid":48743561,"place":"Canandaigua, New York","lat":42.8878,"lon":-77.2808,"precision":"city","confidence":"high","note":"trial held there"}
+{"qid":1797517,"place":"Bucharest","lat":44.4268,"lon":26.1025,"precision":"city","confidence":"low","note":"Romanian band"}
+{"qid":13134258,"place":"Buenos Aires","lat":-34.6037,"lon":-58.3816,"precision":"city","confidence":"medium","note":"final venue"}
+{"qid":133519843,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"medium","note":"US government officials"}
+{"qid":3181322,"place":"Basque Country (autonomous community)","lat":43.0,"lon":-2.75,"precision":"region","confidence":"high","note":"regional election"}
+{"qid":8774392,"place":"Balearic Islands","lat":39.6953,"lon":3.0176,"precision":"region","confidence":"high","note":"regional election"}
+{"qid":2052986,"place":"Latvia","lat":56.8796,"lon":24.6032,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":96368994,"place":"Australia","lat":-25.2744,"lon":133.7751,"precision":"country","confidence":"high","note":"national qualifier"}
+{"qid":55445638,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"global tour"}
+{"qid":97860794,"place":"Royal Courts of Justice","lat":51.5139,"lon":-0.113,"precision":"site","confidence":"high","note":"High Court London"}
+{"qid":131302908,"place":"Nebraska","lat":41.5,"lon":-99.8,"precision":"region","confidence":"high","note":"state election"}
+{"qid":1143240,"place":"Nevada Test Site","lat":37.1167,"lon":-116.05,"precision":"site","confidence":"high","note":"nuclear tests"}
+{"qid":5249005,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"low","note":"Northeast US blizzard"}
+{"qid":6415122,"place":"Kiribati","lat":1.8709,"lon":-157.363,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":494004,"place":"Pyeongchang County","lat":37.55,"lon":128.4,"precision":"region","confidence":"low","note":"winning bid; bids from three cities"}
+{"qid":111540550,"place":"Slovenia","lat":46.1512,"lon":14.9955,"precision":"country","confidence":"high","note":"stage race"}
+{"qid":7094958,"place":"Ontario","lat":50.0,"lon":-85.0,"precision":"region","confidence":"high","note":"provincial election"}
+{"qid":4573632,"place":"Pacific Ocean","lat":15.0,"lon":-110.0,"precision":"region","confidence":"low","note":"eastern Pacific basin"}
+{"qid":4642639,"place":"Vientiane","lat":17.9757,"lon":102.6331,"precision":"city","confidence":"high","note":"held in Vientiane"}
+{"qid":1531974,"place":"Pacific Ocean","lat":15.0,"lon":-110.0,"precision":"region","confidence":"low","note":"eastern Pacific basin"}
+{"qid":3587414,"place":"Kansas","lat":38.5,"lon":-98.0,"precision":"region","confidence":"high","note":"state election"}
+{"qid":126415608,"place":"Seoul","lat":37.5665,"lon":126.978,"precision":"city","confidence":"high","note":"summit in Seoul"}
+{"qid":5948065,"place":"La Paz, Baja California Sur","lat":24.1426,"lon":-110.3128,"precision":"city","confidence":"high","note":"devastated La Paz"}
+{"qid":2717008,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"low","note":"Soviet computers"}
+{"qid":774191,"place":"Constantinople","lat":41.0082,"lon":28.9784,"precision":"city","confidence":"medium","note":"monastic order in Constantinople"}
+{"qid":1981571,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"coin"}
+{"qid":16933143,"place":"New York (state)","lat":42.9538,"lon":-75.5268,"precision":"region","confidence":"high","note":"state election"}
+{"qid":2421516,"place":"The Hague","lat":52.0705,"lon":4.3007,"precision":"city","confidence":"medium","note":"cabinet formation"}
+{"qid":2283127,"place":"Hita","lat":40.8,"lon":-3.0167,"precision":"city","confidence":"low","note":"Archpriest of Hita"}
+{"qid":4615051,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"medium","note":"Congress budget"}
+{"qid":3308380,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"service"}
+{"qid":28453381,"place":"The Palace of Auburn Hills","lat":42.6967,"lon":-83.2455,"precision":"site","confidence":"high","note":"venue"}
+{"qid":1259061,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"low","note":"German appeal"}
+{"qid":135440287,"place":"Tbilisi","lat":41.7151,"lon":44.8271,"precision":"city","confidence":"high","note":"Olympic Palace Tbilisi"}
+{"qid":595050,"place":"Maranello","lat":44.5253,"lon":10.8664,"precision":"city","confidence":"medium","note":"Ferrari base"}
+{"qid":968376,"place":"Porvenir, Bolivia","lat":11.2167,"lon":-68.7333,"precision":"city","confidence":"high","note":"massacre at Porvenir"}
+{"qid":2053620,"place":"Ethiopia","lat":9.145,"lon":40.4897,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":17100775,"place":"New Mexico","lat":34.5199,"lon":-105.8701,"precision":"region","confidence":"high","note":"state election"}

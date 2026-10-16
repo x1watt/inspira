@@ -1,0 +1,50 @@
+{"qid":21015266,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"comic series"}
+{"qid":28800128,"place":"Visby","lat":57.6348,"lon":18.2948,"precision":"city","confidence":"medium","note":"Gotland host"}
+{"qid":46514941,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"orbital mission"}
+{"qid":4969787,"place":"Victoria, British Columbia","lat":48.4284,"lon":-123.3656,"precision":"city","confidence":"medium","note":"provincial capital"}
+{"qid":4969790,"place":"Victoria, British Columbia","lat":48.4284,"lon":-123.3656,"precision":"city","confidence":"medium","note":"provincial capital"}
+{"qid":6913928,"place":"Dublin Castle","lat":53.3429,"lon":-6.2674,"precision":"site","confidence":"low","note":"tribunal sat in Dublin"}
+{"qid":117093204,"place":"Galápagos Islands","lat":-0.6,"lon":-90.5,"precision":"region","confidence":"low","note":"expedition final destination"}
+{"qid":124417096,"place":"South Tarawa","lat":1.3382,"lon":173.0176,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":6123746,"place":"Barcelona","lat":41.3874,"lon":2.1686,"precision":"city","confidence":"low","note":"Republic government late"}
+{"qid":10282478,"place":"Stuttgart","lat":48.7758,"lon":9.1829,"precision":"city","confidence":"high","note":"host"}
+{"qid":16982201,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"high","note":"US Congress"}
+{"qid":7842453,"place":"Port of Spain","lat":10.6549,"lon":-61.5019,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":20204343,"place":"The Hague","lat":52.0705,"lon":4.3007,"precision":"city","confidence":"medium","note":"Dutch government seat"}
+{"qid":5174925,"place":"San José, Costa Rica","lat":9.9281,"lon":-84.0907,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":2539361,"place":"Berlin","lat":52.52,"lon":13.405,"precision":"city","confidence":"high","note":"state election"}
+{"qid":3777500,"place":"Copenhagen","lat":55.6761,"lon":12.5683,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":16986468,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"character list"}
+{"qid":30642497,"place":"Maine","lat":45.2538,"lon":-69.4455,"precision":"region","confidence":"high","note":"state election"}
+{"qid":384221,"place":"Italy","lat":41.8719,"lon":12.5674,"precision":"country","confidence":"high","note":"national campaign"}
+{"qid":55636640,"place":"Michigan","lat":44.3148,"lon":-85.6024,"precision":"region","confidence":"high","note":"state election"}
+{"qid":2985192,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"medium","note":"British publisher"}
+{"qid":6796272,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"high","note":"war cabinet"}
+{"qid":111548906,"place":"Philippines","lat":12.8797,"lon":121.774,"precision":"country","confidence":"high","note":"storm impact"}
+{"qid":112300353,"place":"New Zealand","lat":-40.9006,"lon":174.886,"precision":"country","confidence":"medium","note":"tour of New Zealand"}
+{"qid":115807816,"place":"Utah","lat":39.32,"lon":-111.0937,"precision":"region","confidence":"high","note":"state election"}
+{"qid":58433593,"place":"Florida","lat":27.6648,"lon":-81.5158,"precision":"region","confidence":"high","note":"state election"}
+{"qid":31284208,"place":"Venice","lat":45.4408,"lon":12.3155,"precision":"city","confidence":"high","note":"Venetian family"}
+{"qid":5166949,"place":"Avarua","lat":-21.2078,"lon":-159.775,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":916964,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"building material"}
+{"qid":1889178,"place":"Baku","lat":40.4093,"lon":49.8671,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":4832438,"place":"Baku","lat":40.4093,"lon":49.8671,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":336664,"place":"Latvia","lat":56.8796,"lon":24.6032,"precision":"country","confidence":"high","note":"national league"}
+{"qid":175298,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"time period"}
+{"qid":112667922,"place":"Trondheim","lat":63.4305,"lon":10.3951,"precision":"city","confidence":"medium","note":"final host city"}
+{"qid":1365483,"place":"Alcañices","lat":41.6896,"lon":-6.3544,"precision":"city","confidence":"high","note":"signed in Alcañices"}
+{"qid":1502279,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"philosophical concept"}
+{"qid":939336,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"low","note":"storm impact"}
+{"qid":17079859,"place":"Edmonton","lat":53.5461,"lon":-113.4938,"precision":"city","confidence":"high","note":"city election"}
+{"qid":5257987,"place":"Copenhagen","lat":55.6761,"lon":12.5683,"precision":"city","confidence":"medium","note":"contest host city"}
+{"qid":108126419,"place":"Bologna","lat":44.4949,"lon":11.3426,"precision":"city","confidence":"high","note":"boy taken from Bologna"}
+{"qid":1451214,"place":"Montreux","lat":46.4312,"lon":6.9107,"precision":"city","confidence":"high","note":"conference town"}
+{"qid":352182,"place":"Geneva","lat":46.2044,"lon":6.1432,"precision":"city","confidence":"high","note":"signed in Geneva"}
+{"qid":1065044,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"object"}
+{"qid":6554079,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"academic dispute"}
+{"qid":7094740,"place":"Woodstock, Ontario","lat":43.1315,"lon":-80.7467,"precision":"city","confidence":"medium","note":"highway terminus"}
+{"qid":105062628,"place":"Idaho","lat":44.2405,"lon":-114.4788,"precision":"region","confidence":"high","note":"state election"}
+{"qid":39046689,"place":"South Carolina","lat":33.8361,"lon":-81.1637,"precision":"region","confidence":"high","note":"state election"}
+{"qid":55636655,"place":"Michigan","lat":44.3148,"lon":-85.6024,"precision":"region","confidence":"high","note":"state election"}
+{"qid":3500839,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"multi-site competition"}
+{"qid":114236020,"place":"Jackson, Mississippi","lat":32.2988,"lon":-90.1848,"precision":"city","confidence":"low","note":"state capital"}

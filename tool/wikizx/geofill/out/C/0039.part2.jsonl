@@ -1,0 +1,50 @@
+{"qid":30164146,"place":"Luxembourg City","lat":49.6116,"lon":6.1319,"precision":"city","confidence":"high","note":"capital"}
+{"qid":7185083,"place":"Manila","lat":14.5995,"lon":120.9842,"precision":"city","confidence":"high","note":"capital"}
+{"qid":14326700,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"awareness campaign"}
+{"qid":14563363,"place":"Budapest","lat":47.4979,"lon":19.0402,"precision":"city","confidence":"high","note":"2013 Worlds in Budapest"}
+{"qid":7892663,"place":"Arizona","lat":34.0489,"lon":-111.0937,"precision":"region","confidence":"high","note":"state election"}
+{"qid":494446,"place":"Woodstock, New York","lat":42.0409,"lon":-74.1182,"precision":"city","confidence":"medium","note":"apple originated there"}
+{"qid":23782126,"place":"Bar-le-Duc","lat":48.7731,"lon":5.1614,"precision":"city","confidence":"high","note":"headquarters"}
+{"qid":2601982,"place":"Tirana","lat":41.3275,"lon":19.8187,"precision":"city","confidence":"high","note":"capital"}
+{"qid":22913800,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"song"}
+{"qid":4564771,"place":"Madison Square Garden","lat":40.7505,"lon":-73.9934,"precision":"site","confidence":"medium","note":"games in New York"}
+{"qid":124448962,"place":"Cooperstown, New York","lat":42.7006,"lon":-74.924,"precision":"city","confidence":"medium","note":"Hall of Fame location"}
+{"qid":1164648,"place":"Ankara","lat":39.9334,"lon":32.8597,"precision":"city","confidence":"high","note":"capital"}
+{"qid":20182177,"place":"Vilnius","lat":54.6872,"lon":25.2797,"precision":"city","confidence":"high","note":"capital"}
+{"qid":104777212,"place":"Denmark","lat":56.2639,"lon":9.5018,"precision":"country","confidence":"high","note":"national cull"}
+{"qid":870511,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"geologic period"}
+{"qid":4864624,"place":"Belgrade","lat":44.7866,"lon":20.4489,"precision":"city","confidence":"medium","note":"Yugoslav computers"}
+{"qid":27163007,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"low","note":"tape recorded in New York"}
+{"qid":7248975,"place":"Beijing","lat":39.9042,"lon":116.4074,"precision":"city","confidence":"medium","note":"alleged plot"}
+{"qid":17464,"place":"Oslo","lat":59.9139,"lon":10.7522,"precision":"city","confidence":"high","note":"Storting passed law"}
+{"qid":36597,"place":"Selland Arena","lat":36.7378,"lon":-119.7871,"precision":"site","confidence":"high","note":"event venue"}
+{"qid":3610650,"place":"Sri Lanka","lat":7.8731,"lon":80.7718,"precision":"country","confidence":"high","note":"struck Sri Lanka"}
+{"qid":2025886,"place":"Grise Fiord","lat":76.4167,"lon":-82.9,"precision":"city","confidence":"high","note":"relocation destination"}
+{"qid":6084773,"place":"Santiago","lat":-33.4489,"lon":-70.6693,"precision":"city","confidence":"medium","note":"Chilean award"}
+{"qid":22095164,"place":"Big Six Conference","lat":39.0,"lon":-96.0,"precision":"region","confidence":"low","note":"Midwest conference"}
+{"qid":6055316,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"measurement units"}
+{"qid":14965486,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"TV season"}
+{"qid":986843,"place":"Bačka","lat":45.6,"lon":19.5,"precision":"region","confidence":"medium","note":"occupied region"}
+{"qid":4590565,"place":"Quezon City","lat":14.676,"lon":121.0437,"precision":"city","confidence":"low","note":"PBA finals Metro Manila"}
+{"qid":5098799,"place":"Chile","lat":-35.6751,"lon":-71.543,"precision":"country","confidence":"high","note":"Chilean copper"}
+{"qid":140813601,"place":"Encarnación, Paraguay","lat":-27.3306,"lon":-55.8667,"precision":"city","confidence":"medium","note":"rally finish"}
+{"qid":5529656,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"high","note":"UK government policy"}
+{"qid":1472589,"place":"Europe","lat":50.0,"lon":10.0,"precision":"region","confidence":"low","note":"Australia and Europe"}
+{"qid":28128333,"place":"Sofia","lat":42.6977,"lon":23.3219,"precision":"city","confidence":"high","note":"capital"}
+{"qid":779385,"place":"Kyiv","lat":50.4501,"lon":30.5234,"precision":"city","confidence":"high","note":"capital"}
+{"qid":1526922,"place":"Milan","lat":45.4642,"lon":9.19,"precision":"city","confidence":"high","note":"race start in Milan"}
+{"qid":60994669,"place":"Bangkok","lat":13.7563,"lon":100.5018,"precision":"city","confidence":"high","note":"Thai capital"}
+{"qid":6516014,"place":"Leeds","lat":53.8008,"lon":-1.5491,"precision":"city","confidence":"high","note":"city council"}
+{"qid":139886481,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"album"}
+{"qid":20204342,"place":"The Hague","lat":52.0705,"lon":4.3007,"precision":"city","confidence":"high","note":"Dutch government seat"}
+{"qid":2065562,"place":"Pacific Ocean","lat":15.0,"lon":-110.0,"precision":"region","confidence":"low","note":"hurricane season"}
+{"qid":671460,"place":"Nukuʻalofa","lat":-21.1394,"lon":-175.2018,"precision":"city","confidence":"high","note":"capital"}
+{"qid":17123704,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"space station mission"}
+{"qid":82498,"place":"Valletta","lat":35.8989,"lon":14.5146,"precision":"city","confidence":"high","note":"capital"}
+{"qid":111254228,"place":"Magdeburg","lat":52.1205,"lon":11.6276,"precision":"city","confidence":"high","note":"Saxony-Anhalt capital"}
+{"qid":80928,"place":"Hartford Civic Center","lat":41.7708,"lon":-72.6735,"precision":"site","confidence":"high","note":"event venue"}
+{"qid":56276474,"place":"Barranquilla","lat":10.9685,"lon":-74.7813,"precision":"city","confidence":"high","note":"games host"}
+{"qid":7892407,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"high","note":"Congress declared war"}
+{"qid":716334,"place":"Banqiao Dam","lat":32.9833,"lon":113.4167,"precision":"site","confidence":"medium","note":"dam failure in Henan"}
+{"qid":5025197,"place":"Phnom Penh","lat":11.5564,"lon":104.9282,"precision":"city","confidence":"high","note":"capital"}
+{"qid":28222286,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"high","note":"district election"}

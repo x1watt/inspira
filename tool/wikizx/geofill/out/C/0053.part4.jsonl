@@ -1,0 +1,50 @@
+{"qid":3112202,"place":"Athens","lat":37.9838,"lon":23.7275,"precision":"city","confidence":"high","note":"seat of Greek government"}
+{"qid":14623195,"place":"Kyiv","lat":50.4501,"lon":30.5234,"precision":"city","confidence":"high","note":"held in Kyiv"}
+{"qid":171972,"place":"Modena","lat":44.6471,"lon":10.9252,"precision":"city","confidence":"high","note":"constructor based in Modena"}
+{"qid":23018340,"place":"Virginia","lat":37.5,"lon":-78.8,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7302620,"place":"Cuba","lat":21.5218,"lon":-77.7812,"precision":"country","confidence":"high","note":"national referendum"}
+{"qid":212474,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"software class"}
+{"qid":1380763,"place":"United Kingdom","lat":54.0,"lon":-2.0,"precision":"country","confidence":"medium","note":"windstorm over NW Europe"}
+{"qid":7893084,"place":"South Dakota","lat":44.4,"lon":-100.2,"precision":"region","confidence":"high","note":"state election"}
+{"qid":42915620,"place":"Houston","lat":29.7604,"lon":-95.3698,"precision":"city","confidence":"low","note":"campaign announced in Houston"}
+{"qid":7892671,"place":"Arkansas","lat":34.8,"lon":-92.2,"precision":"region","confidence":"high","note":"state election"}
+{"qid":206463,"place":"Santo Domingo","lat":18.4861,"lon":-69.9312,"precision":"city","confidence":"high","note":"hit capital hardest"}
+{"qid":106819423,"place":"Houston","lat":29.7604,"lon":-95.3698,"precision":"city","confidence":"low","note":"campaign base Houston"}
+{"qid":24778291,"place":"Bankers Life Fieldhouse","lat":39.764,"lon":-86.1555,"precision":"site","confidence":"high","note":"venue"}
+{"qid":3326857,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"high","note":"focal point London"}
+{"qid":18217077,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"recurring event"}
+{"qid":136102778,"place":"Bergamo","lat":45.6983,"lon":9.6773,"precision":"city","confidence":"high","note":"host city"}
+{"qid":7891489,"place":"Georgia (U.S. state)","lat":32.9,"lon":-83.4,"precision":"region","confidence":"high","note":"state election"}
+{"qid":60775580,"place":"Kinshasa","lat":-4.4419,"lon":15.2663,"precision":"city","confidence":"high","note":"Léopoldville dismissal"}
+{"qid":121593189,"place":"Baja California","lat":30.0,"lon":-115.0,"precision":"region","confidence":"medium","note":"main impact Baja"}
+{"qid":1636250,"place":"Iceland","lat":64.9631,"lon":-19.0208,"precision":"country","confidence":"high","note":"national election"}
+{"qid":6401595,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"hurricane season"}
+{"qid":4591294,"place":"Estadio Monumental Antonio Vespucio Liberti","lat":-34.5453,"lon":-58.4498,"precision":"site","confidence":"medium","note":"final venue"}
+{"qid":120197146,"place":"Oslo","lat":59.9139,"lon":10.7522,"precision":"city","confidence":"medium","note":"likely Oslo final"}
+{"qid":133807854,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"TV season"}
+{"qid":1138744,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"video game"}
+{"qid":126033,"place":"Catalonia","lat":41.8204,"lon":1.8677,"precision":"region","confidence":"high","note":"regional election"}
+{"qid":6308595,"place":"Carnegie Hall","lat":40.7651,"lon":-73.9799,"precision":"site","confidence":"high","note":"production location"}
+{"qid":121700571,"place":"Geodis Park","lat":36.1301,"lon":-86.766,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":29097709,"place":"Vermont","lat":44.0,"lon":-72.7,"precision":"region","confidence":"high","note":"state election"}
+{"qid":3069005,"place":"Portugal","lat":39.3999,"lon":-8.2245,"precision":"country","confidence":"high","note":"national election"}
+{"qid":7892080,"place":"Virginia","lat":37.5,"lon":-78.8,"precision":"region","confidence":"high","note":"state election"}
+{"qid":135268459,"place":"Madrid","lat":40.4168,"lon":-3.7038,"precision":"city","confidence":"high","note":"held in Madrid"}
+{"qid":3587221,"place":"North Korea","lat":40.3399,"lon":127.5101,"precision":"country","confidence":"high","note":"national election"}
+{"qid":11691623,"place":"Valletta","lat":35.8989,"lon":14.5146,"precision":"city","confidence":"medium","note":"Parliament seat"}
+{"qid":58225842,"place":"MartiniPlaza","lat":53.2056,"lon":6.5736,"precision":"site","confidence":"high","note":"game venue"}
+{"qid":113009639,"place":"Narendra Modi Stadium","lat":23.0917,"lon":72.5975,"precision":"site","confidence":"high","note":"main venue"}
+{"qid":2634004,"place":"Belarus","lat":53.7098,"lon":27.9534,"precision":"country","confidence":"high","note":"national election"}
+{"qid":115816273,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"draft"}
+{"qid":994963,"place":"Zürich","lat":47.3769,"lon":8.5417,"precision":"city","confidence":"medium","note":"FIFA gala in Zurich"}
+{"qid":221099,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"comic strip"}
+{"qid":110532956,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"many countries"}
+{"qid":55882830,"place":"Oud-Heverlee","lat":50.8333,"lon":4.6667,"precision":"city","confidence":"high","note":"club municipality"}
+{"qid":20747211,"place":"Saipan","lat":15.185,"lon":145.75,"precision":"city","confidence":"low","note":"hit Marianas first"}
+{"qid":6515910,"place":"Leeds","lat":53.8008,"lon":-1.5491,"precision":"city","confidence":"high","note":"city council election"}
+{"qid":246833,"place":"Nusaybin","lat":37.078,"lon":41.2167,"precision":"city","confidence":"high","note":"ancient Nisibis"}
+{"qid":11337199,"place":"Hakodate","lat":41.7688,"lon":140.7288,"precision":"city","confidence":"high","note":"landed at Hakodate"}
+{"qid":126881596,"place":"Serbia","lat":44.0165,"lon":21.0059,"precision":"country","confidence":"high","note":"national election"}
+{"qid":6462580,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"high","note":"Senate committee"}
+{"qid":5328425,"place":"East Berlin","lat":52.52,"lon":13.405,"precision":"city","confidence":"medium","note":"Volkskammer seat"}
+{"qid":2631954,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"high","note":"secret trial in Moscow"}

@@ -1,0 +1,50 @@
+{"qid":2636946,"place":"United Kingdom","lat":54.0,"lon":-2.0,"precision":"country","confidence":"medium","note":"UK stamp"}
+{"qid":1140579,"place":"Uppsala","lat":59.8586,"lon":17.6389,"precision":"city","confidence":"medium","note":"institute in Uppsala"}
+{"qid":12410648,"place":"Israel","lat":31.0461,"lon":34.8516,"precision":"country","confidence":"medium","note":"national festival"}
+{"qid":2185584,"place":"France","lat":46.2276,"lon":2.2137,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":2036003,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"fictional character"}
+{"qid":117863877,"place":"West Midlands (county)","lat":52.4778,"lon":-1.8998,"precision":"region","confidence":"high","note":"metropolitan county"}
+{"qid":120850444,"place":"New York (state)","lat":42.9,"lon":-75.5,"precision":"region","confidence":"medium","note":"floods mainly NY and Vermont"}
+{"qid":7916313,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"low","note":"US network"}
+{"qid":27983155,"place":"Uruguay","lat":-32.5228,"lon":-55.7658,"precision":"country","confidence":"low","note":"uncertain host"}
+{"qid":752013,"place":"Finland","lat":61.9241,"lon":25.7482,"precision":"country","confidence":"medium","note":"Finnish commuter trains"}
+{"qid":10927352,"place":"Japan","lat":36.2048,"lon":138.2529,"precision":"country","confidence":"medium","note":"national reform"}
+{"qid":129974654,"place":"Mexico City","lat":19.4326,"lon":-99.1332,"precision":"city","confidence":"medium","note":"constitutional amendment"}
+{"qid":111943219,"place":"International Amphitheatre","lat":41.8186,"lon":-87.6486,"precision":"site","confidence":"medium","note":"Chicago venue"}
+{"qid":18207499,"place":"Jersey","lat":49.2144,"lon":-2.1313,"precision":"region","confidence":"high","note":"island election"}
+{"qid":19428845,"place":"Aragon","lat":41.5976,"lon":-0.9057,"precision":"region","confidence":"high","note":"regional election"}
+{"qid":3587196,"place":"Kuwait","lat":29.3117,"lon":47.4818,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":3221908,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"book series"}
+{"qid":18702031,"place":"Colorado","lat":39.0,"lon":-105.5,"precision":"region","confidence":"high","note":"state election"}
+{"qid":2308303,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"medium","note":"French government"}
+{"qid":4363795,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"medium","note":"Russian open letter"}
+{"qid":4178567,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"low","note":"Western Catholic liturgy"}
+{"qid":1757124,"place":"Morocco","lat":31.7917,"lon":-7.0926,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":5589376,"place":"Dublin","lat":53.3498,"lon":-6.2603,"precision":"city","confidence":"high","note":"Irish government"}
+{"qid":7892919,"place":"Nebraska","lat":41.5,"lon":-99.8,"precision":"region","confidence":"high","note":"state election"}
+{"qid":3586442,"place":"Saskatchewan","lat":52.9399,"lon":-106.4509,"precision":"region","confidence":"high","note":"provincial election"}
+{"qid":7892848,"place":"Michigan","lat":44.3,"lon":-85.6,"precision":"region","confidence":"high","note":"state election"}
+{"qid":16274871,"place":"Las Vegas Convention Center","lat":36.1291,"lon":-115.152,"precision":"site","confidence":"high","note":"venue"}
+{"qid":24189189,"place":"Wallaroo, South Australia","lat":-33.9333,"lon":137.6333,"precision":"city","confidence":"high","note":"district by-election"}
+{"qid":2731803,"place":"France","lat":46.2276,"lon":2.2137,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":4554511,"place":"Zion Lutheran Church (Harrisburg, Pennsylvania)","lat":40.2732,"lon":-76.8867,"precision":"city","confidence":"low","note":"convention in Harrisburg"}
+{"qid":16148685,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"fiction franchise"}
+{"qid":7893153,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"high","note":"DC election"}
+{"qid":57591819,"place":"Sinaloa","lat":25.0,"lon":-107.5,"precision":"region","confidence":"medium","note":"landfall in Sinaloa"}
+{"qid":2332911,"place":"Vysoké Mýto","lat":49.9534,"lon":16.1608,"precision":"city","confidence":"medium","note":"Karosa factory"}
+{"qid":1285884,"place":"Constantinople","lat":41.0082,"lon":28.9784,"precision":"city","confidence":"low","note":"Byzantine capital peace"}
+{"qid":4567439,"place":"Bucharest","lat":44.4268,"lon":26.1025,"precision":"city","confidence":"medium","note":"national constitution"}
+{"qid":61052021,"place":"Denmark","lat":56.2639,"lon":9.5018,"precision":"country","confidence":"low","note":"Danish research ship"}
+{"qid":17101626,"place":"Venezuela","lat":6.4238,"lon":-66.5897,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":4576748,"place":"Pacific Ocean","lat":15.0,"lon":-110.0,"precision":"region","confidence":"low","note":"hurricane season"}
+{"qid":5153760,"place":"Singapore","lat":1.3521,"lon":103.8198,"precision":"city","confidence":"high","note":"host city"}
+{"qid":616216,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"handwriting style"}
+{"qid":116973766,"place":"Evansville, Indiana","lat":37.9716,"lon":-87.5711,"precision":"city","confidence":"high","note":"finals site"}
+{"qid":3565939,"place":"Greece","lat":39.0742,"lon":21.8243,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":1979769,"place":"France","lat":46.2276,"lon":2.2137,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":3553866,"place":"Bosnia and Herzegovina","lat":43.9159,"lon":17.6791,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":6567925,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"list of characters"}
+{"qid":48851187,"place":"Florida","lat":27.8,"lon":-81.7,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7891656,"place":"Minnesota","lat":46.0,"lon":-94.0,"precision":"region","confidence":"high","note":"state election"}
+{"qid":2349171,"place":"Malta","lat":35.9375,"lon":14.3754,"precision":"country","confidence":"high","note":"host country"}
+{"qid":7892655,"place":"Alaska","lat":64.2,"lon":-149.5,"precision":"region","confidence":"high","note":"state election"}

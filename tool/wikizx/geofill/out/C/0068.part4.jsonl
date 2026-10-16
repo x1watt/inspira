@@ -1,0 +1,50 @@
+{"qid":60519430,"place":"Connecticut","lat":41.6,"lon":-72.7,"precision":"region","confidence":"high","note":"state election"}
+{"qid":83616331,"place":"Belgium","lat":50.5039,"lon":4.4699,"precision":"country","confidence":"medium","note":"race in Belgium"}
+{"qid":23584936,"place":"North Indian Ocean","lat":15.0,"lon":75.0,"precision":"region","confidence":"low","note":"cyclone basin"}
+{"qid":26866949,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"high","note":"protests in New York"}
+{"qid":4971227,"place":"British Virgin Islands","lat":18.4207,"lon":-64.64,"precision":"country","confidence":"high","note":"territory election"}
+{"qid":7258635,"place":"Puerto Rico","lat":18.2208,"lon":-66.5901,"precision":"country","confidence":"high","note":"island election"}
+{"qid":4499394,"place":"Luxembourg","lat":49.8153,"lon":6.1296,"precision":"country","confidence":"high","note":"Holocaust in Luxembourg"}
+{"qid":7131103,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"high","note":"Overend Gurney bank failure"}
+{"qid":58433560,"place":"Nevada","lat":39.5,"lon":-116.9,"precision":"region","confidence":"high","note":"state election"}
+{"qid":114403646,"place":"Yerevan","lat":40.1792,"lon":44.4991,"precision":"city","confidence":"medium","note":"contest hosted in Yerevan"}
+{"qid":111956015,"place":"Stratford, Ontario","lat":43.3701,"lon":-80.9822,"precision":"city","confidence":"high","note":"held in Stratford"}
+{"qid":30321491,"place":"Czech Republic","lat":49.8175,"lon":15.473,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":83885548,"place":"Lombardy","lat":45.5845,"lon":9.93,"precision":"region","confidence":"high","note":"race in Lombardy"}
+{"qid":4971229,"place":"British Virgin Islands","lat":18.4207,"lon":-64.64,"precision":"country","confidence":"high","note":"territory election"}
+{"qid":4886825,"place":"Denmark","lat":56.2639,"lon":9.5018,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":20668527,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"high","note":"held in Moscow"}
+{"qid":74109276,"place":"Lahore","lat":31.5497,"lon":74.3436,"precision":"city","confidence":"high","note":"draft held in Lahore"}
+{"qid":3893371,"place":"Sisak","lat":45.4661,"lon":16.3731,"precision":"city","confidence":"medium","note":"capital Siscia"}
+{"qid":1980287,"place":"Russia","lat":61.524,"lon":105.3188,"precision":"country","confidence":"medium","note":"post-Soviet social class"}
+{"qid":841333,"place":"Tokyo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"medium","note":"Japanese government reform"}
+{"qid":1439074,"place":"Canada","lat":56.1304,"lon":-106.3468,"precision":"country","confidence":"high","note":"CFL games"}
+{"qid":17015828,"place":"New Hampshire","lat":43.7,"lon":-71.6,"precision":"region","confidence":"high","note":"state election"}
+{"qid":16154394,"place":"Municipal House","lat":50.0875,"lon":14.4283,"precision":"site","confidence":"high","note":"held at Municipal House"}
+{"qid":7132433,"place":"Vatican City","lat":41.9029,"lon":12.4534,"precision":"city","confidence":"medium","note":"papal bans"}
+{"qid":1737585,"place":"Ivory Coast","lat":7.54,"lon":-5.5471,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":5360634,"place":"Zhejiang","lat":29.1832,"lon":120.0934,"precision":"region","confidence":"high","note":"landfall in Zhejiang"}
+{"qid":7892731,"place":"Connecticut","lat":41.6,"lon":-72.7,"precision":"region","confidence":"high","note":"state election"}
+{"qid":525645,"place":"France","lat":46.2276,"lon":2.2137,"precision":"country","confidence":"medium","note":"Renault Trucks bus"}
+{"qid":4348063,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"high","note":"nationwide elections"}
+{"qid":4591133,"place":"Kuala Lumpur","lat":3.139,"lon":101.6869,"precision":"city","confidence":"medium","note":"tournament in Malaysia"}
+{"qid":20055611,"place":"Henley-on-Thames","lat":51.536,"lon":-0.904,"precision":"city","confidence":"high","note":"race at Henley"}
+{"qid":14563359,"place":"Budapest","lat":47.4979,"lon":19.0402,"precision":"city","confidence":"high","note":"2013 Worlds in Budapest"}
+{"qid":4608732,"place":"Churchill Downs","lat":38.2036,"lon":-85.7706,"precision":"site","confidence":"high","note":"Kentucky Derby venue"}
+{"qid":19217057,"place":"Vichy","lat":46.1278,"lon":3.426,"precision":"city","confidence":"high","note":"enacted by Vichy France"}
+{"qid":3922685,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"US military project"}
+{"qid":19877159,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"published music edition"}
+{"qid":3822857,"place":"Mount Everest","lat":27.9881,"lon":86.925,"precision":"site","confidence":"high","note":"expedition on Everest"}
+{"qid":48835037,"place":"South Dakota","lat":44.4,"lon":-100.2,"precision":"region","confidence":"high","note":"state election"}
+{"qid":110159994,"place":"Bulgaria","lat":42.7339,"lon":25.4858,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":108908826,"place":"Ninove","lat":50.8394,"lon":4.0267,"precision":"city","confidence":"high","note":"race finish"}
+{"qid":16155935,"place":"Tennessee","lat":35.8,"lon":-86.3,"precision":"region","confidence":"high","note":"state election"}
+{"qid":97671496,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"medium","note":"federal budget"}
+{"qid":2044450,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"software"}
+{"qid":7800807,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"newsletter"}
+{"qid":4591789,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"medium","note":"federal budget"}
+{"qid":2321849,"place":"Bucharest","lat":44.4268,"lon":26.1025,"precision":"city","confidence":"high","note":"festival in Bucharest"}
+{"qid":16933512,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"medium","note":"UK Parliament act"}
+{"qid":42108577,"place":"Japan","lat":36.2048,"lon":138.2529,"precision":"country","confidence":"low","note":"landfall in Japan"}
+{"qid":7425194,"place":"Saskatchewan","lat":52.9399,"lon":-106.4509,"precision":"region","confidence":"high","note":"provincial strike"}
+{"qid":135579970,"place":"Jatiya Sangsad Bhaban","lat":23.7626,"lon":90.3786,"precision":"site","confidence":"high","note":"announced at Parliament"}

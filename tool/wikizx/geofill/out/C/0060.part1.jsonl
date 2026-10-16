@@ -1,0 +1,50 @@
+{"qid":30132827,"place":"Tbilisi","lat":41.7151,"lon":44.8271,"precision":"city","confidence":"high","note":"contest host city"}
+{"qid":15646474,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"global observance"}
+{"qid":94508,"place":"Milan","lat":45.4642,"lon":9.19,"precision":"city","confidence":"medium","note":"race start"}
+{"qid":257313,"place":"Berlin","lat":52.52,"lon":13.405,"precision":"city","confidence":"medium","note":"Reich government seat"}
+{"qid":39046102,"place":"West Virginia","lat":38.5976,"lon":-80.4549,"precision":"region","confidence":"high","note":"state election"}
+{"qid":6409457,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"ocean season"}
+{"qid":131417923,"place":"Damascus","lat":33.5138,"lon":36.2765,"precision":"city","confidence":"high","note":"capital"}
+{"qid":549392,"place":"Addis Ababa","lat":9.032,"lon":38.7469,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":941535,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"medium","note":"Soviet center"}
+{"qid":5154382,"place":"Puducherry (city)","lat":11.9416,"lon":79.8083,"precision":"city","confidence":"medium","note":"French India capital"}
+{"qid":30642815,"place":"Rhode Island","lat":41.5801,"lon":-71.4774,"precision":"region","confidence":"high","note":"state election"}
+{"qid":17016339,"place":"Vermont","lat":44.5588,"lon":-72.5778,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7892086,"place":"Virginia","lat":37.4316,"lon":-78.6569,"precision":"region","confidence":"high","note":"state election"}
+{"qid":123717429,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"coin"}
+{"qid":27827587,"place":"Ghent","lat":51.0543,"lon":3.7174,"precision":"city","confidence":"medium","note":"race start"}
+{"qid":74892395,"place":"Walt Disney Studios (Burbank)","lat":34.1561,"lon":-118.3258,"precision":"site","confidence":"medium","note":"production location"}
+{"qid":786325,"place":"Hawke's Bay Region","lat":-39.5,"lon":176.9,"precision":"region","confidence":"low","note":"fossil find region"}
+{"qid":7891426,"place":"Colorado","lat":39.0598,"lon":-105.3111,"precision":"region","confidence":"high","note":"state election"}
+{"qid":4604068,"place":"Langley, Virginia","lat":38.9187,"lon":-77.2297,"precision":"city","confidence":"low","note":"CIA headquarters"}
+{"qid":17750099,"place":"Bujumbura","lat":-3.3614,"lon":29.3599,"precision":"city","confidence":"high","note":"coup location"}
+{"qid":2380142,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"low","note":"nationwide crisis"}
+{"qid":7893005,"place":"Oregon","lat":43.8041,"lon":-120.5542,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7891915,"place":"Oregon","lat":43.8041,"lon":-120.5542,"precision":"region","confidence":"high","note":"state election"}
+{"qid":56279392,"place":"Nebraska","lat":41.4925,"lon":-99.9018,"precision":"region","confidence":"high","note":"state election"}
+{"qid":3751021,"place":"Vitoria-Gasteiz","lat":42.8467,"lon":-2.6716,"precision":"city","confidence":"medium","note":"Basque parliament seat"}
+{"qid":124363780,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"radio countdown"}
+{"qid":48835013,"place":"Maine","lat":45.2538,"lon":-69.4455,"precision":"region","confidence":"high","note":"state election"}
+{"qid":114414351,"place":"Guadalcanal","lat":-9.6457,"lon":160.1562,"precision":"region","confidence":"high","note":"game on Guadalcanal"}
+{"qid":2040503,"place":"Saint Petersburg","lat":59.9311,"lon":30.3609,"precision":"city","confidence":"low","note":"Russian imperial capital"}
+{"qid":107481574,"place":"Nebraska","lat":41.4925,"lon":-99.9018,"precision":"region","confidence":"high","note":"state election"}
+{"qid":4613202,"place":"Kurnool","lat":15.8281,"lon":78.0373,"precision":"city","confidence":"medium","note":"crash near Kurnool"}
+{"qid":4555461,"place":"Campbell Island, New Zealand","lat":-52.55,"lon":169.15,"precision":"region","confidence":"high","note":"expedition site"}
+{"qid":96371000,"place":"Utah","lat":39.32,"lon":-111.0937,"precision":"region","confidence":"high","note":"state election"}
+{"qid":112838494,"place":"Niamey","lat":13.5116,"lon":2.1254,"precision":"city","confidence":"low","note":"hijacked plane diverted"}
+{"qid":2053507,"place":"Rabat","lat":34.0209,"lon":-6.8416,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":22095181,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"all-star team"}
+{"qid":167002,"place":"Ardennes","lat":50.1,"lon":5.5,"precision":"region","confidence":"medium","note":"Battle of the Bulge area"}
+{"qid":7061397,"place":"Oslo","lat":59.9139,"lon":10.7522,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":6137012,"place":"Taiwan","lat":23.6978,"lon":120.9605,"precision":"country","confidence":"medium","note":"strongest impact"}
+{"qid":37708935,"place":"Macau","lat":22.1987,"lon":113.5439,"precision":"city","confidence":"medium","note":"severe impact"}
+{"qid":4589626,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"ocean season"}
+{"qid":55636611,"place":"Illinois","lat":40.6331,"lon":-89.3985,"precision":"region","confidence":"high","note":"state election"}
+{"qid":5593851,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"award category"}
+{"qid":22973828,"place":"Seoul","lat":37.5665,"lon":126.978,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":6269386,"place":"Old Parliament House, Canberra","lat":-35.3004,"lon":149.1292,"precision":"site","confidence":"medium","note":"Parliament sitting"}
+{"qid":7891978,"place":"Rhode Island","lat":41.5801,"lon":-71.4774,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7258625,"place":"San Juan, Puerto Rico","lat":18.4655,"lon":-66.1057,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":2359357,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"low","note":"Soviet literacy campaign"}
+{"qid":23899139,"place":"Dresden","lat":51.0504,"lon":13.7373,"precision":"city","confidence":"medium","note":"Landtag seat"}
+{"qid":3565983,"place":"Athens","lat":37.9838,"lon":23.7275,"precision":"city","confidence":"medium","note":"capital"}

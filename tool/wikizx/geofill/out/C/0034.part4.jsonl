@@ -1,0 +1,50 @@
+{"qid":1501505,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"fictional rabbit"}
+{"qid":504893,"place":"Fujisaki, Aomori","lat":40.65,"lon":140.5,"precision":"city","confidence":"medium","note":"developed at Tohoku Research Station"}
+{"qid":15617971,"place":"Madrid","lat":40.4168,"lon":-3.7038,"precision":"city","confidence":"high","note":"Spanish ministry"}
+{"qid":19787448,"place":"The Hague","lat":52.0705,"lon":4.3007,"precision":"city","confidence":"high","note":"Dutch government seat"}
+{"qid":110427963,"place":"Poland","lat":51.9194,"lon":19.1451,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":60519497,"place":"North Carolina","lat":35.5,"lon":-79.8,"precision":"region","confidence":"high","note":"state election"}
+{"qid":1430056,"place":"Italy","lat":41.8719,"lon":12.5674,"precision":"country","confidence":"high","note":"Giro in Italy"}
+{"qid":591506,"place":"Luxembourg","lat":49.8153,"lon":6.1296,"precision":"country","confidence":"high","note":"Luxembourg motorway"}
+{"qid":1719942,"place":"Ankara","lat":39.9334,"lon":32.8597,"precision":"city","confidence":"high","note":"Turkish government"}
+{"qid":130321536,"place":"South Korea","lat":36.5,"lon":127.8,"precision":"country","confidence":"high","note":"Korean show"}
+{"qid":17212,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"ISS mission"}
+{"qid":7843412,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"radio countdown"}
+{"qid":7892979,"place":"North Carolina","lat":35.5,"lon":-79.8,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7362601,"place":"Romania","lat":45.9432,"lon":24.9668,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":613946,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"global program"}
+{"qid":110877742,"place":"Valletta","lat":35.8989,"lon":14.5146,"precision":"city","confidence":"high","note":"host city"}
+{"qid":954057,"place":"Antwerp","lat":51.2194,"lon":4.4025,"precision":"city","confidence":"high","note":"host city"}
+{"qid":4597742,"place":"Philippines","lat":12.8797,"lon":121.774,"precision":"country","confidence":"medium","note":"PBA finals"}
+{"qid":700896,"place":"Kyoto","lat":35.0116,"lon":135.7681,"precision":"city","confidence":"medium","note":"alliance concluded in Kyoto"}
+{"qid":7241101,"place":"Manila","lat":14.5995,"lon":120.9842,"precision":"city","confidence":"high","note":"presidential seat"}
+{"qid":17213,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"ISS mission"}
+{"qid":7556015,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"eclipse series"}
+{"qid":657973,"place":"Israel","lat":31.0,"lon":35.0,"precision":"country","confidence":"high","note":"Israeli medal"}
+{"qid":18471358,"place":"Portugal","lat":39.3999,"lon":-8.2245,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":17218,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"ISS mission"}
+{"qid":36882,"place":"State Farm Arena","lat":33.7573,"lon":-84.3963,"precision":"site","confidence":"high","note":"Philips Arena, Atlanta"}
+{"qid":42916329,"place":"North Carolina","lat":35.5,"lon":-79.8,"precision":"region","confidence":"high","note":"state election"}
+{"qid":6395466,"place":"Kettering","lat":52.3984,"lon":-0.7264,"precision":"city","confidence":"high","note":"borough election"}
+{"qid":277670,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"instrument"}
+{"qid":262529,"place":"Xi'an","lat":34.3416,"lon":108.9398,"precision":"city","confidence":"medium","note":"Tang capital Chang'an"}
+{"qid":111780243,"place":"Taiwan","lat":23.6978,"lon":120.9605,"precision":"country","confidence":"medium","note":"Taiwan league"}
+{"qid":4565805,"place":"Montreal","lat":45.5017,"lon":-73.5673,"precision":"city","confidence":"medium","note":"Montreal vs Boston"}
+{"qid":104034035,"place":"Assam","lat":26.2006,"lon":92.9376,"precision":"region","confidence":"high","note":"state election"}
+{"qid":1138247,"place":"Angola","lat":-11.2027,"lon":17.8739,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":3119188,"place":"Portugal","lat":39.3999,"lon":-8.2245,"precision":"country","confidence":"medium","note":"Portugal vs Castile wars"}
+{"qid":782223,"place":"Puerto Vallarta","lat":20.6534,"lon":-105.2253,"precision":"city","confidence":"high","note":"sailing venue"}
+{"qid":3586415,"place":"Quebec","lat":52.0,"lon":-71.0,"precision":"region","confidence":"high","note":"provincial election"}
+{"qid":2370880,"place":"Peru","lat":-9.19,"lon":-75.0152,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":4582477,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"ocean basin season"}
+{"qid":1507606,"place":"Latvia","lat":56.8796,"lon":24.6032,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":36822,"place":"Pomerania","lat":54.0,"lon":17.0,"precision":"region","confidence":"medium","note":"region of language"}
+{"qid":135456700,"place":"Tbilisi","lat":41.7151,"lon":44.8271,"precision":"city","confidence":"high","note":"venue Olympic Palace"}
+{"qid":66467267,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"multi-country heatwave"}
+{"qid":3545411,"place":"Philippines","lat":12.8797,"lon":121.774,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":3420289,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"touring revue"}
+{"qid":1340217,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"medium","note":"French publisher"}
+{"qid":48834828,"place":"Alabama","lat":32.8067,"lon":-86.7911,"precision":"region","confidence":"high","note":"state election"}
+{"qid":767869,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"global assessment"}
+{"qid":1867101,"place":"Belgium","lat":50.5039,"lon":4.4699,"precision":"country","confidence":"high","note":"Holocaust in Belgium"}
+{"qid":115664915,"place":"Camrose, Alberta","lat":53.0167,"lon":-112.8333,"precision":"city","confidence":"high","note":"host city"}

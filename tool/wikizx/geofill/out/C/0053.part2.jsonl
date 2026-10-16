@@ -1,0 +1,50 @@
+{"qid":15880000,"place":"Kyiv","lat":50.4501,"lon":30.5234,"precision":"city","confidence":"high","note":"hosted in Kyiv"}
+{"qid":7372014,"place":"Mexico City","lat":19.4326,"lon":-99.1332,"precision":"city","confidence":"high","note":"venue in Mexico City"}
+{"qid":67206887,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"medium","note":"UK honours list"}
+{"qid":16959338,"place":"Oregon","lat":44.0,"lon":-120.5,"precision":"region","confidence":"high","note":"state election"}
+{"qid":920854,"place":"Port Vila","lat":-17.7333,"lon":168.322,"precision":"city","confidence":"medium","note":"capital of Vanuatu"}
+{"qid":55636639,"place":"Michigan","lat":44.3,"lon":-85.6,"precision":"region","confidence":"high","note":"state election"}
+{"qid":127502289,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"media franchise"}
+{"qid":1022109,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"anime series"}
+{"qid":1136168,"place":"Tōhoku region","lat":39.5,"lon":140.5,"precision":"region","confidence":"medium","note":"aftermath in Tohoku"}
+{"qid":48790995,"place":"Philippines","lat":12.8797,"lon":121.774,"precision":"country","confidence":"high","note":"national program"}
+{"qid":6979824,"place":"Bucharest","lat":44.4268,"lon":26.1025,"precision":"city","confidence":"medium","note":"national government act"}
+{"qid":6542946,"place":"Libya","lat":26.3351,"lon":17.2283,"precision":"country","confidence":"medium","note":"resistance in Libya"}
+{"qid":20858170,"place":"Barclays Center","lat":40.6826,"lon":-73.9754,"precision":"site","confidence":"high","note":"venue"}
+{"qid":57277577,"place":"Italy","lat":42.8333,"lon":12.8333,"precision":"country","confidence":"high","note":"stage race in Italy"}
+{"qid":455275,"place":"Berlin","lat":52.52,"lon":13.405,"precision":"city","confidence":"high","note":"state election"}
+{"qid":17100309,"place":"Ohio","lat":40.4173,"lon":-82.9071,"precision":"region","confidence":"high","note":"state election"}
+{"qid":135440602,"place":"Jincheon County","lat":36.8553,"lon":127.4353,"precision":"region","confidence":"medium","note":"host town"}
+{"qid":46071347,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"multiple hosts"}
+{"qid":65084027,"place":"Hamden, Connecticut","lat":41.3959,"lon":-72.8997,"precision":"city","confidence":"high","note":"finals site"}
+{"qid":2028191,"place":"Yerevan","lat":40.1792,"lon":44.5133,"precision":"city","confidence":"high","note":"contest held in Yerevan"}
+{"qid":51151,"place":"Vandenberg Space Force Base","lat":34.742,"lon":-120.5724,"precision":"site","confidence":"high","note":"launch site"}
+{"qid":5153782,"place":"Kampala","lat":0.3476,"lon":32.5825,"precision":"city","confidence":"high","note":"meeting host"}
+{"qid":26205812,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"TV series"}
+{"qid":4393846,"place":"Saint Petersburg","lat":59.9343,"lon":30.3351,"precision":"city","confidence":"low","note":"imperial capital"}
+{"qid":2470738,"place":"Ireland","lat":53.4129,"lon":-8.2439,"precision":"country","confidence":"high","note":"national stamps"}
+{"qid":28220883,"place":"Delaware","lat":39.0,"lon":-75.5,"precision":"region","confidence":"high","note":"state election"}
+{"qid":17089178,"place":"Youngstown, Ohio","lat":41.0998,"lon":-80.6495,"precision":"city","confidence":"low","note":"major strike centre"}
+{"qid":2911548,"place":"Thailand","lat":15.87,"lon":100.9925,"precision":"country","confidence":"high","note":"national election"}
+{"qid":198978,"place":"Grand Isle, Louisiana","lat":29.2366,"lon":-89.9873,"precision":"city","confidence":"high","note":"landfall site"}
+{"qid":3002758,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"high","note":"French political crisis"}
+{"qid":18667428,"place":"Sudan","lat":12.8628,"lon":30.2176,"precision":"country","confidence":"high","note":"national election"}
+{"qid":3261651,"place":"The Hague","lat":52.0705,"lon":4.3007,"precision":"city","confidence":"medium","note":"Senate seat"}
+{"qid":17006346,"place":"Fiji","lat":-17.7134,"lon":178.065,"precision":"country","confidence":"medium","note":"severely affected Fiji"}
+{"qid":8073871,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"genus of snails"}
+{"qid":987744,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"award"}
+{"qid":5290865,"place":"Roseau","lat":15.301,"lon":-61.387,"precision":"city","confidence":"medium","note":"capital of Dominica"}
+{"qid":1774166,"place":"Norway","lat":60.472,"lon":8.4689,"precision":"country","confidence":"low","note":"Norwegian group"}
+{"qid":706684,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"high","note":"national election"}
+{"qid":4045379,"place":"Kemper Arena","lat":39.1,"lon":-94.5961,"precision":"site","confidence":"high","note":"venue"}
+{"qid":245563,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"cyclone season"}
+{"qid":5247275,"place":"Toronto","lat":43.6532,"lon":-79.3832,"precision":"city","confidence":"medium","note":"state funeral in Toronto"}
+{"qid":2986795,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"medium","note":"Senate inquiry"}
+{"qid":24525615,"place":"Louisville, Kentucky","lat":38.2527,"lon":-85.7585,"precision":"city","confidence":"high","note":"Louisville team"}
+{"qid":4587842,"place":"Philippines","lat":12.8797,"lon":121.774,"precision":"country","confidence":"high","note":"national league"}
+{"qid":2655369,"place":"Tokyo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"medium","note":"national election"}
+{"qid":116648207,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"TV season"}
+{"qid":5153783,"place":"Perth","lat":-31.9505,"lon":115.8605,"precision":"city","confidence":"high","note":"CHOGM host"}
+{"qid":1458676,"place":"Zschopau","lat":50.7461,"lon":13.0714,"precision":"city","confidence":"high","note":"made in Zschopau"}
+{"qid":7247480,"place":"Jerusalem","lat":31.7683,"lon":35.2137,"precision":"city","confidence":"high","note":"seat of government"}
+{"qid":29051409,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"coin"}

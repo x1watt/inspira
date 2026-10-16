@@ -1,0 +1,50 @@
+{"qid":24190755,"place":"Vancouver","lat":49.2827,"lon":-123.1207,"precision":"city","confidence":"low","note":"studio based in Vancouver"}
+{"qid":24890162,"place":"Churchill Downs","lat":38.2036,"lon":-85.7706,"precision":"site","confidence":"high","note":"Kentucky Derby venue"}
+{"qid":113827445,"place":"St. Joseph, Missouri","lat":39.7675,"lon":-94.8467,"precision":"city","confidence":"high","note":"finals site"}
+{"qid":2138526,"place":"Knäred","lat":56.5167,"lon":13.3167,"precision":"city","confidence":"high","note":"signed at Knäred"}
+{"qid":71694091,"place":"Headquarters of the United Nations","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"high","note":"UN headquarters"}
+{"qid":6797263,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"touring US festival"}
+{"qid":15094110,"place":"Erzurum","lat":39.9043,"lon":41.2679,"precision":"city","confidence":"medium","note":"rebellion centred in Erzurum"}
+{"qid":103780883,"place":"Sweden","lat":60.1282,"lon":18.6435,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":7185401,"place":"Philippines","lat":12.8797,"lon":121.774,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":5200123,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"high","note":"national campaign"}
+{"qid":3539550,"place":"Syria","lat":34.8021,"lon":38.9968,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":4579571,"place":"California","lat":36.7783,"lon":-119.4179,"precision":"region","confidence":"medium","note":"remnants flooded California"}
+{"qid":96363059,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"multi-country tour"}
+{"qid":5157415,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"medium","note":"Second Circuit court"}
+{"qid":16820809,"place":"Stanley, Falkland Islands","lat":-51.6977,"lon":-57.8512,"precision":"city","confidence":"medium","note":"Legislative Council seat"}
+{"qid":7994876,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"high","note":"White House scandal"}
+{"qid":5198894,"place":"Tonga","lat":-21.179,"lon":-175.1982,"precision":"country","confidence":"medium","note":"worst hit Vavaʻu"}
+{"qid":55599973,"place":"Vatican City","lat":41.9029,"lon":12.4534,"precision":"country","confidence":"high","note":"synod in Vatican"}
+{"qid":16555646,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"UN decade"}
+{"qid":1711084,"place":"Athens","lat":37.9838,"lon":23.7275,"precision":"city","confidence":"high","note":"Greek cabinet"}
+{"qid":3308320,"place":"Philipsburg, Sint Maarten","lat":18.0237,"lon":-63.0458,"precision":"city","confidence":"high","note":"capital of Sint Maarten"}
+{"qid":134176,"place":"James Ross Island","lat":-64.15,"lon":-57.75,"precision":"region","confidence":"low","note":"fossils from James Ross Island"}
+{"qid":135796753,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"two host cities"}
+{"qid":17055020,"place":"Wellington","lat":-41.2866,"lon":174.7756,"precision":"city","confidence":"high","note":"presented to Parliament"}
+{"qid":39056179,"place":"South Carolina","lat":33.8361,"lon":-81.1637,"precision":"region","confidence":"high","note":"state election"}
+{"qid":16202564,"place":"Toronto","lat":43.6532,"lon":-79.3832,"precision":"city","confidence":"high","note":"municipal election"}
+{"qid":16199721,"place":"Australia","lat":-25.2744,"lon":133.7751,"precision":"country","confidence":"high","note":"ban in Australia"}
+{"qid":5455781,"place":"Argentina","lat":-38.4161,"lon":-63.6167,"precision":"country","confidence":"high","note":"national plan"}
+{"qid":63953087,"place":"Opole","lat":50.6751,"lon":17.9213,"precision":"city","confidence":"medium","note":"district seat"}
+{"qid":120913123,"place":"Melbourne","lat":-37.8136,"lon":144.9631,"precision":"city","confidence":"medium","note":"trials in Melbourne"}
+{"qid":16968308,"place":"Spain","lat":40.4637,"lon":-3.7492,"precision":"country","confidence":"high","note":"Spanish award"}
+{"qid":136547724,"place":"Australia","lat":-25.2744,"lon":133.7751,"precision":"country","confidence":"high","note":"national competition"}
+{"qid":23023838,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"medium","note":"Timely Comics base"}
+{"qid":135246174,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"league draft"}
+{"qid":1244247,"place":"Montpellier","lat":43.6108,"lon":3.8767,"precision":"city","confidence":"high","note":"Lords of Montpellier"}
+{"qid":6077501,"place":"Veracruz, Veracruz","lat":19.1738,"lon":-96.1342,"precision":"city","confidence":"high","note":"garrison proclamation"}
+{"qid":6648312,"place":"Minsk","lat":53.9006,"lon":27.559,"precision":"city","confidence":"high","note":"contest held in Minsk"}
+{"qid":20055613,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"high","note":"Thames race in London"}
+{"qid":6002642,"place":"Disneyland Park (Anaheim)","lat":33.8121,"lon":-117.919,"precision":"site","confidence":"high","note":"show at Disneyland"}
+{"qid":8024651,"place":"Windsor Locks, Connecticut","lat":41.9293,"lon":-72.6273,"precision":"city","confidence":"high","note":"tornado struck there"}
+{"qid":3087807,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"bus model"}
+{"qid":2086443,"place":"Morocco","lat":31.7917,"lon":-7.0926,"precision":"country","confidence":"high","note":"Moroccan currency"}
+{"qid":48816847,"place":"St. John's, Newfoundland and Labrador","lat":47.5615,"lon":-52.7126,"precision":"city","confidence":"high","note":"riot in St. John's"}
+{"qid":130619009,"place":"Foothills County, Alberta","lat":50.75,"lon":-113.9,"precision":"region","confidence":"medium","note":"ATCO Field venue"}
+{"qid":18155581,"place":"United States Capitol","lat":38.8899,"lon":-77.0091,"precision":"site","confidence":"high","note":"read to Congress"}
+{"qid":5566767,"place":"Glasgow","lat":55.8642,"lon":-4.2518,"precision":"city","confidence":"high","note":"by-election"}
+{"qid":115156968,"place":"Melbourne Cricket Ground","lat":-37.82,"lon":144.9834,"precision":"site","confidence":"high","note":"final at MCG"}
+{"qid":19839706,"place":"Great Hall of the People","lat":39.9015,"lon":116.3913,"precision":"site","confidence":"high","note":"session venue"}
+{"qid":136437418,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"online scandal"}
+{"qid":21029686,"place":"Morocco","lat":31.7917,"lon":-7.0926,"precision":"country","confidence":"high","note":"nationwide"}

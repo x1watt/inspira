@@ -1,0 +1,50 @@
+{"qid":108913494,"place":"Arizona","lat":34.0489,"lon":-111.0937,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7278301,"place":"Old Bailey","lat":51.5156,"lon":-0.102,"precision":"site","confidence":"high","note":"trial court"}
+{"qid":3008515,"place":"Western Australia","lat":-25.0,"lon":122.0,"precision":"region","confidence":"medium","note":"affected WA"}
+{"qid":4630640,"place":"France","lat":46.2276,"lon":2.2137,"precision":"country","confidence":"high","note":"French philosophy"}
+{"qid":767083,"place":"Warsaw","lat":52.2297,"lon":21.0122,"precision":"city","confidence":"medium","note":"Polish project"}
+{"qid":7892749,"place":"Florida","lat":27.9944,"lon":-81.7603,"precision":"region","confidence":"high","note":"state election"}
+{"qid":25452426,"place":"Tunisia","lat":33.8869,"lon":9.5375,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":54959593,"place":"Nevada","lat":38.8026,"lon":-116.4194,"precision":"region","confidence":"high","note":"state election"}
+{"qid":18543635,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"high","note":"Soviet politburo"}
+{"qid":2178539,"place":"Sweden","lat":60.1282,"lon":18.6435,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":1094567,"place":"Caria","lat":37.3,"lon":28.0,"precision":"region","confidence":"medium","note":"Carian region"}
+{"qid":55316095,"place":"Mississippi","lat":32.3547,"lon":-89.3985,"precision":"region","confidence":"high","note":"state election"}
+{"qid":112567373,"place":"Canada","lat":56.1304,"lon":-106.3468,"precision":"country","confidence":"low","note":"cancelled ringette event"}
+{"qid":483968,"place":"Baku","lat":40.4093,"lon":49.8671,"precision":"city","confidence":"medium","note":"Azerbaijan anthem"}
+{"qid":20715445,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"high","note":"WNBA playoffs"}
+{"qid":567712,"place":"Berlin","lat":52.52,"lon":13.405,"precision":"city","confidence":"medium","note":"League of Three Emperors"}
+{"qid":186899,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"high","note":"Paris opera quarrel"}
+{"qid":60519475,"place":"Vermont","lat":44.5588,"lon":-72.5778,"precision":"region","confidence":"high","note":"state election"}
+{"qid":3326696,"place":"Algeria","lat":28.0339,"lon":1.6596,"precision":"country","confidence":"high","note":"guerrilla group"}
+{"qid":3586447,"place":"Saskatchewan","lat":52.9399,"lon":-106.4509,"precision":"region","confidence":"high","note":"provincial election"}
+{"qid":1819119,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"TV series"}
+{"qid":4744909,"place":"American Samoa","lat":-14.271,"lon":-170.1322,"precision":"region","confidence":"high","note":"territory election"}
+{"qid":60441854,"place":"New York (state)","lat":43.0,"lon":-75.0,"precision":"region","confidence":"high","note":"state election"}
+{"qid":16851806,"place":"Limassol","lat":34.7071,"lon":33.0226,"precision":"city","confidence":"medium","note":"JESC 2008 Limassol"}
+{"qid":7826645,"place":"Toronto","lat":43.6532,"lon":-79.3832,"precision":"city","confidence":"high","note":"municipal election"}
+{"qid":13076194,"place":"Yangon","lat":16.8409,"lon":96.1735,"precision":"city","confidence":"high","note":"proclaimed in Rangoon"}
+{"qid":99317162,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"celebration"}
+{"qid":8072090,"place":"Zimbabwe","lat":-19.0154,"lon":29.1549,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":7894457,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"high","note":"UK Parliament act"}
+{"qid":5499756,"place":"Oakland, California","lat":37.8044,"lon":-122.2712,"precision":"city","confidence":"medium","note":"Black Panther program"}
+{"qid":727467,"place":"Asia","lat":34.0479,"lon":100.6197,"precision":"region","confidence":"low","note":"Asian tournament"}
+{"qid":60519428,"place":"Colorado","lat":39.5501,"lon":-105.7821,"precision":"region","confidence":"high","note":"state election"}
+{"qid":4588691,"place":"Bay of Bengal","lat":15.0,"lon":90.0,"precision":"region","confidence":"medium","note":"basin"}
+{"qid":614141,"place":"Sanaa","lat":15.3694,"lon":44.191,"precision":"city","confidence":"medium","note":"Yemen highlands"}
+{"qid":7891431,"place":"Colorado","lat":39.5501,"lon":-105.7821,"precision":"region","confidence":"high","note":"state election"}
+{"qid":5589378,"place":"Dublin","lat":53.3498,"lon":-6.2603,"precision":"city","confidence":"medium","note":"Dail seat"}
+{"qid":5042973,"place":"Carlton Club","lat":51.507,"lon":-0.1366,"precision":"site","confidence":"high","note":"meeting venue"}
+{"qid":3586435,"place":"Saskatchewan","lat":52.9399,"lon":-106.4509,"precision":"region","confidence":"high","note":"provincial election"}
+{"qid":783256,"place":"New South Wales","lat":-33.0,"lon":147.0,"precision":"region","confidence":"medium","note":"coal strike"}
+{"qid":4563075,"place":"Toronto","lat":43.6532,"lon":-79.3832,"precision":"city","confidence":"medium","note":"Leafs won in Toronto"}
+{"qid":5598781,"place":"Cleveland","lat":41.4993,"lon":-81.6944,"precision":"city","confidence":"medium","note":"Cleveland Superbomb"}
+{"qid":7893117,"place":"Vermont","lat":44.5588,"lon":-72.5778,"precision":"region","confidence":"high","note":"state election"}
+{"qid":24023029,"place":"Libya","lat":26.3351,"lon":17.2283,"precision":"country","confidence":"high","note":"host country"}
+{"qid":1140131,"place":"Western Australia","lat":-25.0,"lon":122.0,"precision":"region","confidence":"medium","note":"bred in WA"}
+{"qid":4602699,"place":"Boston","lat":42.3601,"lon":-71.0589,"precision":"city","confidence":"high","note":"2004 DNC"}
+{"qid":17126103,"place":"Havana","lat":23.1136,"lon":-82.3666,"precision":"city","confidence":"high","note":"host city"}
+{"qid":23302640,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"list"}
+{"qid":48835157,"place":"Pyeongchang Olympic Stadium","lat":37.5686,"lon":128.4098,"precision":"site","confidence":"high","note":"closing ceremony"}
+{"qid":5881989,"place":"Montevideo","lat":-34.9011,"lon":-56.1645,"precision":"city","confidence":"high","note":"Cerrito government"}
+{"qid":2573988,"place":"San Diego","lat":32.7157,"lon":-117.1611,"precision":"city","confidence":"low","note":"Sony Network Entertainment"}

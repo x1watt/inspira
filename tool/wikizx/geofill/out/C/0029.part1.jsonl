@@ -1,0 +1,50 @@
+{"qid":2048994,"place":"Winnipeg","lat":49.8954,"lon":-97.1385,"precision":"city","confidence":"high","note":"host city"}
+{"qid":3586375,"place":"Toronto","lat":43.6532,"lon":-79.3832,"precision":"city","confidence":"medium","note":"provincial capital"}
+{"qid":21034783,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"multi-country series"}
+{"qid":84081274,"place":"Yerevan","lat":40.1792,"lon":44.4991,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":1298798,"place":"Rio de Janeiro","lat":-22.9068,"lon":-43.1729,"precision":"city","confidence":"high","note":"naval mutiny"}
+{"qid":7555970,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"eclipse series"}
+{"qid":22095133,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"all-conference team"}
+{"qid":1518129,"place":"Athens","lat":37.9838,"lon":23.7275,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":745839,"place":"Sydney","lat":-33.8688,"lon":151.2093,"precision":"city","confidence":"high","note":"arrived at Sydney Cove"}
+{"qid":110877739,"place":"Rotterdam","lat":51.9244,"lon":4.4777,"precision":"city","confidence":"high","note":"held in Rotterdam"}
+{"qid":16834241,"place":"Busan","lat":35.1796,"lon":129.0756,"precision":"city","confidence":"high","note":"Dong-A University venue"}
+{"qid":849378,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"medium","note":"July Revolution in Paris"}
+{"qid":15273731,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"world concert tour"}
+{"qid":6069422,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"extinction event"}
+{"qid":124448948,"place":"Toyota Center (Houston)","lat":29.7508,"lon":-95.3621,"precision":"site","confidence":"high","note":"game venue"}
+{"qid":1586695,"place":"Valletta","lat":35.8989,"lon":14.5146,"precision":"city","confidence":"medium","note":"capital"}
+{"qid":22095204,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"all-conference team"}
+{"qid":173301,"place":"Hertfordshire","lat":51.8098,"lon":-0.2377,"precision":"region","confidence":"low","note":"team based near Hertfordshire"}
+{"qid":708927,"place":"Nanjing","lat":32.0603,"lon":118.7969,"precision":"city","confidence":"medium","note":"adopted by National Assembly 1948"}
+{"qid":36630,"place":"Alamodome","lat":29.417,"lon":-98.4781,"precision":"site","confidence":"high","note":"venue"}
+{"qid":5589368,"place":"Dublin","lat":53.3498,"lon":-6.2603,"precision":"city","confidence":"medium","note":"Irish government seat"}
+{"qid":1027574,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"annual list"}
+{"qid":6497665,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"extinction event"}
+{"qid":20311670,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"all-conference team"}
+{"qid":16057481,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"medium","note":"Soviet leadership"}
+{"qid":2033741,"place":"Lombardy","lat":45.4791,"lon":9.8452,"precision":"region","confidence":"medium","note":"race ends at Como region"}
+{"qid":110877737,"place":"Győr","lat":47.6875,"lon":17.6504,"precision":"city","confidence":"high","note":"held in Győr"}
+{"qid":105038270,"place":"Ohio","lat":40.4173,"lon":-82.9071,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":7713063,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"radio series"}
+{"qid":17507358,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"multi-country camps"}
+{"qid":12191666,"place":"Beirut","lat":33.8938,"lon":35.5018,"precision":"city","confidence":"medium","note":"Lebanese party"}
+{"qid":5760882,"place":"Revel Atlantic City","lat":39.3584,"lon":-74.4373,"precision":"site","confidence":"high","note":"residency venue"}
+{"qid":110645454,"place":"Yerevan","lat":40.1792,"lon":44.4991,"precision":"city","confidence":"high","note":"held in Yerevan"}
+{"qid":525545,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"abstract dispute"}
+{"qid":16483259,"place":"Dijon","lat":47.322,"lon":5.0415,"precision":"city","confidence":"high","note":"held in Dijon"}
+{"qid":109448232,"place":"Wisconsin","lat":44.5,"lon":-89.5,"precision":"region","confidence":"high","note":"statewide election"}
+{"qid":931709,"place":"Tokyo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"medium","note":"national election"}
+{"qid":540074,"place":"Singapore","lat":1.3521,"lon":103.8198,"precision":"city","confidence":"high","note":"IOC vote in Singapore"}
+{"qid":115809288,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"storm season"}
+{"qid":745873,"place":"Bihać","lat":44.8169,"lon":15.8708,"precision":"city","confidence":"medium","note":"route start"}
+{"qid":5953497,"place":"Samarra","lat":34.198,"lon":43.874,"precision":"city","confidence":"low","note":"Twelver Shia belief, Samarra"}
+{"qid":196688,"place":"Seoul","lat":37.5665,"lon":126.978,"precision":"city","confidence":"medium","note":"Joseon court"}
+{"qid":1324648,"place":"Stockholm","lat":59.3293,"lon":18.0686,"precision":"city","confidence":"medium","note":"Swedish prize"}
+{"qid":1069822,"place":"Aosta","lat":45.737,"lon":7.3201,"precision":"city","confidence":"medium","note":"region capital"}
+{"qid":72721903,"place":"Erfurt","lat":50.9848,"lon":11.0299,"precision":"city","confidence":"medium","note":"Thuringia capital"}
+{"qid":111594692,"place":"France","lat":46.6034,"lon":1.8883,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":7566179,"place":"Adelaide","lat":-34.9285,"lon":138.6007,"precision":"city","confidence":"medium","note":"state capital"}
+{"qid":6401797,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"writing system"}
+{"qid":21367198,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"fossil eggs"}
+{"qid":7185224,"place":"Manila","lat":14.5995,"lon":120.9842,"precision":"city","confidence":"medium","note":"national election"}

@@ -1,0 +1,50 @@
+{"qid":7185342,"place":"Manila","lat":14.5995,"lon":120.9842,"precision":"city","confidence":"medium","note":"Philippine election"}
+{"qid":22094848,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"list"}
+{"qid":7566192,"place":"South Australia","lat":-34.9285,"lon":138.6007,"precision":"region","confidence":"high","note":"state election"}
+{"qid":106854881,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"list"}
+{"qid":3926888,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"qualification"}
+{"qid":67167276,"place":"Arena México","lat":19.422,"lon":-99.1556,"precision":"site","confidence":"high","note":"venue"}
+{"qid":17082063,"place":"Galicia","lat":42.5751,"lon":-8.1339,"precision":"region","confidence":"high","note":"regional election"}
+{"qid":2917065,"place":"Israel","lat":31.0461,"lon":34.8516,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":6543992,"place":"Liechtenstein","lat":47.166,"lon":9.5554,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":3544276,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"medium","note":"Baring Brothers failure"}
+{"qid":730476,"place":"Finland","lat":61.9241,"lon":25.7482,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":6708162,"place":"Lyme Regis","lat":50.7254,"lon":-2.9373,"precision":"city","confidence":"high","note":"branch line"}
+{"qid":4562434,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"list"}
+{"qid":30642430,"place":"Maine","lat":45.2538,"lon":-69.4455,"precision":"region","confidence":"high","note":"state election"}
+{"qid":60519483,"place":"Nebraska","lat":41.4925,"lon":-99.9018,"precision":"region","confidence":"high","note":"state election"}
+{"qid":2357046,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"zone event"}
+{"qid":16931607,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"high","note":"UK Parliament"}
+{"qid":4971222,"place":"Road Town","lat":18.4286,"lon":-64.6185,"precision":"city","confidence":"medium","note":"BVI capital"}
+{"qid":139940808,"place":"Ankara","lat":39.9334,"lon":32.8597,"precision":"city","confidence":"medium","note":"court in Ankara"}
+{"qid":7523290,"place":"Singapore","lat":1.3521,"lon":103.8198,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":7892122,"place":"Wisconsin","lat":44.5,"lon":-89.5,"precision":"region","confidence":"high","note":"state election"}
+{"qid":3076670,"place":"Tsongas Center","lat":42.649,"lon":-71.315,"precision":"site","confidence":"high","note":"Tsongas Arena"}
+{"qid":1721822,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"car model"}
+{"qid":1795598,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"comic series"}
+{"qid":65052700,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"anime"}
+{"qid":20020217,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"animated series"}
+{"qid":6116133,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"online magazine"}
+{"qid":2622002,"place":"Palace of Versailles","lat":48.8049,"lon":2.1204,"precision":"site","confidence":"medium","note":"decrees of 4 August"}
+{"qid":1959929,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"contest"}
+{"qid":757581,"place":"Soviet Union","lat":61.524,"lon":105.3188,"precision":"country","confidence":"medium","note":"Soviet program"}
+{"qid":4592597,"place":"Fort Lauderdale, Florida","lat":26.1224,"lon":-80.1373,"precision":"city","confidence":"high","note":"draft held"}
+{"qid":4376802,"place":"Ireland","lat":53.4129,"lon":-8.2439,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":4218056,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"high","note":"Italian government"}
+{"qid":16820813,"place":"Stanley, Falkland Islands","lat":-51.693,"lon":-57.859,"precision":"city","confidence":"medium","note":"election capital"}
+{"qid":18720553,"place":"Markham, Ontario","lat":43.8561,"lon":-79.337,"precision":"city","confidence":"high","note":"Markham Pan Am Centre"}
+{"qid":55624785,"place":"Canberra","lat":-35.2809,"lon":149.13,"precision":"city","confidence":"medium","note":"federal party"}
+{"qid":11325791,"place":"Okinawa Island","lat":26.5,"lon":128.0,"precision":"region","confidence":"medium","note":"Ryukyuan priestesses"}
+{"qid":1022291,"place":"Lower Nubia","lat":22.0,"lon":32.0,"precision":"region","confidence":"medium","note":"culture region"}
+{"qid":5001008,"place":"Burundi","lat":-3.3731,"lon":29.9189,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":23018318,"place":"Ohio","lat":40.4173,"lon":-82.9071,"precision":"region","confidence":"high","note":"state election"}
+{"qid":4650749,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"low","note":"ACORN controversy"}
+{"qid":23018184,"place":"New Hampshire","lat":43.1939,"lon":-71.5724,"precision":"region","confidence":"high","note":"state election"}
+{"qid":856129,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"high","note":"American exhibition"}
+{"qid":111195114,"place":"Russia","lat":61.524,"lon":105.3188,"precision":"country","confidence":"high","note":"Russian movement"}
+{"qid":2298233,"place":"Sweden","lat":60.1282,"lon":18.6435,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":84078839,"place":"Roseau","lat":15.301,"lon":-61.387,"precision":"city","confidence":"high","note":"Dominica capital"}
+{"qid":5532595,"place":"Caracas","lat":10.4806,"lon":-66.9036,"precision":"city","confidence":"high","note":"protests in Caracas"}
+{"qid":5510951,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":16919271,"place":"Winnipeg","lat":49.8951,"lon":-97.1384,"precision":"city","confidence":"high","note":"John Blumberg Complex"}
+{"qid":19688816,"place":"Fiji","lat":-17.7134,"lon":178.065,"precision":"country","confidence":"low","note":"host uncertain"}

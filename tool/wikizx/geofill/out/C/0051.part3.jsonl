@@ -1,0 +1,50 @@
+{"qid":20805306,"place":"Adelaide","lat":-34.9285,"lon":138.6007,"precision":"city","confidence":"medium","note":"SANFL grand final"}
+{"qid":89665442,"place":"Kaohsiung","lat":22.6273,"lon":120.3014,"precision":"city","confidence":"high","note":"recall vote in Kaohsiung"}
+{"qid":10909572,"place":"United Nations Headquarters","lat":40.749,"lon":-73.968,"precision":"site","confidence":"low","note":"UN observance"}
+{"qid":133090209,"place":"Philippines","lat":12.8797,"lon":121.774,"precision":"country","confidence":"medium","note":"Philippine volleyball league"}
+{"qid":7893134,"place":"West Virginia","lat":38.5976,"lon":-80.4549,"precision":"region","confidence":"high","note":"state election"}
+{"qid":60776420,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"high","note":"London County Council election"}
+{"qid":2474503,"place":"Mellon Arena","lat":40.4394,"lon":-79.9892,"precision":"site","confidence":"high","note":"venue per infobox"}
+{"qid":5947955,"place":"California","lat":36.7783,"lon":-119.4179,"precision":"region","confidence":"medium","note":"destructive impact in California"}
+{"qid":17100266,"place":"Missouri","lat":37.9643,"lon":-91.8318,"precision":"region","confidence":"high","note":"state election"}
+{"qid":123418462,"place":"Pomona, California","lat":34.0551,"lon":-117.75,"precision":"city","confidence":"medium","note":"Fairplex venue"}
+{"qid":2613419,"place":"Wiener Konzerthaus","lat":48.2012,"lon":16.3786,"precision":"site","confidence":"high","note":"venue per infobox"}
+{"qid":7865419,"place":"United Nations Headquarters","lat":40.749,"lon":-73.968,"precision":"site","confidence":"low","note":"UN observance"}
+{"qid":5066469,"place":"Chad","lat":15.4542,"lon":18.7322,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":1547546,"place":"Halle (Saale)","lat":51.4969,"lon":11.9688,"precision":"city","confidence":"medium","note":"published in Halle and Leipzig"}
+{"qid":4560931,"place":"Western world","lat":48.0,"lon":10.0,"precision":"region","confidence":"low","note":"fashion decade"}
+{"qid":7892723,"place":"Colorado","lat":39.5501,"lon":-105.7821,"precision":"region","confidence":"high","note":"state election"}
+{"qid":15524957,"place":"Denmark","lat":56.2639,"lon":9.5018,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":5603613,"place":"New Kent County, Virginia","lat":37.5,"lon":-77.0,"precision":"region","confidence":"medium","note":"school board in New Kent County"}
+{"qid":96370964,"place":"West Yorkshire","lat":53.7,"lon":-1.6,"precision":"region","confidence":"high","note":"mayoral election"}
+{"qid":721504,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"global music project"}
+{"qid":7443254,"place":"Colombo","lat":6.9271,"lon":79.8612,"precision":"city","confidence":"medium","note":"Ceylon government seat"}
+{"qid":6567942,"place":"Manchester","lat":53.4808,"lon":-2.2426,"precision":"city","confidence":"low","note":"fictional Weatherfield setting"}
+{"qid":114953786,"place":"South Korea","lat":35.9078,"lon":127.7669,"precision":"country","confidence":"high","note":"national league"}
+{"qid":23018298,"place":"Missouri","lat":37.9643,"lon":-91.8318,"precision":"region","confidence":"high","note":"state election"}
+{"qid":116057110,"place":"Sarajevo","lat":43.8563,"lon":18.4131,"precision":"city","confidence":"medium","note":"Bosnia council of ministers seat"}
+{"qid":1997647,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"high","note":"formed in Paris"}
+{"qid":6483938,"place":"Kerala","lat":10.8505,"lon":76.2711,"precision":"region","confidence":"high","note":"land reform in Kerala"}
+{"qid":20805461,"place":"Football Park","lat":-34.8933,"lon":138.4953,"precision":"site","confidence":"high","note":"grand final venue"}
+{"qid":4591476,"place":"Churchill Downs","lat":38.2051,"lon":-85.7697,"precision":"site","confidence":"high","note":"Kentucky Derby venue"}
+{"qid":17196,"place":"International Space Station","lat":null,"lon":null,"precision":"none","confidence":"low","note":"space station in orbit"}
+{"qid":4607093,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"high","note":"US TV networks"}
+{"qid":17051745,"place":"Canberra","lat":-35.2809,"lon":149.13,"precision":"city","confidence":"medium","note":"Australian federal act"}
+{"qid":42330811,"place":"Hong Kong","lat":22.3193,"lon":114.1694,"precision":"city","confidence":"high","note":"Hong Kong based robot"}
+{"qid":204879,"place":"Erfurt","lat":50.9848,"lon":11.0299,"precision":"city","confidence":"high","note":"Thuringia Landtag seat"}
+{"qid":1618095,"place":"United Kingdom","lat":55.3781,"lon":-3.436,"precision":"country","confidence":"medium","note":"British novels"}
+{"qid":31786513,"place":"Punjab, India","lat":31.1471,"lon":75.3412,"precision":"region","confidence":"high","note":"state election"}
+{"qid":1581732,"place":"Finland","lat":61.9241,"lon":25.7482,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":5970517,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"journal"}
+{"qid":28456081,"place":"Atlantic Coast Conference","lat":35.8,"lon":-78.6,"precision":"region","confidence":"low","note":"ACC all-star team"}
+{"qid":1309201,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"comic book"}
+{"qid":6912655,"place":"Utah","lat":40.15,"lon":-111.65,"precision":"region","confidence":"medium","note":"LDS reformation in Utah"}
+{"qid":7133205,"place":"Canberra","lat":-35.2809,"lon":149.13,"precision":"city","confidence":"medium","note":"Australian federal act"}
+{"qid":27169044,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"event series"}
+{"qid":4557800,"place":"Western world","lat":48.0,"lon":10.0,"precision":"region","confidence":"low","note":"fashion decade"}
+{"qid":4598975,"place":"North Indian Ocean","lat":15.0,"lon":68.0,"precision":"region","confidence":"low","note":"cyclone season basin"}
+{"qid":2818627,"place":"Ottawa","lat":45.4215,"lon":-75.6972,"precision":"city","confidence":"high","note":"Canadian Parliament seat"}
+{"qid":4971230,"place":"British Virgin Islands","lat":18.4207,"lon":-64.64,"precision":"country","confidence":"high","note":"territory-wide election"}
+{"qid":28456042,"place":"Atlantic Coast Conference","lat":35.8,"lon":-78.6,"precision":"region","confidence":"low","note":"ACC all-star team"}
+{"qid":3921152,"place":"Netherlands","lat":52.1326,"lon":5.2913,"precision":"country","confidence":"medium","note":"Dutch literary award"}
+{"qid":19787659,"place":"Berlin","lat":52.52,"lon":13.405,"precision":"city","confidence":"high","note":"state election"}

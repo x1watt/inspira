@@ -1,0 +1,50 @@
+{"qid":23791034,"place":"Venice","lat":45.4408,"lon":12.3155,"precision":"city","confidence":"high","note":"Biennale"}
+{"qid":245531,"place":"Papua New Guinea","lat":-6.315,"lon":143.9555,"precision":"country","confidence":"medium","note":"affected PNG"}
+{"qid":119948520,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"medium","note":"UN Security Council"}
+{"qid":4592902,"place":"Fremantle","lat":-32.0569,"lon":115.7439,"precision":"city","confidence":"medium","note":"Westar Rules final"}
+{"qid":20708375,"place":"Rhode Island","lat":41.5801,"lon":-71.4774,"precision":"region","confidence":"high","note":"state election"}
+{"qid":1608324,"place":"Thuringia","lat":50.9,"lon":11.0,"precision":"region","confidence":"medium","note":"Thuringian war"}
+{"qid":209339,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"coin"}
+{"qid":4532830,"place":"Sochi","lat":43.6028,"lon":39.7342,"precision":"city","confidence":"medium","note":"relay ended in Sochi"}
+{"qid":20679150,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"high","note":"2015 Worlds Moscow"}
+{"qid":111948032,"place":"Chicago","lat":41.8781,"lon":-87.6298,"precision":"city","confidence":"high","note":"Chicago Stadium"}
+{"qid":48843334,"place":"Wyoming","lat":43.0,"lon":-107.55,"precision":"region","confidence":"high","note":"state election"}
+{"qid":284457,"place":"Los Angeles","lat":34.0522,"lon":-118.2437,"precision":"city","confidence":"high","note":"LA band"}
+{"qid":3587186,"place":"Jamaica","lat":18.1096,"lon":-77.2975,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":7700891,"place":"United Nations Headquarters","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"high","note":"General Assembly Hall"}
+{"qid":17012435,"place":"Lokoja","lat":7.8024,"lon":6.7333,"precision":"city","confidence":"medium","note":"expedition destination"}
+{"qid":22980293,"place":"Curaçao","lat":12.1696,"lon":-68.99,"precision":"region","confidence":"high","note":"island election"}
+{"qid":17016141,"place":"Vermont","lat":44.5588,"lon":-72.5778,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7016142,"place":"New Zealand","lat":-40.9006,"lon":174.886,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":1258842,"place":"Ctesiphon","lat":33.0933,"lon":44.5808,"precision":"city","confidence":"high","note":"council site"}
+{"qid":1086942,"place":"Milan","lat":45.4642,"lon":9.19,"precision":"city","confidence":"medium","note":"race start"}
+{"qid":5174931,"place":"Costa Rica","lat":9.7489,"lon":-83.7534,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":52191746,"place":"Yorkshire","lat":53.9591,"lon":-1.0815,"precision":"region","confidence":"high","note":"race in Yorkshire"}
+{"qid":111165235,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"series of conferences"}
+{"qid":4587027,"place":"Philippines","lat":12.8797,"lon":121.774,"precision":"country","confidence":"medium","note":"PBA season"}
+{"qid":2431003,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"zone event"}
+{"qid":1565623,"place":"Latvia","lat":56.8796,"lon":24.6032,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":85793812,"place":"Gliwice","lat":50.2945,"lon":18.6714,"precision":"city","confidence":"medium","note":"JESC 2018 Minsk"}
+{"qid":696288,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"album"}
+{"qid":105040666,"place":"Illinois","lat":40.0,"lon":-89.0,"precision":"region","confidence":"high","note":"state election"}
+{"qid":5417348,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"high","note":"Supreme Court"}
+{"qid":20647251,"place":"Sofia","lat":42.6977,"lon":23.3219,"precision":"city","confidence":"medium","note":"JESC 2015 host"}
+{"qid":7302387,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"recession"}
+{"qid":2085034,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"graphic novel"}
+{"qid":36683,"place":"Madison Square Garden","lat":40.7505,"lon":-73.9934,"precision":"site","confidence":"high","note":"venue"}
+{"qid":1320289,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"comic album"}
+{"qid":1113155,"place":"Iberian Peninsula","lat":40.0,"lon":-4.0,"precision":"region","confidence":"medium","note":"script area"}
+{"qid":115033137,"place":"Andorra","lat":42.5063,"lon":1.5218,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":7697873,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"script"}
+{"qid":17007690,"place":"Stockholm","lat":59.3293,"lon":18.0686,"precision":"city","confidence":"high","note":"Palladium"}
+{"qid":2720237,"place":"Burkina Faso","lat":12.2383,"lon":-1.5616,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":18378595,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"topic"}
+{"qid":4573189,"place":"Eastern Pacific Ocean","lat":15.0,"lon":-110.0,"precision":"region","confidence":"low","note":"basin"}
+{"qid":4864266,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"campaign"}
+{"qid":913421,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"phone"}
+{"qid":1277722,"place":"Hjørring","lat":57.4642,"lon":9.982,"precision":"city","confidence":"medium","note":"county seat"}
+{"qid":7891506,"place":"Hawaii","lat":21.3,"lon":-157.8583,"precision":"region","confidence":"high","note":"state election"}
+{"qid":3295460,"place":"Alaska","lat":64.2008,"lon":-149.4937,"precision":"region","confidence":"high","note":"state election"}
+{"qid":18758297,"place":"Manila","lat":14.5995,"lon":120.9842,"precision":"city","confidence":"high","note":"visit capital"}
+{"qid":116257272,"place":"Pristina","lat":42.6629,"lon":21.1655,"precision":"city","confidence":"high","note":"host city"}
+{"qid":5119733,"place":"Philippine Sea","lat":20.0,"lon":130.0,"precision":"region","confidence":"low","note":"NW Pacific"}

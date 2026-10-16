@@ -1,0 +1,50 @@
+{"qid":699564,"place":"West Germany","lat":50.7374,"lon":7.0982,"precision":"city","confidence":"low","note":"Bonn, West German capital"}
+{"qid":1783396,"place":"Italy","lat":41.8719,"lon":12.5674,"precision":"country","confidence":"medium","note":"national election"}
+{"qid":1757689,"place":"Cyprus","lat":35.1264,"lon":33.4299,"precision":"country","confidence":"medium","note":"script of Cyprus"}
+{"qid":7566185,"place":"Adelaide","lat":-34.9285,"lon":138.6007,"precision":"city","confidence":"medium","note":"South Australian election"}
+{"qid":60745017,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"medium","note":"colonial legislature"}
+{"qid":5760080,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"anniversary observance"}
+{"qid":5453430,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"medium","note":"British government"}
+{"qid":6653327,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"comic team"}
+{"qid":7094973,"place":"Ontario","lat":51.2538,"lon":-85.3232,"precision":"region","confidence":"medium","note":"provincial election"}
+{"qid":6296202,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"journal"}
+{"qid":1133163,"place":"Venice","lat":45.4408,"lon":12.3155,"precision":"city","confidence":"medium","note":"Venetian family"}
+{"qid":104878311,"place":"Saint Helier","lat":49.1858,"lon":-2.11,"precision":"city","confidence":"medium","note":"Jersey election"}
+{"qid":700035,"place":"Ghent","lat":51.0543,"lon":3.7174,"precision":"city","confidence":"high","note":"signed at Ghent"}
+{"qid":1359546,"place":"Turin","lat":45.0703,"lon":7.6869,"precision":"city","confidence":"medium","note":"race start"}
+{"qid":1781365,"place":"Stockholm","lat":59.3293,"lon":18.0686,"precision":"city","confidence":"high","note":"held in Stockholm"}
+{"qid":733951,"place":"Prague","lat":50.0755,"lon":14.4378,"precision":"city","confidence":"low","note":"Czechoslovak-led alliance"}
+{"qid":1638662,"place":"San Blas, Nayarit","lat":21.5436,"lon":-105.2865,"precision":"city","confidence":"medium","note":"landfall in Mexico"}
+{"qid":27629917,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"tournaments"}
+{"qid":65090661,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"metric"}
+{"qid":11191533,"place":"Tokyo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"low","note":"Japanese e-book store"}
+{"qid":1888592,"place":"Norway","lat":60.472,"lon":8.4689,"precision":"country","confidence":"medium","note":"national election"}
+{"qid":62027184,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"global grounding"}
+{"qid":5545551,"place":"Austin, Texas","lat":30.2672,"lon":-97.7431,"precision":"city","confidence":"low","note":"Texas governor campaign"}
+{"qid":23019921,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"radio countdown"}
+{"qid":20311819,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"all-conference team"}
+{"qid":1774974,"place":"Norway","lat":60.472,"lon":8.4689,"precision":"country","confidence":"medium","note":"national referendum"}
+{"qid":1122254,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"manga series"}
+{"qid":18600560,"place":"Adelaide","lat":-34.9285,"lon":138.6007,"precision":"city","confidence":"high","note":"race around Adelaide"}
+{"qid":123050365,"place":"Saint Helier","lat":49.1858,"lon":-2.11,"precision":"city","confidence":"high","note":"Jersey election"}
+{"qid":625549,"place":"Afghanistan","lat":33.9391,"lon":67.71,"precision":"country","confidence":"medium","note":"national election"}
+{"qid":105062562,"place":"Pennsylvania","lat":40.8781,"lon":-77.7996,"precision":"region","confidence":"medium","note":"state election"}
+{"qid":1028009,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"microcontroller"}
+{"qid":664075,"place":"Switzerland","lat":46.8182,"lon":8.2275,"precision":"country","confidence":"medium","note":"national election"}
+{"qid":1071711,"place":"Italy","lat":41.8719,"lon":12.5674,"precision":"country","confidence":"medium","note":"Italian race"}
+{"qid":109727362,"place":"Pennsylvania","lat":40.8781,"lon":-77.7996,"precision":"region","confidence":"medium","note":"state election"}
+{"qid":18469222,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"campaigns across Africa"}
+{"qid":22095194,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"all-conference team"}
+{"qid":4405234,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"book series"}
+{"qid":1044456,"place":"Beijing","lat":39.9042,"lon":116.4074,"precision":"city","confidence":"low","note":"Qing campaigns ordered"}
+{"qid":588013,"place":"Vatican City","lat":41.9022,"lon":12.4539,"precision":"country","confidence":"medium","note":"Roman Curia body"}
+{"qid":110864819,"place":"Budapest","lat":47.4979,"lon":19.0402,"precision":"city","confidence":"high","note":"host city"}
+{"qid":14943147,"place":"Syria","lat":34.8021,"lon":38.9968,"precision":"country","confidence":"medium","note":"chemical weapons destruction"}
+{"qid":16933278,"place":"New Zealand","lat":-41.2866,"lon":174.7756,"precision":"country","confidence":"medium","note":"national election"}
+{"qid":7016136,"place":"New Zealand","lat":-41.2866,"lon":174.7756,"precision":"country","confidence":"medium","note":"national election"}
+{"qid":139750896,"place":"Winter Gardens, Blackpool","lat":53.8167,"lon":-3.0536,"precision":"site","confidence":"high","note":"venue"}
+{"qid":221828,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"currency unit"}
+{"qid":2264242,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"high","note":"National Convention in Paris"}
+{"qid":1976848,"place":"Belgium","lat":50.5039,"lon":4.4699,"precision":"country","confidence":"medium","note":"national local elections"}
+{"qid":354639,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"lens mount"}
+{"qid":43337313,"place":"Adelaide","lat":-34.9285,"lon":138.6007,"precision":"city","confidence":"high","note":"race around Adelaide"}

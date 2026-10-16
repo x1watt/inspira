@@ -1,0 +1,50 @@
+{"qid":135665087,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"relationship topic"}
+{"qid":7843416,"place":"Australia","lat":-25.2744,"lon":133.7751,"precision":"country","confidence":"medium","note":"national radio countdown"}
+{"qid":124061029,"place":"Bataan People's Center","lat":14.68,"lon":120.536,"precision":"site","confidence":"medium","note":"All-Star venue in Balanga"}
+{"qid":20084094,"place":"The Hague","lat":52.0705,"lon":4.3007,"precision":"city","confidence":"medium","note":"Dutch cabinet negotiations"}
+{"qid":4413000,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"high","note":"held in Moscow"}
+{"qid":1558418,"place":"Japan","lat":36.2048,"lon":138.2529,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":18353153,"place":"Cambodia","lat":12.5657,"lon":104.991,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":209521,"place":"Sava Centar","lat":44.812,"lon":20.42,"precision":"site","confidence":"medium","note":"production at Sava Centar"}
+{"qid":935984,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"comic album"}
+{"qid":339299,"place":"Spain","lat":40.4637,"lon":-3.7492,"precision":"country","confidence":"high","note":"national cycling race"}
+{"qid":3241438,"place":"Mexico","lat":23.6345,"lon":-102.5528,"precision":"country","confidence":"medium","note":"affected western Mexico"}
+{"qid":15076094,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"multi-country race series"}
+{"qid":122790705,"place":"Texas","lat":31.9686,"lon":-99.9018,"precision":"region","confidence":"high","note":"state election"}
+{"qid":140754375,"place":"Estadio Una Nueva Historia","lat":19.413,"lon":-98.144,"precision":"site","confidence":"medium","note":"stadium at Apizaco"}
+{"qid":6671126,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"high","note":"London mayoral election"}
+{"qid":115517669,"place":"Mississippi","lat":32.3547,"lon":-89.3985,"precision":"region","confidence":"high","note":"state election"}
+{"qid":16154885,"place":"Tampere Ice Stadium","lat":61.495,"lon":23.78,"precision":"site","confidence":"medium","note":"championship venue"}
+{"qid":166199,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"comic album"}
+{"qid":4969812,"place":"British Columbia","lat":53.7267,"lon":-127.6476,"precision":"region","confidence":"high","note":"provincial election"}
+{"qid":130564513,"place":"Saitama Super Arena","lat":35.8947,"lon":139.6294,"precision":"site","confidence":"medium","note":"first tour venue"}
+{"qid":1186721,"place":"Eastern Pacific Ocean","lat":15.0,"lon":-110.0,"precision":"region","confidence":"low","note":"hurricane season"}
+{"qid":16823577,"place":"Armenia","lat":40.0691,"lon":45.0382,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":17399758,"place":"Kazan","lat":55.7887,"lon":49.1221,"precision":"city","confidence":"medium","note":"2014 Worlds in Kazan"}
+{"qid":48782043,"place":"Spain","lat":40.4637,"lon":-3.7492,"precision":"country","confidence":"high","note":"Spanish theatre awards"}
+{"qid":562294,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"comic strip"}
+{"qid":2432106,"place":"Mojave, California","lat":35.0525,"lon":-118.174,"precision":"city","confidence":"medium","note":"Scaled Composites based in Mojave"}
+{"qid":17219,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"ISS mission"}
+{"qid":4611427,"place":"Sheraton Denver Downtown Hotel","lat":39.7467,"lon":-104.996,"precision":"site","confidence":"medium","note":"convention hotel in Denver"}
+{"qid":6510963,"place":"Lebanon","lat":33.8547,"lon":35.8623,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":17398994,"place":"Kazan","lat":55.7887,"lon":49.1221,"precision":"city","confidence":"medium","note":"2014 Worlds in Kazan"}
+{"qid":137009721,"place":"Songkhla","lat":7.1897,"lon":100.5951,"precision":"city","confidence":"medium","note":"catastrophic flooding in southern Thailand"}
+{"qid":28008612,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"worldwide badminton circuit"}
+{"qid":104771348,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"web series"}
+{"qid":4454938,"place":"Iran","lat":32.4279,"lon":53.688,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":7566195,"place":"South Australia","lat":-34.9285,"lon":138.6007,"precision":"region","confidence":"high","note":"state election"}
+{"qid":17332810,"place":"Brussels","lat":50.8503,"lon":4.3517,"precision":"city","confidence":"low","note":"EU seat"}
+{"qid":2715397,"place":"Portugal","lat":39.3999,"lon":-8.2245,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":27921999,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"magazine list"}
+{"qid":7784823,"place":"Colombo","lat":6.9271,"lon":79.8612,"precision":"city","confidence":"medium","note":"Ceylon government seat"}
+{"qid":114069870,"place":"10 Downing Street","lat":51.5034,"lon":-0.1276,"precision":"site","confidence":"high","note":"PM residence and office"}
+{"qid":1751949,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"multi-site tennis ties"}
+{"qid":116736246,"place":"Minnesota","lat":46.7296,"lon":-94.6859,"precision":"region","confidence":"high","note":"state election"}
+{"qid":740602,"place":"Massachusetts Institute of Technology","lat":42.3601,"lon":-71.0942,"precision":"site","confidence":"high","note":"MIT project"}
+{"qid":966775,"place":"Republic of the Congo","lat":-0.228,"lon":15.8277,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":17030161,"place":"Michigan City, Indiana","lat":41.7075,"lon":-86.895,"precision":"city","confidence":"high","note":"sailing on Lake Michigan"}
+{"qid":6567936,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"character list"}
+{"qid":17016075,"place":"Vermont","lat":44.5588,"lon":-72.5778,"precision":"region","confidence":"high","note":"state election"}
+{"qid":1869829,"place":"California","lat":36.7783,"lon":-119.4179,"precision":"region","confidence":"high","note":"state law"}
+{"qid":44793261,"place":"North Indian Ocean","lat":15.0,"lon":75.0,"precision":"region","confidence":"low","note":"cyclone season"}
+{"qid":7185076,"place":"Philippines","lat":12.8797,"lon":121.774,"precision":"country","confidence":"high","note":"nationwide election"}

@@ -1,0 +1,50 @@
+{"qid":467542,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"high","note":"French group in Paris"}
+{"qid":30640189,"place":"Maine","lat":45.25,"lon":-69.0,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7511464,"place":"Sierra Leone","lat":8.4606,"lon":-11.7799,"precision":"country","confidence":"high","note":"national election"}
+{"qid":8026318,"place":"Detroit","lat":42.3314,"lon":-83.0458,"precision":"city","confidence":"high","note":"held in Detroit"}
+{"qid":4591506,"place":"Fort Lauderdale, Florida","lat":26.1224,"lon":-80.1373,"precision":"city","confidence":"high","note":"draft held there"}
+{"qid":8034831,"place":"Geneva","lat":46.2044,"lon":6.1432,"precision":"city","confidence":"medium","note":"ILO seat"}
+{"qid":3360191,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"multiple host countries"}
+{"qid":3586511,"place":"Algeria","lat":28.0339,"lon":1.6596,"precision":"country","confidence":"high","note":"national election"}
+{"qid":2812734,"place":"New Delhi","lat":28.6139,"lon":77.209,"precision":"city","confidence":"medium","note":"Parliament of India"}
+{"qid":18356988,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"high","note":"national elections"}
+{"qid":7892155,"place":"Mississippi","lat":32.75,"lon":-89.75,"precision":"region","confidence":"high","note":"state election"}
+{"qid":6123215,"place":"Madrid","lat":40.4168,"lon":-3.7038,"precision":"city","confidence":"high","note":"Spanish ministry seat"}
+{"qid":115491,"place":"Italy","lat":42.8333,"lon":12.8333,"precision":"country","confidence":"high","note":"race across Italy"}
+{"qid":3297685,"place":"Akasaka Palace","lat":35.6797,"lon":139.7273,"precision":"site","confidence":"high","note":"summit venue"}
+{"qid":7125909,"place":"Pakistan","lat":30.3753,"lon":69.3451,"precision":"country","confidence":"high","note":"national election"}
+{"qid":3893296,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"medium","note":"originated at Bank of England"}
+{"qid":20710170,"place":"North Dakota","lat":47.5,"lon":-100.5,"precision":"region","confidence":"high","note":"state election"}
+{"qid":3334171,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"arcade platform"}
+{"qid":2094828,"place":"Avicii Arena","lat":59.2937,"lon":18.0831,"precision":"site","confidence":"high","note":"Sun model site"}
+{"qid":2085936,"place":"Amerant Bank Arena","lat":26.1584,"lon":-80.3256,"precision":"site","confidence":"high","note":"Office Depot Center"}
+{"qid":39060351,"place":"Michigan","lat":44.3,"lon":-85.6,"precision":"region","confidence":"high","note":"state election"}
+{"qid":692416,"place":"Greece","lat":39.0742,"lon":21.8243,"precision":"country","confidence":"high","note":"national election"}
+{"qid":12073118,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"military award"}
+{"qid":23941292,"place":"Palacio de los Deportes","lat":19.4053,"lon":-99.097,"precision":"site","confidence":"high","note":"venue"}
+{"qid":7115161,"place":"Punchestown Racecourse","lat":53.1833,"lon":-6.65,"precision":"site","confidence":"high","note":"festival venue"}
+{"qid":430317,"place":"Canberra","lat":-35.2809,"lon":149.13,"precision":"city","confidence":"high","note":"federal Parliament"}
+{"qid":17139154,"place":"Grand Palais","lat":48.8661,"lon":2.3126,"precision":"site","confidence":"high","note":"event venue"}
+{"qid":18435314,"place":"Tampere","lat":61.4978,"lon":23.761,"precision":"city","confidence":"high","note":"host city"}
+{"qid":124250047,"place":"Palace of Westminster","lat":51.4994,"lon":-0.1248,"precision":"site","confidence":"high","note":"delivered in Commons"}
+{"qid":17494283,"place":"Botswana","lat":-22.3285,"lon":24.6849,"precision":"country","confidence":"high","note":"national election"}
+{"qid":29097724,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"high","note":"DOJ action"}
+{"qid":110313040,"place":"South Africa","lat":-30.5595,"lon":22.9375,"precision":"country","confidence":"medium","note":"national competition"}
+{"qid":5452932,"place":"Colombo","lat":6.9271,"lon":79.8612,"precision":"city","confidence":"high","note":"capital of Ceylon"}
+{"qid":5411146,"place":"Cambridge","lat":52.2053,"lon":0.1218,"precision":"city","confidence":"high","note":"University of Cambridge"}
+{"qid":48940450,"place":"Moscow Art Theatre","lat":55.7596,"lon":37.6139,"precision":"site","confidence":"high","note":"premiered there"}
+{"qid":29953410,"place":"Düsseldorf","lat":51.2277,"lon":6.7735,"precision":"city","confidence":"medium","note":"Landtag seat"}
+{"qid":20022790,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"orbital satellite"}
+{"qid":5306794,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"magazine"}
+{"qid":11570876,"place":"Japan","lat":36.2048,"lon":138.2529,"precision":"country","confidence":"high","note":"Japanese rail lines"}
+{"qid":66105433,"place":"Tórshavn","lat":62.0107,"lon":-6.7716,"precision":"city","confidence":"medium","note":"Faroese capital"}
+{"qid":120913205,"place":"Rolling Fork, Mississippi","lat":32.9073,"lon":-90.879,"precision":"city","confidence":"high","note":"town struck"}
+{"qid":55394438,"place":"Nürburgring","lat":50.3356,"lon":6.9475,"precision":"site","confidence":"high","note":"race circuit"}
+{"qid":7406542,"place":"El Salvador","lat":13.7942,"lon":-88.8965,"precision":"country","confidence":"high","note":"national election"}
+{"qid":114677628,"place":"Finland","lat":61.9241,"lon":25.7482,"precision":"country","confidence":"high","note":"host country"}
+{"qid":21006107,"place":"Kuala Lumpur","lat":3.139,"lon":101.6869,"precision":"city","confidence":"high","note":"Malaysian government"}
+{"qid":104856757,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"anniversary"}
+{"qid":16971420,"place":"Tokyo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"high","note":"1964 Olympics"}
+{"qid":115165109,"place":"Faroe Islands","lat":61.8926,"lon":-6.9118,"precision":"region","confidence":"high","note":"national election"}
+{"qid":466665,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"American literary period"}
+{"qid":648364,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"exhibition match"}

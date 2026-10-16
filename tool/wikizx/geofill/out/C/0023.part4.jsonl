@@ -1,0 +1,50 @@
+{"qid":576619,"place":"Beijing","lat":39.9042,"lon":116.4074,"precision":"city","confidence":"medium","note":"relay ended in Beijing"}
+{"qid":998355,"place":"Leipzig University","lat":51.3397,"lon":12.3731,"precision":"site","confidence":"medium","note":"school at Leipzig"}
+{"qid":3586408,"place":"Quebec","lat":52.9399,"lon":-73.5491,"precision":"region","confidence":"medium","note":"provincial election"}
+{"qid":3376264,"place":"Beijing","lat":39.9042,"lon":116.4074,"precision":"city","confidence":"high","note":"Yuetan Gymnasium, Beijing"}
+{"qid":3586671,"place":"Illinois","lat":40.6331,"lon":-89.3985,"precision":"region","confidence":"medium","note":"state senate election"}
+{"qid":681139,"place":"Poland","lat":51.9194,"lon":19.1451,"precision":"country","confidence":"medium","note":"national election"}
+{"qid":2880308,"place":"Netherlands","lat":52.1326,"lon":5.2913,"precision":"country","confidence":"medium","note":"national election"}
+{"qid":2352707,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"TV season"}
+{"qid":1996160,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"award"}
+{"qid":131753781,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"darts year"}
+{"qid":63344884,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"concert tour"}
+{"qid":31184578,"place":"Valjevo","lat":44.2751,"lon":19.8903,"precision":"city","confidence":"high","note":"club based in Valjevo"}
+{"qid":24185530,"place":"South Australia","lat":-30.0002,"lon":136.2092,"precision":"region","confidence":"medium","note":"colonial election"}
+{"qid":3586284,"place":"Alberta","lat":55.0,"lon":-115.0,"precision":"region","confidence":"medium","note":"provincial election"}
+{"qid":917075,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"sound format"}
+{"qid":863595,"place":"Greece","lat":39.0742,"lon":21.8243,"precision":"country","confidence":"medium","note":"national election"}
+{"qid":3586400,"place":"Quebec","lat":52.9399,"lon":-73.5491,"precision":"region","confidence":"medium","note":"provincial election"}
+{"qid":122372315,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"in orbit"}
+{"qid":249109,"place":"France","lat":46.2276,"lon":2.2137,"precision":"country","confidence":"medium","note":"French race"}
+{"qid":7185344,"place":"Philippines","lat":12.8797,"lon":121.774,"precision":"country","confidence":"medium","note":"assembly election"}
+{"qid":66739340,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"race series"}
+{"qid":112114913,"place":"Menlo Park, California","lat":37.453,"lon":-122.1817,"precision":"city","confidence":"medium","note":"headquarters"}
+{"qid":10289843,"place":"Havana","lat":23.1136,"lon":-82.3666,"precision":"city","confidence":"high","note":"games host"}
+{"qid":28129095,"place":"Philippines","lat":12.8797,"lon":121.774,"precision":"country","confidence":"low","note":"PBA finals"}
+{"qid":1363982,"place":"Russia","lat":55.7558,"lon":37.6173,"precision":"country","confidence":"medium","note":"national election"}
+{"qid":1162921,"place":"Turkey","lat":38.9637,"lon":35.2433,"precision":"country","confidence":"medium","note":"national election"}
+{"qid":7884902,"place":"Hafrsfjord","lat":58.9667,"lon":5.6667,"precision":"region","confidence":"medium","note":"Battle of Hafrsfjord"}
+{"qid":20312322,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"all-conference team"}
+{"qid":2625614,"place":"South Africa","lat":-30.5595,"lon":22.9375,"precision":"country","confidence":"medium","note":"national election"}
+{"qid":4587860,"place":"Pacific Ocean","lat":0.0,"lon":-160.0,"precision":"region","confidence":"low","note":"typhoon season"}
+{"qid":14530731,"place":"Czech Republic","lat":49.8175,"lon":15.473,"precision":"country","confidence":"medium","note":"national election"}
+{"qid":2011607,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"high","note":"mayoral election"}
+{"qid":124374026,"place":"Poland","lat":51.9194,"lon":19.1451,"precision":"country","confidence":"medium","note":"national election"}
+{"qid":7523289,"place":"Singapore","lat":1.3521,"lon":103.8198,"precision":"country","confidence":"medium","note":"national election"}
+{"qid":115517622,"place":"Montana","lat":46.8797,"lon":-110.3626,"precision":"region","confidence":"medium","note":"state election"}
+{"qid":372334,"place":"Thailand","lat":15.87,"lon":100.9925,"precision":"country","confidence":"medium","note":"national election"}
+{"qid":1050902,"place":"Spain","lat":40.4168,"lon":-3.7038,"precision":"country","confidence":"medium","note":"Spanish race"}
+{"qid":951383,"place":"Calicut","lat":11.2588,"lon":75.7804,"precision":"city","confidence":"medium","note":"arrival at Calicut"}
+{"qid":2348089,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"medium","note":"Russian government"}
+{"qid":672992,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"train family"}
+{"qid":2716721,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"film series"}
+{"qid":756170,"place":"Zwolle","lat":52.5168,"lon":6.083,"precision":"city","confidence":"low","note":"movement began in Netherlands"}
+{"qid":2001802,"place":"Serbia","lat":44.0165,"lon":21.0059,"precision":"country","confidence":"medium","note":"republic election"}
+{"qid":632933,"place":"Italy","lat":41.8719,"lon":12.5674,"precision":"country","confidence":"medium","note":"national election"}
+{"qid":20311804,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"all-conference team"}
+{"qid":549547,"place":"Rosetta","lat":31.4044,"lon":30.4163,"precision":"city","confidence":"medium","note":"Rosetta Stone"}
+{"qid":124313415,"place":"Lohja","lat":60.25,"lon":24.0667,"precision":"city","confidence":"high","note":"host city"}
+{"qid":2917062,"place":"Israel","lat":31.0461,"lon":34.8516,"precision":"country","confidence":"medium","note":"national election"}
+{"qid":115694681,"place":"Copenhagen","lat":55.6761,"lon":12.5683,"precision":"city","confidence":"medium","note":"Danish cabinet"}
+{"qid":509936,"place":"Araucania Region","lat":-38.9489,"lon":-72.3311,"precision":"region","confidence":"low","note":"Mapuche uprising 1598"}

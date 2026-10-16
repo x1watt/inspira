@@ -1,0 +1,50 @@
+{"qid":379467,"place":"France","lat":46.2276,"lon":2.2137,"precision":"country","confidence":"medium","note":"Tour de France"}
+{"qid":4895944,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"competition"}
+{"qid":1457697,"place":"Netherlands","lat":52.1326,"lon":5.2913,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":48839632,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"abstract"}
+{"qid":495970,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"TV block"}
+{"qid":25226840,"place":"Catalonia","lat":41.5912,"lon":1.5209,"precision":"region","confidence":"high","note":"regional election"}
+{"qid":20714388,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"abstract"}
+{"qid":1305697,"place":"Mandatory Palestine","lat":31.5,"lon":35.0,"precision":"region","confidence":"medium","note":"destination of immigration"}
+{"qid":1897862,"place":"France","lat":46.2276,"lon":2.2137,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":2594405,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"era"}
+{"qid":110645465,"place":"Wrocław","lat":51.1079,"lon":17.0385,"precision":"city","confidence":"high","note":"host city"}
+{"qid":7393076,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"naval system"}
+{"qid":135747972,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"multi-country tour"}
+{"qid":48839649,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"abstract"}
+{"qid":7578692,"place":"United Kingdom","lat":55.3781,"lon":-3.436,"precision":"country","confidence":"low","note":"UK darts dispute"}
+{"qid":5361017,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"weather season"}
+{"qid":3320835,"place":"Spain","lat":40.4637,"lon":-3.7492,"precision":"country","confidence":"high","note":"division of Spain"}
+{"qid":2623146,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"medium","note":"signed in Washington"}
+{"qid":29995070,"place":"Bridgestone Arena","lat":36.1592,"lon":-86.7785,"precision":"site","confidence":"medium","note":"clinching game in Nashville"}
+{"qid":754841,"place":"Stockholm","lat":59.3293,"lon":18.0686,"precision":"city","confidence":"low","note":"Swedish prize"}
+{"qid":3586382,"place":"Ontario","lat":51.2538,"lon":-85.3232,"precision":"region","confidence":"high","note":"provincial election"}
+{"qid":110589289,"place":"Qingdao","lat":36.0671,"lon":120.3826,"precision":"city","confidence":"high","note":"host city"}
+{"qid":1230986,"place":"Ottawa","lat":45.4215,"lon":-75.6972,"precision":"city","confidence":"medium","note":"Canadian federal process"}
+{"qid":3544071,"place":"Lagoa Rodrigo de Freitas","lat":-22.9719,"lon":-43.2112,"precision":"site","confidence":"high","note":"stated venue"}
+{"qid":1200808,"place":"Munster","lat":52.3,"lon":-8.6,"precision":"region","confidence":"high","note":"Munster rebellions"}
+{"qid":17712,"place":"Bern","lat":46.948,"lon":7.4474,"precision":"city","confidence":"high","note":"Einstein Society in Bern"}
+{"qid":19863554,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"abstract"}
+{"qid":5453246,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"medium","note":"UK government seat"}
+{"qid":16204156,"place":"Chicago Stadium","lat":41.8806,"lon":-87.6742,"precision":"site","confidence":"medium","note":"clinching game in Chicago"}
+{"qid":17091742,"place":"Greece","lat":39.0742,"lon":21.8243,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":179430,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"instrument"}
+{"qid":108882455,"place":"Czech Republic","lat":49.8175,"lon":15.473,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":3587168,"place":"Hong Kong","lat":22.3193,"lon":114.1694,"precision":"region","confidence":"high","note":"territory election"}
+{"qid":1049079,"place":"Joe Louis Arena","lat":42.325,"lon":-83.0511,"precision":"site","confidence":"medium","note":"game 7 in Detroit"}
+{"qid":114237880,"place":"Melbourne Cricket Ground","lat":-37.82,"lon":144.9834,"precision":"site","confidence":"high","note":"stated venue"}
+{"qid":4591504,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"draft event"}
+{"qid":110645456,"place":"Kyiv","lat":50.4501,"lon":30.5234,"precision":"city","confidence":"high","note":"host city"}
+{"qid":1566417,"place":"Ethiopia","lat":9.145,"lon":40.4897,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":136557232,"place":"England","lat":52.3555,"lon":-1.1743,"precision":"country","confidence":"low","note":"Victorian England movement"}
+{"qid":2917386,"place":"United Kingdom","lat":55.3781,"lon":-3.436,"precision":"country","confidence":"high","note":"UK evacuations"}
+{"qid":1031978,"place":"Canada","lat":56.1304,"lon":-106.3468,"precision":"country","confidence":"low","note":"hosted in Canada"}
+{"qid":4855467,"place":"Bangladesh","lat":23.685,"lon":90.3563,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":3586295,"place":"Alberta","lat":53.9333,"lon":-116.5765,"precision":"region","confidence":"high","note":"provincial election"}
+{"qid":7016094,"place":"New Zealand","lat":-40.9006,"lon":174.886,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":3757636,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"train family"}
+{"qid":48839933,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"abstract"}
+{"qid":176441,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"award"}
+{"qid":698093,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":755135,"place":"Spain","lat":40.4637,"lon":-3.7492,"precision":"country","confidence":"high","note":"Vuelta a España"}
+{"qid":110645463,"place":"Prague","lat":50.0755,"lon":14.4378,"precision":"city","confidence":"high","note":"host city"}

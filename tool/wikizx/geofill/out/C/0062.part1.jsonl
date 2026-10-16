@@ -1,0 +1,50 @@
+{"qid":3448694,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"toy theme"}
+{"qid":4842813,"place":"Bahrain","lat":26.0667,"lon":50.5577,"precision":"country","confidence":"medium","note":"nationwide election"}
+{"qid":24907804,"place":"Missouri","lat":38.5739,"lon":-92.6038,"precision":"region","confidence":"high","note":"state primary"}
+{"qid":29512029,"place":"Baku","lat":40.4093,"lon":49.8671,"precision":"city","confidence":"medium","note":"Azerbaijan SSR capital"}
+{"qid":188833,"place":"Savannah, Georgia","lat":32.0809,"lon":-81.0912,"precision":"city","confidence":"medium","note":"landfall near Savannah"}
+{"qid":21005980,"place":"Putrajaya","lat":2.9264,"lon":101.6964,"precision":"city","confidence":"low","note":"Malaysian cabinet"}
+{"qid":105616782,"place":"Australia","lat":-25.2744,"lon":133.7751,"precision":"country","confidence":"medium","note":"tour of Australia and NZ"}
+{"qid":1170696,"place":"Wichita Falls, Texas","lat":33.9137,"lon":-98.4934,"precision":"city","confidence":"medium","note":"Red River Valley, hardest hit"}
+{"qid":24261050,"place":"Texas","lat":31.9686,"lon":-99.9018,"precision":"region","confidence":"high","note":"state election"}
+{"qid":2915866,"place":"Jerusalem","lat":31.7683,"lon":35.2137,"precision":"city","confidence":"medium","note":"traditional assembly in Jerusalem"}
+{"qid":23302646,"place":"Texas","lat":31.9686,"lon":-99.9018,"precision":"region","confidence":"medium","note":"Southwest Conference"}
+{"qid":18088381,"place":"Malta","lat":35.9375,"lon":14.3754,"precision":"country","confidence":"high","note":"Malta entry"}
+{"qid":7893105,"place":"Utah","lat":39.321,"lon":-111.0937,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7646332,"place":"Suriname","lat":3.9193,"lon":-56.0278,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":7891773,"place":"New Mexico","lat":34.5199,"lon":-105.8701,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7406537,"place":"El Salvador","lat":13.7942,"lon":-88.8965,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":108858798,"place":"Bessèges","lat":44.2917,"lon":4.1167,"precision":"city","confidence":"medium","note":"race starts in Bessèges"}
+{"qid":116158482,"place":"Bracknell Forest","lat":51.4153,"lon":-0.754,"precision":"region","confidence":"medium","note":"borough election"}
+{"qid":16974131,"place":"Seattle","lat":47.6062,"lon":-122.3321,"precision":"city","confidence":"high","note":"SR 99 tunnel, Seattle"}
+{"qid":58433589,"place":"Kansas","lat":38.5266,"lon":-96.7265,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7891589,"place":"Maine","lat":45.2538,"lon":-69.4455,"precision":"region","confidence":"high","note":"state election"}
+{"qid":13417077,"place":"Las Vegas Convention Center","lat":36.1318,"lon":-115.1522,"precision":"site","confidence":"high","note":"venue"}
+{"qid":137467,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"comic"}
+{"qid":93785,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"eclipse series"}
+{"qid":21574172,"place":"Lima","lat":-12.0464,"lon":-77.0428,"precision":"city","confidence":"high","note":"held in Lima"}
+{"qid":7556114,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"solar cycle"}
+{"qid":16823154,"place":"Bamako","lat":12.6392,"lon":-8.0029,"precision":"city","confidence":"high","note":"held in Bamako"}
+{"qid":7891464,"place":"Delaware","lat":39.1582,"lon":-75.5244,"precision":"region","confidence":"high","note":"state election"}
+{"qid":453374,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"heretical movement"}
+{"qid":16209690,"place":"Mandalay Bay","lat":36.0909,"lon":-115.1767,"precision":"site","confidence":"high","note":"venue"}
+{"qid":19961390,"place":"Stormont House","lat":54.6049,"lon":-5.8379,"precision":"site","confidence":"medium","note":"talks at Stormont"}
+{"qid":42275746,"place":"Saitama Stadium 2002","lat":35.9034,"lon":139.7164,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":96076254,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"medium","note":"US government act"}
+{"qid":104760943,"place":"Salford","lat":53.4875,"lon":-2.2901,"precision":"city","confidence":"medium","note":"city council election"}
+{"qid":27921330,"place":"Kuwait","lat":29.3759,"lon":47.9774,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":4260110,"place":"Sauk Sentral","lat":3.7,"lon":101.1,"precision":"region","confidence":"low","note":"Malaysia group"}
+{"qid":55636607,"place":"Idaho","lat":44.0682,"lon":-114.742,"precision":"region","confidence":"high","note":"state election"}
+{"qid":27118306,"place":"Washington, D.C.","lat":38.8977,"lon":-77.0365,"precision":"city","confidence":"medium","note":"Supreme Court case"}
+{"qid":652604,"place":"Tonga","lat":-21.1789,"lon":-175.1982,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":7884196,"place":"Westminster","lat":51.4995,"lon":-0.1248,"precision":"city","confidence":"medium","note":"UK Parliament act"}
+{"qid":21028701,"place":"Mattamy Athletic Centre","lat":43.6561,"lon":-79.3802,"precision":"site","confidence":"high","note":"ROH event venue"}
+{"qid":5519786,"place":"Stephen Joseph Theatre","lat":54.2752,"lon":-0.4033,"precision":"site","confidence":"high","note":"premiered there"}
+{"qid":4561729,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"All-American list"}
+{"qid":60519406,"place":"Nebraska","lat":41.4925,"lon":-99.9018,"precision":"region","confidence":"high","note":"state election"}
+{"qid":20723131,"place":"Nauru","lat":-0.5228,"lon":166.9315,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":140696020,"place":"AsiaWorld-Expo","lat":22.309,"lon":113.94,"precision":"site","confidence":"high","note":"venue"}
+{"qid":2438925,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"international day"}
+{"qid":1714942,"place":"Vienna","lat":48.2082,"lon":16.3738,"precision":"city","confidence":"low","note":"strike centered in Vienna"}
+{"qid":5527555,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"comic strip"}
+{"qid":124463245,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"high","note":"host country"}

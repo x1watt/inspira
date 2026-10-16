@@ -1,0 +1,50 @@
+{"qid":10844406,"place":"Hong Kong","lat":22.3193,"lon":114.1694,"precision":"city","confidence":"high","note":"HK election"}
+{"qid":140347540,"place":"Utah","lat":39.321,"lon":-111.0937,"precision":"region","confidence":"high","note":"statewide wildfires"}
+{"qid":3566005,"place":"Greece","lat":39.0742,"lon":21.8243,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":1028746,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":108178913,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"ties in many countries"}
+{"qid":61800087,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"high","note":"nationwide primaries"}
+{"qid":4789439,"place":"Argentina","lat":-38.4161,"lon":-63.6167,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":39046971,"place":"Maseru","lat":-29.3167,"lon":27.4833,"precision":"city","confidence":"high","note":"coup in Maseru"}
+{"qid":30324659,"place":"San Francisco","lat":37.7749,"lon":-122.4194,"precision":"city","confidence":"high","note":"longest sit-in in San Francisco"}
+{"qid":7999512,"place":"Wigan","lat":53.5448,"lon":-2.6318,"precision":"city","confidence":"high","note":"council election"}
+{"qid":16823286,"place":"Conakry","lat":9.6412,"lon":-13.5784,"precision":"city","confidence":"high","note":"host city"}
+{"qid":206476,"place":"Belize City","lat":17.4986,"lon":-88.1886,"precision":"city","confidence":"high","note":"devastated Belize City"}
+{"qid":101499687,"place":"Jordan","lat":30.5852,"lon":36.2384,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":7892121,"place":"Wyoming","lat":43.0759,"lon":-107.2903,"precision":"region","confidence":"high","note":"state election"}
+{"qid":5984887,"place":"Norway","lat":60.472,"lon":8.4689,"precision":"country","confidence":"high","note":"Norwegian celebration"}
+{"qid":16156461,"place":"Saudi Arabia","lat":23.8859,"lon":45.0792,"precision":"country","confidence":"medium","note":"primarily Saudi Arabia"}
+{"qid":109254574,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"high","note":"nationwide strikes"}
+{"qid":55636604,"place":"Idaho","lat":44.0682,"lon":-114.742,"precision":"region","confidence":"high","note":"state election"}
+{"qid":24965395,"place":"Wisconsin","lat":44.2685,"lon":-89.6165,"precision":"region","confidence":"high","note":"state election"}
+{"qid":2201877,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"anime series"}
+{"qid":110552272,"place":"Seoul","lat":37.5665,"lon":126.978,"precision":"city","confidence":"medium","note":"YG online concert"}
+{"qid":20666468,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"high","note":"2015 Worlds in Moscow"}
+{"qid":1675970,"place":"Egypt","lat":26.8206,"lon":30.8025,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":5853237,"place":"Chile","lat":-35.6751,"lon":-71.543,"precision":"country","confidence":"high","note":"foreign policy"}
+{"qid":69185718,"place":"Azores","lat":37.7412,"lon":-25.6756,"precision":"region","confidence":"low","note":"passed near Azores"}
+{"qid":899271,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"high","note":"art style in Brazil"}
+{"qid":4891539,"place":"Bergen","lat":60.3913,"lon":5.3221,"precision":"city","confidence":"high","note":"Bergen program"}
+{"qid":6644963,"place":"Phyle","lat":38.1236,"lon":23.86,"precision":"site","confidence":"medium","note":"campaign from Phyle fortress"}
+{"qid":18356912,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":24190541,"place":"South Australia","lat":-34.9285,"lon":138.6007,"precision":"region","confidence":"high","note":"colonial election"}
+{"qid":13416969,"place":"Secaucus, New Jersey","lat":40.7895,"lon":-74.0565,"precision":"city","confidence":"high","note":"contest city"}
+{"qid":109684267,"place":"Sarajevo","lat":43.8563,"lon":18.4131,"precision":"city","confidence":"high","note":"host city"}
+{"qid":963316,"place":"Munich","lat":48.1351,"lon":11.582,"precision":"city","confidence":"medium","note":"Bavarian seat of government"}
+{"qid":28220926,"place":"Mississippi","lat":32.3547,"lon":-89.3985,"precision":"region","confidence":"high","note":"state election"}
+{"qid":125804398,"place":"Hampden Park","lat":55.8259,"lon":-4.252,"precision":"site","confidence":"high","note":"venue"}
+{"qid":153253,"place":"Kuwait","lat":29.3117,"lon":47.4818,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":898548,"place":"Finland","lat":61.9241,"lon":25.7482,"precision":"country","confidence":"high","note":"Finnish locomotive"}
+{"qid":110952894,"place":"Tokyo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"medium","note":"Japanese ministry initiative"}
+{"qid":115732730,"place":"San Francisco","lat":37.7749,"lon":-122.4194,"precision":"city","confidence":"medium","note":"Twitter headquarters"}
+{"qid":4348025,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":104829833,"place":"Lambeau Field","lat":44.5013,"lon":-88.0622,"precision":"site","confidence":"high","note":"game at Lambeau"}
+{"qid":7115162,"place":"Punchestown Racecourse","lat":53.1894,"lon":-6.6556,"precision":"site","confidence":"high","note":"festival venue"}
+{"qid":5947831,"place":"Florida","lat":27.6648,"lon":-81.5158,"precision":"region","confidence":"low","note":"US landfall Florida"}
+{"qid":15229396,"place":"Geneva","lat":46.2044,"lon":6.1432,"precision":"city","confidence":"high","note":"signed in Geneva"}
+{"qid":130480426,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"worldwide circuit"}
+{"qid":104853155,"place":"Orlando, Florida","lat":28.5384,"lon":-81.3789,"precision":"city","confidence":"low","note":"NBA boycott began there"}
+{"qid":5453242,"place":"Canberra","lat":-35.2809,"lon":149.13,"precision":"city","confidence":"medium","note":"federal government"}
+{"qid":64533741,"place":"Naples","lat":40.8518,"lon":14.2681,"precision":"city","confidence":"high","note":"host city"}
+{"qid":5869912,"place":"Los Angeles","lat":34.0522,"lon":-118.2437,"precision":"city","confidence":"high","note":"team city"}
+{"qid":5174924,"place":"Costa Rica","lat":9.7489,"lon":-83.7534,"precision":"country","confidence":"high","note":"nationwide"}

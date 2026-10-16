@@ -1,0 +1,50 @@
+{"qid":487394,"place":"South Korea","lat":36.5,"lon":127.9,"precision":"country","confidence":"medium","note":"landfall in Korea"}
+{"qid":2190325,"place":"Albania","lat":41.1533,"lon":20.1683,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":65071561,"place":"Chicago","lat":41.8781,"lon":-87.6298,"precision":"city","confidence":"high","note":"reported in Chicago"}
+{"qid":16835175,"place":"Molineux Stadium","lat":52.5902,"lon":-2.1305,"precision":"site","confidence":"high","note":"venue"}
+{"qid":47510375,"place":"England","lat":52.3555,"lon":-1.1743,"precision":"country","confidence":"medium","note":"English history period"}
+{"qid":28453386,"place":"Tupelo, Mississippi","lat":34.2576,"lon":-88.7034,"precision":"city","confidence":"high","note":"Tupelo Coliseum"}
+{"qid":137862991,"place":"Essex","lat":51.7343,"lon":0.4691,"precision":"region","confidence":"high","note":"county council election"}
+{"qid":48785237,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"medium","note":"presented in Commons"}
+{"qid":112083437,"place":"Connecticut","lat":41.6,"lon":-72.7,"precision":"region","confidence":"high","note":"state election"}
+{"qid":30644232,"place":"Nevada","lat":39.5,"lon":-116.9,"precision":"region","confidence":"high","note":"state election"}
+{"qid":17017138,"place":"Virginia","lat":37.5,"lon":-78.8,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7249986,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"comic series"}
+{"qid":700883,"place":"Tianjin","lat":39.3434,"lon":117.3616,"precision":"city","confidence":"high","note":"signed in Tianjin"}
+{"qid":61605247,"place":"Odisha","lat":20.9517,"lon":85.0985,"precision":"region","confidence":"high","note":"state election"}
+{"qid":16328520,"place":"Pretoria","lat":-25.7479,"lon":28.2293,"precision":"city","confidence":"high","note":"High Court in Pretoria"}
+{"qid":126722195,"place":"Singapore","lat":1.3521,"lon":103.8198,"precision":"city","confidence":"high","note":"Sengkang Sports Centre"}
+{"qid":7891913,"place":"Oregon","lat":43.9,"lon":-120.5,"precision":"region","confidence":"high","note":"state election"}
+{"qid":173485,"place":"United Kingdom","lat":54.0,"lon":-2.0,"precision":"country","confidence":"low","note":"British constructor"}
+{"qid":34502242,"place":"Madrid","lat":40.4168,"lon":-3.7038,"precision":"city","confidence":"medium","note":"Spanish ministry"}
+{"qid":7654785,"place":"Sweden","lat":60.1282,"lon":18.6435,"precision":"country","confidence":"medium","note":"national union"}
+{"qid":20858031,"place":"Southeast Asia","lat":10.0,"lon":105.0,"precision":"region","confidence":"low","note":"expedition in Indochina"}
+{"qid":646762,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"future supercontinent"}
+{"qid":5025193,"place":"Phnom Penh","lat":11.5564,"lon":104.9282,"precision":"city","confidence":"medium","note":"Khmer Republic capital"}
+{"qid":7241103,"place":"Pretoria","lat":-25.7479,"lon":28.2293,"precision":"city","confidence":"medium","note":"Union Buildings inauguration"}
+{"qid":17100849,"place":"New York (state)","lat":42.9538,"lon":-75.5268,"precision":"region","confidence":"high","note":"state election"}
+{"qid":116873281,"place":"Rhode Island","lat":41.7,"lon":-71.5,"precision":"region","confidence":"high","note":"state election"}
+{"qid":122227217,"place":"Palace of Holyroodhouse","lat":55.9525,"lon":-3.1722,"precision":"site","confidence":"high","note":"wedding venue"}
+{"qid":1180080,"place":"United Nations General Assembly Hall","lat":40.7489,"lon":-73.968,"precision":"site","confidence":"high","note":"held in UN General Assembly"}
+{"qid":85725416,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"medium","note":"presidential memorandum"}
+{"qid":4892140,"place":"Berkeley, California","lat":37.8715,"lon":-122.273,"precision":"city","confidence":"high","note":"UC Berkeley protests"}
+{"qid":5614320,"place":"Guatemala","lat":15.7835,"lon":-90.2308,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":17101169,"place":"Minnesota","lat":46.0,"lon":-94.6,"precision":"region","confidence":"high","note":"state election"}
+{"qid":843180,"place":"Japan","lat":36.2048,"lon":138.2529,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":17633257,"place":"Madrid","lat":40.4168,"lon":-3.7038,"precision":"city","confidence":"high","note":"Spanish Ebola cases"}
+{"qid":16057012,"place":"Bay of Bengal","lat":15.0,"lon":88.0,"precision":"region","confidence":"low","note":"North Indian Ocean"}
+{"qid":97999779,"place":"Bay of Bengal","lat":15.0,"lon":88.0,"precision":"region","confidence":"low","note":"North Indian Ocean"}
+{"qid":1340207,"place":"South Africa","lat":-30.5595,"lon":22.9375,"precision":"country","confidence":"medium","note":"campaign in South Africa"}
+{"qid":17100597,"place":"Nebraska","lat":41.5,"lon":-99.8,"precision":"region","confidence":"high","note":"state election"}
+{"qid":115677791,"place":"Campo Grande, Mato Grosso do Sul","lat":-20.4697,"lon":-54.6201,"precision":"city","confidence":"medium","note":"state capital"}
+{"qid":2505345,"place":"Nuremberg","lat":49.4521,"lon":11.0767,"precision":"city","confidence":"high","note":"Nuremberg U-Bahn"}
+{"qid":17067714,"place":"Washington (state)","lat":47.4,"lon":-120.7,"precision":"region","confidence":"high","note":"state election"}
+{"qid":139855714,"place":"Wembley Stadium","lat":51.556,"lon":-0.2796,"precision":"site","confidence":"high","note":"venue"}
+{"qid":125983,"place":"Catalonia","lat":41.8,"lon":1.5,"precision":"region","confidence":"high","note":"regional election"}
+{"qid":24175780,"place":"Saint Lucia","lat":13.9094,"lon":-60.9789,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":19564228,"place":"Boston","lat":42.3601,"lon":-71.0589,"precision":"city","confidence":"high","note":"bid city"}
+{"qid":6303048,"place":"Canberra","lat":-35.2809,"lon":149.13,"precision":"city","confidence":"medium","note":"Parliament of Australia"}
+{"qid":188350,"place":"Burgundy","lat":47.0,"lon":4.8,"precision":"region","confidence":"low","note":"Burgundian kingdom law"}
+{"qid":7891661,"place":"Minnesota","lat":46.0,"lon":-94.6,"precision":"region","confidence":"high","note":"state election"}
+{"qid":1629382,"place":"Sweden","lat":60.1282,"lon":18.6435,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":125577745,"place":"Wembley Stadium","lat":51.556,"lon":-0.2796,"precision":"site","confidence":"high","note":"venue"}

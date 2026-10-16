@@ -1,0 +1,50 @@
+{"qid":28454314,"place":"Big Eight Conference","lat":39.0997,"lon":-94.5786,"precision":"region","confidence":"low","note":"conference HQ Kansas City"}
+{"qid":5384350,"place":"Santo Domingo","lat":18.4861,"lon":-69.9312,"precision":"city","confidence":"high","note":"held in Santo Domingo"}
+{"qid":1375828,"place":"Brussels","lat":50.8503,"lon":4.3517,"precision":"city","confidence":"low","note":"route passes through Belgium"}
+{"qid":6773121,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"Mars exploration, no earthly place"}
+{"qid":632169,"place":"Granada","lat":37.1773,"lon":-3.5986,"precision":"city","confidence":"high","note":"race began in Granada"}
+{"qid":138606396,"place":"Bishkek","lat":42.8746,"lon":74.5698,"precision":"city","confidence":"high","note":"held in Bishkek"}
+{"qid":28454324,"place":"Atlantic Coast Conference","lat":35.994,"lon":-79.046,"precision":"region","confidence":"low","note":"ACC region, HQ Greensboro"}
+{"qid":1078635,"place":"Spain","lat":40.4637,"lon":-3.7492,"precision":"country","confidence":"high","note":"Spanish race"}
+{"qid":4601706,"place":"Araneta Coliseum","lat":14.6208,"lon":121.0526,"precision":"site","confidence":"high","note":"held at Araneta Coliseum"}
+{"qid":4578236,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"US college basketball"}
+{"qid":1881599,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"MLB draft"}
+{"qid":1055486,"place":"London","lat":51.5072,"lon":-0.1276,"precision":"city","confidence":"medium","note":"passed by British Parliament"}
+{"qid":16966690,"place":"Skopje","lat":41.9981,"lon":21.4254,"precision":"city","confidence":"high","note":"held in Skopje"}
+{"qid":20311578,"place":"Pacific-8 Conference","lat":37.8044,"lon":-122.2712,"precision":"region","confidence":"low","note":"West Coast conference"}
+{"qid":4209466,"place":"Singapore","lat":1.3521,"lon":103.8198,"precision":"country","confidence":"high","note":"Singaporean TV block"}
+{"qid":7083248,"place":"Hong Kong","lat":22.3193,"lon":114.1694,"precision":"region","confidence":"high","note":"territory-wide election"}
+{"qid":54327853,"place":"Ireland","lat":53.1424,"lon":-7.6921,"precision":"country","confidence":"high","note":"referendum nationwide"}
+{"qid":1071704,"place":"Spain","lat":40.4637,"lon":-3.7492,"precision":"country","confidence":"high","note":"Spanish race"}
+{"qid":23688106,"place":"Papua New Guinea","lat":-6.315,"lon":143.9555,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":17112021,"place":"Winnipeg","lat":49.8954,"lon":-97.1385,"precision":"city","confidence":"high","note":"held in Winnipeg"}
+{"qid":1460067,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"American TV season"}
+{"qid":3586407,"place":"Quebec","lat":52.9399,"lon":-73.5491,"precision":"region","confidence":"high","note":"provincial election"}
+{"qid":4581775,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"US college basketball"}
+{"qid":116169539,"place":"Spain","lat":40.4637,"lon":-3.7492,"precision":"country","confidence":"high","note":"Spanish race"}
+{"qid":2115166,"place":"Ghana","lat":7.9465,"lon":-1.0232,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":1720224,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"high","note":"Italian government seat"}
+{"qid":19863534,"place":"Southern United States","lat":33.0,"lon":-85.0,"precision":"region","confidence":"low","note":"Southern college football"}
+{"qid":1588379,"place":"Sofia","lat":42.6977,"lon":23.3219,"precision":"city","confidence":"high","note":"Bulgarian capital"}
+{"qid":1457926,"place":"Portugal","lat":39.3999,"lon":-8.2245,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":24705379,"place":"Croatia","lat":45.1,"lon":15.2,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":1849150,"place":"Georgia (country)","lat":42.3154,"lon":43.3569,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":499083,"place":"Italy","lat":41.8719,"lon":12.5674,"precision":"country","confidence":"medium","note":"Renaissance Latin centered in Italy"}
+{"qid":2049019,"place":"Mar del Plata","lat":-38.0055,"lon":-57.5426,"precision":"city","confidence":"high","note":"held in Mar del Plata"}
+{"qid":28433139,"place":"New York City","lat":40.7128,"lon":-74.006,"precision":"city","confidence":"low","note":"Marvel team setting"}
+{"qid":85734991,"place":"London","lat":51.5072,"lon":-0.1276,"precision":"city","confidence":"high","note":"reshuffle at 10 Downing Street"}
+{"qid":672503,"place":"Japan","lat":36.2048,"lon":138.2529,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":1143299,"place":"The Hague","lat":52.0705,"lon":4.3007,"precision":"city","confidence":"high","note":"Dutch government seat"}
+{"qid":7185383,"place":"Philippines","lat":12.8797,"lon":121.774,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":3124214,"place":"Kauai","lat":22.0964,"lon":-159.5261,"precision":"region","confidence":"high","note":"hit Kauai hardest"}
+{"qid":106611328,"place":"Adelaide Oval","lat":-34.9156,"lon":138.5961,"precision":"site","confidence":"high","note":"held at Adelaide Oval"}
+{"qid":3266707,"place":"Tokyo","lat":35.6762,"lon":139.6503,"precision":"city","confidence":"medium","note":"Kodansha publisher in Tokyo"}
+{"qid":16252362,"place":"Kochi","lat":9.9312,"lon":76.2673,"precision":"city","confidence":"medium","note":"Kerala film movement"}
+{"qid":21189698,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"NBA postseason"}
+{"qid":117433900,"place":"South Korea","lat":35.9078,"lon":127.7669,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":690054,"place":"Dresden","lat":51.0504,"lon":13.7373,"precision":"city","confidence":"high","note":"Saxon royal capital"}
+{"qid":119720167,"place":"Dubai","lat":25.2048,"lon":55.2708,"precision":"city","confidence":"high","note":"first games in Dubai"}
+{"qid":24211712,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"medium","note":"American TV season"}
+{"qid":385443,"place":"Glasgow","lat":55.8642,"lon":-4.2518,"precision":"city","confidence":"high","note":"Kelvin Hall final rounds"}
+{"qid":20312494,"place":"Southeastern Conference","lat":33.5207,"lon":-86.8025,"precision":"region","confidence":"low","note":"SEC region, HQ Birmingham"}
+{"qid":92572,"place":"Japan","lat":36.2048,"lon":138.2529,"precision":"country","confidence":"medium","note":"Japanese anime"}

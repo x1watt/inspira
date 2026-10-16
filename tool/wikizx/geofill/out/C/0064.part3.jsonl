@@ -1,0 +1,50 @@
+{"qid":132528728,"place":"Australia","lat":-25.2744,"lon":133.7751,"precision":"country","confidence":"medium","note":"NRL pre-season"}
+{"qid":20895030,"place":"Shrine Auditorium (San Antonio)","lat":29.425,"lon":-98.4965,"precision":"site","confidence":"low","note":"San Antonio venue"}
+{"qid":136326617,"place":"BC Place","lat":49.2768,"lon":-123.1119,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":16827457,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"high","note":"held in London"}
+{"qid":6099245,"place":"Ankara","lat":39.9334,"lon":32.8597,"precision":"city","confidence":"high","note":"Turkish government seat"}
+{"qid":5602018,"place":"Greece","lat":39.0742,"lon":21.8243,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":98139687,"place":"Warsaw","lat":52.2297,"lon":21.0122,"precision":"city","confidence":"high","note":"contest held in Warsaw"}
+{"qid":5100749,"place":"China","lat":35.8617,"lon":104.1954,"precision":"country","confidence":"high","note":"Chinese currency"}
+{"qid":25478284,"place":"Kuala Lumpur","lat":3.139,"lon":101.6869,"precision":"city","confidence":"high","note":"host city"}
+{"qid":4573673,"place":"Montreal Forum","lat":45.4929,"lon":-73.5693,"precision":"site","confidence":"medium","note":"Montreal home games"}
+{"qid":5339205,"place":"Edmonton","lat":53.5461,"lon":-113.4938,"precision":"city","confidence":"high","note":"municipal election"}
+{"qid":48835027,"place":"New Hampshire","lat":43.1939,"lon":-71.5724,"precision":"region","confidence":"high","note":"state election"}
+{"qid":16839820,"place":"TNA Impact Zone","lat":28.4784,"lon":-81.4684,"precision":"site","confidence":"high","note":"Universal Studios, Orlando"}
+{"qid":39047180,"place":"South Carolina","lat":33.8361,"lon":-81.1637,"precision":"region","confidence":"high","note":"state election"}
+{"qid":25091561,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"qualifying across nations"}
+{"qid":22022669,"place":"Hawaii","lat":19.8968,"lon":-155.5828,"precision":"region","confidence":"high","note":"state election"}
+{"qid":4581800,"place":"Wellington","lat":-41.2865,"lon":174.7762,"precision":"city","confidence":"high","note":"NZ government seat"}
+{"qid":20736139,"place":"Goa","lat":15.2993,"lon":74.124,"precision":"region","confidence":"medium","note":"Taj Exotica in Goa"}
+{"qid":28054250,"place":"Albania","lat":41.1533,"lon":20.1683,"precision":"country","confidence":"high","note":"Albanian entry"}
+{"qid":7558666,"place":"Solomon Islands","lat":-9.6457,"lon":160.1562,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":5153763,"place":"Gleneagles Hotel","lat":56.2797,"lon":-3.7519,"precision":"site","confidence":"high","note":"meeting venue"}
+{"qid":1140879,"place":"France","lat":46.2276,"lon":2.2137,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":18124692,"place":"Russia","lat":61.524,"lon":105.3188,"precision":"country","confidence":"high","note":"Russian entry"}
+{"qid":131543987,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"abstract policy"}
+{"qid":17100923,"place":"Oregon","lat":43.8041,"lon":-120.5542,"precision":"region","confidence":"high","note":"state election"}
+{"qid":4230131,"place":"Moscow","lat":55.7558,"lon":37.6173,"precision":"city","confidence":"medium","note":"Russian publication"}
+{"qid":5451694,"place":"Ottawa","lat":45.4215,"lon":-75.6972,"precision":"city","confidence":"high","note":"Parliament act"}
+{"qid":123081707,"place":"York","lat":53.96,"lon":-1.0873,"precision":"city","confidence":"high","note":"mayoral election"}
+{"qid":54871351,"place":"Texas","lat":31.9686,"lon":-99.9018,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7893027,"place":"Pennsylvania","lat":41.2033,"lon":-77.1945,"precision":"region","confidence":"high","note":"state election"}
+{"qid":875526,"place":"Stedingen","lat":53.15,"lon":8.4,"precision":"region","confidence":"low","note":"crusade against Stedinger"}
+{"qid":16953663,"place":"Madagascar","lat":-18.7669,"lon":46.8691,"precision":"country","confidence":"high","note":"struck Madagascar first"}
+{"qid":1076565,"place":"Ecuador","lat":-1.8312,"lon":-78.1834,"precision":"country","confidence":"high","note":"culture in Ecuador"}
+{"qid":5815268,"place":"Argentina","lat":-38.4161,"lon":-63.6167,"precision":"country","confidence":"low","note":"South American canid"}
+{"qid":15917768,"place":"Utrecht","lat":52.0907,"lon":5.1214,"precision":"city","confidence":"high","note":"Nieuw Welgelegen, Utrecht"}
+{"qid":18131125,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"utensil"}
+{"qid":321382,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"medium","note":"German series"}
+{"qid":54152490,"place":"Ecuador","lat":-1.8312,"lon":-78.1834,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":1327521,"place":"Sweden","lat":60.1282,"lon":18.6435,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":96417281,"place":"Florida","lat":27.6648,"lon":-81.5158,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7891631,"place":"Massachusetts","lat":42.4072,"lon":-71.3824,"precision":"region","confidence":"high","note":"state election"}
+{"qid":20805444,"place":"Adelaide Oval","lat":-34.9156,"lon":138.5961,"precision":"site","confidence":"high","note":"Grand Final venue"}
+{"qid":17100852,"place":"New York (state)","lat":43.2994,"lon":-74.2179,"precision":"region","confidence":"high","note":"state election"}
+{"qid":102548960,"place":"Ukraine","lat":48.3794,"lon":31.1656,"precision":"country","confidence":"high","note":"national program"}
+{"qid":20497607,"place":"Burgas","lat":42.5048,"lon":27.4626,"precision":"city","confidence":"high","note":"club based in Burgas"}
+{"qid":24436136,"place":"Rhode Island","lat":41.5801,"lon":-71.4774,"precision":"region","confidence":"high","note":"state election"}
+{"qid":16985275,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"fossil eggs"}
+{"qid":12243716,"place":"Kuwait City","lat":29.3759,"lon":47.9774,"precision":"city","confidence":"medium","note":"Kuwaiti treaty"}
+{"qid":841318,"place":"Japan","lat":36.2048,"lon":138.2529,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":2574663,"place":"Andorra","lat":42.5063,"lon":1.5218,"precision":"country","confidence":"high","note":"host country"}

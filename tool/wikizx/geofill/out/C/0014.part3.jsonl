@@ -1,0 +1,50 @@
+{"qid":1276807,"place":"Havana","lat":23.1136,"lon":-82.3666,"precision":"city","confidence":"medium","note":"crackdown in Cuba"}
+{"qid":916617,"place":"France","lat":46.2276,"lon":2.2137,"precision":"country","confidence":"medium","note":"Tour de France"}
+{"qid":2454958,"place":"China","lat":35.8617,"lon":104.1954,"precision":"country","confidence":"high","note":"famine across China"}
+{"qid":7566200,"place":"South Australia","lat":-30.0002,"lon":136.2092,"precision":"region","confidence":"high","note":"state election"}
+{"qid":1169044,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"award"}
+{"qid":20311498,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"abstract"}
+{"qid":3532217,"place":"India","lat":20.5937,"lon":78.9629,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":60519437,"place":"Georgia (U.S. state)","lat":32.1656,"lon":-82.9001,"precision":"region","confidence":"high","note":"state result"}
+{"qid":2704885,"place":"United Kingdom","lat":55.3781,"lon":-3.436,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":21872106,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"weather season"}
+{"qid":48843593,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"abstract"}
+{"qid":110589643,"place":"Rijeka","lat":45.3271,"lon":14.4422,"precision":"city","confidence":"high","note":"host city"}
+{"qid":822757,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"abstract"}
+{"qid":108782773,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"leaked documents"}
+{"qid":333463,"place":"Pakistan","lat":30.3753,"lon":69.3451,"precision":"country","confidence":"high","note":"floods across Pakistan"}
+{"qid":3241997,"place":"Ebbets Field","lat":40.6083,"lon":-73.9578,"precision":"site","confidence":"medium","note":"Brooklyn home field"}
+{"qid":6026252,"place":"Indonesia","lat":-0.7893,"lon":113.9213,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":24906000,"place":"Bangladesh","lat":23.685,"lon":90.3563,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":718858,"place":"Berlin","lat":52.52,"lon":13.405,"precision":"city","confidence":"low","note":"Nazi German capital"}
+{"qid":842401,"place":"France","lat":46.2276,"lon":2.2137,"precision":"country","confidence":"medium","note":"Tour de France"}
+{"qid":122251013,"place":"Osaka","lat":34.6937,"lon":135.5023,"precision":"city","confidence":"medium","note":"Kyocera Dome Osaka venue"}
+{"qid":157648,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"high","note":"speech to Congress"}
+{"qid":3879675,"place":"Chicago","lat":41.8781,"lon":-87.6298,"precision":"city","confidence":"high","note":"host city"}
+{"qid":704634,"place":"West Germany","lat":50.7374,"lon":7.0982,"precision":"country","confidence":"medium","note":"nationwide election"}
+{"qid":822711,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"abstract"}
+{"qid":7099548,"place":"Santa Ana, California","lat":33.7455,"lon":-117.8677,"precision":"city","confidence":"high","note":"county seat"}
+{"qid":520749,"place":"Italy","lat":41.8719,"lon":12.5674,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":3879683,"place":"Buenos Aires","lat":-34.6037,"lon":-58.3816,"precision":"city","confidence":"high","note":"host city"}
+{"qid":1318452,"place":"Istanbul","lat":41.0082,"lon":28.9784,"precision":"city","confidence":"medium","note":"Ottoman capital"}
+{"qid":28454319,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"abstract"}
+{"qid":702017,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":184230,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"protocol"}
+{"qid":48839699,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"abstract"}
+{"qid":602985,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"film franchise"}
+{"qid":376916,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"car model"}
+{"qid":1092442,"place":"Brazil","lat":-14.235,"lon":-51.9253,"precision":"country","confidence":"high","note":"Brazilian movement"}
+{"qid":3503652,"place":"Lithuania","lat":55.1694,"lon":23.8813,"precision":"country","confidence":"high","note":"Christianization of Lithuania"}
+{"qid":1784016,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"game show"}
+{"qid":1670715,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"TV season"}
+{"qid":4855469,"place":"Bangladesh","lat":23.685,"lon":90.3563,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":3587232,"place":"Samoa","lat":-13.759,"lon":-172.1046,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":207351,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"high","note":"London banks rate"}
+{"qid":92601059,"place":"Wuhan","lat":30.5928,"lon":114.3055,"precision":"city","confidence":"high","note":"outbreak origin"}
+{"qid":19863701,"place":"United Center","lat":41.8807,"lon":-87.6742,"precision":"site","confidence":"medium","note":"Chicago won at United Center"}
+{"qid":63971413,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"championship"}
+{"qid":2594763,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"comic series"}
+{"qid":4592811,"place":"Joe Louis Arena","lat":42.325,"lon":-83.0511,"precision":"site","confidence":"medium","note":"Detroit clinched there"}
+{"qid":3586437,"place":"Saskatchewan","lat":52.9399,"lon":-106.4509,"precision":"region","confidence":"high","note":"provincial election"}
+{"qid":3401734,"place":"Robert F. Kennedy Memorial Stadium","lat":38.8896,"lon":-76.9719,"precision":"site","confidence":"high","note":"D.C. Stadium"}
+{"qid":20714361,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"abstract"}

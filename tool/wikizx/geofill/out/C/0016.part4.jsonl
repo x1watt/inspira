@@ -1,0 +1,50 @@
+{"qid":19864433,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"abstract"}
+{"qid":15894572,"place":"Odisha","lat":20.9517,"lon":85.0985,"precision":"region","confidence":"high","note":"state election"}
+{"qid":138658312,"place":"Candon","lat":17.1936,"lon":120.4472,"precision":"city","confidence":"high","note":"stated venue"}
+{"qid":27916626,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"award"}
+{"qid":7011887,"place":"New South Wales","lat":-31.2532,"lon":146.9211,"precision":"region","confidence":"high","note":"state election"}
+{"qid":231136,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"software product"}
+{"qid":16955544,"place":"Havana","lat":23.1136,"lon":-82.3666,"precision":"city","confidence":"high","note":"host city"}
+{"qid":3238986,"place":"Luxembourg City","lat":49.6117,"lon":6.1319,"precision":"city","confidence":"low","note":"railway line terminus"}
+{"qid":6750183,"place":"Manitoba","lat":53.7609,"lon":-98.8139,"precision":"region","confidence":"high","note":"provincial election"}
+{"qid":2816456,"place":"Ottawa","lat":45.4215,"lon":-75.6972,"precision":"city","confidence":"high","note":"Parliament seat"}
+{"qid":938277,"place":"Italy","lat":41.8719,"lon":12.5674,"precision":"country","confidence":"high","note":"host country"}
+{"qid":20312032,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"abstract"}
+{"qid":1071102,"place":"Italy","lat":41.8719,"lon":12.5674,"precision":"country","confidence":"medium","note":"Giro d'Italia"}
+{"qid":3586875,"place":"Australia","lat":-25.2744,"lon":133.7751,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":7058471,"place":"Northern Ireland","lat":54.6,"lon":-6.7,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":3586622,"place":"Madagascar","lat":-18.7669,"lon":46.8691,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":1184833,"place":"Hungary","lat":47.1625,"lon":19.5033,"precision":"country","confidence":"high","note":"Hungary in the war"}
+{"qid":837987,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"multi-country qualifying"}
+{"qid":122167927,"place":"Győr","lat":47.6875,"lon":17.6504,"precision":"city","confidence":"high","note":"host city"}
+{"qid":132448,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"abstract"}
+{"qid":20311875,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"abstract"}
+{"qid":19864352,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"abstract"}
+{"qid":108560287,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"medium","note":"UK government seat"}
+{"qid":17630420,"place":"Mexico","lat":23.6345,"lon":-102.5528,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":20311452,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"abstract"}
+{"qid":1030865,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"magazine"}
+{"qid":2358315,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"medium","note":"formed in Paris"}
+{"qid":3586292,"place":"Alberta","lat":53.9333,"lon":-116.5765,"precision":"region","confidence":"high","note":"provincial election"}
+{"qid":1320759,"place":"Norway","lat":60.472,"lon":8.4689,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":20312041,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"abstract"}
+{"qid":110645460,"place":"Antalya","lat":36.8969,"lon":30.7133,"precision":"city","confidence":"high","note":"host city"}
+{"qid":123096769,"place":"France","lat":46.2276,"lon":2.2137,"precision":"country","confidence":"medium","note":"Tour de France"}
+{"qid":2281298,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"invention"}
+{"qid":7892405,"place":"United States Capitol","lat":38.8899,"lon":-77.0091,"precision":"site","confidence":"medium","note":"Congress declared war"}
+{"qid":109603191,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"weather season"}
+{"qid":20311861,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"abstract"}
+{"qid":1346648,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"road"}
+{"qid":1720433,"place":"The Hague","lat":52.0705,"lon":4.3007,"precision":"city","confidence":"medium","note":"Dutch government seat"}
+{"qid":7566181,"place":"South Australia","lat":-30.0002,"lon":136.2092,"precision":"region","confidence":"high","note":"state election"}
+{"qid":4563607,"place":"Cleveland Stadium","lat":41.5061,"lon":-81.6995,"precision":"site","confidence":"high","note":"venue"}
+{"qid":16948241,"place":"United Kingdom","lat":55.3781,"lon":-3.436,"precision":"country","confidence":"high","note":"nationwide elections"}
+{"qid":20311584,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"abstract"}
+{"qid":2994776,"place":"United States","lat":39.8283,"lon":-98.5795,"precision":"country","confidence":"low","note":"plot across western frontier"}
+{"qid":41796018,"place":"Barcelona","lat":41.3874,"lon":2.1686,"precision":"city","confidence":"high","note":"passed by Catalan parliament"}
+{"qid":986291,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"object"}
+{"qid":3586403,"place":"Quebec","lat":52.9399,"lon":-73.5491,"precision":"region","confidence":"high","note":"provincial election"}
+{"qid":123096868,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"multi-country tour"}
+{"qid":696629,"place":"Berlin","lat":52.52,"lon":13.405,"precision":"city","confidence":"high","note":"German government decree"}
+{"qid":753683,"place":"Italy","lat":41.8719,"lon":12.5674,"precision":"country","confidence":"low","note":"Italian art movement"}
+{"qid":965136,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"space mission"}

@@ -1,0 +1,50 @@
+{"qid":19863521,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"abstract list"}
+{"qid":19873472,"place":"Biratnagar","lat":26.4525,"lon":87.2718,"precision":"city","confidence":"high","note":"strike at Biratnagar"}
+{"qid":15693736,"place":"New Jersey","lat":40.1,"lon":-74.7,"precision":"region","confidence":"high","note":"state election"}
+{"qid":3355145,"place":"Oslo","lat":59.9139,"lon":10.7522,"precision":"city","confidence":"high","note":"group operated in Oslo"}
+{"qid":4604096,"place":"Ottawa","lat":45.4215,"lon":-75.6972,"precision":"city","confidence":"high","note":"federal budget"}
+{"qid":112150955,"place":"Washington, D.C.","lat":38.9072,"lon":-77.0369,"precision":"city","confidence":"high","note":"DC election"}
+{"qid":612595,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"comic book"}
+{"qid":115448427,"place":"Argentina","lat":-38.4161,"lon":-63.6167,"precision":"country","confidence":"high","note":"national league"}
+{"qid":3297765,"place":"Pacaembu Stadium","lat":-23.5454,"lon":-46.665,"precision":"site","confidence":"high","note":"Paulo Machado de Carvalho"}
+{"qid":115803976,"place":"Dhaka","lat":23.8103,"lon":90.4125,"precision":"city","confidence":"low","note":"co-host Bangladesh"}
+{"qid":17125329,"place":"Caracas","lat":10.4806,"lon":-66.9036,"precision":"city","confidence":"high","note":"host city"}
+{"qid":135263394,"place":"Utah","lat":39.321,"lon":-111.0937,"precision":"region","confidence":"high","note":"state wildfires"}
+{"qid":2058308,"place":"United Kingdom","lat":54.0,"lon":-2.0,"precision":"country","confidence":"medium","note":"British race"}
+{"qid":17092248,"place":"Oregon","lat":44.0,"lon":-120.5,"precision":"region","confidence":"high","note":"state ballot"}
+{"qid":2029511,"place":"Kazakhstan","lat":48.0196,"lon":66.9237,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":60540258,"place":"Bavaria","lat":48.7904,"lon":11.4979,"precision":"region","confidence":"high","note":"state election"}
+{"qid":17017299,"place":"Nevada","lat":39.5,"lon":-116.9,"precision":"region","confidence":"high","note":"state election"}
+{"qid":3820343,"place":"Venice","lat":45.4408,"lon":12.3155,"precision":"city","confidence":"high","note":"Biennale in Venice"}
+{"qid":1920440,"place":"CFG Bank Arena","lat":39.2859,"lon":-76.6213,"precision":"site","confidence":"high","note":"1st Mariner Arena"}
+{"qid":6070762,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"medium","note":"UK Parliament act"}
+{"qid":10271400,"place":"Montana","lat":47.0,"lon":-109.6,"precision":"region","confidence":"high","note":"state election"}
+{"qid":2505313,"place":"Japan","lat":36.2048,"lon":138.2529,"precision":"country","confidence":"low","note":"anime"}
+{"qid":7061671,"place":"Norwood, South Australia","lat":-34.9202,"lon":138.6325,"precision":"city","confidence":"high","note":"district by-election"}
+{"qid":124991388,"place":"Wembley Stadium","lat":51.556,"lon":-0.2795,"precision":"site","confidence":"high","note":"venue"}
+{"qid":17082080,"place":"Navarre","lat":42.6954,"lon":-1.6761,"precision":"region","confidence":"high","note":"regional election"}
+{"qid":65073459,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"standard"}
+{"qid":5437314,"place":"Scotland","lat":56.4907,"lon":-4.2026,"precision":"country","confidence":"high","note":"Scottish process"}
+{"qid":2406253,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"global observance"}
+{"qid":23022618,"place":"New Orleans","lat":29.9511,"lon":-90.0715,"precision":"city","confidence":"high","note":"staged in New Orleans"}
+{"qid":2579128,"place":"SNHU Arena","lat":42.9915,"lon":-71.464,"precision":"site","confidence":"high","note":"Verizon Wireless Arena"}
+{"qid":17988923,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"multi-country qualifying"}
+{"qid":286545,"place":"South Korea","lat":35.9078,"lon":127.7669,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":28220995,"place":"New Mexico","lat":34.4,"lon":-106.1,"precision":"region","confidence":"high","note":"state election"}
+{"qid":17100212,"place":"Florida","lat":27.8,"lon":-81.7,"precision":"region","confidence":"high","note":"state election"}
+{"qid":20805176,"place":"Adelaide","lat":-34.9285,"lon":138.6007,"precision":"city","confidence":"low","note":"SAFL grand final"}
+{"qid":4593770,"place":"Fort Lauderdale, Florida","lat":26.1224,"lon":-80.1373,"precision":"city","confidence":"high","note":"draft held there"}
+{"qid":1145634,"place":"Menlo Park, California","lat":37.453,"lon":-122.1817,"precision":"city","confidence":"medium","note":"Google launched near Stanford"}
+{"qid":971304,"place":"Suriname","lat":3.9193,"lon":-56.0278,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":868858,"place":"Canada","lat":56.1304,"lon":-106.3468,"precision":"country","confidence":"medium","note":"Canadian awards"}
+{"qid":108445058,"place":"Bradford","lat":53.796,"lon":-1.7594,"precision":"city","confidence":"high","note":"City of Culture"}
+{"qid":893001,"place":"Uruguay","lat":-32.5228,"lon":-55.7658,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":3112247,"place":"Helsinki","lat":60.1699,"lon":24.9384,"precision":"city","confidence":"high","note":"Finnish government"}
+{"qid":2353889,"place":"Port of London","lat":51.5,"lon":0.0,"precision":"region","confidence":"low","note":"P&O liner"}
+{"qid":2067054,"place":"Bosnia and Herzegovina","lat":43.9159,"lon":17.6791,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":2634012,"place":"Belarus","lat":53.7098,"lon":27.9534,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":198961,"place":"Galveston, Texas","lat":29.3013,"lon":-94.7977,"precision":"city","confidence":"high","note":"hit Galveston"}
+{"qid":127141,"place":"Redmond, Washington","lat":47.674,"lon":-122.1215,"precision":"city","confidence":"medium","note":"Microsoft headquarters"}
+{"qid":6208644,"place":"Wilmington, Delaware","lat":39.7391,"lon":-75.5398,"precision":"city","confidence":"medium","note":"Biden base"}
+{"qid":2700064,"place":"Albania","lat":41.1533,"lon":20.1683,"precision":"country","confidence":"high","note":"nationwide"}
+{"qid":84590527,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"low","note":"ships worldwide"}

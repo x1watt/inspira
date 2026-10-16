@@ -1,0 +1,50 @@
+{"qid":7892869,"place":"Missouri","lat":38.5,"lon":-92.5,"precision":"region","confidence":"high","note":"state election"}
+{"qid":126093769,"place":"M. A. Chidambaram Stadium","lat":13.0628,"lon":80.2793,"precision":"site","confidence":"high","note":"final venue"}
+{"qid":25043756,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"multi-country qualification"}
+{"qid":1137753,"place":"Shrine Auditorium","lat":34.0224,"lon":-118.281,"precision":"site","confidence":"low","note":"31st Grammys venue"}
+{"qid":122984658,"place":"Maastricht","lat":50.8514,"lon":5.691,"precision":"city","confidence":"medium","note":"finish in Maastricht"}
+{"qid":19360186,"place":"Mount Everest","lat":27.9881,"lon":86.925,"precision":"site","confidence":"high","note":"expedition target"}
+{"qid":7892314,"place":"Mexico–United States border","lat":31.7,"lon":-108.0,"precision":"region","confidence":"low","note":"survey of border"}
+{"qid":7892119,"place":"Wisconsin","lat":44.5,"lon":-89.5,"precision":"region","confidence":"high","note":"state election"}
+{"qid":3112329,"place":"Bucharest","lat":44.4268,"lon":26.1025,"precision":"city","confidence":"high","note":"seat of government"}
+{"qid":7892908,"place":"Montana","lat":46.8797,"lon":-110.3626,"precision":"region","confidence":"high","note":"state election"}
+{"qid":4554737,"place":"Baltimore","lat":39.2904,"lon":-76.6122,"precision":"city","confidence":"high","note":"convention city"}
+{"qid":138538112,"place":"Desert Diamond Arena","lat":33.5319,"lon":-112.261,"precision":"site","confidence":"high","note":"game venue"}
+{"qid":109283707,"place":"City of Westminster","lat":51.4975,"lon":-0.1357,"precision":"city","confidence":"high","note":"council election"}
+{"qid":1171215,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"medium","note":"Italian parliament law"}
+{"qid":4969803,"place":"Victoria, British Columbia","lat":48.4284,"lon":-123.3656,"precision":"city","confidence":"medium","note":"provincial capital"}
+{"qid":3021557,"place":"Venice","lat":45.4408,"lon":12.3155,"precision":"city","confidence":"high","note":"family origin"}
+{"qid":2658850,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"high","note":"UK government"}
+{"qid":17048659,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"game accessory"}
+{"qid":5598979,"place":"New England","lat":43.97,"lon":-71.5,"precision":"region","confidence":"medium","note":"struck New England"}
+{"qid":39046919,"place":"South Carolina","lat":33.8,"lon":-80.9,"precision":"region","confidence":"high","note":"state election"}
+{"qid":1741723,"place":"Germany","lat":51.1657,"lon":10.4515,"precision":"country","confidence":"high","note":"Nazi Germany program"}
+{"qid":7584239,"place":"Delaware","lat":39.0,"lon":-75.5,"precision":"region","confidence":"high","note":"state election"}
+{"qid":5892959,"place":"Tegucigalpa","lat":14.0723,"lon":-87.1921,"precision":"city","confidence":"medium","note":"Honduran capital"}
+{"qid":83966841,"place":"The Gambia","lat":13.4432,"lon":-15.3101,"precision":"country","confidence":"high","note":"national election"}
+{"qid":4567705,"place":"K2","lat":35.8825,"lon":76.5133,"precision":"site","confidence":"high","note":"expedition target"}
+{"qid":7185073,"place":"Philippines","lat":12.8797,"lon":121.774,"precision":"country","confidence":"high","note":"national election"}
+{"qid":17629686,"place":"Madrid","lat":40.4168,"lon":-3.7038,"precision":"city","confidence":"high","note":"Spanish ministry seat"}
+{"qid":17016751,"place":"Vermont","lat":44.0,"lon":-72.7,"precision":"region","confidence":"high","note":"state election"}
+{"qid":7884182,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"medium","note":"UK Parliament act"}
+{"qid":282940,"place":"Poland","lat":51.9194,"lon":19.1451,"precision":"country","confidence":"medium","note":"Poland worst hit"}
+{"qid":23137,"place":"Bay of Fundy","lat":45.0,"lon":-66.0,"precision":"region","confidence":"high","note":"struck Fundy region"}
+{"qid":7884191,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"medium","note":"UK Parliament act"}
+{"qid":19636554,"place":"Yeppoon","lat":-23.13,"lon":150.74,"precision":"city","confidence":"low","note":"landfall near Shoalwater Bay"}
+{"qid":1565008,"place":"Hakata Bay","lat":33.65,"lon":130.35,"precision":"region","confidence":"medium","note":"Mongol invasion site"}
+{"qid":6303807,"place":"São Paulo","lat":-23.5505,"lon":-46.6333,"precision":"city","confidence":"high","note":"host city"}
+{"qid":1243229,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"research field"}
+{"qid":4579940,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"hurricane season"}
+{"qid":28669964,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"TV segment"}
+{"qid":2466311,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"anime"}
+{"qid":7633391,"place":"Sudan","lat":12.8628,"lon":30.2176,"precision":"country","confidence":"high","note":"national election"}
+{"qid":6312089,"place":"Iowa","lat":42.0,"lon":-93.5,"precision":"region","confidence":"medium","note":"flooding centred in Iowa"}
+{"qid":139937735,"place":"Loftus Versfeld Stadium","lat":-25.7536,"lon":28.2224,"precision":"site","confidence":"high","note":"venue"}
+{"qid":7179849,"place":"United Kingdom","lat":54.0,"lon":-2.0,"precision":"country","confidence":"high","note":"UK numbering change"}
+{"qid":6085164,"place":"Bogotá","lat":4.711,"lon":-74.0721,"precision":"city","confidence":"low","note":"Colombian award"}
+{"qid":6750176,"place":"Winnipeg","lat":49.8951,"lon":-97.1384,"precision":"city","confidence":"medium","note":"provincial capital"}
+{"qid":17007562,"place":"Stockholm","lat":59.3293,"lon":18.0686,"precision":"city","confidence":"high","note":"ceremony in Stockholm"}
+{"qid":86756128,"place":"Paris","lat":48.8566,"lon":2.3522,"precision":"city","confidence":"high","note":"French government"}
+{"qid":13581123,"place":"Canberra","lat":-35.2809,"lon":149.13,"precision":"city","confidence":"high","note":"Australian government"}
+{"qid":112567538,"place":"Mississauga","lat":43.589,"lon":-79.6441,"precision":"city","confidence":"high","note":"host city"}
+{"qid":925632,"place":"Latvia","lat":56.8796,"lon":24.6032,"precision":"country","confidence":"high","note":"national election"}

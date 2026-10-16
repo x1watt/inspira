@@ -1,0 +1,50 @@
+{"qid":139761526,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"global season"}
+{"qid":4842808,"place":"Bahrain","lat":26.0667,"lon":50.5577,"precision":"country","confidence":"high","note":"survey in Bahrain"}
+{"qid":559920,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"international day"}
+{"qid":22023417,"place":"New Hampshire","lat":43.7,"lon":-71.6,"precision":"region","confidence":"high","note":"state primary"}
+{"qid":104533487,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"global circuit"}
+{"qid":2115033,"place":"Finland","lat":61.9241,"lon":25.7482,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":8879,"place":"Venezuela","lat":6.4238,"lon":-66.5897,"precision":"country","confidence":"medium","note":"Venezuelan policy"}
+{"qid":3274804,"place":"Santiago","lat":-33.4489,"lon":-70.6693,"precision":"city","confidence":"medium","note":"protests centered in Santiago"}
+{"qid":5373963,"place":"Rome","lat":41.9028,"lon":12.4964,"precision":"city","confidence":"medium","note":"Roman emperor's reign"}
+{"qid":15944551,"place":"John A. Alario Sr. Event Center","lat":29.906,"lon":-90.141,"precision":"site","confidence":"high","note":"event venue"}
+{"qid":48837604,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"astronomical event"}
+{"qid":7249877,"place":"South Africa","lat":-30.5595,"lon":22.9375,"precision":"country","confidence":"high","note":"South African act"}
+{"qid":3586670,"place":"Illinois","lat":40.0,"lon":-89.2,"precision":"region","confidence":"high","note":"state election"}
+{"qid":58433624,"place":"Oregon","lat":44.0,"lon":-120.5,"precision":"region","confidence":"high","note":"state election"}
+{"qid":28222307,"place":"Idaho","lat":44.4,"lon":-114.6,"precision":"region","confidence":"high","note":"state election"}
+{"qid":4920115,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"cosmological model"}
+{"qid":5174910,"place":"Costa Rica","lat":9.7489,"lon":-83.7534,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":3180543,"place":"Sweden","lat":60.1282,"lon":18.6435,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":26302816,"place":"Algeria","lat":28.0339,"lon":1.6596,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":18691679,"place":"Belarus","lat":53.7098,"lon":27.9534,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":7861342,"place":"Hong Kong","lat":22.3193,"lon":114.1694,"precision":"city","confidence":"low","note":"affected southern China"}
+{"qid":28129379,"place":"Valletta","lat":35.8989,"lon":14.5146,"precision":"city","confidence":"high","note":"contest held in Valletta"}
+{"qid":4406601,"place":"Lima","lat":-12.0464,"lon":-77.0428,"precision":"city","confidence":"high","note":"APEC venues in Lima"}
+{"qid":4620787,"place":"Douglas, Isle of Man","lat":54.15,"lon":-4.48,"precision":"city","confidence":"high","note":"Isle of Man games"}
+{"qid":3286948,"place":"Kuwait","lat":29.3117,"lon":47.4818,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":60856297,"place":"New Jersey","lat":40.1,"lon":-74.5,"precision":"region","confidence":"high","note":"state election"}
+{"qid":4630222,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"medium","note":"qualification across countries"}
+{"qid":4622637,"place":"Utah","lat":39.3,"lon":-111.7,"precision":"region","confidence":"high","note":"state race"}
+{"qid":17075601,"place":"Madagascar","lat":-18.7669,"lon":46.8691,"precision":"country","confidence":"high","note":"hit northern Madagascar"}
+{"qid":2670756,"place":"Czech Republic","lat":49.8175,"lon":15.473,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":2993999,"place":"Tulle","lat":45.267,"lon":1.771,"precision":"city","confidence":"high","note":"prefecture of Corrèze"}
+{"qid":5773661,"place":"Canberra","lat":-35.2809,"lon":149.13,"precision":"city","confidence":"medium","note":"Australian federal act"}
+{"qid":55636646,"place":"Michigan","lat":44.3,"lon":-85.6,"precision":"region","confidence":"high","note":"state election"}
+{"qid":4774830,"place":"Antigua and Barbuda","lat":17.0608,"lon":-61.7964,"precision":"country","confidence":"high","note":"nationwide election"}
+{"qid":1796972,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"railway wagon type"}
+{"qid":39060453,"place":"Wyoming","lat":43.0,"lon":-107.5,"precision":"region","confidence":"high","note":"state election"}
+{"qid":20714249,"place":"Nevada","lat":39.5,"lon":-116.9,"precision":"region","confidence":"high","note":"state election"}
+{"qid":65066961,"place":"Ipswich","lat":52.0567,"lon":1.1482,"precision":"city","confidence":"high","note":"borough council election"}
+{"qid":3768986,"place":null,"lat":null,"lon":null,"precision":"none","confidence":"high","note":"bear genus"}
+{"qid":16208263,"place":"California","lat":36.8,"lon":-119.4,"precision":"region","confidence":"high","note":"state election"}
+{"qid":933278,"place":"Uzhhorod","lat":48.6208,"lon":22.2879,"precision":"city","confidence":"high","note":"union decided in Uzhhorod"}
+{"qid":5894372,"place":"Hong Kong","lat":22.3193,"lon":114.1694,"precision":"city","confidence":"medium","note":"HK election"}
+{"qid":2512311,"place":"New Delhi","lat":28.6139,"lon":77.209,"precision":"city","confidence":"medium","note":"mission to India"}
+{"qid":1960551,"place":"Saint Petersburg","lat":59.9343,"lon":30.3351,"precision":"city","confidence":"medium","note":"Imperial Russian society"}
+{"qid":104839641,"place":"Warsaw","lat":52.2297,"lon":21.0122,"precision":"city","confidence":"high","note":"contest held in Warsaw"}
+{"qid":39060415,"place":"Idaho","lat":44.4,"lon":-114.6,"precision":"region","confidence":"high","note":"state election"}
+{"qid":2784101,"place":"Rio de Janeiro","lat":-22.9068,"lon":-43.1729,"precision":"city","confidence":"medium","note":"flight ended in Rio"}
+{"qid":6669793,"place":"London","lat":51.5074,"lon":-0.1278,"precision":"city","confidence":"high","note":"London Olympic legacy"}
+{"qid":1915698,"place":"Charlotte, North Carolina","lat":35.2271,"lon":-80.8431,"precision":"city","confidence":"high","note":"adopted at Charlotte"}
+{"qid":7185373,"place":"Philippines","lat":12.8797,"lon":121.774,"precision":"country","confidence":"high","note":"nationwide election"}
