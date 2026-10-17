@@ -13,7 +13,9 @@ if [[ ! -x "$bin" ]]; then
   exit 1
 fi
 
-if [[ -n "$(find "$dir/lib" "$dir/assets" -newer "$bin" -print -quit)" ]]; then
+# The Dart code is in lib/libapp.so; the launcher binary rarely changes.
+app="$dir/build/linux/x64/release/bundle/lib/libapp.so"
+if [[ -n "$(find "$dir/lib" "$dir/assets" -newer "$app" -print -quit)" ]]; then
   echo "Note: sources changed since the last build; rebuild to see the changes." >&2
 fi
 

@@ -1,3 +1,4 @@
+import '../wiki_place_repository.dart';
 import 'wiki_service.dart';
 
 /// The web build: the offline database is not kept in the browser. (The
@@ -6,6 +7,10 @@ import 'wiki_service.dart';
 class _Unsupported extends WikiService {
   @override
   WikiStatus get status => WikiStatus.unsupported;
+  @override
+  bool get articlesReady => false;
+  @override
+  bool get placesReady => false;
   @override
   int get downloaded => 0;
   @override
@@ -28,6 +33,14 @@ class _Unsupported extends WikiService {
   }) async => const [];
   @override
   Future<WikiArticle?> article(String title) async => null;
+  @override
+  Future<WikiArticle?> placeArticle(WikiPlace place) async => null;
+  @override
+  Future<List<WikiPlace>> placesIn(
+    List<int> cells, {
+    int? perCell,
+    String? cat,
+  }) async => const [];
 }
 
 WikiService createWikiService() => _Unsupported();

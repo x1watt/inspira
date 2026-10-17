@@ -187,7 +187,8 @@ Article extract(String html) {
       final role = partOf >= 0 && k == 0 ? 'part of' : key;
       // "Part of the X" sits in the title cell's span with the picture and
       // its caption; keep only the cell that says it.
-      final linkHtml = role == 'part of'
+      // (a row whose own header is "Part of" has no such span)
+      final linkHtml = role == 'part of' && partOf >= 0
           ? raw.substring(partOf, max(partOf, raw.indexOf('</td>', partOf)))
           : raw;
       if (k > 0 || role == 'part of') {

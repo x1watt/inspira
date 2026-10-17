@@ -5,8 +5,9 @@ import 'package:flutter/services.dart';
 
 const wikiPlacesAsset = 'assets/wiki_places.json';
 
-/// A dated Wikipedia article (an event, not a person) with the place it
-/// happened, from tool/wikizx (docs/architecture.md, section 5).
+/// A Wikipedia article with a place: a dated event bundled with the app
+/// (tool/wikizx, docs/architecture.md, section 5), or any place of the
+/// offline places file (section 7).
 class WikiPlace {
   const WikiPlace({
     required this.title,
@@ -15,10 +16,21 @@ class WikiPlace {
     required this.lon,
     required this.approximate,
     required this.links,
+    this.cat = 'event',
+    this.page,
   });
 
   /// The English Wikipedia article.
   final String title;
+
+  /// `event`, `castle`, `religious`, `museum`, `monument`, `building`,
+  /// `nature` or `settlement`.
+  final String cat;
+
+  /// Where its lead is in the offline Wikipedia: the page id in
+  /// en_mini.zx, or minus the id in the places file's own article table;
+  /// null for the bundled places (found by title).
+  final int? page;
 
   /// Year it happened or began; negative is BC; null when unknown.
   final int? year;
@@ -28,7 +40,8 @@ class WikiPlace {
   /// The point is only the area or a medium confidence guess.
   final bool approximate;
 
-  /// Incoming links in English Wikipedia: how well known it is.
+  /// How well known it is: incoming links in English Wikipedia (and, in
+  /// the places file, 4 per language with an article).
   final int links;
 
   String get id => 'wiki-$title';

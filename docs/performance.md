@@ -49,9 +49,18 @@ method next to each number.
     `wiki_places.json` 39 ms (in a background isolate), `nearest` 1.6 ms,
     `inBox` 0.45 ms; expect a few times that on a phone, still well
     inside the debounce. At most 200 markers are built. `PlaceIndex` is
-    built once, on the first map open.
+    built once, on the first map open. With the offline places file the
+    bundled Wikipedia places are skipped and the file is asked in zx's
+    worker isolate after the same debounce; an answer for a view the
+    user already left is dropped. The list asks for 25 tiles (a UNION
+    ALL of key ranges), the markers for at most 400 tiles (a key list of
+    at most 16 keys per tile), never an OR of ranges (a full scan).
+    Measured on the Linux desktop with the zx library (2026-10-16, around
+    Zwingenberg, cold then warm): the 25 tiles 92 ms then 2 ms (85
+    places), 240 tiles of 2 keys 64 ms then 6 ms.
 12. Offline Wikipedia: the download, its SHA-256 and the check of a
     partial file run in a background isolate (progress every 250 ms);
     queries run in zx's worker isolate (`ZxDatabaseAsync`), so the UI
     isolate never decodes a page. More from Wikipedia asks for 30 facts
-    of a day once per day shown (`FutureBuilder` keyed by the day).
+    of a day once per day shown (`FutureBuilder` keyed by the day). A
+    map place's sheet asks for its article once (by page id, the key).

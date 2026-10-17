@@ -19,6 +19,7 @@ class MapPlace {
       lat = event.lat!,
       lon = event.lon!,
       kind = 'event',
+      cat = 'event',
       weight = event.weight;
 
   MapPlace.story(Story this.story)
@@ -33,6 +34,7 @@ class MapPlace {
       lat = story.lat!,
       lon = story.lon!,
       kind = story.kind.id,
+      cat = story.kind.id == 'history' ? 'event' : 'story',
       weight = _storyWeight[story.kind.id] ?? 40;
 
   /// Below every event and story (whose weights are 1 to 100), so the
@@ -46,6 +48,7 @@ class MapPlace {
         wiki.yearLabel,
         if (wiki.approximate) 'approximate place',
       ].where((s) => s.isNotEmpty).join(', '),
+      cat = wiki.cat,
       lat = wiki.lat,
       lon = wiki.lon,
       kind = 'wiki',
@@ -64,6 +67,11 @@ class MapPlace {
 
   /// `event`, `history`, `study`, `story` or `wiki`.
   final String kind;
+
+  /// For the map's filter: `event` (events and history), `story`
+  /// (stories and studies), or a Wikipedia place's category
+  /// ([WikiPlace.cat]).
+  final String cat;
 
   /// Importance, for which markers to keep when there are too many.
   final int weight;
@@ -101,7 +109,28 @@ class PlaceIndex {
 
   /// Places by distance from (lat, lon), closest first, with their
   /// distance in km.
+  /// Without the bundled Wikipedia places when [wiki] is false (the
+  /// offline places file has them all), and only [only] when given.
   List<(MapPlace, double)> nearest(
+    double lat,
+    double lon, {
+    int limit = 50,
+    double maxKm = double.infinity,
+    bool wiki = true,
+    String? only,
+  }) => closest(
+    places.where(
+      (p) => (wiki || p.wiki == null) && (only == null || p.cat == only),
+    ),
+    lat,
+    lon,
+    limit: limit,
+    maxKm: maxKm,
+  );
+
+  /// The closest [limit] of [places] to (lat, lon), sorted.
+  static List<(MapPlace, double)> closest(
+    Iterable<MapPlace> places,
     double lat,
     double lon, {
     int limit = 50,
@@ -126,6 +155,29 @@ class PlaceIndex {
   /// of [cell] degrees (so markers do not pile up when zoomed out) and at
   /// most [limit]. The box may cross the date line (west > east).
   List<MapPlace> inBox(
+    double south,
+    double west,
+    double north,
+    double east, {
+    double cell = 0,
+    int limit = 200,
+    bool wiki = true,
+    String? only,
+  }) => pick(
+    places.where(
+      (p) => (wiki || p.wiki == null) && (only == null || p.cat == only),
+    ),
+    south,
+    west,
+    north,
+    east,
+    cell: cell,
+    limit: limit,
+  );
+
+  /// [inBox] over any places.
+  static List<MapPlace> pick(
+    Iterable<MapPlace> places,
     double south,
     double west,
     double north,

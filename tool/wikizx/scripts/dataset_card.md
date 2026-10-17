@@ -26,6 +26,7 @@ downloaded whole.
 |---|---|
 | `en_mini.zx` | English Wikipedia (Kiwix "mini" dump): pages with their lead and kind, dated facts, infobox rows, the link graph, redirects, a table of dated facts by calendar day |
 | `geo.zx` | Wikidata places: a point for each item with an article in en, pt, de, es, fr or it, with the way it was found; places of birth, death and burial; types; dates; article titles |
+| `en_places.zx` | The map: about a million English articles with a point (events, castles, churches, museums, monuments, other buildings, nature, towns), keyed by map tile and ranked by how well known they are; the leads of the articles `en_mini.zx` lacks |
 | `*.parts` | zx part manifests (size and SHA-256 of each file), the URLs the app opens |
 
 Read one with the zx command line tool, after downloading it:

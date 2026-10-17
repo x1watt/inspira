@@ -7,6 +7,8 @@ import 'package:inspira/data/image_repository.dart';
 import 'package:inspira/data/progress_store.dart';
 import 'package:inspira/data/quote_repository.dart';
 import 'package:inspira/data/story_repository.dart';
+import 'package:inspira/data/wiki/wiki_service.dart';
+import 'package:inspira/data/wiki_place_repository.dart';
 import 'package:inspira/models/event.dart';
 import 'package:inspira/models/story.dart';
 import 'package:inspira/screens/map_screen.dart';
@@ -75,6 +77,9 @@ void main() {
     Navigator.of(tester.element(find.text('Go far.'))).pop();
     await tester.pumpAndSettle();
     expect(find.text('Near the map center'), findsOneWidget);
+    // pull the list up over the map
+    await tester.drag(find.text('Near the map center'), const Offset(0, -250));
+    await tester.pumpAndSettle();
     expect(find.text('Gama sails from Belem'), findsOneWidget);
     expect(find.text('Lisbon earthquake'), findsOneWidget);
     expect(find.text('0 m'), findsOneWidget);
@@ -89,4 +94,98 @@ void main() {
     await tester.pump();
     expect(find.text('OpenStreetMap contributors'), findsOneWidget);
   });
+
+  testWidgets('with the places file: its places, the filter and the article', (
+    tester,
+  ) async {
+    SharedPreferencesAsyncPlatform.instance =
+        InMemorySharedPreferencesAsync.empty();
+    final data = AppData(
+      quotes: QuoteRepository(const []),
+      stories: StoryRepository(const []),
+      favorites: await FavoritesStore.load(),
+      images: ImageRepository.empty(),
+      progress: await ProgressStore.load(),
+      wiki: _PlacesWiki(),
+    );
+    await tester.pumpWidget(
+      MaterialApp(
+        builder: (context, nav) => AppScope(data: data, child: nav!),
+        home: const MapScreen(locate: false, tiles: false),
+      ),
+    );
+    await tester.pumpAndSettle();
+    // the map starts at (35, 10): the abbey is about 1.4 km away
+    expect(find.text('Lorsch Abbey'), findsOneWidget);
+    expect(find.text('Church or temple'), findsOneWidget);
+    expect(find.text('Castles'), findsOneWidget);
+
+    await tester.tap(find.text('Castles'));
+    await tester.pumpAndSettle();
+    expect(find.text('Lorsch Abbey'), findsNothing);
+    expect(find.text('Nothing of this kind nearby.'), findsOneWidget);
+
+    await tester.tap(find.text('All'));
+    await tester.pumpAndSettle();
+    await tester.tap(find.text('Lorsch Abbey'));
+    await tester.pumpAndSettle();
+    // the lead comes from the offline Wikipedia, not from a link
+    expect(find.text('A former Imperial abbey.'), findsOneWidget);
+    expect(find.text('Whole article on wikipedia.org'), findsOneWidget);
+  });
+}
+
+/// The offline Wikipedia with the places file on the device.
+class _PlacesWiki extends WikiService {
+  static const _abbey = WikiPlace(
+    title: 'Lorsch Abbey',
+    cat: 'religious',
+    year: null,
+    lat: 35.01,
+    lon: 10.01,
+    approximate: false,
+    links: 100,
+    page: -7,
+  );
+
+  @override
+  WikiStatus get status => WikiStatus.ready;
+  @override
+  bool get articlesReady => true;
+  @override
+  bool get placesReady => true;
+  @override
+  int get downloaded => 1;
+  @override
+  int get total => 1;
+  @override
+  int get received => 0;
+  @override
+  String? get error => null;
+  @override
+  Future<void> download() async {}
+  @override
+  Future<void> cancel() async {}
+  @override
+  Future<void> delete() async {}
+  @override
+  Future<List<WikiFact>> onThisDay(
+    int month,
+    int day, {
+    int limit = 30,
+  }) async => const [];
+  @override
+  Future<WikiArticle?> article(String title) async => null;
+  @override
+  Future<WikiArticle?> placeArticle(WikiPlace place) async => WikiArticle(
+    title: place.title,
+    kind: 'place',
+    lead: place.page == -7 ? 'A former Imperial abbey.' : '',
+  );
+  @override
+  Future<List<WikiPlace>> placesIn(
+    List<int> cells, {
+    int? perCell,
+    String? cat,
+  }) async => [if (cat == null || cat == _abbey.cat) _abbey];
 }

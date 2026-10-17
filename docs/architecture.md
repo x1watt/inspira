@@ -132,7 +132,8 @@ always shows the same picture.
 | `lib/data/progress_store.dart` | XP, levels, daily goal, streak and freezes, quiz review boxes, feed affinity, seen and read ids; one JSON value in `shared_preferences` |
 | `lib/data/quiz_generator.dart` | questions made from the data: who said this, what is the lesson, what did the study show, when did it happen, what happened on this day |
 | `lib/data/feed_engine.dart` | the endless feed: which card comes next |
-| `lib/data/wiki/wiki_service.dart` | the offline Wikipedia (section 6): `WikiService` (status, download, facts of a day, an article's lead); `wiki_service_io.dart` on Android and desktop, `wiki_service_stub.dart` on the web (conditional import, so the web build never imports zx) |
+| `lib/data/wiki/wiki_service.dart` | the offline Wikipedia (sections 6 and 7): `WikiService` (status, download, facts of a day, an article's lead, the places of map tiles); `wiki_service_io.dart` on Android and desktop, `wiki_service_stub.dart` on the web (conditional import, so the web build never imports zx) |
+| `lib/data/wiki/tiles.dart` | zoom 12 map tiles and their quadkeys, the keys of the offline places file (section 7) |
 | `lib/widgets/wiki_widgets.dart` | the Offline Wikipedia card in Me, More from Wikipedia in On this day, the article sheet |
 | `lib/data/wiki_place_repository.dart` | loads `assets/wiki_places.json`: Wikipedia events with a place, for the map |
 | `lib/data/place_index.dart` | events, stories and Wikipedia places with coordinates: closest to a point, most important inside a box |
@@ -223,9 +224,23 @@ everything else stays offline.
   weight, then history, study, story, then Wikipedia places by incoming
   links, so Inspira's own content wins a marker cell), recomputed 200 ms
   after the map stops moving.
-- Wikipedia places (grey globe) open a sheet with the year, a note when
-  the place is approximate, Directions and Read on Wikipedia.
-- The sheet under the map lists the 50 closest places with distance.
+- Without the offline places file, Wikipedia places (the 20,000 bundled
+  events) open a sheet with the year, a note when the place is
+  approximate, Directions and a link to the article online.
+- With the offline places file (section 7) the map shows about a million
+  Wikipedia places, each with an icon of its category (event, castle,
+  church, museum, monument, building, nature, town). From zoom 10 the
+  markers come from the file (the best known of each zoom 12 tile, about
+  one per 64 px square, then the same marker cell selection with
+  Inspira's own content first); below zoom 10 from the bundled events.
+  The sheet of a Wikipedia place shows the article's lead from the device
+  and, last, a small link to the whole article online.
+- The sheet under the map lists the closest places with distance: 50
+  from Inspira's own content and the bundled events, or, with the file,
+  the 100 closest of Inspira's content and the file's places in the 5 by
+  5 tiles of zoom 12 around (about 30 km a side). Chips filter the list
+  and the markers by category (castles, churches and the other file
+  categories only show with the file).
 - A place opens a sheet with its picture, the whole text, and Directions
   (a Google Maps directions link, which opens the maps app on phones).
 - Tiles follow the OpenStreetMap tile policy: the app's package name as
@@ -241,14 +256,18 @@ and read it from the device; the web will read the hosted copy in place
 with the zx web engine (not done yet; the web build shows nothing).
 
 - **Download** (Me, Offline Wikipedia): `wiki_service_io.dart` reads the
-  manifest `en_mini.zx.parts` (size and SHA-256), then downloads the
-  file into the app support folder (`wikipedia/en_mini.zx.part`) in a
+  manifests of `wikiFiles` (`en_mini.zx` and `en_places.zx`, section 7;
+  size and SHA-256 of each), then downloads each file not yet checked,
+  one after the other, into the app support folder (`wikipedia/en_mini.zx.part`) in a
   background isolate, hashing as it writes. Redirects are followed by
   hand so the Range header reaches the CDN: Pause keeps the partial file
   and Continue hashes it again and asks for the rest. The file is renamed
   to `en_mini.zx` (with `en_mini.zx.ok` holding its SHA-256) only when
-  the SHA-256 matches; a mismatch deletes it. The card shows the progress
-  and the data received since the app started; Delete removes the files.
+  the SHA-256 matches; a mismatch deletes it. Each file is used as soon
+  as it is checked, and the database is ready when all are; with only
+  `en_mini.zx` (an install from before the places file) the card offers
+  the rest as an update. The card shows the progress and the data
+  received since the app started; Delete removes the files.
 - **Queries** run in zx's worker isolate (`ZxDatabaseAsync`, opened read
   only on first use). On this day adds More from Wikipedia: `day_fact`
   of the day, most linked first, people, events and things that happened
@@ -258,3 +277,33 @@ with the zx web engine (not done yet; the web build shows nothing).
   it is pure Dart. Measured on this desktop: the download ran at about
   25 MiB/s (about 2 minutes for 3.2 GB); a day's facts take a few ms.
 
+## 7. Offline places (the map's Wikipedia places)
+
+`en_places.zx` (41 MB, on Hugging Face next to `en_mini.zx`) is built by
+`tool/wikizx/bin/build_places.dart` from `en_mini.zx`, `geo.zx` and the
+Kiwix ZIM:
+
+- Every English article whose Wikidata item has a point in `geo.zx`
+  (not a model's low confidence guess, not a point that only says the
+  country), whose item is not a person, and whose type falls in a
+  category of `geofill/place_types.tsv` (1,500 most common types of the
+  items with a point, sorted into event, castle, religious, museum,
+  monument, building, nature, settlement, or `-` for never a place:
+  companies, schools, stations, roads, sports seasons and the like).
+  Untyped items count as events when they have a date and their article
+  is an event. 1,001,295 places on 2026-10-16: 57,581 events, 14,668
+  castles, 44,871 churches and temples, 16,630 museums, 39,287
+  monuments, 125,504 buildings, 137,896 natural places, 564,858 towns.
+- Titles are matched to `en_mini.zx` directly, then through its
+  redirects (articles renamed since the Wikidata dump), then in the ZIM:
+  an extractor error (fixed in `lib/extract.dart`) left about 25,000
+  articles out of `en_mini.zx`, Lorsch Abbey among them; the 12,322 of
+  them that are places keep their lead in the file's own `article`
+  table (their `page` is minus its id).
+- `place` is keyed `cell << 24 | n`: cell is the quadkey of the zoom 12
+  tile (`lib/data/wiki/tiles.dart`, the same as the tool), n the rank in
+  the tile by score (English incoming links + 4 per Wikipedia language
+  with an article). A tile is one range of keys and its best known
+  places are its first keys, so the map asks for a key list (the first
+  n of each tile in view) or a UNION ALL of ranges (the tiles around).
+  An OR of ranges is a full scan in zx (13 s), so it is never used.

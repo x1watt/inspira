@@ -29,11 +29,15 @@ class WikiDownloadCard extends StatelessWidget {
         final String subtitle = switch (s) {
           WikiStatus.ready =>
             'Ready, ${_size(wiki.downloaded)} on this device. More from '
-                'Wikipedia shows in On this day.',
+                'Wikipedia shows in On this day, and its places on the map.',
           WikiStatus.downloading =>
             '${_size(wiki.downloaded)} of ${total > 0 ? _size(total) : 'about 3.2 GB'}',
           WikiStatus.verifying => 'Checking the file...',
           WikiStatus.failed => 'Failed: ${wiki.error}',
+          _ when wiki.articlesReady =>
+            'New: about a million places for the map (castles, churches, '
+                'museums, monuments, nature), each with its article. About '
+                '41 MB more.',
           _ =>
             wiki.downloaded > 0
                 ? 'Paused at ${_size(wiki.downloaded)}; it continues where it '
@@ -85,7 +89,11 @@ class WikiDownloadCard extends StatelessWidget {
                           onPressed: wiki.download,
                           icon: const Icon(Icons.download_rounded),
                           label: Text(
-                            wiki.downloaded > 0 ? 'Continue' : 'Download',
+                            wiki.articlesReady
+                                ? 'Update'
+                                : wiki.downloaded > 0
+                                ? 'Continue'
+                                : 'Download',
                           ),
                         ),
                       if (s == WikiStatus.downloading)
@@ -152,7 +160,7 @@ class _WikiDaySectionState extends State<WikiDaySection> {
     return ListenableBuilder(
       listenable: wiki,
       builder: (context, _) {
-        if (wiki.status != WikiStatus.ready) {
+        if (!wiki.articlesReady) {
           _facts = null;
           return const SizedBox.shrink();
         }

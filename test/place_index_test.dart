@@ -105,6 +105,16 @@ void main() {
       expect(arts.single.title, 'Battle of Aljubarrota');
     });
 
+    test('without the bundled articles, and by category', () {
+      // the places file has them all: only the app's own story stays
+      expect(withWiki.nearest(38.7, -9.1, wiki: false).map((n) => n.$1.id), [
+        'story-lisbon',
+      ]);
+      // the history story counts as an event
+      expect(withWiki.nearest(38.7, -9.1, only: 'event').length, 4);
+      expect(withWiki.inBox(30, -20, 50, 0, only: 'castle'), isEmpty);
+    });
+
     test('nearest keeps only the closest, in order', () {
       final near = withWiki.nearest(38.7, -9.1, limit: 2);
       expect(near.map((n) => n.$1.id), [

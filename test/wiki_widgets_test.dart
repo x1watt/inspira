@@ -1,14 +1,20 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:inspira/data/wiki/wiki_service.dart';
+import 'package:inspira/data/wiki_place_repository.dart';
 import 'package:inspira/widgets/wiki_widgets.dart';
 
 class _FakeWiki extends WikiService {
   WikiStatus s = WikiStatus.absent;
   int d = 0;
   int downloads = 0;
+  bool places = false;
   @override
   WikiStatus get status => s;
+  @override
+  bool get articlesReady => s == WikiStatus.ready || places;
+  @override
+  bool get placesReady => places;
   @override
   int get downloaded => d;
   @override
@@ -46,6 +52,14 @@ class _FakeWiki extends WikiService {
   @override
   Future<WikiArticle?> article(String title) async =>
       WikiArticle(title: title, kind: 'person', lead: 'Queen of France.');
+  @override
+  Future<WikiArticle?> placeArticle(WikiPlace place) => article(place.title);
+  @override
+  Future<List<WikiPlace>> placesIn(
+    List<int> cells, {
+    int? perCell,
+    String? cat,
+  }) async => const [];
 }
 
 Widget _wrap(Widget w) => MaterialApp(
@@ -101,6 +115,14 @@ void main() {
     expect(find.text('Read on Wikipedia'), findsOneWidget);
   });
 
+  testWidgets('the card offers the places file as an update', (tester) async {
+    // articles there, the places file not yet: an update of about 41 MB
+    final updating = _UpdateWiki()..d = 3208595489;
+    await tester.pumpWidget(_wrap(WikiDownloadCard(wiki: updating)));
+    expect(find.textContaining('About 41 MB more'), findsOneWidget);
+    expect(find.text('Update'), findsOneWidget);
+  });
+
   testWidgets('nothing shows before the database is on the device', (
     tester,
   ) async {
@@ -109,4 +131,10 @@ void main() {
     );
     expect(find.text('More from Wikipedia'), findsNothing);
   });
+}
+
+/// The articles are on the device, the places file is not.
+class _UpdateWiki extends _FakeWiki {
+  @override
+  bool get articlesReady => true;
 }
