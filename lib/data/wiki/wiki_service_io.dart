@@ -183,13 +183,59 @@ class _NativeWiki extends WikiService {
     ];
   }
 
-  WikiArticle? _article(List<List<Object?>> rows) {
+  /// An article from a row (page id, title, kind, lead) of en_mini.zx's
+  /// page table, or of the places file's article table ([own]), with its
+  /// external links and the articles it links to.
+  Future<WikiArticle?> _article(
+    List<List<Object?>> rows, {
+    bool own = false,
+  }) async {
     if (rows.isEmpty) return null;
     final row = rows.first;
+    final id = row[0] as int;
+    final page = own ? -id : id;
+    final links = <(String, String)>[];
+    final extern = await _open(wikiLinksFile);
+    if (extern != null) {
+      // an article's links are one key range: page * 16 + n
+      final r = await extern.execute(
+        'SELECT url, label FROM extlink WHERE id >= ? AND id < ?',
+        [page * 16, page * 16 + 16],
+      );
+      for (final l in r.rows) {
+        links.add((l[0] as String, l[1] as String? ?? ''));
+      }
+    }
+    final related = <String>[];
+    final db = page > 0 ? await _open(wikiFile) : null;
+    if (db != null) {
+      // link keys: source << 23 | target (tool/wikizx/bin/convert.dart);
+      // role 0 is the body, others an infobox row
+      final r = await db.execute(
+        'SELECT p.title, l.role, p.inlinks FROM link l '
+        'JOIN page_meta p ON p.id = (l.id & 8388607) '
+        "WHERE l.id >= ? AND l.id < ? AND p.kind <> 'disambiguation' "
+        'LIMIT 400',
+        [page << 23, (page + 1) << 23],
+      );
+      final links = [...r.rows]
+        ..sort((a, b) {
+          final ia = (a[1] as int? ?? 0) == 0 ? 1 : 0;
+          final ib = (b[1] as int? ?? 0) == 0 ? 1 : 0;
+          if (ia != ib) return ia - ib;
+          return (b[2] as int? ?? 0) - (a[2] as int? ?? 0);
+        });
+      for (final l in links) {
+        final t = l[0] as String;
+        if (!related.contains(t)) related.add(t);
+      }
+    }
     return WikiArticle(
-      title: row[0] as String,
-      kind: row[1] as String? ?? 'other',
-      lead: row[2] as String? ?? '',
+      title: row[1] as String,
+      kind: row[2] as String? ?? 'other',
+      lead: row[3] as String? ?? '',
+      links: links,
+      related: related,
     );
   }
 
@@ -198,21 +244,21 @@ class _NativeWiki extends WikiService {
     final db = await _open(wikiFile);
     if (db != null) {
       final r = await db.execute(
-        'SELECT title, kind, lead FROM page WHERE title = ? COLLATE NOCASE '
+        'SELECT id, title, kind, lead FROM page WHERE title = ? COLLATE NOCASE '
         'LIMIT 1',
         [title],
       );
-      if (_article(r.rows) case final a?) return a;
+      if (await _article(r.rows) case final a?) return a;
     }
     // the articles en_mini.zx lacks, kept in the places file
     final places = await _open(wikiPlacesFile);
     if (places == null) return null;
     final r = await places.execute(
-      'SELECT title, kind, lead FROM article WHERE title = ? COLLATE NOCASE '
-      'LIMIT 1',
+      'SELECT id, title, kind, lead FROM article WHERE title = ? '
+      'COLLATE NOCASE LIMIT 1',
       [title],
     );
-    return _article(r.rows);
+    return _article(r.rows, own: true);
   }
 
   @override
@@ -222,11 +268,11 @@ class _NativeWiki extends WikiService {
     final db = await _open(page > 0 ? wikiFile : wikiPlacesFile);
     if (db == null) return null;
     final r = await db.execute(
-      'SELECT title, kind, lead FROM ${page > 0 ? 'page' : 'article'} '
+      'SELECT id, title, kind, lead FROM ${page > 0 ? 'page' : 'article'} '
       'WHERE id = ?',
       [page.abs()],
     );
-    return _article(r.rows);
+    return _article(r.rows, own: page < 0);
   }
 
   @override

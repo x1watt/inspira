@@ -64,3 +64,7 @@ method next to each number.
     isolate never decodes a page. More from Wikipedia asks for 30 facts
     of a day once per day shown (`FutureBuilder` keyed by the day). A
     map place's sheet asks for its article once (by page id, the key).
+    An article is three key lookups: the page, its external links (one
+    `extlink` range of `en_links.zx`, `page * 16`) and its links (one
+    range of `link` keys, `page << 23`, joined to `page_meta` by key,
+    400 at most); a few ms each.

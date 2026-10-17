@@ -233,8 +233,8 @@ everything else stays offline.
   markers come from the file (the best known of each zoom 12 tile, about
   one per 64 px square, then the same marker cell selection with
   Inspira's own content first); below zoom 10 from the bundled events.
-  The sheet of a Wikipedia place shows the article's lead from the device
-  and, last, a small link to the whole article online.
+  The sheet of a Wikipedia place shows the article as `WikiArticleView`
+  (`lib/widgets/wiki_widgets.dart`): no link out to wikipedia.org.
 - The sheet under the map lists the closest places with distance: 50
   from Inspira's own content and the bundled events, or, with the file,
   the 100 closest of Inspira's content and the file's places in the 5 by
@@ -272,7 +272,14 @@ with the zx web engine (not done yet; the web build shows nothing).
   only on first use). On this day adds More from Wikipedia: `day_fact`
   of the day, most linked first, people, events and things that happened
   (not clubs, series or companies that only began or ended), 30 at most;
-  a fact opens a sheet with the article's lead and Read on Wikipedia.
+  a fact opens a sheet with the article (`WikiArticleView`).
+- **An article, offline** (`WikiArticleView`): the lead with the
+  articles it names as links (the first mention of each title, or of
+  the title without its "(district)" part), which open here too; its
+  External links as Wikipedia lists them (`en_links.zx`, section 7);
+  then the other articles it links to (`link`, infobox rows first, then
+  the best known). Nothing links out to wikipedia.org; the credit
+  stays.
 - **Dependency**: zx from GitHub, pinned to a commit (`pubspec.yaml`);
   it is pure Dart. Measured on this desktop: the download ran at about
   25 MiB/s (about 2 minutes for 3.2 GB); a day's facts take a few ms.
@@ -307,3 +314,13 @@ Kiwix ZIM:
   places are its first keys, so the map asks for a key list (the first
   n of each tile in view) or a UNION ALL of ranges (the tiles around).
   An OR of ranges is a full scan in zx (13 s), so it is never used.
+
+`en_links.zx` (278 MB, the third download) holds `extlink (id = page *
+16 + n, url, label)`: the External links section of every English
+article, as Wikipedia lists it (`tool/wikizx/bin/extlinks.dart` reads
+the wikitext dump; `{{Official website}}` without a URL takes the
+Wikidata P856), else the item's official website (P856). page as
+`place.page`, so an article's links are one key range. 4,139,827 links
+of 2,269,234 articles on 2026-10-17, built by
+`tool/wikizx/bin/build_links.dart`. A file of its own, so the places
+file stays small and an install that has it does not download it again.

@@ -16,8 +16,12 @@ const wikiFile = 'en_mini.zx';
 /// (tool/wikizx/bin/build_places.dart).
 const wikiPlacesFile = 'en_places.zx';
 
+/// The External links of the articles, as Wikipedia lists them
+/// (tool/wikizx/bin/build_links.dart).
+const wikiLinksFile = 'en_links.zx';
+
 /// Downloaded in this order; the database is ready when all are.
-const wikiFiles = [wikiFile, wikiPlacesFile];
+const wikiFiles = [wikiFile, wikiPlacesFile, wikiLinksFile];
 
 enum WikiStatus {
   /// This platform can not keep the database (the web, for now).
@@ -71,18 +75,28 @@ class WikiArticle {
     required this.title,
     required this.kind,
     required this.lead,
+    this.links = const [],
+    this.related = const [],
   });
 
   final String title;
   final String kind;
   final String lead;
 
+  /// Wikipedia's "External links" of the article, else the official
+  /// website of its Wikidata item: (url, label) in Wikipedia's order.
+  final List<(String, String)> links;
+
+  /// The titles of the articles it links to, the infobox's first, then
+  /// the best known; the lead names some of them.
+  final List<String> related;
+
   String get url =>
       'https://en.wikipedia.org/wiki/${Uri.encodeComponent(title.replaceAll(' ', '_'))}';
 }
 
 /// The offline English Wikipedia on Android and desktop: downloaded on
-/// request (about 3.2 GB, [wikiFiles]), each file checked against the
+/// request (about 3.5 GB, [wikiFiles]), each file checked against the
 /// SHA-256 of its manifest, then queried in worker isolates
 /// (docs/architecture.md, sections 6 and 7).
 abstract class WikiService extends ChangeNotifier {

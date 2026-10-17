@@ -27,6 +27,7 @@ downloaded whole.
 | `en_mini.zx` | English Wikipedia (Kiwix "mini" dump): pages with their lead and kind, dated facts, infobox rows, the link graph, redirects, a table of dated facts by calendar day |
 | `geo.zx` | Wikidata places: a point for each item with an article in en, pt, de, es, fr or it, with the way it was found; places of birth, death and burial; types; dates; article titles |
 | `en_places.zx` | The map: about a million English articles with a point (events, castles, churches, museums, monuments, other buildings, nature, towns), keyed by map tile and ranked by how well known they are; the leads of the articles `en_mini.zx` lacks |
+| `en_links.zx` | The External links of about 2.3 million English articles, as Wikipedia lists them (from the wikitext dump), else the official website of the article's Wikidata item, keyed by article |
 | `*.parts` | zx part manifests (size and SHA-256 of each file), the URLs the app opens |
 
 Read one with the zx command line tool, after downloading it:
@@ -43,7 +44,8 @@ How they are built: `tool/wikizx` and `docs/plan-offline-wikipedia.md`,
 
 - Wikipedia text: CC BY-SA 4.0, from the Kiwix English Wikipedia "mini"
   ZIM. The content of this dataset is shared under the same license;
-  credit the Wikipedia contributors.
+  credit the Wikipedia contributors. The External links of `en_links.zx`
+  come from the English Wikipedia wikitext dump (same license).
 - Wikidata: CC0 (truthy dump and sitelinks).
 - GeoNames (https://www.geonames.org): CC BY 4.0, for a part of the
   points in `geo.zx`.

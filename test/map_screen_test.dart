@@ -130,8 +130,13 @@ void main() {
     await tester.tap(find.text('Lorsch Abbey'));
     await tester.pumpAndSettle();
     // the lead comes from the offline Wikipedia, not from a link
-    expect(find.text('A former Imperial abbey.'), findsOneWidget);
-    expect(find.text('Whole article on wikipedia.org'), findsOneWidget);
+    // with what Wikipedia links, and no link out to wikipedia.org
+    expect(find.text('A former Imperial abbey in Lorsch.'), findsOneWidget);
+    expect(find.text('Official website'), findsOneWidget);
+    expect(find.text('kloster-lorsch.de'), findsOneWidget);
+    expect(find.text('Carolingian architecture'), findsOneWidget);
+    expect(find.text('Lorsch'), findsNothing); // a link in the lead
+    expect(find.textContaining('wikipedia.org'), findsNothing);
   });
 }
 
@@ -180,7 +185,9 @@ class _PlacesWiki extends WikiService {
   Future<WikiArticle?> placeArticle(WikiPlace place) async => WikiArticle(
     title: place.title,
     kind: 'place',
-    lead: place.page == -7 ? 'A former Imperial abbey.' : '',
+    lead: place.page == -7 ? 'A former Imperial abbey in Lorsch.' : '',
+    links: const [('https://kloster-lorsch.de/', 'Official website')],
+    related: const ['Lorsch', 'Carolingian architecture'],
   );
   @override
   Future<List<WikiPlace>> placesIn(

@@ -50,8 +50,14 @@ class _FakeWiki extends WikiService {
     ),
   ];
   @override
-  Future<WikiArticle?> article(String title) async =>
-      WikiArticle(title: title, kind: 'person', lead: 'Queen of France.');
+  Future<WikiArticle?> article(String title) async => WikiArticle(
+    title: title,
+    kind: 'person',
+    lead: title == 'Marie Antoinette'
+        ? 'Queen of France, wife of Louis XVI.'
+        : 'King of France.',
+    related: const ['Louis XVI', 'Kingdom of France (987-1792)', 'Vienna'],
+  );
   @override
   Future<WikiArticle?> placeArticle(WikiPlace place) => article(place.title);
   @override
@@ -87,7 +93,7 @@ void main() {
   ) async {
     final wiki = _FakeWiki();
     await tester.pumpWidget(_wrap(WikiDownloadCard(wiki: wiki)));
-    expect(find.textContaining('about 3.2 GB'), findsOneWidget);
+    expect(find.textContaining('about 3.5 GB'), findsOneWidget);
     await tester.tap(find.text('Download'));
     await tester.pump();
     expect(wiki.downloads, 1);
@@ -111,15 +117,34 @@ void main() {
     expect(find.text('1793, Died'), findsOneWidget);
     await tester.tap(find.text('Marie Antoinette'));
     await tester.pumpAndSettle();
-    expect(find.text('Queen of France.'), findsOneWidget);
-    expect(find.text('Read on Wikipedia'), findsOneWidget);
+    // offline: the lead names Louis XVI (a link), the rest are related
+    expect(find.text('Queen of France, wife of Louis XVI.'), findsOneWidget);
+    expect(find.text('Vienna'), findsOneWidget);
+    expect(find.text('Louis XVI'), findsNothing);
+    expect(find.textContaining('Wikipedia', findRichText: true), findsWidgets);
+    expect(find.text('Read on Wikipedia'), findsNothing);
+    await tester.tap(find.text('Vienna'));
+    await tester.pumpAndSettle();
+    expect(find.text('King of France.'), findsWidgets);
   });
 
   testWidgets('the card offers the places file as an update', (tester) async {
-    // articles there, the places file not yet: an update of about 41 MB
+    // articles there, the places file not yet: an update of about 320 MB
     final updating = _UpdateWiki()..d = 3208595489;
     await tester.pumpWidget(_wrap(WikiDownloadCard(wiki: updating)));
-    expect(find.textContaining('About 41 MB more'), findsOneWidget);
+    expect(find.textContaining('About 320 MB more'), findsOneWidget);
+    expect(find.text('Update'), findsOneWidget);
+  });
+
+  testWidgets('the links file is offered as an update', (tester) async {
+    final wiki = _FakeWiki()
+      ..places = true
+      ..d = 3249500970;
+    await tester.pumpWidget(_wrap(WikiDownloadCard(wiki: wiki)));
+    expect(
+      find.textContaining('External links of the articles'),
+      findsOneWidget,
+    );
     expect(find.text('Update'), findsOneWidget);
   });
 

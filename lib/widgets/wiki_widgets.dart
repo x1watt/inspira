@@ -1,16 +1,17 @@
+import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 
 import '../data/wiki/wiki_service.dart';
 import 'person_sheet.dart' show openLink;
 
-/// Decimal units, as the size is announced ("about 3.2 GB").
+/// Decimal units, as the size is announced ("about 3.5 GB").
 String _size(int bytes) {
   if (bytes >= 1000000000) return '${(bytes / 1e9).toStringAsFixed(2)} GB';
   if (bytes >= 1000000) return '${(bytes / 1e6).toStringAsFixed(0)} MB';
   return '${(bytes / 1000).toStringAsFixed(0)} KB';
 }
 
-/// The offline Wikipedia in Me: download it (about 3.2 GB, once), see the
+/// The offline Wikipedia in Me: download it (about 3.5 GB, once), see the
 /// progress and the data it used, cancel or delete it.
 class WikiDownloadCard extends StatelessWidget {
   const WikiDownloadCard({super.key, required this.wiki});
@@ -31,18 +32,21 @@ class WikiDownloadCard extends StatelessWidget {
             'Ready, ${_size(wiki.downloaded)} on this device. More from '
                 'Wikipedia shows in On this day, and its places on the map.',
           WikiStatus.downloading =>
-            '${_size(wiki.downloaded)} of ${total > 0 ? _size(total) : 'about 3.2 GB'}',
+            '${_size(wiki.downloaded)} of ${total > 0 ? _size(total) : 'about 3.5 GB'}',
           WikiStatus.verifying => 'Checking the file...',
           WikiStatus.failed => 'Failed: ${wiki.error}',
+          _ when wiki.placesReady =>
+            'New: the External links of the articles, as Wikipedia lists '
+                'them, without leaving the app. About 280 MB more.',
           _ when wiki.articlesReady =>
             'New: about a million places for the map (castles, churches, '
-                'museums, monuments, nature), each with its article. About '
-                '41 MB more.',
+                'museums, monuments, nature), each with its article, and the '
+                'External links of the articles. About 320 MB more.',
           _ =>
             wiki.downloaded > 0
                 ? 'Paused at ${_size(wiki.downloaded)}; it continues where it '
                       'stopped.'
-                : 'English Wikipedia on this device, offline: about 3.2 GB, '
+                : 'English Wikipedia on this device, offline: about 3.5 GB, '
                       'downloaded once. Use Wi-Fi.',
         };
         return Card(
@@ -250,31 +254,13 @@ Future<void> showWikiArticle(
                 ),
               ),
               const SizedBox(height: 12),
-              for (final p
-                  in (a?.lead ?? 'Not found in the offline Wikipedia.').split(
-                    '\n',
-                  ))
-                if (p.trim().isNotEmpty)
-                  Padding(
-                    padding: const EdgeInsets.only(bottom: 12),
-                    child: Text(
-                      p.trim(),
-                      style: const TextStyle(
-                        color: Colors.white,
-                        fontSize: 16,
-                        height: 1.5,
-                      ),
-                    ),
-                  ),
-              if (a != null)
-                Align(
-                  alignment: Alignment.centerLeft,
-                  child: OutlinedButton.icon(
-                    onPressed: () => openLink(context, a.url),
-                    icon: const Icon(Icons.menu_book_rounded),
-                    label: const Text('Read on Wikipedia'),
-                  ),
-                ),
+              if (a == null)
+                const Text(
+                  'Not found in the offline Wikipedia.',
+                  style: wikiBodyStyle,
+                )
+              else
+                WikiArticleView(article: a, wiki: wiki),
               const SizedBox(height: 8),
               const Text(
                 'Text from Wikipedia, CC BY-SA 4.0.',
@@ -286,4 +272,167 @@ Future<void> showWikiArticle(
       ),
     ),
   );
+}
+
+const wikiBodyStyle = TextStyle(color: Colors.white, fontSize: 16, height: 1.5);
+
+/// An article of the offline Wikipedia as Wikipedia shows it, without
+/// leaving the app: the lead, the articles it names linked (they open
+/// here too), its external links, and the other articles it links to.
+class WikiArticleView extends StatefulWidget {
+  const WikiArticleView({super.key, required this.article, required this.wiki});
+
+  final WikiArticle article;
+  final WikiService wiki;
+
+  @override
+  State<WikiArticleView> createState() => _WikiArticleViewState();
+}
+
+class _WikiArticleViewState extends State<WikiArticleView> {
+  final _taps = <TapGestureRecognizer>[];
+  late List<List<InlineSpan>> _paragraphs;
+  late List<String> _others;
+
+  static const _link = TextStyle(color: Color(0xFF8AB4F8));
+  static const _heading = TextStyle(
+    color: Colors.white70,
+    fontSize: 13,
+    fontWeight: FontWeight.w600,
+  );
+
+  @override
+  void initState() {
+    super.initState();
+    _build();
+  }
+
+  @override
+  void didUpdateWidget(WikiArticleView old) {
+    super.didUpdateWidget(old);
+    if (old.article != widget.article) {
+      _dispose();
+      _build();
+    }
+  }
+
+  @override
+  void dispose() {
+    _dispose();
+    super.dispose();
+  }
+
+  void _dispose() {
+    for (final t in _taps) {
+      t.dispose();
+    }
+    _taps.clear();
+  }
+
+  void _open(String title) => showWikiArticle(context, widget.wiki, title);
+
+  /// Each related title's first mention in the lead becomes a link: the
+  /// title itself, or without its "(district)" part.
+  void _build() {
+    final a = widget.article;
+    final named = <String>{};
+    _paragraphs = [
+      for (final p in a.lead.split('\n'))
+        if (p.trim().isNotEmpty) _spans(p.trim(), a.related, named),
+    ];
+    _others = [
+      for (final t in a.related)
+        if (!named.contains(t)) t,
+    ];
+  }
+
+  List<InlineSpan> _spans(String text, List<String> titles, Set<String> named) {
+    // (start, end, title) of the mentions, longest names first
+    final found = <(int, int, String)>[];
+    final names = [
+      for (final t in titles)
+        if (!named.contains(t)) (t.replaceFirst(RegExp(r' \(.*\)$'), ''), t),
+    ]..sort((x, y) => y.$1.length - x.$1.length);
+    for (final (name, title) in names) {
+      if (name.length < 3) continue;
+      for (final m in RegExp(
+        '(?<![\\p{L}\\p{N}])${RegExp.escape(name)}(?![\\p{L}\\p{N}])',
+        unicode: true,
+      ).allMatches(text)) {
+        if (found.any((f) => m.start < f.$2 && f.$1 < m.end)) continue;
+        found.add((m.start, m.end, title));
+        named.add(title);
+        break;
+      }
+    }
+    found.sort((x, y) => x.$1 - y.$1);
+    final spans = <InlineSpan>[];
+    var at = 0;
+    for (final (start, end, title) in found) {
+      if (start > at) spans.add(TextSpan(text: text.substring(at, start)));
+      final tap = TapGestureRecognizer()..onTap = () => _open(title);
+      _taps.add(tap);
+      spans.add(
+        TextSpan(
+          text: text.substring(start, end),
+          style: _link,
+          recognizer: tap,
+        ),
+      );
+      at = end;
+    }
+    if (at < text.length) spans.add(TextSpan(text: text.substring(at)));
+    return spans;
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    final a = widget.article;
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.stretch,
+      children: [
+        for (final p in _paragraphs)
+          Padding(
+            padding: const EdgeInsets.only(bottom: 12),
+            child: Text.rich(TextSpan(children: p), style: wikiBodyStyle),
+          ),
+        if (a.links.isNotEmpty) ...[
+          const Padding(
+            padding: EdgeInsets.only(top: 4, bottom: 2),
+            child: Text('External links', style: _heading),
+          ),
+          for (final (url, label) in a.links)
+            ListTile(
+              dense: true,
+              contentPadding: EdgeInsets.zero,
+              leading: const Icon(Icons.language_rounded, size: 20),
+              title: Text(label.isEmpty ? url : label),
+              subtitle: Text(
+                Uri.tryParse(url)?.host ?? url,
+                style: const TextStyle(color: Colors.white54, fontSize: 12),
+              ),
+              onTap: () => openLink(context, url),
+            ),
+        ],
+        if (_others.isNotEmpty) ...[
+          const Padding(
+            padding: EdgeInsets.only(top: 12, bottom: 6),
+            child: Text('Related', style: _heading),
+          ),
+          Wrap(
+            spacing: 6,
+            runSpacing: 6,
+            children: [
+              for (final t in _others.take(16))
+                ActionChip(
+                  visualDensity: VisualDensity.compact,
+                  label: Text(t),
+                  onPressed: () => _open(t),
+                ),
+            ],
+          ),
+        ],
+      ],
+    );
+  }
 }

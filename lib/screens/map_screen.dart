@@ -14,6 +14,7 @@ import '../data/wiki_place_repository.dart';
 import '../models/story.dart';
 import '../widgets/event_details.dart';
 import '../widgets/person_sheet.dart';
+import '../widgets/wiki_widgets.dart' show WikiArticleView;
 import 'story_screen.dart';
 
 /// Historical tourism: events, stories and, with the offline Wikipedia,
@@ -750,24 +751,14 @@ class _PlaceSheetState extends State<_PlaceSheet> {
                 child: Center(child: CircularProgressIndicator()),
               );
             }
-            final lead = snap.data?.lead.trim() ?? '';
-            if (lead.isEmpty) {
+            final a = snap.data;
+            if (a == null || a.lead.trim().isEmpty) {
               return const Text(
                 'This article is not in the offline Wikipedia.',
                 style: _body,
               );
             }
-            return Column(
-              crossAxisAlignment: CrossAxisAlignment.stretch,
-              children: [
-                for (final p in lead.split('\n'))
-                  if (p.trim().isNotEmpty)
-                    Padding(
-                      padding: const EdgeInsets.only(bottom: 12),
-                      child: Text(p.trim(), style: _body),
-                    ),
-              ],
-            );
+            return WikiArticleView(article: a, wiki: widget.wiki!);
           },
         )
       else
@@ -782,14 +773,6 @@ class _PlaceSheetState extends State<_PlaceSheet> {
         'Text from Wikipedia (CC BY-SA 4.0); place from Wikidata, Wikipedia '
         'and GeoNames.',
         style: note,
-      ),
-      Align(
-        alignment: Alignment.centerLeft,
-        child: TextButton.icon(
-          onPressed: () => openLink(context, w.url),
-          icon: const Icon(Icons.open_in_new_rounded, size: 16),
-          label: const Text('Whole article on wikipedia.org'),
-        ),
       ),
     ];
   }
